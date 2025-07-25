@@ -205,5 +205,5 @@ __marimo__/
 
 # Local development environment files
 .env
-playground/*
-!playground/.gitkeep
+experiments/*
+!experiments/.gitkeep
