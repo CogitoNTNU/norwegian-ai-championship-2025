@@ -1,4 +1,5 @@
 # Previous Experiences and Strengths
+
 *This document outlines the previous experiences and strengths of the team members involved in the Norwegian AI Championship 2025. Write about what experiences you have that can be of use for this competition:*
 
 ## Afras Mansoor
@@ -28,4 +29,3 @@
 ## Tobias Fremming
 
 ## Thomas Sørensen
-
