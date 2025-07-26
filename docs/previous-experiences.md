@@ -10,6 +10,7 @@ _This document outlines the previous experiences and strengths of the team membe
 - Azure
 - Vibe-coding
 - Såvidt opencv
+- Idun (har ssh tilgang til server, laget noen sbatch scripts)
 
 ## Alice Zheng
 
@@ -24,12 +25,13 @@ _This document outlines the previous experiences and strengths of the team membe
 ## Jessica Liu
 
 ## Ludvig Øvrevik
- - Datasyn (YOLO)
- - Reinforcement Learning
- - Evolusjonære nettverk (NEAT)
- - Optuna (optimization library)
- - IDUN (Har ssh tilgang til server)
- - (Python, SQL, Docker, C, Java, React, TypeScript)
+
+- Datasyn (YOLO)
+- Reinforcement Learning
+- Evolusjonære nettverk (NEAT)
+- Optuna (optimization library)
+- IDUN (Har ssh tilgang til server)
+- (Python, SQL, Docker, C, Java, React, TypeScript)
 
 ## Maia Austigard
 
