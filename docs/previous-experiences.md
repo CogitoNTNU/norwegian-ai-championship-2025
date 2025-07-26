@@ -15,9 +15,21 @@ _This document outlines the previous experiences and strengths of the team membe
 
 ## Brage Kvamme
 
+- LLM API
+- Datasyn (YOLO)
+- IDUN
+- RL - DQN, Double-DQN, AlphaZero, MuZero. Will research other methods.
+- Will use Vision mamba in Master's thesis.
+
 ## Jessica Liu
 
 ## Ludvig Øvrevik
+ - Datasyn (YOLO)
+ - Reinforcement Learning
+ - Evolusjonære nettverk (NEAT)
+ - Optuna (optimization library)
+ - IDUN (Har ssh tilgang til server)
+ - (Python, SQL, Docker, C, Java, React, TypeScript)
 
 ## Maia Austigard
 
