@@ -8,13 +8,11 @@ _This document outlines the previous experiences and strengths of the team membe
 
 ## Brage Kvamme
 
-Previous experience in RL (DQN, Double-DQN, AlphaZero, MuZero, ...).
-Will check out other methods of RL.
-
-Will be writing Master's thesis in computer vision (Vision Mamba, not bounding box!).
-Have used YOLO, but am not an expert.
-
-Experience with IDUN.
+- LLM API
+- Datasyn (YOLO)
+- IDUN
+- RL - DQN, Double-DQN, AlphaZero, MuZero. Will research other methods.
+- Will use Vision mamba in Master's thesis.
 
 ## Jessica Liu
 
@@ -37,6 +35,7 @@ Experience with IDUN.
 ## Tobias Fremming
 
 ## Thomas Sørensen
+
 - LLM Agenter
 - MCP
 - RAG (RAG-evals)
