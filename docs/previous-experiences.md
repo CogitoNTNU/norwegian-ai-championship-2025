@@ -29,3 +29,9 @@
 ## Tobias Fremming
 
 ## Thomas Sørensen
+- LLM Agenter
+- MCP
+- RAG (RAG-evals)
+- Anbefalingsystemer
+- Datasyn (to hackaton med pallplasering)
+- Pandas, Feature enginering, Clustering, Regresjon
