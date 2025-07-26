@@ -1,12 +1,18 @@
 # Previous Experiences and Strengths
 
-*This document outlines the previous experiences and strengths of the team members involved in the Norwegian AI Championship 2025. Write about what experiences you have that can be of use for this competition:*
+_This document outlines the previous experiences and strengths of the team members involved in the Norwegian AI Championship 2025. Write about what experiences you have that can be of use for this competition:_
 
 ## Afras Mansoor
 
 ## Alice Zheng
 
 ## Brage Kvamme
+
+- LLM API
+- Datasyn (YOLO)
+- IDUN
+- RL - DQN, Double-DQN, AlphaZero, MuZero. Will research other methods.
+- Will use Vision mamba in Master's thesis.
 
 ## Jessica Liu
 
@@ -35,6 +41,7 @@
 ## Tobias Fremming
 
 ## Thomas Sørensen
+
 - LLM Agenter
 - MCP
 - RAG (RAG-evals)
