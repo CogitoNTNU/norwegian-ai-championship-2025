@@ -11,6 +11,12 @@
 ## Jessica Liu
 
 ## Ludvig Øvrevik
+ - Datasyn (YOLO)
+ - Reinforcement Learning
+ - Evolusjonære nettverk (NEAT)
+ - Optuna (optimization library)
+ - IDUN (Har ssh tilgang til server)
+ - (Python, SQL, Docker, C, Java, React, TypeScript)
 
 ## Maia Austigard
 
