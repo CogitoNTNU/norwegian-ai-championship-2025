@@ -153,8 +153,6 @@ source = { virtual = "." }
 [package.dev-dependencies]
 dev = [
     { name = "pre-commit" },
-]
-test = [
     { name = "pytest" },
     { name = "pytest-cov" },
 ]
@@ -162,8 +160,8 @@ test = [
 [package.metadata]
 
 [package.metadata.requires-dev]
-dev = [{ name = "pre-commit", specifier = ">=4.2.0" }]
-test = [
+dev = [
+    { name = "pre-commit", specifier = ">=4.2.0" },
     { name = "pytest", specifier = ">=8.4.1" },
     { name = "pytest-cov", specifier = ">=6.2.1" },
 ]

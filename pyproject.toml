@@ -9,12 +9,9 @@ dependencies = []
 [dependency-groups]
 dev = [
     "pre-commit>=4.2.0",
-]
-test = [
     "pytest>=8.4.1",
     "pytest-cov>=6.2.1",
 ]
-
 
 [tool.commitizen]
 name = "cz_conventional_commits"
