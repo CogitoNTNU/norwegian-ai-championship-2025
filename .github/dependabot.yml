@@ -2,7 +2,7 @@ version: 2
 
 updates:
   - package-ecosystem: "uv"
-    directory: "/src"
+    directory: "/"
     schedule:
       interval: "weekly"
     commit-message:
