@@ -1,0 +1,14 @@
+version: 2
+
+updates:
+  - package-ecosystem: "uv"
+    directory: "/src"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "dependency: "
+      include: "scope"
+    open-pull-requests-limit: 15
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
