@@ -11,6 +11,8 @@ load_dotenv()
 
 app = FastAPI()
 app.include_router(task1_router)
+app.include_router(task2_router)
+app.include_router(task3_router)
 
 app.add_middleware(
     CORSMiddleware,
