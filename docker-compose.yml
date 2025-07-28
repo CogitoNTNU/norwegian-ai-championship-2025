@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  dev:
+    build:
+      context: .
+      dockerfile: .devcontainer/Dockerfile
+    container_name: norwegian-ai-championship-2025-dev
+    volumes:
+      - .:/workspaces/norwegian-ai-championship-2025:cached
+      - .venv:/workspaces/.venv:cached
+    working_dir: /workspaces/norwegian-ai-championship-2025
+    environment:
+      - PYTHONPATH=/workspaces/norwegian-ai-championship-2025
+      - PYTHONUNBUFFERED=1
+    ports:
+      - "8000:8000"  # For web applications
+      - "8888:8888"  # For Jupyter notebooks
+    stdin_open: true
+    tty: true
+    command: /bin/bash 

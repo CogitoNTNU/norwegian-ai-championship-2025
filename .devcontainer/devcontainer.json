@@ -1,0 +1,57 @@
+{
+    "name": "Norwegian AI Championship 2025",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    
+    "features": {
+        "ghcr.io/devcontainers/features/git:1": {},
+        "ghcr.io/devcontainers/features/github-cli:1": {}
+    },
+    
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.black-formatter",
+                "ms-python.flake8",
+                "ms-python.isort",
+                "ms-python.pylint",
+                "ms-python.pytest-adapter",
+                "ms-vscode.vscode-json",
+                "ms-vscode.vscode-yaml",
+                "redhat.vscode-yaml",
+                "streetsidesoftware.code-spell-checker",
+                "yzhang.markdown-all-in-one"
+            ],
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python",
+                "python.linting.enabled": true,
+                "python.linting.pylintEnabled": true,
+                "python.formatting.provider": "black",
+                "python.sortImports.args": ["--profile", "black"],
+                "editor.formatOnSave": true,
+                "editor.codeActionsOnSave": {
+                    "source.organizeImports": true
+                },
+                "files.exclude": {
+                    "**/__pycache__": true,
+                    "**/*.pyc": true,
+                    "**/.pytest_cache": true,
+                    "**/.coverage": true
+                }
+            }
+        }
+    },
+    
+    "postCreateCommand": "pip install --upgrade pip && pip install -e .[dev]",
+    
+    "remoteUser": "vscode",
+    
+    "mounts": [
+        "source=${localWorkspaceFolder}/.venv,target=/workspaces/.venv,type=bind,consistency=cached"
+    ],
+    
+    "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/norwegian-ai-championship-2025,type=bind,consistency=cached",
+    "workspaceFolder": "/workspaces/norwegian-ai-championship-2025"
+}
