@@ -55,7 +55,8 @@ nav:
   - Home: index.md
   - Team: previous-experiences.md
   - Data:
-      - Data Overview: ../data/readme.md
+      - Data Guild: data.md
+      - Data External Sources: data-sources.md
   - API Reference: reference/
 
 plugins:
