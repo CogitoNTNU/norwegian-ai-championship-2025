@@ -208,3 +208,6 @@ __marimo__/
 .env
 experiments/*
 !experiments/.gitkeep
+
+# Generated files
+requirements.txt
