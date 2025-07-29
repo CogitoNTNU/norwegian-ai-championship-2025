@@ -83,7 +83,9 @@ plugins:
             summary: true
   - api-autonav:
       modules: ['src/']
-      module_options: {}
+      module_options:
+        package.submodule:
+          docstring_style: google
       nav_section_title: "API Reference"
       api_root_uri: "reference"
       nav_item_prefix: "<code class='doc-symbol doc-symbol-nav doc-symbol-module'></code>"
