@@ -48,6 +48,7 @@ _This document outlines the previous experiences and strengths of the team membe
 ## Serina Erzengin
 
 ## Tobias Fremming
+
 - Genetiske algoritmer
 - Swarm intelligence
 - Natural language processing med spacy

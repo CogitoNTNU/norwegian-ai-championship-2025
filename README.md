@@ -26,6 +26,10 @@ This repository contains the code and documentation for Cogito NTNU's submission
    uv run pre-commit install
    ```
    Ensures code quality checks (linting, formatting, safety) run before every commit.
+1. Copy the `.env.example` file to `.env` and fill in the required environment variables:
+   ```bash
+   cp .env.example .env
+   ```
 
 ## � Managing Dependencies with UV
 
