@@ -3,11 +3,11 @@
 This repository contains the code and documentation for Cogito NTNU's submissions to the Norwegian AI Championship 2025.
 
 ## 🔎 5 questions to have on repeat
-   •	What is the fastest experiment I can run right now to learn the most?
-	•	What’s the simplest model that gets me 70% there?
-	•	Where could I be overfitting without noticing?
-	•	Can I visualize the error? (Wrong classification, wrong mask, off-center detection?)
-	•	Am I using all available metadata (e.g., timestamps, IDs, contextual hints)?
+- What is the fastest experiment I can run right now to learn the most?
+- What’s the simplest model that gets me 70% there?
+- Where could I be overfitting without noticing?
+- Can I visualize the error? (Wrong classification, wrong mask, off-center detection?)
+- Am I using all available metadata (e.g., timestamps, IDs, contextual hints)?
 
 
 ## 🛠️ Pre-requisites
