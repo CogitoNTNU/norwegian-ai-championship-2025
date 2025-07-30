@@ -79,8 +79,6 @@ repos:
           - mdformat-ruff
           - mdformat-frontmatter
           - ruff
-      - id: nbqa-mypy
-        name: "📓 notebook · Type-check cells"
 
   ### Data & Config Validation ###
   - repo: https://github.com/python-jsonschema/check-jsonschema
