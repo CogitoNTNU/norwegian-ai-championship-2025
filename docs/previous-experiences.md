@@ -47,6 +47,21 @@ _This document outlines the previous experiences and strengths of the team membe
 
 ## Serina Erzengin
 
+- Pandas, Matplotlib
+- Feature engineering
+- Azure
+- RAG
+- NLP og tekstbehandling
+- clustering og dimensjonsreduksjon
+- Bio AI
+- Hyperparameter-tuning
+- Agenter
+- Datasyn (litt)
+- Anbefalingsystemer (Collaborative Filtering, Content-Based, Hybrid)
+- Nevrale nettverk
+- Evalueringsmetrikker (Accuracy, Precision, Recall, F1-score, AUC)
+- Frontend (hvis det trengs)
+
 ## Tobias Fremming
 
 - Genetiske algoritmer
@@ -64,3 +79,5 @@ _This document outlines the previous experiences and strengths of the team membe
 - Anbefalingsystemer
 - Datasyn (to hackaton med pallplasering)
 - Pandas, Feature enginering, Clustering, Regresjon
+- Evalueringsmetrikker (Accuracy, Precision, Recall, F1-score, AUC)
+- Frontend (hvis det trengs)
