@@ -3,12 +3,12 @@
 This repository contains the code and documentation for Cogito NTNU's submissions to the Norwegian AI Championship 2025.
 
 ## 🔎 5 questions to have on repeat
+
 - What is the fastest experiment I can run right now to learn the most?
 - What’s the simplest model that gets me 70% there?
 - Where could I be overfitting without noticing?
 - Can I visualize the error? (Wrong classification, wrong mask, off-center detection?)
 - Am I using all available metadata (e.g., timestamps, IDs, contextual hints)?
-
 
 ## 🛠️ Pre-requisites
 
@@ -103,6 +103,16 @@ uv sync
 ```
 
 > **Note**: All dependency changes are automatically reflected in `pyproject.toml` and `uv.lock`. You don't need to manually edit these files.
+
+## Generate Documentation Site
+
+To build and preview the documentation site locally, run:
+
+```bash
+uv run mkdocs build; uv run mkdocs serve
+```
+
+This will build the documentation and starts a local server at [http://127.0.0.1:8000/](http://127.0.0.1:8000/) where you can browse the docs and API reference.
 
 ## �📚 Documentation
 
