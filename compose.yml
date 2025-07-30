@@ -1,6 +1,4 @@
 services:
-
-
   # Grafana Monitoring Stack
   prometheus:
     image: prom/prometheus:latest
