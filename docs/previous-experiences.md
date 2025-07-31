@@ -39,6 +39,10 @@ _This document outlines the previous experiences and strengths of the team membe
 
 ## Mina Aldolami
 
+- Datasyn (YOLO, OpenCV)
+- Kaggle courses (Intro to Machine learning, intro to deep learning, computer vision)
+- Python, C++ and C
+
 ## Sebastian Riibe Berthelsen
 
 ## Simon Sandvik Lee
