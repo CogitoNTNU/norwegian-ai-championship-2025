@@ -39,11 +39,33 @@ _This document outlines the previous experiences and strengths of the team membe
 
 ## Mina Aldolami
 
+- Datasyn (YOLO, OpenCV)
+- Kaggle courses (Intro to Machine learning, intro to deep learning, computer vision)
+- Python, C++ and C
+
 ## Sebastian Riibe Berthelsen
 
 ## Simon Sandvik Lee
 
 ## Sverre Nystad
+
+- Hyperparameter tuning (Optuna, Ray Tune, grid search, random search)
+- Computer Vision (YOLO+Albumentations for OBB Detect Classify and Pose tasks, LeNet-5, AlexNet, Faster-RCNN, CNNs, some OpenCV it is hard ;(, TesseractOCR) Must read on U-Net
+- Audio Transformers (Wav2Vec, finetuning Whisper, SpeechT5, ASR) basically CV but on sound xD
+- Supervised Learning (Transformers, MLPs, sklearn Decision Trees, Random Forests, XGBoost, LightGBM, CatBoost, SVMs, RNN, Logistic Regression)
+- Automated Machine Learning (AutoGluon, H2O, bad experience with AutoKeras)
+- Time Series Forecasting (ARIMA, Prophet by meta, LSTM)
+- Genetic Algorithms (Simple GA and Swarm Intelligence)
+- Unsupervised Learning (K-means++, PCA, t-SNE)
+- Recommender Systems (Collaborative Filtering using Autoencoders)
+- Reinforcement Learning (Q Learning, DQN, PPO, SAC, AlphaZero, MuZero)
+- NLP: Spacy, sentence-transformers, NLTK, HuggingFace
+- MLOps (Distributed computing with Ray, Weights & Biases)
+- LLMs RAG and Agents: LangChain, LangGraph (Hybrid, CRAG, Reflexion, Query Expansion...), LangSmith, Ollama, RAGAS \<3
+- HPC: IDUN, Slurm
+- Containerization and orchestration: Docker, Kubernetes Helm Charts
+- API Development (FastAPI, Flask, Django for python)
+- Cloud: Cloudflare, Azure
 
 ## Serina Erzengin
 
