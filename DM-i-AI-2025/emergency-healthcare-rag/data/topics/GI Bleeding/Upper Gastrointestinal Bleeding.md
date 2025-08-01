@@ -404,7 +404,7 @@ Care of patients with gastrointestinal bleeding requires coordinated and efficie
 
 #### [Figure](/books/NBK537291/figure/article-22101.image.f1/?report=objectonly)
 
-Sengstaken–Blakemore tube Olek Remesz (wiki-pl: Orem, commons: Orem) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons
+Sengstaken–Blakemore tube Olek Remesz (wiki-pl: Orem, commons: Orem) \[CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons
 
 ## References
 

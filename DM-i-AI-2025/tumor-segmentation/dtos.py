@@ -1,5 +1,6 @@
 from pydantic import BaseModel
 
+
 class TumorPredictRequestDto(BaseModel):
     img: str
 

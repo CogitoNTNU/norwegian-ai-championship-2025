@@ -186,7 +186,7 @@ The outcomes of patients with dilated cardiomyopathy depend on the cause, ejecti
 
 #### [Figure](/books/NBK441911/figure/article-18918.image.f1/?report=objectonly)
 
-Cardiac Dilated Cardiomyopathy Blausen.com staff. Medical Gallery of Blausen Medical 2014. _WikiJournal of Medicine._ doi: 10.15347/wjm/2014.010. ISSN 2002-4436. [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)] via Wikimedia Commons. [(more...)](/books/NBK441911/figure/article-18918.image.f1/?report=objectonly)
+Cardiac Dilated Cardiomyopathy Blausen.com staff. Medical Gallery of Blausen Medical 2014. _WikiJournal of Medicine._ doi: 10.15347/wjm/2014.010. ISSN 2002-4436. \[CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)] via Wikimedia Commons. [(more...)](/books/NBK441911/figure/article-18918.image.f1/?report=objectonly)
 
 ## References
 

@@ -2,13 +2,14 @@ import logging
 
 from fastapi.applications import FastAPI
 from loguru import logger
-from utilities.logging.handlers import (LoggingIntercepter,
-                                        http_request_logging_middleware)
-from utilities.logging.sinks import (add_custom_sink, add_file_sink,
-                                     add_terminal_sink)
+from utilities.logging.handlers import (
+    LoggingIntercepter,
+    http_request_logging_middleware,
+)
+from utilities.logging.sinks import add_file_sink, add_terminal_sink
 
 
-def _clear_default_logging_handlers(prefix=''):
+def _clear_default_logging_handlers(prefix=""):
     """
     Clears the handlers for all existing loggers.
     Provide a logger prefix to limit the set of loggers
@@ -36,7 +37,7 @@ def initialize_logging():
     # Uvicorn is set up with default loggers.
     # We override them here in order to control how, when, and where
     # uvicorn (and all other) logs are handled.
-    _clear_default_logging_handlers(prefix='uvicorn.')
+    _clear_default_logging_handlers(prefix="uvicorn.")
     _clear_default_loguru_handlers()
 
     # Intercept all uvicorn logs so we can process them as we see fit
@@ -53,7 +54,7 @@ def initialize_logging():
 
     # Arbitrary sinks to process raw log records (for sending to log databases for example)
     # can be configured as such:
-    
+
     # add_custom_sink(logger, lambda record: print(
     #     f'Received raw log record: {record}'
     # ))

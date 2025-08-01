@@ -2,6 +2,7 @@ import random
 
 rng = None  # Global random number generator instance
 
+
 def seed(seed_value: str):
     """
     Seed the random number generator with the given seed value.
@@ -13,8 +14,10 @@ def seed(seed_value: str):
     print(f"Seeded RNG with {seed_value}")
     print(rng)
 
+
 def random_choice(arr):
     return rng.choice(arr)
+
 
 def random_number():
     """

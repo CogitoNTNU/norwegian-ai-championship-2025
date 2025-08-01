@@ -71,13 +71,14 @@ We have implemented a simple threshold baseline model in `example.py` along with
 
 ```python
 def predict(img: np.ndarray) -> np.ndarray:
-    logger.info(f'Received image: {img.shape}')
+    logger.info(f"Received image: {img.shape}")
     threshold = 50
-    segmentation = get_threshold_segmentation(img,threshold)
+    segmentation = get_threshold_segmentation(img, threshold)
     return segmentation
 
-def get_threshold_segmentation(img:np.ndarray, threshold:int) -> np.ndarray:
-    return (img < threshold).astype(np.uint8)*255    
+
+def get_threshold_segmentation(img: np.ndarray, threshold: int) -> np.ndarray:
+    return (img < threshold).astype(np.uint8) * 255
 ```
 
 To use your own model, simply replace the call to `get_threshold_segmentation` with a call to the inference function of your model.

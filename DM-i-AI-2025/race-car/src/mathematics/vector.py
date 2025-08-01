@@ -1,6 +1,7 @@
 import math
 from typing import List
 
+
 class Vector:
     def __init__(self, x: float = 0, y: float = 0):
         """
@@ -104,7 +105,7 @@ class Vector:
         radians = math.radians(degrees)
         return Vector(
             math.cos(radians) * self.x - math.sin(radians) * self.y,
-            math.sin(radians) * self.x + math.cos(radians) * self.y
+            math.sin(radians) * self.x + math.cos(radians) * self.y,
         )
 
     def distance(self, v):

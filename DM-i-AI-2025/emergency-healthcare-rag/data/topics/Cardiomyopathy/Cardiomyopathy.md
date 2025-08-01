@@ -198,7 +198,7 @@ The mainstay of management is providing support, resources including but not lim
 
 #### [Figure](/books/NBK513322/figure/article-18916.image.f1/?report=objectonly)
 
-Cardiac Dilated Cardiomyopathy Blausen.com staff. Medical Gallery of Blausen Medical 2014. _WikiJournal of Medicine._ doi: 10.15347/wjm/2014.010. ISSN 2002-4436. [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)] via Wikimedia Commons. [(more...)](/books/NBK513322/figure/article-18916.image.f1/?report=objectonly)
+Cardiac Dilated Cardiomyopathy Blausen.com staff. Medical Gallery of Blausen Medical 2014. _WikiJournal of Medicine._ doi: 10.15347/wjm/2014.010. ISSN 2002-4436. \[CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)] via Wikimedia Commons. [(more...)](/books/NBK513322/figure/article-18916.image.f1/?report=objectonly)
 
 ## References
 

@@ -10,7 +10,9 @@ print(f"True answer: {true_answer}")
 # Make prediction
 statement_is_true, statement_topic = predict(statement)
 
-print(f"Predicted: statement_is_true={statement_is_true}, statement_topic={statement_topic}")
+print(
+    f"Predicted: statement_is_true={statement_is_true}, statement_topic={statement_topic}"
+)
 
 # Check accuracy
 true_correct = statement_is_true == true_answer["statement_is_true"]

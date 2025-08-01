@@ -1,13 +1,18 @@
 import pygame
 from ..mathematics.vector import Vector  # Assuming a Vector class exists
-from typing import List, Optional
-from ..mathematics.collision import get_intersection_point, get_lines_of_rectangle  # Assuming collision utilities exist
+from typing import Optional
+from ..mathematics.collision import (
+    get_intersection_point,
+    get_lines_of_rectangle,
+)  # Assuming collision utilities exist
 from .car import Car  # Assuming a Car class exists
+
 
 class Line:
     def __init__(self, start, end):
         self.start = start
         self.end = end
+
 
 class Sensor:
     def __init__(self, car: Car, angle: float, name: str, state):
@@ -44,14 +49,13 @@ class Sensor:
         """
         Update the sensor's position, visibility, and reading.
         """
-        # Update visibility based on global state
-        visible = self.state.sensors_enabled
-
         # Update position
         car_rect = self.car.get_bounds()
         car_center = Vector(car_rect.centerx, car_rect.centery)
         self.beam_start = (car_center.x, car_center.y)
-        sensor_beam_end = car_center.add(Vector(0, -self.sensor_strength).rotate(self.degrees))
+        sensor_beam_end = car_center.add(
+            Vector(0, -self.sensor_strength).rotate(self.degrees)
+        )
         self.beam_end = (sensor_beam_end.x, sensor_beam_end.y)
 
         # Reset reading
@@ -65,7 +69,9 @@ class Sensor:
             if car == self.state.ego:
                 continue
             bounds = car.get_bounds()
-            reading = self.get_sensor_reading_for_bounding_box(bounds, sensor_line, car_center)
+            reading = self.get_sensor_reading_for_bounding_box(
+                bounds, sensor_line, car_center
+            )
             if reading is not None and 0 <= reading <= self.sensor_strength:
                 if min_reading is None or reading < min_reading:
                     min_reading = reading
@@ -73,7 +79,9 @@ class Sensor:
         # Sense walls
         for wall in self.state.road.walls:
             bounds = wall.get_bounds()
-            reading = self.get_sensor_reading_for_bounding_box(bounds, sensor_line, car_center)
+            reading = self.get_sensor_reading_for_bounding_box(
+                bounds, sensor_line, car_center
+            )
             if reading is not None and 0 <= reading <= self.sensor_strength:
                 if min_reading is None or reading < min_reading:
                     min_reading = reading
@@ -86,7 +94,9 @@ class Sensor:
         else:
             self.text = ""
 
-    def get_sensor_reading_for_bounding_box(self, bb: pygame.Rect, sensor_line: dict, car_center: Vector) -> Optional[float]:
+    def get_sensor_reading_for_bounding_box(
+        self, bb: pygame.Rect, sensor_line: dict, car_center: Vector
+    ) -> Optional[float]:
         """
         Calculate the sensor reading for a bounding box.
 
@@ -111,12 +121,24 @@ class Sensor:
         """
         if self.state.sensors_enabled:
             # Draw the beam
-            pygame.draw.line(surface, self.sensor_color, self.beam_start, self.beam_end, self.sensor_width)
+            pygame.draw.line(
+                surface,
+                self.sensor_color,
+                self.beam_start,
+                self.beam_end,
+                self.sensor_width,
+            )
 
             # Draw the text at 30% along the beam
             if self.text:
                 font = pygame.font.SysFont("monospace", 16)
-                text_surface = font.render(self.text, True, (255, 255, 255))  # White text
-                text_x = self.beam_start[0] + 0.3 * (self.beam_end[0] - self.beam_start[0])
-                text_y = self.beam_start[1] + 0.3 * (self.beam_end[1] - self.beam_start[1])
+                text_surface = font.render(
+                    self.text, True, (255, 255, 255)
+                )  # White text
+                text_x = self.beam_start[0] + 0.3 * (
+                    self.beam_end[0] - self.beam_start[0]
+                )
+                text_y = self.beam_start[1] + 0.3 * (
+                    self.beam_end[1] - self.beam_start[1]
+                )
                 surface.blit(text_surface, (text_x, text_y))

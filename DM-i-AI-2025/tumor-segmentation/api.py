@@ -2,7 +2,7 @@ import uvicorn
 import time
 import datetime
 import numpy as np
-from fastapi import Body, FastAPI
+from fastapi import FastAPI
 from dtos import TumorPredictRequestDto, TumorPredictResponseDto
 from example import predict
 from utils import validate_segmentation, encode_request, decode_request
@@ -15,9 +15,9 @@ PORT = 9051
 app = FastAPI()
 start_time = time.time()
 
-@app.post('/predict', response_model=TumorPredictResponseDto)
-def predict_endpoint(request: TumorPredictRequestDto):
 
+@app.post("/predict", response_model=TumorPredictResponseDto)
+def predict_endpoint(request: TumorPredictRequestDto):
     # Decode request str to numpy array
     img: np.ndarray = decode_request(request)
 
@@ -31,31 +31,22 @@ def predict_endpoint(request: TumorPredictRequestDto):
     encoded_segmentation = encode_request(predicted_segmentation)
 
     # Return the encoded segmentation to the validation/evalution service
-    response = TumorPredictResponseDto(
-        img=encoded_segmentation
-    )
+    response = TumorPredictResponseDto(img=encoded_segmentation)
     return response
 
 
-@app.get('/api')
+@app.get("/api")
 def hello():
     return {
         "service": "race-car-usecase",
-        "uptime": '{}'.format(datetime.timedelta(seconds=time.time() - start_time))
+        "uptime": "{}".format(datetime.timedelta(seconds=time.time() - start_time)),
     }
 
 
-@app.get('/')
+@app.get("/")
 def index():
     return "Your endpoint is running!"
 
 
-
-
-if __name__ == '__main__':
-
-    uvicorn.run(
-        'api:app',
-        host=HOST,
-        port=PORT
-    )
+if __name__ == "__main__":
+    uvicorn.run("api:app", host=HOST, port=PORT)

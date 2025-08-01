@@ -18,8 +18,9 @@ def add_file_sink(logger: logger, filename="emily.log", rotation="5 MB"):
     Adds a log sink with a file as the destination.
     By default, the log file is rotated with a max file size of 5 MB.
     """
-    logger.add(filename, level=logging.DEBUG,
-               format=single_line_format, rotation=rotation)
+    logger.add(
+        filename, level=logging.DEBUG, format=single_line_format, rotation=rotation
+    )
 
 
 def add_custom_sink(logger: logger, sink: Any):

@@ -12,33 +12,27 @@ PORT = 9052
 app = FastAPI()
 start_time = time.time()
 
-@app.post('/predict', response_model=RaceCarPredictResponseDto)
+
+@app.post("/predict", response_model=RaceCarPredictResponseDto)
 def predict(request: RaceCarPredictRequestDto = Body(...)):
     action = return_action(request.dict())
     return RaceCarPredictResponseDto(
-        action_type=action['action_type'],
-        actions=action['actions']
+        action_type=action["action_type"], actions=action["actions"]
     )
 
-@app.get('/api')
+
+@app.get("/api")
 def hello():
     return {
         "service": "race-car-usecase",
-        "uptime": '{}'.format(datetime.timedelta(seconds=time.time() - start_time))
+        "uptime": "{}".format(datetime.timedelta(seconds=time.time() - start_time)),
     }
 
 
-@app.get('/')
+@app.get("/")
 def index():
     return "Your endpoint is running!"
 
 
-
-
-if __name__ == '__main__':
-
-    uvicorn.run(
-        'api:app',
-        host=HOST,
-        port=PORT
-    )
+if __name__ == "__main__":
+    uvicorn.run("api:app", host=HOST, port=PORT)

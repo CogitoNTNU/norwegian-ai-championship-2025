@@ -48,24 +48,24 @@ Sensor output is your information from the game. There are 8 sensors on the car,
 
 **List of Sensors (angle, name):**
 
-| Angle | Name |
-|---------|--------------------|
-| 0 | left_side |
-| 22.5 | left_side_front |
-| 45 | left_front |
-| 67.5 | front_left_front |
-| 90 | front |
+| Angle | Name              |
+| ----- | ----------------- |
+| 0     | left_side         |
+| 22.5  | left_side_front   |
+| 45    | left_front        |
+| 67.5  | front_left_front  |
+| 90    | front             |
 | 112.5 | front_right_front |
-| 135 | right_front |
-| 157.5 | right_side_front |
-| 180 | right_side |
-| 202.5 | right_side_back |
-| 225 | right_back |
-| 247.5 | back_right_back |
-| 270 | back |
-| 292.5 | back_left_back |
-| 315 | left_back |
-| 337.5 | left_side_back |
+| 135   | right_front       |
+| 157.5 | right_side_front  |
+| 180   | right_side        |
+| 202.5 | right_side_back   |
+| 225   | right_back        |
+| 247.5 | back_right_back   |
+| 270   | back              |
+| 292.5 | back_left_back    |
+| 315   | left_back         |
+| 337.5 | left_side_back    |
 
 Each sensor is positioned at the specified angle (in degrees) relative to the center of the car and has a reach of 1000 pixels
 
