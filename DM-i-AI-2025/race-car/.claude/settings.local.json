@@ -2,7 +2,15 @@
   "permissions": {
     "allow": [
       "Bash(uv sync:*)",
-      "Bash(uv run:*)"
+      "Bash(uv run:*)",
+      "Bash(mkdir:*)",
+      "Bash(move race_car_env.py ppo_model )",
+      "Bash(move train_ppo.py ppo_model )",
+      "Bash(move ppo_endpoint.py ppo_model)",
+      "Bash(mv:*)",
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(python:*)"
     ],
     "deny": []
   }
