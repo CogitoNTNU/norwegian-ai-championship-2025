@@ -42,6 +42,12 @@ This repository contains the code and documentation for Cogito NTNU's submission
 
    Ensures code quality checks (linting, formatting, safety) run before every commit.
 
+   Can also do this manually by running:
+
+   ```bash
+   uv run pre-commit run --all-files
+   ```
+
 1. Copy the `.env.example` file to `.env` and fill in the required environment variables:
 
    ```bash
