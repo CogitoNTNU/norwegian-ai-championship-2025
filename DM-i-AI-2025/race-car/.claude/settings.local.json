@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
     "allow": [
       "Bash(uv sync:*)",
@@ -10,7 +11,11 @@
       "Bash(mv:*)",
       "Bash(rm:*)",
       "Bash(ls:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(del /Q \"C:\\Users\\light\\Documents\\ntnu\\Hackaton\\norwegian-ai-championship-2025\\DM-i-AI-2025\\race-car\\models\\*.*\")",
+      "Bash(powershell:*)",
+      "Bash(find:*)"
     ],
     "deny": []
   }

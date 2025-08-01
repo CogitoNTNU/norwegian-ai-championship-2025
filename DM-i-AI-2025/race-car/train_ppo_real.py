@@ -5,6 +5,7 @@ from stable_baselines3.common.env_util import make_vec_env
 from stable_baselines3.common.callbacks import (
     EvalCallback,
     StopTrainingOnRewardThreshold,
+    BaseCallback,
 )
 from stable_baselines3.common.monitor import Monitor
 import torch
@@ -28,6 +29,8 @@ class RealRaceCarEnv(gym.Env):
         self.headless = headless
         self.max_steps = 3600  # 60 seconds at 60 FPS
         self.current_step = 0
+        self.crashed_steps = 0  # Steps since crash
+        self.max_crashed_steps = 75  # Continue for 60 steps after crash (1 second)
 
         # Initialize pygame (required for asset loading)
         pygame.init()
@@ -52,8 +55,18 @@ class RealRaceCarEnv(gym.Env):
 
         # Use the actual game initialization
         initialize_game_state("dummy_url", self.seed_value)
+
+        # Match real game experience: start with empty road, normal speed
+        # Don't spawn traffic immediately - let it build up naturally
+        core.STATE.cars = [core.STATE.ego]  # Only ego car initially
+
         self.current_step = 0
+        self.crashed_steps = 0  # Reset crash counter
         self._last_distance = core.STATE.distance
+
+        # Initialize tracking variables for aggressive driving rewards
+        self._following_steps = 0
+        self._last_y = core.STATE.ego.y
 
         obs = self._get_observation()
         info = self._get_info()
@@ -66,23 +79,28 @@ class RealRaceCarEnv(gym.Env):
         # Store crash state before update
         crashed_before = core.STATE.crashed
 
-        # Use the actual game update logic (includes collision detection)
-        update_game(action_str)
-
-        # Check for collisions using the same logic as the actual game
-        self._check_collisions()
+        # If already crashed, don't update game state, just increment crash counter
+        if core.STATE.crashed:
+            self.crashed_steps += 1
+        else:
+            # Use the actual game update logic (includes collision detection)
+            update_game(action_str)
+            # Check for collisions using the same logic as the actual game
+            self._check_collisions()
 
         self.current_step += 1
 
         obs = self._get_observation()
         reward = self._calculate_reward(crashed_before)
-        terminated = core.STATE.crashed
+
+        # Only terminate after agent has experienced crash penalty for several steps
+        terminated = core.STATE.crashed and self.crashed_steps >= self.max_crashed_steps
         truncated = (
             self.current_step >= self.max_steps
         )  # Only truncate after full 60 seconds
         info = self._get_info()
 
-        # Log completion if full race finished without crash
+        # Log completion if full race finished without crash (keep this one)
         if truncated and not terminated:
             print(
                 f"RACE COMPLETED! Full 60 seconds at step {self.current_step}, Distance: {core.STATE.distance:.1f}"
@@ -136,67 +154,183 @@ class RealRaceCarEnv(gym.Env):
                 return
 
     def _calculate_reward(self, crashed_before):
-        """Calculate reward with proper crash detection."""
-        reward = 0.01  # Base survival reward
+        """Calculate reward encouraging aggressive driving and overtaking."""
+        reward = 0.02  # Small base survival reward
+        reward_breakdown = {"survival": 0.02}
 
-        # Distance reward
+        # Progress reward - main driving incentive
+        progress_reward = 0
         if hasattr(self, "_last_distance"):
-            distance_reward = (core.STATE.distance - self._last_distance) / 100.0
-            reward += distance_reward
+            progress_reward = (
+                core.STATE.distance - self._last_distance
+            ) / 100.0  # Smaller but steady
         self._last_distance = core.STATE.distance
 
-        # Speed reward
-        speed = core.STATE.ego.velocity.x
-        if 8 <= speed <= 15:
-            reward += 0.1
-        elif speed > 15:
-            reward += 0.05
-        elif speed < 5:
-            reward -= 0.1
+        reward += progress_reward
+        reward_breakdown["distance"] = progress_reward
 
-        # Lane centering
+        # Gradual speed reward - encourage forward movement
+        speed = core.STATE.ego.velocity.x
+        speed_reward = 0
+        if speed > 15:
+            speed_reward = 0.15  # Small bonus for high speed
+        elif speed > 10:
+            speed_reward = 0.1  # Small bonus for good speed
+        elif speed > 5:
+            speed_reward = 0.05  # Tiny bonus for movement
+        elif speed > 1:
+            speed_reward = -0.01  # Tiny penalty for slow movement
+        else:
+            speed_reward = -0.05  # Small penalty for stopping
+        reward += speed_reward
+        reward_breakdown["speed"] = speed_reward
+
+        # Lane position - only penalize if completely off-road (wall collision territory)
+        lane_reward = 0
         if core.STATE.ego.lane:
             lane_center = (core.STATE.ego.lane.y_start + core.STATE.ego.lane.y_end) / 2
             distance_from_center = abs(core.STATE.ego.y - lane_center)
-            max_lane_deviation = 60
+            max_lane_deviation = 120  # Much more lenient
 
-            if distance_from_center < max_lane_deviation * 0.3:
-                reward += 0.05
-            elif distance_from_center < max_lane_deviation * 0.7:
-                reward += 0.02
-            else:
-                reward -= 0.05
+            # Only penalty for being dangerously close to walls
+            if distance_from_center > max_lane_deviation:
+                lane_reward = -0.05  # Penalty only for dangerous positioning
+        reward += lane_reward
+        reward_breakdown["lane_position"] = lane_reward
 
-        # Collision avoidance
-        min_distance_to_car = float("inf")
+        # Smart collision avoidance and overtaking rewards
+        cars_ahead = 0
+        cars_behind = 0
+        closest_ahead_distance = float("inf")
+        closest_behind_distance = float("inf")
+
         for car in core.STATE.cars:
             if car != core.STATE.ego:
-                distance = abs(car.x - core.STATE.ego.x) + abs(car.y - core.STATE.ego.y)
-                min_distance_to_car = min(min_distance_to_car, distance)
+                x_diff = car.x - core.STATE.ego.x
+                y_diff = abs(car.y - core.STATE.ego.y)
+                total_distance = abs(x_diff) + y_diff
 
-        if min_distance_to_car < 100:
-            reward -= 1.0
-        elif min_distance_to_car < 200:
-            reward -= 0.2
+                # Cars ahead (in front)
+                if x_diff > 0 and x_diff < 300:  # Within reasonable distance ahead
+                    cars_ahead += 1
+                    closest_ahead_distance = min(closest_ahead_distance, total_distance)
 
-        # Crash penalty - only apply when crash just happened
+                # Cars behind
+                elif x_diff < 0 and abs(x_diff) < 200:  # Cars we've passed recently
+                    cars_behind += 1
+                    closest_behind_distance = min(
+                        closest_behind_distance, total_distance
+                    )
+
+        # Removed overtaking reward - focus on basic safe driving first
+        overtaking_reward = (
+            0  # No reward for overtaking until agent learns basic safety
+        )
+        reward += overtaking_reward
+        reward_breakdown["overtaking"] = overtaking_reward
+
+        # Car proximity penalty - discourage getting close to other cars
+        proximity_penalty = 0
+        if cars_ahead > 0 and closest_ahead_distance < 200:
+            # Strong penalty for getting close to other cars
+            if closest_ahead_distance < 100:
+                proximity_penalty = -0.1  # Very close - dangerous
+            elif closest_ahead_distance < 150:
+                proximity_penalty = -0.05  # Close - concerning
+            else:
+                proximity_penalty = -0.02  # Getting close - caution
+        reward += proximity_penalty
+        reward_breakdown["following_penalty"] = (
+            proximity_penalty  # Keep same key for logging
+        )
+
+        # Removed lane changing reward - can encourage dangerous maneuvers
+        lane_change_reward = (
+            0  # No reward for lane changes until basic safety is learned
+        )
+        if hasattr(self, "_last_y"):
+            pass  # Still track position but don't reward changes
+        else:
+            self._last_y = core.STATE.ego.y
+        self._last_y = core.STATE.ego.y
+        reward += lane_change_reward
+        reward_breakdown["lane_change"] = lane_change_reward
+
+        # Smart collision avoidance using sensor data - only care about threats ahead/sides
+        collision_avoidance_reward = 0
+
+        # Get front and side sensor readings (the ones that matter for driving)
+        front_sensors = []
+        side_sensors = []
+
+        for sensor in core.STATE.sensors:
+            if sensor.reading is not None:
+                # Front sensors (ahead of car) - these are the dangerous ones
+                if sensor.name in [
+                    "front",
+                    "front_left_front",
+                    "front_right_front",
+                    "left_front",
+                    "right_front",
+                ]:
+                    front_sensors.append(sensor.reading)
+                # Side sensors (for lane changes) - moderate concern
+                elif sensor.name in [
+                    "left_side",
+                    "right_side",
+                    "left_side_front",
+                    "right_side_front",
+                ]:
+                    side_sensors.append(sensor.reading)
+
+        # Penalize based on closest front obstacle (immediate danger)
+        if front_sensors:
+            min_front_distance = min(front_sensors)
+            if min_front_distance < 50:  # Very close ahead - dangerous
+                collision_avoidance_reward -= 0.1
+            elif min_front_distance < 100:  # Close ahead - concerning
+                collision_avoidance_reward -= 0.05
+            elif min_front_distance < 200:  # Moderately close
+                collision_avoidance_reward -= 0.01
+            elif min_front_distance > 300:  # Good forward clearance
+                collision_avoidance_reward += 0.02  # Small reward for safe driving
+
+        # Moderate penalty for side obstacles (affects lane changes)
+        if side_sensors:
+            min_side_distance = min(side_sensors)
+            if min_side_distance < 60:  # Very close to sides
+                collision_avoidance_reward -= 0.05
+            elif min_side_distance < 120:  # Close to sides
+                collision_avoidance_reward -= 0.02
+
+        reward += collision_avoidance_reward
+        reward_breakdown["collision_avoidance"] = collision_avoidance_reward
+
+        # Crash penalty - apply continuously while crashed
+        crash_penalty = 0
         if core.STATE.crashed and not crashed_before:
-            reward -= 50.0
-            print(
-                f"CRASH DETECTED at step {self.current_step}! Distance: {core.STATE.distance:.1f}"
-            )
+            # Initial crash penalty - noticeable but not overwhelming
+            crash_penalty = -50.0
+        elif core.STATE.crashed:
+            # Continued penalty while staying crashed
+            crash_penalty = 0  # Small continuous penalty
+        reward += crash_penalty
+        reward_breakdown["crash_penalty"] = crash_penalty
 
         # Huge bonus for completing full race without crashing
+        completion_bonus = 0
         if self.current_step >= self.max_steps and not core.STATE.crashed:
-            reward += 1000.0  # Massive completion bonus
-            print(
-                f"RACE COMPLETION BONUS! Full 60 seconds, Distance: {core.STATE.distance:.1f}"
-            )
+            completion_bonus = 1000.0  # Massive completion bonus
+        reward += completion_bonus
+        reward_breakdown["completion_bonus"] = completion_bonus
+
+        # Store reward breakdown for logging
+        self._reward_breakdown = reward_breakdown
 
         return reward
 
     def _get_info(self):
-        return {
+        info = {
             "distance": core.STATE.distance,
             "speed": core.STATE.ego.velocity.x,
             "crashed": core.STATE.crashed,
@@ -208,14 +342,184 @@ class RealRaceCarEnv(gym.Env):
             / 60,  # seconds left
         }
 
+        # Add reward breakdown to info if available
+        if hasattr(self, "_reward_breakdown"):
+            info["reward_breakdown"] = self._reward_breakdown.copy()
+
+        return info
+
     def close(self):
         pass
+
+
+class WandbCallback(BaseCallback):
+    """Custom callback for logging to wandb."""
+
+    def __init__(self, verbose=0):
+        super().__init__(verbose)
+        self.episode_rewards = []
+        self.episode_distances = []
+        self.episode_lengths = []
+        self.episode_crashes = []
+        self.episode_completions = []
+        self.reward_components = {
+            "survival": [],
+            "distance": [],
+            "speed": [],
+            "lane_position": [],
+            "overtaking": [],
+            "following_penalty": [],
+            "lane_change": [],
+            "collision_avoidance": [],
+            "crash_penalty": [],
+            "completion_bonus": [],
+        }
+
+    def _on_step(self) -> bool:
+        # Collect episode data when episodes end
+        if len(self.locals.get("infos", [])) > 0:
+            for info in self.locals["infos"]:
+                if "episode" in info:
+                    # Store episode metrics
+                    self.episode_rewards.append(info["episode"]["r"])
+                    self.episode_lengths.append(info["episode"]["l"])
+
+                # Collect environment metrics from completed episodes
+                if "distance" in info and (
+                    info.get("crashed", False) or info.get("race_completed", False)
+                ):
+                    self.episode_distances.append(info["distance"])
+                    self.episode_crashes.append(int(info["crashed"]))
+                    self.episode_completions.append(int(info["race_completed"]))
+
+                    # Collect crash data for wandb logging (but don't force rollout end)
+
+        # Collect reward breakdown from environments - check all possible env structures
+        if hasattr(self, "training_env"):
+            # Handle vectorized environments
+            if hasattr(self.training_env, "envs"):
+                for env_idx, env in enumerate(self.training_env.envs):
+                    # Check different nesting levels
+                    env_obj = env
+                    if hasattr(env, "env"):
+                        env_obj = env.env
+                    if hasattr(env_obj, "env"):
+                        env_obj = env_obj.env
+
+                    if hasattr(env_obj, "_reward_breakdown"):
+                        for key, value in env_obj._reward_breakdown.items():
+                            if key in self.reward_components:
+                                self.reward_components[key].append(value)
+
+        # Also try to collect from locals (direct environment access)
+        if "infos" in self.locals:
+            for info in self.locals["infos"]:
+                if "reward_breakdown" in info:
+                    for key, value in info["reward_breakdown"].items():
+                        if key in self.reward_components:
+                            self.reward_components[key].append(value)
+
+        # Removed forced rollout termination to allow full crash experience
+        # This ensures the agent learns from the full consequences of crashes
+
+        return True  # Always continue training
+
+    def _on_rollout_end(self) -> None:
+        # Log aggregated metrics at end of each rollout
+        metrics = {}
+
+        # Log both timesteps and training rounds for clarity
+        training_round = (
+            self.num_timesteps // 2048
+        )  # Each round = 2048 timesteps (standard)
+        metrics["Training/Round_Number"] = training_round
+        metrics["Training/Total_Timesteps"] = self.num_timesteps
+
+        # Log training losses and standard metrics
+        if hasattr(self.model, "logger") and self.model.logger.name_to_value:
+            for key, value in self.model.logger.name_to_value.items():
+                if key.startswith(("train/", "rollout/")):
+                    metrics[key] = value
+
+        # Log episode statistics with clear names
+        if self.episode_rewards:
+            metrics["Performance/Average_Episode_Reward"] = np.mean(
+                self.episode_rewards
+            )
+            metrics["Performance/Reward_Consistency"] = (
+                np.std(self.episode_rewards) if len(self.episode_rewards) > 1 else 0
+            )
+            metrics["Performance/Episodes_This_Round"] = len(self.episode_rewards)
+            print(
+                f"Logging {len(self.episode_rewards)} episode rewards, mean: {np.mean(self.episode_rewards):.2f}"
+            )
+            self.episode_rewards.clear()
+
+        if self.episode_lengths:
+            metrics["Performance/Average_Episode_Length"] = np.mean(
+                self.episode_lengths
+            )
+            self.episode_lengths.clear()
+
+        if self.episode_distances:
+            metrics["Racing/Average_Distance_Traveled"] = np.mean(
+                self.episode_distances
+            )
+            metrics["Racing/Best_Distance_This_Round"] = np.max(self.episode_distances)
+            self.episode_distances.clear()
+
+        if self.episode_crashes:
+            metrics["Racing/Crash_Rate_Percent"] = np.mean(self.episode_crashes) * 100
+            self.episode_crashes.clear()
+
+        if self.episode_completions:
+            metrics["Racing/Race_Completion_Rate_Percent"] = (
+                np.mean(self.episode_completions) * 100
+            )
+            self.episode_completions.clear()
+
+        # Log reward breakdown with clear names
+        reward_mapping = {
+            "survival": "Reward_Components/Survival_Bonus",
+            "distance": "Reward_Components/Distance_Progress",
+            "speed": "Reward_Components/Speed_Bonus",
+            "lane_position": "Reward_Components/Lane_Positioning",
+            "overtaking": "Reward_Components/Overtaking_Bonus",
+            "following_penalty": "Reward_Components/Following_Penalty",
+            "lane_change": "Reward_Components/Lane_Change_Bonus",
+            "collision_avoidance": "Reward_Components/Collision_Avoidance",
+            "crash_penalty": "Reward_Components/Crash_Penalty",
+            "completion_bonus": "Reward_Components/Completion_Bonus",
+        }
+
+        reward_components_logged = 0
+        for component, values in self.reward_components.items():
+            if values and component in reward_mapping:
+                metrics[reward_mapping[component]] = np.mean(values)
+                reward_components_logged += 1
+                values.clear()
+
+        print(
+            f"Logged {reward_components_logged} reward components out of {len(self.reward_components)}"
+        )
+        if reward_components_logged == 0:
+            print("WARNING: No reward components were logged!")
+            # Log some debug info
+            for component, values in self.reward_components.items():
+                print(f"  {component}: {len(values)} values")
+
+        # Always log even if some data is missing
+        print(f"Round {training_round}: Logging {len(metrics)} metrics to wandb")
+
+        # Use training round as the step for cleaner x-axis in wandb
+        wandb.log(metrics, step=training_round)
 
 
 def train_real_ppo_model(
     project_name="race-car-real-ppo",
     run_name=None,
     timesteps=100000,
+    training_rounds=None,
     use_wandb=True,
     resume_from=None,
 ):
@@ -223,6 +527,15 @@ def train_real_ppo_model(
 
     n_envs = 4
     eval_freq = 10_000
+
+    # Convert training rounds to timesteps if specified
+    if training_rounds is not None:
+        n_steps = 75  # Standard PPO n_steps - crashes force immediate updates
+        timesteps = training_rounds * n_steps
+        print(f"Training for {training_rounds} rounds ({timesteps:,} timesteps)")
+        print("Crashes trigger immediate updates regardless of round size")
+    else:
+        print(f"Training for {timesteps:,} timesteps")
 
     if use_wandb:
         config = {
@@ -265,7 +578,7 @@ def train_real_ppo_model(
             train_env,
             verbose=1,
             learning_rate=3e-4,
-            n_steps=2048,
+            n_steps=75,
             batch_size=64,
             n_epochs=10,
             gamma=0.99,
@@ -295,10 +608,16 @@ def train_real_ppo_model(
         verbose=1,
     )
 
+    callbacks = [eval_callback]
+
+    if use_wandb:
+        wandb_callback = WandbCallback(verbose=1)
+        callbacks.append(wandb_callback)
+
     print(f"Starting REAL game training for {timesteps:,} timesteps...")
 
     # Train
-    model.learn(total_timesteps=timesteps, callback=eval_callback, progress_bar=True)
+    model.learn(total_timesteps=timesteps, callback=callbacks, progress_bar=True)
 
     # Save final model
     final_model_path = "models/ppo_racecar_real_final"
@@ -334,6 +653,12 @@ if __name__ == "__main__":
         "--timesteps", type=int, default=100000, help="Training timesteps"
     )
     parser.add_argument(
+        "--rounds",
+        type=int,
+        default=None,
+        help="Training rounds (each round = 2048 timesteps)",
+    )
+    parser.add_argument(
         "--project", default="race-car-real-ppo", help="Wandb project name"
     )
     parser.add_argument("--run-name", default=None, help="Wandb run name")
@@ -356,6 +681,7 @@ if __name__ == "__main__":
         project_name=args.project,
         run_name=args.run_name,
         timesteps=args.timesteps,
+        training_rounds=args.rounds,
         use_wandb=not args.no_wandb,
         resume_from=args.resume_from,
     )
