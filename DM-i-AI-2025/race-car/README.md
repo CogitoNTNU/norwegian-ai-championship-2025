@@ -88,6 +88,22 @@ git clone https://github.com/amboltio/DM-i-AI-2025
 cd DM-i-AI-2024/race-car
 ```
 
+### Setup with uv (Recommended)
+
+Install dependencies with uv:
+
+```cmd
+uv sync
+```
+
+Or add dependencies individually:
+
+```cmd
+uv add pygame fastapi "uvicorn[standard]" pydantic
+```
+
+### Alternative: pip setup
+
 Install dependencies
 
 ```cmd
@@ -97,6 +113,15 @@ pip install -r requirements.txt
 ### Serve your endpoint
 
 Serve your endpoint locally and test that everything starts without errors
+
+**With uv:**
+
+```cmd
+cd race-car
+uv run python api.py
+```
+
+**With pip:**
 
 ```cmd
 cd race-car
@@ -117,6 +142,15 @@ You can send the following action responses:
 If you do not add an action amount, it will default to None, and one action will be added to the queue.
 
 ### Run the simulation locally
+
+**With uv:**
+
+```cmd
+cd race-car
+uv run python example.py
+```
+
+**With pip:**
 
 ```cmd
 cd race-car
