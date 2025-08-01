@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-155834/
-scraped_date: 2025-07-22 12:37:23 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-155834/ scraped_date: 2025-07-22 12:37:23 UTC
 
 # Electrophysiology Lab Maneuvers to Differentiate Supraventricular Tachycardia
 
@@ -39,30 +38,38 @@ Accessory pathways are bundles of muscle with electrical properties that connect
 
 The European Society of Cardiology (ESC) guidelines categorize recommendations into 3 main categories, as outlined below:
 
-  * Class I 
-    * Strongly recommended based on solid evidence
+- Class I
 
-  * Class II 
-    * This class is divided into 2 subcategories: 
-      * IIa 
-        * Benefits outweigh risks, supported by moderate evidence
+  - Strongly recommended based on solid evidence
 
-      * IIb 
-        * May be considered useful, but the evidence is less conclusive
+- Class II
 
-  * Class III 
-    * Not recommended due to ineffectiveness or potential harm
+  - This class is divided into 2 subcategories:
+    - IIa
+
+      - Benefits outweigh risks, supported by moderate evidence
+
+    - IIb
+
+      - May be considered useful, but the evidence is less conclusive
+
+- Class III
+
+  - Not recommended due to ineffectiveness or potential harm
 
 Additionally, the recommendations are graded according to levels of evidence, as outlined below. These classifications provide a structured approach to making clinical decisions.
 
-  * Level A 
-    * High-quality evidence from multiple trials
+- Level A
 
-  * Level B 
-    * Moderate-quality evidence from a single trial or non-randomized studies
+  - High-quality evidence from multiple trials
 
-  * Level C 
-    * Based on expert opinion or limited data from smaller studies
+- Level B
+
+  - Moderate-quality evidence from a single trial or non-randomized studies
+
+- Level C
+
+  - Based on expert opinion or limited data from smaller studies
 
 The 2019 ESC guidelines recommend an electrophysiology study for patients with recurrent symptomatic SVT when the arrhythmia mechanism is unclear, and for those with syncope suspected to be due to SVT when noninvasive testing is inconclusive (Class I and IIa recommendations).
 
@@ -80,13 +87,13 @@ Although there are no absolute contraindications to performing electrophysiology
 
 Although electrophysiology studies can vary in approach, the fundamental principles are consistent. Typically, 4-electrode catheters are inserted for electrical recording and pacing, including:
 
-  * High right atrium
+- High right atrium
 
-  * HIS bundle
+- HIS bundle
 
-  * Right ventricle (RV)
+- Right ventricle (RV)
 
-  * Coronary sinus 
+- Coronary sinus
 
 A fifth catheter is used for radiofrequency or cryoablation.
 
@@ -120,70 +127,81 @@ In cases where a septal accessory pathway is absent and ventricular activation c
 
 The following observations can be seen during SVT:
 
-  * Ventricular-to-atrial activation relationship 
-    * This refers to the ratio of ventricular to atrial activation electrograms during the tachycardia. The presence of A-V dissociation during the tachycardia excludes AVRT, which involves A-V bypass tracts.
+- Ventricular-to-atrial activation relationship
 
-  * Ventricular beats exceeding atrial beats 
-    * This finding excludes both atrial tachycardia and AVRT. In atrial tachycardia, the atria initiate and maintain the tachycardia, so the number of atrial activations should be equal to or greater than the ventricular activations. In AVRT, atrial and ventricular activations occur in a 1:1 ratio due to the reentrant circuit involving the AV node and 1 or more accessory pathways.
+  - This refers to the ratio of ventricular to atrial activation electrograms during the tachycardia. The presence of A-V dissociation during the tachycardia excludes AVRT, which involves A-V bypass tracts.
 
-  * Atrial beats exceeding ventricular beats 
-    * When atrial beats outnumber ventricular beats, AVRT can be excluded. In AVRT, each atrial beat is usually followed by a ventricular beat. A higher number of atrial beats suggests an alternate mechanism, such as atrial flutter or atrial fibrillation.
+- Ventricular beats exceeding atrial beats
 
-  * Ventricular activation interval (septal time) 
-    * This interval measures the time between ventricular activation and the subsequent atrial activation at the septum. A septal V-A interval shorter than 70 milliseconds suggests that the SVT is unlikely to be caused by AVRT involving typical bypass tracts, which generally produce longer V-A intervals. In these cases, AVNRT is more likely to occur.
+  - This finding excludes both atrial tachycardia and AVRT. In atrial tachycardia, the atria initiate and maintain the tachycardia, so the number of atrial activations should be equal to or greater than the ventricular activations. In AVRT, atrial and ventricular activations occur in a 1:1 ratio due to the reentrant circuit involving the AV node and 1 or more accessory pathways.
 
-  * Atrial activation sequence 
-    * This refers to the pattern of atrial activation during tachycardia. A concentric pattern begins at the AV node and spreads outward. In contrast, an eccentric pattern—where the earliest activation occurs away from the septum—suggests the presence of a concealed accessory pathway. 
+- Atrial beats exceeding ventricular beats
+
+  - When atrial beats outnumber ventricular beats, AVRT can be excluded. In AVRT, each atrial beat is usually followed by a ventricular beat. A higher number of atrial beats suggests an alternate mechanism, such as atrial flutter or atrial fibrillation.
+
+- Ventricular activation interval (septal time)
+
+  - This interval measures the time between ventricular activation and the subsequent atrial activation at the septum. A septal V-A interval shorter than 70 milliseconds suggests that the SVT is unlikely to be caused by AVRT involving typical bypass tracts, which generally produce longer V-A intervals. In these cases, AVNRT is more likely to occur.
+
+- Atrial activation sequence
+
+  - This refers to the pattern of atrial activation during tachycardia. A concentric pattern begins at the AV node and spreads outward. In contrast, an eccentric pattern—where the earliest activation occurs away from the septum—suggests the presence of a concealed accessory pathway.
 
 **Observations During Transitions**
 
 The following observations can be seen during transitions:
 
-  * Initiation 
-    * How SVT begins can offer insights into its underlying mechanism. An A-H jump—a sudden increase in the interval from atrial to His bundle activation—indicates AV node involvement. This makes atrial tachycardia less likely, as it originates in the atria and does not depend on the AV node for its initiation.
+- Initiation
 
-  * Bundle branch block (BBB) 
-    * The presence of the BBB during tachycardia extends the ventricular activation interval in AVRT. Specifically, a prolongation of the ventricular activation interval of more than 35 milliseconds occurring alongside the appearance of BBB indicates orthodromic AVRT, especially when a free wall accessory pathway is ipsilateral to the BBB.
+  - How SVT begins can offer insights into its underlying mechanism. An A-H jump—a sudden increase in the interval from atrial to His bundle activation—indicates AV node involvement. This makes atrial tachycardia less likely, as it originates in the atria and does not depend on the AV node for its initiation.
 
-  * Termination 
-    * If the SVT terminates with an atrial event, it suggests atrial tachycardia, as atrial tachycardia originates in the atria and is characterized by atrial impulses driving the tachycardia. Consequently, when atrial tachycardia terminates, it usually does so with an atrial event. 
+- Bundle branch block (BBB)
 
-    * Conversely, AVNRT and AVRT may terminate with either an atrial or a ventricular event, depending on where the reentrant circuit is interrupted. If the circuit is interrupted on the ventricular side (for example, due to a change in ventricular conduction), the tachycardia may cease with a ventricular event. Alternatively, if the circuit is interrupted at the atrial level, termination may occur with an atrial event. The key distinction is that these forms of SVT are not solely dependent on atrial activity, allowing for termination through either atrial or ventricular event.
+  - The presence of the BBB during tachycardia extends the ventricular activation interval in AVRT. Specifically, a prolongation of the ventricular activation interval of more than 35 milliseconds occurring alongside the appearance of BBB indicates orthodromic AVRT, especially when a free wall accessory pathway is ipsilateral to the BBB.
 
-    * The term "wobble" in the context of tachycardia refers to spontaneous variations in the tachycardia cycle length (TCL). These fluctuations often result from variations in conduction velocity along different pathways that participate in the tachycardia circuit. In AVNRT, a wobble in the R-R interval suggests the presence of a "slow pathway" within the AV node. This finding also helps exclude atrial tachycardia, as atrial tachycardia typically causes variations in the A-A interval rather than the R-R interval.[9]
+- Termination
+
+  - If the SVT terminates with an atrial event, it suggests atrial tachycardia, as atrial tachycardia originates in the atria and is characterized by atrial impulses driving the tachycardia. Consequently, when atrial tachycardia terminates, it usually does so with an atrial event.
+
+  - Conversely, AVNRT and AVRT may terminate with either an atrial or a ventricular event, depending on where the reentrant circuit is interrupted. If the circuit is interrupted on the ventricular side (for example, due to a change in ventricular conduction), the tachycardia may cease with a ventricular event. Alternatively, if the circuit is interrupted at the atrial level, termination may occur with an atrial event. The key distinction is that these forms of SVT are not solely dependent on atrial activity, allowing for termination through either atrial or ventricular event.
+
+  - The term "wobble" in the context of tachycardia refers to spontaneous variations in the tachycardia cycle length (TCL). These fluctuations often result from variations in conduction velocity along different pathways that participate in the tachycardia circuit. In AVNRT, a wobble in the R-R interval suggests the presence of a "slow pathway" within the AV node. This finding also helps exclude atrial tachycardia, as atrial tachycardia typically causes variations in the A-A interval rather than the R-R interval.[9]
 
 **Pacing Maneuvers During SVT**
 
 Ventricular overdrive pacing (VOP) is a crucial technique for differentiating various types of SVT. To ensure accurate interpretation, specific conditions must be met during the maneuver, including:
 
-  * Ventricular pacing is performed at a rate 10 to 30 milliseconds faster than the TCL, and it must be confirmed that the atrial rate advances to match the ventricular pacing rate.
+- Ventricular pacing is performed at a rate 10 to 30 milliseconds faster than the TCL, and it must be confirmed that the atrial rate advances to match the ventricular pacing rate.
 
-  * The same tachycardia should continue after pacing stops.
+- The same tachycardia should continue after pacing stops.
 
-  * No significant fluctuations, or “wobbles,” in the TCL should be present during pacing.
+- No significant fluctuations, or “wobbles,” in the TCL should be present during pacing.
 
 When these criteria are fulfilled, the maneuver’s results can be interpreted based on 2 key features, described below:
 
-  * **Cessation response**
-    * After the conclusion of ventricular overdrive pacing (VOP), the final atrial beat that has been advanced to the pacing cycle length is identified and represents the initial “A” in the cessation response. The pattern of this response helps distinguish the type of supraventricular tachycardia, as mentioned below. 
-      * In AVNRT and AVRT, an A-(H)-V response is observed.
+- **Cessation response**
 
-      * In atrial tachycardia (AT), an A-A-(H)-V response is observed.
+  - After the conclusion of ventricular overdrive pacing (VOP), the final atrial beat that has been advanced to the pacing cycle length is identified and represents the initial “A” in the cessation response. The pattern of this response helps distinguish the type of supraventricular tachycardia, as mentioned below.
 
-    * This response reflects the underlying mechanism of tachycardia. In both AVNRT and AVRT, atrial activation during ventricular pacing occurs via the retrograde limb of the reentrant circuit, leaving the anterograde limb available for conduction. As a result, the last retrograde atrial beat (A) from the final ventricular (V) pacing stimulus triggers the subsequent His bundle (H) and ventricular (V) activation, producing the characteristic A–H–V response.
+    - In AVNRT and AVRT, an A-(H)-V response is observed.
 
-    * On the other hand, during atrial tachycardia, ventricular pacing renders the AV conduction pathway immediately refractory, so the last retrograde atrial (A) beat from the final ventricular pacing stimulus is not conducted to the ventricle. Therefore, when overdrive pacing stops, the first beat of the atrial tachycardia initiates AV conduction, resulting in an A–A–H–V response (see **Image.** Ventricular Overdrive Pacing Responses in Atrial Tachycardia).
+    - In atrial tachycardia (AT), an A-A-(H)-V response is observed.
 
-  * **Quantification in arrhythmia diagnosis**
-    * Additional measurements are essential to differentiate between the mechanisms underlying an A-(H)-V response seen in AVNRT or AVRT. Specifically, the difference between the PPI and the TCL (referred to as PPI−TCL) can provide valuable insight.
+  - This response reflects the underlying mechanism of tachycardia. In both AVNRT and AVRT, atrial activation during ventricular pacing occurs via the retrograde limb of the reentrant circuit, leaving the anterograde limb available for conduction. As a result, the last retrograde atrial beat (A) from the final ventricular (V) pacing stimulus triggers the subsequent His bundle (H) and ventricular (V) activation, producing the characteristic A–H–V response.
 
-    * The PPI is measured from the last ventricular pacing stimulus to the return of the next ventricular beat at the same site. Generally, the closer the tachycardia circuit is to the ventricular pacing site, the smaller the PPI−TCL value will be. To distinguish between orthodromic AVRT and AVNRT, a value of less than 115 milliseconds indicates a higher likelihood of AVRT.
+  - On the other hand, during atrial tachycardia, ventricular pacing renders the AV conduction pathway immediately refractory, so the last retrograde atrial (A) beat from the final ventricular pacing stimulus is not conducted to the ventricle. Therefore, when overdrive pacing stops, the first beat of the atrial tachycardia initiates AV conduction, resulting in an A–A–H–V response (see **Image.** Ventricular Overdrive Pacing Responses in Atrial Tachycardia).
 
-    * AVRT is also likely when the corrected PPI−TCL is under 110 milliseconds; the corrected PPI accounts for the difference between the A-H interval of the last paced beat and the tachycardia A-H interval (ΔAH is subtracted from the PPI). In AVRT, the PPI tends to be shorter due to ventricular involvement in the reentrant circuit.
+- **Quantification in arrhythmia diagnosis**
 
-    * Notably, quantification criteria for VOP are most predictive when pacing occurs closest to the accessory pathway, for example, at the base of the RV, allowing for significant interval differences. Although a PPI−TCL value less than 115 milliseconds (or a corrected PPI−TCL value less than 110 milliseconds) supports the diagnosis of AVRT, a higher value does not exclude it. This situation can occur in orthodromic AVRT cases where the accessory pathway is located far from the pacing site, such as with left-sided pathways. In these situations, pacing closer to the lateral pathway—either from the LV or a ventricular branch of the coronary sinus—can provide more definitive information.
+  - Additional measurements are essential to differentiate between the mechanisms underlying an A-(H)-V response seen in AVNRT or AVRT. Specifically, the difference between the PPI and the TCL (referred to as PPI−TCL) can provide valuable insight.
 
-    * An additional useful measurement for diagnosing orthodromic AVRT involving a septal pathway is the difference between the V-A interval during ventricular pacing (Stim-A interval) and the corresponding ventricular activation interval during tachycardia, known as ΔVA. A ΔVA value less than 85 milliseconds further supports the diagnosis of AVRT.
+  - The PPI is measured from the last ventricular pacing stimulus to the return of the next ventricular beat at the same site. Generally, the closer the tachycardia circuit is to the ventricular pacing site, the smaller the PPI−TCL value will be. To distinguish between orthodromic AVRT and AVNRT, a value of less than 115 milliseconds indicates a higher likelihood of AVRT.
+
+  - AVRT is also likely when the corrected PPI−TCL is under 110 milliseconds; the corrected PPI accounts for the difference between the A-H interval of the last paced beat and the tachycardia A-H interval (ΔAH is subtracted from the PPI). In AVRT, the PPI tends to be shorter due to ventricular involvement in the reentrant circuit.
+
+  - Notably, quantification criteria for VOP are most predictive when pacing occurs closest to the accessory pathway, for example, at the base of the RV, allowing for significant interval differences. Although a PPI−TCL value less than 115 milliseconds (or a corrected PPI−TCL value less than 110 milliseconds) supports the diagnosis of AVRT, a higher value does not exclude it. This situation can occur in orthodromic AVRT cases where the accessory pathway is located far from the pacing site, such as with left-sided pathways. In these situations, pacing closer to the lateral pathway—either from the LV or a ventricular branch of the coronary sinus—can provide more definitive information.
+
+  - An additional useful measurement for diagnosing orthodromic AVRT involving a septal pathway is the difference between the V-A interval during ventricular pacing (Stim-A interval) and the corresponding ventricular activation interval during tachycardia, known as ΔVA. A ΔVA value less than 85 milliseconds further supports the diagnosis of AVRT.
 
 **His-Synchronous or His-Refractory Premature Ventricular Contraction During SVT**
 
@@ -191,30 +209,36 @@ When VOP is not feasible or diagnostic, a His-refractory premature ventricular c
 
 Three scenarios can arise if the timing of the immediate atrial beat is altered, as mentioned below:
 
-  * Advancement of the subsequent atrial activation 
-    * An atrial activation that occurs earlier than expected following an HR-PVC strongly suggests the presence of an accessory pathway, as the only way the impulse can reach the atrium prematurely in this context is via an alternative route that bypasses the His bundle. However, this finding alone does not confirm the accessory pathway’s involvement in the tachycardia. If the atrial activation sequence remains consistent with that observed during tachycardia, it strongly supports—but does not definitively prove—the accessory pathway’s participation in the tachycardia mechanism.
+- Advancement of the subsequent atrial activation
 
-  * Delay of the subsequent atrial activation 
-    * A delay in atrial activation following an HR-PVC strongly suggests the presence of an accessory pathway and its participation in the tachycardia circuit.
+  - An atrial activation that occurs earlier than expected following an HR-PVC strongly suggests the presence of an accessory pathway, as the only way the impulse can reach the atrium prematurely in this context is via an alternative route that bypasses the His bundle. However, this finding alone does not confirm the accessory pathway’s involvement in the tachycardia. If the atrial activation sequence remains consistent with that observed during tachycardia, it strongly supports—but does not definitively prove—the accessory pathway’s participation in the tachycardia mechanism.
 
-  * Termination of the tachycardia without conduction to the atrium 
-    * Observing tachycardia termination without atrial conduction provides strong evidence for the presence and involvement of an accessory pathway. In this scenario, the His bundle is refractory and cannot conduct to the atrium, so the HR-PVC resets the rhythm only via the accessory pathway. However, in rare cases, an HR-PVC can delay or terminate AVNRT in the presence of a concealed nodoventricular or fasciculoventricular pathway. Here, the PVC blocks conduction through the His bundle but still reaches the ventricles via the accessory pathway, interrupting the reentrant circuit. This maneuver helps diagnose these concealed pathways.[11]
+- Delay of the subsequent atrial activation
 
-**Atrial Overdrive Pacing during S**VT****
+  - A delay in atrial activation following an HR-PVC strongly suggests the presence of an accessory pathway and its participation in the tachycardia circuit.
+
+- Termination of the tachycardia without conduction to the atrium
+
+  - Observing tachycardia termination without atrial conduction provides strong evidence for the presence and involvement of an accessory pathway. In this scenario, the His bundle is refractory and cannot conduct to the atrium, so the HR-PVC resets the rhythm only via the accessory pathway. However, in rare cases, an HR-PVC can delay or terminate AVNRT in the presence of a concealed nodoventricular or fasciculoventricular pathway. Here, the PVC blocks conduction through the His bundle but still reaches the ventricles via the accessory pathway, interrupting the reentrant circuit. This maneuver helps diagnose these concealed pathways.[11]
+
+**Atrial Overdrive Pacing during S**VT\*\*\*\*
 
 Atrial overdrive pacing (AOP) can be performed during SVT to differentiate atrial tachycardia from AVNRT and to distinguish AVNRT from junctional tachycardia. This maneuver involves pacing the atrium at a cycle length 10 to 40 milliseconds shorter than the TCL. The criteria for successfully interpreting an AOP response are similar to those used for VOP, as outlined below:
 
-  * Assessment of ventricular activation interval upon cessation of atrial overdrive pacing (ventricular activation linking) to differentiate atrial tachycardia from AVNRT/AVRT 
-    * When the first V-A interval immediately following the last atrial paced beat—measured from at least 2 different atrial pacing sites (eg, right atrium, proximal coronary sinus, and distal coronary sinus)—differs by 14 milliseconds or less, it supports a diagnosis of AVRT or AVNRT.[12] Greater differences in ventricular activation intervals support a diagnosis of atrial tachycardia.
+- Assessment of ventricular activation interval upon cessation of atrial overdrive pacing (ventricular activation linking) to differentiate atrial tachycardia from AVNRT/AVRT
 
-  * Assessment of the cessation response (AH-HA versus A-H-A) to differentiate AVNRT from junctional tachycardia 
-    * When AOP is stopped and tachycardia resumes, the electrogram displays distinct patterns depending on the type of tachycardia that has occurred. In junctional tachycardia, the response is an "Atrial-His-His-Atrial" (AH-HA) sequence (see **Image.** Atrial Overdrive Pacing Response in Junctional Tachycardia). This occurs because the tachycardia resumes with a junctional beat initiated by a His signal immediately after pacing stops. In contrast, in AVNRT, cessation of AOP typically results in the tachycardia resuming with an atrial beat first, producing an "atrial-His-atrial" (A-H-A) sequence on the electrogram.[13]
+  - When the first V-A interval immediately following the last atrial paced beat—measured from at least 2 different atrial pacing sites (eg, right atrium, proximal coronary sinus, and distal coronary sinus)—differs by 14 milliseconds or less, it supports a diagnosis of AVRT or AVNRT.[12] Greater differences in ventricular activation intervals support a diagnosis of atrial tachycardia.
 
-  * Response to atrial extrastimuli during tachycardia to differentiate AVNRT from junctional tachycardia 
-    * This maneuver is specifically used to distinguish between AVNRT and junctional tachycardia. An atrial extrastimulus, known as a premature atrial contraction (PAC), is delivered at various points during the TCL. Key observations are made based on the following 2 scenarios: 
-      * When the PAC is timed to coincide with the refractoriness of the His bundle (late PAC response)
+- Assessment of the cessation response (AH-HA versus A-H-A) to differentiate AVNRT from junctional tachycardia
 
-      * When the PAC is timed before the His refractoriness (early PAC response)
+  - When AOP is stopped and tachycardia resumes, the electrogram displays distinct patterns depending on the type of tachycardia that has occurred. In junctional tachycardia, the response is an "Atrial-His-His-Atrial" (AH-HA) sequence (see **Image.** Atrial Overdrive Pacing Response in Junctional Tachycardia). This occurs because the tachycardia resumes with a junctional beat initiated by a His signal immediately after pacing stops. In contrast, in AVNRT, cessation of AOP typically results in the tachycardia resuming with an atrial beat first, producing an "atrial-His-atrial" (A-H-A) sequence on the electrogram.[13]
+
+- Response to atrial extrastimuli during tachycardia to differentiate AVNRT from junctional tachycardia
+
+  - This maneuver is specifically used to distinguish between AVNRT and junctional tachycardia. An atrial extrastimulus, known as a premature atrial contraction (PAC), is delivered at various points during the TCL. Key observations are made based on the following 2 scenarios:
+    - When the PAC is timed to coincide with the refractoriness of the His bundle (late PAC response)
+
+    - When the PAC is timed before the His refractoriness (early PAC response)
 
 If a late PAC affects the timing of the subsequent His depolarization, it strongly suggests the involvement of anterograde slow pathway conduction. This finding is typically associated with AVNRT. However, a negative response (ie, no change in His timing) is nondiagnostic. In contrast, if an early PAC advances the immediate His potential without terminating the tachycardia, it is a strong indicator of junctional tachycardia (see **Image.** Response to Early Premature Atrial Contraction in Junctional Tachycardia vs Atrioventricular Nodal Reentrant Tachycardia). This observation suggests that the tachycardia circuit does not depend on a retrograde fast pathway through the AV node, which is typically involved in AVNRT. Other responses, such as no change in the immediate His timing, followed by tachycardia termination, delay, or further advancement, are considered nondiagnostic.[14][15]
 
@@ -226,7 +250,7 @@ A pseudo-AAV response occurs when the response is mislabeled, such as selecting 
 
 A summary of electrophysiology laboratory maneuvers used to differentiate between types of SVT is presented in this paper (see **Table.** Electrophysiology Lab Maneuvers for Differentiating Supraventricular Tachycardia).
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Effective management of supraventricular tachycardia (SVT) in the electrophysiology laboratory relies on a well-coordinated, multidisciplinary healthcare team. This team includes physicians, advanced practitioners, nurses, pharmacists, and other healthcare professionals, each contributing distinct expertise and perspectives to support patient-centered care. Physicians and advanced practitioners lead the diagnosis and treatment of SVT, utilizing their electrophysiology training, while nurses manage patient preparation, intraprocedural monitoring, and post-procedure recovery. Pharmacists ensure the safe and effective use of medications, guiding dosing and potential drug interactions.
 
@@ -234,9 +258,9 @@ Clear communication among the interprofessional healthcare team members is vital
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=155834&utm_source=pubmed&utm_campaign=reviews&utm_content=155834)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=155834&utm_source=pubmed&utm_campaign=reviews&utm_content=155834)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/155834/?utm_source=pubmed&utm_campaign=comments&utm_content=155834)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/155834/?utm_source=pubmed&utm_campaign=comments&utm_content=155834)
 
 [![Differential Ventricular Pacing Responses](/books/NBK616083/bin/Screenshot__2025-05-24__at__7.19.25xPM.gif)](/books/NBK616083/figure/article-155834.image.f1/?report=objectonly "Figure")
 
@@ -254,7 +278,7 @@ Ventricular Overdrive Pacing Responses in Atrial Tachycardia. Following cessatio
 
 #### [Figure](/books/NBK616083/figure/article-155834.image.f3/?report=objectonly)
 
-Atrial Overdrive Pacing Response in Junctional Tachycardia. Following the cessation of atrial overdrive pacing, an A-H-(V)-H-A response is observed. UCLA Cardiac Arrhythmia Center 
+Atrial Overdrive Pacing Response in Junctional Tachycardia. Following the cessation of atrial overdrive pacing, an A-H-(V)-H-A response is observed. UCLA Cardiac Arrhythmia Center
 
 [![Response to Early Premature Atrial Contraction in Junctional Tachycardia vs Atrioventricular Nodal Reentrant Tachycardia](/books/NBK616083/bin/Screenshot__2025-05-25__at__10.43.20xAM.gif)](/books/NBK616083/figure/article-155834.image.f4/?report=objectonly "Figure")
 
@@ -271,88 +295,67 @@ Electrophysiology Lab Maneuvers for Differentiating Supraventricular Tachycardia
 ## References
 
 1.
-    
 
-Page RL, Joglar JA, Caldwell MA, Calkins H, Conti JB, Deal BJ, Estes NAM, Field ME, Goldberger ZD, Hammill SC, Indik JH, Lindsay BD, Olshansky B, Russo AM, Shen WK, Tracy CM, Al-Khatib SM. 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2016 Apr 05;67(13):e27-e115. [[PubMed: 26409259](https://pubmed.ncbi.nlm.nih.gov/26409259)]
+Page RL, Joglar JA, Caldwell MA, Calkins H, Conti JB, Deal BJ, Estes NAM, Field ME, Goldberger ZD, Hammill SC, Indik JH, Lindsay BD, Olshansky B, Russo AM, Shen WK, Tracy CM, Al-Khatib SM. 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2016 Apr 05;67(13):e27-e115. \[[PubMed: 26409259](https://pubmed.ncbi.nlm.nih.gov/26409259)\]
 
 2.
-    
 
-Sohinki D, Obel OA. Current trends in supraventricular tachycardia management. Ochsner J. 2014 Winter;14(4):586-95. [[PMC free article: PMC4295736](/pmc/articles/PMC4295736/)] [[PubMed: 25598724](https://pubmed.ncbi.nlm.nih.gov/25598724)]
+Sohinki D, Obel OA. Current trends in supraventricular tachycardia management. Ochsner J. 2014 Winter;14(4):586-95. \[[PMC free article: PMC4295736](/pmc/articles/PMC4295736/)\] \[[PubMed: 25598724](https://pubmed.ncbi.nlm.nih.gov/25598724)\]
 
 3.
-    
 
-Bruder D, Weber R, Gass M, Balmer C, Cavigelli-Brunner A. Antiarrhythmic Medication in Neonates and Infants with Supraventricular Tachycardia. Pediatr Cardiol. 2022 Aug;43(6):1311-1318. [[PMC free article: PMC9293794](/pmc/articles/PMC9293794/)] [[PubMed: 35258638](https://pubmed.ncbi.nlm.nih.gov/35258638)]
+Bruder D, Weber R, Gass M, Balmer C, Cavigelli-Brunner A. Antiarrhythmic Medication in Neonates and Infants with Supraventricular Tachycardia. Pediatr Cardiol. 2022 Aug;43(6):1311-1318. \[[PMC free article: PMC9293794](/pmc/articles/PMC9293794/)\] \[[PubMed: 35258638](https://pubmed.ncbi.nlm.nih.gov/35258638)\]
 
 4.
-    
 
-Vătășescu RG, Paja CS, Șuș I, Cainap S, Moisa ȘM, Cinteză EE. Wolf-Parkinson-White Syndrome: Diagnosis, Risk Assessment, and Therapy-An Update. Diagnostics (Basel). 2024 Jan 30;14(3) [[PMC free article: PMC10855590](/pmc/articles/PMC10855590/)] [[PubMed: 38337810](https://pubmed.ncbi.nlm.nih.gov/38337810)]
+Vătășescu RG, Paja CS, Șuș I, Cainap S, Moisa ȘM, Cinteză EE. Wolf-Parkinson-White Syndrome: Diagnosis, Risk Assessment, and Therapy-An Update. Diagnostics (Basel). 2024 Jan 30;14(3) \[[PMC free article: PMC10855590](/pmc/articles/PMC10855590/)\] \[[PubMed: 38337810](https://pubmed.ncbi.nlm.nih.gov/38337810)\]
 
 5.
-    
 
-Ho SY. Accessory atrioventricular pathways: getting to the origins. Circulation. 2008 Mar 25;117(12):1502-4. [[PubMed: 18362241](https://pubmed.ncbi.nlm.nih.gov/18362241)]
+Ho SY. Accessory atrioventricular pathways: getting to the origins. Circulation. 2008 Mar 25;117(12):1502-4. \[[PubMed: 18362241](https://pubmed.ncbi.nlm.nih.gov/18362241)\]
 
 6.
-    
 
-Wessels A, Markman MW, Vermeulen JL, Anderson RH, Moorman AF, Lamers WH. The development of the atrioventricular junction in the human heart. Circ Res. 1996 Jan;78(1):110-7. [[PubMed: 8603493](https://pubmed.ncbi.nlm.nih.gov/8603493)]
+Wessels A, Markman MW, Vermeulen JL, Anderson RH, Moorman AF, Lamers WH. The development of the atrioventricular junction in the human heart. Circ Res. 1996 Jan;78(1):110-7. \[[PubMed: 8603493](https://pubmed.ncbi.nlm.nih.gov/8603493)\]
 
 7.
-    
 
-Brugada J, Katritsis DG, Arbelo E, Arribas F, Bax JJ, Blomström-Lundqvist C, Calkins H, Corrado D, Deftereos SG, Diller GP, Gomez-Doblas JJ, Gorenek B, Grace A, Ho SY, Kaski JC, Kuck KH, Lambiase PD, Sacher F, Sarquella-Brugada G, Suwalski P, Zaza A., ESC Scientific Document Group. 2019 ESC Guidelines for the management of patients with supraventricular tachycardiaThe Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020 Feb 01;41(5):655-720. [[PubMed: 31504425](https://pubmed.ncbi.nlm.nih.gov/31504425)]
+Brugada J, Katritsis DG, Arbelo E, Arribas F, Bax JJ, Blomström-Lundqvist C, Calkins H, Corrado D, Deftereos SG, Diller GP, Gomez-Doblas JJ, Gorenek B, Grace A, Ho SY, Kaski JC, Kuck KH, Lambiase PD, Sacher F, Sarquella-Brugada G, Suwalski P, Zaza A., ESC Scientific Document Group. 2019 ESC Guidelines for the management of patients with supraventricular tachycardiaThe Task Force for the management of patients with supraventricular tachycardia of the European Society of Cardiology (ESC). Eur Heart J. 2020 Feb 01;41(5):655-720. \[[PubMed: 31504425](https://pubmed.ncbi.nlm.nih.gov/31504425)\]
 
 8.
-    
 
-Knight BP, Ebinger M, Oral H, Kim MH, Sticherling C, Pelosi F, Michaud GF, Strickberger SA, Morady F. Diagnostic value of tachycardia features and pacing maneuvers during paroxysmal supraventricular tachycardia. J Am Coll Cardiol. 2000 Aug;36(2):574-82. [[PubMed: 10933374](https://pubmed.ncbi.nlm.nih.gov/10933374)]
+Knight BP, Ebinger M, Oral H, Kim MH, Sticherling C, Pelosi F, Michaud GF, Strickberger SA, Morady F. Diagnostic value of tachycardia features and pacing maneuvers during paroxysmal supraventricular tachycardia. J Am Coll Cardiol. 2000 Aug;36(2):574-82. \[[PubMed: 10933374](https://pubmed.ncbi.nlm.nih.gov/10933374)\]
 
 9.
-    
 
-Asirvatham SJ, Stevenson WG. Wobble. Circ Arrhythm Electrophysiol. 2015 Aug;8(4):985-7. [[PubMed: 26286308](https://pubmed.ncbi.nlm.nih.gov/26286308)]
+Asirvatham SJ, Stevenson WG. Wobble. Circ Arrhythm Electrophysiol. 2015 Aug;8(4):985-7. \[[PubMed: 26286308](https://pubmed.ncbi.nlm.nih.gov/26286308)\]
 
 10.
-    
 
-Shah AN, Field J, Clark BA, Olson JA, Gupta S, Nair GV, Joshi SA, Ahmed AS, Gilge JL, Steinberg LA, Prystowsky EN, Patel PJ, Padanilam BJ. Diagnostic utility of early premature ventricular complexes in differentiating atrioventricular reentrant and atrioventricular nodal reentrant tachycardias. Heart Rhythm. 2022 Nov;19(11):1836-1840. [[PubMed: 35781045](https://pubmed.ncbi.nlm.nih.gov/35781045)]
+Shah AN, Field J, Clark BA, Olson JA, Gupta S, Nair GV, Joshi SA, Ahmed AS, Gilge JL, Steinberg LA, Prystowsky EN, Patel PJ, Padanilam BJ. Diagnostic utility of early premature ventricular complexes in differentiating atrioventricular reentrant and atrioventricular nodal reentrant tachycardias. Heart Rhythm. 2022 Nov;19(11):1836-1840. \[[PubMed: 35781045](https://pubmed.ncbi.nlm.nih.gov/35781045)\]
 
 11.
-    
 
-Bagga S, Patel PJ, Prystowsky EN, Padanilam BJ. Role of His Refractory Premature Ventricular Complexes in the Differential Diagnosis of a Left Bundle Branch Block Morphology Tachycardia. Circ Arrhythm Electrophysiol. 2017 Jun;10(6) [[PubMed: 28630172](https://pubmed.ncbi.nlm.nih.gov/28630172)]
+Bagga S, Patel PJ, Prystowsky EN, Padanilam BJ. Role of His Refractory Premature Ventricular Complexes in the Differential Diagnosis of a Left Bundle Branch Block Morphology Tachycardia. Circ Arrhythm Electrophysiol. 2017 Jun;10(6) \[[PubMed: 28630172](https://pubmed.ncbi.nlm.nih.gov/28630172)\]
 
 12.
-    
 
-Maruyama M, Kobayashi Y, Miyauchi Y, Ino T, Atarashi H, Katoh T, Mizuno K. The VA relationship after differential atrial overdrive pacing: a novel tool for the diagnosis of atrial tachycardia in the electrophysiologic laboratory. J Cardiovasc Electrophysiol. 2007 Nov;18(11):1127-33. [[PubMed: 17711437](https://pubmed.ncbi.nlm.nih.gov/17711437)]
+Maruyama M, Kobayashi Y, Miyauchi Y, Ino T, Atarashi H, Katoh T, Mizuno K. The VA relationship after differential atrial overdrive pacing: a novel tool for the diagnosis of atrial tachycardia in the electrophysiologic laboratory. J Cardiovasc Electrophysiol. 2007 Nov;18(11):1127-33. \[[PubMed: 17711437](https://pubmed.ncbi.nlm.nih.gov/17711437)\]
 
 13.
-    
 
-Iwasa K, Okada M, Tanaka K, Hirao Y, Tanaka N. Atrial-His-atrial and atrial-His-His-atrial responses during slow-fast atrioventricular nodal reentrant tachycardia. HeartRhythm Case Rep. 2023 Apr;9(4):240-243. [[PMC free article: PMC10123928](/pmc/articles/PMC10123928/)] [[PubMed: 37101667](https://pubmed.ncbi.nlm.nih.gov/37101667)]
+Iwasa K, Okada M, Tanaka K, Hirao Y, Tanaka N. Atrial-His-atrial and atrial-His-His-atrial responses during slow-fast atrioventricular nodal reentrant tachycardia. HeartRhythm Case Rep. 2023 Apr;9(4):240-243. \[[PMC free article: PMC10123928](/pmc/articles/PMC10123928/)\] \[[PubMed: 37101667](https://pubmed.ncbi.nlm.nih.gov/37101667)\]
 
 14.
-    
 
-Padanilam BJ, Manfredi JA, Steinberg LA, Olson JA, Fogel RI, Prystowsky EN. Differentiating junctional tachycardia and atrioventricular node re-entry tachycardia based on response to atrial extrastimulus pacing. J Am Coll Cardiol. 2008 Nov 18;52(21):1711-7. [[PubMed: 19007691](https://pubmed.ncbi.nlm.nih.gov/19007691)]
+Padanilam BJ, Manfredi JA, Steinberg LA, Olson JA, Fogel RI, Prystowsky EN. Differentiating junctional tachycardia and atrioventricular node re-entry tachycardia based on response to atrial extrastimulus pacing. J Am Coll Cardiol. 2008 Nov 18;52(21):1711-7. \[[PubMed: 19007691](https://pubmed.ncbi.nlm.nih.gov/19007691)\]
 
 15.
-    
 
-Wang L, Jiang J, Su C, Feng C, Chen Y, Liu J, He J, Tang A. The ventriculoatrial relationship after atrial overdrive pacing can help differentiate atrioventricular nodal reentrant tachycardia from junctional tachycardia. J Interv Card Electrophysiol. 2016 Dec;47(3):293-298. [[PubMed: 27624803](https://pubmed.ncbi.nlm.nih.gov/27624803)]
-
-    
+Wang L, Jiang J, Su C, Feng C, Chen Y, Liu J, He J, Tang A. The ventriculoatrial relationship after atrial overdrive pacing can help differentiate atrioventricular nodal reentrant tachycardia from junctional tachycardia. J Interv Card Electrophysiol. 2016 Dec;47(3):293-298. \[[PubMed: 27624803](https://pubmed.ncbi.nlm.nih.gov/27624803)\]
 
 **Disclosure:** Abdullah Sarkar declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Maria Horenstein declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Houman Khakpour declares no relevant financial relationships with ineligible companies.

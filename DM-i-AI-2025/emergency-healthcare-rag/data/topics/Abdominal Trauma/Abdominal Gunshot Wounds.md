@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22465/
-scraped_date: 2025-07-22 12:47:01 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22465/ scraped_date: 2025-07-22 12:47:01 UTC
 
 # Abdominal Gunshot Wounds
 
@@ -27,11 +26,11 @@ An abdominal gunshot wound is a multisystemic, traumatic injury that commonly ca
 
 **Objectives:**
 
-  * Outline the clinical presentation of a patient with an abdominal gunshot wound.
+- Outline the clinical presentation of a patient with an abdominal gunshot wound.
 
-  * Describe the evaluation in an abdominal gunshot wound.
+- Describe the evaluation in an abdominal gunshot wound.
 
-  * Review the management in an abdominal gunshot wound.
+- Review the management in an abdominal gunshot wound.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=22465&utm_source=pubmed&utm_campaign=reviews&utm_content=22465)
 
@@ -45,7 +44,7 @@ The most common cause of a penetrating abdominal injury is a stab wound or gunsh
 
 Penetrating trauma due to gunshot results from a firearm and can lead to multisystem organ injury, shock, and infection. A projectile from a firearm will enter the skin and layers of tissue and inflict damage to anything in its pathway. This may include soft tissue structures only but may also include damage to bone, vasculature, and internal organs. A penetrating gunshot abdominal injury can result in the foreign object remaining in soft tissue compartments or finding an exit pathway out of the body. If the projectile enters the body, it is considered a penetrating injury. If there is an exit wound that accompanies the entry wound, this may be considered a perforating abdominal wound. Many abdominal gunshot wounds result in penetrating trauma.[3]
 
-A mainstay of care for a potentially penetrating gunshot wound to the abdomen is emergency evaluation and often emergency surgical consultation is required to rule out acute abdomen, prevent exsanguination, and decrease the likelihood of developing peritonitis and sepsis. 
+A mainstay of care for a potentially penetrating gunshot wound to the abdomen is emergency evaluation and often emergency surgical consultation is required to rule out acute abdomen, prevent exsanguination, and decrease the likelihood of developing peritonitis and sepsis.
 
 In addition to the physical exam, an emergency assessment may include a FAST (Focused Assessment with Sonography in Trauma) to rule out hemoperitoneum.[4] Health care professionals may choose to order X-rays and other rapid imaging to quickly identify the location of the foreign object or bullet and plan early goal-directed management. In an emergency setting, many patients with abdominal gunshot wounds may be taken immediately to surgery for diagnostic evaluation and treatment of injuries.
 
@@ -73,33 +72,33 @@ The evaluation of any trauma patient begins with evaluating the airway, accessin
 
 1\. Right upper quadrant (RUQ) - when evaluating this region, the evaluator must consider that if the hemorrhage is present within the peritoneum, is most commonly found within the RUQ. The anatomical structures found within a right upper quadrant include:
 
-  * Inferior pole of the right kidney 
+- Inferior pole of the right kidney
 
-  * Subphrenic space (between diaphragm and liver) 
+- Subphrenic space (between diaphragm and liver)
 
-  * Hepatorenal space (between liver and kidney, also known as Morrison's pouch)
+- Hepatorenal space (between liver and kidney, also known as Morrison's pouch)
 
-  * Pleural space
+- Pleural space
 
-2\. Left upper quadrant (LUQ) - the anatomical structures visualized in the LUQ space, also known as the peri-splenic space, include: 
+2\. Left upper quadrant (LUQ) - the anatomical structures visualized in the LUQ space, also known as the peri-splenic space, include:
 
-  * Inferior pole of the left kidney 
+- Inferior pole of the left kidney
 
-  * Subphrenic space
+- Subphrenic space
 
-  * Splenorenal space
+- Splenorenal space
 
-  * Pleural space 
+- Pleural space
 
 3\. Suprapubic space - the anatomical structures visualized in the suprapubic space vary based on gender:
 
-  * Pouch of Douglas (females) 
+- Pouch of Douglas (females)
 
-  * Rectovesicle space (males) 
+- Rectovesicle space (males)
 
-4\. Subcostal space - visualize the pericardium and evaluate for hemopericardium. 
+4\. Subcostal space - visualize the pericardium and evaluate for hemopericardium.
 
-5\. Pulmonary - visualize the space surrounding the lung for pneumothorax or hemothorax 
+5\. Pulmonary - visualize the space surrounding the lung for pneumothorax or hemothorax
 
 It is essential to note in patients that have penetrating abdominal gunshot wounds and peritonitis and/or hemodynamic instability, the mainstay is an operative intervention, and this operative intervention should not be delayed to obtain diagnostic testing.
 
@@ -117,33 +116,33 @@ The initial differential should include an evaluation to determine if the injury
 
 ## Prognosis
 
-The prognostic success of early goal-directed management of abdominal gunshot wounds is of most importance. Still, it is mainly based on the severity and extent of the injury and the time of presentation to the hospital. The usual management of abdominal gunshot wounds involves supportive measures such as hemostasis techniques, blood transfusions, cardiopulmonary support, and surgical attention to injured intraperitoneal structures damaged structures and an attempt to remove foreign objects.[11] Timely surgical intervention may influence mortality and morbidity. Unfortunately, the mortality from abdominal gunshot wounds remains very high. The reason is that the severity of the gunshot wound may vary due to bullet caliber, the trajectory of the object in the body cavity, and energy transfer into the destruction of the penetrating structures. 
+The prognostic success of early goal-directed management of abdominal gunshot wounds is of most importance. Still, it is mainly based on the severity and extent of the injury and the time of presentation to the hospital. The usual management of abdominal gunshot wounds involves supportive measures such as hemostasis techniques, blood transfusions, cardiopulmonary support, and surgical attention to injured intraperitoneal structures damaged structures and an attempt to remove foreign objects.[11] Timely surgical intervention may influence mortality and morbidity. Unfortunately, the mortality from abdominal gunshot wounds remains very high. The reason is that the severity of the gunshot wound may vary due to bullet caliber, the trajectory of the object in the body cavity, and energy transfer into the destruction of the penetrating structures.
 
 A study was published on trauma patients in Philadelphia who experienced penetrating trauma due to penetrating stab wound or gunshot wounds to analyze mortality rates between 2003 and 2007 of patients entering the Philadelphia hospitals. This study reports that of the 4,122 patients taken to eight Level I and Level II adult trauma centers, 2,961 were transported by EMS and 1,161 by the police, and carried an overall mortality rate was 27.4 percent. In this study, about 77.9% of these victims endured gunshot wounds, and about 22.1% endured wounds due to stabbing. Approximately one-third of patients with gunshot wounds expired, and approximately 7.7% died of complications due to stab wounds.[12]
 
 ## Complications
 
-  * Exsanguination
+- Exsanguination
 
-  * Inadequate resuscitation
+- Inadequate resuscitation
 
-  * Airway collapse 
+- Airway collapse
 
-  * Peritonitis 
+- Peritonitis
 
-  * Intra-abdominal sepsis
+- Intra-abdominal sepsis
 
-  * Fistula formation
+- Fistula formation
 
-  * Wound dehiscence
+- Wound dehiscence
 
-  * Hematoma
+- Hematoma
 
-  * Scarring 
+- Scarring
 
-  * Infection
+- Infection
 
-  * Death
+- Death
 
 ## Postoperative and Rehabilitation Care
 
@@ -153,100 +152,84 @@ Postoperative care is directed by the injuries identified at the time of operati
 
 The following consultations are required:
 
-  * Emergency medicine 
+- Emergency medicine
 
-  * General surgery
+- General surgery
 
-  * Trauma surgery 
+- Trauma surgery
 
-  * Radiology
+- Radiology
 
-  * Anesthesia
+- Anesthesia
 
-  * Forensic pathology
+- Forensic pathology
 
 ## Pearls and Other Issues
 
 Mortality rates have substantially decreased in the last two decades as trauma centers have streamlined the approach to diagnosis and management. However, abdominal gunshot wounds are, unfortunately, still extremely common in the US. Healthcare professionals have the opportunity to emphasize safe practices regarding firearms. As part of the society as a collective unit, the healthcare system can be intentional with patients and families in society to emphasize prevention and decreased violence regarding weapons such as firearms. Educational messages such as the danger of firearms and how they should be safely used and stored can be promoted.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The mortality rate from abdominal gunshot wounds remains high due to the high-velocity, penetrating abdominal trauma, and potential shock from damage to organs and intraperitoneal vascular extravasation. Most of the overall mortality due to the injury is in the first 24 hours of insult.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=22465&utm_source=pubmed&utm_campaign=reviews&utm_content=22465)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=22465&utm_source=pubmed&utm_campaign=reviews&utm_content=22465)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/injury-safety-and-violence/abdominal-gunshot-wounds/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=22465)
+- [Click here for a simplified version.](https://mdsearchlight.com/injury-safety-and-violence/abdominal-gunshot-wounds/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=22465)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/22465/?utm_source=pubmed&utm_campaign=comments&utm_content=22465)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/22465/?utm_source=pubmed&utm_campaign=comments&utm_content=22465)
 
 ## References
 
 1.
-    
 
-Ciechanowicz D, Samojło N, Kozłowski J, Pakulski C, Żyluk A. Incidence and etiology of mortality in polytrauma patients: an analysis of material from Multitrauma Centre of the University Teaching Hospital no 1 in Szczecin, over a period of 3 years (2017-2019). Pol Przegl Chir. 2020 Apr 17;92(4):1-6. [[PubMed: 32908009](https://pubmed.ncbi.nlm.nih.gov/32908009)]
+Ciechanowicz D, Samojło N, Kozłowski J, Pakulski C, Żyluk A. Incidence and etiology of mortality in polytrauma patients: an analysis of material from Multitrauma Centre of the University Teaching Hospital no 1 in Szczecin, over a period of 3 years (2017-2019). Pol Przegl Chir. 2020 Apr 17;92(4):1-6. \[[PubMed: 32908009](https://pubmed.ncbi.nlm.nih.gov/32908009)\]
 
 2.
-    
 
-Martin MJ, Brown CVR, Shatz DV, Alam H, Brasel K, Hauser CJ, de Moya M, Moore EE, Vercruysse G, Inaba K. Evaluation and management of abdominal gunshot wounds: A Western Trauma Association critical decisions algorithm. J Trauma Acute Care Surg. 2019 Nov;87(5):1220-1227. [[PubMed: 31233440](https://pubmed.ncbi.nlm.nih.gov/31233440)]
+Martin MJ, Brown CVR, Shatz DV, Alam H, Brasel K, Hauser CJ, de Moya M, Moore EE, Vercruysse G, Inaba K. Evaluation and management of abdominal gunshot wounds: A Western Trauma Association critical decisions algorithm. J Trauma Acute Care Surg. 2019 Nov;87(5):1220-1227. \[[PubMed: 31233440](https://pubmed.ncbi.nlm.nih.gov/31233440)\]
 
 3.
-    
 
-Zeineddin A, Williams M, Nonez H, Nizam W, Olufajo OA, Ortega G, Haider A, Cornwell EE. Gunshot Injuries in American Trauma Centers: Analysis of the Lethality of Multiple Gunshot Wounds. Am Surg. 2021 Jan;87(1):39-44. [[PubMed: 32915073](https://pubmed.ncbi.nlm.nih.gov/32915073)]
+Zeineddin A, Williams M, Nonez H, Nizam W, Olufajo OA, Ortega G, Haider A, Cornwell EE. Gunshot Injuries in American Trauma Centers: Analysis of the Lethality of Multiple Gunshot Wounds. Am Surg. 2021 Jan;87(1):39-44. \[[PubMed: 32915073](https://pubmed.ncbi.nlm.nih.gov/32915073)\]
 
 4.
-    
 
-Sliwinski S, Bechstein WO, Schnitzbauer AA, Malkomes PTZ. [Penetrating abdominal trauma]. Chirurg. 2020 Nov;91(11):979-988. [[PubMed: 32945917](https://pubmed.ncbi.nlm.nih.gov/32945917)]
+Sliwinski S, Bechstein WO, Schnitzbauer AA, Malkomes PTZ. [Penetrating abdominal trauma]. Chirurg. 2020 Nov;91(11):979-988. \[[PubMed: 32945917](https://pubmed.ncbi.nlm.nih.gov/32945917)\]
 
 5.
-    
 
-Fowler KA, Dahlberg LL, Haileyesus T, Annest JL. Firearm injuries in the United States. Prev Med. 2015 Oct;79:5-14. [[PMC free article: PMC4700838](/pmc/articles/PMC4700838/)] [[PubMed: 26116133](https://pubmed.ncbi.nlm.nih.gov/26116133)]
+Fowler KA, Dahlberg LL, Haileyesus T, Annest JL. Firearm injuries in the United States. Prev Med. 2015 Oct;79:5-14. \[[PMC free article: PMC4700838](/pmc/articles/PMC4700838/)\] \[[PubMed: 26116133](https://pubmed.ncbi.nlm.nih.gov/26116133)\]
 
 6.
-    
 
-Sander A, Spence R, Ellsmere J, Hoogerboord M, Edu S, Nicol A, Navsaria P. Penetrating abdominal trauma in the era of selective conservatism: a prospective cohort study in a level 1 trauma center. Eur J Trauma Emerg Surg. 2022 Apr;48(2):881-889. [[PubMed: 32889613](https://pubmed.ncbi.nlm.nih.gov/32889613)]
+Sander A, Spence R, Ellsmere J, Hoogerboord M, Edu S, Nicol A, Navsaria P. Penetrating abdominal trauma in the era of selective conservatism: a prospective cohort study in a level 1 trauma center. Eur J Trauma Emerg Surg. 2022 Apr;48(2):881-889. \[[PubMed: 32889613](https://pubmed.ncbi.nlm.nih.gov/32889613)\]
 
 7.
-    
 
-Sodagari F, Katz DS, Menias CO, Moshiri M, Pellerito JS, Mustafa A, Revzin MV. Imaging Evaluation of Abdominopelvic Gunshot Trauma. Radiographics. 2020 Oct;40(6):1766-1788. [[PubMed: 33001782](https://pubmed.ncbi.nlm.nih.gov/33001782)]
+Sodagari F, Katz DS, Menias CO, Moshiri M, Pellerito JS, Mustafa A, Revzin MV. Imaging Evaluation of Abdominopelvic Gunshot Trauma. Radiographics. 2020 Oct;40(6):1766-1788. \[[PubMed: 33001782](https://pubmed.ncbi.nlm.nih.gov/33001782)\]
 
 8.
-    
 
-Tran A, Taljaard M, Abdulaziz KE, Matar M, Lampron J, Steyerberg EW, Vaillancourt C. Early identification of the need for major intervention in patients with traumatic hemorrhage: development and internal validation of a simple bleeding score. Can J Surg. 2020 Sep-Oct;63(5):E422-E430. [[PMC free article: PMC7608708](/pmc/articles/PMC7608708/)] [[PubMed: 33009903](https://pubmed.ncbi.nlm.nih.gov/33009903)]
+Tran A, Taljaard M, Abdulaziz KE, Matar M, Lampron J, Steyerberg EW, Vaillancourt C. Early identification of the need for major intervention in patients with traumatic hemorrhage: development and internal validation of a simple bleeding score. Can J Surg. 2020 Sep-Oct;63(5):E422-E430. \[[PMC free article: PMC7608708](/pmc/articles/PMC7608708/)\] \[[PubMed: 33009903](https://pubmed.ncbi.nlm.nih.gov/33009903)\]
 
 9.
-    
 
-Bain K, Meytes V, Chang GC, Timoney MF. Laparoscopy in penetrating abdominal trauma is a safe and effective alternative to laparotomy. Surg Endosc. 2019 May;33(5):1618-1625. [[PubMed: 30209608](https://pubmed.ncbi.nlm.nih.gov/30209608)]
+Bain K, Meytes V, Chang GC, Timoney MF. Laparoscopy in penetrating abdominal trauma is a safe and effective alternative to laparotomy. Surg Endosc. 2019 May;33(5):1618-1625. \[[PubMed: 30209608](https://pubmed.ncbi.nlm.nih.gov/30209608)\]
 
 10.
-    
 
-Janež J, Stupan U, Norčič G. Conservative management of abdominoperineal impalement trauma - A case report. Int J Surg Case Rep. 2020;76:41-45. [[PMC free article: PMC7530225](/pmc/articles/PMC7530225/)] [[PubMed: 33010613](https://pubmed.ncbi.nlm.nih.gov/33010613)]
+Janež J, Stupan U, Norčič G. Conservative management of abdominoperineal impalement trauma - A case report. Int J Surg Case Rep. 2020;76:41-45. \[[PMC free article: PMC7530225](/pmc/articles/PMC7530225/)\] \[[PubMed: 33010613](https://pubmed.ncbi.nlm.nih.gov/33010613)\]
 
 11.
-    
 
-Silva FE, Sorrentino BC. Selective conservative treatment for anterior abdominal gunshot: a literature narrative review. Rev Col Bras Cir. 2020;47:e20202523. [[PubMed: 32520133](https://pubmed.ncbi.nlm.nih.gov/32520133)]
+Silva FE, Sorrentino BC. Selective conservative treatment for anterior abdominal gunshot: a literature narrative review. Rev Col Bras Cir. 2020;47:e20202523. \[[PubMed: 32520133](https://pubmed.ncbi.nlm.nih.gov/32520133)\]
 
 12.
-    
 
-Band RA, Salhi RA, Holena DN, Powell E, Branas CC, Carr BG. Severity-adjusted mortality in trauma patients transported by police. Ann Emerg Med. 2014 May;63(5):608-614.e3. [[PMC free article: PMC5912155](/pmc/articles/PMC5912155/)] [[PubMed: 24387925](https://pubmed.ncbi.nlm.nih.gov/24387925)]
-
-    
+Band RA, Salhi RA, Holena DN, Powell E, Branas CC, Carr BG. Severity-adjusted mortality in trauma patients transported by police. Ann Emerg Med. 2014 May;63(5):608-614.e3. \[[PMC free article: PMC5912155](/pmc/articles/PMC5912155/)\] \[[PubMed: 24387925](https://pubmed.ncbi.nlm.nih.gov/24387925)\]
 
 **Disclosure:** Jessica Forbes declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Bracken Burns declares no relevant financial relationships with ineligible companies.

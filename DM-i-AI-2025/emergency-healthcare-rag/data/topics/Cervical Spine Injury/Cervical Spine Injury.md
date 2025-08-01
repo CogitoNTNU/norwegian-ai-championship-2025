@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-38689/
-scraped_date: 2025-07-22 12:46:41 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-38689/ scraped_date: 2025-07-22 12:46:41 UTC
 
 # Geriatric Cervical Spine Injury
 
@@ -27,13 +26,13 @@ According to the National Hospital Ambulatory Medical Care Survey, there are 12 
 
 **Objectives:**
 
-  * Review the various type of cervical spine injuries, most notably fractures, in light of pre-disposing factors and pathologies prevalent in geriatric patients.
+- Review the various type of cervical spine injuries, most notably fractures, in light of pre-disposing factors and pathologies prevalent in geriatric patients.
 
-  * Outline the diagnostic approach and evaluation criteria for potential cervical spine injuries in the geriatric population.
+- Outline the diagnostic approach and evaluation criteria for potential cervical spine injuries in the geriatric population.
 
-  * Summarize the treatment options for cervical spine fractures and other injuries in the elderly.
+- Summarize the treatment options for cervical spine fractures and other injuries in the elderly.
 
-  * Explain possible interprofessional team strategies for improving care coordination and communication to advance the evaluation and treatment of cervical spine injuries in the elderly and improve outcomes.
+- Explain possible interprofessional team strategies for improving care coordination and communication to advance the evaluation and treatment of cervical spine injuries in the elderly and improve outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=38689&utm_source=pubmed&utm_campaign=reviews&utm_content=38689)
 
@@ -77,7 +76,7 @@ Since the overall incidence of injury to the spine is low, and CT scanning is co
 
 The NEXUS decision rule (absence of focal neurologic deficit, absence of intoxication, absence of midline neck tenderness, and absence of distracting injury in a patient with normal alertness) has been validated in geriatric patients for detection of clinically important injuries. However, data are conflicting, and many providers are reluctant to use this decision rule in the geriatric patient. NEXUS also suffers from difficulty with reproducibility of results. "Normal alertness" and "absence of distracting injury," in particular, are subject to interpretation by the evaluating provider. One prospective study on geriatric patients used "baseline mental status" as a substitute for "normal alertness" and "signs of trauma to the head or neck" as a substitute for "distracting injury" and found NEXUS to be 100% sensitive in detection of cervical injury, but the incidence of injury in this study was low.[12][13]
 
-The weight of the evidence supports clinical decision rule use to clear the geriatric cervical spine, but given that the geriatric trauma patient has double the risk of cervical spine injury as compared to younger patients, the provider should have a low threshold to image these patients. 
+The weight of the evidence supports clinical decision rule use to clear the geriatric cervical spine, but given that the geriatric trauma patient has double the risk of cervical spine injury as compared to younger patients, the provider should have a low threshold to image these patients.
 
 Geriatric patients with a cervical spine fracture have a high rate of fractures to other vertebrae in the spinal column. Therefore, diagnosis of a fracture in the cervical spine should prompt imaging of the spine in its entirety.[14][15][16][17][18][17]
 
@@ -87,29 +86,29 @@ Management of cervical spine injury in geriatric patients is controversial. Opti
 
 ## Differential Diagnosis
 
-  * Acute torticollis
+- Acute torticollis
 
-  * Cauda equina and conus medullaris syndrome
+- Cauda equina and conus medullaris syndrome
 
-  * Cervical strain
+- Cervical strain
 
-  * Hanging injuries and strangulation
+- Hanging injuries and strangulation
 
-  * Neck trauma
+- Neck trauma
 
-  * Septic shock
+- Septic shock
 
-  * Spinal cord infections
+- Spinal cord infections
 
-  * Spinal cord injuries
+- Spinal cord injuries
 
-  * Spinal cord neoplasms
+- Spinal cord neoplasms
 
-  * Thoracic outlet syndrome imaging
+- Thoracic outlet syndrome imaging
 
-  * Vertebral artery dissection
+- Vertebral artery dissection
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 An interprofessional approach to cervical spine injury in the elderly is recommended.
 
@@ -117,108 +116,86 @@ Unlike the younger patient, the management of cervical spine injury in the elder
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=38689&utm_source=pubmed&utm_campaign=reviews&utm_content=38689)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=38689&utm_source=pubmed&utm_campaign=reviews&utm_content=38689)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/joint-muscle-and-bone/geriatric-cervical-spine-injury/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=38689)
+- [Click here for a simplified version.](https://mdsearchlight.com/joint-muscle-and-bone/geriatric-cervical-spine-injury/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=38689)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/38689/?utm_source=pubmed&utm_campaign=comments&utm_content=38689)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/38689/?utm_source=pubmed&utm_campaign=comments&utm_content=38689)
 
 ## References
 
 1.
-    
 
-Bokhari AR, Sivakumar B, Sefton A, Lin JL, Smith MM, Gray R, Hartin N. Morbidity and mortality in cervical spine injuries in the elderly. ANZ J Surg. 2019 Apr;89(4):412-417. [[PubMed: 30294850](https://pubmed.ncbi.nlm.nih.gov/30294850)]
+Bokhari AR, Sivakumar B, Sefton A, Lin JL, Smith MM, Gray R, Hartin N. Morbidity and mortality in cervical spine injuries in the elderly. ANZ J Surg. 2019 Apr;89(4):412-417. \[[PubMed: 30294850](https://pubmed.ncbi.nlm.nih.gov/30294850)\]
 
 2.
-    
 
-Bank M, Gibbs K, Sison C, Kutub N, Paptheodorou A, Lee S, Stein A, Bloom O. Age and Other Risk Factors Influencing Long-Term Mortality in Patients With Traumatic Cervical Spine Fracture. Geriatr Orthop Surg Rehabil. 2018;9:2151459318770882. [[PMC free article: PMC5946346](/pmc/articles/PMC5946346/)] [[PubMed: 29760965](https://pubmed.ncbi.nlm.nih.gov/29760965)]
+Bank M, Gibbs K, Sison C, Kutub N, Paptheodorou A, Lee S, Stein A, Bloom O. Age and Other Risk Factors Influencing Long-Term Mortality in Patients With Traumatic Cervical Spine Fracture. Geriatr Orthop Surg Rehabil. 2018;9:2151459318770882. \[[PMC free article: PMC5946346](/pmc/articles/PMC5946346/)\] \[[PubMed: 29760965](https://pubmed.ncbi.nlm.nih.gov/29760965)\]
 
 3.
-    
 
-Varacallo M, Seaman TJ, Jandu JS, Pizzutillo P. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Aug 4, 2023. Osteopenia. [[PubMed: 29763053](https://pubmed.ncbi.nlm.nih.gov/29763053)]
+Varacallo M, Seaman TJ, Jandu JS, Pizzutillo P. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Aug 4, 2023. Osteopenia. \[[PubMed: 29763053](https://pubmed.ncbi.nlm.nih.gov/29763053)\]
 
 4.
-    
 
-Varacallo MA, Fox EJ. Osteoporosis and its complications. Med Clin North Am. 2014 Jul;98(4):817-31, xii-xiii. [[PubMed: 24994054](https://pubmed.ncbi.nlm.nih.gov/24994054)]
+Varacallo MA, Fox EJ. Osteoporosis and its complications. Med Clin North Am. 2014 Jul;98(4):817-31, xii-xiii. \[[PubMed: 24994054](https://pubmed.ncbi.nlm.nih.gov/24994054)\]
 
 5.
-    
 
-Varacallo MA, Fox EJ, Paul EM, Hassenbein SE, Warlow PM. Patients' response toward an automated orthopedic osteoporosis intervention program. Geriatr Orthop Surg Rehabil. 2013 Sep;4(3):89-98. [[PMC free article: PMC3848331](/pmc/articles/PMC3848331/)] [[PubMed: 24319621](https://pubmed.ncbi.nlm.nih.gov/24319621)]
+Varacallo MA, Fox EJ, Paul EM, Hassenbein SE, Warlow PM. Patients' response toward an automated orthopedic osteoporosis intervention program. Geriatr Orthop Surg Rehabil. 2013 Sep;4(3):89-98. \[[PMC free article: PMC3848331](/pmc/articles/PMC3848331/)\] \[[PubMed: 24319621](https://pubmed.ncbi.nlm.nih.gov/24319621)\]
 
 6.
-    
 
-Delcourt T, Bégué T, Saintyves G, Mebtouche N, Cottin P. Management of upper cervical spine fractures in elderly patients: current trends and outcomes. Injury. 2015 Jan;46 Suppl 1:S24-7. [[PubMed: 26528937](https://pubmed.ncbi.nlm.nih.gov/26528937)]
+Delcourt T, Bégué T, Saintyves G, Mebtouche N, Cottin P. Management of upper cervical spine fractures in elderly patients: current trends and outcomes. Injury. 2015 Jan;46 Suppl 1:S24-7. \[[PubMed: 26528937](https://pubmed.ncbi.nlm.nih.gov/26528937)\]
 
 7.
-    
 
-Lomoschitz FM, Blackmore CC, Mirza SK, Mann FA. Cervical spine injuries in patients 65 years old and older: epidemiologic analysis regarding the effects of age and injury mechanism on distribution, type, and stability of injuries. AJR Am J Roentgenol. 2002 Mar;178(3):573-7. [[PubMed: 11856676](https://pubmed.ncbi.nlm.nih.gov/11856676)]
+Lomoschitz FM, Blackmore CC, Mirza SK, Mann FA. Cervical spine injuries in patients 65 years old and older: epidemiologic analysis regarding the effects of age and injury mechanism on distribution, type, and stability of injuries. AJR Am J Roentgenol. 2002 Mar;178(3):573-7. \[[PubMed: 11856676](https://pubmed.ncbi.nlm.nih.gov/11856676)\]
 
 8.
-    
 
-Denver D, Shetty A, Unwin D. Falls and Implementation of NEXUS in the Elderly (The FINE Study). J Emerg Med. 2015 Sep;49(3):294-300. [[PubMed: 26022935](https://pubmed.ncbi.nlm.nih.gov/26022935)]
+Denver D, Shetty A, Unwin D. Falls and Implementation of NEXUS in the Elderly (The FINE Study). J Emerg Med. 2015 Sep;49(3):294-300. \[[PubMed: 26022935](https://pubmed.ncbi.nlm.nih.gov/26022935)\]
 
 9.
-    
 
-Yadollahi M, Paydar S, Ghaem H, Ghorbani M, Mousavi SM, Taheri Akerdi A, Jalili E, Niakan MH, Khalili HA, Haghnegahdar A, Bolandparvaz S. Epidemiology of Cervical Spine Fractures. Trauma Mon. 2016 Jul;21(3):e33608. [[PMC free article: PMC5124335](/pmc/articles/PMC5124335/)] [[PubMed: 27921020](https://pubmed.ncbi.nlm.nih.gov/27921020)]
+Yadollahi M, Paydar S, Ghaem H, Ghorbani M, Mousavi SM, Taheri Akerdi A, Jalili E, Niakan MH, Khalili HA, Haghnegahdar A, Bolandparvaz S. Epidemiology of Cervical Spine Fractures. Trauma Mon. 2016 Jul;21(3):e33608. \[[PMC free article: PMC5124335](/pmc/articles/PMC5124335/)\] \[[PubMed: 27921020](https://pubmed.ncbi.nlm.nih.gov/27921020)\]
 
 10.
-    
 
-Golob JF, Claridge JA, Yowler CJ, Como JJ, Peerless JR. Isolated cervical spine fractures in the elderly: a deadly injury. J Trauma. 2008 Feb;64(2):311-5. [[PubMed: 18301192](https://pubmed.ncbi.nlm.nih.gov/18301192)]
+Golob JF, Claridge JA, Yowler CJ, Como JJ, Peerless JR. Isolated cervical spine fractures in the elderly: a deadly injury. J Trauma. 2008 Feb;64(2):311-5. \[[PubMed: 18301192](https://pubmed.ncbi.nlm.nih.gov/18301192)\]
 
 11.
-    
 
-Sethi RK, Kozin ED, Fagenholz PJ, Lee DJ, Shrime MG, Gray ST. Epidemiological survey of head and neck injuries and trauma in the United States. Otolaryngol Head Neck Surg. 2014 Nov;151(5):776-84. [[PMC free article: PMC4481864](/pmc/articles/PMC4481864/)] [[PubMed: 25139950](https://pubmed.ncbi.nlm.nih.gov/25139950)]
+Sethi RK, Kozin ED, Fagenholz PJ, Lee DJ, Shrime MG, Gray ST. Epidemiological survey of head and neck injuries and trauma in the United States. Otolaryngol Head Neck Surg. 2014 Nov;151(5):776-84. \[[PMC free article: PMC4481864](/pmc/articles/PMC4481864/)\] \[[PubMed: 25139950](https://pubmed.ncbi.nlm.nih.gov/25139950)\]
 
 12.
-    
 
-Tran J, Jeanmonod D, Agresti D, Hamden K, Jeanmonod RK. Prospective Validation of Modified NEXUS Cervical Spine Injury Criteria in Low-risk Elderly Fall Patients. West J Emerg Med. 2016 May;17(3):252-7. [[PMC free article: PMC4899054](/pmc/articles/PMC4899054/)] [[PubMed: 27330655](https://pubmed.ncbi.nlm.nih.gov/27330655)]
+Tran J, Jeanmonod D, Agresti D, Hamden K, Jeanmonod RK. Prospective Validation of Modified NEXUS Cervical Spine Injury Criteria in Low-risk Elderly Fall Patients. West J Emerg Med. 2016 May;17(3):252-7. \[[PMC free article: PMC4899054](/pmc/articles/PMC4899054/)\] \[[PubMed: 27330655](https://pubmed.ncbi.nlm.nih.gov/27330655)\]
 
 13.
-    
 
-Morrison J, Jeanmonod R. Imaging in the NEXUS-negative patient: when we break the rule. Am J Emerg Med. 2014 Jan;32(1):67-70. [[PubMed: 24094866](https://pubmed.ncbi.nlm.nih.gov/24094866)]
+Morrison J, Jeanmonod R. Imaging in the NEXUS-negative patient: when we break the rule. Am J Emerg Med. 2014 Jan;32(1):67-70. \[[PubMed: 24094866](https://pubmed.ncbi.nlm.nih.gov/24094866)\]
 
 14.
-    
 
-Kanwar R, Delasobera BE, Hudson K, Frohna W. Emergency department evaluation and treatment of cervical spine injuries. Emerg Med Clin North Am. 2015 May;33(2):241-82. [[PubMed: 25892721](https://pubmed.ncbi.nlm.nih.gov/25892721)]
+Kanwar R, Delasobera BE, Hudson K, Frohna W. Emergency department evaluation and treatment of cervical spine injuries. Emerg Med Clin North Am. 2015 May;33(2):241-82. \[[PubMed: 25892721](https://pubmed.ncbi.nlm.nih.gov/25892721)\]
 
 15.
-    
 
-Daffner RH, Hackney DB. ACR Appropriateness Criteria on suspected spine trauma. J Am Coll Radiol. 2007 Nov;4(11):762-75. [[PubMed: 17964500](https://pubmed.ncbi.nlm.nih.gov/17964500)]
+Daffner RH, Hackney DB. ACR Appropriateness Criteria on suspected spine trauma. J Am Coll Radiol. 2007 Nov;4(11):762-75. \[[PubMed: 17964500](https://pubmed.ncbi.nlm.nih.gov/17964500)\]
 
 16.
-    
 
-Sadro CT, Sandstrom CK, Verma N, Gunn ML. Geriatric Trauma: A Radiologist's Guide to Imaging Trauma Patients Aged 65 Years and Older. Radiographics. 2015 Jul-Aug;35(4):1263-85. [[PubMed: 26065932](https://pubmed.ncbi.nlm.nih.gov/26065932)]
+Sadro CT, Sandstrom CK, Verma N, Gunn ML. Geriatric Trauma: A Radiologist's Guide to Imaging Trauma Patients Aged 65 Years and Older. Radiographics. 2015 Jul-Aug;35(4):1263-85. \[[PubMed: 26065932](https://pubmed.ncbi.nlm.nih.gov/26065932)\]
 
 17.
-    
 
-Moser N, Lemeunier N, Southerst D, Shearer H, Murnaghan K, Sutton D, Côté P. Validity and reliability of clinical prediction rules used to screen for cervical spine injury in alert low-risk patients with blunt trauma to the neck: part 2. A systematic review from the Cervical Assessment and Diagnosis Research Evaluation (CADRE) Collaboration. Eur Spine J. 2018 Jun;27(6):1219-1233. [[PubMed: 28940048](https://pubmed.ncbi.nlm.nih.gov/28940048)]
+Moser N, Lemeunier N, Southerst D, Shearer H, Murnaghan K, Sutton D, Côté P. Validity and reliability of clinical prediction rules used to screen for cervical spine injury in alert low-risk patients with blunt trauma to the neck: part 2. A systematic review from the Cervical Assessment and Diagnosis Research Evaluation (CADRE) Collaboration. Eur Spine J. 2018 Jun;27(6):1219-1233. \[[PubMed: 28940048](https://pubmed.ncbi.nlm.nih.gov/28940048)\]
 
 18.
-    
 
-Evans D, Vera L, Jeanmonod D, Pester J, Jeanmonod R. Application of National Emergency X-Ray Utilizations Study low-risk c-spine criteria in high-risk geriatric falls. Am J Emerg Med. 2015 Sep;33(9):1184-7. [[PubMed: 26092674](https://pubmed.ncbi.nlm.nih.gov/26092674)]
-
-    
+Evans D, Vera L, Jeanmonod D, Pester J, Jeanmonod R. Application of National Emergency X-Ray Utilizations Study low-risk c-spine criteria in high-risk geriatric falls. Am J Emerg Med. 2015 Sep;33(9):1184-7. \[[PubMed: 26092674](https://pubmed.ncbi.nlm.nih.gov/26092674)\]
 
 **Disclosure:** Rebecca Jeanmonod declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Matthew Varacallo declares no relevant financial relationships with ineligible companies.

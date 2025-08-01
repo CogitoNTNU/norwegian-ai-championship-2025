@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17161/
-scraped_date: 2025-07-22 12:36:31 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17161/ scraped_date: 2025-07-22 12:36:31 UTC
 
 # Acute Myocarditis
 
@@ -27,13 +26,13 @@ This activity provides a comprehensive review of acute myocarditis, focusing on 
 
 **Objectives:**
 
-  * Identify early clinical signs and symptoms of acute myocarditis to facilitate timely diagnosis and interventions.
+- Identify early clinical signs and symptoms of acute myocarditis to facilitate timely diagnosis and interventions.
 
-  * Differentiate acute myocarditis from other cardiac conditions with similar presentations, such as coronary artery disease, pericarditis, or heart failure, based on clinical presentation and diagnostic tools.
+- Differentiate acute myocarditis from other cardiac conditions with similar presentations, such as coronary artery disease, pericarditis, or heart failure, based on clinical presentation and diagnostic tools.
 
-  * Apply evidence-based management strategies for acute myocarditis, including guideline-directed therapy for heart failure, arrhythmias, and etiology-specific treatments.
+- Apply evidence-based management strategies for acute myocarditis, including guideline-directed therapy for heart failure, arrhythmias, and etiology-specific treatments.
 
-  * Collaborate with interprofessional healthcare providers to manage severe cases of myocarditis, particularly those requiring mechanical circulatory support or heart transplantation.
+- Collaborate with interprofessional healthcare providers to manage severe cases of myocarditis, particularly those requiring mechanical circulatory support or heart transplantation.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17161&utm_source=pubmed&utm_campaign=reviews&utm_content=17161)
 
@@ -51,15 +50,15 @@ Acute myocarditis can be broadly categorized into infectious and noninfectious c
 
 **Infectious Causes of Acute Myocarditis**
 
-  * Viruses: Coxsackie and echoviruses are the most common cardiotropic viruses causing myocarditis. Other viral pathogens include HIV, adenovirus, hepatitis B and C, parvovirus B19, poliovirus, and Epstein-Barr virus.[8]
+- Viruses: Coxsackie and echoviruses are the most common cardiotropic viruses causing myocarditis. Other viral pathogens include HIV, adenovirus, hepatitis B and C, parvovirus B19, poliovirus, and Epstein-Barr virus.[8]
 
-  * Bacteria: Common bacterial causes include  _Legionella_ , _Staphylococcus_ species, _Salmonella_ , _Shigella_ , _Streptococcus_ species, _Clostridium_ , and _Mycobacterium tuberculosis_. 
+- Bacteria: Common bacterial causes include _Legionella_ , _Staphylococcus_ species, _Salmonella_ , _Shigella_ , _Streptococcus_ species, _Clostridium_ , and _Mycobacterium tuberculosis_.
 
-  * Parasites: Notable parasitic causes include _Trichinella spiralis_ (trichinosis) and _Schistosoma_ species (schistosomiasis).
+- Parasites: Notable parasitic causes include _Trichinella spiralis_ (trichinosis) and _Schistosoma_ species (schistosomiasis).
 
-  * Protozoa: The important protozoan pathogens include  _Trypanosoma cruzi_ (the causative agent of Chagas disease) and _Toxoplasma gondii._
+- Protozoa: The important protozoan pathogens include _Trypanosoma cruzi_ (the causative agent of Chagas disease) and _Toxoplasma gondii._
 
-  * Spirochetes:  _Borrelia burgdorferi_ , the causative agent of Lyme disease, can also lead to myocarditis.
+- Spirochetes: _Borrelia burgdorferi_ , the causative agent of Lyme disease, can also lead to myocarditis.
 
 **Noninfectious Causes of Acute Myocarditis**
 
@@ -75,11 +74,11 @@ According to the Global Burden of Disease Report (2019), the estimated incidence
 
 Acute myocarditis is classified as an inflammatory cardiomyopathy. A triphasic model has been proposed to describe the pathophysiology of acute myocarditis.
 
-  * Phase I involves direct myocardial injury caused by infectious agents (viruses, bacteria, fungi, parasites), toxins, drugs, or autoimmune mechanisms.
+- Phase I involves direct myocardial injury caused by infectious agents (viruses, bacteria, fungi, parasites), toxins, drugs, or autoimmune mechanisms.
 
-  * Phase II involves an immune-mediated response characterized by cytokine release, cellular infiltration, molecular mimicry, production of antimyocyte antibodies, and a T-cell response targeting cardiac self-antigens.
+- Phase II involves an immune-mediated response characterized by cytokine release, cellular infiltration, molecular mimicry, production of antimyocyte antibodies, and a T-cell response targeting cardiac self-antigens.
 
-  * Phase III represents either resolution or progression to chronic disease. Potential outcomes include complete resolution with full recovery, chronic inflammation, myocardial fibrosis, cardiomyopathy, or progression to dilated cardiomyopathy.[7]
+- Phase III represents either resolution or progression to chronic disease. Potential outcomes include complete resolution with full recovery, chronic inflammation, myocardial fibrosis, cardiomyopathy, or progression to dilated cardiomyopathy.[7]
 
 Autoimmunity has a significant role in inflammatory myocarditis.[15] Autoantibodies against the cardiac myosin chain are detected in more than half of cases of inflammatory myocarditis. Additionally, environmental factors may interact with genetic predispositions to promote inflammatory responses.[6]
 
@@ -105,15 +104,15 @@ On physical examination, findings typically correlate with the degree of cardiac
 
 The ACC recommends a structured 5-step approach for evaluating and diagnosing acute myocarditis. This framework integrates clinical judgment with targeted diagnostic tools to ensure a comprehensive and systematic assessment.
 
-  * Step 1—Initial evaluation: When acute myocarditis is clinically suspected, the first step involves obtaining a complete blood count (CBC) with differential, cardiac biomarkers, an electrocardiogram (ECG), and a transthoracic echocardiogram. Evaluation should also aim to identify or rule out underlying CAD when clinically indicated.
+- Step 1—Initial evaluation: When acute myocarditis is clinically suspected, the first step involves obtaining a complete blood count (CBC) with differential, cardiac biomarkers, an electrocardiogram (ECG), and a transthoracic echocardiogram. Evaluation should also aim to identify or rule out underlying CAD when clinically indicated.
 
-  * Step 2—Clinical triage: Patients should be triaged based on hemodynamic stability and symptom severity to determine the need for hospitalization, urgent referral to an advanced heart failure center, immediate arrhythmia management, or mechanical circulatory support.
+- Step 2—Clinical triage: Patients should be triaged based on hemodynamic stability and symptom severity to determine the need for hospitalization, urgent referral to an advanced heart failure center, immediate arrhythmia management, or mechanical circulatory support.
 
-  * Step 3—Definitive diagnostics: Cardiac MRI with T1 and T2 mapping is the key diagnostic tool essential for evaluating myocardial inflammation and injury. Endomyocardial biopsy (EMB) should be considered in selected cases, particularly when the diagnosis is unclear or when specific histopathological subtypes are suspected.
+- Step 3—Definitive diagnostics: Cardiac MRI with T1 and T2 mapping is the key diagnostic tool essential for evaluating myocardial inflammation and injury. Endomyocardial biopsy (EMB) should be considered in selected cases, particularly when the diagnosis is unclear or when specific histopathological subtypes are suspected.
 
-  * Step 4—Therapeutic management: Management includes discontinuing the inciting agent, addressing the underlying cause, treating any arrhythmias or cardiogenic shock, and enforcing temporary restrictions on strenuous activity, including competitive sports.
+- Step 4—Therapeutic management: Management includes discontinuing the inciting agent, addressing the underlying cause, treating any arrhythmias or cardiogenic shock, and enforcing temporary restrictions on strenuous activity, including competitive sports.
 
-  * Step 5—Longitudinal surveillance: Follow-up involves serial monitoring with cardiac biomarkers, echocardiography, and cardiac MRI with tissue mapping. When indicated, genetic counseling and testing should be incorporated. A comprehensive reevaluation is essential before clearing patients for return to high-intensity physical activity or competitive sports.
+- Step 5—Longitudinal surveillance: Follow-up involves serial monitoring with cardiac biomarkers, echocardiography, and cardiac MRI with tissue mapping. When indicated, genetic counseling and testing should be incorporated. A comprehensive reevaluation is essential before clearing patients for return to high-intensity physical activity or competitive sports.
 
 According to the 2013 European Society of Cardiology (ESC) guidelines and subsequent updates, a diagnosis of acute myocarditis is suspected when at least 1 clinical presentation is accompanied by a diagnostic finding from noninvasive testing. In asymptomatic individuals, at least 2 diagnostic criteria are required to establish the diagnosis. Clinical presentations may include chest pain, symptoms of heart failure, arrhythmias, or cardiogenic shock.
 
@@ -121,7 +120,7 @@ Diagnostic findings include electrocardiographic abnormalities, such as ST-T wav
 
 **Diagnostic Investigations for Myocarditis**
 
-The tests mentioned below are commonly used to evaluate patients with suspected myocarditis: 
+The tests mentioned below are commonly used to evaluate patients with suspected myocarditis:
 
 **Complete blood count**
 
@@ -149,48 +148,49 @@ Echocardiography is a widely accessible bedside tool used to assess myocardial f
 
 **Cardiac magnetic resonance imaging**
 
-Cardiac MRI has become the gold standard for the noninvasive evaluation of myocarditis, offering detailed insights into structural and functional cardiac changes. In acute myocarditis, MRI can detect hallmark features, including myocardial edema, increased vascular permeability, hyperemia, myocyte necrosis, fibrosis, and pericardial involvement. Key imaging findings are listed below. 
+Cardiac MRI has become the gold standard for the noninvasive evaluation of myocarditis, offering detailed insights into structural and functional cardiac changes. In acute myocarditis, MRI can detect hallmark features, including myocardial edema, increased vascular permeability, hyperemia, myocyte necrosis, fibrosis, and pericardial involvement. Key imaging findings are listed below.
 
-  * Early gadolinium enhancement or EGE: This suggests the expansion of the extracellular space due to capillary leakage and hyperemia. 
+- Early gadolinium enhancement or EGE: This suggests the expansion of the extracellular space due to capillary leakage and hyperemia.
 
-  * T1 mapping: This reveals increased T1 values, indicating cellular damage, edema, and inflammation.
+- T1 mapping: This reveals increased T1 values, indicating cellular damage, edema, and inflammation.
 
-  * T2 mapping: This demonstrates increased T2 signal intensity, indicating myocardial edema.
+- T2 mapping: This demonstrates increased T2 signal intensity, indicating myocardial edema.
 
-  * Late gadolinium enhancement or LGE: This identifies patchy fibrosis and necrosis, typically in a nonischemic distribution—most often subepicardial or midwall—and commonly affects the inferolateral wall. The lack of enhancement in a coronary artery distribution helps differentiate myocarditis from ischemic injury. 
+- Late gadolinium enhancement or LGE: This identifies patchy fibrosis and necrosis, typically in a nonischemic distribution—most often subepicardial or midwall—and commonly affects the inferolateral wall. The lack of enhancement in a coronary artery distribution helps differentiate myocarditis from ischemic injury.
 
-  * Extracellular volume or ECV: An increased ECV indicates expansion of the interstitial space caused by edema, inflammation, or fibrosis. This parameter is valuable in distinguishing active myocardial inflammation from chronic scarring. 
+- Extracellular volume or ECV: An increased ECV indicates expansion of the interstitial space caused by edema, inflammation, or fibrosis. This parameter is valuable in distinguishing active myocardial inflammation from chronic scarring.
 
-The 2018 updated Lake Louise criteria are widely used for diagnosing myocarditis.[17] A diagnosis of acute myocarditis is considered probable when at least one T2-based criterion and one T1-based criterion are present. T1-based criteria include nonischemic LGE, increased native T1 values, or increased ECV. T2-based criteria include increased T2 values or increased myocardial T2 signal intensity. 
+The 2018 updated Lake Louise criteria are widely used for diagnosing myocarditis.[17] A diagnosis of acute myocarditis is considered probable when at least one T2-based criterion and one T1-based criterion are present. T1-based criteria include nonischemic LGE, increased native T1 values, or increased ECV. T2-based criteria include increased T2 values or increased myocardial T2 signal intensity.
 
 **Endomyocardial biopsy**
 
 EMB remains the gold standard for the definitive diagnosis of myocarditis.
 
-  * According to the 2024 ACC ECDP, EMB is indicated in the following scenarios: 
-    * Stage B myocarditis in patients receiving immune checkpoint inhibitors (ICIs).
+- According to the 2024 ACC ECDP, EMB is indicated in the following scenarios:
 
-    * Stage C myocarditis in the presence of left ventricular dysfunction, heart failure, arrhythmias, or peripheral eosinophilia.
+  - Stage B myocarditis in patients receiving immune checkpoint inhibitors (ICIs).
 
-    * Patients who are unable to undergo cardiac MRI or have an uncertain diagnosis.
+  - Stage C myocarditis in the presence of left ventricular dysfunction, heart failure, arrhythmias, or peripheral eosinophilia.
 
-    * Stage D myocarditis patients. 
+  - Patients who are unable to undergo cardiac MRI or have an uncertain diagnosis.
 
-  * A biopsy should not be performed in stage B patients who are not receiving ICIs, have normal ejection fraction, minimal or no LGE, or exhibit hemodynamic or electrical instability.[5] EMB is recommended only when the potential clinical benefit clearly outweighs the risks associated with the procedure.
+  - Stage D myocarditis patients.
 
-  * The rate of major complications—such as cardiac perforation, tamponade, pneumothorax, arrhythmias, embolism, and valvular injury—is less than 1% when the procedure is performed in experienced centers.
+- A biopsy should not be performed in stage B patients who are not receiving ICIs, have normal ejection fraction, minimal or no LGE, or exhibit hemodynamic or electrical instability.[5] EMB is recommended only when the potential clinical benefit clearly outweighs the risks associated with the procedure.
 
-  * The histopathology of acute myocarditis varies depending on the causative organism and the extent of myocardial damage, which can be either focal or diffuse. Necrosis involving the coronary vessels may also be observed. In chronic cases, fibrosis may become evident. EMB is not routinely performed in nonfatal cases. Patients with myocarditis may or may not show evidence of viral genomes through polymerase chain reaction (PCR).
+- The rate of major complications—such as cardiac perforation, tamponade, pneumothorax, arrhythmias, embolism, and valvular injury—is less than 1% when the procedure is performed in experienced centers.
 
-  * The Dallas criteria (1987) were the most widely adopted histopathological standards by pathologists for diagnosing myocarditis.[18] These criteria define "active myocarditis" as histological evidence of myocyte damage in a pattern that is not consistent with ischemic injury. This is characterized by mononuclear infiltrates, and in some cases, neutrophilic or eosinophilic infiltrates may also be present. If the mononuclear infiltrates are sparse, the condition is classified as "borderline myocarditis." The absence of these changes is classified as "no myocarditis." The Dallas criteria have a sensitivity of 60% and a specificity of 80%. In subsequent biopsies, the criteria further classify myocarditis as "persistent, healing, or healed," with or without the presence of fibrosis. 
+- The histopathology of acute myocarditis varies depending on the causative organism and the extent of myocardial damage, which can be either focal or diffuse. Necrosis involving the coronary vessels may also be observed. In chronic cases, fibrosis may become evident. EMB is not routinely performed in nonfatal cases. Patients with myocarditis may or may not show evidence of viral genomes through polymerase chain reaction (PCR).
 
-  * The World Health Organization (WHO) endorses a combination of histopathology and immunohistology for classifying myocarditis. According to the WHO Marburg criteria, acute (active) myocarditis is characterized by more than 14 leukocytes per square millimeter, along with evidence of degeneration or necrosis. Chronic myocarditis also shows more than 14 leukocytes per square millimeter; however, necrosis or degeneration is typically absent. A leukocyte count of fewer than 14 per square millimeter suggests no myocarditis.[6]
+- The Dallas criteria (1987) were the most widely adopted histopathological standards by pathologists for diagnosing myocarditis.[18] These criteria define "active myocarditis" as histological evidence of myocyte damage in a pattern that is not consistent with ischemic injury. This is characterized by mononuclear infiltrates, and in some cases, neutrophilic or eosinophilic infiltrates may also be present. If the mononuclear infiltrates are sparse, the condition is classified as "borderline myocarditis." The absence of these changes is classified as "no myocarditis." The Dallas criteria have a sensitivity of 60% and a specificity of 80%. In subsequent biopsies, the criteria further classify myocarditis as "persistent, healing, or healed," with or without the presence of fibrosis.
+
+- The World Health Organization (WHO) endorses a combination of histopathology and immunohistology for classifying myocarditis. According to the WHO Marburg criteria, acute (active) myocarditis is characterized by more than 14 leukocytes per square millimeter, along with evidence of degeneration or necrosis. Chronic myocarditis also shows more than 14 leukocytes per square millimeter; however, necrosis or degeneration is typically absent. A leukocyte count of fewer than 14 per square millimeter suggests no myocarditis.[6]
 
 **Nuclear perfusion imaging and fluorodeoxyglucose-positron emission tomography scan**
 
-  * Acute myocarditis is characterized by inflammatory cell infiltration, with activated immune cells exhibiting increased glucose metabolism. This heightened metabolic activity results in increased FDG uptake on PET imaging, which can be used to assess the extent and severity of myocardial inflammation. The typical findings on FDG-PET include patchy, diffuse, or focal uptake patterns that generally do not align with coronary artery territories. These areas of FDG uptake often correlate with T2-weighted hyperintensity and LGE observed on cardiac MRI.
+- Acute myocarditis is characterized by inflammatory cell infiltration, with activated immune cells exhibiting increased glucose metabolism. This heightened metabolic activity results in increased FDG uptake on PET imaging, which can be used to assess the extent and severity of myocardial inflammation. The typical findings on FDG-PET include patchy, diffuse, or focal uptake patterns that generally do not align with coronary artery territories. These areas of FDG uptake often correlate with T2-weighted hyperintensity and LGE observed on cardiac MRI.
 
-  * Adequate patient preparation for FDG-PET imaging includes following a high-fat, low-carbohydrate diet for 12 to 24 hours before the scan to suppress normal myocardial glucose uptake. Additionally, a 12-hour fasting period is recommended before the FDG injection. In some cases, a heparin injection may be administered to further enhance myocardial fatty acid metabolism and improve image specificity.
+- Adequate patient preparation for FDG-PET imaging includes following a high-fat, low-carbohydrate diet for 12 to 24 hours before the scan to suppress normal myocardial glucose uptake. Additionally, a 12-hour fasting period is recommended before the FDG injection. In some cases, a heparin injection may be administered to further enhance myocardial fatty acid metabolism and improve image specificity.
 
 **Coronary angiography**
 
@@ -200,15 +200,15 @@ This technique is considered the gold standard for ruling out CAD, particularly 
 
 **Management of Acute Myocarditis by Disease Stage**
 
-The management of acute myocarditis is tailored to the stage of the disease, as mentioned below. 
+The management of acute myocarditis is tailored to the stage of the disease, as mentioned below.
 
-  * Stage A: Patients in stage A are at risk for developing myocarditis. Management includes close monitoring for disease progression, strict avoidance of repeat exposure to known or suspected offending agents (eg, cocaine), and patient counseling on risk factors and preventive measures.
+- Stage A: Patients in stage A are at risk for developing myocarditis. Management includes close monitoring for disease progression, strict avoidance of repeat exposure to known or suspected offending agents (eg, cocaine), and patient counseling on risk factors and preventive measures.
 
-  * Stage B: In addition to the measures outlined in stage A, patients at stage B should undergo a timely reassessment of their symptoms. An ECG and high-sensitivity troponin I (hs-TnI) should be obtained if not already performed. Management includes addressing the underlying etiology, for example, initiating immunosuppressive therapy in patients receiving ICIs. Hospitalization may be warranted based on the severity of left ventricular dysfunction and the overall clinical context.
+- Stage B: In addition to the measures outlined in stage A, patients at stage B should undergo a timely reassessment of their symptoms. An ECG and high-sensitivity troponin I (hs-TnI) should be obtained if not already performed. Management includes addressing the underlying etiology, for example, initiating immunosuppressive therapy in patients receiving ICIs. Hospitalization may be warranted based on the severity of left ventricular dysfunction and the overall clinical context.
 
-  * Stage C: At stage C, guideline-directed medical therapy (GDMT) for heart failure is implemented, which includes pharmacotherapy tailored to the underlying etiology (eg, immunosuppression or steroid use). EMB may be considered in selected patients based on clinical indications. Referral to an advanced heart failure center with a specialized myocarditis team is recommended. Patients should be restricted from strenuous activity for at least 3 to 6 months, while avoiding excessive sedentary behavior. Hospitalization is advised unless the clinical presentation is considered low-risk.
+- Stage C: At stage C, guideline-directed medical therapy (GDMT) for heart failure is implemented, which includes pharmacotherapy tailored to the underlying etiology (eg, immunosuppression or steroid use). EMB may be considered in selected patients based on clinical indications. Referral to an advanced heart failure center with a specialized myocarditis team is recommended. Patients should be restricted from strenuous activity for at least 3 to 6 months, while avoiding excessive sedentary behavior. Hospitalization is advised unless the clinical presentation is considered low-risk.
 
-  * Stage D: Patients with stage D myocarditis require admission to the intensive care unit (ICU) and prompt referral to an advanced heart failure center with a dedicated myocarditis team. Management includes GDMT for heart failure, pharmacological treatment targeting the underlying etiology, and appropriate interventions for arrhythmias and cardiogenic shock, including supportive measures or mechanical circulatory support. Strenuous physical activity should be restricted for at least 6 months. In cases where there is no recovery, consideration should be given to the placement of a durable left ventricular assist device (LVAD) or heart transplantation.[5]
+- Stage D: Patients with stage D myocarditis require admission to the intensive care unit (ICU) and prompt referral to an advanced heart failure center with a dedicated myocarditis team. Management includes GDMT for heart failure, pharmacological treatment targeting the underlying etiology, and appropriate interventions for arrhythmias and cardiogenic shock, including supportive measures or mechanical circulatory support. Strenuous physical activity should be restricted for at least 6 months. In cases where there is no recovery, consideration should be given to the placement of a durable left ventricular assist device (LVAD) or heart transplantation.[5]
 
 **General Supportive Management Strategies of Acute Myocarditis**
 
@@ -222,7 +222,7 @@ Digoxin is generally avoided in the treatment of acute myocarditis due to the in
 
 **Arrhythmia management**
 
-Acute myocarditis may be complicated by ventricular or atrial arrhythmias, as well as heart block. For patients with hemodynamically stable tachyarrhythmias and no signs of peripheral hypoperfusion, initiating a beta-blocker is recommended. Amiodarone and dofetilide may be considered for the treatment of sustained ventricular arrhythmias. If necessary, heart block is managed with a temporary pacemaker, followed by a permanent pacemaker if indicated. An implantable cardioverter defibrillator is indicated in the chronic stage, according to standard recommendations, once the acute illness has resolved. 
+Acute myocarditis may be complicated by ventricular or atrial arrhythmias, as well as heart block. For patients with hemodynamically stable tachyarrhythmias and no signs of peripheral hypoperfusion, initiating a beta-blocker is recommended. Amiodarone and dofetilide may be considered for the treatment of sustained ventricular arrhythmias. If necessary, heart block is managed with a temporary pacemaker, followed by a permanent pacemaker if indicated. An implantable cardioverter defibrillator is indicated in the chronic stage, according to standard recommendations, once the acute illness has resolved.
 
 **Immunosuppressive therapy**
 
@@ -244,31 +244,31 @@ Alcohol consumption should be restricted to 1 drink per day, which is approximat
 
 The differential diagnoses for acute myocarditis include:
 
-  * Acute coronary syndrome
+- Acute coronary syndrome
 
-  * Pericarditis 
+- Pericarditis
 
-  * Coronary vasospasm
+- Coronary vasospasm
 
-  * Stress cardiomyopathy
+- Stress cardiomyopathy
 
-  * Drug-induced myocardial injury (eg, cocaine and chemotherapy)
+- Drug-induced myocardial injury (eg, cocaine and chemotherapy)
 
-  * Thyrotoxic cardiomyopathy
+- Thyrotoxic cardiomyopathy
 
-  * Infective endocarditis with septic coronary emboli
+- Infective endocarditis with septic coronary emboli
 
 ## Staging
 
 The 2024 ACC ECDP outlines a 4-tier staging system for myocarditis, as mentioned below, which is modeled after the heart failure classification system.[5]
 
-  * Stage A (at risk): Individuals in this stage are exposed to risk factors for myocarditis but show no clinical symptoms or structural, biochemical, imaging, or histopathological evidence of disease. Examples include patients receiving cardiotoxic medications, those with recent viral infections or autoimmune disorders, and individuals with a genetic predisposition or a personal history of myocarditis.
+- Stage A (at risk): Individuals in this stage are exposed to risk factors for myocarditis but show no clinical symptoms or structural, biochemical, imaging, or histopathological evidence of disease. Examples include patients receiving cardiotoxic medications, those with recent viral infections or autoimmune disorders, and individuals with a genetic predisposition or a personal history of myocarditis.
 
-  * Stage B (asymptomatic): Patients with evidence of myocardial inflammation, detected through imaging modalities such as cardiac MRI, elevated high-sensitivity cardiac troponin, or histopathological findings, but who remain asymptomatic.
+- Stage B (asymptomatic): Patients with evidence of myocardial inflammation, detected through imaging modalities such as cardiac MRI, elevated high-sensitivity cardiac troponin, or histopathological findings, but who remain asymptomatic.
 
-  * Stage C (symptomatic): Patients presenting with symptoms attributable to myocarditis, such as heart failure, arrhythmias, or chest pain, along with histopathological evidence of myocarditis, cardiac MRI findings based on the 2018 updated Lake Louise criteria, or elevated high-sensitivity cardiac troponin, supported by additional evidence.
+- Stage C (symptomatic): Patients presenting with symptoms attributable to myocarditis, such as heart failure, arrhythmias, or chest pain, along with histopathological evidence of myocarditis, cardiac MRI findings based on the 2018 updated Lake Louise criteria, or elevated high-sensitivity cardiac troponin, supported by additional evidence.
 
-  * Stage D (advanced): Patients who meet the criteria for Stage C myocarditis and exhibit hemodynamic instability or severe arrhythmias requiring interventions such as mechanical circulatory support or evaluation for heart transplantation.
+- Stage D (advanced): Patients who meet the criteria for Stage C myocarditis and exhibit hemodynamic instability or severe arrhythmias requiring interventions such as mechanical circulatory support or evaluation for heart transplantation.
 
 ## Prognosis
 
@@ -278,39 +278,39 @@ Fulminant myocarditis is associated with significantly higher mortality rates an
 
 According to the 2024 ECDP, key risk factors for adverse outcomes in myocarditis include:
 
-  * Clinical presentation: Heart failure, cardiogenic shock, or electrical instability, such as recurrent ventricular tachycardia or advanced atrioventricular block.
+- Clinical presentation: Heart failure, cardiogenic shock, or electrical instability, such as recurrent ventricular tachycardia or advanced atrioventricular block.
 
-  * Echocardiography: Evidence of biventricular dysfunction.
+- Echocardiography: Evidence of biventricular dysfunction.
 
-  * Cardiac MRI: Presence of biventricular dysfunction and LGE.
+- Cardiac MRI: Presence of biventricular dysfunction and LGE.
 
-  * Endomyocardial biopsy: Histopathological diagnosis of giant cell myocarditis.[5]
+- Endomyocardial biopsy: Histopathological diagnosis of giant cell myocarditis.[5]
 
 ## Complications
 
 Acute complications of myocarditis include:
 
-  * Left ventricular dysfunction and heart failure.
+- Left ventricular dysfunction and heart failure.
 
-  * Cardiogenic shock.
+- Cardiogenic shock.
 
-  * Ventricular tachycardia or ventricular fibrillation: This increases the risk of sudden cardiac death.
+- Ventricular tachycardia or ventricular fibrillation: This increases the risk of sudden cardiac death.
 
-  * Bradyarrhythmias: High-grade atrioventricular block necessitating intervention. 
+- Bradyarrhythmias: High-grade atrioventricular block necessitating intervention.
 
-  * Atrial arrhythmias: Atrial tachycardia or atrial fibrillation/flutter.
+- Atrial arrhythmias: Atrial tachycardia or atrial fibrillation/flutter.
 
-  * Thromboembolic events: These events include stroke or systemic embolism due to left ventricular dysfunction.
+- Thromboembolic events: These events include stroke or systemic embolism due to left ventricular dysfunction.
 
 Subacute and chronic or long-term complications include:
 
-  * Dilated cardiomyopathy and chronic heart failure. 
+- Dilated cardiomyopathy and chronic heart failure.
 
-  * Recurrent episodes of myocarditis.
+- Recurrent episodes of myocarditis.
 
-  * Increased risk of sudden cardiac death.
+- Increased risk of sudden cardiac death.
 
-  * Myocardial fibrosis and scarring.
+- Myocardial fibrosis and scarring.
 
 ## Deterrence and Patient Education
 
@@ -322,7 +322,7 @@ Once the diagnosis is confirmed, comprehensive patient education is essential to
 
 Additionally, patients should be educated on the importance of social and economic support systems in their recovery. Social determinants of health—including access to healthcare, insurance coverage, food and housing security, and availability of community resources—are critical factors influencing outcomes after acute myocarditis.[5] A strong support system, active patient engagement, and adherence to lifestyle modifications—such as a balanced diet, weight management, and tobacco cessation—are vital for achieving sustained recovery and minimizing the risk of recurrence or long-term complications.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Effective management of acute myocarditis requires a multidisciplinary, patient-centered approach due to the condition’s variable progression and potential for rapid clinical deterioration. Most patients require hospitalization given the risk of life-threatening complications, including decompensated heart failure, malignant arrhythmias, and multiple-organ failure.
 
@@ -332,158 +332,126 @@ Effective interprofessional communication and care coordination among cardiologi
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17161&utm_source=pubmed&utm_campaign=reviews&utm_content=17161)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17161&utm_source=pubmed&utm_campaign=reviews&utm_content=17161)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/acute-myocarditis-inflammation-of-the-heart/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17161)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/acute-myocarditis-inflammation-of-the-heart/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17161)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17161/?utm_source=pubmed&utm_campaign=comments&utm_content=17161)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17161/?utm_source=pubmed&utm_campaign=comments&utm_content=17161)
 
 ## References
 
 1.
-    
 
-Caforio AL, Pankuweit S, Arbustini E, Basso C, Gimeno-Blanes J, Felix SB, Fu M, Heliö T, Heymans S, Jahns R, Klingel K, Linhart A, Maisch B, McKenna W, Mogensen J, Pinto YM, Ristic A, Schultheiss HP, Seggewiss H, Tavazzi L, Thiene G, Yilmaz A, Charron P, Elliott PM., European Society of Cardiology Working Group on Myocardial and Pericardial Diseases. Current state of knowledge on aetiology, diagnosis, management, and therapy of myocarditis: a position statement of the European Society of Cardiology Working Group on Myocardial and Pericardial Diseases. Eur Heart J. 2013 Sep;34(33):2636-48, 2648a-2648d. [[PubMed: 23824828](https://pubmed.ncbi.nlm.nih.gov/23824828)]
+Caforio AL, Pankuweit S, Arbustini E, Basso C, Gimeno-Blanes J, Felix SB, Fu M, Heliö T, Heymans S, Jahns R, Klingel K, Linhart A, Maisch B, McKenna W, Mogensen J, Pinto YM, Ristic A, Schultheiss HP, Seggewiss H, Tavazzi L, Thiene G, Yilmaz A, Charron P, Elliott PM., European Society of Cardiology Working Group on Myocardial and Pericardial Diseases. Current state of knowledge on aetiology, diagnosis, management, and therapy of myocarditis: a position statement of the European Society of Cardiology Working Group on Myocardial and Pericardial Diseases. Eur Heart J. 2013 Sep;34(33):2636-48, 2648a-2648d. \[[PubMed: 23824828](https://pubmed.ncbi.nlm.nih.gov/23824828)\]
 
 2.
-    
 
-Mehta JJ, Vindhyal MR, Boppana VS, Farhat A. Focal Myopericarditis Presenting as Acute ST-Elevation Myocardial Infarction. Kans J Med. 2018 Aug;11(3):83-85. [[PMC free article: PMC6122879](/pmc/articles/PMC6122879/)] [[PubMed: 30206470](https://pubmed.ncbi.nlm.nih.gov/30206470)]
+Mehta JJ, Vindhyal MR, Boppana VS, Farhat A. Focal Myopericarditis Presenting as Acute ST-Elevation Myocardial Infarction. Kans J Med. 2018 Aug;11(3):83-85. \[[PMC free article: PMC6122879](/pmc/articles/PMC6122879/)\] \[[PubMed: 30206470](https://pubmed.ncbi.nlm.nih.gov/30206470)\]
 
 3.
-    
 
-Jois A, Zannino D, Curtis N, Cheung M, Burgner DP, Chen KYH. Arterial Structure and Function Following Viral Myocarditis. Pediatr Cardiol. 2019 Jan;40(1):133-137. [[PubMed: 30178188](https://pubmed.ncbi.nlm.nih.gov/30178188)]
+Jois A, Zannino D, Curtis N, Cheung M, Burgner DP, Chen KYH. Arterial Structure and Function Following Viral Myocarditis. Pediatr Cardiol. 2019 Jan;40(1):133-137. \[[PubMed: 30178188](https://pubmed.ncbi.nlm.nih.gov/30178188)\]
 
 4.
-    
 
-Mert GÖ, Radi F, Mert KU. The diagnostic challenge: Takotsubo cardiomyopathy vs. acute myocarditis. Heart Lung. 2018 Nov;47(6):646. [[PubMed: 30170778](https://pubmed.ncbi.nlm.nih.gov/30170778)]
+Mert GÖ, Radi F, Mert KU. The diagnostic challenge: Takotsubo cardiomyopathy vs. acute myocarditis. Heart Lung. 2018 Nov;47(6):646. \[[PubMed: 30170778](https://pubmed.ncbi.nlm.nih.gov/30170778)\]
 
 5.
-    
 
-Writing Committee. Drazner MH, Bozkurt B, Cooper LT, Aggarwal NR, Basso C, Bhave NM, Caforio ALP, Ferreira VM, Heidecker B, Kontorovich AR, Martín P, Roth GA, Van Eyk JE. 2024 ACC Expert Consensus Decision Pathway on Strategies and Criteria for the Diagnosis and Management of Myocarditis: A Report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2025 Feb 04;85(4):391-431. [[PubMed: 39665703](https://pubmed.ncbi.nlm.nih.gov/39665703)]
+Writing Committee. Drazner MH, Bozkurt B, Cooper LT, Aggarwal NR, Basso C, Bhave NM, Caforio ALP, Ferreira VM, Heidecker B, Kontorovich AR, Martín P, Roth GA, Van Eyk JE. 2024 ACC Expert Consensus Decision Pathway on Strategies and Criteria for the Diagnosis and Management of Myocarditis: A Report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2025 Feb 04;85(4):391-431. \[[PubMed: 39665703](https://pubmed.ncbi.nlm.nih.gov/39665703)\]
 
 6.
-    
 
-Tschöpe C, Ammirati E, Bozkurt B, Caforio ALP, Cooper LT, Felix SB, Hare JM, Heidecker B, Heymans S, Hübner N, Kelle S, Klingel K, Maatz H, Parwani AS, Spillmann F, Starling RC, Tsutsui H, Seferovic P, Van Linthout S. Myocarditis and inflammatory cardiomyopathy: current evidence and future directions. Nat Rev Cardiol. 2021 Mar;18(3):169-193. [[PMC free article: PMC7548534](/pmc/articles/PMC7548534/)] [[PubMed: 33046850](https://pubmed.ncbi.nlm.nih.gov/33046850)]
+Tschöpe C, Ammirati E, Bozkurt B, Caforio ALP, Cooper LT, Felix SB, Hare JM, Heidecker B, Heymans S, Hübner N, Kelle S, Klingel K, Maatz H, Parwani AS, Spillmann F, Starling RC, Tsutsui H, Seferovic P, Van Linthout S. Myocarditis and inflammatory cardiomyopathy: current evidence and future directions. Nat Rev Cardiol. 2021 Mar;18(3):169-193. \[[PMC free article: PMC7548534](/pmc/articles/PMC7548534/)\] \[[PubMed: 33046850](https://pubmed.ncbi.nlm.nih.gov/33046850)\]
 
 7.
-    
 
-Brociek E, Tymińska A, Giordani AS, Caforio ALP, Wojnicz R, Grabowski M, Ozierański K. Myocarditis: Etiology, Pathogenesis, and Their Implications in Clinical Practice. Biology (Basel). 2023 Jun 17;12(6) [[PMC free article: PMC10295542](/pmc/articles/PMC10295542/)] [[PubMed: 37372158](https://pubmed.ncbi.nlm.nih.gov/37372158)]
+Brociek E, Tymińska A, Giordani AS, Caforio ALP, Wojnicz R, Grabowski M, Ozierański K. Myocarditis: Etiology, Pathogenesis, and Their Implications in Clinical Practice. Biology (Basel). 2023 Jun 17;12(6) \[[PMC free article: PMC10295542](/pmc/articles/PMC10295542/)\] \[[PubMed: 37372158](https://pubmed.ncbi.nlm.nih.gov/37372158)\]
 
 8.
-    
 
-Mahrholdt H, Wagner A, Deluigi CC, Kispert E, Hager S, Meinhardt G, Vogelsberg H, Fritz P, Dippon J, Bock CT, Klingel K, Kandolf R, Sechtem U. Presentation, patterns of myocardial damage, and clinical course of viral myocarditis. Circulation. 2006 Oct 10;114(15):1581-90. [[PubMed: 17015795](https://pubmed.ncbi.nlm.nih.gov/17015795)]
+Mahrholdt H, Wagner A, Deluigi CC, Kispert E, Hager S, Meinhardt G, Vogelsberg H, Fritz P, Dippon J, Bock CT, Klingel K, Kandolf R, Sechtem U. Presentation, patterns of myocardial damage, and clinical course of viral myocarditis. Circulation. 2006 Oct 10;114(15):1581-90. \[[PubMed: 17015795](https://pubmed.ncbi.nlm.nih.gov/17015795)\]
 
 9.
-    
 
-Takeuchi S, Kawada JI, Okuno Y, Horiba K, Suzuki T, Torii Y, Yasuda K, Numaguchi A, Kato T, Takahashi Y, Ito Y. Identification of potential pathogenic viruses in patients with acute myocarditis using next-generation sequencing. J Med Virol. 2018 Dec;90(12):1814-1821. [[PubMed: 30011073](https://pubmed.ncbi.nlm.nih.gov/30011073)]
+Takeuchi S, Kawada JI, Okuno Y, Horiba K, Suzuki T, Torii Y, Yasuda K, Numaguchi A, Kato T, Takahashi Y, Ito Y. Identification of potential pathogenic viruses in patients with acute myocarditis using next-generation sequencing. J Med Virol. 2018 Dec;90(12):1814-1821. \[[PubMed: 30011073](https://pubmed.ncbi.nlm.nih.gov/30011073)\]
 
 10.
-    
 
-Dionne A, Dahdah N. Myocarditis and Kawasaki disease. Int J Rheum Dis. 2018 Jan;21(1):45-49. [[PubMed: 29105303](https://pubmed.ncbi.nlm.nih.gov/29105303)]
+Dionne A, Dahdah N. Myocarditis and Kawasaki disease. Int J Rheum Dis. 2018 Jan;21(1):45-49. \[[PubMed: 29105303](https://pubmed.ncbi.nlm.nih.gov/29105303)\]
 
 11.
-    
 
-Chang JJ, Lin MS, Chen TH, Chen DY, Chen SW, Hsu JT, Wang PC, Lin YS. Heart Failure and Mortality of Adult Survivors from Acute Myocarditis Requiring Intensive Care Treatment - A Nationwide Cohort Study. Int J Med Sci. 2017;14(12):1241-1250. [[PMC free article: PMC5666557](/pmc/articles/PMC5666557/)] [[PubMed: 29104480](https://pubmed.ncbi.nlm.nih.gov/29104480)]
+Chang JJ, Lin MS, Chen TH, Chen DY, Chen SW, Hsu JT, Wang PC, Lin YS. Heart Failure and Mortality of Adult Survivors from Acute Myocarditis Requiring Intensive Care Treatment - A Nationwide Cohort Study. Int J Med Sci. 2017;14(12):1241-1250. \[[PMC free article: PMC5666557](/pmc/articles/PMC5666557/)\] \[[PubMed: 29104480](https://pubmed.ncbi.nlm.nih.gov/29104480)\]
 
 12.
-    
 
-Roth GA, Mensah GA, Johnson CO, Addolorato G, Ammirati E, Baddour LM, Barengo NC, Beaton AZ, Benjamin EJ, Benziger CP, Bonny A, Brauer M, Brodmann M, Cahill TJ, Carapetis J, Catapano AL, Chugh SS, Cooper LT, Coresh J, Criqui M, DeCleene N, Eagle KA, Emmons-Bell S, Feigin VL, Fernández-Solà J, Fowkes G, Gakidou E, Grundy SM, He FJ, Howard G, Hu F, Inker L, Karthikeyan G, Kassebaum N, Koroshetz W, Lavie C, Lloyd-Jones D, Lu HS, Mirijello A, Temesgen AM, Mokdad A, Moran AE, Muntner P, Narula J, Neal B, Ntsekhe M, Moraes de Oliveira G, Otto C, Owolabi M, Pratt M, Rajagopalan S, Reitsma M, Ribeiro ALP, Rigotti N, Rodgers A, Sable C, Shakil S, Sliwa-Hahnle K, Stark B, Sundström J, Timpel P, Tleyjeh IM, Valgimigli M, Vos T, Whelton PK, Yacoub M, Zuhlke L, Murray C, Fuster V., GBD-NHLBI-JACC Global Burden of Cardiovascular Diseases Writing Group. Global Burden of Cardiovascular Diseases and Risk Factors, 1990-2019: Update From the GBD 2019 Study. J Am Coll Cardiol. 2020 Dec 22;76(25):2982-3021. [[PMC free article: PMC7755038](/pmc/articles/PMC7755038/)] [[PubMed: 33309175](https://pubmed.ncbi.nlm.nih.gov/33309175)]
+Roth GA, Mensah GA, Johnson CO, Addolorato G, Ammirati E, Baddour LM, Barengo NC, Beaton AZ, Benjamin EJ, Benziger CP, Bonny A, Brauer M, Brodmann M, Cahill TJ, Carapetis J, Catapano AL, Chugh SS, Cooper LT, Coresh J, Criqui M, DeCleene N, Eagle KA, Emmons-Bell S, Feigin VL, Fernández-Solà J, Fowkes G, Gakidou E, Grundy SM, He FJ, Howard G, Hu F, Inker L, Karthikeyan G, Kassebaum N, Koroshetz W, Lavie C, Lloyd-Jones D, Lu HS, Mirijello A, Temesgen AM, Mokdad A, Moran AE, Muntner P, Narula J, Neal B, Ntsekhe M, Moraes de Oliveira G, Otto C, Owolabi M, Pratt M, Rajagopalan S, Reitsma M, Ribeiro ALP, Rigotti N, Rodgers A, Sable C, Shakil S, Sliwa-Hahnle K, Stark B, Sundström J, Timpel P, Tleyjeh IM, Valgimigli M, Vos T, Whelton PK, Yacoub M, Zuhlke L, Murray C, Fuster V., GBD-NHLBI-JACC Global Burden of Cardiovascular Diseases Writing Group. Global Burden of Cardiovascular Diseases and Risk Factors, 1990-2019: Update From the GBD 2019 Study. J Am Coll Cardiol. 2020 Dec 22;76(25):2982-3021. \[[PMC free article: PMC7755038](/pmc/articles/PMC7755038/)\] \[[PubMed: 33309175](https://pubmed.ncbi.nlm.nih.gov/33309175)\]
 
 13.
-    
 
-Global Burden of Disease Study 2013 Collaborators. Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013. Lancet. 2015 Aug 22;386(9995):743-800. [[PMC free article: PMC4561509](/pmc/articles/PMC4561509/)] [[PubMed: 26063472](https://pubmed.ncbi.nlm.nih.gov/26063472)]
+Global Burden of Disease Study 2013 Collaborators. Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013. Lancet. 2015 Aug 22;386(9995):743-800. \[[PMC free article: PMC4561509](/pmc/articles/PMC4561509/)\] \[[PubMed: 26063472](https://pubmed.ncbi.nlm.nih.gov/26063472)\]
 
 14.
-    
 
-Patriki D, Gresser E, Manka R, Emmert MY, Lüscher TF, Heidecker B. Approximation of the Incidence of Myocarditis by Systematic Screening With Cardiac Magnetic Resonance Imaging. JACC Heart Fail. 2018 Jul;6(7):573-579. [[PubMed: 29885953](https://pubmed.ncbi.nlm.nih.gov/29885953)]
+Patriki D, Gresser E, Manka R, Emmert MY, Lüscher TF, Heidecker B. Approximation of the Incidence of Myocarditis by Systematic Screening With Cardiac Magnetic Resonance Imaging. JACC Heart Fail. 2018 Jul;6(7):573-579. \[[PubMed: 29885953](https://pubmed.ncbi.nlm.nih.gov/29885953)\]
 
 15.
-    
 
-Bracamonte-Baran W, Čiháková D. Cardiac Autoimmunity: Myocarditis. Adv Exp Med Biol. 2017;1003:187-221. [[PMC free article: PMC5706653](/pmc/articles/PMC5706653/)] [[PubMed: 28667560](https://pubmed.ncbi.nlm.nih.gov/28667560)]
+Bracamonte-Baran W, Čiháková D. Cardiac Autoimmunity: Myocarditis. Adv Exp Med Biol. 2017;1003:187-221. \[[PMC free article: PMC5706653](/pmc/articles/PMC5706653/)\] \[[PubMed: 28667560](https://pubmed.ncbi.nlm.nih.gov/28667560)\]
 
 16.
-    
 
-Cooper LT. Myocarditis. N Engl J Med. 2009 Apr 09;360(15):1526-38. [[PMC free article: PMC5814110](/pmc/articles/PMC5814110/)] [[PubMed: 19357408](https://pubmed.ncbi.nlm.nih.gov/19357408)]
+Cooper LT. Myocarditis. N Engl J Med. 2009 Apr 09;360(15):1526-38. \[[PMC free article: PMC5814110](/pmc/articles/PMC5814110/)\] \[[PubMed: 19357408](https://pubmed.ncbi.nlm.nih.gov/19357408)\]
 
 17.
-    
 
-Ferreira VM, Schulz-Menger J, Holmvang G, Kramer CM, Carbone I, Sechtem U, Kindermann I, Gutberlet M, Cooper LT, Liu P, Friedrich MG. Cardiovascular Magnetic Resonance in Nonischemic Myocardial Inflammation: Expert Recommendations. J Am Coll Cardiol. 2018 Dec 18;72(24):3158-3176. [[PubMed: 30545455](https://pubmed.ncbi.nlm.nih.gov/30545455)]
+Ferreira VM, Schulz-Menger J, Holmvang G, Kramer CM, Carbone I, Sechtem U, Kindermann I, Gutberlet M, Cooper LT, Liu P, Friedrich MG. Cardiovascular Magnetic Resonance in Nonischemic Myocardial Inflammation: Expert Recommendations. J Am Coll Cardiol. 2018 Dec 18;72(24):3158-3176. \[[PubMed: 30545455](https://pubmed.ncbi.nlm.nih.gov/30545455)\]
 
 18.
-    
 
-Aretz HT, Billingham ME, Edwards WD, Factor SM, Fallon JT, Fenoglio JJ, Olsen EG, Schoen FJ. Myocarditis. A histopathologic definition and classification. Am J Cardiovasc Pathol. 1987 Jan;1(1):3-14. [[PubMed: 3455232](https://pubmed.ncbi.nlm.nih.gov/3455232)]
+Aretz HT, Billingham ME, Edwards WD, Factor SM, Fallon JT, Fenoglio JJ, Olsen EG, Schoen FJ. Myocarditis. A histopathologic definition and classification. Am J Cardiovasc Pathol. 1987 Jan;1(1):3-14. \[[PubMed: 3455232](https://pubmed.ncbi.nlm.nih.gov/3455232)\]
 
 19.
-    
 
-Ammirati E, Frigerio M, Adler ED, Basso C, Birnie DH, Brambatti M, Friedrich MG, Klingel K, Lehtonen J, Moslehi JJ, Pedrotti P, Rimoldi OE, Schultheiss HP, Tschöpe C, Cooper LT, Camici PG. Management of Acute Myocarditis and Chronic Inflammatory Cardiomyopathy: An Expert Consensus Document. Circ Heart Fail. 2020 Nov;13(11):e007405. [[PMC free article: PMC7673642](/pmc/articles/PMC7673642/)] [[PubMed: 33176455](https://pubmed.ncbi.nlm.nih.gov/33176455)]
+Ammirati E, Frigerio M, Adler ED, Basso C, Birnie DH, Brambatti M, Friedrich MG, Klingel K, Lehtonen J, Moslehi JJ, Pedrotti P, Rimoldi OE, Schultheiss HP, Tschöpe C, Cooper LT, Camici PG. Management of Acute Myocarditis and Chronic Inflammatory Cardiomyopathy: An Expert Consensus Document. Circ Heart Fail. 2020 Nov;13(11):e007405. \[[PMC free article: PMC7673642](/pmc/articles/PMC7673642/)\] \[[PubMed: 33176455](https://pubmed.ncbi.nlm.nih.gov/33176455)\]
 
 20.
-    
 
-Patriki D, Baltensperger N, Berg J, Cooper LT, Kissel CK, Kottwitz J, Lovrinovic M, Manka R, Scherff F, Schmied C, Tanner FC, Luescher TF, Heidecker B. A Prospective Pilot Study to Identify a Myocarditis Cohort who may Safely Resume Sports Activities 3 Months after Diagnosis. J Cardiovasc Transl Res. 2021 Aug;14(4):670-673. [[PMC free article: PMC8397673](/pmc/articles/PMC8397673/)] [[PubMed: 32367345](https://pubmed.ncbi.nlm.nih.gov/32367345)]
+Patriki D, Baltensperger N, Berg J, Cooper LT, Kissel CK, Kottwitz J, Lovrinovic M, Manka R, Scherff F, Schmied C, Tanner FC, Luescher TF, Heidecker B. A Prospective Pilot Study to Identify a Myocarditis Cohort who may Safely Resume Sports Activities 3 Months after Diagnosis. J Cardiovasc Transl Res. 2021 Aug;14(4):670-673. \[[PMC free article: PMC8397673](/pmc/articles/PMC8397673/)\] \[[PubMed: 32367345](https://pubmed.ncbi.nlm.nih.gov/32367345)\]
 
 21.
-    
 
-Abutaleb ARA, McNally EM, Khan SS, Anderson AS, Carr JC, Wilcox JE. Myocarditis in Duchenne Muscular Dystrophy After Changing Steroids. JAMA Cardiol. 2018 Oct 01;3(10):1006-1010. [[PMC free article: PMC6233819](/pmc/articles/PMC6233819/)] [[PubMed: 30167630](https://pubmed.ncbi.nlm.nih.gov/30167630)]
+Abutaleb ARA, McNally EM, Khan SS, Anderson AS, Carr JC, Wilcox JE. Myocarditis in Duchenne Muscular Dystrophy After Changing Steroids. JAMA Cardiol. 2018 Oct 01;3(10):1006-1010. \[[PMC free article: PMC6233819](/pmc/articles/PMC6233819/)\] \[[PubMed: 30167630](https://pubmed.ncbi.nlm.nih.gov/30167630)\]
 
 22.
-    
 
-Maisch B, Alter P. Treatment options in myocarditis and inflammatory cardiomyopathy : Focus on i. v. immunoglobulins. Herz. 2018 Aug;43(5):423-430. [[PMC free article: PMC6096625](/pmc/articles/PMC6096625/)] [[PubMed: 29947834](https://pubmed.ncbi.nlm.nih.gov/29947834)]
+Maisch B, Alter P. Treatment options in myocarditis and inflammatory cardiomyopathy : Focus on i. v. immunoglobulins. Herz. 2018 Aug;43(5):423-430. \[[PMC free article: PMC6096625](/pmc/articles/PMC6096625/)\] \[[PubMed: 29947834](https://pubmed.ncbi.nlm.nih.gov/29947834)\]
 
 23.
-    
 
-Ammirati E, Cipriani M, Moro C, Raineri C, Pini D, Sormani P, Mantovani R, Varrenti M, Pedrotti P, Conca C, Mafrici A, Grosu A, Briguglia D, Guglielmetto S, Perego GB, Colombo S, Caico SI, Giannattasio C, Maestroni A, Carubelli V, Metra M, Lombardi C, Campodonico J, Agostoni P, Peretto G, Scelsi L, Turco A, Di Tano G, Campana C, Belloni A, Morandi F, Mortara A, Cirò A, Senni M, Gavazzi A, Frigerio M, Oliva F, Camici PG., Registro Lombardo delle Miocarditi. Clinical Presentation and Outcome in a Contemporary Cohort of Patients With Acute Myocarditis: Multicenter Lombardy Registry. Circulation. 2018 Sep 11;138(11):1088-1099. [[PubMed: 29764898](https://pubmed.ncbi.nlm.nih.gov/29764898)]
+Ammirati E, Cipriani M, Moro C, Raineri C, Pini D, Sormani P, Mantovani R, Varrenti M, Pedrotti P, Conca C, Mafrici A, Grosu A, Briguglia D, Guglielmetto S, Perego GB, Colombo S, Caico SI, Giannattasio C, Maestroni A, Carubelli V, Metra M, Lombardi C, Campodonico J, Agostoni P, Peretto G, Scelsi L, Turco A, Di Tano G, Campana C, Belloni A, Morandi F, Mortara A, Cirò A, Senni M, Gavazzi A, Frigerio M, Oliva F, Camici PG., Registro Lombardo delle Miocarditi. Clinical Presentation and Outcome in a Contemporary Cohort of Patients With Acute Myocarditis: Multicenter Lombardy Registry. Circulation. 2018 Sep 11;138(11):1088-1099. \[[PubMed: 29764898](https://pubmed.ncbi.nlm.nih.gov/29764898)\]
 
 24.
-    
 
-Ammirati E, Cipriani M, Lilliu M, Sormani P, Varrenti M, Raineri C, Petrella D, Garascia A, Pedrotti P, Roghi A, Bonacina E, Moreo A, Bottiroli M, Gagliardone MP, Mondino M, Ghio S, Totaro R, Turazza FM, Russo CF, Oliva F, Camici PG, Frigerio M. Survival and Left Ventricular Function Changes in Fulminant Versus Nonfulminant Acute Myocarditis. Circulation. 2017 Aug 08;136(6):529-545. [[PubMed: 28576783](https://pubmed.ncbi.nlm.nih.gov/28576783)]
+Ammirati E, Cipriani M, Lilliu M, Sormani P, Varrenti M, Raineri C, Petrella D, Garascia A, Pedrotti P, Roghi A, Bonacina E, Moreo A, Bottiroli M, Gagliardone MP, Mondino M, Ghio S, Totaro R, Turazza FM, Russo CF, Oliva F, Camici PG, Frigerio M. Survival and Left Ventricular Function Changes in Fulminant Versus Nonfulminant Acute Myocarditis. Circulation. 2017 Aug 08;136(6):529-545. \[[PubMed: 28576783](https://pubmed.ncbi.nlm.nih.gov/28576783)\]
 
 25.
-    
 
-Frustaci A, Chimenti C, Calabrese F, Pieroni M, Thiene G, Maseri A. Immunosuppressive therapy for active lymphocytic myocarditis: virological and immunologic profile of responders versus nonresponders. Circulation. 2003 Feb 18;107(6):857-63. [[PubMed: 12591756](https://pubmed.ncbi.nlm.nih.gov/12591756)]
+Frustaci A, Chimenti C, Calabrese F, Pieroni M, Thiene G, Maseri A. Immunosuppressive therapy for active lymphocytic myocarditis: virological and immunologic profile of responders versus nonresponders. Circulation. 2003 Feb 18;107(6):857-63. \[[PubMed: 12591756](https://pubmed.ncbi.nlm.nih.gov/12591756)\]
 
 26.
-    
 
-Veronese G, Ammirati E, Cipriani M, Frigerio M. Fulminant myocarditis: Characteristics, treatment, and outcomes. Anatol J Cardiol. 2018 Apr;19(4):279-286. [[PMC free article: PMC5998855](/pmc/articles/PMC5998855/)] [[PubMed: 29537977](https://pubmed.ncbi.nlm.nih.gov/29537977)]
+Veronese G, Ammirati E, Cipriani M, Frigerio M. Fulminant myocarditis: Characteristics, treatment, and outcomes. Anatol J Cardiol. 2018 Apr;19(4):279-286. \[[PMC free article: PMC5998855](/pmc/articles/PMC5998855/)\] \[[PubMed: 29537977](https://pubmed.ncbi.nlm.nih.gov/29537977)\]
 
 27.
-    
 
-Godishala A, Yang S, Asnani A. Cardioprotection in the Modern Era of Cancer Chemotherapy. Cardiol Rev. 2018 May/Jun;26(3):113-121. [[PubMed: 29608498](https://pubmed.ncbi.nlm.nih.gov/29608498)]
+Godishala A, Yang S, Asnani A. Cardioprotection in the Modern Era of Cancer Chemotherapy. Cardiol Rev. 2018 May/Jun;26(3):113-121. \[[PubMed: 29608498](https://pubmed.ncbi.nlm.nih.gov/29608498)\]
 
 28.
-    
 
-Zheng YM, Yang J, Liao QH. [Health related quality of life on severe hand, foot and mouth disease patients]. Zhonghua Liu Xing Bing Xue Za Zhi. 2017 Apr 10;38(4):462-466. [[PubMed: 28468063](https://pubmed.ncbi.nlm.nih.gov/28468063)]
-
-    
+Zheng YM, Yang J, Liao QH. [Health related quality of life on severe hand, foot and mouth disease patients]. Zhonghua Liu Xing Bing Xue Za Zhi. 2017 Apr 10;38(4):462-466. \[[PubMed: 28468063](https://pubmed.ncbi.nlm.nih.gov/28468063)\]
 
 **Disclosure:** Pirbhat Shams declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Sara Collier declares no relevant financial relationships with ineligible companies.

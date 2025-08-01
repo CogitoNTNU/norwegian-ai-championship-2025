@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18918/
-scraped_date: 2025-07-22 12:37:07 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18918/ scraped_date: 2025-07-22 12:37:07 UTC
 
 # Dilated Cardiomyopathy
 
@@ -29,13 +28,13 @@ Dilated Cardiomyopathy (DCM) is a disease of the heart muscle characterized by e
 
 **Objectives:**
 
-  * Describe the causes of dilated cardiomyopathy.
+- Describe the causes of dilated cardiomyopathy.
 
-  * Recall the presentation of dilated cardiomyopathy.
+- Recall the presentation of dilated cardiomyopathy.
 
-  * Summarize the treatment options for dilated cardiomyopathy.
+- Summarize the treatment options for dilated cardiomyopathy.
 
-  * Review the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by dilated cardiomyopathy
+- Review the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by dilated cardiomyopathy
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18918&utm_source=pubmed&utm_campaign=reviews&utm_content=18918)
 
@@ -99,25 +98,25 @@ A heart transplant is an option but the lack of donors is a major stumbling bloc
 
 ## Differential Diagnosis
 
-  * Cardiac tamponade
+- Cardiac tamponade
 
-  * Acute pericarditis
+- Acute pericarditis
 
-  * Hypertrophic cardiomyopathy
+- Hypertrophic cardiomyopathy
 
-  * Restrictive cardiomyopathy
+- Restrictive cardiomyopathy
 
 ## Staging
 
 NYHA Classification of heart failure
 
-  1. Stage A: Having risk factors for developing CHF including hypertension, diabetes, CAD, and a family history of cardiomyopathy
+1. Stage A: Having risk factors for developing CHF including hypertension, diabetes, CAD, and a family history of cardiomyopathy
 
-  2. Stage B: Asymptomatic heart failure; having left ventricular systolic dysfunction, prior MI, asymptomatic valvular disease
+1. Stage B: Asymptomatic heart failure; having left ventricular systolic dysfunction, prior MI, asymptomatic valvular disease
 
-  3. Stage C: Symptomatic heart failure: having dyspnea, reduced exercise tolerance, and fatigue
+1. Stage C: Symptomatic heart failure: having dyspnea, reduced exercise tolerance, and fatigue
 
-  4. Stage D: Refractory end-stage heart failure with symptoms at rest despite maximal medical therapy and recurrent admissions
+1. Stage D: Refractory end-stage heart failure with symptoms at rest despite maximal medical therapy and recurrent admissions
 
 ## Prognosis
 
@@ -125,17 +124,17 @@ Overall, the prognosis of patients with dilated cardiomyopathy is guarded. Most 
 
 ## Complications
 
-  * Congestive heart failure
+- Congestive heart failure
 
-  * Cerebrovascular accident
+- Cerebrovascular accident
 
-  * Valvular heart disease
+- Valvular heart disease
 
-  * Abnormal cardiac rhythms
+- Abnormal cardiac rhythms
 
-  * Sudden cardiac death
+- Sudden cardiac death
 
-  * Thromboembolism
+- Thromboembolism
 
 ## Postoperative and Rehabilitation Care
 
@@ -143,13 +142,13 @@ All patients with dilated cardiomyopathy need intense education on the diet. Bot
 
 ## Consultations
 
-  * Cardiac surgeon
+- Cardiac surgeon
 
-  * Cardiologist
+- Cardiologist
 
-  * Critical care specialist
+- Critical care specialist
 
-  * Dietitian
+- Dietitian
 
 ## Deterrence and Patient Education
 
@@ -157,15 +156,15 @@ Patient education regarding medication compliance, dietary restrictions and regu
 
 ## Pearls and Other Issues
 
-  1. Unlike the past when all patients with DCM were empirically treated with anticoagulation, today the guidelines recommend the use of anticoagulants only in patients with atrial fibrillation, prosthetic heart valves, or known mural thrombus.
+1. Unlike the past when all patients with DCM were empirically treated with anticoagulation, today the guidelines recommend the use of anticoagulants only in patients with atrial fibrillation, prosthetic heart valves, or known mural thrombus.
 
-  2. When there is progressive end-stage heart failure despite maximal medical therapy and the prognosis is deemed poor, one may consider a heart transplant.
+1. When there is progressive end-stage heart failure despite maximal medical therapy and the prognosis is deemed poor, one may consider a heart transplant.
 
-  3. All patients with DCM must be educated on the disorder and the importance of dietary restrictions in sodium and water.
+1. All patients with DCM must be educated on the disorder and the importance of dietary restrictions in sodium and water.
 
-  4. Patients with DCM should be referred for cardiac rehabilitation as this has been shown to reduce all-cause mortality by 20-30% over 5 years, including improvement in symptoms.
+1. Patients with DCM should be referred for cardiac rehabilitation as this has been shown to reduce all-cause mortality by 20-30% over 5 years, including improvement in symptoms.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Dilated cardiomyopathy is a progressive heart disorder with no cure. Eventually, most patients progress to heart failure and close to 50% are dead within five years. Today many treatments have been devised for the treatment of dilated cardiomyopathy, but for most of them, there is a lack of evidence to support their use. There is no longer any question that this disorder is best managed by an interprofessional team that specializes in heart disease. The three single most important factors that determine the prognosis are 1) diet, 2) medication compliance, and 3) an exercise program. The disorder should be risk-stratified and managed accordingly.[11][12]
 
@@ -177,11 +176,11 @@ The outcomes of patients with dilated cardiomyopathy depend on the cause, ejecti
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18918&utm_source=pubmed&utm_campaign=reviews&utm_content=18918)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18918&utm_source=pubmed&utm_campaign=reviews&utm_content=18918)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/dilated-cardiomyopathy/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18918)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/dilated-cardiomyopathy/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18918)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18918/?utm_source=pubmed&utm_campaign=comments&utm_content=18918)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18918/?utm_source=pubmed&utm_campaign=comments&utm_content=18918)
 
 [![Cardiac Dilated Cardiomyopathy  Blausen](/books/NBK441911/bin/Cardiac__Dilated__Cardiomyopathy.gif)](/books/NBK441911/figure/article-18918.image.f1/?report=objectonly "Figure")
 
@@ -192,83 +191,63 @@ Cardiac Dilated Cardiomyopathy Blausen.com staff. Medical Gallery of Blausen Med
 ## References
 
 1.
-    
 
-Hershberger RE, Jordan E. Dilated Cardiomyopathy Overview. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews® [Internet]. University of Washington, Seattle; Seattle (WA): Jul 27, 2007. [[PubMed: 20301486](https://pubmed.ncbi.nlm.nih.gov/20301486)]
+Hershberger RE, Jordan E. Dilated Cardiomyopathy Overview. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews® [Internet]. University of Washington, Seattle; Seattle (WA): Jul 27, 2007. \[[PubMed: 20301486](https://pubmed.ncbi.nlm.nih.gov/20301486)\]
 
 2.
-    
 
-Stergiopoulos K, Lima FV. Peripartum cardiomyopathy-diagnosis, management, and long term implications. Trends Cardiovasc Med. 2019 Apr;29(3):164-173. [[PubMed: 30111492](https://pubmed.ncbi.nlm.nih.gov/30111492)]
+Stergiopoulos K, Lima FV. Peripartum cardiomyopathy-diagnosis, management, and long term implications. Trends Cardiovasc Med. 2019 Apr;29(3):164-173. \[[PubMed: 30111492](https://pubmed.ncbi.nlm.nih.gov/30111492)\]
 
 3.
-    
 
-Paldino A, De Angelis G, Merlo M, Gigli M, Dal Ferro M, Severini GM, Mestroni L, Sinagra G. Genetics of Dilated Cardiomyopathy: Clinical Implications. Curr Cardiol Rep. 2018 Aug 13;20(10):83. [[PubMed: 30105555](https://pubmed.ncbi.nlm.nih.gov/30105555)]
+Paldino A, De Angelis G, Merlo M, Gigli M, Dal Ferro M, Severini GM, Mestroni L, Sinagra G. Genetics of Dilated Cardiomyopathy: Clinical Implications. Curr Cardiol Rep. 2018 Aug 13;20(10):83. \[[PubMed: 30105555](https://pubmed.ncbi.nlm.nih.gov/30105555)\]
 
 4.
-    
 
-Vikhorev PG, Vikhoreva NN. Cardiomyopathies and Related Changes in Contractility of Human Heart Muscle. Int J Mol Sci. 2018 Jul 31;19(8) [[PMC free article: PMC6121228](/pmc/articles/PMC6121228/)] [[PubMed: 30065175](https://pubmed.ncbi.nlm.nih.gov/30065175)]
+Vikhorev PG, Vikhoreva NN. Cardiomyopathies and Related Changes in Contractility of Human Heart Muscle. Int J Mol Sci. 2018 Jul 31;19(8) \[[PMC free article: PMC6121228](/pmc/articles/PMC6121228/)\] \[[PubMed: 30065175](https://pubmed.ncbi.nlm.nih.gov/30065175)\]
 
 5.
-    
 
-Masarone D, Kaski JP, Pacileo G, Elliott PM, Bossone E, Day SM, Limongelli G. Epidemiology and Clinical Aspects of Genetic Cardiomyopathies. Heart Fail Clin. 2018 Apr;14(2):119-128. [[PubMed: 29525641](https://pubmed.ncbi.nlm.nih.gov/29525641)]
+Masarone D, Kaski JP, Pacileo G, Elliott PM, Bossone E, Day SM, Limongelli G. Epidemiology and Clinical Aspects of Genetic Cardiomyopathies. Heart Fail Clin. 2018 Apr;14(2):119-128. \[[PubMed: 29525641](https://pubmed.ncbi.nlm.nih.gov/29525641)\]
 
 6.
-    
 
-Bakalakos A, Ritsatos K, Anastasakis A. Current perspectives on the diagnosis and management of dilated cardiomyopathy Beyond heart failure: a Cardiomyopathy Clinic Doctor's point of view. Hellenic J Cardiol. 2018 Sep-Oct;59(5):254-261. [[PubMed: 29807197](https://pubmed.ncbi.nlm.nih.gov/29807197)]
+Bakalakos A, Ritsatos K, Anastasakis A. Current perspectives on the diagnosis and management of dilated cardiomyopathy Beyond heart failure: a Cardiomyopathy Clinic Doctor's point of view. Hellenic J Cardiol. 2018 Sep-Oct;59(5):254-261. \[[PubMed: 29807197](https://pubmed.ncbi.nlm.nih.gov/29807197)\]
 
 7.
-    
 
-Palomer X, Pizarro-Delgado J, Vázquez-Carrera M. Emerging Actors in Diabetic Cardiomyopathy: Heartbreaker Biomarkers or Therapeutic Targets? Trends Pharmacol Sci. 2018 May;39(5):452-467. [[PubMed: 29605388](https://pubmed.ncbi.nlm.nih.gov/29605388)]
+Palomer X, Pizarro-Delgado J, Vázquez-Carrera M. Emerging Actors in Diabetic Cardiomyopathy: Heartbreaker Biomarkers or Therapeutic Targets? Trends Pharmacol Sci. 2018 May;39(5):452-467. \[[PubMed: 29605388](https://pubmed.ncbi.nlm.nih.gov/29605388)\]
 
 8.
-    
 
-Dainis AM, Ashley EA. Cardiovascular Precision Medicine in the Genomics Era. JACC Basic Transl Sci. 2018 Apr;3(2):313-326. [[PMC free article: PMC6059349](/pmc/articles/PMC6059349/)] [[PubMed: 30062216](https://pubmed.ncbi.nlm.nih.gov/30062216)]
+Dainis AM, Ashley EA. Cardiovascular Precision Medicine in the Genomics Era. JACC Basic Transl Sci. 2018 Apr;3(2):313-326. \[[PMC free article: PMC6059349](/pmc/articles/PMC6059349/)\] \[[PubMed: 30062216](https://pubmed.ncbi.nlm.nih.gov/30062216)\]
 
 9.
-    
 
-Mu M, Majoni SW, Iyngkaran P, Haste M, Kangaharan N. Adherence to Treatment Guidelines in Heart Failure Patients in the Top End Region of Northern Territory. Heart Lung Circ. 2019 Jul;28(7):1042-1049. [[PubMed: 29980453](https://pubmed.ncbi.nlm.nih.gov/29980453)]
+Mu M, Majoni SW, Iyngkaran P, Haste M, Kangaharan N. Adherence to Treatment Guidelines in Heart Failure Patients in the Top End Region of Northern Territory. Heart Lung Circ. 2019 Jul;28(7):1042-1049. \[[PubMed: 29980453](https://pubmed.ncbi.nlm.nih.gov/29980453)\]
 
 10.
-    
 
-Bertini M, Balla C, Pavasini R, Boriani G. Efficacy of cardiac resynchronization therapy in patients with isolated ventricular noncompaction with dilated cardiomyopathy: a systematic review of the literature. J Cardiovasc Med (Hagerstown). 2018 Jul;19(7):324-328. [[PubMed: 29877973](https://pubmed.ncbi.nlm.nih.gov/29877973)]
+Bertini M, Balla C, Pavasini R, Boriani G. Efficacy of cardiac resynchronization therapy in patients with isolated ventricular noncompaction with dilated cardiomyopathy: a systematic review of the literature. J Cardiovasc Med (Hagerstown). 2018 Jul;19(7):324-328. \[[PubMed: 29877973](https://pubmed.ncbi.nlm.nih.gov/29877973)\]
 
 11.
-    
 
-Broch K, Murbræch K, Andreassen AK, Hopp E, Aakhus S, Gullestad L. Contemporary Outcome in Patients With Idiopathic Dilated Cardiomyopathy. Am J Cardiol. 2015 Sep 15;116(6):952-9. [[PubMed: 26233575](https://pubmed.ncbi.nlm.nih.gov/26233575)]
+Broch K, Murbræch K, Andreassen AK, Hopp E, Aakhus S, Gullestad L. Contemporary Outcome in Patients With Idiopathic Dilated Cardiomyopathy. Am J Cardiol. 2015 Sep 15;116(6):952-9. \[[PubMed: 26233575](https://pubmed.ncbi.nlm.nih.gov/26233575)\]
 
 12.
-    
 
-Caviedes Bottner P, Córdova Fernández T, Larraín Valenzuela M, Cruces Romero Presentación de Casos Clínicos P. Dilated cardiomyopathy and severe heart failure. An update for pediatricians. Arch Argent Pediatr. 2018 Jun 01;116(3):e421-e428. [[PubMed: 29756716](https://pubmed.ncbi.nlm.nih.gov/29756716)]
+Caviedes Bottner P, Córdova Fernández T, Larraín Valenzuela M, Cruces Romero Presentación de Casos Clínicos P. Dilated cardiomyopathy and severe heart failure. An update for pediatricians. Arch Argent Pediatr. 2018 Jun 01;116(3):e421-e428. \[[PubMed: 29756716](https://pubmed.ncbi.nlm.nih.gov/29756716)\]
 
 13.
-    
 
-Taylor MR, Carniel E, Mestroni L. Cardiomyopathy, familial dilated. Orphanet J Rare Dis. 2006 Jul 13;1:27. [[PMC free article: PMC1559590](/pmc/articles/PMC1559590/)] [[PubMed: 16839424](https://pubmed.ncbi.nlm.nih.gov/16839424)]
+Taylor MR, Carniel E, Mestroni L. Cardiomyopathy, familial dilated. Orphanet J Rare Dis. 2006 Jul 13;1:27. \[[PMC free article: PMC1559590](/pmc/articles/PMC1559590/)\] \[[PubMed: 16839424](https://pubmed.ncbi.nlm.nih.gov/16839424)\]
 
 14.
-    
 
-Halliday BP, Gulati A, Ali A, Newsome S, Lota A, Tayal U, Vassiliou VS, Arzanauskaite M, Izgi C, Krishnathasan K, Singhal A, Chiew K, Gregson J, Frenneaux MP, Cook SA, Pennell DJ, Collins P, Cleland JGF, Prasad SK. Sex- and age-based differences in the natural history and outcome of dilated cardiomyopathy. Eur J Heart Fail. 2018 Oct;20(10):1392-1400. [[PMC free article: PMC6392171](/pmc/articles/PMC6392171/)] [[PubMed: 29862606](https://pubmed.ncbi.nlm.nih.gov/29862606)]
-
-    
+Halliday BP, Gulati A, Ali A, Newsome S, Lota A, Tayal U, Vassiliou VS, Arzanauskaite M, Izgi C, Krishnathasan K, Singhal A, Chiew K, Gregson J, Frenneaux MP, Cook SA, Pennell DJ, Collins P, Cleland JGF, Prasad SK. Sex- and age-based differences in the natural history and outcome of dilated cardiomyopathy. Eur J Heart Fail. 2018 Oct;20(10):1392-1400. \[[PMC free article: PMC6392171](/pmc/articles/PMC6392171/)\] \[[PubMed: 29862606](https://pubmed.ncbi.nlm.nih.gov/29862606)\]
 
 **Disclosure:** Hadi Mahmaljy declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Varun Yelamanchili declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Mayank Singhal declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28974/
-scraped_date: 2025-07-22 12:44:57 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28974/ scraped_date: 2025-07-22 12:44:57 UTC
 
 # Distributive Shock
 
@@ -29,13 +28,13 @@ As is true of the four broad classifications of shock, distributive shock, also 
 
 **Objectives:**
 
-  * State the etiology of distributive shock.
+- State the etiology of distributive shock.
 
-  * Describe the presentation of a patient with distributive shock.
+- Describe the presentation of a patient with distributive shock.
 
-  * List the management options for distributive shock.
+- List the management options for distributive shock.
 
-  * Employ interprofessional team strategies for optimizing care coordination and communication to advance the treatment of distributive shock and improve patient outcomes.
+- Employ interprofessional team strategies for optimizing care coordination and communication to advance the treatment of distributive shock and improve patient outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28974&utm_source=pubmed&utm_campaign=reviews&utm_content=28974)
 
@@ -85,19 +84,19 @@ Always consider adrenal insufficiency in a patient with hypotension, no signs of
 
 The physical exam will reveal:
 
-  * Altered mental status
+- Altered mental status
 
-  * Tachycardia and tachypnea
+- Tachycardia and tachypnea
 
-  * Hypotension
+- Hypotension
 
-  * Warm extremities with bounding pulses in early shock
+- Warm extremities with bounding pulses in early shock
 
-  * Hypo or hyperthermia
+- Hypo or hyperthermia
 
-  * Decreased urine output
+- Decreased urine output
 
-  * Low oxygen saturation
+- Low oxygen saturation
 
 ## Evaluation
 
@@ -119,43 +118,43 @@ Soon after resuscitation consider a diet. Some patients may require tube feeding
 
 ## Differential Diagnosis
 
-  * Anaphylaxis
+- Anaphylaxis
 
-  * CO poisoning
+- CO poisoning
 
-  * Adverse drug reaction
+- Adverse drug reaction
 
-  * Neurogenic shock
+- Neurogenic shock
 
-  * Toxic shock syndrome
+- Toxic shock syndrome
 
-  * Cyanide poisoning
+- Cyanide poisoning
 
-  * Cardiogenic shock
+- Cardiogenic shock
 
-  * Hemorrhagic shock
+- Hemorrhagic shock
 
-  * Tamponade
+- Tamponade
 
 ## Prognosis
 
 The mortality from distributive shock varies on the cause and can range from 20-80%. Early recognition is the key to improved survival. Higher mortality rates are linked to:
 
-  * Positive blood cultures
+- Positive blood cultures
 
-  * Advanced age
+- Advanced age
 
-  * Elevated serum lactate or failure to clear lactate when labs are repeated
+- Elevated serum lactate or failure to clear lactate when labs are repeated
 
-  * Infection due to pseudomonas aeruginosa
+- Infection due to pseudomonas aeruginosa
 
-  * Alcohol use
+- Alcohol use
 
-  * Immunocompromised state
+- Immunocompromised state
 
-  * Poor functional status prior to the event
+- Poor functional status prior to the event
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Distributive shock is a life-threatening condition with multiple causes. It carries high morbidity and mortality if not rapidly diagnosed and treated appropriately. Outcomes are dependent on underlying etiology, and multiple medical specialties and varying levels of nursing care may be required depending on the cause of shock. The underlying etiology of distributive shock must be addressed and treated to maximize patient outcomes. Intense nursing interventions and ICU monitoring are frequently required in these critically ill patients with frequent reporting of progress to the clinical team. Evidence shows that early enteral nutrition results in better outcomes, and diet should be initiated when appropriate. The critically ill ICU patient will benefit from interprofessional rounds that may include a nutritionist, pharmacist, PT/OT, and other patient care providers which will result in coordinated care and team monitoring which will improve outcomes.
 
@@ -165,97 +164,76 @@ Patients who do respond to a fluid challenge and have no organ failure have good
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28974&utm_source=pubmed&utm_campaign=reviews&utm_content=28974)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28974&utm_source=pubmed&utm_campaign=reviews&utm_content=28974)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/distributive-shock/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=28974)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/distributive-shock/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=28974)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/28974/?utm_source=pubmed&utm_campaign=comments&utm_content=28974)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/28974/?utm_source=pubmed&utm_campaign=comments&utm_content=28974)
 
 ## References
 
 1.
-    
 
-Asmundsson ASE, Bjorklund AR, Fisher GA. Diagnosis of Systemic Capillary Leak Syndrome in a Young Child Treated with Intravenous Immunoglobulin in the Acute Phase. J Pediatr Intensive Care. 2018 Jun;7(2):94-96. [[PMC free article: PMC6260347](/pmc/articles/PMC6260347/)] [[PubMed: 31073478](https://pubmed.ncbi.nlm.nih.gov/31073478)]
+Asmundsson ASE, Bjorklund AR, Fisher GA. Diagnosis of Systemic Capillary Leak Syndrome in a Young Child Treated with Intravenous Immunoglobulin in the Acute Phase. J Pediatr Intensive Care. 2018 Jun;7(2):94-96. \[[PMC free article: PMC6260347](/pmc/articles/PMC6260347/)\] \[[PubMed: 31073478](https://pubmed.ncbi.nlm.nih.gov/31073478)\]
 
 2.
-    
 
-Rahulkumar HH, Bhavin PR, Shreyas KP, Krunalkumar HP, Atulkumar S, Bansari C. Utility of Point-of-Care Ultrasound in Differentiating Causes of Shock in Resource-Limited Setup. J Emerg Trauma Shock. 2019 Jan-Mar;12(1):10-17. [[PMC free article: PMC6496999](/pmc/articles/PMC6496999/)] [[PubMed: 31057278](https://pubmed.ncbi.nlm.nih.gov/31057278)]
+Rahulkumar HH, Bhavin PR, Shreyas KP, Krunalkumar HP, Atulkumar S, Bansari C. Utility of Point-of-Care Ultrasound in Differentiating Causes of Shock in Resource-Limited Setup. J Emerg Trauma Shock. 2019 Jan-Mar;12(1):10-17. \[[PMC free article: PMC6496999](/pmc/articles/PMC6496999/)\] \[[PubMed: 31057278](https://pubmed.ncbi.nlm.nih.gov/31057278)\]
 
 3.
-    
 
-Berg DD, Bohula EA, van Diepen S, Katz JN, Alviar CL, Baird-Zars VM, Barnett CF, Barsness GW, Burke JA, Cremer PC, Cruz J, Daniels LB, DeFilippis AP, Haleem A, Hollenberg SM, Horowitz JM, Keller N, Kontos MC, Lawler PR, Menon V, Metkus TS, Ng J, Orgel R, Overgaard CB, Park JG, Phreaner N, Roswell RO, Schulman SP, Jeffrey Snell R, Solomon MA, Ternus B, Tymchak W, Vikram F, Morrow DA. Epidemiology of Shock in Contemporary Cardiac Intensive Care Units. Circ Cardiovasc Qual Outcomes. 2019 Mar;12(3):e005618. [[PMC free article: PMC11032172](/pmc/articles/PMC11032172/)] [[PubMed: 30879324](https://pubmed.ncbi.nlm.nih.gov/30879324)]
+Berg DD, Bohula EA, van Diepen S, Katz JN, Alviar CL, Baird-Zars VM, Barnett CF, Barsness GW, Burke JA, Cremer PC, Cruz J, Daniels LB, DeFilippis AP, Haleem A, Hollenberg SM, Horowitz JM, Keller N, Kontos MC, Lawler PR, Menon V, Metkus TS, Ng J, Orgel R, Overgaard CB, Park JG, Phreaner N, Roswell RO, Schulman SP, Jeffrey Snell R, Solomon MA, Ternus B, Tymchak W, Vikram F, Morrow DA. Epidemiology of Shock in Contemporary Cardiac Intensive Care Units. Circ Cardiovasc Qual Outcomes. 2019 Mar;12(3):e005618. \[[PMC free article: PMC11032172](/pmc/articles/PMC11032172/)\] \[[PubMed: 30879324](https://pubmed.ncbi.nlm.nih.gov/30879324)\]
 
 4.
-    
 
-Standl T, Annecke T, Cascorbi I, Heller AR, Sabashnikov A, Teske W. The Nomenclature, Definition and Distinction of Types of Shock. Dtsch Arztebl Int. 2018 Nov 09;115(45):757-768. [[PMC free article: PMC6323133](/pmc/articles/PMC6323133/)] [[PubMed: 30573009](https://pubmed.ncbi.nlm.nih.gov/30573009)]
+Standl T, Annecke T, Cascorbi I, Heller AR, Sabashnikov A, Teske W. The Nomenclature, Definition and Distinction of Types of Shock. Dtsch Arztebl Int. 2018 Nov 09;115(45):757-768. \[[PMC free article: PMC6323133](/pmc/articles/PMC6323133/)\] \[[PubMed: 30573009](https://pubmed.ncbi.nlm.nih.gov/30573009)\]
 
 5.
-    
 
-Gabbay U, Carmi D, Birk E, Dagan D, Shatz A, Kidron D. The Sudden Infant Death Syndrome mechanism of death may be a non-septic hyper-dynamic shock. Med Hypotheses. 2019 Jan;122:35-40. [[PubMed: 30593418](https://pubmed.ncbi.nlm.nih.gov/30593418)]
+Gabbay U, Carmi D, Birk E, Dagan D, Shatz A, Kidron D. The Sudden Infant Death Syndrome mechanism of death may be a non-septic hyper-dynamic shock. Med Hypotheses. 2019 Jan;122:35-40. \[[PubMed: 30593418](https://pubmed.ncbi.nlm.nih.gov/30593418)\]
 
 6.
-    
 
-Smith MD, Maani CV. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 8, 2023. Norepinephrine. [[PubMed: 30725944](https://pubmed.ncbi.nlm.nih.gov/30725944)]
+Smith MD, Maani CV. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 8, 2023. Norepinephrine. \[[PubMed: 30725944](https://pubmed.ncbi.nlm.nih.gov/30725944)\]
 
 7.
-    
 
-Casey JD, Brown RM, Semler MW. Resuscitation fluids. Curr Opin Crit Care. 2018 Dec;24(6):512-518. [[PMC free article: PMC6503665](/pmc/articles/PMC6503665/)] [[PubMed: 30247219](https://pubmed.ncbi.nlm.nih.gov/30247219)]
+Casey JD, Brown RM, Semler MW. Resuscitation fluids. Curr Opin Crit Care. 2018 Dec;24(6):512-518. \[[PMC free article: PMC6503665](/pmc/articles/PMC6503665/)\] \[[PubMed: 30247219](https://pubmed.ncbi.nlm.nih.gov/30247219)\]
 
 8.
-    
 
-Mendelson J. Emergency Department Management of Pediatric Shock. Emerg Med Clin North Am. 2018 May;36(2):427-440. [[PubMed: 29622332](https://pubmed.ncbi.nlm.nih.gov/29622332)]
+Mendelson J. Emergency Department Management of Pediatric Shock. Emerg Med Clin North Am. 2018 May;36(2):427-440. \[[PubMed: 29622332](https://pubmed.ncbi.nlm.nih.gov/29622332)\]
 
 9.
-    
 
-Silva J, Gonçalves L, Sousa PP. Fluid therapy and shock: an integrative literature review. Br J Nurs. 2018 Apr 26;27(8):449-454. [[PubMed: 29683753](https://pubmed.ncbi.nlm.nih.gov/29683753)]
+Silva J, Gonçalves L, Sousa PP. Fluid therapy and shock: an integrative literature review. Br J Nurs. 2018 Apr 26;27(8):449-454. \[[PubMed: 29683753](https://pubmed.ncbi.nlm.nih.gov/29683753)\]
 
 10.
-    
 
-Hooper N, Armstrong TJ. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 26, 2022. Hemorrhagic Shock. [[PubMed: 29262047](https://pubmed.ncbi.nlm.nih.gov/29262047)]
+Hooper N, Armstrong TJ. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 26, 2022. Hemorrhagic Shock. \[[PubMed: 29262047](https://pubmed.ncbi.nlm.nih.gov/29262047)\]
 
 11.
-    
 
-Vincent JL, Leone M. Optimum treatment of vasopressor-dependent distributive shock. Expert Rev Anti Infect Ther. 2017 Jan;15(1):5-10. [[PubMed: 27774825](https://pubmed.ncbi.nlm.nih.gov/27774825)]
+Vincent JL, Leone M. Optimum treatment of vasopressor-dependent distributive shock. Expert Rev Anti Infect Ther. 2017 Jan;15(1):5-10. \[[PubMed: 27774825](https://pubmed.ncbi.nlm.nih.gov/27774825)\]
 
 12.
-    
 
-Ince C. The rationale for microcirculatory guided fluid therapy. Curr Opin Crit Care. 2014 Jun;20(3):301-8. [[PubMed: 24758985](https://pubmed.ncbi.nlm.nih.gov/24758985)]
+Ince C. The rationale for microcirculatory guided fluid therapy. Curr Opin Crit Care. 2014 Jun;20(3):301-8. \[[PubMed: 24758985](https://pubmed.ncbi.nlm.nih.gov/24758985)\]
 
 13.
-    
 
-Lodha R, Kapoor V. Peripheral circulatory failure. Indian J Pediatr. 2003 Feb;70(2):163-8. [[PubMed: 12661813](https://pubmed.ncbi.nlm.nih.gov/12661813)]
+Lodha R, Kapoor V. Peripheral circulatory failure. Indian J Pediatr. 2003 Feb;70(2):163-8. \[[PubMed: 12661813](https://pubmed.ncbi.nlm.nih.gov/12661813)\]
 
 14.
-    
 
-Roumpf SK, Hunter BR. Does the Addition of Vasopressin to Catecholamine Vasopressors Affect Outcomes in Patients With Distributive Shock? Ann Emerg Med. 2019 Jul;74(1):153-155. [[PubMed: 30446352](https://pubmed.ncbi.nlm.nih.gov/30446352)]
+Roumpf SK, Hunter BR. Does the Addition of Vasopressin to Catecholamine Vasopressors Affect Outcomes in Patients With Distributive Shock? Ann Emerg Med. 2019 Jul;74(1):153-155. \[[PubMed: 30446352](https://pubmed.ncbi.nlm.nih.gov/30446352)\]
 
 15.
-    
 
-Nedel WL, Rech TH, Ribeiro RA, Pellegrini JAS, Moraes RB. Renal Outcomes of Vasopressin and Its Analogs in Distributive Shock: A Systematic Review and Meta-Analysis of Randomized Trials. Crit Care Med. 2019 Jan;47(1):e44-e51. [[PubMed: 30303842](https://pubmed.ncbi.nlm.nih.gov/30303842)]
-
-    
+Nedel WL, Rech TH, Ribeiro RA, Pellegrini JAS, Moraes RB. Renal Outcomes of Vasopressin and Its Analogs in Distributive Shock: A Systematic Review and Meta-Analysis of Randomized Trials. Crit Care Med. 2019 Jan;47(1):e44-e51. \[[PubMed: 30303842](https://pubmed.ncbi.nlm.nih.gov/30303842)\]
 
 **Disclosure:** Nicholas Smith declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Richard Lopez declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Michael Silberman declares no relevant financial relationships with ineligible companies.

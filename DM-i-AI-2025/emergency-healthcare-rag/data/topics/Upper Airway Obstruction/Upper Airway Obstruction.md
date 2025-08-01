@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17310/
-scraped_date: 2025-07-22 12:41:31 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17310/ scraped_date: 2025-07-22 12:41:31 UTC
 
 # Airway Obstruction
 
@@ -27,13 +26,13 @@ Airway obstruction secondary to a foreign body is often easily treated, as the f
 
 **Objectives:**
 
-  * Review the pathophysiologic basis of airway obstruction.
+- Review the pathophysiologic basis of airway obstruction.
 
-  * Outline the expected history and physical findings for a patient with airway obstruction.
+- Outline the expected history and physical findings for a patient with airway obstruction.
 
-  * List the treatment options available for airway obstruction.
+- List the treatment options available for airway obstruction.
 
-  * Review the need for an interprofessional team approach to caring for a patient with airway obstruction.
+- Review the need for an interprofessional team approach to caring for a patient with airway obstruction.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17310&utm_source=pubmed&utm_campaign=reviews&utm_content=17310)
 
@@ -65,47 +64,47 @@ The immediate goal in the management of patients with airway obstruction is reli
 
 The differential diagnosis of acute upper airway obstruction:
 
-  * Aspiration
+- Aspiration
 
-  * Infection
+- Infection
 
-  * Hemorrhage
+- Hemorrhage
 
-  * Angioedema
+- Angioedema
 
-  * Iatrogenic (e.g., post-surgical, instrumental)
+- Iatrogenic (e.g., post-surgical, instrumental)
 
-  * Blunt trauma
+- Blunt trauma
 
-  * Inhalation injury
+- Inhalation injury
 
-  * Neuromuscular disease
+- Neuromuscular disease
 
 The differential diagnosis of chronic airway obstruction:
 
-  * Infection
+- Infection
 
-  * Post-intubation
+- Post-intubation
 
-  * Amyloidosis
+- Amyloidosis
 
-  * Sarcoidosis
+- Sarcoidosis
 
-  * Tumor
+- Tumor
 
-  * Collagen vascular disease
+- Collagen vascular disease
 
-  * Mediastinal mass
+- Mediastinal mass
 
-  * Esophageal tumor
+- Esophageal tumor
 
-  * Cardiovascular anomaly
+- Cardiovascular anomaly
 
-  * Neuromuscular disease
+- Neuromuscular disease
 
-  * Idiopathic
+- Idiopathic
 
-  * Tonsillar enlargement in children
+- Tonsillar enlargement in children
 
 ## Prognosis
 
@@ -115,15 +114,15 @@ The prognosis of airway obstruction depends on the etiology of the condition. Ge
 
 The complications of airway obstruction are:
 
-  * Respiratory failure
+- Respiratory failure
 
-  * Arrhythmias
+- Arrhythmias
 
-  * Cardiac arrest
+- Cardiac arrest
 
-  * Death
+- Death
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Airway obstruction can occur both in the hospital and at home. Thus, all healthcare workers must know how to manage this life-threatening emergency. Because death can occur within minutes, an interprofessional team approach is necessary to save the life of the patient. All healthcare workers who look after patients should be familiar with the signs and symptoms of respiratory distress. Most hospitals now have a team of professionals who are in charge of intubation outside the operating room. In most cases, it is the nurse who first identifies the patient with respiratory distress and alerts the rest of the team.
 
@@ -141,11 +140,11 @@ The outcomes for patients with airway obstruction depend on the cause. If the ca
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17310&utm_source=pubmed&utm_campaign=reviews&utm_content=17310)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17310&utm_source=pubmed&utm_campaign=reviews&utm_content=17310)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/ear-nose-and-throat/airway-obstruction/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17310)
+- [Click here for a simplified version.](https://mdsearchlight.com/ear-nose-and-throat/airway-obstruction/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17310)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17310/?utm_source=pubmed&utm_campaign=comments&utm_content=17310)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17310/?utm_source=pubmed&utm_campaign=comments&utm_content=17310)
 
 [![First aid technique for clearing the airways](/books/NBK470562/bin/Tongue-blocking-airways.gif)](/books/NBK470562/figure/article-17310.image.f1/?report=objectonly "Figure")
 
@@ -163,25 +162,25 @@ Gentle pressure behind the jaw lifts the mandible and maintains airway patency. 
 
 #### [Figure](/books/NBK470562/figure/article-17310.image.f3/?report=objectonly)
 
-EC or E-C technique of opening an airway with one rescuer to facilitate bag-mask ventilation. Contributed by Tammy J. Toney-Butler, AS, RN, CEN, TCRN, CPEN 
+EC or E-C technique of opening an airway with one rescuer to facilitate bag-mask ventilation. Contributed by Tammy J. Toney-Butler, AS, RN, CEN, TCRN, CPEN
 
 [![Image ](/books/NBK470562/bin/Gray994-adenoid.gif)](/books/NBK470562/figure/article-17310.image.f4/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470562/figure/article-17310.image.f4/?report=objectonly)
 
-Sagittal Section of Nose, mouth, Pharynx, Larynx, Adenoid Hypertrophy, Pathology, Obstruction of the nasal airways Contributed by Henry Gray (Public Domain) 
+Sagittal Section of Nose, mouth, Pharynx, Larynx, Adenoid Hypertrophy, Pathology, Obstruction of the nasal airways Contributed by Henry Gray (Public Domain)
 
 [![Image ](/books/NBK470562/bin/Bronchoscopy__image.gif)](/books/NBK470562/figure/article-17310.image.f5/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470562/figure/article-17310.image.f5/?report=objectonly)
 
-Bronchoscopy parts and bronchoscopic view of the airways Contributed by Mahmoud Naser 
+Bronchoscopy parts and bronchoscopic view of the airways Contributed by Mahmoud Naser
 
 [![Image ](/books/NBK470562/bin/845px-Respiratory_system_complete_en.svg.gif)](/books/NBK470562/figure/article-17310.image.f6/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470562/figure/article-17310.image.f6/?report=objectonly)
 
-Airway and Lung Anatomy Contributed by Public Domain 
+Airway and Lung Anatomy Contributed by Public Domain
 
 [![Infant Airway](/books/NBK470562/bin/CPR_Infant_Closed_vs_Open_Airway.gif)](/books/NBK470562/figure/article-17310.image.f7/?report=objectonly "Figure")
 
@@ -192,69 +191,53 @@ Infant Airway. In the top image, note that the large occiput causes flexion of t
 ## References
 
 1.
-    
 
-Aghasafari P, George U, Pidaparti R. A review of inflammatory mechanism in airway diseases. Inflamm Res. 2019 Jan;68(1):59-74. [[PubMed: 30306206](https://pubmed.ncbi.nlm.nih.gov/30306206)]
+Aghasafari P, George U, Pidaparti R. A review of inflammatory mechanism in airway diseases. Inflamm Res. 2019 Jan;68(1):59-74. \[[PubMed: 30306206](https://pubmed.ncbi.nlm.nih.gov/30306206)\]
 
 2.
-    
 
-Cramer N, Jabbour N, Tavarez MM, Taylor RS. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 31, 2023. Foreign Body Aspiration. [[PubMed: 30285375](https://pubmed.ncbi.nlm.nih.gov/30285375)]
+Cramer N, Jabbour N, Tavarez MM, Taylor RS. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 31, 2023. Foreign Body Aspiration. \[[PubMed: 30285375](https://pubmed.ncbi.nlm.nih.gov/30285375)\]
 
 3.
-    
 
-Ojeda Rodriguez JA, Ladd M, Brandis D. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 23, 2023. Abdominal Thrust Maneuver. [[PMC free article: PMC531467](/pmc/articles/PMC531467/)] [[PubMed: 30285362](https://pubmed.ncbi.nlm.nih.gov/30285362)]
+Ojeda Rodriguez JA, Ladd M, Brandis D. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 23, 2023. Abdominal Thrust Maneuver. \[[PMC free article: PMC531467](/pmc/articles/PMC531467/)\] \[[PubMed: 30285362](https://pubmed.ncbi.nlm.nih.gov/30285362)\]
 
 4.
-    
 
-Yildirim E. Principles of Urgent Management of Acute Airway Obstruction. Thorac Surg Clin. 2018 Aug;28(3):415-428. [[PubMed: 30054079](https://pubmed.ncbi.nlm.nih.gov/30054079)]
+Yildirim E. Principles of Urgent Management of Acute Airway Obstruction. Thorac Surg Clin. 2018 Aug;28(3):415-428. \[[PubMed: 30054079](https://pubmed.ncbi.nlm.nih.gov/30054079)\]
 
 5.
-    
 
-Doherty C, Neal R, English C, Cooke J, Atkinson D, Bates L, Moore J, Monks S, Bowler M, Bruce IA, Bateman N, Wyatt M, Russell J, Perkins R, McGrath BA., Paediatric Working Party of the National Tracheostomy Safety Project. Multidisciplinary guidelines for the management of paediatric tracheostomy emergencies. Anaesthesia. 2018 Nov;73(11):1400-1417. [[PubMed: 30062783](https://pubmed.ncbi.nlm.nih.gov/30062783)]
+Doherty C, Neal R, English C, Cooke J, Atkinson D, Bates L, Moore J, Monks S, Bowler M, Bruce IA, Bateman N, Wyatt M, Russell J, Perkins R, McGrath BA., Paediatric Working Party of the National Tracheostomy Safety Project. Multidisciplinary guidelines for the management of paediatric tracheostomy emergencies. Anaesthesia. 2018 Nov;73(11):1400-1417. \[[PubMed: 30062783](https://pubmed.ncbi.nlm.nih.gov/30062783)\]
 
 6.
-    
 
-Schauer SG, April MD, Cunningham CW, Long AN, Carter R. Prehospital Cricothyrotomy Kits Used in Combat. J Spec Oper Med. 2017 Fall;17(3):18-20. [[PubMed: 28910462](https://pubmed.ncbi.nlm.nih.gov/28910462)]
+Schauer SG, April MD, Cunningham CW, Long AN, Carter R. Prehospital Cricothyrotomy Kits Used in Combat. J Spec Oper Med. 2017 Fall;17(3):18-20. \[[PubMed: 28910462](https://pubmed.ncbi.nlm.nih.gov/28910462)\]
 
 7.
-    
 
-Clark DW, Del Signore AG, Raithatha R, Senior BA. Nasal airway obstruction: Prevalence and anatomic contributors. Ear Nose Throat J. 2018 Jun;97(6):173-176. [[PubMed: 30036414](https://pubmed.ncbi.nlm.nih.gov/30036414)]
+Clark DW, Del Signore AG, Raithatha R, Senior BA. Nasal airway obstruction: Prevalence and anatomic contributors. Ear Nose Throat J. 2018 Jun;97(6):173-176. \[[PubMed: 30036414](https://pubmed.ncbi.nlm.nih.gov/30036414)\]
 
 8.
-    
 
-Simonassi CF, Majori M, Covesnon MG, Brianti A, Lazzari Agli L, Meoni E, Ielpo A, Corbetta L. Competence in pulmonary endoscopy emergencies. Panminerva Med. 2019 Sep;61(3):386-400. [[PubMed: 30303356](https://pubmed.ncbi.nlm.nih.gov/30303356)]
+Simonassi CF, Majori M, Covesnon MG, Brianti A, Lazzari Agli L, Meoni E, Ielpo A, Corbetta L. Competence in pulmonary endoscopy emergencies. Panminerva Med. 2019 Sep;61(3):386-400. \[[PubMed: 30303356](https://pubmed.ncbi.nlm.nih.gov/30303356)\]
 
 9.
-    
 
-Chiaravalli J, Lufesi N, Shawa E, Nkhoma V, Sigalet E, Dubrowski A. Management of an Obstructed Tracheostomy in a Limited-Resource Setting. Cureus. 2017 May 13;9(5):e1246. [[PMC free article: PMC5469676](/pmc/articles/PMC5469676/)] [[PubMed: 28616369](https://pubmed.ncbi.nlm.nih.gov/28616369)]
+Chiaravalli J, Lufesi N, Shawa E, Nkhoma V, Sigalet E, Dubrowski A. Management of an Obstructed Tracheostomy in a Limited-Resource Setting. Cureus. 2017 May 13;9(5):e1246. \[[PMC free article: PMC5469676](/pmc/articles/PMC5469676/)\] \[[PubMed: 28616369](https://pubmed.ncbi.nlm.nih.gov/28616369)\]
 
 10.
-    
 
-McKinney OW, Heaton PA, Gamble J, Paul SP. Recognition and management of foreign body ingestion and aspiration. Nurs Stand. 2017 Feb 01;31(23):42-52. [[PubMed: 28145196](https://pubmed.ncbi.nlm.nih.gov/28145196)]
+McKinney OW, Heaton PA, Gamble J, Paul SP. Recognition and management of foreign body ingestion and aspiration. Nurs Stand. 2017 Feb 01;31(23):42-52. \[[PubMed: 28145196](https://pubmed.ncbi.nlm.nih.gov/28145196)\]
 
 11.
-    
 
-Kovacs G, Sowers N. Airway Management in Trauma. Emerg Med Clin North Am. 2018 Feb;36(1):61-84. [[PubMed: 29132582](https://pubmed.ncbi.nlm.nih.gov/29132582)]
+Kovacs G, Sowers N. Airway Management in Trauma. Emerg Med Clin North Am. 2018 Feb;36(1):61-84. \[[PubMed: 29132582](https://pubmed.ncbi.nlm.nih.gov/29132582)\]
 
 12.
-    
 
-Colombo LT, Mulinari-Santos G, Souza FÁ. Upper Airway Obstruction in a Panfacial Fracture. J Craniofac Surg. 2018 Nov;29(8):e774. [[PubMed: 30015738](https://pubmed.ncbi.nlm.nih.gov/30015738)]
-
-    
+Colombo LT, Mulinari-Santos G, Souza FÁ. Upper Airway Obstruction in a Panfacial Fracture. J Craniofac Surg. 2018 Nov;29(8):e774. \[[PubMed: 30015738](https://pubmed.ncbi.nlm.nih.gov/30015738)\]
 
 **Disclosure:** Mark Brady declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Bracken Burns declares no relevant financial relationships with ineligible companies.

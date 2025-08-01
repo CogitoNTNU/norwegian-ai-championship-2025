@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26956/
-scraped_date: 2025-07-22 12:46:48 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26956/ scraped_date: 2025-07-22 12:46:48 UTC
 
 # Acute Cardiac Tamponade
 
@@ -27,13 +26,13 @@ Cardiac tamponade occurs when excessive fluid accumulates in the pericardium, in
 
 **Objectives:**
 
-  * Describe the classic presentation of a patient with cardiac tamponade.
+- Describe the classic presentation of a patient with cardiac tamponade.
 
-  * Explain how to evaluate a patient with cardiac tamponade.
+- Explain how to evaluate a patient with cardiac tamponade.
 
-  * Outline how to treat a patient with cardiac tamponade.
+- Outline how to treat a patient with cardiac tamponade.
 
-  * Summarize the importance of a cohesive, interprofessional team approach to caring for patients with cardiac tamponade.
+- Summarize the importance of a cohesive, interprofessional team approach to caring for patients with cardiac tamponade.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26956&utm_source=pubmed&utm_campaign=reviews&utm_content=26956)
 
@@ -71,7 +70,7 @@ The classic physical findings in cardiac tamponade are included in Beck’s tria
 
 Evaluation of patients who are suspected of having pericarditis should begin with an electrocardiogram. Patients with pericarditis occasionally will have typical ECG changes that evolve through four stages. In stage I, patients develop diffuse concave up ST-segment elevation. This is often accompanied by PR-segment elevation in lead AVR as well. Stage II occurs within the first week and shows normalization of ST and PR segment changes, while stage III and stage IV are characterized by widespread T-wave inversions, followed by T-wave normalization.
 
-Laboratory studies may be helpful when working up pericarditis. A complete blood cell count may show a leukocytosis. A basic metabolic profile may demonstrate elevated renal function tests supporting uremia as the cause of pericarditis or pericardial effusion. The sedimentation rate and CRP are inflammatory markers that may help diagnose or track the progression of these conditions. 
+Laboratory studies may be helpful when working up pericarditis. A complete blood cell count may show a leukocytosis. A basic metabolic profile may demonstrate elevated renal function tests supporting uremia as the cause of pericarditis or pericardial effusion. The sedimentation rate and CRP are inflammatory markers that may help diagnose or track the progression of these conditions.
 
 Once a diagnosis of pericarditis is made or there is a concern for cardiac tamponade, a bedside echocardiogram should be performed to evaluate the extent of the effusion and look for signs of tamponade. Evidence on echocardiogram supporting tamponade would include right ventricular collapse or bowing of the intraventricular septum. If myocarditis is of concern, computed tomography or cardiovascular magnetic MRI should be done.
 
@@ -83,21 +82,21 @@ The treatment of cardiac tamponade is pericardiocentesis. During this procedure,
 
 ## Differential Diagnosis
 
-The differential of cardiac tamponade would include other causes of obstructive or cardiogenic shock such as pulmonary embolism, myocardial infarction, Type A aortic dissection with extension into the pericardium or tension pneumothorax. 
+The differential of cardiac tamponade would include other causes of obstructive or cardiogenic shock such as pulmonary embolism, myocardial infarction, Type A aortic dissection with extension into the pericardium or tension pneumothorax.
 
 In addition to the underlying causes of pericarditis discussed above, other causes of chest pain that should be considered when evaluating for pericarditis would include acute coronary syndrome, angina, peptic ulcer disease, gastritis or esophagitis.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Physician assistants, nurse practitioners, and nurses also play a vital role in managing patients with acute pericarditis and cardiac tamponade. Their role includes medication adjustment and follow-up at the pericardial clinic. They not only co-manage patients with the physicians by monitoring patients’ symptoms and inflammatory markers but also help in contacting patients by phone, titrating dosages of medications, and arranging follow-up visits with an NP/PA in 3 months and with the physician every 6 months.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26956&utm_source=pubmed&utm_campaign=reviews&utm_content=26956)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26956&utm_source=pubmed&utm_campaign=reviews&utm_content=26956)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/acute-cardiac-tamponade/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26956)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/acute-cardiac-tamponade/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26956)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26956/?utm_source=pubmed&utm_campaign=comments&utm_content=26956)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26956/?utm_source=pubmed&utm_campaign=comments&utm_content=26956)
 
 [![Figure Icon](/corehtml/pmc/css/bookshelf/2.26/img/media-icon.gif)](/books/NBK534806/figure/article-26956.image.f1/?report=objectonly "Figure")
 
@@ -109,54 +108,42 @@ Large Pericardial Effusion. This video shows the parasternal long-axis window of
 
 #### [Figure](/books/NBK534806/figure/article-26956.image.f2/?report=objectonly)
 
-Echocardiogram with apical four chamber view demonstrating a moderately large pericardial effusion with right atrial and right ventricular collapse consistent with cardiac tamponade Contributed by N.K. Choudhry, MD 
+Echocardiogram with apical four chamber view demonstrating a moderately large pericardial effusion with right atrial and right ventricular collapse consistent with cardiac tamponade Contributed by N.K. Choudhry, MD
 
 ## References
 
 1.
-    
 
-Snyder MJ, Bepko J, White M. Acute pericarditis: diagnosis and management. Am Fam Physician. 2014 Apr 01;89(7):553-60. [[PubMed: 24695601](https://pubmed.ncbi.nlm.nih.gov/24695601)]
+Snyder MJ, Bepko J, White M. Acute pericarditis: diagnosis and management. Am Fam Physician. 2014 Apr 01;89(7):553-60. \[[PubMed: 24695601](https://pubmed.ncbi.nlm.nih.gov/24695601)\]
 
 2.
-    
 
-Imazio M, Gaita F, LeWinter M. Evaluation and Treatment of Pericarditis: A Systematic Review. JAMA. 2015 Oct 13;314(14):1498-506. [[PubMed: 26461998](https://pubmed.ncbi.nlm.nih.gov/26461998)]
+Imazio M, Gaita F, LeWinter M. Evaluation and Treatment of Pericarditis: A Systematic Review. JAMA. 2015 Oct 13;314(14):1498-506. \[[PubMed: 26461998](https://pubmed.ncbi.nlm.nih.gov/26461998)\]
 
 3.
-    
 
-Imazio M, Adler Y. Management of pericardial effusion. Eur Heart J. 2013 Apr;34(16):1186-97. [[PubMed: 23125278](https://pubmed.ncbi.nlm.nih.gov/23125278)]
+Imazio M, Adler Y. Management of pericardial effusion. Eur Heart J. 2013 Apr;34(16):1186-97. \[[PubMed: 23125278](https://pubmed.ncbi.nlm.nih.gov/23125278)\]
 
 4.
-    
 
-Bodson L, Bouferrache K, Vieillard-Baron A. Cardiac tamponade. Curr Opin Crit Care. 2011 Oct;17(5):416-24. [[PubMed: 21716107](https://pubmed.ncbi.nlm.nih.gov/21716107)]
+Bodson L, Bouferrache K, Vieillard-Baron A. Cardiac tamponade. Curr Opin Crit Care. 2011 Oct;17(5):416-24. \[[PubMed: 21716107](https://pubmed.ncbi.nlm.nih.gov/21716107)\]
 
 5.
-    
 
-Stashko E, Meer JM. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Aug 7, 2023. Cardiac Tamponade. [[PubMed: 28613742](https://pubmed.ncbi.nlm.nih.gov/28613742)]
+Stashko E, Meer JM. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Aug 7, 2023. Cardiac Tamponade. \[[PubMed: 28613742](https://pubmed.ncbi.nlm.nih.gov/28613742)\]
 
 6.
-    
 
-Yacoub M, Quintanilla Rodriguez BS, Mahajan K. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 24, 2023. Constrictive-Effusive Pericarditis. [[PMC free article: PMC519579](/pmc/articles/PMC519579/)] [[PubMed: 30137863](https://pubmed.ncbi.nlm.nih.gov/30137863)]
+Yacoub M, Quintanilla Rodriguez BS, Mahajan K. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 24, 2023. Constrictive-Effusive Pericarditis. \[[PMC free article: PMC519579](/pmc/articles/PMC519579/)\] \[[PubMed: 30137863](https://pubmed.ncbi.nlm.nih.gov/30137863)\]
 
 7.
-    
 
-Imazio M, Gaita F. Diagnosis and treatment of pericarditis. Heart. 2015 Jul;101(14):1159-68. [[PubMed: 25855795](https://pubmed.ncbi.nlm.nih.gov/25855795)]
+Imazio M, Gaita F. Diagnosis and treatment of pericarditis. Heart. 2015 Jul;101(14):1159-68. \[[PubMed: 25855795](https://pubmed.ncbi.nlm.nih.gov/25855795)\]
 
 8.
-    
 
-Spodick DH. Acute cardiac tamponade. N Engl J Med. 2003 Aug 14;349(7):684-90. [[PubMed: 12917306](https://pubmed.ncbi.nlm.nih.gov/12917306)]
-
-    
+Spodick DH. Acute cardiac tamponade. N Engl J Med. 2003 Aug 14;349(7):684-90. \[[PubMed: 12917306](https://pubmed.ncbi.nlm.nih.gov/12917306)\]
 
 **Disclosure:** Nitish Sharma declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** James Waymack declares no relevant financial relationships with ineligible companies.

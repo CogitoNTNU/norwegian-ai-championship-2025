@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17923/
-scraped_date: 2025-07-22 12:54:32 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17923/ scraped_date: 2025-07-22 12:54:32 UTC
 
 # Anesthesia Management in Patients with Asthma
 
@@ -33,13 +32,13 @@ This activity for healthcare professionals enhances the learner's ability to ass
 
 **Objectives:**
 
-  * Screen patients preoperatively for asthma severity, medication use, and recent exacerbations to optimize perioperative management.
+- Screen patients preoperatively for asthma severity, medication use, and recent exacerbations to optimize perioperative management.
 
-  * Identify key risk factors and triggers that increase perioperative respiratory complications in patients with asthma.
+- Identify key risk factors and triggers that increase perioperative respiratory complications in patients with asthma.
 
-  * Assess the impact of anesthetic agents on airway reactivity and select the most appropriate agents for patients with asthma.
+- Assess the impact of anesthetic agents on airway reactivity and select the most appropriate agents for patients with asthma.
 
-  * Collaborate with multidisciplinary teams to optimize perioperative asthma care.
+- Collaborate with multidisciplinary teams to optimize perioperative asthma care.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17923&utm_source=pubmed&utm_campaign=reviews&utm_content=17923)
 
@@ -63,35 +62,35 @@ During the preoperative evaluation, clinicians must gather information about rec
 
 In addition to a diagnosis of asthma, the following factors increase the risk of perioperative respiratory adverse events in children. Clinicians should assess these factors before administering anesthesia:
 
-  * Wheezing with exercise
+- Wheezing with exercise
 
-  * Wheezing more than 3 times in the last 12 months
+- Wheezing more than 3 times in the last 12 months
 
-  * Nocturnal dry cough
+- Nocturnal dry cough
 
-  * Upper respiratory tract infection within the last 2 weeks
+- Upper respiratory tract infection within the last 2 weeks
 
-  * History of hayfever
+- History of hayfever
 
-  * History of eczema
+- History of eczema
 
-  * Second-hand smoke exposure
+- Second-hand smoke exposure
 
-  * Family history of asthma, hay fever, or eczema
+- Family history of asthma, hay fever, or eczema
 
-  * Age younger than 6
+- Age younger than 6
 
-  * Higher American Society of Anesthesiologists Physical Status Classification
+- Higher American Society of Anesthesiologists Physical Status Classification
 
-  * History of congenital heart disease
+- History of congenital heart disease
 
-  * Prematurity
+- Prematurity
 
-  * Low birth weight
+- Low birth weight
 
-  * Obesity 
+- Obesity
 
-  * Obstructive sleep apnea [9][10]
+- Obstructive sleep apnea [9][10]
 
 A history of an upper respiratory tract infection within the preceding 2 weeks and an age younger than 6 are both risk factors for intraoperative airway complications in all children.[11]
 
@@ -109,9 +108,9 @@ For patients with well-controlled asthma, routine mechanical ventilation is gene
 
 **Anesthesia Agents**
 
-When anesthesia providers plan for endotracheal intubation, experts recommend a variety of pharmacological agents for premedication, a primary induction agent, and a neuromuscular-blocking agent. Adjunctive medications for premedications include an opioid-like fentanyl, lidocaine, or the α2-agonist dexmedetomidine. Guidelines suggest different induction agents, including propofol, ketamine, etomidate, isoflurane, and sevoflurane, for patients with asthma undergoing surgery based on their stability and bronchodilatory properties. Induction agents must induce sufficient anesthesia to prevent a physiological response to airway manipulation. Propofol is often the primary agent selected in hemodynamically stable patients. Neuromuscular-blocking agents are the most common cause of intraoperative allergic reactions. As they release the least amount of histamine, vecuronium, rocuronium, and cisatracurium are the neuromuscular-blocking agents of choice for patients with asthma. 
+When anesthesia providers plan for endotracheal intubation, experts recommend a variety of pharmacological agents for premedication, a primary induction agent, and a neuromuscular-blocking agent. Adjunctive medications for premedications include an opioid-like fentanyl, lidocaine, or the α2-agonist dexmedetomidine. Guidelines suggest different induction agents, including propofol, ketamine, etomidate, isoflurane, and sevoflurane, for patients with asthma undergoing surgery based on their stability and bronchodilatory properties. Induction agents must induce sufficient anesthesia to prevent a physiological response to airway manipulation. Propofol is often the primary agent selected in hemodynamically stable patients. Neuromuscular-blocking agents are the most common cause of intraoperative allergic reactions. As they release the least amount of histamine, vecuronium, rocuronium, and cisatracurium are the neuromuscular-blocking agents of choice for patients with asthma.
 
-The volatile anesthetics sevoflurane and isoflurane are viable options for inhaled anesthesia induction and have direct bronchodilatory properties.**** In contrast, desflurane can increase bronchial smooth muscle tone and airway resistance at higher concentrations; therefore, clinicians avoid this in patients with asthma.[15] Although propofol can blunt reflex bronchoconstriction of the airways, its bronchodilation is inferior to volatile anesthetics. However, compared to etomidate and thiopental, propofol has lower airway resistance.[16] Ketamine has direct bronchodilatory effects, blunts airway reflex bronchoconstriction, and is often the agent of choice in hemodynamically unstable patients. However, it also causes increased secretions, which can complicate airway management.[17] Sevoflurane and isoflurane are generally used to maintain anesthesia in patients with asthma. 
+The volatile anesthetics sevoflurane and isoflurane are viable options for inhaled anesthesia induction and have direct bronchodilatory properties.\*\*\*\* In contrast, desflurane can increase bronchial smooth muscle tone and airway resistance at higher concentrations; therefore, clinicians avoid this in patients with asthma.[15] Although propofol can blunt reflex bronchoconstriction of the airways, its bronchodilation is inferior to volatile anesthetics. However, compared to etomidate and thiopental, propofol has lower airway resistance.[16] Ketamine has direct bronchodilatory effects, blunts airway reflex bronchoconstriction, and is often the agent of choice in hemodynamically unstable patients. However, it also causes increased secretions, which can complicate airway management.[17] Sevoflurane and isoflurane are generally used to maintain anesthesia in patients with asthma.
 
 Given their heightened airway responsiveness, children with asthma require a more cautious approach. Anesthesia providers must minimize airway manipulation, use specific anesthetic agents that are less likely to trigger bronchospasm, and often premedicate with bronchodilators to prevent airway issues during induction and emergence. When possible, experts recommend IV induction instead of inhaled induction for children at risk for perioperative respiratory adverse events. Guidelines also recommend cuffed endotracheal tubes and less invasive airway devices such as mask ventilation or a supraglottic airway when possible.[18] Noninvasive airway management, such as supraglottic airway placement, is associated with a decreased risk of postoperative hypoxemia and coughing compared to endotracheal tube use in adults.[[14]](https://www.ncbi.nlm.nih.gov/books/NBK537327/#article-17923.r14) When comparing the supraglottic airway to an endotracheal tube for airway control in children, the incidence of perioperative respiratory adverse events was lower with the supraglottic airway. However, there was no statistically significant difference in bronchospasm or aspiration between the 2 groups. Propofol is a suitable induction agent that avoids volatile agents. Ketamine is suitable for the hemodynamically unstable pediatric patient. For children with poorly controlled asthma, delaying surgery for improved asthma management is ideal. If unable to postpone, experts recommend bronchodilators and steroids before and after surgery. IV magnesium and continuous ß2-agonist therapy may be necessary. Aminophylline is not a recommended treatment option, and antibiotics are not required for asthma exacerbations unless a known bacterial cause exists.[[19]](https://www.statpearls.com/keywords/adminreviewdiffs/?id=174406#ref_34890494)[[20]](https://www.statpearls.com/keywords/adminreviewdiffs/?id=174406#ref_28546381)[[21]](https://www.statpearls.com/keywords/adminreviewdiffs/?id=174406#ref_34514673)
 
@@ -123,33 +122,33 @@ Before patients emerge from general anesthesia, anesthesia providers reverse neu
 
 All that wheezes is not asthma. When caring for an anesthetized patient with asthma, bronchospasm is likely to be at the top of the list of differential diagnoses for an episode of wheezing. However, the following list presents other entities to consider:
 
-  * Anaphylaxis
+- Anaphylaxis
 
-  * Aspiration of stomach contents
+- Aspiration of stomach contents
 
-  * Aspiration of a foreign body such as a tooth or piece of medical equipment
+- Aspiration of a foreign body such as a tooth or piece of medical equipment
 
-  * Upper airway obstruction
+- Upper airway obstruction
 
-  * Mainstem intubation
+- Mainstem intubation
 
-  * An endotracheal tube on the carina
+- An endotracheal tube on the carina
 
-  * An endotracheal tube obstruction
+- An endotracheal tube obstruction
 
-  * An endotracheal tube cuff herniation
+- An endotracheal tube cuff herniation
 
-  * Pneumothorax
+- Pneumothorax
 
-  * Pulmonary edema
+- Pulmonary edema
 
-  * Pulmonary thromboembolism
+- Pulmonary thromboembolism
 
-  * Drug-induced wheezing due to histamine release or anticholinesterase
+- Drug-induced wheezing due to histamine release or anticholinesterase
 
-  * Carcinoid syndrome or crisis [19]
+- Carcinoid syndrome or crisis [19]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Asthma, marked by airway hyperresponsiveness and inflammation, can be triggered by allergens, respiratory infections, cold air, exercise, stress, and airway manipulation. Patients with asthma have an increased risk of pulmonary complications associated with anesthesia, and bronchospasm may arise at any stage of the anesthesia process, making meticulous planning essential to minimize perioperative respiratory complications. The management of bronchospasm is a critical skill set for healthcare providers in patient care throughout the healthcare environment, as it can develop rapidly in response to various stimuli.
 
@@ -173,115 +172,90 @@ Monitoring must be diligent and consistent between and among team members.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17923&utm_source=pubmed&utm_campaign=reviews&utm_content=17923)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17923&utm_source=pubmed&utm_campaign=reviews&utm_content=17923)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17923/?utm_source=pubmed&utm_campaign=comments&utm_content=17923)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17923/?utm_source=pubmed&utm_campaign=comments&utm_content=17923)
 
 ## References
 
 1.
-    
 
-Perez MF, Coutinho MT. An Overview of Health Disparities in Asthma. Yale J Biol Med. 2021 Sep;94(3):497-507. [[PMC free article: PMC8461584](/pmc/articles/PMC8461584/)] [[PubMed: 34602887](https://pubmed.ncbi.nlm.nih.gov/34602887)]
+Perez MF, Coutinho MT. An Overview of Health Disparities in Asthma. Yale J Biol Med. 2021 Sep;94(3):497-507. \[[PMC free article: PMC8461584](/pmc/articles/PMC8461584/)\] \[[PubMed: 34602887](https://pubmed.ncbi.nlm.nih.gov/34602887)\]
 
 2.
-    
 
-Leung C, Sin DD. Asthma-COPD Overlap: What Are the Important Questions? Chest. 2022 Feb;161(2):330-344. [[PubMed: 34626594](https://pubmed.ncbi.nlm.nih.gov/34626594)]
+Leung C, Sin DD. Asthma-COPD Overlap: What Are the Important Questions? Chest. 2022 Feb;161(2):330-344. \[[PubMed: 34626594](https://pubmed.ncbi.nlm.nih.gov/34626594)\]
 
 3.
-    
 
-Murphy KR, Solis J. National Asthma Education and Prevention Program 2020 Guidelines: What's Important for Primary Care. J Fam Pract. 2021 Jul;70(6S):S19-S28. [[PubMed: 34432620](https://pubmed.ncbi.nlm.nih.gov/34432620)]
+Murphy KR, Solis J. National Asthma Education and Prevention Program 2020 Guidelines: What's Important for Primary Care. J Fam Pract. 2021 Jul;70(6S):S19-S28. \[[PubMed: 34432620](https://pubmed.ncbi.nlm.nih.gov/34432620)\]
 
 4.
-    
 
-Bayable SD, Melesse DY, Lema GF, Ahmed SA. Perioperative management of patients with asthma during elective surgery: A systematic review. Ann Med Surg (Lond). 2021 Oct;70:102874. [[PMC free article: PMC8473668](/pmc/articles/PMC8473668/)] [[PubMed: 34603720](https://pubmed.ncbi.nlm.nih.gov/34603720)]
+Bayable SD, Melesse DY, Lema GF, Ahmed SA. Perioperative management of patients with asthma during elective surgery: A systematic review. Ann Med Surg (Lond). 2021 Oct;70:102874. \[[PMC free article: PMC8473668](/pmc/articles/PMC8473668/)\] \[[PubMed: 34603720](https://pubmed.ncbi.nlm.nih.gov/34603720)\]
 
 5.
-    
 
-Karaatmaca B, Sahiner UM, Sekerel BE, Soyer O. Perioperative hypersensitivity reactions during childhood and outcomes of subsequent anesthesia. Paediatr Anaesth. 2021 Apr;31(4):436-443. [[PubMed: 33423333](https://pubmed.ncbi.nlm.nih.gov/33423333)]
+Karaatmaca B, Sahiner UM, Sekerel BE, Soyer O. Perioperative hypersensitivity reactions during childhood and outcomes of subsequent anesthesia. Paediatr Anaesth. 2021 Apr;31(4):436-443. \[[PubMed: 33423333](https://pubmed.ncbi.nlm.nih.gov/33423333)\]
 
 6.
-    
 
-Fishe J, Zheng Y, Lyu T, Bian J, Hu H. Environmental effects on acute exacerbations of respiratory diseases: A real-world big data study. Sci Total Environ. 2022 Feb 01;806(Pt 1):150352. [[PMC free article: PMC8627495](/pmc/articles/PMC8627495/)] [[PubMed: 34555607](https://pubmed.ncbi.nlm.nih.gov/34555607)]
+Fishe J, Zheng Y, Lyu T, Bian J, Hu H. Environmental effects on acute exacerbations of respiratory diseases: A real-world big data study. Sci Total Environ. 2022 Feb 01;806(Pt 1):150352. \[[PMC free article: PMC8627495](/pmc/articles/PMC8627495/)\] \[[PubMed: 34555607](https://pubmed.ncbi.nlm.nih.gov/34555607)\]
 
 7.
-    
 
-Kistemaker LEM, Prakash YS. Airway Innervation and Plasticity in Asthma. Physiology (Bethesda). 2019 Jul 01;34(4):283-298. [[PMC free article: PMC6863372](/pmc/articles/PMC6863372/)] [[PubMed: 31165683](https://pubmed.ncbi.nlm.nih.gov/31165683)]
+Kistemaker LEM, Prakash YS. Airway Innervation and Plasticity in Asthma. Physiology (Bethesda). 2019 Jul 01;34(4):283-298. \[[PMC free article: PMC6863372](/pmc/articles/PMC6863372/)\] \[[PubMed: 31165683](https://pubmed.ncbi.nlm.nih.gov/31165683)\]
 
 8.
-    
 
-Green DB, Groner LK, Lee JJ, Shin J, Broncano J, Vargas D, Castro M, Shostak E. Overview of Interventional Pulmonology for Radiologists. Radiographics. 2021 Nov-Dec;41(7):1916-1935. [[PubMed: 34534017](https://pubmed.ncbi.nlm.nih.gov/34534017)]
+Green DB, Groner LK, Lee JJ, Shin J, Broncano J, Vargas D, Castro M, Shostak E. Overview of Interventional Pulmonology for Radiologists. Radiographics. 2021 Nov-Dec;41(7):1916-1935. \[[PubMed: 34534017](https://pubmed.ncbi.nlm.nih.gov/34534017)\]
 
 9.
-    
 
-Zheng M, Osterbauer B, Hochstim C. Risk factors for peri-operative respiratory adverse events after supraglottoplasty. Int J Pediatr Otorhinolaryngol. 2021 Oct;149:110853. [[PubMed: 34364176](https://pubmed.ncbi.nlm.nih.gov/34364176)]
+Zheng M, Osterbauer B, Hochstim C. Risk factors for peri-operative respiratory adverse events after supraglottoplasty. Int J Pediatr Otorhinolaryngol. 2021 Oct;149:110853. \[[PubMed: 34364176](https://pubmed.ncbi.nlm.nih.gov/34364176)\]
 
 10.
-    
 
-Butz SF. Pediatric Ambulatory Anesthesia Challenges. Anesthesiol Clin. 2019 Jun;37(2):289-300. [[PubMed: 31047130](https://pubmed.ncbi.nlm.nih.gov/31047130)]
+Butz SF. Pediatric Ambulatory Anesthesia Challenges. Anesthesiol Clin. 2019 Jun;37(2):289-300. \[[PubMed: 31047130](https://pubmed.ncbi.nlm.nih.gov/31047130)\]
 
 11.
-    
 
-Stepanovic B, Regli A, Becke-Jakob K, von Ungern-Sternberg BS. Preoperative preparation of children with upper respiratory tract infection: a focussed narrative review. Br J Anaesth. 2024 Dec;133(6):1212-1221. [[PubMed: 39358184](https://pubmed.ncbi.nlm.nih.gov/39358184)]
+Stepanovic B, Regli A, Becke-Jakob K, von Ungern-Sternberg BS. Preoperative preparation of children with upper respiratory tract infection: a focussed narrative review. Br J Anaesth. 2024 Dec;133(6):1212-1221. \[[PubMed: 39358184](https://pubmed.ncbi.nlm.nih.gov/39358184)\]
 
 12.
-    
 
-Kwofie K, Wolfson AB. Intravenous Magnesium Sulfate for Acute Asthma Exacerbation in Children and Adults. Am Fam Physician. 2021 Feb 15;103(4):245-246. [[PubMed: 33587577](https://pubmed.ncbi.nlm.nih.gov/33587577)]
+Kwofie K, Wolfson AB. Intravenous Magnesium Sulfate for Acute Asthma Exacerbation in Children and Adults. Am Fam Physician. 2021 Feb 15;103(4):245-246. \[[PubMed: 33587577](https://pubmed.ncbi.nlm.nih.gov/33587577)\]
 
 13.
-    
 
-Pinto Pereira LM, Orrett FA, Balbirsingh M. Physiological perspectives of therapy in bronchial hyperreactivity. Can J Anaesth. 1996 Jul;43(7):700-13. [[PubMed: 8807178](https://pubmed.ncbi.nlm.nih.gov/8807178)]
+Pinto Pereira LM, Orrett FA, Balbirsingh M. Physiological perspectives of therapy in bronchial hyperreactivity. Can J Anaesth. 1996 Jul;43(7):700-13. \[[PubMed: 8807178](https://pubmed.ncbi.nlm.nih.gov/8807178)\]
 
 14.
-    
 
-Michel F, Vacher T, Julien-Marsollier F, Dadure C, Aubineau JV, Lejus C, Sabourdin N, Woodey E, Orliaguet G, Brasher C, Dahmani S. Peri-operative respiratory adverse events in children with upper respiratory tract infections allowed to proceed with anaesthesia: A French national cohort study. Eur J Anaesthesiol. 2018 Dec;35(12):919-928. [[PubMed: 30124501](https://pubmed.ncbi.nlm.nih.gov/30124501)]
+Michel F, Vacher T, Julien-Marsollier F, Dadure C, Aubineau JV, Lejus C, Sabourdin N, Woodey E, Orliaguet G, Brasher C, Dahmani S. Peri-operative respiratory adverse events in children with upper respiratory tract infections allowed to proceed with anaesthesia: A French national cohort study. Eur J Anaesthesiol. 2018 Dec;35(12):919-928. \[[PubMed: 30124501](https://pubmed.ncbi.nlm.nih.gov/30124501)\]
 
 15.
-    
 
-von Ungern-Sternberg BS, Saudan S, Petak F, Hantos Z, Habre W. Desflurane but not sevoflurane impairs airway and respiratory tissue mechanics in children with susceptible airways. Anesthesiology. 2008 Feb;108(2):216-24. [[PubMed: 18212566](https://pubmed.ncbi.nlm.nih.gov/18212566)]
+von Ungern-Sternberg BS, Saudan S, Petak F, Hantos Z, Habre W. Desflurane but not sevoflurane impairs airway and respiratory tissue mechanics in children with susceptible airways. Anesthesiology. 2008 Feb;108(2):216-24. \[[PubMed: 18212566](https://pubmed.ncbi.nlm.nih.gov/18212566)\]
 
 16.
-    
 
-Dattatri R, Garg R, Madan K, Hadda V, Mohan A. Anesthetic considerations for bronchial thermoplasty in patients of severe asthma: A case series. Lung India. 2020 Nov-Dec;37(6):536-539. [[PMC free article: PMC7879862](/pmc/articles/PMC7879862/)] [[PubMed: 33154218](https://pubmed.ncbi.nlm.nih.gov/33154218)]
+Dattatri R, Garg R, Madan K, Hadda V, Mohan A. Anesthetic considerations for bronchial thermoplasty in patients of severe asthma: A case series. Lung India. 2020 Nov-Dec;37(6):536-539. \[[PMC free article: PMC7879862](/pmc/articles/PMC7879862/)\] \[[PubMed: 33154218](https://pubmed.ncbi.nlm.nih.gov/33154218)\]
 
 17.
-    
 
-La Via L, Sanfilippo F, Cuttone G, Dezio V, Falcone M, Brancati S, Crimi C, Astuto M. Use of ketamine in patients with refractory severe asthma exacerbations: systematic review of prospective studies. Eur J Clin Pharmacol. 2022 Oct;78(10):1613-1622. [[PMC free article: PMC9482594](/pmc/articles/PMC9482594/)] [[PubMed: 36008492](https://pubmed.ncbi.nlm.nih.gov/36008492)]
+La Via L, Sanfilippo F, Cuttone G, Dezio V, Falcone M, Brancati S, Crimi C, Astuto M. Use of ketamine in patients with refractory severe asthma exacerbations: systematic review of prospective studies. Eur J Clin Pharmacol. 2022 Oct;78(10):1613-1622. \[[PMC free article: PMC9482594](/pmc/articles/PMC9482594/)\] \[[PubMed: 36008492](https://pubmed.ncbi.nlm.nih.gov/36008492)\]
 
 18.
-    
 
-Chambers NA, Ramgolam A, Sommerfield D, Zhang G, Ledowski T, Thurm M, Lethbridge M, Hegarty M, von Ungern-Sternberg BS. Cuffed vs. uncuffed tracheal tubes in children: a randomised controlled trial comparing leak, tidal volume and complications. Anaesthesia. 2018 Feb;73(2):160-168. [[PubMed: 29168575](https://pubmed.ncbi.nlm.nih.gov/29168575)]
+Chambers NA, Ramgolam A, Sommerfield D, Zhang G, Ledowski T, Thurm M, Lethbridge M, Hegarty M, von Ungern-Sternberg BS. Cuffed vs. uncuffed tracheal tubes in children: a randomised controlled trial comparing leak, tidal volume and complications. Anaesthesia. 2018 Feb;73(2):160-168. \[[PubMed: 29168575](https://pubmed.ncbi.nlm.nih.gov/29168575)\]
 
 19.
-    
 
-Seth D, Kamat D. All That Wheezes Is Not Asthma. Pediatr Ann. 2024 May;53(5):e189-e194. [[PubMed: 38700922](https://pubmed.ncbi.nlm.nih.gov/38700922)]
-
-    
+Seth D, Kamat D. All That Wheezes Is Not Asthma. Pediatr Ann. 2024 May;53(5):e189-e194. \[[PubMed: 38700922](https://pubmed.ncbi.nlm.nih.gov/38700922)\]
 
 **Disclosure:** Joseph Kamassai declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Titilopemi Aina declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Joseph Maxwell Hendrix declares no relevant financial relationships with ineligible companies.

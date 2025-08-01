@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23500/
-scraped_date: 2025-07-22 12:34:25 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23500/ scraped_date: 2025-07-22 12:34:25 UTC
 
 # Inferior Myocardial Infarction
 
@@ -27,13 +26,13 @@ Without timely treatment, coronary artery occlusion results in decreased perfusi
 
 **Objectives:**
 
-  * Identify how patients can lessen their risk of myocardial infarction by optimizing their modifiable risk factors.
+- Identify how patients can lessen their risk of myocardial infarction by optimizing their modifiable risk factors.
 
-  * Assess features suggestive of inferior wall myocardial infarction.
+- Assess features suggestive of inferior wall myocardial infarction.
 
-  * Evaluate the proper management of an inferior wall myocardial infarction.
+- Evaluate the proper management of an inferior wall myocardial infarction.
 
-  * Communicate how the coordination of the interprofessional team can lead to more rapid detection of myocardial infarction and subsequently decrease associated morbidity and mortality in affected patients.
+- Communicate how the coordination of the interprofessional team can lead to more rapid detection of myocardial infarction and subsequently decrease associated morbidity and mortality in affected patients.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23500&utm_source=pubmed&utm_campaign=reviews&utm_content=23500)
 
@@ -77,41 +76,41 @@ While inferior wall myocardial infarctions traditionally have a good prognosis, 
 
 The complications that can manifest with inferior myocardial infarctions are as follows:
 
-  * Cardiogenic shock
+- Cardiogenic shock
 
-  * Atrioventricular block
+- Atrioventricular block
 
-  * Need for pacing
+- Need for pacing
 
-  * Ventricular fibrillation
+- Ventricular fibrillation
 
 ## Postoperative and Rehabilitation Care
 
 Postoperative considerations and rehabilitation with inferior myocardial infarctions include:
 
-  * Cardiac rehabilitation
+- Cardiac rehabilitation
 
-  * Lowering blood pressure
+- Lowering blood pressure
 
-  * Decreasing cholesterol and blood glucose
+- Decreasing cholesterol and blood glucose
 
-  * Maintaining a healthy body weight
+- Maintaining a healthy body weight
 
 ## Deterrence and Patient Education
 
 Important points of patient education for preventing or managing inferior myocardial infarctions include:
 
-  * Discontinuing smoking
+- Discontinuing smoking
 
-  * Eating healthy
+- Eating healthy
 
-  * Regular exercise
+- Regular exercise
 
 ## Pearls and Other Issues
 
 Heart blocks are present in approximately 9% of patients upon presentation, and two-thirds of patients who develop a high-degree heart block during the acute course of their inferior wall myocardial infarction do so during the first 24 hours. While heart blocks are a main contributor to morbidity and mortality, most high-degree heart blocks are treatable with atropine. It is seldom necessary to use a temporary pacemaker. The damaged myocardium can lead to potentially lethal arrhythmias such as ventricular tachycardia and ventricular fibrillation (see **Image.** Ischemic Ventricular Tachycardia in a Patient With an Old Inferior Myocardial Infarction). It is necessary to monitor these patients in a monitored setting, usually an intensive care unit, during the acute part of the event. When potentially lethal arrhythmias occur, early defibrillation is essential.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Managing an inferior wall myocardial infarction requires an interprofessional team of nurses, physicians, cardiac surgeons, and cardiologists. These patients are prone to life-threatening complications, and hence, prevention is the best approach. At discharge, the nurse should educate the patients about the potential need for pacing in the future. The dietitian should recommend a low-salt, low-fat diet. The patient should be enrolled in a cardiac rehab program. The pharmacist should encourage smoking cessation, medication compliance, and the reduction of blood cholesterol and glucose.[11][12][13]
 
@@ -121,110 +120,90 @@ When the RV is involved in an inferior wall myocardial infarction, it is an inde
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23500&utm_source=pubmed&utm_campaign=reviews&utm_content=23500)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23500&utm_source=pubmed&utm_campaign=reviews&utm_content=23500)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/inferior-myocardial-infarction-heart-attack/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=23500)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/inferior-myocardial-infarction-heart-attack/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=23500)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/23500/?utm_source=pubmed&utm_campaign=comments&utm_content=23500)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/23500/?utm_source=pubmed&utm_campaign=comments&utm_content=23500)
 
 [![ECG With Pardee Waves Indicating AMI](/books/NBK470572/bin/12_lead_generated_inferior_MI.gif)](/books/NBK470572/figure/article-23500.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470572/figure/article-23500.image.f1/?report=objectonly)
 
-ECG With Pardee Waves Indicating AMI. Pardee waves indicate acute myocardial infarction in the inferior leads II, III, and aVF with reciprocal changes in the anterolateral leads. Glenlarson, Public Domain, via Wikimedia Commons 
+ECG With Pardee Waves Indicating AMI. Pardee waves indicate acute myocardial infarction in the inferior leads II, III, and aVF with reciprocal changes in the anterolateral leads. Glenlarson, Public Domain, via Wikimedia Commons
 
 [![Ischemic Ventricular Tachycardia in a Patient With an Old Inferior Myocardial Infarction](/books/NBK470572/bin/tv__post__inf__MI.gif)](/books/NBK470572/figure/article-23500.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470572/figure/article-23500.image.f2/?report=objectonly)
 
-Ischemic Ventricular Tachycardia in a Patient With an Old Inferior Myocardial Infarction. Contributed by A Negru, MD 
+Ischemic Ventricular Tachycardia in a Patient With an Old Inferior Myocardial Infarction. Contributed by A Negru, MD
 
 ## References
 
 1.
-    
 
-Aydin F, Turgay Yildirim O, Dagtekin E, Huseyinoglu Aydin A, Aksit E. Acute Inferior Myocardial Infarction Caused by Lightning Strike. Prehosp Disaster Med. 2018 Dec;33(6):658-659. [[PubMed: 30156178](https://pubmed.ncbi.nlm.nih.gov/30156178)]
+Aydin F, Turgay Yildirim O, Dagtekin E, Huseyinoglu Aydin A, Aksit E. Acute Inferior Myocardial Infarction Caused by Lightning Strike. Prehosp Disaster Med. 2018 Dec;33(6):658-659. \[[PubMed: 30156178](https://pubmed.ncbi.nlm.nih.gov/30156178)\]
 
 2.
-    
 
-Lévy S. Bundle branch blocks and/or hemiblocks complicating acute myocardial ischemia or infarction. J Interv Card Electrophysiol. 2018 Aug;52(3):287-292. [[PubMed: 30136134](https://pubmed.ncbi.nlm.nih.gov/30136134)]
+Lévy S. Bundle branch blocks and/or hemiblocks complicating acute myocardial ischemia or infarction. J Interv Card Electrophysiol. 2018 Aug;52(3):287-292. \[[PubMed: 30136134](https://pubmed.ncbi.nlm.nih.gov/30136134)\]
 
 3.
-    
 
-Balasubramanian K, Ramachandran B, Subramanian A, Balamurugesan K. Combined ST Elevation in a Case of Acute Myocardial Infarction: How to Identify the Infarct-related Artery? Int J Appl Basic Med Res. 2018 Jul-Sep;8(3):184-186. [[PMC free article: PMC6081999](/pmc/articles/PMC6081999/)] [[PubMed: 30123751](https://pubmed.ncbi.nlm.nih.gov/30123751)]
+Balasubramanian K, Ramachandran B, Subramanian A, Balamurugesan K. Combined ST Elevation in a Case of Acute Myocardial Infarction: How to Identify the Infarct-related Artery? Int J Appl Basic Med Res. 2018 Jul-Sep;8(3):184-186. \[[PMC free article: PMC6081999](/pmc/articles/PMC6081999/)\] \[[PubMed: 30123751](https://pubmed.ncbi.nlm.nih.gov/30123751)\]
 
 4.
-    
 
-Bouhuijzen LJ, Stoel MG. Inferior acute myocardial infarction with anterior ST-segment elevations. Neth Heart J. 2018 Oct;26(10):515-516. [[PMC free article: PMC6150878](/pmc/articles/PMC6150878/)] [[PubMed: 30105594](https://pubmed.ncbi.nlm.nih.gov/30105594)]
+Bouhuijzen LJ, Stoel MG. Inferior acute myocardial infarction with anterior ST-segment elevations. Neth Heart J. 2018 Oct;26(10):515-516. \[[PMC free article: PMC6150878](/pmc/articles/PMC6150878/)\] \[[PubMed: 30105594](https://pubmed.ncbi.nlm.nih.gov/30105594)\]
 
 5.
-    
 
-Aguiar Rosa S, Timóteo AT, Ferreira L, Carvalho R, Oliveira M, Cunha P, Viveiros Monteiro A, Portugal G, Almeida Morais L, Daniel P, Cruz Ferreira R. Complete atrioventricular block in acute coronary syndrome: prevalence, characterisation and implication on outcome. Eur Heart J Acute Cardiovasc Care. 2018 Apr;7(3):218-223. [[PubMed: 28617040](https://pubmed.ncbi.nlm.nih.gov/28617040)]
+Aguiar Rosa S, Timóteo AT, Ferreira L, Carvalho R, Oliveira M, Cunha P, Viveiros Monteiro A, Portugal G, Almeida Morais L, Daniel P, Cruz Ferreira R. Complete atrioventricular block in acute coronary syndrome: prevalence, characterisation and implication on outcome. Eur Heart J Acute Cardiovasc Care. 2018 Apr;7(3):218-223. \[[PubMed: 28617040](https://pubmed.ncbi.nlm.nih.gov/28617040)\]
 
 6.
-    
 
-Roshdy HS, El-Dosouky II, Soliman MH. High-risk inferior myocardial infarction: Can speckle tracking predict proximal right coronary lesions? Clin Cardiol. 2018 Jan;41(1):104-110. [[PMC free article: PMC6489836](/pmc/articles/PMC6489836/)] [[PubMed: 29377172](https://pubmed.ncbi.nlm.nih.gov/29377172)]
+Roshdy HS, El-Dosouky II, Soliman MH. High-risk inferior myocardial infarction: Can speckle tracking predict proximal right coronary lesions? Clin Cardiol. 2018 Jan;41(1):104-110. \[[PMC free article: PMC6489836](/pmc/articles/PMC6489836/)\] \[[PubMed: 29377172](https://pubmed.ncbi.nlm.nih.gov/29377172)\]
 
 7.
-    
 
-Albulushi A, Giannopoulos A, Kafkas N, Dragasis S, Pavlides G, Chatzizisis YS. Acute right ventricular myocardial infarction. Expert Rev Cardiovasc Ther. 2018 Jul;16(7):455-464. [[PubMed: 29902098](https://pubmed.ncbi.nlm.nih.gov/29902098)]
+Albulushi A, Giannopoulos A, Kafkas N, Dragasis S, Pavlides G, Chatzizisis YS. Acute right ventricular myocardial infarction. Expert Rev Cardiovasc Ther. 2018 Jul;16(7):455-464. \[[PubMed: 29902098](https://pubmed.ncbi.nlm.nih.gov/29902098)\]
 
 8.
-    
 
-Albaghdadi A, Teleb M, Porres-Aguilar M, Porres-Munoz M, Marmol-Velez A. The dilemma of refractory hypoxemia after inferior wall myocardial infarction. Proc (Bayl Univ Med Cent). 2018 Jan;31(1):67-69. [[PMC free article: PMC5903505](/pmc/articles/PMC5903505/)] [[PubMed: 29686558](https://pubmed.ncbi.nlm.nih.gov/29686558)]
+Albaghdadi A, Teleb M, Porres-Aguilar M, Porres-Munoz M, Marmol-Velez A. The dilemma of refractory hypoxemia after inferior wall myocardial infarction. Proc (Bayl Univ Med Cent). 2018 Jan;31(1):67-69. \[[PMC free article: PMC5903505](/pmc/articles/PMC5903505/)\] \[[PubMed: 29686558](https://pubmed.ncbi.nlm.nih.gov/29686558)\]
 
 9.
-    
 
-Sibbing D, Aradi D, Jacobshagen C, Gross L, Trenk D, Geisler T, Orban M, Hadamitzky M, Merkely B, Kiss RG, Komócsi A, Dézsi CA, Holdt L, Felix SB, Parma R, Klopotowski M, Schwinger RHG, Rieber J, Huber K, Neumann FJ, Koltowski L, Mehilli J, Huczek Z, Massberg S., TROPICAL-ACS Investigators. Guided de-escalation of antiplatelet treatment in patients with acute coronary syndrome undergoing percutaneous coronary intervention (TROPICAL-ACS): a randomised, open-label, multicentre trial. Lancet. 2017 Oct 14;390(10104):1747-1757. [[PubMed: 28855078](https://pubmed.ncbi.nlm.nih.gov/28855078)]
+Sibbing D, Aradi D, Jacobshagen C, Gross L, Trenk D, Geisler T, Orban M, Hadamitzky M, Merkely B, Kiss RG, Komócsi A, Dézsi CA, Holdt L, Felix SB, Parma R, Klopotowski M, Schwinger RHG, Rieber J, Huber K, Neumann FJ, Koltowski L, Mehilli J, Huczek Z, Massberg S., TROPICAL-ACS Investigators. Guided de-escalation of antiplatelet treatment in patients with acute coronary syndrome undergoing percutaneous coronary intervention (TROPICAL-ACS): a randomised, open-label, multicentre trial. Lancet. 2017 Oct 14;390(10104):1747-1757. \[[PubMed: 28855078](https://pubmed.ncbi.nlm.nih.gov/28855078)\]
 
 10.
-    
 
-Bahramali E, Askari A, Zakeri H, Farjam M, Dehghan A, Zendehdel K. Fasa Registry on Acute Myocardial Infarction (FaRMI): Feasibility Study and Pilot Phase Results. PLoS One. 2016;11(12):e0167579. [[PMC free article: PMC5132161](/pmc/articles/PMC5132161/)] [[PubMed: 27907128](https://pubmed.ncbi.nlm.nih.gov/27907128)]
+Bahramali E, Askari A, Zakeri H, Farjam M, Dehghan A, Zendehdel K. Fasa Registry on Acute Myocardial Infarction (FaRMI): Feasibility Study and Pilot Phase Results. PLoS One. 2016;11(12):e0167579. \[[PMC free article: PMC5132161](/pmc/articles/PMC5132161/)\] \[[PubMed: 27907128](https://pubmed.ncbi.nlm.nih.gov/27907128)\]
 
 11.
-    
 
-Udroiu CA, Cotoban A, Ursulescu A, Siliste C, Vinereanu D. Interdisciplinary Approach in a Complex Case of STEMI. Maedica (Bucur). 2014 Dec;9(4):382-6. [[PMC free article: PMC4316884](/pmc/articles/PMC4316884/)] [[PubMed: 25705309](https://pubmed.ncbi.nlm.nih.gov/25705309)]
+Udroiu CA, Cotoban A, Ursulescu A, Siliste C, Vinereanu D. Interdisciplinary Approach in a Complex Case of STEMI. Maedica (Bucur). 2014 Dec;9(4):382-6. \[[PMC free article: PMC4316884](/pmc/articles/PMC4316884/)\] \[[PubMed: 25705309](https://pubmed.ncbi.nlm.nih.gov/25705309)\]
 
 12.
-    
 
-Martin D, Bekiaris B, Hansen G. Mobile emergency simulation training for rural health providers. Rural Remote Health. 2017 Jul-Sep;17(3):4057. [[PubMed: 29040811](https://pubmed.ncbi.nlm.nih.gov/29040811)]
+Martin D, Bekiaris B, Hansen G. Mobile emergency simulation training for rural health providers. Rural Remote Health. 2017 Jul-Sep;17(3):4057. \[[PubMed: 29040811](https://pubmed.ncbi.nlm.nih.gov/29040811)\]
 
 13.
-    
 
-Kiani F, Hesabi N, Arbabisarjou A. Assessment of Risk Factors in Patients With Myocardial Infarction. Glob J Health Sci. 2015 May 28;8(1):255-62. [[PMC free article: PMC4804079](/pmc/articles/PMC4804079/)] [[PubMed: 26234995](https://pubmed.ncbi.nlm.nih.gov/26234995)]
+Kiani F, Hesabi N, Arbabisarjou A. Assessment of Risk Factors in Patients With Myocardial Infarction. Glob J Health Sci. 2015 May 28;8(1):255-62. \[[PMC free article: PMC4804079](/pmc/articles/PMC4804079/)\] \[[PubMed: 26234995](https://pubmed.ncbi.nlm.nih.gov/26234995)\]
 
 14.
-    
 
-Li H, Guo W, Dai W, Li L. Short-versus long-term dual antiplatelet therapy after second-generation drug-eluting stent implantation: a systematic review and meta-analysis of randomized controlled trials. Drug Des Devel Ther. 2018;12:1815-1825. [[PMC free article: PMC6021005](/pmc/articles/PMC6021005/)] [[PubMed: 29970956](https://pubmed.ncbi.nlm.nih.gov/29970956)]
+Li H, Guo W, Dai W, Li L. Short-versus long-term dual antiplatelet therapy after second-generation drug-eluting stent implantation: a systematic review and meta-analysis of randomized controlled trials. Drug Des Devel Ther. 2018;12:1815-1825. \[[PMC free article: PMC6021005](/pmc/articles/PMC6021005/)\] \[[PubMed: 29970956](https://pubmed.ncbi.nlm.nih.gov/29970956)\]
 
 15.
-    
 
-Ginanjar E, Yulianto Y. ST Elevation in Lead aVR and Its Association with Clinical Outcomes. Acta Med Indones. 2017 Oct;49(4):347-350. [[PubMed: 29348386](https://pubmed.ncbi.nlm.nih.gov/29348386)]
+Ginanjar E, Yulianto Y. ST Elevation in Lead aVR and Its Association with Clinical Outcomes. Acta Med Indones. 2017 Oct;49(4):347-350. \[[PubMed: 29348386](https://pubmed.ncbi.nlm.nih.gov/29348386)\]
 
 16.
-    
 
-Altıntaş B, Yaylak B, Ede H, Altındağ R, Baysal E, Bilge Ö, Çiftçi H, Adıyaman MŞ, Karahan MZ, Kaya I, Çevik K. Impact of right ventricular diastolic dysfunction on clinical outcomes in inferior STEMI. Herz. 2019 Apr;44(2):155-160. [[PubMed: 28993840](https://pubmed.ncbi.nlm.nih.gov/28993840)]
-
-    
+Altıntaş B, Yaylak B, Ede H, Altındağ R, Baysal E, Bilge Ö, Çiftçi H, Adıyaman MŞ, Karahan MZ, Kaya I, Çevik K. Impact of right ventricular diastolic dysfunction on clinical outcomes in inferior STEMI. Herz. 2019 Apr;44(2):155-160. \[[PubMed: 28993840](https://pubmed.ncbi.nlm.nih.gov/28993840)\]
 
 **Disclosure:** Matthew Warner declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Vijai Tivakaran declares no relevant financial relationships with ineligible companies.

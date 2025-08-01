@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24964/
-scraped_date: 2025-07-22 12:43:48 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24964/ scraped_date: 2025-07-22 12:43:48 UTC
 
 # Aseptic Meningitis
 
@@ -29,13 +28,13 @@ This activity explores the diverse etiologies of aseptic meningitis, the broad s
 
 **Objectives:**
 
-  * Differentiate between various etiologies of aseptic meningitis while understanding the unique features associated with viral, bacterial, and noninfectious causes and considering factors like immune status and patient history.
+- Differentiate between various etiologies of aseptic meningitis while understanding the unique features associated with viral, bacterial, and noninfectious causes and considering factors like immune status and patient history.
 
-  * Implement effective screening methods, utilizing appropriate diagnostic tests and criteria to identify aseptic meningitis in patients presenting with compatible symptoms promptly.
+- Implement effective screening methods, utilizing appropriate diagnostic tests and criteria to identify aseptic meningitis in patients presenting with compatible symptoms promptly.
 
-  * Implement evidence-based interventions tailored to the specific etiology of aseptic meningitis, including antiviral therapies, supportive care, and, when applicable, collaborating with specialists for targeted treatments.
+- Implement evidence-based interventions tailored to the specific etiology of aseptic meningitis, including antiviral therapies, supportive care, and, when applicable, collaborating with specialists for targeted treatments.
 
-  * Collaborate with interdisciplinary team members, including infectious disease specialists, neurologists, nurses, and pharmacists, to improve care coordination.
+- Collaborate with interdisciplinary team members, including infectious disease specialists, neurologists, nurses, and pharmacists, to improve care coordination.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24964&utm_source=pubmed&utm_campaign=reviews&utm_content=24964)
 
@@ -43,7 +42,7 @@ This activity explores the diverse etiologies of aseptic meningitis, the broad s
 
 Aseptic meningitis is a term used to describe inflammation of the meninges, the membranes covering the brain and spinal cord, caused by various factors and characterized by negative cerebrospinal fluid (CSF) bacterial cultures. This condition is typically diagnosed based on CSF pleocytosis, indicated by an elevated white blood cell (WBC) count of more than 5 cells/mm³.[1] Aseptic meningitis is a prevalent and generally benign inflammatory disorder affecting the meninges.[2]
 
-Viruses, such as herpes simplex __ virus type 2 (HSV-2), enteroviruses, and arboviruses are the most common causes of aseptic meningitis.[1][2][3] However, aseptic meningitis can also be triggered by diverse factors, including infections caused by mycobacteria, fungi, spirochetes, parameningeal infections, medications, and malignancies. Notably, aseptic and viral meningitis are not interchangeable, highlighting the wide array of potential causes. The clinical manifestations of aseptic meningitis can vary significantly based on the affected individual's underlying cause and immune status. Patients with deficient humoral immunity, including neonates and individuals with agammaglobulinemia, are particularly at risk for negative outcomes in cases of aseptic meningitis.[1][2][4]
+Viruses, such as herpes simplex \_\_ virus type 2 (HSV-2), enteroviruses, and arboviruses are the most common causes of aseptic meningitis.[1][2][3] However, aseptic meningitis can also be triggered by diverse factors, including infections caused by mycobacteria, fungi, spirochetes, parameningeal infections, medications, and malignancies. Notably, aseptic and viral meningitis are not interchangeable, highlighting the wide array of potential causes. The clinical manifestations of aseptic meningitis can vary significantly based on the affected individual's underlying cause and immune status. Patients with deficient humoral immunity, including neonates and individuals with agammaglobulinemia, are particularly at risk for negative outcomes in cases of aseptic meningitis.[1][2][4]
 
 ## Etiology
 
@@ -51,15 +50,15 @@ The causes of aseptic meningitis can be broadly classified into infectious and n
 
 Infectious causes of aseptic meningitis include viruses, bacteria, fungi, and parasites, with viruses being the predominant agents.[2] Among viral causes, enteroviruses (such as coxsackie and enteric cytopathic human orphan [ECHO] viruses) account for over half of the cases, followed by HSV-2, West Nile virus, and varicella-zoster virus (VZV).[2][5] Other viruses associated with aseptic meningitis include respiratory viruses (adenovirus, influenza virus, rhinovirus), mumps virus, arbovirus, HIV, and lymphocytic choriomeningitis virus.[2][5][6]
 
-Bacterial, fungal, and parasitic infections leading to aseptic meningitis are less common than viral infections. Bacterial causes may arise from partially treated meningitis, parameningeal infections (such as epidural abscess and mastoiditis), _Mycoplasma pneumoniae_ , endocarditis,  _Mycobacterium tuberculosis_ ,  _Treponema pallidum,_ and leptospirosis. Fungal infections can be attributed to  _Candida_ ,  _Cryptococcus neoformans_ ,  _Histoplasma capsulatum_ ,  _Coccidioides immitis_ , and  _Blastomyces dermatitides_. Parasitic causes of aseptic meningitis include  _Toxoplasma gondii_ , naegleria, neurocysticercosis, trichinosis, and  _Hartmannella_.[7][8]
+Bacterial, fungal, and parasitic infections leading to aseptic meningitis are less common than viral infections. Bacterial causes may arise from partially treated meningitis, parameningeal infections (such as epidural abscess and mastoiditis), _Mycoplasma pneumoniae_ , endocarditis, _Mycobacterium tuberculosis_ , _Treponema pallidum,_ and leptospirosis. Fungal infections can be attributed to _Candida_ , _Cryptococcus neoformans_ , _Histoplasma capsulatum_ , _Coccidioides immitis_ , and _Blastomyces dermatitides_. Parasitic causes of aseptic meningitis include _Toxoplasma gondii_ , naegleria, neurocysticercosis, trichinosis, and _Hartmannella_.[7][8]
 
 Regarding the noninfectious causes of aseptic meningitis, these etiologies can be categorized into 3 main groups:[1]
 
-  * Systemic diseases involving meningeal inflammation, such as sarcoidosis, Behçet disease, Sjögren syndrome, systemic lupus erythematosus, and granulomatosis with polyangiitis
+- Systemic diseases involving meningeal inflammation, such as sarcoidosis, Behçet disease, Sjögren syndrome, systemic lupus erythematosus, and granulomatosis with polyangiitis
 
-  * Drug-induced aseptic meningitis is most commonly associated with nonsteroidal anti-inflammatory drugs (NSAIDs), antibiotics (sulfamides, penicillins), intravenous immunoglobulin (IVIG), and monoclonal antibodies
+- Drug-induced aseptic meningitis is most commonly associated with nonsteroidal anti-inflammatory drugs (NSAIDs), antibiotics (sulfamides, penicillins), intravenous immunoglobulin (IVIG), and monoclonal antibodies
 
-  * Neoplastic meningitis is linked to either metastasis from solid cancers or lymphoma/leukemia.
+- Neoplastic meningitis is linked to either metastasis from solid cancers or lymphoma/leukemia.
 
 Aseptic meningitis triggered by specific vaccines has been documented, notably following immunizations such as measles, mumps, rubella (MMR) and varicella, yellow fever, rabies, pertussis, and influenza vaccines.[9][10][11] Recent reports have suggested its occurrence even after the meningococcal vaccination.[12]
 
@@ -77,7 +76,7 @@ No aspect of the clinical history possesses sufficient sensitivity or specificit
 
 When assessing patients clinically, it is crucial to recognize the differences in how children and adults may manifest symptoms. Adults often report symptoms such as headaches, nausea, vomiting, malaise, weakness, stiff neck, and photophobia.[2][7] Unlike bacterial meningitis, the onset may be less acute, and altered mental status is not a common presentation.
 
-In contrast, children exhibit less specific symptoms, including fever, concurrent respiratory issues, rash, and irritability.[2][7] Neonates and infants less than 3 months of age may display a bulging anterior fontanelle and irritability as notable signs.[2] Specific factors like premature birth, maternal illness, elevated serum WBC count, low hemoglobin levels (<10.7 mg/dL), and the onset of symptoms within the first week of life necessitate a prompt and thorough evaluation and management approach in neonates.[2][14]
+In contrast, children exhibit less specific symptoms, including fever, concurrent respiratory issues, rash, and irritability.[2][7] Neonates and infants less than 3 months of age may display a bulging anterior fontanelle and irritability as notable signs.[2] Specific factors like premature birth, maternal illness, elevated serum WBC count, low hemoglobin levels (\<10.7 mg/dL), and the onset of symptoms within the first week of life necessitate a prompt and thorough evaluation and management approach in neonates.[2][14]
 
 Nuchal rigidity (with a sensitivity of 70%) and fever (sensitivity of 85%) are prevalent physical signs observed in children and adults. Kernig and Brudzinski's signs, while highly specific at 95%, have limited utility due to their low sensitivity of 5%. Depending on the underlying cause, additional associated findings may be present.[2][4]
 
@@ -87,9 +86,9 @@ In recent years, although the cause of aseptic meningitis remains unidentified i
 
 The initial assessment should involve laboratory testing to explore other potential causes of the symptoms (see **Image.** Laboratory Evaluation for Aseptic Meningitis). This evaluation usually includes a complete blood count (CBC) with platelet count, an erythrocyte sedimentation rate (ESR), and testing for immunoglobulin M (IgM) and immunoglobulin G (IgG) for enterovirus, adenovirus, Epstein-Barr virus (EBV), and HSV.[2]
 
-A lumbar puncture (LP) is essential for collecting CSF to establish a definitive diagnosis.[2][4][7] During CSF analysis, it is crucial to assess cell count, measure glucose and protein levels, perform a gram stain, conduct cultures, and employ bacterial PCR (typically targeting  _Neisseria meningitides_ ,  _Streptococcus pneumoniae_ , and  _Haemophilus influenzae_. Specific viral PCR studies should also be selected based on the patient's clinical presentation. Other tests to consider include syphilis serology, tuberculosis (TB) testing, and serum HIV testing. Viral CSF PCR can detect enterovirus, herpes simplex virus type 1 (HSV-1), HSV-2, varicella-zoster virus (VZV), cytomegalovirus (CMV), EBV, and arbovirus.[2][4][7]
+A lumbar puncture (LP) is essential for collecting CSF to establish a definitive diagnosis.[2][4][7] During CSF analysis, it is crucial to assess cell count, measure glucose and protein levels, perform a gram stain, conduct cultures, and employ bacterial PCR (typically targeting _Neisseria meningitides_ , _Streptococcus pneumoniae_ , and _Haemophilus influenzae_. Specific viral PCR studies should also be selected based on the patient's clinical presentation. Other tests to consider include syphilis serology, tuberculosis (TB) testing, and serum HIV testing. Viral CSF PCR can detect enterovirus, herpes simplex virus type 1 (HSV-1), HSV-2, varicella-zoster virus (VZV), cytomegalovirus (CMV), EBV, and arbovirus.[2][4][7]
 
-Typical CSF findings in patients with aseptic meningitis include an opening pressure that is either normal (<180 mmH2O) or slightly elevated. Glucose levels are usually normal to mildly decreased, while protein levels are normal to mildly elevated (<200 mg/dL). The cell count ranges from 10 to 1000 cells per microliter, with an initial predominance of neutrophils (>50%) that gradually shifts toward lymphocytes (>80%) over time.[2][4][7] For patients in the US presenting between June and September, it is advisable to test for West Nile virus IgM in the CSF or serum.[15]
+Typical CSF findings in patients with aseptic meningitis include an opening pressure that is either normal (\<180 mmH2O) or slightly elevated. Glucose levels are usually normal to mildly decreased, while protein levels are normal to mildly elevated (\<200 mg/dL). The cell count ranges from 10 to 1000 cells per microliter, with an initial predominance of neutrophils (>50%) that gradually shifts toward lymphocytes (>80%) over time.[2][4][7] For patients in the US presenting between June and September, it is advisable to test for West Nile virus IgM in the CSF or serum.[15]
 
 Significant differences exist between adults and children in the presentation and laboratory findings.[7] These differences often require specialized approaches in diagnosis and treatment tailored to each age group, emphasizing the importance of age-specific considerations in managing patients with aseptic meningitis.
 
@@ -111,7 +110,7 @@ Early recognition of the likely cause of meningitis is vital for initiating trea
 
 Ideally, obtaining CSF fluid should precede antibiotic administration. However, initiating antibiotic therapy promptly is essential if this would cause a delay in treatment or if the patient is critically ill. Additionally, it is crucial to place the patient on droplet isolation precautions until the cause of the infection is identified. If HSV or (VZV) is suspected, intravenous acyclovir should be included in the empiric treatment regimen.[4]
 
-If the CSF fluid results are more consistent with aseptic meningitis, discontinuing antibiotics should be considered, considering the patient's initial presentation and clinical status. Management of viral meningitis (excluding HSV and VZV) primarily involves supportive care.[4] Specific treatments for various bacteria, fungi, and others are beyond the scope of this activity. However, as discussed earlier, these treatments should be tailored based on individual clinical presentation and underlying health conditions. 
+If the CSF fluid results are more consistent with aseptic meningitis, discontinuing antibiotics should be considered, considering the patient's initial presentation and clinical status. Management of viral meningitis (excluding HSV and VZV) primarily involves supportive care.[4] Specific treatments for various bacteria, fungi, and others are beyond the scope of this activity. However, as discussed earlier, these treatments should be tailored based on individual clinical presentation and underlying health conditions.
 
 Steroids are employed as adjunctive therapy to mitigate the inflammatory response. Dexamethasone, administered 10 to 20 minutes before or concurrently with antibiotics, is supported by evidence, even in cases where the etiology is initially unknown while awaiting culture results.[4] Research has demonstrated their effectiveness in reducing short-term neurologic sequelae and hearing loss, although this benefit is more pronounced in cases of bacterial meningitis.[18]
 
@@ -151,7 +150,7 @@ Following the initial diagnosis and treatment, the paramount objective is to cur
 
 Proper hand hygiene is essential, and isolation measures should be implemented based on the suspected cause of the infection. Vaccination is a crucial preventive measure, with vaccines available for those at risk of polio, mumps, measles, mumps varicella, and rubella. These vaccines should be administered according to the recommended vaccine schedule. Additionally, arboviral vaccines are available as a precautionary measure for populations residing in or traveling to endemic areas.[2][8][7]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 In managing aseptic meningitis, a team-based approach is essential. Physicians diagnose the condition based on clinical symptoms and lab results, determining appropriate treatment strategies, medications, and hospitalization when necessary. Effective communication with patients and their families is crucial to ensure they comprehend the diagnosis, treatment plan, and expectations.
 
@@ -167,11 +166,11 @@ Regular interprofessional team meetings facilitate discussions about patient pro
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24964&utm_source=pubmed&utm_campaign=reviews&utm_content=24964)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24964&utm_source=pubmed&utm_campaign=reviews&utm_content=24964)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/neurology/aseptic-meningitis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=24964)
+- [Click here for a simplified version.](https://mdsearchlight.com/neurology/aseptic-meningitis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=24964)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24964/?utm_source=pubmed&utm_campaign=comments&utm_content=24964)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24964/?utm_source=pubmed&utm_campaign=comments&utm_content=24964)
 
 [![Laboratory Evaluation for Aseptic Meningitis](/books/NBK557412/bin/Evaluation__Meningitis.gif)](/books/NBK557412/figure/article-24964.image.f1/?report=objectonly "Figure")
 
@@ -182,103 +181,79 @@ Laboratory Evaluation for Aseptic Meningitis. A thorough compilation of vital se
 ## References
 
 1.
-    
 
-Tattevin P, Tchamgoué S, Belem A, Bénézit F, Pronier C, Revest M. Aseptic meningitis. Rev Neurol (Paris). 2019 Sep-Oct;175(7-8):475-480. [[PubMed: 31375286](https://pubmed.ncbi.nlm.nih.gov/31375286)]
+Tattevin P, Tchamgoué S, Belem A, Bénézit F, Pronier C, Revest M. Aseptic meningitis. Rev Neurol (Paris). 2019 Sep-Oct;175(7-8):475-480. \[[PubMed: 31375286](https://pubmed.ncbi.nlm.nih.gov/31375286)\]
 
 2.
-    
 
-Kumar R. Aseptic meningitis: diagnosis and management. Indian J Pediatr. 2005 Jan;72(1):57-63. [[PubMed: 15684450](https://pubmed.ncbi.nlm.nih.gov/15684450)]
+Kumar R. Aseptic meningitis: diagnosis and management. Indian J Pediatr. 2005 Jan;72(1):57-63. \[[PubMed: 15684450](https://pubmed.ncbi.nlm.nih.gov/15684450)\]
 
 3.
-    
 
-Parasuraman TV, Frenia K, Romero J. Enteroviral meningitis. Cost of illness and considerations for the economic evaluation of potential therapies. Pharmacoeconomics. 2001 Jan;19(1):3-12. [[PubMed: 11252544](https://pubmed.ncbi.nlm.nih.gov/11252544)]
+Parasuraman TV, Frenia K, Romero J. Enteroviral meningitis. Cost of illness and considerations for the economic evaluation of potential therapies. Pharmacoeconomics. 2001 Jan;19(1):3-12. \[[PubMed: 11252544](https://pubmed.ncbi.nlm.nih.gov/11252544)\]
 
 4.
-    
 
-Putz K, Hayani K, Zar FA. Meningitis. Prim Care. 2013 Sep;40(3):707-26. [[PubMed: 23958365](https://pubmed.ncbi.nlm.nih.gov/23958365)]
+Putz K, Hayani K, Zar FA. Meningitis. Prim Care. 2013 Sep;40(3):707-26. \[[PubMed: 23958365](https://pubmed.ncbi.nlm.nih.gov/23958365)\]
 
 5.
-    
 
-Jarrin I, Sellier P, Lopes A, Morgand M, Makovec T, Delcey V, Champion K, Simoneau G, Green A, Mouly S, Bergmann JF, Lloret-Linares C. Etiologies and Management of Aseptic Meningitis in Patients Admitted to an Internal Medicine Department. Medicine (Baltimore). 2016 Jan;95(2):e2372. [[PMC free article: PMC4718237](/pmc/articles/PMC4718237/)] [[PubMed: 26765411](https://pubmed.ncbi.nlm.nih.gov/26765411)]
+Jarrin I, Sellier P, Lopes A, Morgand M, Makovec T, Delcey V, Champion K, Simoneau G, Green A, Mouly S, Bergmann JF, Lloret-Linares C. Etiologies and Management of Aseptic Meningitis in Patients Admitted to an Internal Medicine Department. Medicine (Baltimore). 2016 Jan;95(2):e2372. \[[PMC free article: PMC4718237](/pmc/articles/PMC4718237/)\] \[[PubMed: 26765411](https://pubmed.ncbi.nlm.nih.gov/26765411)\]
 
 6.
-    
 
-Han SH, Choi HY, Kim JM, Park KR, Youn YC, Shin HW. Etiology of aseptic meningitis and clinical characteristics in immune-competent adults. J Med Virol. 2016 Jan;88(1):175-9. [[PubMed: 26118835](https://pubmed.ncbi.nlm.nih.gov/26118835)]
+Han SH, Choi HY, Kim JM, Park KR, Youn YC, Shin HW. Etiology of aseptic meningitis and clinical characteristics in immune-competent adults. J Med Virol. 2016 Jan;88(1):175-9. \[[PubMed: 26118835](https://pubmed.ncbi.nlm.nih.gov/26118835)\]
 
 7.
-    
 
-Shukla B, Aguilera EA, Salazar L, Wootton SH, Kaewpoowat Q, Hasbun R. Aseptic meningitis in adults and children: Diagnostic and management challenges. J Clin Virol. 2017 Sep;94:110-114. [[PMC free article: PMC5581214](/pmc/articles/PMC5581214/)] [[PubMed: 28806629](https://pubmed.ncbi.nlm.nih.gov/28806629)]
+Shukla B, Aguilera EA, Salazar L, Wootton SH, Kaewpoowat Q, Hasbun R. Aseptic meningitis in adults and children: Diagnostic and management challenges. J Clin Virol. 2017 Sep;94:110-114. \[[PMC free article: PMC5581214](/pmc/articles/PMC5581214/)\] \[[PubMed: 28806629](https://pubmed.ncbi.nlm.nih.gov/28806629)\]
 
 8.
-    
 
-Mount HR, Boyle SD. Aseptic and Bacterial Meningitis: Evaluation, Treatment, and Prevention. Am Fam Physician. 2017 Sep 01;96(5):314-322. [[PubMed: 28925647](https://pubmed.ncbi.nlm.nih.gov/28925647)]
+Mount HR, Boyle SD. Aseptic and Bacterial Meningitis: Evaluation, Treatment, and Prevention. Am Fam Physician. 2017 Sep 01;96(5):314-322. \[[PubMed: 28925647](https://pubmed.ncbi.nlm.nih.gov/28925647)\]
 
 9.
-    
 
-Mamishi S, Sarkardeh M, Pourakbari B, Keshavarz Valian S, Sabouni F, Mahmoudi S. Aseptic meningitis after measles-mumps-rubella (MMR) vaccination. Br J Biomed Sci. 2016;73(2):84-6. [[PubMed: 27181175](https://pubmed.ncbi.nlm.nih.gov/27181175)]
+Mamishi S, Sarkardeh M, Pourakbari B, Keshavarz Valian S, Sabouni F, Mahmoudi S. Aseptic meningitis after measles-mumps-rubella (MMR) vaccination. Br J Biomed Sci. 2016;73(2):84-6. \[[PubMed: 27181175](https://pubmed.ncbi.nlm.nih.gov/27181175)\]
 
 10.
-    
 
-Dourado I, Cunha S, Teixeira MG, Farrington CP, Melo A, Lucena R, Barreto ML. Outbreak of aseptic meningitis associated with mass vaccination with a urabe-containing measles-mumps-rubella vaccine: implications for immunization programs. Am J Epidemiol. 2000 Mar 01;151(5):524-30. [[PubMed: 10707922](https://pubmed.ncbi.nlm.nih.gov/10707922)]
+Dourado I, Cunha S, Teixeira MG, Farrington CP, Melo A, Lucena R, Barreto ML. Outbreak of aseptic meningitis associated with mass vaccination with a urabe-containing measles-mumps-rubella vaccine: implications for immunization programs. Am J Epidemiol. 2000 Mar 01;151(5):524-30. \[[PubMed: 10707922](https://pubmed.ncbi.nlm.nih.gov/10707922)\]
 
 11.
-    
 
-Jorquera L A, Ugarte C D, Avilés L C, Delpiano M L. [Aseptic meningitis due to mumps vaccine. Case report and review of the literature]. Rev Chilena Infectol. 2020 Dec;37(6):769-774. [[PubMed: 33844819](https://pubmed.ncbi.nlm.nih.gov/33844819)]
+Jorquera L A, Ugarte C D, Avilés L C, Delpiano M L. [Aseptic meningitis due to mumps vaccine. Case report and review of the literature]. Rev Chilena Infectol. 2020 Dec;37(6):769-774. \[[PubMed: 33844819](https://pubmed.ncbi.nlm.nih.gov/33844819)\]
 
 12.
-    
 
-Riordan A, Ladhani SN. Aseptic meningitis associated with routine infant immunisation visits that include the group B meningococcal vaccine, 4CMenB. Arch Dis Child. 2019 Dec;104(12):1237-1238. [[PubMed: 31422348](https://pubmed.ncbi.nlm.nih.gov/31422348)]
+Riordan A, Ladhani SN. Aseptic meningitis associated with routine infant immunisation visits that include the group B meningococcal vaccine, 4CMenB. Arch Dis Child. 2019 Dec;104(12):1237-1238. \[[PubMed: 31422348](https://pubmed.ncbi.nlm.nih.gov/31422348)\]
 
 13.
-    
 
-Lee KY, Burgner D, Lee HS, Hong JH, Lee MH, Kang JH, Lee BC. The changing epidemiology of pediatric aseptic meningitis in Daejeon, Korea from 1987 to 2003. BMC Infect Dis. 2005 Nov 02;5:97. [[PMC free article: PMC1295587](/pmc/articles/PMC1295587/)] [[PubMed: 16262909](https://pubmed.ncbi.nlm.nih.gov/16262909)]
+Lee KY, Burgner D, Lee HS, Hong JH, Lee MH, Kang JH, Lee BC. The changing epidemiology of pediatric aseptic meningitis in Daejeon, Korea from 1987 to 2003. BMC Infect Dis. 2005 Nov 02;5:97. \[[PMC free article: PMC1295587](/pmc/articles/PMC1295587/)\] \[[PubMed: 16262909](https://pubmed.ncbi.nlm.nih.gov/16262909)\]
 
 14.
-    
 
-Chen W, Dai S, Xu L. Clinical characterization of benign enterovirus infection in neonates. Medicine (Baltimore). 2021 May 07;100(18):e25706. [[PMC free article: PMC8104291](/pmc/articles/PMC8104291/)] [[PubMed: 33950953](https://pubmed.ncbi.nlm.nih.gov/33950953)]
+Chen W, Dai S, Xu L. Clinical characterization of benign enterovirus infection in neonates. Medicine (Baltimore). 2021 May 07;100(18):e25706. \[[PMC free article: PMC8104291](/pmc/articles/PMC8104291/)\] \[[PubMed: 33950953](https://pubmed.ncbi.nlm.nih.gov/33950953)\]
 
 15.
-    
 
-Vanichanan J, Salazar L, Wootton SH, Aguilera E, Garcia MN, Murray KO, Hasbun R. Use of Testing for West Nile Virus and Other Arboviruses. Emerg Infect Dis. 2016 Sep;22(9):1587-93. [[PMC free article: PMC4994361](/pmc/articles/PMC4994361/)] [[PubMed: 27537988](https://pubmed.ncbi.nlm.nih.gov/27537988)]
+Vanichanan J, Salazar L, Wootton SH, Aguilera E, Garcia MN, Murray KO, Hasbun R. Use of Testing for West Nile Virus and Other Arboviruses. Emerg Infect Dis. 2016 Sep;22(9):1587-93. \[[PMC free article: PMC4994361](/pmc/articles/PMC4994361/)\] \[[PubMed: 27537988](https://pubmed.ncbi.nlm.nih.gov/27537988)\]
 
 16.
-    
 
-Salazar L, Hasbun R. Cranial Imaging Before Lumbar Puncture in Adults With Community-Acquired Meningitis: Clinical Utility and Adherence to the Infectious Diseases Society of America Guidelines. Clin Infect Dis. 2017 Jun 15;64(12):1657-1662. [[PMC free article: PMC5850549](/pmc/articles/PMC5850549/)] [[PubMed: 28369295](https://pubmed.ncbi.nlm.nih.gov/28369295)]
+Salazar L, Hasbun R. Cranial Imaging Before Lumbar Puncture in Adults With Community-Acquired Meningitis: Clinical Utility and Adherence to the Infectious Diseases Society of America Guidelines. Clin Infect Dis. 2017 Jun 15;64(12):1657-1662. \[[PMC free article: PMC5850549](/pmc/articles/PMC5850549/)\] \[[PubMed: 28369295](https://pubmed.ncbi.nlm.nih.gov/28369295)\]
 
 17.
-    
 
-Yoon HK, Cho SW. Neonatal head ultrasound: systematic approach to congenital Central Nervous System anomalies. A pictorial essay. Med Ultrason. 2016 Sep;18(3):386-93. [[PubMed: 27622417](https://pubmed.ncbi.nlm.nih.gov/27622417)]
+Yoon HK, Cho SW. Neonatal head ultrasound: systematic approach to congenital Central Nervous System anomalies. A pictorial essay. Med Ultrason. 2016 Sep;18(3):386-93. \[[PubMed: 27622417](https://pubmed.ncbi.nlm.nih.gov/27622417)\]
 
 18.
-    
 
-Mongelluzzo J, Mohamad Z, Ten Have TR, Shah SS. Corticosteroids and mortality in children with bacterial meningitis. JAMA. 2008 May 07;299(17):2048-55. [[PubMed: 18460665](https://pubmed.ncbi.nlm.nih.gov/18460665)]
-
-    
+Mongelluzzo J, Mohamad Z, Ten Have TR, Shah SS. Corticosteroids and mortality in children with bacterial meningitis. JAMA. 2008 May 07;299(17):2048-55. \[[PubMed: 18460665](https://pubmed.ncbi.nlm.nih.gov/18460665)\]
 
 **Disclosure:** Hersimran Kaur declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Elodie Betances declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Thomas Perera declares no relevant financial relationships with ineligible companies.

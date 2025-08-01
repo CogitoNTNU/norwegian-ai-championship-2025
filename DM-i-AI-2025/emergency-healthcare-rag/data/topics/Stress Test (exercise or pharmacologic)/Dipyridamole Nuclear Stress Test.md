@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20544/
-scraped_date: 2025-07-22 12:52:25 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20544/ scraped_date: 2025-07-22 12:52:25 UTC
 
 # Dipyridamole
 
@@ -27,13 +26,13 @@ Dipyridamole is an antiplatelet agent used in secondary prophylaxis against stro
 
 **Objectives:**
 
-  * Identify the mechanism of action for the administration of dipyridamole.
+- Identify the mechanism of action for the administration of dipyridamole.
 
-  * Describe the possible adverse effects of dipyridamole.
+- Describe the possible adverse effects of dipyridamole.
 
-  * Review the appropriate monitoring for patients using dipyridamole.
+- Review the appropriate monitoring for patients using dipyridamole.
 
-  * Summarize some interprofessional team strategies for improving care coordination and communication, especially in the administration of pharmacologic stress testing to improve outcomes and reduce adverse events.
+- Summarize some interprofessional team strategies for improving care coordination and communication, especially in the administration of pharmacologic stress testing to improve outcomes and reduce adverse events.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20544&utm_source=pubmed&utm_campaign=reviews&utm_content=20544)
 
@@ -43,9 +42,9 @@ Dipyridamole is an antiplatelet agent. It is also a vasodilator that is FDA-appr
 
 **Stroke Prevention**
 
-The indication for stroke prevention came from the data obtained from the European Stroke Prevention Study 2 Trial (ESPS-2).[4] This randomized control trial evaluated the stroke risk reduction amongst patients with recent transient ischemic attacks (TIA) or ischemic strokes. The patients meeting inclusion criteria were categorized into four distinct treatment groups that included placebo treatment, aspirin 25mg twice daily, 200 mg extended-release dipyridamole twice daily, and a combination of dipyridamole with aspirin 25mg twice daily. The study concluded that the group that received the combination of aspirin and extended-release dipyridamole showed a reduced risk of stroke compared to the placebo group. Further, the combination treatment arm revealed the most significant stroke risk reduction with an odds ratio of 0.59 compared to aspirin (OR=0.79) and extended-release dipyridamole (OR=0.81). Further, a 2005 meta-analysis performed by Leonardi-Bee et al. compiled data from pertaining randomized control trials that found that dipyridamole use alone reduced the risk of future stroke events compared to control arms.[5] The exact impact of this study is under dispute as 59% of the data collected from this metanalysis was derived from the ESPS-2 trial, and without it, did not obtain statistical significance. 
+The indication for stroke prevention came from the data obtained from the European Stroke Prevention Study 2 Trial (ESPS-2).[4] This randomized control trial evaluated the stroke risk reduction amongst patients with recent transient ischemic attacks (TIA) or ischemic strokes. The patients meeting inclusion criteria were categorized into four distinct treatment groups that included placebo treatment, aspirin 25mg twice daily, 200 mg extended-release dipyridamole twice daily, and a combination of dipyridamole with aspirin 25mg twice daily. The study concluded that the group that received the combination of aspirin and extended-release dipyridamole showed a reduced risk of stroke compared to the placebo group. Further, the combination treatment arm revealed the most significant stroke risk reduction with an odds ratio of 0.59 compared to aspirin (OR=0.79) and extended-release dipyridamole (OR=0.81). Further, a 2005 meta-analysis performed by Leonardi-Bee et al. compiled data from pertaining randomized control trials that found that dipyridamole use alone reduced the risk of future stroke events compared to control arms.[5] The exact impact of this study is under dispute as 59% of the data collected from this metanalysis was derived from the ESPS-2 trial, and without it, did not obtain statistical significance.
 
-Further, a 2009 study in the New England Journal of Medicine compared the combination of extended-release dipyridamole with aspirin (ASA-ERDP) against clopidogrel for the risk of recurrent stroke.[6] This double-blinded study compared recurrent stroke risk in those taking 25 mg aspirin-200 mg dipyridamole twice daily versus 75 mg clopidogrel daily. The study's conclusion revealed similar results for the primary outcome of stroke recurrence, 8.8% of the clopidogrel group versus 9.0% in the ASA-ERDP group; this elucidated that neither treatment group was superior for reduction of stroke recurrence in comparison to each other. 
+Further, a 2009 study in the New England Journal of Medicine compared the combination of extended-release dipyridamole with aspirin (ASA-ERDP) against clopidogrel for the risk of recurrent stroke.[6] This double-blinded study compared recurrent stroke risk in those taking 25 mg aspirin-200 mg dipyridamole twice daily versus 75 mg clopidogrel daily. The study's conclusion revealed similar results for the primary outcome of stroke recurrence, 8.8% of the clopidogrel group versus 9.0% in the ASA-ERDP group; this elucidated that neither treatment group was superior for reduction of stroke recurrence in comparison to each other.
 
 **Thromboembolism Prophylaxis in Cardiac Valve Replacement, Adjunct with Warfarin**
 
@@ -81,49 +80,49 @@ Pediatric use of this medication has limited data, but guidelines suggest 2.0 to
 
 **Most Commonly Reported Adverse Effects** [16]
 
-  1. Chest pain (20%)
+1. Chest pain (20%)
 
-  2. Angina exacerbation, IV (19.7%)
+1. Angina exacerbation, IV (19.7%)
 
-  3. Abnormal ECG (15.9%)
+1. Abnormal ECG (15.9%)
 
-  4. Headache, IV (12.2%)
+1. Headache, IV (12.2%)
 
-  5. Dizziness (12%)
+1. Dizziness (12%)
 
 **Other Reported Adverse Effects**
 
 **Generalized System Effects**
 
-  * Diaphoresis, fatigue, increased appetite, increased thirst, malaise, and weakness
+- Diaphoresis, fatigue, increased appetite, increased thirst, malaise, and weakness
 
 **Cardiopulmonary Effects**
 
-  * Arrhythmia, bronchospasm, cough, chest pain, cardiomyopathy, flushing, heart attack, ischemic electrocardiogram changes, lowered blood pressure, orthostatic hypotension, palpitations, and shortness of breath.
+- Arrhythmia, bronchospasm, cough, chest pain, cardiomyopathy, flushing, heart attack, ischemic electrocardiogram changes, lowered blood pressure, orthostatic hypotension, palpitations, and shortness of breath.
 
 **Central Nervous System Effects**
 
-  * Ataxia, changes in vision, dizziness, general weakness, headache, hypertonia, numbness/tingling, tinnitus, tremor, and vertigo
+- Ataxia, changes in vision, dizziness, general weakness, headache, hypertonia, numbness/tingling, tinnitus, tremor, and vertigo
 
 **Dermatologic System Effects**
 
-  * Hypersensitivity reaction, injection site reaction, pruritis, skin rash, and urticaria
+- Hypersensitivity reaction, injection site reaction, pruritis, skin rash, and urticaria
 
 **Gastrointestinal System Effects**
 
-  * Abdominal pain, dyspepsia, dysphagia, nausea, eructation, flatulence, tenesmus, and vomiting
+- Abdominal pain, dyspepsia, dysphagia, nausea, eructation, flatulence, tenesmus, and vomiting
 
 **Psychiatric System Effects**
 
-  * Depersonalization
+- Depersonalization
 
 **Lymphatic System Effects**
 
-  * Edema
+- Edema
 
 **Musculoskeletal System Effects**
 
-  * Arthralgia, back pain, claudication, generalized weakness, myalgia, and rigidity
+- Arthralgia, back pain, claudication, generalized weakness, myalgia, and rigidity
 
 ## Contraindications
 
@@ -131,17 +130,17 @@ The main contraindications for the application of dipyridamole are previous hype
 
 **Disease-related Concerns**
 
-  * Cardiovascular disease: Use requires caution in patients with hypotension, unstable angina, and/or recent MI; may enhance exercise-induced myocardial ischemia in patients with chronic stable angina.
+- Cardiovascular disease: Use requires caution in patients with hypotension, unstable angina, and/or recent MI; may enhance exercise-induced myocardial ischemia in patients with chronic stable angina.
 
-  * Hepatic impairment: Use requires caution in patients with hepatic impairment.
+- Hepatic impairment: Use requires caution in patients with hepatic impairment.
 
 **Concurrent Drug Therapy Issues**
 
-  * Antiplatelet agents/anticoagulants: Use requires caution in patients on other antiplatelet agents or anticoagulation.
+- Antiplatelet agents/anticoagulants: Use requires caution in patients on other antiplatelet agents or anticoagulation.
 
 **Dosage Form Specific Issues**
 
-  * Injection: Severe adverse reactions have infrequently occurred with IV administration. Use the IV dosage form with caution in patients with bronchospastic disease or unstable angina. Testers should have aminophylline ready in case of urgency or emergency with IV use.
+- Injection: Severe adverse reactions have infrequently occurred with IV administration. Use the IV dosage form with caution in patients with bronchospastic disease or unstable angina. Testers should have aminophylline ready in case of urgency or emergency with IV use.
 
 ## Monitoring
 
@@ -149,136 +148,114 @@ Current guidelines do not suggest routine laboratory testing for therapeutic mon
 
 **Pharmacokinetic Parameters**
 
-  * Half-life elimination: 10 to 12 hours
+- Half-life elimination: 10 to 12 hours
 
-  * Peak time: 2 to 2.5 hours
+- Peak time: 2 to 2.5 hours
 
-  * Onset: 24 minutes
+- Onset: 24 minutes
 
-  * Duration: 3 hours
+- Duration: 3 hours
 
-  * Protein-bound: 91 to 99%
+- Protein-bound: 91 to 99%
 
-  * Vd: 2 to 3 L/kg
+- Vd: 2 to 3 L/kg
 
-  * Clearance: 2.3 to 3.5 mL/min/kg
+- Clearance: 2.3 to 3.5 mL/min/kg
 
-  * Excretion: Fecal excretion
+- Excretion: Fecal excretion
 
-  * Metabolism: Liver
+- Metabolism: Liver
 
-  * Dialyzable: not-dialyzable
+- Dialyzable: not-dialyzable
 
 ## Toxicity
 
 To reverse any complications and side effects of dipyridamole, aminophylline (50 to 250 mg IV push over 30 to 60 seconds given no sooner than 1 minute after the radiotracer injection) should be on hand for urgent/emergent use.[18] This use is particularly used in the setting of adverse effects while undergoing pharmacologic stress testing.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 When using dipyridamole in the setting of pharmacologic stress testing, it is essential to actively look out for the clinical findings associated with an adverse pharmacologic stress test. As outlined above, monitoring for hypoperfusion while undergoing diagnostic testing is imperative to assist in preventing adverse events. It is essential that the entire interprofessional stress-testing team is aware of and actively evaluate the signs of hypoperfusion. The entire team, including the ultrasound technician, nursing team, cardiologist, and any other assistants involved in administering the stress test, understand the signs and symptoms of toxicity. A pharmacist should also review the patient's medication profile to ensure no drug-drug interactions and alert the team of any findings that may raise concerns. In addition to the importance of active monitoring, having the appropriate resources to reverse induced hypoperfusion is also essential to deter sequela. Maintaining an adequate stock solution of aminophylline with suitable syringes is important to allow for time-sensitive reversal when appropriate and necessary.[18] Interprofessional coordination will drive better patient results with minimal adverse events. [Level 5]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20544&utm_source=pubmed&utm_campaign=reviews&utm_content=20544)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20544&utm_source=pubmed&utm_campaign=reviews&utm_content=20544)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20544/?utm_source=pubmed&utm_campaign=comments&utm_content=20544)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20544/?utm_source=pubmed&utm_campaign=comments&utm_content=20544)
 
 ## References
 
 1.
-    
 
-Gregov D, Jenkins A, Duncan E, Siebert D, Rodgers S, Duncan B, Bochner F, Lloyd J. Dipyridamole: pharmacokinetics and effects on aspects of platelet function in man. Br J Clin Pharmacol. 1987 Oct;24(4):425-34. [[PMC free article: PMC1386303](/pmc/articles/PMC1386303/)] [[PubMed: 2825745](https://pubmed.ncbi.nlm.nih.gov/2825745)]
+Gregov D, Jenkins A, Duncan E, Siebert D, Rodgers S, Duncan B, Bochner F, Lloyd J. Dipyridamole: pharmacokinetics and effects on aspects of platelet function in man. Br J Clin Pharmacol. 1987 Oct;24(4):425-34. \[[PMC free article: PMC1386303](/pmc/articles/PMC1386303/)\] \[[PubMed: 2825745](https://pubmed.ncbi.nlm.nih.gov/2825745)\]
 
 2.
-    
 
-Gupta A, Samarany S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 10, 2023. Dipyridamole Nuclear Stress Test. [[PubMed: 31335041](https://pubmed.ncbi.nlm.nih.gov/31335041)]
+Gupta A, Samarany S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 10, 2023. Dipyridamole Nuclear Stress Test. \[[PubMed: 31335041](https://pubmed.ncbi.nlm.nih.gov/31335041)\]
 
 3.
-    
 
-Leppo JA. Dipyridamole myocardial perfusion imaging. J Nucl Med. 1994 Apr;35(4):730-3. [[PubMed: 8151403](https://pubmed.ncbi.nlm.nih.gov/8151403)]
+Leppo JA. Dipyridamole myocardial perfusion imaging. J Nucl Med. 1994 Apr;35(4):730-3. \[[PubMed: 8151403](https://pubmed.ncbi.nlm.nih.gov/8151403)\]
 
 4.
-    
 
-Sivenius J, Cunha L, Diener HC, Forbes C, Laakso M, Lowenthal A, Smets P, Riekkinen P. Second European Stroke Prevention Study: antiplatelet therapy is effective regardless of age. ESPS2 Working Group. Acta Neurol Scand. 1999 Jan;99(1):54-60. [[PubMed: 9925239](https://pubmed.ncbi.nlm.nih.gov/9925239)]
+Sivenius J, Cunha L, Diener HC, Forbes C, Laakso M, Lowenthal A, Smets P, Riekkinen P. Second European Stroke Prevention Study: antiplatelet therapy is effective regardless of age. ESPS2 Working Group. Acta Neurol Scand. 1999 Jan;99(1):54-60. \[[PubMed: 9925239](https://pubmed.ncbi.nlm.nih.gov/9925239)\]
 
 5.
-    
 
-Leonardi-Bee J, Bath PM, Bousser MG, Davalos A, Diener HC, Guiraud-Chaumeil B, Sivenius J, Yatsu F, Dewey ME., Dipyridamole in Stroke Collaboration (DISC). Dipyridamole for preventing recurrent ischemic stroke and other vascular events: a meta-analysis of individual patient data from randomized controlled trials. Stroke. 2005 Jan;36(1):162-8. [[PubMed: 15569877](https://pubmed.ncbi.nlm.nih.gov/15569877)]
+Leonardi-Bee J, Bath PM, Bousser MG, Davalos A, Diener HC, Guiraud-Chaumeil B, Sivenius J, Yatsu F, Dewey ME., Dipyridamole in Stroke Collaboration (DISC). Dipyridamole for preventing recurrent ischemic stroke and other vascular events: a meta-analysis of individual patient data from randomized controlled trials. Stroke. 2005 Jan;36(1):162-8. \[[PubMed: 15569877](https://pubmed.ncbi.nlm.nih.gov/15569877)\]
 
 6.
-    
 
-Sacco RL, Diener HC, Yusuf S, Cotton D, Ounpuu S, Lawton WA, Palesch Y, Martin RH, Albers GW, Bath P, Bornstein N, Chan BP, Chen ST, Cunha L, Dahlöf B, De Keyser J, Donnan GA, Estol C, Gorelick P, Gu V, Hermansson K, Hilbrich L, Kaste M, Lu C, Machnig T, Pais P, Roberts R, Skvortsova V, Teal P, Toni D, Vandermaelen C, Voigt T, Weber M, Yoon BW., PRoFESS Study Group. Aspirin and extended-release dipyridamole versus clopidogrel for recurrent stroke. N Engl J Med. 2008 Sep 18;359(12):1238-51. [[PMC free article: PMC2714259](/pmc/articles/PMC2714259/)] [[PubMed: 18753638](https://pubmed.ncbi.nlm.nih.gov/18753638)]
+Sacco RL, Diener HC, Yusuf S, Cotton D, Ounpuu S, Lawton WA, Palesch Y, Martin RH, Albers GW, Bath P, Bornstein N, Chan BP, Chen ST, Cunha L, Dahlöf B, De Keyser J, Donnan GA, Estol C, Gorelick P, Gu V, Hermansson K, Hilbrich L, Kaste M, Lu C, Machnig T, Pais P, Roberts R, Skvortsova V, Teal P, Toni D, Vandermaelen C, Voigt T, Weber M, Yoon BW., PRoFESS Study Group. Aspirin and extended-release dipyridamole versus clopidogrel for recurrent stroke. N Engl J Med. 2008 Sep 18;359(12):1238-51. \[[PMC free article: PMC2714259](/pmc/articles/PMC2714259/)\] \[[PubMed: 18753638](https://pubmed.ncbi.nlm.nih.gov/18753638)\]
 
 7.
-    
 
-Pouleur H, Buyse M. Effects of dipyridamole in combination with anticoagulant therapy on survival and thromboembolic events in patients with prosthetic heart valves. A meta-analysis of the randomized trials. J Thorac Cardiovasc Surg. 1995 Aug;110(2):463-72. [[PubMed: 7637364](https://pubmed.ncbi.nlm.nih.gov/7637364)]
+Pouleur H, Buyse M. Effects of dipyridamole in combination with anticoagulant therapy on survival and thromboembolic events in patients with prosthetic heart valves. A meta-analysis of the randomized trials. J Thorac Cardiovasc Surg. 1995 Aug;110(2):463-72. \[[PubMed: 7637364](https://pubmed.ncbi.nlm.nih.gov/7637364)\]
 
 8.
-    
 
-Chesebro JH, Fuster V, Elveback LR, McGoon DC, Pluth JR, Puga FJ, Wallace RB, Danielson GK, Orszulak TA, Piehler JM, Schaff HV. Trial of combined warfarin plus dipyridamole or aspirin therapy in prosthetic heart valve replacement: danger of aspirin compared with dipyridamole. Am J Cardiol. 1983 May 15;51(9):1537-41. [[PubMed: 6342354](https://pubmed.ncbi.nlm.nih.gov/6342354)]
+Chesebro JH, Fuster V, Elveback LR, McGoon DC, Pluth JR, Puga FJ, Wallace RB, Danielson GK, Orszulak TA, Piehler JM, Schaff HV. Trial of combined warfarin plus dipyridamole or aspirin therapy in prosthetic heart valve replacement: danger of aspirin compared with dipyridamole. Am J Cardiol. 1983 May 15;51(9):1537-41. \[[PubMed: 6342354](https://pubmed.ncbi.nlm.nih.gov/6342354)\]
 
 9.
-    
 
-Picano E, Sicari R, Varga A. Dipyridamole stress echocardiography. Cardiol Clin. 1999 Aug;17(3):481-99, viii. [[PubMed: 10453294](https://pubmed.ncbi.nlm.nih.gov/10453294)]
+Picano E, Sicari R, Varga A. Dipyridamole stress echocardiography. Cardiol Clin. 1999 Aug;17(3):481-99, viii. \[[PubMed: 10453294](https://pubmed.ncbi.nlm.nih.gov/10453294)\]
 
 10.
-    
 
-Vidal I, Beretta M, Alonso O, Mut F. New exercise-dipyridamole combined test for nuclear cardiology in insufficient effort: appropriate diagnostic sensitivity keeping exercise prognosis. Arq Bras Cardiol. 2015 Aug;105(2):123-9. [[PMC free article: PMC4559120](/pmc/articles/PMC4559120/)] [[PubMed: 26039661](https://pubmed.ncbi.nlm.nih.gov/26039661)]
+Vidal I, Beretta M, Alonso O, Mut F. New exercise-dipyridamole combined test for nuclear cardiology in insufficient effort: appropriate diagnostic sensitivity keeping exercise prognosis. Arq Bras Cardiol. 2015 Aug;105(2):123-9. \[[PMC free article: PMC4559120](/pmc/articles/PMC4559120/)\] \[[PubMed: 26039661](https://pubmed.ncbi.nlm.nih.gov/26039661)\]
 
 11.
-    
 
-Harker LA, Kadatz RA. Mechanism of action of dipyridamole. Thromb Res Suppl. 1983;4:39-46. [[PubMed: 6356465](https://pubmed.ncbi.nlm.nih.gov/6356465)]
+Harker LA, Kadatz RA. Mechanism of action of dipyridamole. Thromb Res Suppl. 1983;4:39-46. \[[PubMed: 6356465](https://pubmed.ncbi.nlm.nih.gov/6356465)\]
 
 12.
-    
 
-Kim HH, Liao JK. Translational therapeutics of dipyridamole. Arterioscler Thromb Vasc Biol. 2008 Mar;28(3):s39-42. [[PMC free article: PMC2615560](/pmc/articles/PMC2615560/)] [[PubMed: 18174451](https://pubmed.ncbi.nlm.nih.gov/18174451)]
+Kim HH, Liao JK. Translational therapeutics of dipyridamole. Arterioscler Thromb Vasc Biol. 2008 Mar;28(3):s39-42. \[[PMC free article: PMC2615560](/pmc/articles/PMC2615560/)\] \[[PubMed: 18174451](https://pubmed.ncbi.nlm.nih.gov/18174451)\]
 
 13.
-    
 
-BORN GV, CROSS MJ. Effect of adenosine diphosphate on the concentration of platelets in circulating blood. Nature. 1963 Mar 09;197:974-6. [[PubMed: 14014001](https://pubmed.ncbi.nlm.nih.gov/14014001)]
+BORN GV, CROSS MJ. Effect of adenosine diphosphate on the concentration of platelets in circulating blood. Nature. 1963 Mar 09;197:974-6. \[[PubMed: 14014001](https://pubmed.ncbi.nlm.nih.gov/14014001)\]
 
 14.
-    
 
-Gresele P, Arnout J, Deckmyn H, Vermylen J. Mechanism of the antiplatelet action of dipyridamole in whole blood: modulation of adenosine concentration and activity. Thromb Haemost. 1986 Feb 28;55(1):12-8. [[PubMed: 3704998](https://pubmed.ncbi.nlm.nih.gov/3704998)]
+Gresele P, Arnout J, Deckmyn H, Vermylen J. Mechanism of the antiplatelet action of dipyridamole in whole blood: modulation of adenosine concentration and activity. Thromb Haemost. 1986 Feb 28;55(1):12-8. \[[PubMed: 3704998](https://pubmed.ncbi.nlm.nih.gov/3704998)\]
 
 15.
-    
 
-By the 2019 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2019 Updated AGS Beers Criteria® for Potentially Inappropriate Medication Use in Older Adults. J Am Geriatr Soc. 2019 Apr;67(4):674-694. [[PubMed: 30693946](https://pubmed.ncbi.nlm.nih.gov/30693946)]
+By the 2019 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2019 Updated AGS Beers Criteria® for Potentially Inappropriate Medication Use in Older Adults. J Am Geriatr Soc. 2019 Apr;67(4):674-694. \[[PubMed: 30693946](https://pubmed.ncbi.nlm.nih.gov/30693946)\]
 
 16.
-    
 
-Lee SD, Huang WC, Peng NJ, Hu C. Dipyridamole-induced adverse effects in myocardial perfusion scans: Dynamic evaluation. Int J Cardiol Heart Vasc. 2017 Mar;14:14-19. [[PMC free article: PMC5454177](/pmc/articles/PMC5454177/)] [[PubMed: 28616557](https://pubmed.ncbi.nlm.nih.gov/28616557)]
+Lee SD, Huang WC, Peng NJ, Hu C. Dipyridamole-induced adverse effects in myocardial perfusion scans: Dynamic evaluation. Int J Cardiol Heart Vasc. 2017 Mar;14:14-19. \[[PMC free article: PMC5454177](/pmc/articles/PMC5454177/)\] \[[PubMed: 28616557](https://pubmed.ncbi.nlm.nih.gov/28616557)\]
 
 17.
-    
 
-Patel MR, Calhoon JH, Dehmer GJ, Grantham JA, Maddox TM, Maron DJ, Smith PK. ACC/AATS/AHA/ASE/ASNC/SCAI/SCCT/STS 2017 Appropriate Use Criteria for Coronary Revascularization in Patients With Stable Ischemic Heart Disease: A Report of the American College of Cardiology Appropriate Use Criteria Task Force, American Association for Thoracic Surgery, American Heart Association, American Society of Echocardiography, American Society of Nuclear Cardiology, Society for Cardiovascular Angiography and Interventions, Society of Cardiovascular Computed Tomography, and Society of Thoracic Surgeons. J Am Coll Cardiol. 2017 May 02;69(17):2212-2241. [[PubMed: 28291663](https://pubmed.ncbi.nlm.nih.gov/28291663)]
+Patel MR, Calhoon JH, Dehmer GJ, Grantham JA, Maddox TM, Maron DJ, Smith PK. ACC/AATS/AHA/ASE/ASNC/SCAI/SCCT/STS 2017 Appropriate Use Criteria for Coronary Revascularization in Patients With Stable Ischemic Heart Disease: A Report of the American College of Cardiology Appropriate Use Criteria Task Force, American Association for Thoracic Surgery, American Heart Association, American Society of Echocardiography, American Society of Nuclear Cardiology, Society for Cardiovascular Angiography and Interventions, Society of Cardiovascular Computed Tomography, and Society of Thoracic Surgeons. J Am Coll Cardiol. 2017 May 02;69(17):2212-2241. \[[PubMed: 28291663](https://pubmed.ncbi.nlm.nih.gov/28291663)\]
 
 18.
-    
 
-Henzlova MJ, Duvall WL, Einstein AJ, Travin MI, Verberne HJ. ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers. J Nucl Cardiol. 2016 Jun;23(3):606-39. [[PubMed: 26914678](https://pubmed.ncbi.nlm.nih.gov/26914678)]
-
-    
+Henzlova MJ, Duvall WL, Einstein AJ, Travin MI, Verberne HJ. ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers. J Nucl Cardiol. 2016 Jun;23(3):606-39. \[[PubMed: 26914678](https://pubmed.ncbi.nlm.nih.gov/26914678)\]
 
 **Disclosure:** Connor Kerndt declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Shivaraj Nagalli declares no relevant financial relationships with ineligible companies.

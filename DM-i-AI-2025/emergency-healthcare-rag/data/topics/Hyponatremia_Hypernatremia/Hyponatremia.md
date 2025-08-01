@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-133173/
-scraped_date: 2025-07-22 12:44:13 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-133173/ scraped_date: 2025-07-22 12:44:13 UTC
 
 # Exercise-Associated Hyponatremia
 
@@ -29,13 +28,13 @@ Exercise-associated hyponatremia (EAH) is defined as a serum sodium level below 
 
 **Objectives:**
 
-  * Describe the epidemiology and pathophysiology of EAH.
+- Describe the epidemiology and pathophysiology of EAH.
 
-  * Outline the major risk factors and presenting signs/symptoms of EAH in athletes.
+- Outline the major risk factors and presenting signs/symptoms of EAH in athletes.
 
-  * Review the complications of EAH in athletes.
+- Review the complications of EAH in athletes.
 
-  * Summarize the proper evaluation, prehospital and interprofessional team management, and prevention of EAH in athletes.
+- Summarize the proper evaluation, prehospital and interprofessional team management, and prevention of EAH in athletes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=133173&utm_source=pubmed&utm_campaign=reviews&utm_content=133173)
 
@@ -107,7 +106,7 @@ The majority of athletes recover from acute mild EAH within hours in the emergen
 
 The major complications of EAH and its treatment include exercise-associated hyponatremic encephalopathy (EAHE), noncardiogenic pulmonary edema, central pontine myelinolysis, and improper treatment resulting from an alternate diagnosis.
 
-If left untreated, mild EAH can progress to severe EAH with profoundly altered mental status, seizure, and coma—an end-stage finding due to cerebral edema termed EAHE. EAHE is often fatal, though the exact mortality rate is not defined.[3][7] The treatment for EAHE is a prompt correction of serum sodium with hypertonic saline and supportive care for its sequelae (respiratory support, seizure management). 
+If left untreated, mild EAH can progress to severe EAH with profoundly altered mental status, seizure, and coma—an end-stage finding due to cerebral edema termed EAHE. EAHE is often fatal, though the exact mortality rate is not defined.[3][7] The treatment for EAHE is a prompt correction of serum sodium with hypertonic saline and supportive care for its sequelae (respiratory support, seizure management).
 
 Noncardiogenic pulmonary edema may also develop secondary to osmotic dysregulation in EAH, leading to respiratory distress and the need for respiratory support.
 
@@ -121,7 +120,7 @@ Emergency medical providers and athletic event staff should consult a tertiary c
 
 ## Deterrence and Patient Education
 
-EAH can be prevented by avoiding overhydration, ensuring adequate oral sodium intake, and educating athletes, event staff, and healthcare providers on the prevention strategies and presenting symptoms. 
+EAH can be prevented by avoiding overhydration, ensuring adequate oral sodium intake, and educating athletes, event staff, and healthcare providers on the prevention strategies and presenting symptoms.
 
 EAH occurs when hypotonic fluid intake exceeds total body fluid losses. Therefore the safest strategy for fluid repletion is a thirst-driven replacement to avoid overhydration. Estimates of individual athlete replacement needs by monitoring weight changes during training activities may also be used, though this may not be practical. Forced hydration, particularly at large volumes, should be discouraged.[3][7]
 
@@ -131,77 +130,62 @@ Athletes participating in organized endurance events should be educated on the r
 
 ## Pearls and Other Issues
 
-The Defence Health Agency released a Practice Recommendation on the management of EAH in December 2020 to improve military-wide awareness of EAH and care for service members who develop it. 
+The Defence Health Agency released a Practice Recommendation on the management of EAH in December 2020 to improve military-wide awareness of EAH and care for service members who develop it.
 
 _The views expressed are those of the authors and do not reflect the official policy of the Department of the Army, the Department of Defense, or the U.S. Government._
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Prompt recognition of EAH over other exertional injuries is imperative. Patients with confirmed or suspected EAH should be transferred to a tertiary care center for advanced care. EAH diagnoses must be clearly communicated at transfers of care to ensure appropriate fluid management.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=133173&utm_source=pubmed&utm_campaign=reviews&utm_content=133173)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=133173&utm_source=pubmed&utm_campaign=reviews&utm_content=133173)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/hormones-and-body-chemistry/exercise-associated-hyponatremia/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=133173)
+- [Click here for a simplified version.](https://mdsearchlight.com/hormones-and-body-chemistry/exercise-associated-hyponatremia/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=133173)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/133173/?utm_source=pubmed&utm_campaign=comments&utm_content=133173)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/133173/?utm_source=pubmed&utm_campaign=comments&utm_content=133173)
 
 ## References
 
 1.
-    
 
-Hew-Butler T. Exercise-Associated Hyponatremia. Front Horm Res. 2019;52:178-189. [[PubMed: 32097926](https://pubmed.ncbi.nlm.nih.gov/32097926)]
+Hew-Butler T. Exercise-Associated Hyponatremia. Front Horm Res. 2019;52:178-189. \[[PubMed: 32097926](https://pubmed.ncbi.nlm.nih.gov/32097926)\]
 
 2.
-    
 
-Bennett BL, Hew-Butler T, Rosner MH, Myers T, Lipman GS. Wilderness Medical Society Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update. Wilderness Environ Med. 2020 Mar;31(1):50-62. [[PubMed: 32044213](https://pubmed.ncbi.nlm.nih.gov/32044213)]
+Bennett BL, Hew-Butler T, Rosner MH, Myers T, Lipman GS. Wilderness Medical Society Clinical Practice Guidelines for the Management of Exercise-Associated Hyponatremia: 2019 Update. Wilderness Environ Med. 2020 Mar;31(1):50-62. \[[PubMed: 32044213](https://pubmed.ncbi.nlm.nih.gov/32044213)\]
 
 3.
-    
 
-Oh RC, Galer M, Bursey MM. Found in the Field - A Soldier With Heat Stroke, Exercise-Associated Hyponatremia, and Kidney Injury. Curr Sports Med Rep. 2018 Apr;17(4):123-125. [[PubMed: 29629971](https://pubmed.ncbi.nlm.nih.gov/29629971)]
+Oh RC, Galer M, Bursey MM. Found in the Field - A Soldier With Heat Stroke, Exercise-Associated Hyponatremia, and Kidney Injury. Curr Sports Med Rep. 2018 Apr;17(4):123-125. \[[PubMed: 29629971](https://pubmed.ncbi.nlm.nih.gov/29629971)\]
 
 4.
-    
 
-Rosner MH. EXERCISE-ASSOCIATED HYPONATREMIA. Trans Am Clin Climatol Assoc. 2019;130:76-87. [[PMC free article: PMC6735969](/pmc/articles/PMC6735969/)] [[PubMed: 31516170](https://pubmed.ncbi.nlm.nih.gov/31516170)]
+Rosner MH. EXERCISE-ASSOCIATED HYPONATREMIA. Trans Am Clin Climatol Assoc. 2019;130:76-87. \[[PMC free article: PMC6735969](/pmc/articles/PMC6735969/)\] \[[PubMed: 31516170](https://pubmed.ncbi.nlm.nih.gov/31516170)\]
 
 5.
-    
 
-Bridges E, Altherwi T, Correa JA, Hew-Butler T. Oral Hypertonic Saline Is Effective in Reversing Acute Mild-to-Moderate Symptomatic Exercise-Associated Hyponatremia. Clin J Sport Med. 2020 Jan;30(1):8-13. [[PubMed: 31855907](https://pubmed.ncbi.nlm.nih.gov/31855907)]
+Bridges E, Altherwi T, Correa JA, Hew-Butler T. Oral Hypertonic Saline Is Effective in Reversing Acute Mild-to-Moderate Symptomatic Exercise-Associated Hyponatremia. Clin J Sport Med. 2020 Jan;30(1):8-13. \[[PubMed: 31855907](https://pubmed.ncbi.nlm.nih.gov/31855907)\]
 
 6.
-    
 
-Oh RC, Malave B, Chaltry JD. Collapse in the Heat - From Overhydration to the Emergency Room - Three Cases of Exercise-Associated Hyponatremia Associated with Exertional Heat Illness. Mil Med. 2018 Mar 01;183(3-4):e225-e228. [[PubMed: 29365179](https://pubmed.ncbi.nlm.nih.gov/29365179)]
+Oh RC, Malave B, Chaltry JD. Collapse in the Heat - From Overhydration to the Emergency Room - Three Cases of Exercise-Associated Hyponatremia Associated with Exertional Heat Illness. Mil Med. 2018 Mar 01;183(3-4):e225-e228. \[[PubMed: 29365179](https://pubmed.ncbi.nlm.nih.gov/29365179)\]
 
 7.
-    
 
-Rosner MH. Preventing Deaths Due to Exercise-Associated Hyponatremia: The 2015 Consensus Guidelines. Clin J Sport Med. 2015 Jul;25(4):301-2. [[PubMed: 26102444](https://pubmed.ncbi.nlm.nih.gov/26102444)]
+Rosner MH. Preventing Deaths Due to Exercise-Associated Hyponatremia: The 2015 Consensus Guidelines. Clin J Sport Med. 2015 Jul;25(4):301-2. \[[PubMed: 26102444](https://pubmed.ncbi.nlm.nih.gov/26102444)\]
 
 8.
-    
 
-Pomeranz D, Irwin C, Lipman GS. Large-Volume Hypertonic Saline for Empiric Treatment of Severe Exercise-Associated Hyponatremia in an Ultramarathon Runner. Curr Sports Med Rep. 2019 May;18(5):163-165. [[PubMed: 31082888](https://pubmed.ncbi.nlm.nih.gov/31082888)]
+Pomeranz D, Irwin C, Lipman GS. Large-Volume Hypertonic Saline for Empiric Treatment of Severe Exercise-Associated Hyponatremia in an Ultramarathon Runner. Curr Sports Med Rep. 2019 May;18(5):163-165. \[[PubMed: 31082888](https://pubmed.ncbi.nlm.nih.gov/31082888)\]
 
 9.
-    
 
-Lipman GS, Burns P, Phillips C, Jensen J, Little C, Jurkiewicz C, Jarrett B, Walker A, Mansfield N, Krabak BJ. Effect of Sodium Supplements and Climate on Dysnatremia During Ultramarathon Running. Clin J Sport Med. 2021 Nov 01;31(6):e327-e334. [[PubMed: 32097177](https://pubmed.ncbi.nlm.nih.gov/32097177)]
-
-    
+Lipman GS, Burns P, Phillips C, Jensen J, Little C, Jurkiewicz C, Jarrett B, Walker A, Mansfield N, Krabak BJ. Effect of Sodium Supplements and Climate on Dysnatremia During Ultramarathon Running. Clin J Sport Med. 2021 Nov 01;31(6):e327-e334. \[[PubMed: 32097177](https://pubmed.ncbi.nlm.nih.gov/32097177)\]
 
 **Disclosure:** Emily Buck declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Rebecca McAllister declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Jeremy Schroeder declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-32266/
-scraped_date: 2025-07-22 12:54:09 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-32266/ scraped_date: 2025-07-22 12:54:09 UTC
 
 # Anatomy, Head and Neck, Anterior: Common Carotid Arteries
 
@@ -91,102 +90,82 @@ The presence of the carotid bodies in the region of the common carotid artery bi
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=32266&utm_source=pubmed&utm_campaign=reviews&utm_content=32266)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=32266&utm_source=pubmed&utm_campaign=reviews&utm_content=32266)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/32266/?utm_source=pubmed&utm_campaign=comments&utm_content=32266)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/32266/?utm_source=pubmed&utm_campaign=comments&utm_content=32266)
 
 [![Image ](/books/NBK546613/bin/Gray507.gif)](/books/NBK546613/figure/article-32266.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK546613/figure/article-32266.image.f1/?report=objectonly)
 
-Arteries of the Head and Neck, External Carotid, Internal Jugular Vein, External Maxillary, Henry Vandyke Carter, Public Domain, via Wikimedia Commons 
+Arteries of the Head and Neck, External Carotid, Internal Jugular Vein, External Maxillary, Henry Vandyke Carter, Public Domain, via Wikimedia Commons
 
 ## References
 
 1.
-    
 
-Hojaij F, Rebelo G, Akamatsu F, Andrade M, Camargo C, Cernea C, Jacomo A. Syntopy of vagus nerve in the carotid sheath: A dissectional study of 50 cadavers. Laryngoscope Investig Otolaryngol. 2019 Jun;4(3):319-322. [[PMC free article: PMC6580062](/pmc/articles/PMC6580062/)] [[PubMed: 31236466](https://pubmed.ncbi.nlm.nih.gov/31236466)]
+Hojaij F, Rebelo G, Akamatsu F, Andrade M, Camargo C, Cernea C, Jacomo A. Syntopy of vagus nerve in the carotid sheath: A dissectional study of 50 cadavers. Laryngoscope Investig Otolaryngol. 2019 Jun;4(3):319-322. \[[PMC free article: PMC6580062](/pmc/articles/PMC6580062/)\] \[[PubMed: 31236466](https://pubmed.ncbi.nlm.nih.gov/31236466)\]
 
 2.
-    
 
-Garner DH, Kortz MW, Baker S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Mar 11, 2023. Anatomy, Head and Neck: Carotid Sheath. [[PubMed: 30137861](https://pubmed.ncbi.nlm.nih.gov/30137861)]
+Garner DH, Kortz MW, Baker S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Mar 11, 2023. Anatomy, Head and Neck: Carotid Sheath. \[[PubMed: 30137861](https://pubmed.ncbi.nlm.nih.gov/30137861)\]
 
 3.
-    
 
-Cole WC, Gordon GR, Braun AP. Cellular and Ionic Mechanisms of Arterial Vasomotion. Adv Exp Med Biol. 2019;1124:297-312. [[PubMed: 31183832](https://pubmed.ncbi.nlm.nih.gov/31183832)]
+Cole WC, Gordon GR, Braun AP. Cellular and Ionic Mechanisms of Arterial Vasomotion. Adv Exp Med Biol. 2019;1124:297-312. \[[PubMed: 31183832](https://pubmed.ncbi.nlm.nih.gov/31183832)\]
 
 4.
-    
 
-Castania JA, Katayama PL, Brognara F, Moraes DJA, Sabino JPJ, Salgado HC. Selective denervation of the aortic and carotid baroreceptors in rats. Exp Physiol. 2019 Sep;104(9):1335-1342. [[PubMed: 31161612](https://pubmed.ncbi.nlm.nih.gov/31161612)]
+Castania JA, Katayama PL, Brognara F, Moraes DJA, Sabino JPJ, Salgado HC. Selective denervation of the aortic and carotid baroreceptors in rats. Exp Physiol. 2019 Sep;104(9):1335-1342. \[[PubMed: 31161612](https://pubmed.ncbi.nlm.nih.gov/31161612)\]
 
 5.
-    
 
-Keir DA, Duffin J, Millar PJ, Floras JS. Simultaneous assessment of central and peripheral chemoreflex regulation of muscle sympathetic nerve activity and ventilation in healthy young men. J Physiol. 2019 Jul;597(13):3281-3296. [[PubMed: 31087324](https://pubmed.ncbi.nlm.nih.gov/31087324)]
+Keir DA, Duffin J, Millar PJ, Floras JS. Simultaneous assessment of central and peripheral chemoreflex regulation of muscle sympathetic nerve activity and ventilation in healthy young men. J Physiol. 2019 Jul;597(13):3281-3296. \[[PubMed: 31087324](https://pubmed.ncbi.nlm.nih.gov/31087324)\]
 
 6.
-    
 
-Dempsey JA, Smith CA. Update on Chemoreception: Influence on Cardiorespiratory Regulation and Pathophysiology. Clin Chest Med. 2019 Jun;40(2):269-283. [[PMC free article: PMC6512837](/pmc/articles/PMC6512837/)] [[PubMed: 31078209](https://pubmed.ncbi.nlm.nih.gov/31078209)]
+Dempsey JA, Smith CA. Update on Chemoreception: Influence on Cardiorespiratory Regulation and Pathophysiology. Clin Chest Med. 2019 Jun;40(2):269-283. \[[PMC free article: PMC6512837](/pmc/articles/PMC6512837/)\] \[[PubMed: 31078209](https://pubmed.ncbi.nlm.nih.gov/31078209)\]
 
 7.
-    
 
-Meyer AM, Turek JW, Froud J, Endelman LA, Cavanaugh NB, Torres JE, Ashwath R. Insights into Arch Vessel Development in the Bovine Aortic Arch. Pediatr Cardiol. 2019 Oct;40(7):1445-1449. [[PubMed: 31332468](https://pubmed.ncbi.nlm.nih.gov/31332468)]
+Meyer AM, Turek JW, Froud J, Endelman LA, Cavanaugh NB, Torres JE, Ashwath R. Insights into Arch Vessel Development in the Bovine Aortic Arch. Pediatr Cardiol. 2019 Oct;40(7):1445-1449. \[[PubMed: 31332468](https://pubmed.ncbi.nlm.nih.gov/31332468)\]
 
 8.
-    
 
-Joo SP, Lee SW, Cho YH, Kim YS, Seo BR, Kim HS, Kim TS. Vasa Vasorum Densities in Human Carotid Atherosclerosis Is Associated with Plaque Development and Vulnerability. J Korean Neurosurg Soc. 2020 Mar;63(2):178-187. [[PMC free article: PMC7054111](/pmc/articles/PMC7054111/)] [[PubMed: 31392872](https://pubmed.ncbi.nlm.nih.gov/31392872)]
+Joo SP, Lee SW, Cho YH, Kim YS, Seo BR, Kim HS, Kim TS. Vasa Vasorum Densities in Human Carotid Atherosclerosis Is Associated with Plaque Development and Vulnerability. J Korean Neurosurg Soc. 2020 Mar;63(2):178-187. \[[PMC free article: PMC7054111](/pmc/articles/PMC7054111/)\] \[[PubMed: 31392872](https://pubmed.ncbi.nlm.nih.gov/31392872)\]
 
 9.
-    
 
-Cho JH, Kim JW, Park HW, Suh JD, Kim JK, Yoon JH. Arterial supply of the human soft palate. Surg Radiol Anat. 2017 Jul;39(7):731-734. [[PubMed: 28138793](https://pubmed.ncbi.nlm.nih.gov/28138793)]
+Cho JH, Kim JW, Park HW, Suh JD, Kim JK, Yoon JH. Arterial supply of the human soft palate. Surg Radiol Anat. 2017 Jul;39(7):731-734. \[[PubMed: 28138793](https://pubmed.ncbi.nlm.nih.gov/28138793)\]
 
 10.
-    
 
-Fatma B, Alper U, Mehmet B. The Superficial Temporal Artery Island Flap: An Option for Moustache Reconstruction. J Craniofac Surg. 2019 Jul;30(5):e404-e406. [[PubMed: 31299793](https://pubmed.ncbi.nlm.nih.gov/31299793)]
+Fatma B, Alper U, Mehmet B. The Superficial Temporal Artery Island Flap: An Option for Moustache Reconstruction. J Craniofac Surg. 2019 Jul;30(5):e404-e406. \[[PubMed: 31299793](https://pubmed.ncbi.nlm.nih.gov/31299793)\]
 
 11.
-    
 
-Nelson ML, Sparks CD. Unusual aortic arch variation: distal origin of common carotid arteries. Clin Anat. 2001;14(1):62-5. [[PubMed: 11135402](https://pubmed.ncbi.nlm.nih.gov/11135402)]
+Nelson ML, Sparks CD. Unusual aortic arch variation: distal origin of common carotid arteries. Clin Anat. 2001;14(1):62-5. \[[PubMed: 11135402](https://pubmed.ncbi.nlm.nih.gov/11135402)\]
 
 12.
-    
 
-Charalambous S, Hatzidakis A, Peteinarakis I, Megremis S, Karantanas A. Common left carotid bifurcation at C7-Th1 level: a rare anatomical variant. Surg Radiol Anat. 2019 Feb;41(2):227-229. [[PubMed: 30474710](https://pubmed.ncbi.nlm.nih.gov/30474710)]
+Charalambous S, Hatzidakis A, Peteinarakis I, Megremis S, Karantanas A. Common left carotid bifurcation at C7-Th1 level: a rare anatomical variant. Surg Radiol Anat. 2019 Feb;41(2):227-229. \[[PubMed: 30474710](https://pubmed.ncbi.nlm.nih.gov/30474710)\]
 
 13.
-    
 
-Gunka I, Krajickova D, Lesko M, Renc O, Raupach J, Jiska S, Lojik M, Chovanec V, Hudak A, Maly R. Outcomes of Urgent Carotid Endarterectomy for Crescendo Transient Ischemic Attacks and Stroke in Evolution. Ann Vasc Surg. 2019 Nov;61:185-192. [[PubMed: 31394223](https://pubmed.ncbi.nlm.nih.gov/31394223)]
+Gunka I, Krajickova D, Lesko M, Renc O, Raupach J, Jiska S, Lojik M, Chovanec V, Hudak A, Maly R. Outcomes of Urgent Carotid Endarterectomy for Crescendo Transient Ischemic Attacks and Stroke in Evolution. Ann Vasc Surg. 2019 Nov;61:185-192. \[[PubMed: 31394223](https://pubmed.ncbi.nlm.nih.gov/31394223)\]
 
 14.
-    
 
-Lucerna A, Espinosa J. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Feb 13, 2023. Carotid Bruit. [[PubMed: 30725598](https://pubmed.ncbi.nlm.nih.gov/30725598)]
+Lucerna A, Espinosa J. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Feb 13, 2023. Carotid Bruit. \[[PubMed: 30725598](https://pubmed.ncbi.nlm.nih.gov/30725598)\]
 
 15.
-    
 
-Zaldivar Villon MLF, de la Rocha JAL, Espinoza LR. Takayasu Arteritis: Recent Developments. Curr Rheumatol Rep. 2019 Jul 18;21(9):45. [[PubMed: 31321560](https://pubmed.ncbi.nlm.nih.gov/31321560)]
+Zaldivar Villon MLF, de la Rocha JAL, Espinoza LR. Takayasu Arteritis: Recent Developments. Curr Rheumatol Rep. 2019 Jul 18;21(9):45. \[[PubMed: 31321560](https://pubmed.ncbi.nlm.nih.gov/31321560)\]
 
 16.
-    
 
-Uppal S, Hadi M, Chhaya S. Updates in the Diagnosis and Management of Giant Cell Arteritis. Curr Neurol Neurosci Rep. 2019 Aug 08;19(9):68. [[PubMed: 31396718](https://pubmed.ncbi.nlm.nih.gov/31396718)]
-
-    
+Uppal S, Hadi M, Chhaya S. Updates in the Diagnosis and Management of Giant Cell Arteritis. Curr Neurol Neurosci Rep. 2019 Aug 08;19(9):68. \[[PubMed: 31396718](https://pubmed.ncbi.nlm.nih.gov/31396718)\]
 
 **Disclosure:** John Nguyen declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Hieu Duong declares no relevant financial relationships with ineligible companies.

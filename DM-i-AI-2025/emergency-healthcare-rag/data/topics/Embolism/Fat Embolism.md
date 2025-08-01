@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21632/
-scraped_date: 2025-07-22 12:46:06 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21632/ scraped_date: 2025-07-22 12:46:06 UTC
 
 # Fat Embolism
 
@@ -27,13 +26,13 @@ Fat embolism (FE) and fat embolism syndrome (FES) are clinical phenomena charact
 
 **Objectives:**
 
-  * Identify the difficulty in making a diagnosis of fat embolism syndrome.
+- Identify the difficulty in making a diagnosis of fat embolism syndrome.
 
-  * Evaluate the presentation of fat embolism syndrome.
+- Evaluate the presentation of fat embolism syndrome.
 
-  * Interpret the treatment of fat embolism syndrome.
+- Interpret the treatment of fat embolism syndrome.
 
-  * Communicate the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by fat embolism syndrome.
+- Communicate the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by fat embolism syndrome.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=21632&utm_source=pubmed&utm_campaign=reviews&utm_content=21632)
 
@@ -51,49 +50,49 @@ Traumatic causes of FES are more common than nontraumatic causes. Trauma as a ca
 
 Other rare traumatic conditions that can cause FES include the following:
 
-  * Massive soft tissue damage
+- Massive soft tissue damage
 
-  * Crush injury
+- Crush injury
 
-  * Prolonged cardiopulmonary resuscitation
+- Prolonged cardiopulmonary resuscitation
 
-  * Severe burn involving more than 50% of body surface area
+- Severe burn involving more than 50% of body surface area
 
-  * Bone marrow transplantation
+- Bone marrow transplantation
 
-  * Liposuction
+- Liposuction
 
-  * Median sternotomy
+- Median sternotomy
 
 **Nontraumatic Causes**
 
 Cases of nontraumatic FES are very rare and include the following:
 
-  * Fatty Liver
+- Fatty Liver
 
-  * Acute or chronic pancreatitis
+- Acute or chronic pancreatitis
 
-  * Therapy with corticosteroid
+- Therapy with corticosteroid
 
-  * Infusion of fat emulsion
+- Infusion of fat emulsion
 
-  * Lymphography
+- Lymphography
 
-  * Hemoglobinopathies
+- Hemoglobinopathies
 
-  * Sickle cell disease
+- Sickle cell disease
 
-  * Thalassemia
+- Thalassemia
 
 Several risk factors are associated with the development of FES. The following conditions increase the risk of developing FES:
 
-  * Young age
+- Young age
 
-  * Closed fractures
+- Closed fractures
 
-  * Multiple fractures
+- Multiple fractures
 
-  * Prolonged conservative management of long bone fracture
+- Prolonged conservative management of long bone fracture
 
 ## Epidemiology
 
@@ -107,11 +106,11 @@ Fat particles or globules are released from the organs of primary origin and ent
 
 Gassling et al postulated that large fat droplets are released into the venous system. Elevation of the intramedullary from trauma or surgery leads to the release of fat into the venous sinusoids. From the venous system, these fat globules are deposited in the pulmonary capillary bed, where they travel to the brain via the arteriovenous shunt into the brain. Initially, there was no valid explanation for the development of FES in patients with no patent foramen ovale, but the presence of an arteriovenous shunt clarifies this. Also, intravascular fat droplets are deformable, hence their ability to transverse the pulmonary vasculature. The pathophysiological changes produced by fat droplets include the following:
 
-  * Elevated pulmonary artery pressure
+- Elevated pulmonary artery pressure
 
-  * Impairment of oxygen exchange from ventilation-perfusion mismatch
+- Impairment of oxygen exchange from ventilation-perfusion mismatch
 
-  * Systemic effects on end-organisms such as the brain, kidney, and skin.
+- Systemic effects on end-organisms such as the brain, kidney, and skin.
 
 The deposition of fat droplets in the brain produces a cascade of reactions. Disruption of microcirculation leads to systemic inflammatory response syndrome, local inflammation, and ischemia. The release of inflammatory mediators and vasoactive amines like histamine and serotonin increases vascular permeability and vasodilation, with ensuing hypotension and hypoperfusion.
 
@@ -133,47 +132,47 @@ The history should elicit the time and onset of symptoms. Also, since most cases
 
 Sickle cell disease and other forms of hemoglobinopathy can precipitate FES. Patients should be asked about the history of sickle cell disease in family members and any complications of sickle cell disease like acute chest syndrome, vaso-occlusive crises, or avascular necrosis of long bones. The history of drug ingestion or alcoholism that can trigger pancreatitis leading to FES should also be clarified. The symptoms of fat embolism and FES are nonspecific. Patients might complain of the following:
 
-  * Pain related to bone fracture
+- Pain related to bone fracture
 
-  * Nausea
+- Nausea
 
-  * General weakness
+- General weakness
 
-  * Malaise
+- Malaise
 
-  * Difficulty breathing
+- Difficulty breathing
 
-  * Headache
+- Headache
 
 **Signs and Symptoms**
 
 These include but are not limited to the following:
 
-**_Respiratory_ **
+\*\*_Respiratory_ \*\*
 
-  * Tachypnea
+- Tachypnea
 
-  * Tachycardia
+- Tachycardia
 
-  * Diaphoresis
+- Diaphoresis
 
 **_Central nervous system_**
 
-  * Agitation from hypoxia
+- Agitation from hypoxia
 
-  * Restlessness
+- Restlessness
 
-  * Change in mental status
+- Change in mental status
 
-  * Seizure
+- Seizure
 
-  * Coma
+- Coma
 
-**_Skin_ **
+\*\*_Skin_ \*\*
 
 Petechial rash
 
-**_Eye_ **
+\*\*_Eye_ \*\*
 
 Retinal hemorrhage
 
@@ -181,27 +180,27 @@ Retinal hemorrhage
 
 The examination of a patient with FES should be very thorough. Particular attention should be paid to the patient's general appearance.
 
-**_General Appearance_ **
+\*\*_General Appearance_ \*\*
 
 Most patients with FES are anxious, agitated, and ill-looking.
 
-**_Respiratory system_ ** __
+\*\*_Respiratory system_ \*\* \_\_
 
 Assess for abnormal breath sounds, work of breathing, and evidence of respiratory distress or impending respiratory failure.
 
-**_Cardiovascular_ **
+\*\*_Cardiovascular_ \*\*
 
 The blood pressure and heart rate might be high in the beginning, but patients might suffer a cardiovascular collapse with ensuing hypotension
 
-**_Central nervous system_ ** __
+\*\*_Central nervous system_ \*\* \_\_
 
 A Glasgow Coma Scale assessment of less than 8 indicates that the airway should be secured and the patient placed on mechanical ventilation. Symptoms involving the central nervous system in FES are thought to arise from cerebral edema rather than cerebral ischemia.
 
-**_Skin_ ** __
+\*\*_Skin_ \*\* \_\_
 
 Usually, a petechial rash on the skin with all the risk above factors should alert the clinician about FES.
 
-**_Eye_ ** __
+\*\*_Eye_ \*\* \_\_
 
 A fundoscopic examination is necessary to check for the presence of retinal hemorrhage.
 
@@ -211,69 +210,69 @@ Diagnosis of FES can be very challenging because the signs and symptoms can be v
 
 **Major Criteria**
 
-  * Petechial rash
+- Petechial rash
 
-  * Respiratory insufficiency
+- Respiratory insufficiency
 
-  * Cerebral involvement in non-head injury patients
+- Cerebral involvement in non-head injury patients
 
 **Minor Criteria**
 
-  * Fever greater than 38.5 C
+- Fever greater than 38.5 C
 
-  * Tachycardia heart rate greater than 110 beats per minute
+- Tachycardia heart rate greater than 110 beats per minute
 
-  * Retinal involvement
+- Retinal involvement
 
-  * Jaundice
+- Jaundice
 
-  * Renal signs
+- Renal signs
 
-  * Anemia
+- Anemia
 
-  * Thrombocytopenia
+- Thrombocytopenia
 
-  * High erythrocyte sedimentation rate
+- High erythrocyte sedimentation rate
 
-  * Fat macroglobulinemia
+- Fat macroglobulinemia
 
 **Schoenfeld Criteria**
 
 Another report by Schoenfeld et al proposed a quantitative means for diagnosing FES. A cumulative score greater than 5 is required for the diagnosis.
 
-  * 5 points - petechiae rash 
+- 5 points - petechiae rash
 
-  * 4 points - diffuse infiltrate on x-ray
+- 4 points - diffuse infiltrate on x-ray
 
-  * 3 points - hypoxemia
+- 3 points - hypoxemia
 
-  * 1 point (for each) - fever, tachycardia, confusion
+- 1 point (for each) - fever, tachycardia, confusion
 
 **Lindeque Criteria**
 
 Lastly, Lindegue et al suggested using respiratory symptoms alone as the diagnostic criteria for FES. This criterion has not gained worldwide acceptance compared to the Gurd, Wilson, and Schoenfeld criteria.
 
-  * Sustained Pa02 less than 8 kilopascal 
+- Sustained Pa02 less than 8 kilopascal
 
-  * Sustained PC02 greater than 7.3 kilopascal
+- Sustained PC02 greater than 7.3 kilopascal
 
-  * Sustained respiratory rate greater than 35 breaths per minute despite sedation
+- Sustained respiratory rate greater than 35 breaths per minute despite sedation
 
-  * Dyspnea, increased work of breathing, anxiety, tachycardia
+- Dyspnea, increased work of breathing, anxiety, tachycardia
 
 **Ancillary Studies**
 
 Apart from the aforementioned diagnostic criteria, other ancillary studies are needed to aid in the diagnostic workup, including the following:
 
-**_Complete blood count_ **
+\*\*_Complete blood count_ \*\*
 
 Anemia and thrombocytopenia are very common in FES.
 
-**_Comprehensive metabolic panel_ **
+\*\*_Comprehensive metabolic panel_ \*\*
 
 Metabolic acidosis, increased levels of BUN, and creatinine can be seen in patients with FES.
 
-**_Arterial blood gas_ **
+\*\*_Arterial blood gas_ \*\*
 
 Ventilation-perfusion mismatch is a hallmark of FES. The arterial blood gas analysis usually has a low partial pressure of oxygen, causing hypoxemia. An increased alveolar-arterial (A-a) gradient is common in FES. The A-a gradient is the difference between the partial pressure of oxygen in the alveolus and the partial pressure of oxygen in the pulmonary artery. In FES, the pulmonary blood vessels are occluded, causing perfusion impairment with normal ventilation. The result of this in FES is a ventilation-perfusion mismatch.
 
@@ -281,43 +280,43 @@ To calculate the A-a gradient, use the formula:
 
 **A-a gradient = PA02 - Pa02**
 
-  * Pa02 is the partial pressure of oxygen in the pulmonary artery
+- Pa02 is the partial pressure of oxygen in the pulmonary artery
 
-  * PA02 is the partial pressure of oxygen in the alveolar sac
+- PA02 is the partial pressure of oxygen in the alveolar sac
 
-To calculate the PAO2 and Pa02 
+To calculate the PAO2 and Pa02
 
-  * PAO2 = FiO2 (P atmospheric - P water vapor) – (PCO2/R).
+- PAO2 = FiO2 (P atmospheric - P water vapor) – (PCO2/R).
 
-  * PaO2 = partial pressure of oxygen in the pulmonary artery.
+- PaO2 = partial pressure of oxygen in the pulmonary artery.
 
 PaO2 in arterial blood gas can be used as follows.
 
-  * FiO2 is the concentration of inspired oxygen expressed as a fraction.
+- FiO2 is the concentration of inspired oxygen expressed as a fraction.
 
 This is around 0.21 at room air.
 
-  * P atmospheric is the barometric pressure (760 mmHg at sea level).
+- P atmospheric is the barometric pressure (760 mmHg at sea level).
 
-  * P water vapor is the water vapor pressure (48 mmHg at 37 C).
+- P water vapor is the water vapor pressure (48 mmHg at 37 C).
 
-  * PaCO2 is the partial pressure of alveolar carbon dioxide.
+- PaCO2 is the partial pressure of alveolar carbon dioxide.
 
 If approximated, this is presumed to be equal to arterial PCO2. PACO2 is presumed to be equal to 40 mmHg
 
-  * R is the respiratory quotient, equating to about 0.8 on a regular diet.
+- R is the respiratory quotient, equating to about 0.8 on a regular diet.
 
-The normal alveolar partial pressure of oxygen is as follows: 
+The normal alveolar partial pressure of oxygen is as follows:
 
-  * PA02 = alveolar partial pressure of O2 = FiO2 × (patmospheric - P water vapor) - (PCO2/R).
+- PA02 = alveolar partial pressure of O2 = FiO2 × (patmospheric - P water vapor) - (PCO2/R).
 
-  * 0.21 × (760 - 48) - (40/0.8) = 150-50 = 100 mmHg
+- 0.21 × (760 - 48) - (40/0.8) = 150-50 = 100 mmHg
 
 The normal partial pressure of oxygen in arterial blood is between 75 to 100mmHg.
 
-  * PA02 - Pa02 = 100 mmHg - 75 mm = 25 mmHg
+- PA02 - Pa02 = 100 mmHg - 75 mm = 25 mmHg
 
-  * PA02-Pa02 =100 mmHg -100 mmHg = 0 mmHg
+- PA02-Pa02 =100 mmHg -100 mmHg = 0 mmHg
 
 This implies that the A-a gradient can have values that range from 0 to 25 mmHg
 
@@ -333,45 +332,45 @@ Blood, urine, and sputum analysis might show the presence of fat globules. Again
 
 **Imaging Studies**
 
-**_Chest X-ray_ **
+\*\*_Chest X-ray_ \*\*
 
 The chest X-ray reveals the presence of the following:
 
-  * Diffuse interstitial marking
+- Diffuse interstitial marking
 
-  * Pulmonary edema
+- Pulmonary edema
 
-  * Lung infiltrate
+- Lung infiltrate
 
-  * Flake-like pulmonary marking (snowstorm appearance)31
+- Flake-like pulmonary marking (snowstorm appearance)31
 
-**_CAT scan of the Chest_ **
+\*\*_CAT scan of the Chest_ \*\*
 
-  * Area of increased vascular congestion
+- Area of increased vascular congestion
 
-  * Pulmonary edema
+- Pulmonary edema
 
-**_Imaging of the Brain_ **
+\*\*_Imaging of the Brain_ \*\*
 
 CT scan is not a very sensitive imaging study of the brain in FES. Still, it can be used to exclude other causes of altered mental status, such as epidural, subdural, or subarachnoid bleeding. MRI is the most sensitive test that can be used to demonstrate changes in the brain related to FES. Takahashi et al categorized these changes into the following 4 grades based on the size and distribution of the lesions in T2-weighted imaging:
 
-  * Grade 0 - normal
+- Grade 0 - normal
 
-  * Grade 1 - mild
+- Grade 1 - mild
 
-  * Grade 2 - moderate
+- Grade 2 - moderate
 
-  * Grade 3 - severe
+- Grade 3 - severe
 
 Lesions seen in FES are distributed in the following areas of the brain:
 
-  * Centrum semi vale
+- Centrum semi vale
 
-  * Subcortical white matter
+- Subcortical white matter
 
-  * Ganglionic regions
+- Ganglionic regions
 
-  * Thalamus
+- Thalamus
 
 The authors demonstrated that the resolution of these lesions correlates well with clinical recovery from FES. Some of these lesions develop as a result of vasogenic edema from FFA, which is potentially neurotoxic. Transesophageal echocardiography may be utilized intraoperatively to monitor the release of fat globules or bone marrow materials into the bloodstream during intramedullary nailing and reaming. Fat emboli in the pulmonary artery can increase the pulmonary artery wedge pressure and right ventricular afterload.
 
@@ -381,11 +380,11 @@ The authors demonstrated that the resolution of these lesions correlates well wi
 
 There is no specific treatment for fat embolism or FES. Based on experimental studies, an attempt was made to use dextrose infusion to decrease FFA mobilization. Ethanol also was used as an agent to inhibit lipolysis. In clinical practice, there were no proven benefits.[6][7][8] Experimental use of heparin in an animal model was found to be beneficial but is no longer used in clinical practice because of the potential risk of bleeding. There has not been a proven clinical benefit with heparin in FES. Therapy with corticosteroids has been proposed for the treatment of FES based on the following effects:
 
-  * Inhibition of complement-activated leucocyte aggregation
+- Inhibition of complement-activated leucocyte aggregation
 
-  * Limiting FFA level
+- Limiting FFA level
 
-  * Membrane stabilization
+- Membrane stabilization
 
 A meta-analysis of 7 randomized control trials using corticosteroid prophylaxis showed a close to 77% reduction in the risk for FES in a patient with a long bone fracture. However, there is no difference in mortality, infection, or avascular necrosis between the treatment group and the control group. For this reason, the use of corticosteroids is still very controversial.
 
@@ -397,11 +396,11 @@ This has been proposed as a measure to prevent the showering of fat emboli. Howe
 
 It is highly recommended that early open reduction and internal fixation of long bone fractures be started. The incidence of FES is higher in a patient with long bone fractures who are managed conservatively. Using internal fixation devices in managing long bone fractures significantly reduces the incidence of FES. During operative fixation of the long bone fracture, care must be taken to limit the intramedullary pressure, as high pressure is associated with increased fat emboli entering the systemic circulation. Some techniques utilized in orthopedic surgery to reduce embolization include:
 
-  * Lavage of bone marrow before fixation
+- Lavage of bone marrow before fixation
 
-  * Venting of the femoral bone
+- Venting of the femoral bone
 
-  * Drilling of small holes in the cortex of the bone to lower intramedullary pressure
+- Drilling of small holes in the cortex of the bone to lower intramedullary pressure
 
 None of these maneuvers has been shown to reduce FES.
 
@@ -411,15 +410,15 @@ Once a patient develops FES, this is the mainstay treatment. Supportive care is 
 
 **Goals of Supportive Care**
 
-  * Provision of adequate oxygenation and ventilation
+- Provision of adequate oxygenation and ventilation
 
-  * Maintenance of adequate hemodynamic stability
+- Maintenance of adequate hemodynamic stability
 
-  * Transfusion of packed red blood cells to improve oxygen delivery if indicated
+- Transfusion of packed red blood cells to improve oxygen delivery if indicated
 
-  * Prophylaxis of deep venous thrombosis with a sequential compression device
+- Prophylaxis of deep venous thrombosis with a sequential compression device
 
-  * Adequate nutrition and hydration
+- Adequate nutrition and hydration
 
 Supplemental oxygen might be required, and if the patient develops fulminant acute respiratory distress syndrome, intubation, and mechanical ventilation might be required.
 
@@ -429,17 +428,17 @@ Albumin is recommended as part of the resuscitation tools for hypovolemia. It re
 
 **Indications for Intubation**
 
-  * Altered mental status with Glasgow coma score of less than 8
+- Altered mental status with Glasgow coma score of less than 8
 
-  * Moderate to several respiratory distresses with no improvement in noninvasive support
+- Moderate to several respiratory distresses with no improvement in noninvasive support
 
 FES might also cause pulmonary hypertension with right ventricular failure. Inotropic support with dobutamine or a phosphodiesterase inhibitor like milrinone might be required. Cerebral edema, if present, might require management with the following:
 
-  * Mannitol
+- Mannitol
 
-  * Hypertonic saline
+- Hypertonic saline
 
-  * Intracranial pressure monitors
+- Intracranial pressure monitors
 
 ## Differential Diagnosis
 
@@ -453,17 +452,17 @@ FES and fat embolism should be distinguished from pulmonary contusion, pulmonary
 
 Clinical conditions affecting the central nervous system that should be considered in the differential diagnosis:
 
-  * Meningitis
+- Meningitis
 
-  * Encephalitis
+- Encephalitis
 
-  * Brain tumor
+- Brain tumor
 
-  * Epidural
+- Epidural
 
-  * Subdural
+- Subdural
 
-  * Subarachnoid bleed
+- Subarachnoid bleed
 
 All the conditions listed above can cause altered mental status with a change in the Glasgow Coma Scale mimicking FES. CAT scan of the brain can help delineate a bleed or tumor. Meningitis and encephalitis can be ruled out with a lumbar puncture and cerebrospinal fluid analysis
 
@@ -471,11 +470,11 @@ All the conditions listed above can cause altered mental status with a change in
 
 The following conditions can present with petechial skin rashes
 
-  * Idiopathic thrombocytopenic purpura
+- Idiopathic thrombocytopenic purpura
 
-  * Thrombotic thrombocytopenic purpura
+- Thrombotic thrombocytopenic purpura
 
-  * Leukemia
+- Leukemia
 
 All these blood disorders should be considered in the presence of skin rash and other associated clinical signs and symptoms. Consultation with a hematologist/oncologist and dermatologist can help in the clinical diagnosis.
 
@@ -483,74 +482,60 @@ All these blood disorders should be considered in the presence of skin rash and 
 
 In patients with traumatic FES, the prognosis depends on early open reduction and internal fixation of the long bone fracture. Most patients with adequate support therapy can recover from the neurological, respiratory, and retinal changes associated with FES. The most recent studies approximate mortality between 7% to 10%. The most common causes of morbidity or mortality include acute respiratory distress syndrome, ARDS, and cerebral edema.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 An interprofessional team is best able to diagnose and manage fat embolism. The diagnosis is not always simple, and there is no specific treatment for the disorder. The key is keeping the patient hydrated and promptly immobilizing or fixing the fractured limb. Many agents have been recommended for treating fat embolism, but none have proven reliable or consistently effective. A meta-analysis of seven randomized control trials using corticosteroid prophylaxis showed a close to 77% reduction in the risk for FES in a patient with a long bone fracture. There is, however, no difference in mortality, infection, or avascular necrosis between the treatment group and the control group. For this reason, the use of corticosteroids is still very controversial. The prognosis of patients with fat embolism depends on early open reduction and internal fixation of the long bone fracture. Most patients with adequate support therapy can recover from the neurological, respiratory, and retinal changes associated with FES. Delays in treatment can lead to ARDs, cerebral edema, and a mortality rate that averages 7%.[9][10]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=21632&utm_source=pubmed&utm_campaign=reviews&utm_content=21632)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=21632&utm_source=pubmed&utm_campaign=reviews&utm_content=21632)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/health/fat-embolism/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=21632)
+- [Click here for a simplified version.](https://mdsearchlight.com/health/fat-embolism/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=21632)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/21632/?utm_source=pubmed&utm_campaign=comments&utm_content=21632)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/21632/?utm_source=pubmed&utm_campaign=comments&utm_content=21632)
 
 ## References
 
 1.
-    
 
-Shaikh N, Mahmood Z, Ghuori SI, Chanda A, Ganaw A, Zeeshan Q, Ehfeda M, Mohamed Belkhair AO, Zubair M, Kazi ST, Momin U. Correlation of clinical parameters with imaging findings to confirm the diagnosis of fat embolism syndrome. Int J Burns Trauma. 2018;8(5):135-144. [[PMC free article: PMC6261919](/pmc/articles/PMC6261919/)] [[PubMed: 30515352](https://pubmed.ncbi.nlm.nih.gov/30515352)]
+Shaikh N, Mahmood Z, Ghuori SI, Chanda A, Ganaw A, Zeeshan Q, Ehfeda M, Mohamed Belkhair AO, Zubair M, Kazi ST, Momin U. Correlation of clinical parameters with imaging findings to confirm the diagnosis of fat embolism syndrome. Int J Burns Trauma. 2018;8(5):135-144. \[[PMC free article: PMC6261919](/pmc/articles/PMC6261919/)\] \[[PubMed: 30515352](https://pubmed.ncbi.nlm.nih.gov/30515352)\]
 
 2.
-    
 
-Uransilp N, Muengtaweepongsa S, Chanalithichai N, Tammachote N. Fat Embolism Syndrome: A Case Report and Review Literature. Case Rep Med. 2018;2018:1479850. [[PMC free article: PMC5949181](/pmc/articles/PMC5949181/)] [[PubMed: 29853905](https://pubmed.ncbi.nlm.nih.gov/29853905)]
+Uransilp N, Muengtaweepongsa S, Chanalithichai N, Tammachote N. Fat Embolism Syndrome: A Case Report and Review Literature. Case Rep Med. 2018;2018:1479850. \[[PMC free article: PMC5949181](/pmc/articles/PMC5949181/)\] \[[PubMed: 29853905](https://pubmed.ncbi.nlm.nih.gov/29853905)\]
 
 3.
-    
 
-Fukumoto LE, Fukumoto KD. Fat Embolism Syndrome. Nurs Clin North Am. 2018 Sep;53(3):335-347. [[PubMed: 30100000](https://pubmed.ncbi.nlm.nih.gov/30100000)]
+Fukumoto LE, Fukumoto KD. Fat Embolism Syndrome. Nurs Clin North Am. 2018 Sep;53(3):335-347. \[[PubMed: 30100000](https://pubmed.ncbi.nlm.nih.gov/30100000)\]
 
 4.
-    
 
-Berlot G, Bussani R, Shafiei V, Zarrillo N. Fulminant Cerebral Fat Embolism: Case Description and Review of the Literature. Case Rep Crit Care. 2018;2018:7813175. [[PMC free article: PMC6076907](/pmc/articles/PMC6076907/)] [[PubMed: 30105101](https://pubmed.ncbi.nlm.nih.gov/30105101)]
+Berlot G, Bussani R, Shafiei V, Zarrillo N. Fulminant Cerebral Fat Embolism: Case Description and Review of the Literature. Case Rep Crit Care. 2018;2018:7813175. \[[PMC free article: PMC6076907](/pmc/articles/PMC6076907/)\] \[[PubMed: 30105101](https://pubmed.ncbi.nlm.nih.gov/30105101)\]
 
 5.
-    
 
-Pane TA. Experience With High-Volume Buttock Fat Transfer: A Report of 137 Cases. Aesthet Surg J. 2019 Apr 08;39(5):526-532. [[PubMed: 30099491](https://pubmed.ncbi.nlm.nih.gov/30099491)]
+Pane TA. Experience With High-Volume Buttock Fat Transfer: A Report of 137 Cases. Aesthet Surg J. 2019 Apr 08;39(5):526-532. \[[PubMed: 30099491](https://pubmed.ncbi.nlm.nih.gov/30099491)\]
 
 6.
-    
 
-Blokhuis TJ, Pape HC, Frölke JP. Timing of definitive fixation of major long bone fractures: Can fat embolism syndrome be prevented? Injury. 2017 Jun;48 Suppl 1:S3-S6. [[PubMed: 28449860](https://pubmed.ncbi.nlm.nih.gov/28449860)]
+Blokhuis TJ, Pape HC, Frölke JP. Timing of definitive fixation of major long bone fractures: Can fat embolism syndrome be prevented? Injury. 2017 Jun;48 Suppl 1:S3-S6. \[[PubMed: 28449860](https://pubmed.ncbi.nlm.nih.gov/28449860)\]
 
 7.
-    
 
-Pape HC, Giannoudis P, Krettek C. The timing of fracture treatment in polytrauma patients: relevance of damage control orthopedic surgery. Am J Surg. 2002 Jun;183(6):622-9. [[PubMed: 12095590](https://pubmed.ncbi.nlm.nih.gov/12095590)]
+Pape HC, Giannoudis P, Krettek C. The timing of fracture treatment in polytrauma patients: relevance of damage control orthopedic surgery. Am J Surg. 2002 Jun;183(6):622-9. \[[PubMed: 12095590](https://pubmed.ncbi.nlm.nih.gov/12095590)\]
 
 8.
-    
 
-Dorr LD, Merkel C, Mellman MF, Klein I. Fat emboli in bilateral total knee arthroplasty. Predictive factors for neurologic manifestations. Clin Orthop Relat Res. 1989 Nov;(248):112-8; discussion 118-9. [[PubMed: 2805467](https://pubmed.ncbi.nlm.nih.gov/2805467)]
+Dorr LD, Merkel C, Mellman MF, Klein I. Fat emboli in bilateral total knee arthroplasty. Predictive factors for neurologic manifestations. Clin Orthop Relat Res. 1989 Nov;(248):112-8; discussion 118-9. \[[PubMed: 2805467](https://pubmed.ncbi.nlm.nih.gov/2805467)\]
 
 9.
-    
 
-Jorgensen A, Bashir A, Satpathy J. Cerebral fat embolism syndrome (FES): similar cases with different outcomes. BMJ Case Rep. 2018 Oct 08;2018 [[PMC free article: PMC6194366](/pmc/articles/PMC6194366/)] [[PubMed: 30301725](https://pubmed.ncbi.nlm.nih.gov/30301725)]
+Jorgensen A, Bashir A, Satpathy J. Cerebral fat embolism syndrome (FES): similar cases with different outcomes. BMJ Case Rep. 2018 Oct 08;2018 \[[PMC free article: PMC6194366](/pmc/articles/PMC6194366/)\] \[[PubMed: 30301725](https://pubmed.ncbi.nlm.nih.gov/30301725)\]
 
 10.
-    
 
-Misra I, Glasgow J, Moosavy F. Fat Emboli Syndrome. Del Med J. 2017 May;89(5):148-150. [[PubMed: 29894029](https://pubmed.ncbi.nlm.nih.gov/29894029)]
-
-    
+Misra I, Glasgow J, Moosavy F. Fat Emboli Syndrome. Del Med J. 2017 May;89(5):148-150. \[[PubMed: 29894029](https://pubmed.ncbi.nlm.nih.gov/29894029)\]
 
 **Disclosure:** Adebayo Adeyinka declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Louisdon Pierre declares no relevant financial relationships with ineligible companies.

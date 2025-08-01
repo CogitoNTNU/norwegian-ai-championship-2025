@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27140/
-scraped_date: 2025-07-22 12:50:57 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27140/ scraped_date: 2025-07-22 12:50:57 UTC
 
 # Biochemistry, Phospholipase A2
 
@@ -31,7 +30,7 @@ Phospholipase A (PLA) comprises a supergroup of esterase enzymes present in all 
 
 PLA plays several important physiologic roles, including the production of inflammatory eicosanoid compounds from arachidonic acid. These compounds are involved in the pathogenesis of various inflammatory conditions, including rheumatoid arthritis, atherosclerosis, multiple forms of cancer, cardiovascular disease, and other inflammatory diseases. The advent of pharmacological compounds that function as PLA inhibitors serves an exciting role in our future approach to treating various inflammatory conditions.[1][2]
 
-## Molecular Level 
+## Molecular Level
 
 **Secretory PLA**
 
@@ -143,65 +142,50 @@ Due to its well-studied role in the pathogenesis of atherosclerosis, researchers
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27140&utm_source=pubmed&utm_campaign=reviews&utm_content=27140)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27140&utm_source=pubmed&utm_campaign=reviews&utm_content=27140)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27140/?utm_source=pubmed&utm_campaign=comments&utm_content=27140)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27140/?utm_source=pubmed&utm_campaign=comments&utm_content=27140)
 
 ## References
 
 1.
-    
 
-Dennis EA, Cao J, Hsu YH, Magrioti V, Kokotos G. Phospholipase A2 enzymes: physical structure, biological function, disease implication, chemical inhibition, and therapeutic intervention. Chem Rev. 2011 Oct 12;111(10):6130-85. [[PMC free article: PMC3196595](/pmc/articles/PMC3196595/)] [[PubMed: 21910409](https://pubmed.ncbi.nlm.nih.gov/21910409)]
+Dennis EA, Cao J, Hsu YH, Magrioti V, Kokotos G. Phospholipase A2 enzymes: physical structure, biological function, disease implication, chemical inhibition, and therapeutic intervention. Chem Rev. 2011 Oct 12;111(10):6130-85. \[[PMC free article: PMC3196595](/pmc/articles/PMC3196595/)\] \[[PubMed: 21910409](https://pubmed.ncbi.nlm.nih.gov/21910409)\]
 
 2.
-    
 
-Magrioti V, Kokotos G. Phospholipase A2 inhibitors for the treatment of inflammatory diseases: a patent review (2010--present). Expert Opin Ther Pat. 2013 Mar;23(3):333-44. [[PubMed: 23294257](https://pubmed.ncbi.nlm.nih.gov/23294257)]
+Magrioti V, Kokotos G. Phospholipase A2 inhibitors for the treatment of inflammatory diseases: a patent review (2010--present). Expert Opin Ther Pat. 2013 Mar;23(3):333-44. \[[PubMed: 23294257](https://pubmed.ncbi.nlm.nih.gov/23294257)\]
 
 3.
-    
 
-Glukhova A, Hinkovska-Galcheva V, Kelly R, Abe A, Shayman JA, Tesmer JJ. Structure and function of lysosomal phospholipase A2 and lecithin:cholesterol acyltransferase. Nat Commun. 2015 Mar 02;6:6250. [[PMC free article: PMC4397983](/pmc/articles/PMC4397983/)] [[PubMed: 25727495](https://pubmed.ncbi.nlm.nih.gov/25727495)]
+Glukhova A, Hinkovska-Galcheva V, Kelly R, Abe A, Shayman JA, Tesmer JJ. Structure and function of lysosomal phospholipase A2 and lecithin:cholesterol acyltransferase. Nat Commun. 2015 Mar 02;6:6250. \[[PMC free article: PMC4397983](/pmc/articles/PMC4397983/)\] \[[PubMed: 25727495](https://pubmed.ncbi.nlm.nih.gov/25727495)\]
 
 4.
-    
 
-Wolf G. Adipose-specific phospholipase as regulator of adiposity. Nutr Rev. 2009 Sep;67(9):551-4. [[PubMed: 19703262](https://pubmed.ncbi.nlm.nih.gov/19703262)]
+Wolf G. Adipose-specific phospholipase as regulator of adiposity. Nutr Rev. 2009 Sep;67(9):551-4. \[[PubMed: 19703262](https://pubmed.ncbi.nlm.nih.gov/19703262)\]
 
 5.
-    
 
-Naini SM, Choukroun GJ, Ryan JR, Hentschel DM, Shah JV, Bonventre JV. Cytosolic phospholipase A2α regulates G1 progression through modulating FOXO1 activity. FASEB J. 2016 Mar;30(3):1155-70. [[PMC free article: PMC4750418](/pmc/articles/PMC4750418/)] [[PubMed: 26644349](https://pubmed.ncbi.nlm.nih.gov/26644349)]
+Naini SM, Choukroun GJ, Ryan JR, Hentschel DM, Shah JV, Bonventre JV. Cytosolic phospholipase A2α regulates G1 progression through modulating FOXO1 activity. FASEB J. 2016 Mar;30(3):1155-70. \[[PMC free article: PMC4750418](/pmc/articles/PMC4750418/)\] \[[PubMed: 26644349](https://pubmed.ncbi.nlm.nih.gov/26644349)\]
 
 6.
-    
 
-Schneider BE, Behrends J, Hagens K, Harmel N, Shayman JA, Schaible UE. Lysosomal phospholipase A2: a novel player in host immunity to Mycobacterium tuberculosis. Eur J Immunol. 2014 Aug;44(8):2394-404. [[PubMed: 24825529](https://pubmed.ncbi.nlm.nih.gov/24825529)]
+Schneider BE, Behrends J, Hagens K, Harmel N, Shayman JA, Schaible UE. Lysosomal phospholipase A2: a novel player in host immunity to Mycobacterium tuberculosis. Eur J Immunol. 2014 Aug;44(8):2394-404. \[[PubMed: 24825529](https://pubmed.ncbi.nlm.nih.gov/24825529)\]
 
 7.
-    
 
-Murakami M, Taketomi Y, Miki Y, Sato H, Hirabayashi T, Yamamoto K. Recent progress in phospholipase A₂ research: from cells to animals to humans. Prog Lipid Res. 2011 Apr;50(2):152-92. [[PubMed: 21185866](https://pubmed.ncbi.nlm.nih.gov/21185866)]
+Murakami M, Taketomi Y, Miki Y, Sato H, Hirabayashi T, Yamamoto K. Recent progress in phospholipase A₂ research: from cells to animals to humans. Prog Lipid Res. 2011 Apr;50(2):152-92. \[[PubMed: 21185866](https://pubmed.ncbi.nlm.nih.gov/21185866)\]
 
 8.
-    
 
-Amigoni A, Pettenazzo A, Stritoni V, Circelli M. Surfactants in Acute Respiratory Distress Syndrome in Infants and Children: Past, Present and Future. Clin Drug Investig. 2017 Aug;37(8):729-736. [[PMC free article: PMC5509808](/pmc/articles/PMC5509808/)] [[PubMed: 28510235](https://pubmed.ncbi.nlm.nih.gov/28510235)]
+Amigoni A, Pettenazzo A, Stritoni V, Circelli M. Surfactants in Acute Respiratory Distress Syndrome in Infants and Children: Past, Present and Future. Clin Drug Investig. 2017 Aug;37(8):729-736. \[[PMC free article: PMC5509808](/pmc/articles/PMC5509808/)\] \[[PubMed: 28510235](https://pubmed.ncbi.nlm.nih.gov/28510235)\]
 
 9.
-    
 
-Amer MD, Hedlund E, Rochester J, Caplan MS. Platelet-activating factor concentration in the stool of human newborns: effects of enteral feeding and neonatal necrotizing enterocolitis. Biol Neonate. 2004;85(3):159-66. [[PubMed: 14646336](https://pubmed.ncbi.nlm.nih.gov/14646336)]
-
-    
+Amer MD, Hedlund E, Rochester J, Caplan MS. Platelet-activating factor concentration in the stool of human newborns: effects of enteral feeding and neonatal necrotizing enterocolitis. Biol Neonate. 2004;85(3):159-66. \[[PubMed: 14646336](https://pubmed.ncbi.nlm.nih.gov/14646336)\]
 
 **Disclosure:** Jarett Casale declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Salah Eddine Kacimi declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Matthew Varacallo declares no relevant financial relationships with ineligible companies.

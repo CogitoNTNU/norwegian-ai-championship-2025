@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20325/
-scraped_date: 2025-07-22 12:46:11 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20325/ scraped_date: 2025-07-22 12:46:11 UTC
 
 # Delirium
 
@@ -29,13 +28,13 @@ Delirium is a clinical syndrome that usually develops in the elderly. It is char
 
 **Objectives:**
 
-  * Identify the causes of delirium.
+- Identify the causes of delirium.
 
-  * Evaluate the treatment of delirium.
+- Evaluate the treatment of delirium.
 
-  * Assess the evaluation of a patient with delirium.
+- Assess the evaluation of a patient with delirium.
 
-  * Communicate the evaluation and management of delirium and the role of interprofessional team members in collaborating to provide well-coordinated care and enhance patient outcomes.
+- Communicate the evaluation and management of delirium and the role of interprofessional team members in collaborating to provide well-coordinated care and enhance patient outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20325&utm_source=pubmed&utm_campaign=reviews&utm_content=20325)
 
@@ -57,19 +56,19 @@ The prevalence of delirium is higher in the elderly population. It is a common s
 
 ## Pathophysiology
 
-There is no single mechanism to explain the etiology of delirium. It is a complicated and multifactorial process. Several hypotheses describe different aspects of the pathophysiology of delirium, and multiple processes are likely to occur simultaneously to create the delirium syndrome. 
+There is no single mechanism to explain the etiology of delirium. It is a complicated and multifactorial process. Several hypotheses describe different aspects of the pathophysiology of delirium, and multiple processes are likely to occur simultaneously to create the delirium syndrome.
 
 **Increased Age**
 
-Changes associated with age lead to diminished physiologic reserve and increased vulnerability to physical stress and illness. Some changes associated with age include decreased brain blood perfusion, increased neuron loss, and changes in the proportion of stress-regulating neurotransmitters. 
+Changes associated with age lead to diminished physiologic reserve and increased vulnerability to physical stress and illness. Some changes associated with age include decreased brain blood perfusion, increased neuron loss, and changes in the proportion of stress-regulating neurotransmitters.
 
 **Neuroinflammation**
 
-Peripheral inflammatory insults damage endothelial cell-cell adhesions at the blood-brain barrier. The increased endothelial permeability promotes inflammation in the central nervous system, causing further damage, ischemia, and neuronal death. 
+Peripheral inflammatory insults damage endothelial cell-cell adhesions at the blood-brain barrier. The increased endothelial permeability promotes inflammation in the central nervous system, causing further damage, ischemia, and neuronal death.
 
 **Reactive Oxidation Species**
 
-Reactive oxygen species and reactive nitrogen species are mediators of cellular damage. The central nervous system is particularly vulnerable to reactive oxygen species due to its high lipid content and low antioxidant capacity. 
+Reactive oxygen species and reactive nitrogen species are mediators of cellular damage. The central nervous system is particularly vulnerable to reactive oxygen species due to its high lipid content and low antioxidant capacity.
 
 **Circadian Rhythm Dysregulation**
 
@@ -87,39 +86,39 @@ Increased glucocorticoid release in response to physiologic stress increases the
 
 Delirium is a potential indicator of a life-threatening illness, and every episode of delirium should be appropriately evaluated. The evaluation involves taking a thorough history, a complete physical exam, laboratory tests, and possible imaging. The test selections should be based on information obtained from the history and physical examination, considering that delirium is often multifactorial in etiology and can be influenced by several predisposing factors, precipitating factors, or both.
 
-Delirium is often referred to in 3 main manifestations. 
+Delirium is often referred to in 3 main manifestations.
 
-1) Hyperactive Delirium: Patients present with increased agitation and sympathetic activity. They can present with hallucinations, delusions, and occasionally combative or uncooperative behavior.
+1. Hyperactive Delirium: Patients present with increased agitation and sympathetic activity. They can present with hallucinations, delusions, and occasionally combative or uncooperative behavior.
 
-2) Hypoactive Delirium: Patients have increased somnolence and decreased arousal. Hypoactive delirium is dangerous as it is often unrecognized or mistaken for fatigue or depression. It is associated with higher rates of morbidity and mortality. 
+1. Hypoactive Delirium: Patients have increased somnolence and decreased arousal. Hypoactive delirium is dangerous as it is often unrecognized or mistaken for fatigue or depression. It is associated with higher rates of morbidity and mortality.
 
-3) Mixed Presentation: Patients can fluctuate between Hyperactive and Hypoactive presentations.[3]
+1. Mixed Presentation: Patients can fluctuate between Hyperactive and Hypoactive presentations.[3]
 
-Delirium is defined by the DSM-5 (Diagnostic and Statistical Manual of Mental Disorders Fifth Edition) and includes the presence of all of the following criteria: 
+Delirium is defined by the DSM-5 (Diagnostic and Statistical Manual of Mental Disorders Fifth Edition) and includes the presence of all of the following criteria:
 
-  * Disturbance in attention and awareness develops acutely and tends to fluctuate in severity.
+- Disturbance in attention and awareness develops acutely and tends to fluctuate in severity.
 
-  * At least one additional disturbance in cognition
+- At least one additional disturbance in cognition
 
-  * Disturbances are not better explained by preexisting dementia.
+- Disturbances are not better explained by preexisting dementia.
 
-  * Disturbances do not occur in the context of a severely reduced level of arousal or coma.
+- Disturbances do not occur in the context of a severely reduced level of arousal or coma.
 
-  * Evidence of an underlying organic cause or causes.[11]
+- Evidence of an underlying organic cause or causes.[11]
 
 Other features include alterations in the sleep-wake cycle, perceptual disturbances, delusions, inappropriate or unsafe behavior, and emotional lability.[12] Detection is the first step in evaluation and treatment. The syndrome of delirium presents over hours to days. A recent study estimated that delirium is unrecognized in up to 60% of cases. It is much easier to detect hyperactive delirium because patients often cause a disturbance in their environment. However, hypoactive delirium is often missed as patients are less disruptive. Caregivers may provide clues to the presence of hypoactive delirium with comments such as "They are sleeping more than usual," "They haven't eaten much in the last few days," or "I'm worried they are depressed; they just stay in their room all day." Several tools have been developed in a monitored setting to help detect delirium. One of the tools with the most widespread use is the Confusion Assessment Method (CAM). It has been validated with a sensitivity of 94% to 100% and specificity of 90% to 95% in the diagnosis of delirium, and it includes the following criteria:
 
 The presence of delirium requires features 1 and 2 and either 3 or 4:
 
-  1. Acute change in mental status with a fluctuating course
+1. Acute change in mental status with a fluctuating course
 
-  2. Inattention (reduced ability to sustain attention and follow conversations)
+1. Inattention (reduced ability to sustain attention and follow conversations)
 
-  3. Disorganized thinking (problems with memory, orientation, or language)
+1. Disorganized thinking (problems with memory, orientation, or language)
 
-  4. Altered level of consciousness (hypervigilance, drowsiness, or stupor) 
+1. Altered level of consciousness (hypervigilance, drowsiness, or stupor)
 
-The CAM has been adapted for target populations, including the CAM-ICU, which added nonverbal tasks for ventilated patients. Adaptations have also been made for the emergency department and those residing in nursing homes.[13] When evaluating a patient with delirium, it is important to speak with caregivers or other people who know the patient well. Many patients with delirium have underlying dementia, and knowing the baseline functional status of a patient is critical to understanding whether acute changes have occurred. Other important questions to ask while taking the history include: Have there been any medication changes? Drug-related causes account for up to 39% of delirium cases.[14] Have there been any new symptoms such as cough, fever, headache, dysuria, expressions of pain, or change in eating or bowel and urinary habits? Has there been any sleep deprivation or changes to their environment? Have there been any falls? This may prompt the need for brain imaging. It may also suggest the need for X-rays to evaluate for bone fractures. It is also imperative to carefully review recent and current medications. If possible, avoid drugs known to precipitate and perpetuate delirium, including psychoactive or anticholinergic medications. 
+The CAM has been adapted for target populations, including the CAM-ICU, which added nonverbal tasks for ventilated patients. Adaptations have also been made for the emergency department and those residing in nursing homes.[13] When evaluating a patient with delirium, it is important to speak with caregivers or other people who know the patient well. Many patients with delirium have underlying dementia, and knowing the baseline functional status of a patient is critical to understanding whether acute changes have occurred. Other important questions to ask while taking the history include: Have there been any medication changes? Drug-related causes account for up to 39% of delirium cases.[14] Have there been any new symptoms such as cough, fever, headache, dysuria, expressions of pain, or change in eating or bowel and urinary habits? Has there been any sleep deprivation or changes to their environment? Have there been any falls? This may prompt the need for brain imaging. It may also suggest the need for X-rays to evaluate for bone fractures. It is also imperative to carefully review recent and current medications. If possible, avoid drugs known to precipitate and perpetuate delirium, including psychoactive or anticholinergic medications.
 
 ## Evaluation
 
@@ -137,21 +136,21 @@ The agent of choice depends on mitigating side effects and the patient's underly
 
 The differential diagnosis for delirium include the following:
 
-  * Dementia
+- Dementia
 
-  * Psychosis
+- Psychosis
 
-  * Depression
+- Depression
 
-  * Paranoia
+- Paranoia
 
-  * Coma
+- Coma
 
-  * Catatonia
+- Catatonia
 
-  * Central nervous system malignancy
+- Central nervous system malignancy
 
-  * Nonconvulsive status epilepticus
+- Nonconvulsive status epilepticus
 
 ## Prognosis
 
@@ -161,47 +160,47 @@ The overall prognosis for patients with delirium is guarded.
 
 The complications that can manifest with delirium are as follows:
 
-  * Aspiration pneumonia
+- Aspiration pneumonia
 
-  * Pressure ulcers
+- Pressure ulcers
 
-  * Weakness, decreased mobility, and decreased function
+- Weakness, decreased mobility, and decreased function
 
-  * Falls and combative behavior leading to injuries and fractures
+- Falls and combative behavior leading to injuries and fractures
 
-  * Malnutrition, fluid, and electrolyte abnormalities
+- Malnutrition, fluid, and electrolyte abnormalities
 
-  * Long-term cognitive impairment: Accumulating evidence shows that delirium is not only a transient, reversible acute confusion but also can give rise to persistent long-term cognitive impairment
+- Long-term cognitive impairment: Accumulating evidence shows that delirium is not only a transient, reversible acute confusion but also can give rise to persistent long-term cognitive impairment
 
-  * Increased mortality
+- Increased mortality
 
 ## Deterrence and Patient Education
 
 To reduce delirium:
 
-  * Promote sleep hygiene
+- Promote sleep hygiene
 
-  * Mobilize patient early
+- Mobilize patient early
 
-  * Make sure the patient has a hearing aid and glasses
+- Make sure the patient has a hearing aid and glasses
 
-  * Manage pain adequately
+- Manage pain adequately
 
-  * Maintain good hydration and nutrition
+- Maintain good hydration and nutrition
 
-  * Monitor bowel and bladder function
+- Monitor bowel and bladder function
 
-  * Try to detect delirium early
+- Try to detect delirium early
 
-  * Optimize the environment
+- Optimize the environment
 
-  * Avoid any type of stress
+- Avoid any type of stress
 
-  * Communicate with the patient
+- Communicate with the patient
 
-  * Refer to a specialist ASAP
+- Refer to a specialist ASAP
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Delirium is a common disorder seen in hospitalized and clinic-based patients and is associated with increased morbidity and mortality. The diagnosis and management of delirium are complex and best done with an interprofessional team that could include a geriatrician, neurologist, psychiatrist, internist, intensivist, nurses, and physical and occupational therapists. Nurses are often the first to detect the presence of delirium and should communicate their concerns with the interprofessional healthcare team as soon as possible. All providers should maximize efforts to maintain a quiet environment for the patient, maximize sleep at night, encourage mobility and nutrition, ensure patient safety, and communicate with the patient and family.
 
@@ -211,112 +210,88 @@ The primary treatment for delirium is based on prevention and non-pharmacologic 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20325&utm_source=pubmed&utm_campaign=reviews&utm_content=20325)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20325&utm_source=pubmed&utm_campaign=reviews&utm_content=20325)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/health/delirium-confusion/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=20325)
+- [Click here for a simplified version.](https://mdsearchlight.com/health/delirium-confusion/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=20325)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20325/?utm_source=pubmed&utm_campaign=comments&utm_content=20325)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20325/?utm_source=pubmed&utm_campaign=comments&utm_content=20325)
 
 ## References
 
 1.
-    
 
-Mart MF, Williams Roberson S, Salas B, Pandharipande PP, Ely EW. Prevention and Management of Delirium in the Intensive Care Unit. Semin Respir Crit Care Med. 2021 Feb;42(1):112-126. [[PMC free article: PMC7855536](/pmc/articles/PMC7855536/)] [[PubMed: 32746469](https://pubmed.ncbi.nlm.nih.gov/32746469)]
+Mart MF, Williams Roberson S, Salas B, Pandharipande PP, Ely EW. Prevention and Management of Delirium in the Intensive Care Unit. Semin Respir Crit Care Med. 2021 Feb;42(1):112-126. \[[PMC free article: PMC7855536](/pmc/articles/PMC7855536/)\] \[[PubMed: 32746469](https://pubmed.ncbi.nlm.nih.gov/32746469)\]
 
 2.
-    
 
-American Geriatrics Society Expert Panel on Postoperative Delirium in Older Adults. American Geriatrics Society abstracted clinical practice guideline for postoperative delirium in older adults. J Am Geriatr Soc. 2015 Jan;63(1):142-50. [[PMC free article: PMC5901697](/pmc/articles/PMC5901697/)] [[PubMed: 25495432](https://pubmed.ncbi.nlm.nih.gov/25495432)]
+American Geriatrics Society Expert Panel on Postoperative Delirium in Older Adults. American Geriatrics Society abstracted clinical practice guideline for postoperative delirium in older adults. J Am Geriatr Soc. 2015 Jan;63(1):142-50. \[[PMC free article: PMC5901697](/pmc/articles/PMC5901697/)\] \[[PubMed: 25495432](https://pubmed.ncbi.nlm.nih.gov/25495432)\]
 
 3.
-    
 
-Maldonado JR. Delirium pathophysiology: An updated hypothesis of the etiology of acute brain failure. Int J Geriatr Psychiatry. 2018 Nov;33(11):1428-1457. [[PubMed: 29278283](https://pubmed.ncbi.nlm.nih.gov/29278283)]
+Maldonado JR. Delirium pathophysiology: An updated hypothesis of the etiology of acute brain failure. Int J Geriatr Psychiatry. 2018 Nov;33(11):1428-1457. \[[PubMed: 29278283](https://pubmed.ncbi.nlm.nih.gov/29278283)\]
 
 4.
-    
 
-Ford AH. Preventing delirium in dementia: Managing risk factors. Maturitas. 2016 Oct;92:35-40. [[PubMed: 27621236](https://pubmed.ncbi.nlm.nih.gov/27621236)]
+Ford AH. Preventing delirium in dementia: Managing risk factors. Maturitas. 2016 Oct;92:35-40. \[[PubMed: 27621236](https://pubmed.ncbi.nlm.nih.gov/27621236)\]
 
 5.
-    
 
-Alagiakrishnan K, Wiens CA. An approach to drug induced delirium in the elderly. Postgrad Med J. 2004 Jul;80(945):388-93. [[PMC free article: PMC1743055](/pmc/articles/PMC1743055/)] [[PubMed: 15254302](https://pubmed.ncbi.nlm.nih.gov/15254302)]
+Alagiakrishnan K, Wiens CA. An approach to drug induced delirium in the elderly. Postgrad Med J. 2004 Jul;80(945):388-93. \[[PMC free article: PMC1743055](/pmc/articles/PMC1743055/)\] \[[PubMed: 15254302](https://pubmed.ncbi.nlm.nih.gov/15254302)\]
 
 6.
-    
 
-By the 2019 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2019 Updated AGS Beers Criteria® for Potentially Inappropriate Medication Use in Older Adults. J Am Geriatr Soc. 2019 Apr;67(4):674-694. [[PubMed: 30693946](https://pubmed.ncbi.nlm.nih.gov/30693946)]
+By the 2019 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2019 Updated AGS Beers Criteria® for Potentially Inappropriate Medication Use in Older Adults. J Am Geriatr Soc. 2019 Apr;67(4):674-694. \[[PubMed: 30693946](https://pubmed.ncbi.nlm.nih.gov/30693946)\]
 
 7.
-    
 
-Fadare JO, Obimakinde AM, Aina FO, Araromi EJ, Adegbuyi TA, Osasona OE, Agbesanwa TA. Anti-Cholinergic Drug Burden Among Ambulatory Elderly Patients in a Nigerian Tertiary Healthcare Facility. Front Pharmacol. 2021;12:580152. [[PMC free article: PMC7878669](/pmc/articles/PMC7878669/)] [[PubMed: 33584317](https://pubmed.ncbi.nlm.nih.gov/33584317)]
+Fadare JO, Obimakinde AM, Aina FO, Araromi EJ, Adegbuyi TA, Osasona OE, Agbesanwa TA. Anti-Cholinergic Drug Burden Among Ambulatory Elderly Patients in a Nigerian Tertiary Healthcare Facility. Front Pharmacol. 2021;12:580152. \[[PMC free article: PMC7878669](/pmc/articles/PMC7878669/)\] \[[PubMed: 33584317](https://pubmed.ncbi.nlm.nih.gov/33584317)\]
 
 8.
-    
 
-Marcantonio ER. Delirium in Hospitalized Older Adults. N Engl J Med. 2017 Oct 12;377(15):1456-1466. [[PMC free article: PMC5706782](/pmc/articles/PMC5706782/)] [[PubMed: 29020579](https://pubmed.ncbi.nlm.nih.gov/29020579)]
+Marcantonio ER. Delirium in Hospitalized Older Adults. N Engl J Med. 2017 Oct 12;377(15):1456-1466. \[[PMC free article: PMC5706782](/pmc/articles/PMC5706782/)\] \[[PubMed: 29020579](https://pubmed.ncbi.nlm.nih.gov/29020579)\]
 
 9.
-    
 
-Jin Z, Hu J, Ma D. Postoperative delirium: perioperative assessment, risk reduction, and management. Br J Anaesth. 2020 Oct;125(4):492-504. [[PubMed: 32798069](https://pubmed.ncbi.nlm.nih.gov/32798069)]
+Jin Z, Hu J, Ma D. Postoperative delirium: perioperative assessment, risk reduction, and management. Br J Anaesth. 2020 Oct;125(4):492-504. \[[PubMed: 32798069](https://pubmed.ncbi.nlm.nih.gov/32798069)\]
 
 10.
-    
 
-Hshieh TT, Inouye SK, Oh ES. Delirium in the Elderly. Clin Geriatr Med. 2020 May;36(2):183-199. [[PubMed: 32222295](https://pubmed.ncbi.nlm.nih.gov/32222295)]
+Hshieh TT, Inouye SK, Oh ES. Delirium in the Elderly. Clin Geriatr Med. 2020 May;36(2):183-199. \[[PubMed: 32222295](https://pubmed.ncbi.nlm.nih.gov/32222295)\]
 
 11.
-    
 
-Iglseder B, Frühwald T, Jagsch C. Delirium in geriatric patients. Wien Med Wochenschr. 2022 Apr;172(5-6):114-121. [[PMC free article: PMC8744373](/pmc/articles/PMC8744373/)] [[PubMed: 35006521](https://pubmed.ncbi.nlm.nih.gov/35006521)]
+Iglseder B, Frühwald T, Jagsch C. Delirium in geriatric patients. Wien Med Wochenschr. 2022 Apr;172(5-6):114-121. \[[PMC free article: PMC8744373](/pmc/articles/PMC8744373/)\] \[[PubMed: 35006521](https://pubmed.ncbi.nlm.nih.gov/35006521)\]
 
 12.
-    
 
-Sachdev PS, Blacker D, Blazer DG, Ganguli M, Jeste DV, Paulsen JS, Petersen RC. Classifying neurocognitive disorders: the DSM-5 approach. Nat Rev Neurol. 2014 Nov;10(11):634-42. [[PubMed: 25266297](https://pubmed.ncbi.nlm.nih.gov/25266297)]
+Sachdev PS, Blacker D, Blazer DG, Ganguli M, Jeste DV, Paulsen JS, Petersen RC. Classifying neurocognitive disorders: the DSM-5 approach. Nat Rev Neurol. 2014 Nov;10(11):634-42. \[[PubMed: 25266297](https://pubmed.ncbi.nlm.nih.gov/25266297)\]
 
 13.
-    
 
-Wei LA, Fearing MA, Sternberg EJ, Inouye SK. The Confusion Assessment Method: a systematic review of current usage. J Am Geriatr Soc. 2008 May;56(5):823-30. [[PMC free article: PMC2585541](/pmc/articles/PMC2585541/)] [[PubMed: 18384586](https://pubmed.ncbi.nlm.nih.gov/18384586)]
+Wei LA, Fearing MA, Sternberg EJ, Inouye SK. The Confusion Assessment Method: a systematic review of current usage. J Am Geriatr Soc. 2008 May;56(5):823-30. \[[PMC free article: PMC2585541](/pmc/articles/PMC2585541/)\] \[[PubMed: 18384586](https://pubmed.ncbi.nlm.nih.gov/18384586)\]
 
 14.
-    
 
-Catic AG. Identification and management of in-hospital drug-induced delirium in older patients. Drugs Aging. 2011 Sep 01;28(9):737-48. [[PubMed: 21913739](https://pubmed.ncbi.nlm.nih.gov/21913739)]
+Catic AG. Identification and management of in-hospital drug-induced delirium in older patients. Drugs Aging. 2011 Sep 01;28(9):737-48. \[[PubMed: 21913739](https://pubmed.ncbi.nlm.nih.gov/21913739)\]
 
 15.
-    
 
-Ryan SL, Kimchi EY. Evaluation and Management of Delirium. Semin Neurol. 2021 Oct;41(5):572-587. [[PubMed: 34619782](https://pubmed.ncbi.nlm.nih.gov/34619782)]
+Ryan SL, Kimchi EY. Evaluation and Management of Delirium. Semin Neurol. 2021 Oct;41(5):572-587. \[[PubMed: 34619782](https://pubmed.ncbi.nlm.nih.gov/34619782)\]
 
 16.
-    
 
-Michels M, Michelon C, Damásio D, Vitali AM, Ritter C, Dal-Pizzol F. Biomarker Predictors of Delirium in Acutely Ill Patients: A Systematic Review. J Geriatr Psychiatry Neurol. 2019 May;32(3):119-136. [[PubMed: 30852930](https://pubmed.ncbi.nlm.nih.gov/30852930)]
+Michels M, Michelon C, Damásio D, Vitali AM, Ritter C, Dal-Pizzol F. Biomarker Predictors of Delirium in Acutely Ill Patients: A Systematic Review. J Geriatr Psychiatry Neurol. 2019 May;32(3):119-136. \[[PubMed: 30852930](https://pubmed.ncbi.nlm.nih.gov/30852930)\]
 
 17.
-    
 
-Hshieh TT, Yang T, Gartaganis SL, Yue J, Inouye SK. Hospital Elder Life Program: Systematic Review and Meta-analysis of Effectiveness. Am J Geriatr Psychiatry. 2018 Oct;26(10):1015-1033. [[PMC free article: PMC6362826](/pmc/articles/PMC6362826/)] [[PubMed: 30076080](https://pubmed.ncbi.nlm.nih.gov/30076080)]
+Hshieh TT, Yang T, Gartaganis SL, Yue J, Inouye SK. Hospital Elder Life Program: Systematic Review and Meta-analysis of Effectiveness. Am J Geriatr Psychiatry. 2018 Oct;26(10):1015-1033. \[[PMC free article: PMC6362826](/pmc/articles/PMC6362826/)\] \[[PubMed: 30076080](https://pubmed.ncbi.nlm.nih.gov/30076080)\]
 
 18.
-    
 
-Hawkins SB, Bucklin M, Muzyk AJ. Quetiapine for the treatment of delirium. J Hosp Med. 2013 Apr;8(4):215-20. [[PubMed: 23468358](https://pubmed.ncbi.nlm.nih.gov/23468358)]
-
-    
+Hawkins SB, Bucklin M, Muzyk AJ. Quetiapine for the treatment of delirium. J Hosp Med. 2013 Apr;8(4):215-20. \[[PubMed: 23468358](https://pubmed.ncbi.nlm.nih.gov/23468358)\]
 
 **Disclosure:** María de Lourdes Ramírez Echeverría declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Caroline Schoo declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Manju Paul declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18913/
-scraped_date: 2025-07-22 12:43:18 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18913/ scraped_date: 2025-07-22 12:43:18 UTC
 
 # Cardioembolic Stroke
 
@@ -29,13 +28,13 @@ An estimated 26 million people suffer a stroke each year, making it a significan
 
 **Objectives:**
 
-  * Describe the etiology of cardioembolic stroke.
+- Describe the etiology of cardioembolic stroke.
 
-  * Explain the evaluation of a cardioembolic stroke.
+- Explain the evaluation of a cardioembolic stroke.
 
-  * Review the treatment options for cardioembolic strokes.
+- Review the treatment options for cardioembolic strokes.
 
-  * Summarize the importance of improving coordination amongst the interprofessional team to enhance care for patients affected by cardioembolic strokes.
+- Summarize the importance of improving coordination amongst the interprofessional team to enhance care for patients affected by cardioembolic strokes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18913&utm_source=pubmed&utm_campaign=reviews&utm_content=18913)
 
@@ -51,36 +50,41 @@ Cardioembolic strokes can occur as a consequence of any cardiac insult that coul
 
 Commonly encountered causes include:
 
-  * Atrial disease: 
-    * Arrhythmias: 
-      * Atrial fibrillation, specifically non-valvular atrial fibrillation, is believed to be the most prevalent cause of cardioembolic strokes.[3] Considered the most frequently encountered sustained arrhythmia, it occurs in approximately 5% of people aged 65 years and above. In western populations, most cases are believed to occur secondary to ischemic or hypertensive heart disease. Other contributing factors include hyperthyroidism and heavy alcohol consumption. The contribution of valvular heart disease, particularly the involvement of the mitral valve, is on the decline in terms of the number of cases. However, concerning relative risk, patients with valvular atrial fibrillation have a 17-fold increased risk of cardioembolic stroke, as opposed to the 2-7 fold increased risk in patients with non-valvular atrial fibrillation.[4] The CHADS2 risk stratification tool is often used to predict the stroke risk in patients with atrial fibrillation
+- Atrial disease:
 
-      * Sick sinus syndrome, also known as a bradycardia-tachycardia syndrome, is also associated with an increased risk of stroke.
+  - Arrhythmias:
 
-    * Structural disease: 
-      * Patent foramen ovale:[5] The role of a patent foramen ovale in strokes, particularly the so-called "cryptogenic strokes," is currently an area of great interest. Current evidence is insufficient to conclude about its role as a causative factor, or merely as a conduit for paradoxical emboli.
+    - Atrial fibrillation, specifically non-valvular atrial fibrillation, is believed to be the most prevalent cause of cardioembolic strokes.[3] Considered the most frequently encountered sustained arrhythmia, it occurs in approximately 5% of people aged 65 years and above. In western populations, most cases are believed to occur secondary to ischemic or hypertensive heart disease. Other contributing factors include hyperthyroidism and heavy alcohol consumption. The contribution of valvular heart disease, particularly the involvement of the mitral valve, is on the decline in terms of the number of cases. However, concerning relative risk, patients with valvular atrial fibrillation have a 17-fold increased risk of cardioembolic stroke, as opposed to the 2-7 fold increased risk in patients with non-valvular atrial fibrillation.[4] The CHADS2 risk stratification tool is often used to predict the stroke risk in patients with atrial fibrillation
 
-  * Valvular heart disease: Even with the absence of arrhythmias, valvular heart diseases correlate with an increased risk of stroke. These include: 
-    * Rheumatic valvular disease; the most common is rheumatic mitral stenosis. Without anticoagulation, the risk of stroke is very high.
+    - Sick sinus syndrome, also known as a bradycardia-tachycardia syndrome, is also associated with an increased risk of stroke.
 
-    * Infective endocarditis: Approximately 10% of cases of infective endocarditis develop embolic strokes. The risk of stroke occurrence is highest before instituting, or within the first two weeks of antibiotic therapy.[4] Anticoagulation is contraindicated because, usually, they are associated with superimposed microhemorrhages. However, current recommendations are to start anticoagulation seven days after a stroke.
+  - Structural disease:
 
-    * Non-infective endocarditis such as marantic endocarditis
+    - Patent foramen ovale:[5] The role of a patent foramen ovale in strokes, particularly the so-called "cryptogenic strokes," is currently an area of great interest. Current evidence is insufficient to conclude about its role as a causative factor, or merely as a conduit for paradoxical emboli.
 
-    * Valvular calcifications: Native valvular calcification, particularly of the mitral valve, increases the risk of developing a cardioembolic stroke. Mitral annular calcification correlates with a relative risk of 2.1 for the development of embolic stroke.[6]
+- Valvular heart disease: Even with the absence of arrhythmias, valvular heart diseases correlate with an increased risk of stroke. These include:
 
-    * Mechanical prosthetic heart valves have a stroke rate of 2% to 4%, even in patients maintained on oral anticoagulation. Permanent anticoagulation with an INR between 2.5-3.5 is mandatory. Bioprosthetic heart valves have a lower risk of stroke, and aspirin is recommended unless the patient has atrial fibrillation.
+  - Rheumatic valvular disease; the most common is rheumatic mitral stenosis. Without anticoagulation, the risk of stroke is very high.
 
-    * Mitral valve prolapse has a low risk of stroke, and anticoagulation is not recommended. However, long-term aspirin is recommended.
+  - Infective endocarditis: Approximately 10% of cases of infective endocarditis develop embolic strokes. The risk of stroke occurrence is highest before instituting, or within the first two weeks of antibiotic therapy.[4] Anticoagulation is contraindicated because, usually, they are associated with superimposed microhemorrhages. However, current recommendations are to start anticoagulation seven days after a stroke.
 
-  * Structural and functional ventricular diseases: 
-    * Ventricular aneurysms
+  - Non-infective endocarditis such as marantic endocarditis
 
-    * Septal aneurysms
+  - Valvular calcifications: Native valvular calcification, particularly of the mitral valve, increases the risk of developing a cardioembolic stroke. Mitral annular calcification correlates with a relative risk of 2.1 for the development of embolic stroke.[6]
 
-    * General ventricular hypokinesia (heart failure with reduced ejection fraction): The annual rate of stroke in patients with heart failure with reduced ejection fraction (HFrEF) is approximately 2%, with a direct correlation between the risk of a stroke, and the degree of ventricular compromise.[7]
+  - Mechanical prosthetic heart valves have a stroke rate of 2% to 4%, even in patients maintained on oral anticoagulation. Permanent anticoagulation with an INR between 2.5-3.5 is mandatory. Bioprosthetic heart valves have a lower risk of stroke, and aspirin is recommended unless the patient has atrial fibrillation.
 
-  * Myocardial infarction: The occurrence of myocardial infarction increases the risk of the development of a stroke, with the degree of left ventricular dysfunction, the presence of a ventricular aneurysm or mural thrombus, and the presence of arrhythmias significantly influencing the degree of risk. Approximately 2.5% of cases will develop a stroke within the first four weeks of the infarction, and nearly 10% will over six years.[4]
+  - Mitral valve prolapse has a low risk of stroke, and anticoagulation is not recommended. However, long-term aspirin is recommended.
+
+- Structural and functional ventricular diseases:
+
+  - Ventricular aneurysms
+
+  - Septal aneurysms
+
+  - General ventricular hypokinesia (heart failure with reduced ejection fraction): The annual rate of stroke in patients with heart failure with reduced ejection fraction (HFrEF) is approximately 2%, with a direct correlation between the risk of a stroke, and the degree of ventricular compromise.[7]
+
+- Myocardial infarction: The occurrence of myocardial infarction increases the risk of the development of a stroke, with the degree of left ventricular dysfunction, the presence of a ventricular aneurysm or mural thrombus, and the presence of arrhythmias significantly influencing the degree of risk. Approximately 2.5% of cases will develop a stroke within the first four weeks of the infarction, and nearly 10% will over six years.[4]
 
 ## Epidemiology
 
@@ -102,27 +106,27 @@ When emboli enter the brain, they not only obstruct blood flow but may become de
 
 The classic clinical scenario is that of an abrupt onset neurologic deficit that reaches maximal intensity within minutes and then gradually improves.
 
-As with all strokes, the clinical features depend on the extent and location of neurovascular compromise. However, depressed consciousness is usually a factor favoring a cardioembolic etiology instead of an atherothrombotic stroke.[8] Further, eliciting a history of a Valsalva-like maneuver provoking the stroke also supports a cardioembolic etiology.[4] Cardioembolic strokes cause more seizures due to distal ischemia. 
+As with all strokes, the clinical features depend on the extent and location of neurovascular compromise. However, depressed consciousness is usually a factor favoring a cardioembolic etiology instead of an atherothrombotic stroke.[8] Further, eliciting a history of a Valsalva-like maneuver provoking the stroke also supports a cardioembolic etiology.[4] Cardioembolic strokes cause more seizures due to distal ischemia.
 
 Classic features of cardioembolic stroke include the following:
 
-  * Abrupt decline in mental status
+- Abrupt decline in mental status
 
-  * Change in the level of consciousness
+- Change in the level of consciousness
 
-  * Presence of neurological deficits
+- Presence of neurological deficits
 
 Cardiac findings may include:
 
-  * Atrial fibrillation
+- Atrial fibrillation
 
-  * Presence of a cardiac murmur
+- Presence of a cardiac murmur
 
-  * Signs of congestive heart failure
+- Signs of congestive heart failure
 
-  * Recent myocardial infarction
+- Recent myocardial infarction
 
-  * Recent diagnosis of infective endocarditis
+- Recent diagnosis of infective endocarditis
 
 ## Evaluation
 
@@ -132,45 +136,47 @@ The preliminary cardiac evaluation must be directed towards evaluating both the 
 
 **Electrophysiologic Assessment**
 
-  * A 12-lead ECG is useful only to the extent of detecting ongoing arrhythmias. Additionally, it may provide useful insight into ventricular myocardial status (evidence of ventricular hypertrophy) as well as indicate prior cardiac ischemic episodes. However, transient arrhythmias, particularly paroxysmal atrial fibrillation, will be missed.
+- A 12-lead ECG is useful only to the extent of detecting ongoing arrhythmias. Additionally, it may provide useful insight into ventricular myocardial status (evidence of ventricular hypertrophy) as well as indicate prior cardiac ischemic episodes. However, transient arrhythmias, particularly paroxysmal atrial fibrillation, will be missed.
 
-  * Holter monitoring has now become a part of the baseline evaluation of all cases of suspected cardioembolic strokes. Fundamentally similar to an ECG, it has the same drawback of evaluating the conduction system for a relatively limited period of 24 hours.
+- Holter monitoring has now become a part of the baseline evaluation of all cases of suspected cardioembolic strokes. Fundamentally similar to an ECG, it has the same drawback of evaluating the conduction system for a relatively limited period of 24 hours.
 
-  * Implantable loop recorders (ILRs) can record activity for as long as three years. Thus, their utility in clinical practice continues to increase, and their use has helped identify several cases of "missed" atrial fibrillation. Also, it is very important to note that a patient on oral anticoagulation with atrial fibrillation has to fall 295 times per year for the risk of traumatic subdural hematoma. 
+- Implantable loop recorders (ILRs) can record activity for as long as three years. Thus, their utility in clinical practice continues to increase, and their use has helped identify several cases of "missed" atrial fibrillation. Also, it is very important to note that a patient on oral anticoagulation with atrial fibrillation has to fall 295 times per year for the risk of traumatic subdural hematoma.
 
 **Structural and Functional Assessment**
 
-  * Transthoracic echocardiography: Transthoracic echocardiography forms the cornerstone of cardiac evaluation. Ventricular hypo- or akinesia, aneurysms, as well as most valvular lesions, can be identified. However, aA key limitation is that visualization of the left atrial appendage is rarely possible using this imaging modality.
+- Transthoracic echocardiography: Transthoracic echocardiography forms the cornerstone of cardiac evaluation. Ventricular hypo- or akinesia, aneurysms, as well as most valvular lesions, can be identified. However, aA key limitation is that visualization of the left atrial appendage is rarely possible using this imaging modality.
 
-  * Transesophageal echocardiography: The transesophageal approach permits the use of higher-frequency probes that provide a significantly higher image resolution, and permit visualization of very minute pathologies, including intra-valvar abscesses. A steeper learning curve and lack of universal availability limit its utility as a primary modality of cardiac imaging. An echocardiogram may detect the following pathologies:
+- Transesophageal echocardiography: The transesophageal approach permits the use of higher-frequency probes that provide a significantly higher image resolution, and permit visualization of very minute pathologies, including intra-valvar abscesses. A steeper learning curve and lack of universal availability limit its utility as a primary modality of cardiac imaging. An echocardiogram may detect the following pathologies:
 
-  * Atrial septal defect
+- Atrial septal defect
 
-  * Patent foramen ovale
+- Patent foramen ovale
 
-  * Atrial septal aneurysm
+- Atrial septal aneurysm
 
-  * Atrial thrombus
+- Atrial thrombus
 
-  * Atrial myxoma
+- Atrial myxoma
 
-  * Aortic arch thrombi
+- Aortic arch thrombi
 
-  * Mitral valve vegetations
+- Mitral valve vegetations
 
 **Neurologic Evaluation**
 
 Although the imaging modality of choice will differ based on the time of presentation of the patient (i.e., within the window period or outside it), the following principles govern the process of evaluation:
 
-  * Parenchymal assessment: 
-    * MRI scans are, by far, the best available imaging modality to evaluate neural parenchymal status. The increasingly available 3 Tesla devices provide an unrivaled image resolution. Various imaging sequences help not only delineate the infarcted area but also help provide a temporal frame where history is sketchy. For instance, diffusion-weighted imaging (DWI) can help identify even hyper-acute infarcts by selecting the appropriate b-value. The presence of cortical stroke in multiple vascular territories should give suspicion for a cardioembolic etiology. The appearance of an infarct in the fluid-attenuated inversion recovery (FLAIR) sequence indicates that the infarct has developed, at least partially, over 6 hours back. MRI scans can even accurately detect hemorrhagic infarcts by means of susceptibility-weighted imaging (SWI). Key limitations, however, are the relatively long duration required for the scan - a formidable contraindication in hemodynamically unstable patients - and ensuring compliance in claustrophobic patients. The increasing availability of "open MRIs" and "virtual-reality based systems" help alleviate the latter, but the former remains a major problem.
+- Parenchymal assessment:
 
-    * CT scans: CT scans are excellent imaging modalities for detecting or ruling out hemorrhage. Rapid imaging and ease of reporting, even in settings with limited expertise, remain its key redeeming features. That said, it shows limited sensitivity in detecting infarcts early on in their evolution. Large infarcts may exhibit subtle signs such as sulcal effacement or "the hyperdense middle cerebral artery (MCA) sign," although these are inconsistent features that may easily be missed.
+  - MRI scans are, by far, the best available imaging modality to evaluate neural parenchymal status. The increasingly available 3 Tesla devices provide an unrivaled image resolution. Various imaging sequences help not only delineate the infarcted area but also help provide a temporal frame where history is sketchy. For instance, diffusion-weighted imaging (DWI) can help identify even hyper-acute infarcts by selecting the appropriate b-value. The presence of cortical stroke in multiple vascular territories should give suspicion for a cardioembolic etiology. The appearance of an infarct in the fluid-attenuated inversion recovery (FLAIR) sequence indicates that the infarct has developed, at least partially, over 6 hours back. MRI scans can even accurately detect hemorrhagic infarcts by means of susceptibility-weighted imaging (SWI). Key limitations, however, are the relatively long duration required for the scan - a formidable contraindication in hemodynamically unstable patients - and ensuring compliance in claustrophobic patients. The increasing availability of "open MRIs" and "virtual-reality based systems" help alleviate the latter, but the former remains a major problem.
 
-  * Vascular status assessment: 
-    * MR angiography: Magnetic resonance angiography is a useful imaging modality, particularly in patients with renal impairment, as it does not require the use of intravenous contrast media. However, it is prone to various artifacts, including potentially overestimating stenotic lesions.
+  - CT scans: CT scans are excellent imaging modalities for detecting or ruling out hemorrhage. Rapid imaging and ease of reporting, even in settings with limited expertise, remain its key redeeming features. That said, it shows limited sensitivity in detecting infarcts early on in their evolution. Large infarcts may exhibit subtle signs such as sulcal effacement or "the hyperdense middle cerebral artery (MCA) sign," although these are inconsistent features that may easily be missed.
 
-    * CT angiography: CT angiography remains the investigation of choice for evaluating cerebral vasculature; it's only drawback being that it is not an option in patients with renal impairment. 
+- Vascular status assessment:
+
+  - MR angiography: Magnetic resonance angiography is a useful imaging modality, particularly in patients with renal impairment, as it does not require the use of intravenous contrast media. However, it is prone to various artifacts, including potentially overestimating stenotic lesions.
+
+  - CT angiography: CT angiography remains the investigation of choice for evaluating cerebral vasculature; it's only drawback being that it is not an option in patients with renal impairment.
 
 **Serological Assessment**
 
@@ -196,13 +202,13 @@ For patients with left ventricular thrombus and myocardial infarction, we usuall
 
 ## Differential Diagnosis
 
-  * Atherothrombotic strokes
+- Atherothrombotic strokes
 
-  * Hemorrhagic stroke
+- Hemorrhagic stroke
 
-  * Transient ischemic attack
+- Transient ischemic attack
 
-  * Stroke mimic syndromes
+- Stroke mimic syndromes
 
 ## Pertinent Studies and Ongoing Trials
 
@@ -222,7 +228,7 @@ Avoiding excessive alcohol, adopting a Mediterranean-like or DASH (dietary appro
 
 Patients on warfarin should be provided with a list of foods that contain vitamin K (avocado, broccoli, etc) which can limit the efficacy of warfarin.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Cardioembolic stroke is a devastating disease with a high risk of recurrence and complications if it is not identified and treated properly. The treatment involves multiple levels of evaluation, drugs, and therapy to optimize patient recovery. An interprofessional team of clinicians, nurses, pharmacists, and physical therapists is needed to treat these patients effectively.
 
@@ -234,72 +240,56 @@ Current evidence regarding when to initiate treatment is still sketchy. Trials s
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18913&utm_source=pubmed&utm_campaign=reviews&utm_content=18913)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18913&utm_source=pubmed&utm_campaign=reviews&utm_content=18913)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/stroke/cardioembolic-stroke-stroke/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18913)
+- [Click here for a simplified version.](https://mdsearchlight.com/stroke/cardioembolic-stroke-stroke/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18913)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18913/?utm_source=pubmed&utm_campaign=comments&utm_content=18913)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18913/?utm_source=pubmed&utm_campaign=comments&utm_content=18913)
 
 ## References
 
 1.
-    
 
-Krishnamurthi RV, Feigin VL, Forouzanfar MH, Mensah GA, Connor M, Bennett DA, Moran AE, Sacco RL, Anderson LM, Truelsen T, O'Donnell M, Venketasubramanian N, Barker-Collo S, Lawes CM, Wang W, Shinohara Y, Witt E, Ezzati M, Naghavi M, Murray C., Global Burden of Diseases, Injuries, Risk Factors Study 2010 (GBD 2010). GBD Stroke Experts Group. Global and regional burden of first-ever ischaemic and haemorrhagic stroke during 1990-2010: findings from the Global Burden of Disease Study 2010. Lancet Glob Health. 2013 Nov;1(5):e259-81. [[PMC free article: PMC4181351](/pmc/articles/PMC4181351/)] [[PubMed: 25104492](https://pubmed.ncbi.nlm.nih.gov/25104492)]
+Krishnamurthi RV, Feigin VL, Forouzanfar MH, Mensah GA, Connor M, Bennett DA, Moran AE, Sacco RL, Anderson LM, Truelsen T, O'Donnell M, Venketasubramanian N, Barker-Collo S, Lawes CM, Wang W, Shinohara Y, Witt E, Ezzati M, Naghavi M, Murray C., Global Burden of Diseases, Injuries, Risk Factors Study 2010 (GBD 2010). GBD Stroke Experts Group. Global and regional burden of first-ever ischaemic and haemorrhagic stroke during 1990-2010: findings from the Global Burden of Disease Study 2010. Lancet Glob Health. 2013 Nov;1(5):e259-81. \[[PMC free article: PMC4181351](/pmc/articles/PMC4181351/)\] \[[PubMed: 25104492](https://pubmed.ncbi.nlm.nih.gov/25104492)\]
 
 2.
-    
 
-Díaz Guzmán J. [Cardioembolic stroke: epidemiology]. Neurologia. 2012 Mar;27 Suppl 1:4-9. [[PubMed: 22682204](https://pubmed.ncbi.nlm.nih.gov/22682204)]
+Díaz Guzmán J. [Cardioembolic stroke: epidemiology]. Neurologia. 2012 Mar;27 Suppl 1:4-9. \[[PubMed: 22682204](https://pubmed.ncbi.nlm.nih.gov/22682204)\]
 
 3.
-    
 
-Ferro JM. Cardioembolic stroke: an update. Lancet Neurol. 2003 Mar;2(3):177-88. [[PubMed: 12849239](https://pubmed.ncbi.nlm.nih.gov/12849239)]
+Ferro JM. Cardioembolic stroke: an update. Lancet Neurol. 2003 Mar;2(3):177-88. \[[PubMed: 12849239](https://pubmed.ncbi.nlm.nih.gov/12849239)\]
 
 4.
-    
 
-Arboix A, Alió J. Cardioembolic stroke: clinical features, specific cardiac disorders and prognosis. Curr Cardiol Rev. 2010 Aug;6(3):150-61. [[PMC free article: PMC2994107](/pmc/articles/PMC2994107/)] [[PubMed: 21804774](https://pubmed.ncbi.nlm.nih.gov/21804774)]
+Arboix A, Alió J. Cardioembolic stroke: clinical features, specific cardiac disorders and prognosis. Curr Cardiol Rev. 2010 Aug;6(3):150-61. \[[PMC free article: PMC2994107](/pmc/articles/PMC2994107/)\] \[[PubMed: 21804774](https://pubmed.ncbi.nlm.nih.gov/21804774)\]
 
 5.
-    
 
-Yuan K, Kasner SE. Patent foramen ovale and cryptogenic stroke: diagnosis and updates in secondary stroke prevention. Stroke Vasc Neurol. 2018 Jun;3(2):84-91. [[PMC free article: PMC6047340](/pmc/articles/PMC6047340/)] [[PubMed: 30022802](https://pubmed.ncbi.nlm.nih.gov/30022802)]
+Yuan K, Kasner SE. Patent foramen ovale and cryptogenic stroke: diagnosis and updates in secondary stroke prevention. Stroke Vasc Neurol. 2018 Jun;3(2):84-91. \[[PMC free article: PMC6047340](/pmc/articles/PMC6047340/)\] \[[PubMed: 30022802](https://pubmed.ncbi.nlm.nih.gov/30022802)\]
 
 6.
-    
 
-Di Tullio MR, Homma S. Mechanisms of cardioembolic stroke. Curr Cardiol Rep. 2002 Mar;4(2):141-8. [[PubMed: 11827638](https://pubmed.ncbi.nlm.nih.gov/11827638)]
+Di Tullio MR, Homma S. Mechanisms of cardioembolic stroke. Curr Cardiol Rep. 2002 Mar;4(2):141-8. \[[PubMed: 11827638](https://pubmed.ncbi.nlm.nih.gov/11827638)\]
 
 7.
-    
 
-Weir NU. An update on cardioembolic stroke. Postgrad Med J. 2008 Mar;84(989):133-42; quiz 139-40. [[PubMed: 18372484](https://pubmed.ncbi.nlm.nih.gov/18372484)]
+Weir NU. An update on cardioembolic stroke. Postgrad Med J. 2008 Mar;84(989):133-42; quiz 139-40. \[[PubMed: 18372484](https://pubmed.ncbi.nlm.nih.gov/18372484)\]
 
 8.
-    
 
-Timsit SG, Sacco RL, Mohr JP, Foulkes MA, Tatemichi TK, Wolf PA, Price TR, Hier DB. Early clinical differentiation of cerebral infarction from severe atherosclerotic stenosis and cardioembolism. Stroke. 1992 Apr;23(4):486-91. [[PubMed: 1561677](https://pubmed.ncbi.nlm.nih.gov/1561677)]
+Timsit SG, Sacco RL, Mohr JP, Foulkes MA, Tatemichi TK, Wolf PA, Price TR, Hier DB. Early clinical differentiation of cerebral infarction from severe atherosclerotic stenosis and cardioembolism. Stroke. 1992 Apr;23(4):486-91. \[[PubMed: 1561677](https://pubmed.ncbi.nlm.nih.gov/1561677)\]
 
 9.
-    
 
-Spence JD. Cardioembolic stroke: everything has changed. Stroke Vasc Neurol. 2018 Jun;3(2):76-83. [[PMC free article: PMC6047338](/pmc/articles/PMC6047338/)] [[PubMed: 30022801](https://pubmed.ncbi.nlm.nih.gov/30022801)]
+Spence JD. Cardioembolic stroke: everything has changed. Stroke Vasc Neurol. 2018 Jun;3(2):76-83. \[[PMC free article: PMC6047338](/pmc/articles/PMC6047338/)\] \[[PubMed: 30022801](https://pubmed.ncbi.nlm.nih.gov/30022801)\]
 
 10.
-    
 
-Mir H, Siemieniuk RAC, Ge L, Foroutan F, Fralick M, Syed T, Lopes LC, Kuijpers T, Mas JL, Vandvik PO, Agoritsas T, Guyatt GH. Patent foramen ovale closure, antiplatelet therapy or anticoagulation in patients with patent foramen ovale and cryptogenic stroke: a systematic review and network meta-analysis incorporating complementary external evidence. BMJ Open. 2018 Jul 25;8(7):e023761. [[PMC free article: PMC6067350](/pmc/articles/PMC6067350/)] [[PubMed: 30049703](https://pubmed.ncbi.nlm.nih.gov/30049703)]
-
-    
+Mir H, Siemieniuk RAC, Ge L, Foroutan F, Fralick M, Syed T, Lopes LC, Kuijpers T, Mas JL, Vandvik PO, Agoritsas T, Guyatt GH. Patent foramen ovale closure, antiplatelet therapy or anticoagulation in patients with patent foramen ovale and cryptogenic stroke: a systematic review and network meta-analysis incorporating complementary external evidence. BMJ Open. 2018 Jul 25;8(7):e023761. \[[PMC free article: PMC6067350](/pmc/articles/PMC6067350/)\] \[[PubMed: 30049703](https://pubmed.ncbi.nlm.nih.gov/30049703)\]
 
 **Disclosure:** Ashwin Pillai declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Prasanna Tadi declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Arun Kanmanthareddy declares no relevant financial relationships with ineligible companies.

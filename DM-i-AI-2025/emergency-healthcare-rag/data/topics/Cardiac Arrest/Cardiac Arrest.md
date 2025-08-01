@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18878/
-scraped_date: 2025-07-22 12:36:10 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18878/ scraped_date: 2025-07-22 12:36:10 UTC
 
 # Cardiac Arrest
 
@@ -27,13 +26,13 @@ As defined by the American Heart Association and the American College of Cardiol
 
 **Objectives:**
 
-  * Identify the etiology of cardiac arrest.
+- Identify the etiology of cardiac arrest.
 
-  * Review the epidemiology of cardiac arrest.
+- Review the epidemiology of cardiac arrest.
 
-  * Summarize the use of basic life support and advanced life support in the management of cardiac arrest.
+- Summarize the use of basic life support and advanced life support in the management of cardiac arrest.
 
-  * Outline the importance of collaboration and communication among the interprofessional team to enhance the delivery of care in patients with cardiac arrest.
+- Outline the importance of collaboration and communication among the interprofessional team to enhance the delivery of care in patients with cardiac arrest.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18878&utm_source=pubmed&utm_campaign=reviews&utm_content=18878)
 
@@ -83,11 +82,11 @@ Providers can use BLS treatment with the addition of medications and advanced ai
 
 **Physician**
 
-Providers can use ALS treatment and progress to a wide scope of practice dependent on medical versus traumatic etiology. 
+Providers can use ALS treatment and progress to a wide scope of practice dependent on medical versus traumatic etiology.
 
 **Medical**
 
-Medical cardiac arrest patients are treated with ALS as discussed above. These patients can also be placed on extracorporeal membrane oxygenation (ECMO).[13] This allows for oxygenation of the victim's blood supply until the cardiac function is restored. 
+Medical cardiac arrest patients are treated with ALS as discussed above. These patients can also be placed on extracorporeal membrane oxygenation (ECMO).[13] This allows for oxygenation of the victim's blood supply until the cardiac function is restored.
 
 **Trauma**
 
@@ -127,11 +126,11 @@ In hopes to potentially delay cardiac arrest within the general population, one 
 
 Clinicians should educate the patient about the benefits of Daily exercise,[22] a healthy diet, effective treatment of hypercholesterolemia, effective treatment of hypertension, effective treatment of diabetes and smoking cessation[23] Patients with post-myocardial infarction and who have diagnosed congestive heart failure can benefit from medication specific medication adjustment, including the addition of beta blockers and angiotensin-converting enzyme inhibitors. Select patients can also benefit from ICD implantation.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The majority of patients who have cardiac arrest have underlying coronary artery disease. Alteration of modifiable risk factors and medication adjustment can delay the onset of coronary heart disease, potentially delaying cardiac arrest. Despite the many treatments available for cardiac arrest, the majority of patients have a poor prognosis. However, many lives can still be saved with the basic, the most important interventions, including defibrillation and bystander CPR. Promotion of such education to loved ones and others interested can be lifesaving.
 
-All clinicians who see patients should be familiar with the basic principles of resuscitation of a patient that has just arrested. In the hospital, the resuscitation is carried by an interprofessional team that attends all cardiac arrest events. Outside the hospital, the resuscitation may be carried out by the public or a healthcare worker. In each case, there has to be some in charge and running the resuscitation process. In the hospital, nurses are responsible for bringing the equipment to the patient's room and documenting the event. In all cases, everyone has an assigned role so that the resuscitation is undertaken without delay. Unfortunately, despite optimal resuscitation, most patients have a poor outcome or do not make it. Those who survive a near-fatal arrest are monitored in the ICU. 
+All clinicians who see patients should be familiar with the basic principles of resuscitation of a patient that has just arrested. In the hospital, the resuscitation is carried by an interprofessional team that attends all cardiac arrest events. Outside the hospital, the resuscitation may be carried out by the public or a healthcare worker. In each case, there has to be some in charge and running the resuscitation process. In the hospital, nurses are responsible for bringing the equipment to the patient's room and documenting the event. In all cases, everyone has an assigned role so that the resuscitation is undertaken without delay. Unfortunately, despite optimal resuscitation, most patients have a poor outcome or do not make it. Those who survive a near-fatal arrest are monitored in the ICU.
 
 In hopes to potentially delay cardiac arrest within the general population, one can undergo risk stratification to identify those who may benefit from certain interventions, including a stress test and screening ECG.
 
@@ -139,13 +138,13 @@ Clinicians should educate the patient about the benefits of Daily exercise,[22] 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18878&utm_source=pubmed&utm_campaign=reviews&utm_content=18878)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18878&utm_source=pubmed&utm_campaign=reviews&utm_content=18878)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/cardiac-arrest-heart-attack/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18878)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/cardiac-arrest-heart-attack/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18878)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18878/?utm_source=pubmed&utm_campaign=comments&utm_content=18878)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18878/?utm_source=pubmed&utm_campaign=comments&utm_content=18878)
 
-[![4 basic views to use in the patient who presents in cardiac arrest Image, Image 1; Midesophageal Four-Chamber view \(MEFC\), Image 2; Transgastric mid-papillary short axis view \(TGMPSA\), Image 3; Mid Esophageal Long Axis view \(MELA\) showing the LV in and outflow tracts, Image 4,4; Midesophageal Bicaval view \(MEBC\) Contributed by Dr](/books/NBK534866/bin/IMG_1258.gif)](/books/NBK534866/figure/article-18878.image.f1/?report=objectonly "Figure")
+[![4 basic views to use in the patient who presents in cardiac arrest Image, Image 1; Midesophageal Four-Chamber view MEFC, Image 2; Transgastric mid-papillary short axis view TGMPSA, Image 3; Mid Esophageal Long Axis view MELA showing the LV in and outflow tracts, Image 4,4; Midesophageal Bicaval view MEBC Contributed by Dr](/books/NBK534866/bin/IMG_1258.gif)](/books/NBK534866/figure/article-18878.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK534866/figure/article-18878.image.f1/?report=objectonly)
 
@@ -154,124 +153,97 @@ Clinicians should educate the patient about the benefits of Daily exercise,[22] 
 ## References
 
 1.
-    
 
-Kuller LH. Sudden death--definition and epidemiologic considerations. Prog Cardiovasc Dis. 1980 Jul-Aug;23(1):1-12. [[PubMed: 6994170](https://pubmed.ncbi.nlm.nih.gov/6994170)]
+Kuller LH. Sudden death--definition and epidemiologic considerations. Prog Cardiovasc Dis. 1980 Jul-Aug;23(1):1-12. \[[PubMed: 6994170](https://pubmed.ncbi.nlm.nih.gov/6994170)\]
 
 2.
-    
 
-Centers for Disease Control and Prevention (CDC). State-specific mortality from sudden cardiac death--United States, 1999. MMWR Morb Mortal Wkly Rep. 2002 Feb 15;51(6):123-6. [[PubMed: 11898927](https://pubmed.ncbi.nlm.nih.gov/11898927)]
+Centers for Disease Control and Prevention (CDC). State-specific mortality from sudden cardiac death--United States, 1999. MMWR Morb Mortal Wkly Rep. 2002 Feb 15;51(6):123-6. \[[PubMed: 11898927](https://pubmed.ncbi.nlm.nih.gov/11898927)\]
 
 3.
-    
 
-Wong MK, Morrison LJ, Qiu F, Austin PC, Cheskes S, Dorian P, Scales DC, Tu JV, Verbeek PR, Wijeysundera HC, Ko DT. Trends in short- and long-term survival among out-of-hospital cardiac arrest patients alive at hospital arrival. Circulation. 2014 Nov 18;130(21):1883-90. [[PubMed: 25399397](https://pubmed.ncbi.nlm.nih.gov/25399397)]
+Wong MK, Morrison LJ, Qiu F, Austin PC, Cheskes S, Dorian P, Scales DC, Tu JV, Verbeek PR, Wijeysundera HC, Ko DT. Trends in short- and long-term survival among out-of-hospital cardiac arrest patients alive at hospital arrival. Circulation. 2014 Nov 18;130(21):1883-90. \[[PubMed: 25399397](https://pubmed.ncbi.nlm.nih.gov/25399397)\]
 
 4.
-    
 
-Kannel WB, Doyle JT, McNamara PM, Quickenton P, Gordon T. Precursors of sudden coronary death. Factors related to the incidence of sudden death. Circulation. 1975 Apr;51(4):606-13. [[PubMed: 123182](https://pubmed.ncbi.nlm.nih.gov/123182)]
+Kannel WB, Doyle JT, McNamara PM, Quickenton P, Gordon T. Precursors of sudden coronary death. Factors related to the incidence of sudden death. Circulation. 1975 Apr;51(4):606-13. \[[PubMed: 123182](https://pubmed.ncbi.nlm.nih.gov/123182)\]
 
 5.
-    
 
-Drory Y, Turetz Y, Hiss Y, Lev B, Fisman EZ, Pines A, Kramer MR. Sudden unexpected death in persons less than 40 years of age. Am J Cardiol. 1991 Nov 15;68(13):1388-92. [[PubMed: 1951130](https://pubmed.ncbi.nlm.nih.gov/1951130)]
+Drory Y, Turetz Y, Hiss Y, Lev B, Fisman EZ, Pines A, Kramer MR. Sudden unexpected death in persons less than 40 years of age. Am J Cardiol. 1991 Nov 15;68(13):1388-92. \[[PubMed: 1951130](https://pubmed.ncbi.nlm.nih.gov/1951130)\]
 
 6.
-    
 
-Kannel WB, Wilson PW, D'Agostino RB, Cobb J. Sudden coronary death in women. Am Heart J. 1998 Aug;136(2):205-12. [[PubMed: 9704680](https://pubmed.ncbi.nlm.nih.gov/9704680)]
+Kannel WB, Wilson PW, D'Agostino RB, Cobb J. Sudden coronary death in women. Am Heart J. 1998 Aug;136(2):205-12. \[[PubMed: 9704680](https://pubmed.ncbi.nlm.nih.gov/9704680)\]
 
 7.
-    
 
-Marijon E, Uy-Evanado A, Dumas F, Karam N, Reinier K, Teodorescu C, Narayanan K, Gunson K, Jui J, Jouven X, Chugh SS. Warning Symptoms Are Associated With Survival From Sudden Cardiac Arrest. Ann Intern Med. 2016 Jan 05;164(1):23-9. [[PMC free article: PMC5624713](/pmc/articles/PMC5624713/)] [[PubMed: 26720493](https://pubmed.ncbi.nlm.nih.gov/26720493)]
+Marijon E, Uy-Evanado A, Dumas F, Karam N, Reinier K, Teodorescu C, Narayanan K, Gunson K, Jui J, Jouven X, Chugh SS. Warning Symptoms Are Associated With Survival From Sudden Cardiac Arrest. Ann Intern Med. 2016 Jan 05;164(1):23-9. \[[PMC free article: PMC5624713](/pmc/articles/PMC5624713/)\] \[[PubMed: 26720493](https://pubmed.ncbi.nlm.nih.gov/26720493)\]
 
 8.
-    
 
-Gaspari R, Weekes A, Adhikari S, Noble VE, Nomura JT, Theodoro D, Woo M, Atkinson P, Blehar D, Brown SM, Caffery T, Douglass E, Fraser J, Haines C, Lam S, Lanspa M, Lewis M, Liebmann O, Limkakeng A, Lopez F, Platz E, Mendoza M, Minnigan H, Moore C, Novik J, Rang L, Scruggs W, Raio C. Emergency department point-of-care ultrasound in out-of-hospital and in-ED cardiac arrest. Resuscitation. 2016 Dec;109:33-39. [[PubMed: 27693280](https://pubmed.ncbi.nlm.nih.gov/27693280)]
+Gaspari R, Weekes A, Adhikari S, Noble VE, Nomura JT, Theodoro D, Woo M, Atkinson P, Blehar D, Brown SM, Caffery T, Douglass E, Fraser J, Haines C, Lam S, Lanspa M, Lewis M, Liebmann O, Limkakeng A, Lopez F, Platz E, Mendoza M, Minnigan H, Moore C, Novik J, Rang L, Scruggs W, Raio C. Emergency department point-of-care ultrasound in out-of-hospital and in-ED cardiac arrest. Resuscitation. 2016 Dec;109:33-39. \[[PubMed: 27693280](https://pubmed.ncbi.nlm.nih.gov/27693280)\]
 
 9.
-    
 
-Kleinman ME, Brennan EE, Goldberger ZD, Swor RA, Terry M, Bobrow BJ, Gazmuri RJ, Travers AH, Rea T. Part 5: Adult Basic Life Support and Cardiopulmonary Resuscitation Quality: 2015 American Heart Association Guidelines Update for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2015 Nov 03;132(18 Suppl 2):S414-35. [[PubMed: 26472993](https://pubmed.ncbi.nlm.nih.gov/26472993)]
+Kleinman ME, Brennan EE, Goldberger ZD, Swor RA, Terry M, Bobrow BJ, Gazmuri RJ, Travers AH, Rea T. Part 5: Adult Basic Life Support and Cardiopulmonary Resuscitation Quality: 2015 American Heart Association Guidelines Update for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2015 Nov 03;132(18 Suppl 2):S414-35. \[[PubMed: 26472993](https://pubmed.ncbi.nlm.nih.gov/26472993)\]
 
 10.
-    
 
-Olasveengen TM, de Caen AR, Mancini ME, Maconochie IK, Aickin R, Atkins DL, Berg RA, Bingham RM, Brooks SC, Castrén M, Chung SP, Considine J, Couto TB, Escalante R, Gazmuri RJ, Guerguerian AM, Hatanaka T, Koster RW, Kudenchuk PJ, Lang E, Lim SH, Løfgren B, Meaney PA, Montgomery WH, Morley PT, Morrison LJ, Nation KJ, Ng KC, Nadkarni VM, Nishiyama C, Nuthall G, Ong GY, Perkins GD, Reis AG, Ristagno G, Sakamoto T, Sayre MR, Schexnayder SM, Sierra AF, Singletary EM, Shimizu N, Smyth MA, Stanton D, Tijssen JA, Travers A, Vaillancourt C, Van de Voorde P, Hazinski MF, Nolan JP., ILCOR Collaborators. 2017 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations Summary. Resuscitation. 2017 Dec;121:201-214. [[PubMed: 29128145](https://pubmed.ncbi.nlm.nih.gov/29128145)]
+Olasveengen TM, de Caen AR, Mancini ME, Maconochie IK, Aickin R, Atkins DL, Berg RA, Bingham RM, Brooks SC, Castrén M, Chung SP, Considine J, Couto TB, Escalante R, Gazmuri RJ, Guerguerian AM, Hatanaka T, Koster RW, Kudenchuk PJ, Lang E, Lim SH, Løfgren B, Meaney PA, Montgomery WH, Morley PT, Morrison LJ, Nation KJ, Ng KC, Nadkarni VM, Nishiyama C, Nuthall G, Ong GY, Perkins GD, Reis AG, Ristagno G, Sakamoto T, Sayre MR, Schexnayder SM, Sierra AF, Singletary EM, Shimizu N, Smyth MA, Stanton D, Tijssen JA, Travers A, Vaillancourt C, Van de Voorde P, Hazinski MF, Nolan JP., ILCOR Collaborators. 2017 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations Summary. Resuscitation. 2017 Dec;121:201-214. \[[PubMed: 29128145](https://pubmed.ncbi.nlm.nih.gov/29128145)\]
 
 11.
-    
 
-Guildner CW. Resuscitation--opening the airway. A comparative study of techniques for opening an airway obstructed by the tongue. JACEP. 1976 Aug;5(8):588-90. [[PubMed: 1018384](https://pubmed.ncbi.nlm.nih.gov/1018384)]
+Guildner CW. Resuscitation--opening the airway. A comparative study of techniques for opening an airway obstructed by the tongue. JACEP. 1976 Aug;5(8):588-90. \[[PubMed: 1018384](https://pubmed.ncbi.nlm.nih.gov/1018384)\]
 
 12.
-    
 
-Uzun L, Ugur MB, Altunkaya H, Ozer Y, Ozkocak I, Demirel CB. Effectiveness of the jaw-thrust maneuver in opening the airway: a flexible fiberoptic endoscopic study. ORL J Otorhinolaryngol Relat Spec. 2005;67(1):39-44. [[PubMed: 15753621](https://pubmed.ncbi.nlm.nih.gov/15753621)]
+Uzun L, Ugur MB, Altunkaya H, Ozer Y, Ozkocak I, Demirel CB. Effectiveness of the jaw-thrust maneuver in opening the airway: a flexible fiberoptic endoscopic study. ORL J Otorhinolaryngol Relat Spec. 2005;67(1):39-44. \[[PubMed: 15753621](https://pubmed.ncbi.nlm.nih.gov/15753621)\]
 
 13.
-    
 
-Younger JG, Schreiner RJ, Swaniker F, Hirschl RB, Chapman RA, Bartlett RH. Extracorporeal resuscitation of cardiac arrest. Acad Emerg Med. 1999 Jul;6(7):700-7. [[PubMed: 10433529](https://pubmed.ncbi.nlm.nih.gov/10433529)]
+Younger JG, Schreiner RJ, Swaniker F, Hirschl RB, Chapman RA, Bartlett RH. Extracorporeal resuscitation of cardiac arrest. Acad Emerg Med. 1999 Jul;6(7):700-7. \[[PubMed: 10433529](https://pubmed.ncbi.nlm.nih.gov/10433529)\]
 
 14.
-    
 
-Seamon MJ, Haut ER, Van Arendonk K, Barbosa RR, Chiu WC, Dente CJ, Fox N, Jawa RS, Khwaja K, Lee JK, Magnotti LJ, Mayglothling JA, McDonald AA, Rowell S, To KB, Falck-Ytter Y, Rhee P. An evidence-based approach to patient selection for emergency department thoracotomy: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg. 2015 Jul;79(1):159-73. [[PubMed: 26091330](https://pubmed.ncbi.nlm.nih.gov/26091330)]
+Seamon MJ, Haut ER, Van Arendonk K, Barbosa RR, Chiu WC, Dente CJ, Fox N, Jawa RS, Khwaja K, Lee JK, Magnotti LJ, Mayglothling JA, McDonald AA, Rowell S, To KB, Falck-Ytter Y, Rhee P. An evidence-based approach to patient selection for emergency department thoracotomy: A practice management guideline from the Eastern Association for the Surgery of Trauma. J Trauma Acute Care Surg. 2015 Jul;79(1):159-73. \[[PubMed: 26091330](https://pubmed.ncbi.nlm.nih.gov/26091330)\]
 
 15.
-    
 
-Biffl WL, Fox CJ, Moore EE. The role of REBOA in the control of exsanguinating torso hemorrhage. J Trauma Acute Care Surg. 2015 May;78(5):1054-8. [[PubMed: 25909430](https://pubmed.ncbi.nlm.nih.gov/25909430)]
+Biffl WL, Fox CJ, Moore EE. The role of REBOA in the control of exsanguinating torso hemorrhage. J Trauma Acute Care Surg. 2015 May;78(5):1054-8. \[[PubMed: 25909430](https://pubmed.ncbi.nlm.nih.gov/25909430)\]
 
 16.
-    
 
-de Vreede-Swagemakers JJ, Gorgels AP, Dubois-Arbouw WI, Dalstra J, Daemen MJ, van Ree JW, Stijns RE, Wellens HJ. Circumstances and causes of out-of-hospital cardiac arrest in sudden death survivors. Heart. 1998 Apr;79(4):356-61. [[PMC free article: PMC1728666](/pmc/articles/PMC1728666/)] [[PubMed: 9616342](https://pubmed.ncbi.nlm.nih.gov/9616342)]
+de Vreede-Swagemakers JJ, Gorgels AP, Dubois-Arbouw WI, Dalstra J, Daemen MJ, van Ree JW, Stijns RE, Wellens HJ. Circumstances and causes of out-of-hospital cardiac arrest in sudden death survivors. Heart. 1998 Apr;79(4):356-61. \[[PMC free article: PMC1728666](/pmc/articles/PMC1728666/)\] \[[PubMed: 9616342](https://pubmed.ncbi.nlm.nih.gov/9616342)\]
 
 17.
-    
 
-Stiell IG, Wells GA, Field B, Spaite DW, Nesbitt LP, De Maio VJ, Nichol G, Cousineau D, Blackburn J, Munkley D, Luinstra-Toohey L, Campeau T, Dagnone E, Lyver M., Ontario Prehospital Advanced Life Support Study Group. Advanced cardiac life support in out-of-hospital cardiac arrest. N Engl J Med. 2004 Aug 12;351(7):647-56. [[PubMed: 15306666](https://pubmed.ncbi.nlm.nih.gov/15306666)]
+Stiell IG, Wells GA, Field B, Spaite DW, Nesbitt LP, De Maio VJ, Nichol G, Cousineau D, Blackburn J, Munkley D, Luinstra-Toohey L, Campeau T, Dagnone E, Lyver M., Ontario Prehospital Advanced Life Support Study Group. Advanced cardiac life support in out-of-hospital cardiac arrest. N Engl J Med. 2004 Aug 12;351(7):647-56. \[[PubMed: 15306666](https://pubmed.ncbi.nlm.nih.gov/15306666)\]
 
 18.
-    
 
-Schenone AL, Cohen A, Patarroyo G, Harper L, Wang X, Shishehbor MH, Menon V, Duggal A. Therapeutic hypothermia after cardiac arrest: A systematic review/meta-analysis exploring the impact of expanded criteria and targeted temperature. Resuscitation. 2016 Nov;108:102-110. [[PubMed: 27521472](https://pubmed.ncbi.nlm.nih.gov/27521472)]
+Schenone AL, Cohen A, Patarroyo G, Harper L, Wang X, Shishehbor MH, Menon V, Duggal A. Therapeutic hypothermia after cardiac arrest: A systematic review/meta-analysis exploring the impact of expanded criteria and targeted temperature. Resuscitation. 2016 Nov;108:102-110. \[[PubMed: 27521472](https://pubmed.ncbi.nlm.nih.gov/27521472)\]
 
 19.
-    
 
-Berg RA, Hemphill R, Abella BS, Aufderheide TP, Cave DM, Hazinski MF, Lerner EB, Rea TD, Sayre MR, Swor RA. Part 5: adult basic life support: 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2010 Nov 02;122(18 Suppl 3):S685-705. [[PubMed: 20956221](https://pubmed.ncbi.nlm.nih.gov/20956221)]
+Berg RA, Hemphill R, Abella BS, Aufderheide TP, Cave DM, Hazinski MF, Lerner EB, Rea TD, Sayre MR, Swor RA. Part 5: adult basic life support: 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation. 2010 Nov 02;122(18 Suppl 3):S685-705. \[[PubMed: 20956221](https://pubmed.ncbi.nlm.nih.gov/20956221)\]
 
 20.
-    
 
-Zhan L, Yang LJ, Huang Y, He Q, Liu GJ. Continuous chest compression versus interrupted chest compression for cardiopulmonary resuscitation of non-asphyxial out-of-hospital cardiac arrest. Cochrane Database Syst Rev. 2017 Mar 27;3(3):CD010134. [[PMC free article: PMC6464160](/pmc/articles/PMC6464160/)] [[PubMed: 28349529](https://pubmed.ncbi.nlm.nih.gov/28349529)]
+Zhan L, Yang LJ, Huang Y, He Q, Liu GJ. Continuous chest compression versus interrupted chest compression for cardiopulmonary resuscitation of non-asphyxial out-of-hospital cardiac arrest. Cochrane Database Syst Rev. 2017 Mar 27;3(3):CD010134. \[[PMC free article: PMC6464160](/pmc/articles/PMC6464160/)\] \[[PubMed: 28349529](https://pubmed.ncbi.nlm.nih.gov/28349529)\]
 
 21.
-    
 
-Wik L, Kramer-Johansen J, Myklebust H, Sørebø H, Svensson L, Fellows B, Steen PA. Quality of cardiopulmonary resuscitation during out-of-hospital cardiac arrest. JAMA. 2005 Jan 19;293(3):299-304. [[PubMed: 15657322](https://pubmed.ncbi.nlm.nih.gov/15657322)]
+Wik L, Kramer-Johansen J, Myklebust H, Sørebø H, Svensson L, Fellows B, Steen PA. Quality of cardiopulmonary resuscitation during out-of-hospital cardiac arrest. JAMA. 2005 Jan 19;293(3):299-304. \[[PubMed: 15657322](https://pubmed.ncbi.nlm.nih.gov/15657322)\]
 
 22.
-    
 
-Siscovick DS, Weiss NS, Hallstrom AP, Inui TS, Peterson DR. Physical activity and primary cardiac arrest. JAMA. 1982 Dec 17;248(23):3113-7. [[PubMed: 7143686](https://pubmed.ncbi.nlm.nih.gov/7143686)]
+Siscovick DS, Weiss NS, Hallstrom AP, Inui TS, Peterson DR. Physical activity and primary cardiac arrest. JAMA. 1982 Dec 17;248(23):3113-7. \[[PubMed: 7143686](https://pubmed.ncbi.nlm.nih.gov/7143686)\]
 
 23.
-    
 
-Sandhu RK, Jimenez MC, Chiuve SE, Fitzgerald KC, Kenfield SA, Tedrow UB, Albert CM. Smoking, smoking cessation, and risk of sudden cardiac death in women. Circ Arrhythm Electrophysiol. 2012 Dec;5(6):1091-7. [[PMC free article: PMC4025959](/pmc/articles/PMC4025959/)] [[PubMed: 23233741](https://pubmed.ncbi.nlm.nih.gov/23233741)]
-
-    
+Sandhu RK, Jimenez MC, Chiuve SE, Fitzgerald KC, Kenfield SA, Tedrow UB, Albert CM. Smoking, smoking cessation, and risk of sudden cardiac death in women. Circ Arrhythm Electrophysiol. 2012 Dec;5(6):1091-7. \[[PMC free article: PMC4025959](/pmc/articles/PMC4025959/)\] \[[PubMed: 23233741](https://pubmed.ncbi.nlm.nih.gov/23233741)\]
 
 **Disclosure:** Kevin Patel declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** John Hipskind declares no relevant financial relationships with ineligible companies.

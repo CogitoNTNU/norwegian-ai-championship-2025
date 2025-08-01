@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19391/
-scraped_date: 2025-07-22 12:54:55 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19391/ scraped_date: 2025-07-22 12:54:55 UTC
 
 # Thoracic and Lung Ultrasound
 
@@ -29,13 +28,13 @@ Thoracic ultrasound has rapidly gained popularity over the past 10 years. This i
 
 **Objectives:**
 
-  * Outline the indications for thoracic ultrasound.
+- Outline the indications for thoracic ultrasound.
 
-  * Describe the technique involved in performing a thoracic ultrasound.
+- Describe the technique involved in performing a thoracic ultrasound.
 
-  * Review the complications associated with thoracic ultrasound.
+- Review the complications associated with thoracic ultrasound.
 
-  * Explain interprofessional team strategies for enhancing coordination and communication to advance the utilization of thoracic ultrasound for the diagnosis of pleural cavity pathology to improve patient outcomes.
+- Explain interprofessional team strategies for enhancing coordination and communication to advance the utilization of thoracic ultrasound for the diagnosis of pleural cavity pathology to improve patient outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19391&utm_source=pubmed&utm_campaign=reviews&utm_content=19391)
 
@@ -87,79 +86,64 @@ Few complications exist with basic thoracic ultrasound short of pain with an app
 
 The diagnostic and procedural use of thoracic ultrasound has rapidly grown within the last 10 years due to being largely accepted by emergency physicians' adaptation of POCUS into formal residency training, as well as improvements in the bedside ultrasounds themselves. It allows rapid diagnosis and visualization of pathology and improves accuracy in diagnosis and procedures without the risk of exposure to potentially harmful radiation. [5]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Thoracic ultrasound is sometimes performed by the emergency department physician, internist, intensivist or nurse practitioner to look for pleural fluid or aspiration of a fluid collection from the chest cavity. It is important that that only professionals trained in ultrasound use this technique. If there is any doubt about the diagnosis, a radiologist should be consulted first before inserting any tube or needle in the chest cavity. Once the fluid is removed, a chest x-ray is recommended to ensure that there is no pneumothorax.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19391&utm_source=pubmed&utm_campaign=reviews&utm_content=19391)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19391&utm_source=pubmed&utm_campaign=reviews&utm_content=19391)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/thoracic-and-lung-ultrasound-ultrasound/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=19391)
+- [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/thoracic-and-lung-ultrasound-ultrasound/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=19391)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19391/?utm_source=pubmed&utm_campaign=comments&utm_content=19391)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19391/?utm_source=pubmed&utm_campaign=comments&utm_content=19391)
 
 [![Thoracic Ultrasound Contributed by Alan Taylor, M](/books/NBK500013/bin/IMG_20180418_171839.gif)](/books/NBK500013/figure/article-19391.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK500013/figure/article-19391.image.f1/?report=objectonly)
 
-Thoracic Ultrasound Contributed by Alan Taylor, M.D. 
+Thoracic Ultrasound Contributed by Alan Taylor, M.D.
 
 ## References
 
 1.
-    
 
-Wongwaisayawan S, Suwannanon R, Sawatmongkorngul S, Kaewlai R. Emergency Thoracic US: The Essentials. Radiographics. 2016 May-Jun;36(3):640-59. [[PubMed: 27035835](https://pubmed.ncbi.nlm.nih.gov/27035835)]
+Wongwaisayawan S, Suwannanon R, Sawatmongkorngul S, Kaewlai R. Emergency Thoracic US: The Essentials. Radiographics. 2016 May-Jun;36(3):640-59. \[[PubMed: 27035835](https://pubmed.ncbi.nlm.nih.gov/27035835)\]
 
 2.
-    
 
-Lichtenstein D. Lung ultrasound in the critically ill. Curr Opin Crit Care. 2014 Jun;20(3):315-22. [[PubMed: 24758984](https://pubmed.ncbi.nlm.nih.gov/24758984)]
+Lichtenstein D. Lung ultrasound in the critically ill. Curr Opin Crit Care. 2014 Jun;20(3):315-22. \[[PubMed: 24758984](https://pubmed.ncbi.nlm.nih.gov/24758984)\]
 
 3.
-    
 
-Schellenberg M, Inaba K. Critical Decisions in the Management of Thoracic Trauma. Emerg Med Clin North Am. 2018 Feb;36(1):135-147. [[PubMed: 29132573](https://pubmed.ncbi.nlm.nih.gov/29132573)]
+Schellenberg M, Inaba K. Critical Decisions in the Management of Thoracic Trauma. Emerg Med Clin North Am. 2018 Feb;36(1):135-147. \[[PubMed: 29132573](https://pubmed.ncbi.nlm.nih.gov/29132573)\]
 
 4.
-    
 
-Koh DM, Burke S, Davies N, Padley SP. Transthoracic US of the chest: clinical uses and applications. Radiographics. 2002 Jan-Feb;22(1):e1. [[PubMed: 11796913](https://pubmed.ncbi.nlm.nih.gov/11796913)]
+Koh DM, Burke S, Davies N, Padley SP. Transthoracic US of the chest: clinical uses and applications. Radiographics. 2002 Jan-Feb;22(1):e1. \[[PubMed: 11796913](https://pubmed.ncbi.nlm.nih.gov/11796913)\]
 
 5.
-    
 
-Hew M, Tay TR. The efficacy of bedside chest ultrasound: from accuracy to outcomes. Eur Respir Rev. 2016 Sep;25(141):230-46. [[PMC free article: PMC9487212](/pmc/articles/PMC9487212/)] [[PubMed: 27581823](https://pubmed.ncbi.nlm.nih.gov/27581823)]
+Hew M, Tay TR. The efficacy of bedside chest ultrasound: from accuracy to outcomes. Eur Respir Rev. 2016 Sep;25(141):230-46. \[[PMC free article: PMC9487212](/pmc/articles/PMC9487212/)\] \[[PubMed: 27581823](https://pubmed.ncbi.nlm.nih.gov/27581823)\]
 
 6.
-    
 
-Lichtenstein D. Novel approaches to ultrasonography of the lung and pleural space: where are we now? Breathe (Sheff). 2017 Jun;13(2):100-111. [[PMC free article: PMC5467658](/pmc/articles/PMC5467658/)] [[PubMed: 28620429](https://pubmed.ncbi.nlm.nih.gov/28620429)]
+Lichtenstein D. Novel approaches to ultrasonography of the lung and pleural space: where are we now? Breathe (Sheff). 2017 Jun;13(2):100-111. \[[PMC free article: PMC5467658](/pmc/articles/PMC5467658/)\] \[[PubMed: 28620429](https://pubmed.ncbi.nlm.nih.gov/28620429)\]
 
 7.
-    
 
-Francisco MJ, Rahal A, Vieira FA, Silva PS, Funari MB. Advances in lung ultrasound. Einstein (Sao Paulo). 2016 Jul-Sep;14(3):443-448. [[PMC free article: PMC5234763](/pmc/articles/PMC5234763/)] [[PubMed: 27759836](https://pubmed.ncbi.nlm.nih.gov/27759836)]
+Francisco MJ, Rahal A, Vieira FA, Silva PS, Funari MB. Advances in lung ultrasound. Einstein (Sao Paulo). 2016 Jul-Sep;14(3):443-448. \[[PMC free article: PMC5234763](/pmc/articles/PMC5234763/)\] \[[PubMed: 27759836](https://pubmed.ncbi.nlm.nih.gov/27759836)\]
 
 8.
-    
 
-Lichtenstein DA. BLUE-protocol and FALLS-protocol: two applications of lung ultrasound in the critically ill. Chest. 2015 Jun;147(6):1659-1670. [[PubMed: 26033127](https://pubmed.ncbi.nlm.nih.gov/26033127)]
+Lichtenstein DA. BLUE-protocol and FALLS-protocol: two applications of lung ultrasound in the critically ill. Chest. 2015 Jun;147(6):1659-1670. \[[PubMed: 26033127](https://pubmed.ncbi.nlm.nih.gov/26033127)\]
 
 9.
-    
 
-Lichtenstein D, Mezière G, Seitz J. The dynamic air bronchogram. A lung ultrasound sign of alveolar consolidation ruling out atelectasis. Chest. 2009 Jun;135(6):1421-1425. [[PubMed: 19225063](https://pubmed.ncbi.nlm.nih.gov/19225063)]
-
-    
+Lichtenstein D, Mezière G, Seitz J. The dynamic air bronchogram. A lung ultrasound sign of alveolar consolidation ruling out atelectasis. Chest. 2009 Jun;135(6):1421-1425. \[[PubMed: 19225063](https://pubmed.ncbi.nlm.nih.gov/19225063)\]
 
 **Disclosure:** Alan Taylor declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Fatima Anjum declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Maria O'Rourke declares no relevant financial relationships with ineligible companies.

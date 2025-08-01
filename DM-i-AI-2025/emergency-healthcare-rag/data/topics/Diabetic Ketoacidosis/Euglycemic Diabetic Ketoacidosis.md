@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-61065/
-scraped_date: 2025-07-22 12:42:42 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-61065/ scraped_date: 2025-07-22 12:42:42 UTC
 
 # Euglycemic Diabetic Ketoacidosis
 
@@ -27,11 +26,11 @@ Euglycemic diabetic ketoacidosis (EDKA) is an uncommon diabetic complication ass
 
 **Objectives:**
 
-  * Evaluate the diagnostic criteria for euglycemic diabetic ketoacidosis.
+- Evaluate the diagnostic criteria for euglycemic diabetic ketoacidosis.
 
-  * Assess the pathophysiology involved in euglycemic diabetic ketoacidosis.
+- Assess the pathophysiology involved in euglycemic diabetic ketoacidosis.
 
-  * Identify the associated risk factors for patients relative to euglycemic diabetic ketoacidosis.
+- Identify the associated risk factors for patients relative to euglycemic diabetic ketoacidosis.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=61065&utm_source=pubmed&utm_campaign=reviews&utm_content=61065)
 
@@ -99,19 +98,19 @@ Vigilant monitoring of capillary or urine ketones by patients with diabetes, esp
 
 Key facts to keep in mind about euglycemic diabetic ketoacidosis are as follows:
 
-  * Successful diagnosis depends on early screening with serum or urine ketones, even when serum glucose is normal, whenever EDKA is suspected.
+- Successful diagnosis depends on early screening with serum or urine ketones, even when serum glucose is normal, whenever EDKA is suspected.
 
-  * After volume expansion with crystalloid, the foundation of therapy is a combination of dextrose (5 to 10%) and insulin (0.05 to 0.1 u/kg/hr) infusion until acidosis resolves.
+- After volume expansion with crystalloid, the foundation of therapy is a combination of dextrose (5 to 10%) and insulin (0.05 to 0.1 u/kg/hr) infusion until acidosis resolves.
 
-  * Insulin infusion should not be avoided due to normal glucose levels, but it is essential to successful treatment.
+- Insulin infusion should not be avoided due to normal glucose levels, but it is essential to successful treatment.
 
-  * Ketosis does not resolve with intravenous crystalloid hydration alone.
+- Ketosis does not resolve with intravenous crystalloid hydration alone.
 
-  * SGLT2 inhibitor treatment should be discontinued as soon as EDKA is diagnosed.
+- SGLT2 inhibitor treatment should be discontinued as soon as EDKA is diagnosed.
 
-  * Sodium bicarbonate infusion is not indicated.
+- Sodium bicarbonate infusion is not indicated.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Euglycemic DKA is becoming more prevalent with the appearance of the new SGLT2 inhibitors. However, it is important to recognize the variety of etiologies of a potentially fatal condition. Early diagnosis and initiation of treatment can significantly improve morbidity and mortality. In patients presenting with euglycemic anion gap acidosis, great care is necessary to rule out other causes, including sepsis, toxic alcohol ingestion, and alcoholic ketoacidosis, among others. The primary treatments are early IV crystalloid and prompt initiation of insulin and dextrose infusion.
 
@@ -119,237 +118,188 @@ Treatment requires a team of interprofessional healthcare workers consisting of 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=61065&utm_source=pubmed&utm_campaign=reviews&utm_content=61065)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=61065&utm_source=pubmed&utm_campaign=reviews&utm_content=61065)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/diabetes/euglycemic-diabetic-ketoacidosis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=61065)
+- [Click here for a simplified version.](https://mdsearchlight.com/diabetes/euglycemic-diabetic-ketoacidosis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=61065)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/61065/?utm_source=pubmed&utm_campaign=comments&utm_content=61065)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/61065/?utm_source=pubmed&utm_campaign=comments&utm_content=61065)
 
 ## References
 
 1.
-    
 
-Peters AL, Buschur EO, Buse JB, Cohan P, Diner JC, Hirsch IB. Euglycemic Diabetic Ketoacidosis: A Potential Complication of Treatment With Sodium-Glucose Cotransporter 2 Inhibition. Diabetes Care. 2015 Sep;38(9):1687-93. [[PMC free article: PMC4542270](/pmc/articles/PMC4542270/)] [[PubMed: 26078479](https://pubmed.ncbi.nlm.nih.gov/26078479)]
+Peters AL, Buschur EO, Buse JB, Cohan P, Diner JC, Hirsch IB. Euglycemic Diabetic Ketoacidosis: A Potential Complication of Treatment With Sodium-Glucose Cotransporter 2 Inhibition. Diabetes Care. 2015 Sep;38(9):1687-93. \[[PMC free article: PMC4542270](/pmc/articles/PMC4542270/)\] \[[PubMed: 26078479](https://pubmed.ncbi.nlm.nih.gov/26078479)\]
 
 2.
-    
 
-Modi A, Agrawal A, Morgan F. Euglycemic Diabetic Ketoacidosis: A Review. Curr Diabetes Rev. 2017;13(3):315-321. [[PubMed: 27097605](https://pubmed.ncbi.nlm.nih.gov/27097605)]
+Modi A, Agrawal A, Morgan F. Euglycemic Diabetic Ketoacidosis: A Review. Curr Diabetes Rev. 2017;13(3):315-321. \[[PubMed: 27097605](https://pubmed.ncbi.nlm.nih.gov/27097605)\]
 
 3.
-    
 
-Rawla P, Vellipuram AR, Bandaru SS, Pradeep Raj J. Euglycemic diabetic ketoacidosis: a diagnostic and therapeutic dilemma. Endocrinol Diabetes Metab Case Rep. 2017;2017 [[PMC free article: PMC5592704](/pmc/articles/PMC5592704/)] [[PubMed: 28924481](https://pubmed.ncbi.nlm.nih.gov/28924481)]
+Rawla P, Vellipuram AR, Bandaru SS, Pradeep Raj J. Euglycemic diabetic ketoacidosis: a diagnostic and therapeutic dilemma. Endocrinol Diabetes Metab Case Rep. 2017;2017 \[[PMC free article: PMC5592704](/pmc/articles/PMC5592704/)\] \[[PubMed: 28924481](https://pubmed.ncbi.nlm.nih.gov/28924481)\]
 
 4.
-    
 
-Nasa P, Chaudhary S, Shrivastava PK, Singh A. Euglycemic diabetic ketoacidosis: A missed diagnosis. World J Diabetes. 2021 May 15;12(5):514-523. [[PMC free article: PMC8107974](/pmc/articles/PMC8107974/)] [[PubMed: 33995841](https://pubmed.ncbi.nlm.nih.gov/33995841)]
+Nasa P, Chaudhary S, Shrivastava PK, Singh A. Euglycemic diabetic ketoacidosis: A missed diagnosis. World J Diabetes. 2021 May 15;12(5):514-523. \[[PMC free article: PMC8107974](/pmc/articles/PMC8107974/)\] \[[PubMed: 33995841](https://pubmed.ncbi.nlm.nih.gov/33995841)\]
 
 5.
-    
 
-Wazir S, Shittu S, Dukhan K, Sharief M, Beer S, Malik W, Alansari L. Euglycemic diabetic ketoacidosis in pregnancy with COVID-19: A case report and literature review. Clin Case Rep. 2022 Apr;10(4):e05680. [[PMC free article: PMC8980935](/pmc/articles/PMC8980935/)] [[PubMed: 35414931](https://pubmed.ncbi.nlm.nih.gov/35414931)]
+Wazir S, Shittu S, Dukhan K, Sharief M, Beer S, Malik W, Alansari L. Euglycemic diabetic ketoacidosis in pregnancy with COVID-19: A case report and literature review. Clin Case Rep. 2022 Apr;10(4):e05680. \[[PMC free article: PMC8980935](/pmc/articles/PMC8980935/)\] \[[PubMed: 35414931](https://pubmed.ncbi.nlm.nih.gov/35414931)\]
 
 6.
-    
 
-Guo RX, Yang LZ, Li LX, Zhao XP. Diabetic ketoacidosis in pregnancy tends to occur at lower blood glucose levels: case-control study and a case report of euglycemic diabetic ketoacidosis in pregnancy. J Obstet Gynaecol Res. 2008 Jun;34(3):324-30. [[PubMed: 18588610](https://pubmed.ncbi.nlm.nih.gov/18588610)]
+Guo RX, Yang LZ, Li LX, Zhao XP. Diabetic ketoacidosis in pregnancy tends to occur at lower blood glucose levels: case-control study and a case report of euglycemic diabetic ketoacidosis in pregnancy. J Obstet Gynaecol Res. 2008 Jun;34(3):324-30. \[[PubMed: 18588610](https://pubmed.ncbi.nlm.nih.gov/18588610)\]
 
 7.
-    
 
-Madaan M, Aggarwal K, Sharma R, Trivedi SS. Diabetic ketoacidosis occurring with lower blood glucose levels in pregnancy: a report of two cases. J Reprod Med. 2012 Sep-Oct;57(9-10):452-5. [[PubMed: 23091997](https://pubmed.ncbi.nlm.nih.gov/23091997)]
+Madaan M, Aggarwal K, Sharma R, Trivedi SS. Diabetic ketoacidosis occurring with lower blood glucose levels in pregnancy: a report of two cases. J Reprod Med. 2012 Sep-Oct;57(9-10):452-5. \[[PubMed: 23091997](https://pubmed.ncbi.nlm.nih.gov/23091997)\]
 
 8.
-    
 
-Dowsett J, Humphreys R, Krones R. Normal Blood Glucose and High Blood Ketones in a Critically Unwell Patient with T1DM Post-Bariatric Surgery: a Case of Euglycemic Diabetic Ketoacidosis. Obes Surg. 2019 Jan;29(1):347-349. [[PubMed: 30328578](https://pubmed.ncbi.nlm.nih.gov/30328578)]
+Dowsett J, Humphreys R, Krones R. Normal Blood Glucose and High Blood Ketones in a Critically Unwell Patient with T1DM Post-Bariatric Surgery: a Case of Euglycemic Diabetic Ketoacidosis. Obes Surg. 2019 Jan;29(1):347-349. \[[PubMed: 30328578](https://pubmed.ncbi.nlm.nih.gov/30328578)\]
 
 9.
-    
 
-Yu X, Zhang S, Zhang L. Newer Perspectives of Mechanisms for Euglycemic Diabetic Ketoacidosis. Int J Endocrinol. 2018;2018:7074868. [[PMC free article: PMC6189664](/pmc/articles/PMC6189664/)] [[PubMed: 30369948](https://pubmed.ncbi.nlm.nih.gov/30369948)]
+Yu X, Zhang S, Zhang L. Newer Perspectives of Mechanisms for Euglycemic Diabetic Ketoacidosis. Int J Endocrinol. 2018;2018:7074868. \[[PMC free article: PMC6189664](/pmc/articles/PMC6189664/)\] \[[PubMed: 30369948](https://pubmed.ncbi.nlm.nih.gov/30369948)\]
 
 10.
-    
 
-Goldenberg RM, Berard LD, Cheng AYY, Gilbert JD, Verma S, Woo VC, Yale JF. SGLT2 Inhibitor-associated Diabetic Ketoacidosis: Clinical Review and Recommendations for Prevention and Diagnosis. Clin Ther. 2016 Dec;38(12):2654-2664.e1. [[PubMed: 28003053](https://pubmed.ncbi.nlm.nih.gov/28003053)]
+Goldenberg RM, Berard LD, Cheng AYY, Gilbert JD, Verma S, Woo VC, Yale JF. SGLT2 Inhibitor-associated Diabetic Ketoacidosis: Clinical Review and Recommendations for Prevention and Diagnosis. Clin Ther. 2016 Dec;38(12):2654-2664.e1. \[[PubMed: 28003053](https://pubmed.ncbi.nlm.nih.gov/28003053)\]
 
 11.
-    
 
-Joseph F, Anderson L, Goenka N, Vora J. Starvation-induced true diabetic euglycemic ketoacidosis in severe depression. J Gen Intern Med. 2009 Jan;24(1):129-31. [[PMC free article: PMC2607495](/pmc/articles/PMC2607495/)] [[PubMed: 18975036](https://pubmed.ncbi.nlm.nih.gov/18975036)]
+Joseph F, Anderson L, Goenka N, Vora J. Starvation-induced true diabetic euglycemic ketoacidosis in severe depression. J Gen Intern Med. 2009 Jan;24(1):129-31. \[[PMC free article: PMC2607495](/pmc/articles/PMC2607495/)\] \[[PubMed: 18975036](https://pubmed.ncbi.nlm.nih.gov/18975036)\]
 
 12.
-    
 
-Burge MR, Garcia N, Qualls CR, Schade DS. Differential effects of fasting and dehydration in the pathogenesis of diabetic ketoacidosis. Metabolism. 2001 Feb;50(2):171-7. [[PubMed: 11229425](https://pubmed.ncbi.nlm.nih.gov/11229425)]
+Burge MR, Garcia N, Qualls CR, Schade DS. Differential effects of fasting and dehydration in the pathogenesis of diabetic ketoacidosis. Metabolism. 2001 Feb;50(2):171-7. \[[PubMed: 11229425](https://pubmed.ncbi.nlm.nih.gov/11229425)\]
 
 13.
-    
 
-Secinaro E, Ciavarella S, Rizzo G, Porreca E, Vitacolonna E. SGLT2-inhibitors and euglycemic diabetic ketoacidosis in COVID-19 pandemic era: a case report. Acta Diabetol. 2022 Oct;59(10):1391-1394. [[PMC free article: PMC9206855](/pmc/articles/PMC9206855/)] [[PubMed: 35718795](https://pubmed.ncbi.nlm.nih.gov/35718795)]
+Secinaro E, Ciavarella S, Rizzo G, Porreca E, Vitacolonna E. SGLT2-inhibitors and euglycemic diabetic ketoacidosis in COVID-19 pandemic era: a case report. Acta Diabetol. 2022 Oct;59(10):1391-1394. \[[PMC free article: PMC9206855](/pmc/articles/PMC9206855/)\] \[[PubMed: 35718795](https://pubmed.ncbi.nlm.nih.gov/35718795)\]
 
 14.
-    
 
-Legaspi R, Narciso P. Euglycemic Diabetic Ketoacidosis Due to Gastroparesis, A Local Experience. J Ark Med Soc. 2015 Sep;112(5):62-3. [[PubMed: 26390536](https://pubmed.ncbi.nlm.nih.gov/26390536)]
+Legaspi R, Narciso P. Euglycemic Diabetic Ketoacidosis Due to Gastroparesis, A Local Experience. J Ark Med Soc. 2015 Sep;112(5):62-3. \[[PubMed: 26390536](https://pubmed.ncbi.nlm.nih.gov/26390536)\]
 
 15.
-    
 
-Jenkins D, Close CF, Krentz AJ, Nattrass M, Wright AD. Euglycaemic diabetic ketoacidosis: does it exist? Acta Diabetol. 1993;30(4):251-3. [[PubMed: 8180418](https://pubmed.ncbi.nlm.nih.gov/8180418)]
+Jenkins D, Close CF, Krentz AJ, Nattrass M, Wright AD. Euglycaemic diabetic ketoacidosis: does it exist? Acta Diabetol. 1993;30(4):251-3. \[[PubMed: 8180418](https://pubmed.ncbi.nlm.nih.gov/8180418)\]
 
 16.
-    
 
-Blau JE, Tella SH, Taylor SI, Rother KI. Ketoacidosis associated with SGLT2 inhibitor treatment: Analysis of FAERS data. Diabetes Metab Res Rev. 2017 Nov;33(8) [[PMC free article: PMC5950709](/pmc/articles/PMC5950709/)] [[PubMed: 28736981](https://pubmed.ncbi.nlm.nih.gov/28736981)]
+Blau JE, Tella SH, Taylor SI, Rother KI. Ketoacidosis associated with SGLT2 inhibitor treatment: Analysis of FAERS data. Diabetes Metab Res Rev. 2017 Nov;33(8) \[[PMC free article: PMC5950709](/pmc/articles/PMC5950709/)\] \[[PubMed: 28736981](https://pubmed.ncbi.nlm.nih.gov/28736981)\]
 
 17.
-    
 
-Erondu N, Desai M, Ways K, Meininger G. Diabetic Ketoacidosis and Related Events in the Canagliflozin Type 2 Diabetes Clinical Program. Diabetes Care. 2015 Sep;38(9):1680-6. [[PMC free article: PMC4542268](/pmc/articles/PMC4542268/)] [[PubMed: 26203064](https://pubmed.ncbi.nlm.nih.gov/26203064)]
+Erondu N, Desai M, Ways K, Meininger G. Diabetic Ketoacidosis and Related Events in the Canagliflozin Type 2 Diabetes Clinical Program. Diabetes Care. 2015 Sep;38(9):1680-6. \[[PMC free article: PMC4542268](/pmc/articles/PMC4542268/)\] \[[PubMed: 26203064](https://pubmed.ncbi.nlm.nih.gov/26203064)\]
 
 18.
-    
 
-Taylor SI, Blau JE, Rother KI. SGLT2 Inhibitors May Predispose to Ketoacidosis. J Clin Endocrinol Metab. 2015 Aug;100(8):2849-52. [[PMC free article: PMC4525004](/pmc/articles/PMC4525004/)] [[PubMed: 26086329](https://pubmed.ncbi.nlm.nih.gov/26086329)]
+Taylor SI, Blau JE, Rother KI. SGLT2 Inhibitors May Predispose to Ketoacidosis. J Clin Endocrinol Metab. 2015 Aug;100(8):2849-52. \[[PMC free article: PMC4525004](/pmc/articles/PMC4525004/)\] \[[PubMed: 26086329](https://pubmed.ncbi.nlm.nih.gov/26086329)\]
 
 19.
-    
 
-Somagutta MR, Agadi K, Hange N, Jain MS, Batti E, Emuze BO, Amos-Arowoshegbe EO, Popescu S, Hanan S, Kumar VR, Pormento K. Euglycemic Diabetic Ketoacidosis and Sodium-Glucose Cotransporter-2 Inhibitors: A Focused Review of Pathophysiology, Risk Factors, and Triggers. Cureus. 2021 Mar 03;13(3):e13665. [[PMC free article: PMC8012260](/pmc/articles/PMC8012260/)] [[PubMed: 33824816](https://pubmed.ncbi.nlm.nih.gov/33824816)]
+Somagutta MR, Agadi K, Hange N, Jain MS, Batti E, Emuze BO, Amos-Arowoshegbe EO, Popescu S, Hanan S, Kumar VR, Pormento K. Euglycemic Diabetic Ketoacidosis and Sodium-Glucose Cotransporter-2 Inhibitors: A Focused Review of Pathophysiology, Risk Factors, and Triggers. Cureus. 2021 Mar 03;13(3):e13665. \[[PMC free article: PMC8012260](/pmc/articles/PMC8012260/)\] \[[PubMed: 33824816](https://pubmed.ncbi.nlm.nih.gov/33824816)\]
 
 20.
-    
 
-Rosenstock J, Ferrannini E. Euglycemic Diabetic Ketoacidosis: A Predictable, Detectable, and Preventable Safety Concern With SGLT2 Inhibitors. Diabetes Care. 2015 Sep;38(9):1638-42. [[PubMed: 26294774](https://pubmed.ncbi.nlm.nih.gov/26294774)]
+Rosenstock J, Ferrannini E. Euglycemic Diabetic Ketoacidosis: A Predictable, Detectable, and Preventable Safety Concern With SGLT2 Inhibitors. Diabetes Care. 2015 Sep;38(9):1638-42. \[[PubMed: 26294774](https://pubmed.ncbi.nlm.nih.gov/26294774)\]
 
 21.
-    
 
-Henry RR, Thakkar P, Tong C, Polidori D, Alba M. Efficacy and Safety of Canagliflozin, a Sodium-Glucose Cotransporter 2 Inhibitor, as Add-on to Insulin in Patients With Type 1 Diabetes. Diabetes Care. 2015 Dec;38(12):2258-65. [[PubMed: 26486192](https://pubmed.ncbi.nlm.nih.gov/26486192)]
+Henry RR, Thakkar P, Tong C, Polidori D, Alba M. Efficacy and Safety of Canagliflozin, a Sodium-Glucose Cotransporter 2 Inhibitor, as Add-on to Insulin in Patients With Type 1 Diabetes. Diabetes Care. 2015 Dec;38(12):2258-65. \[[PubMed: 26486192](https://pubmed.ncbi.nlm.nih.gov/26486192)\]
 
 22.
-    
 
-Pfützner A, Klonoff D, Heinemann L, Ejskjaer N, Pickup J. Euglycemic ketosis in patients with type 2 diabetes on SGLT2-inhibitor therapy-an emerging problem and solutions offered by diabetes technology. Endocrine. 2017 Apr;56(1):212-216. [[PubMed: 28303514](https://pubmed.ncbi.nlm.nih.gov/28303514)]
+Pfützner A, Klonoff D, Heinemann L, Ejskjaer N, Pickup J. Euglycemic ketosis in patients with type 2 diabetes on SGLT2-inhibitor therapy-an emerging problem and solutions offered by diabetes technology. Endocrine. 2017 Apr;56(1):212-216. \[[PubMed: 28303514](https://pubmed.ncbi.nlm.nih.gov/28303514)\]
 
 23.
-    
 
-Bonner C, Kerr-Conte J, Gmyr V, Queniat G, Moerman E, Thévenet J, Beaucamps C, Delalleau N, Popescu I, Malaisse WJ, Sener A, Deprez B, Abderrahmani A, Staels B, Pattou F. Inhibition of the glucose transporter SGLT2 with dapagliflozin in pancreatic alpha cells triggers glucagon secretion. Nat Med. 2015 May;21(5):512-7. [[PubMed: 25894829](https://pubmed.ncbi.nlm.nih.gov/25894829)]
+Bonner C, Kerr-Conte J, Gmyr V, Queniat G, Moerman E, Thévenet J, Beaucamps C, Delalleau N, Popescu I, Malaisse WJ, Sener A, Deprez B, Abderrahmani A, Staels B, Pattou F. Inhibition of the glucose transporter SGLT2 with dapagliflozin in pancreatic alpha cells triggers glucagon secretion. Nat Med. 2015 May;21(5):512-7. \[[PubMed: 25894829](https://pubmed.ncbi.nlm.nih.gov/25894829)\]
 
 24.
-    
 
-Ferrannini E, Muscelli E, Frascerra S, Baldi S, Mari A, Heise T, Broedl UC, Woerle HJ. Metabolic response to sodium-glucose cotransporter 2 inhibition in type 2 diabetic patients. J Clin Invest. 2014 Feb;124(2):499-508. [[PMC free article: PMC3904627](/pmc/articles/PMC3904627/)] [[PubMed: 24463454](https://pubmed.ncbi.nlm.nih.gov/24463454)]
+Ferrannini E, Muscelli E, Frascerra S, Baldi S, Mari A, Heise T, Broedl UC, Woerle HJ. Metabolic response to sodium-glucose cotransporter 2 inhibition in type 2 diabetic patients. J Clin Invest. 2014 Feb;124(2):499-508. \[[PMC free article: PMC3904627](/pmc/articles/PMC3904627/)\] \[[PubMed: 24463454](https://pubmed.ncbi.nlm.nih.gov/24463454)\]
 
 25.
-    
 
-Crespo L, McConnell B, Wick JY. Euglycemic Diabetic Ketoacidosis: Hidden in Plain Sight. Consult Pharm. 2016;31(8):426-34. [[PubMed: 27535077](https://pubmed.ncbi.nlm.nih.gov/27535077)]
+Crespo L, McConnell B, Wick JY. Euglycemic Diabetic Ketoacidosis: Hidden in Plain Sight. Consult Pharm. 2016;31(8):426-34. \[[PubMed: 27535077](https://pubmed.ncbi.nlm.nih.gov/27535077)\]
 
 26.
-    
 
-Umpierrez GE. Diabetes: SGLT2 inhibitors and diabetic ketoacidosis - a growing concern. Nat Rev Endocrinol. 2017 Aug;13(8):441-442. [[PubMed: 28621337](https://pubmed.ncbi.nlm.nih.gov/28621337)]
+Umpierrez GE. Diabetes: SGLT2 inhibitors and diabetic ketoacidosis - a growing concern. Nat Rev Endocrinol. 2017 Aug;13(8):441-442. \[[PubMed: 28621337](https://pubmed.ncbi.nlm.nih.gov/28621337)\]
 
 27.
-    
 
-Bader N, Mirza L. Euglycemic Diabetic Ketoacidosis in a 27 year-old female patient with type-1-Diabetes treated with sodium-glucose cotransporter-2 (SGLT2) inhibitor Canagliflozin. Pak J Med Sci. 2016 May-Jun;32(3):786-8. [[PMC free article: PMC4928443](/pmc/articles/PMC4928443/)] [[PubMed: 27375734](https://pubmed.ncbi.nlm.nih.gov/27375734)]
+Bader N, Mirza L. Euglycemic Diabetic Ketoacidosis in a 27 year-old female patient with type-1-Diabetes treated with sodium-glucose cotransporter-2 (SGLT2) inhibitor Canagliflozin. Pak J Med Sci. 2016 May-Jun;32(3):786-8. \[[PMC free article: PMC4928443](/pmc/articles/PMC4928443/)\] \[[PubMed: 27375734](https://pubmed.ncbi.nlm.nih.gov/27375734)\]
 
 28.
-    
 
-Sinha N, Venkatram S, Diaz-Fuentes G. Starvation ketoacidosis: a cause of severe anion gap metabolic acidosis in pregnancy. Case Rep Crit Care. 2014;2014:906283. [[PMC free article: PMC4055099](/pmc/articles/PMC4055099/)] [[PubMed: 24963418](https://pubmed.ncbi.nlm.nih.gov/24963418)]
+Sinha N, Venkatram S, Diaz-Fuentes G. Starvation ketoacidosis: a cause of severe anion gap metabolic acidosis in pregnancy. Case Rep Crit Care. 2014;2014:906283. \[[PMC free article: PMC4055099](/pmc/articles/PMC4055099/)\] \[[PubMed: 24963418](https://pubmed.ncbi.nlm.nih.gov/24963418)\]
 
 29.
-    
 
-Lucero P, Chapela S. Euglycemic Diabetic Ketoacidosis in the ICU: 3 Case Reports and Review of Literature. Case Rep Crit Care. 2018;2018:1747850. [[PMC free article: PMC6188774](/pmc/articles/PMC6188774/)] [[PubMed: 30364093](https://pubmed.ncbi.nlm.nih.gov/30364093)]
+Lucero P, Chapela S. Euglycemic Diabetic Ketoacidosis in the ICU: 3 Case Reports and Review of Literature. Case Rep Crit Care. 2018;2018:1747850. \[[PMC free article: PMC6188774](/pmc/articles/PMC6188774/)\] \[[PubMed: 30364093](https://pubmed.ncbi.nlm.nih.gov/30364093)\]
 
 30.
-    
 
-Dass B, Beck A, Holmes C, Morton G. Euglycemic DKA (euDKA) as a presentation of COVID-19. Clin Case Rep. 2021 Jan;9(1):395-398. [[PMC free article: PMC7753533](/pmc/articles/PMC7753533/)] [[PubMed: 33362928](https://pubmed.ncbi.nlm.nih.gov/33362928)]
+Dass B, Beck A, Holmes C, Morton G. Euglycemic DKA (euDKA) as a presentation of COVID-19. Clin Case Rep. 2021 Jan;9(1):395-398. \[[PMC free article: PMC7753533](/pmc/articles/PMC7753533/)\] \[[PubMed: 33362928](https://pubmed.ncbi.nlm.nih.gov/33362928)\]
 
 31.
-    
 
-Dhatariya K. Blood Ketones: Measurement, Interpretation, Limitations, and Utility in the Management of Diabetic Ketoacidosis. Rev Diabet Stud. 2016 Winter;13(4):217-225. [[PMC free article: PMC5734222](/pmc/articles/PMC5734222/)] [[PubMed: 28278308](https://pubmed.ncbi.nlm.nih.gov/28278308)]
+Dhatariya K. Blood Ketones: Measurement, Interpretation, Limitations, and Utility in the Management of Diabetic Ketoacidosis. Rev Diabet Stud. 2016 Winter;13(4):217-225. \[[PMC free article: PMC5734222](/pmc/articles/PMC5734222/)\] \[[PubMed: 28278308](https://pubmed.ncbi.nlm.nih.gov/28278308)\]
 
 32.
-    
 
-Kang CY, Khamooshi P, Reyes Pinzon V. An Unsuspected Case of Euglycemic Diabetic Ketoacidosis With Twists. Cureus. 2022 Apr;14(4):e24016. [[PMC free article: PMC9091341](/pmc/articles/PMC9091341/)] [[PubMed: 35573514](https://pubmed.ncbi.nlm.nih.gov/35573514)]
+Kang CY, Khamooshi P, Reyes Pinzon V. An Unsuspected Case of Euglycemic Diabetic Ketoacidosis With Twists. Cureus. 2022 Apr;14(4):e24016. \[[PMC free article: PMC9091341](/pmc/articles/PMC9091341/)\] \[[PubMed: 35573514](https://pubmed.ncbi.nlm.nih.gov/35573514)\]
 
 33.
-    
 
-Fernandez Felix DA, Madrigal Loria G, Sharma S, Sharma S, Arias Morales CE. A Rare Case of Empagliflozin-Induced Euglycemic Diabetic Ketoacidosis Obscured by Alkalosis. Cureus. 2022 Jun;14(6):e25818. [[PMC free article: PMC9186101](/pmc/articles/PMC9186101/)] [[PubMed: 35698468](https://pubmed.ncbi.nlm.nih.gov/35698468)]
+Fernandez Felix DA, Madrigal Loria G, Sharma S, Sharma S, Arias Morales CE. A Rare Case of Empagliflozin-Induced Euglycemic Diabetic Ketoacidosis Obscured by Alkalosis. Cureus. 2022 Jun;14(6):e25818. \[[PMC free article: PMC9186101](/pmc/articles/PMC9186101/)\] \[[PubMed: 35698468](https://pubmed.ncbi.nlm.nih.gov/35698468)\]
 
 34.
-    
 
-Munro JF, Campbell IW, McCuish AC, Duncan LJ. Euglycaemic diabetic ketoacidosis. Br Med J. 1973 Jun 09;2(5866):578-80. [[PMC free article: PMC1592207](/pmc/articles/PMC1592207/)] [[PubMed: 4197425](https://pubmed.ncbi.nlm.nih.gov/4197425)]
+Munro JF, Campbell IW, McCuish AC, Duncan LJ. Euglycaemic diabetic ketoacidosis. Br Med J. 1973 Jun 09;2(5866):578-80. \[[PMC free article: PMC1592207](/pmc/articles/PMC1592207/)\] \[[PubMed: 4197425](https://pubmed.ncbi.nlm.nih.gov/4197425)\]
 
 35.
-    
 
-Wan Azman SS, Sukor N, Abu Shamsi MY, Ismail I, Kamaruddin NA. Case Report: High-Calorie Glucose Infusion and Tight Glycemic Control in Ameliorating Refractory Acidosis of Empagliflozin-Induced Euglycemic Diabetic Ketoacidosis. Front Endocrinol (Lausanne). 2022;13:867647. [[PMC free article: PMC9197436](/pmc/articles/PMC9197436/)] [[PubMed: 35712244](https://pubmed.ncbi.nlm.nih.gov/35712244)]
+Wan Azman SS, Sukor N, Abu Shamsi MY, Ismail I, Kamaruddin NA. Case Report: High-Calorie Glucose Infusion and Tight Glycemic Control in Ameliorating Refractory Acidosis of Empagliflozin-Induced Euglycemic Diabetic Ketoacidosis. Front Endocrinol (Lausanne). 2022;13:867647. \[[PMC free article: PMC9197436](/pmc/articles/PMC9197436/)\] \[[PubMed: 35712244](https://pubmed.ncbi.nlm.nih.gov/35712244)\]
 
 36.
-    
 
-Nyenwe EA, Kitabchi AE. The evolution of diabetic ketoacidosis: An update of its etiology, pathogenesis and management. Metabolism. 2016 Apr;65(4):507-21. [[PubMed: 26975543](https://pubmed.ncbi.nlm.nih.gov/26975543)]
+Nyenwe EA, Kitabchi AE. The evolution of diabetic ketoacidosis: An update of its etiology, pathogenesis and management. Metabolism. 2016 Apr;65(4):507-21. \[[PubMed: 26975543](https://pubmed.ncbi.nlm.nih.gov/26975543)\]
 
 37.
-    
 
-Zughaib MT, Patel K, Leka M, Affas S. Self-Induced Euglycemic Diabetic Ketoacidosis: When to Stop the Drip. Cureus. 2022 Jan;14(1):e21768. [[PMC free article: PMC8890007](/pmc/articles/PMC8890007/)] [[PubMed: 35251838](https://pubmed.ncbi.nlm.nih.gov/35251838)]
+Zughaib MT, Patel K, Leka M, Affas S. Self-Induced Euglycemic Diabetic Ketoacidosis: When to Stop the Drip. Cureus. 2022 Jan;14(1):e21768. \[[PMC free article: PMC8890007](/pmc/articles/PMC8890007/)\] \[[PubMed: 35251838](https://pubmed.ncbi.nlm.nih.gov/35251838)\]
 
 38.
-    
 
-Dai Z, Nishihata Y, Kawamatsu N, Komatsu I, Mizuno A, Shimizu M, Toya N, Ishimatsu S, Komiyama N. Cardiac arrest from acute myocardial infarction complicated with sodium-glucose cotransporter 2 inhibitor-associated ketoacidosis. J Cardiol Cases. 2017 Feb;15(2):56-60. [[PMC free article: PMC6283723](/pmc/articles/PMC6283723/)] [[PubMed: 30546697](https://pubmed.ncbi.nlm.nih.gov/30546697)]
+Dai Z, Nishihata Y, Kawamatsu N, Komatsu I, Mizuno A, Shimizu M, Toya N, Ishimatsu S, Komiyama N. Cardiac arrest from acute myocardial infarction complicated with sodium-glucose cotransporter 2 inhibitor-associated ketoacidosis. J Cardiol Cases. 2017 Feb;15(2):56-60. \[[PMC free article: PMC6283723](/pmc/articles/PMC6283723/)\] \[[PubMed: 30546697](https://pubmed.ncbi.nlm.nih.gov/30546697)\]
 
 39.
-    
 
-Dalfrà MG, Burlina S, Sartore G, Lapolla A. Ketoacidosis in diabetic pregnancy. J Matern Fetal Neonatal Med. 2016 Sep;29(17):2889-95. [[PubMed: 26461169](https://pubmed.ncbi.nlm.nih.gov/26461169)]
+Dalfrà MG, Burlina S, Sartore G, Lapolla A. Ketoacidosis in diabetic pregnancy. J Matern Fetal Neonatal Med. 2016 Sep;29(17):2889-95. \[[PubMed: 26461169](https://pubmed.ncbi.nlm.nih.gov/26461169)\]
 
 40.
-    
 
-Tarif N, Al Badr W. Euglycemic diabetic ketoacidosis in pregnancy. Saudi J Kidney Dis Transpl. 2007 Nov;18(4):590-3. [[PubMed: 17951948](https://pubmed.ncbi.nlm.nih.gov/17951948)]
+Tarif N, Al Badr W. Euglycemic diabetic ketoacidosis in pregnancy. Saudi J Kidney Dis Transpl. 2007 Nov;18(4):590-3. \[[PubMed: 17951948](https://pubmed.ncbi.nlm.nih.gov/17951948)\]
 
 41.
-    
 
-Packer M, Anker SD, Butler J, Filippatos G, Pocock SJ, Carson P, Januzzi J, Verma S, Tsutsui H, Brueckmann M, Jamal W, Kimura K, Schnee J, Zeller C, Cotton D, Bocchi E, Böhm M, Choi DJ, Chopra V, Chuquiure E, Giannetti N, Janssens S, Zhang J, Gonzalez Juanatey JR, Kaul S, Brunner-La Rocca HP, Merkely B, Nicholls SJ, Perrone S, Pina I, Ponikowski P, Sattar N, Senni M, Seronde MF, Spinar J, Squire I, Taddei S, Wanner C, Zannad F., EMPEROR-Reduced Trial Investigators. Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure. N Engl J Med. 2020 Oct 08;383(15):1413-1424. [[PubMed: 32865377](https://pubmed.ncbi.nlm.nih.gov/32865377)]
+Packer M, Anker SD, Butler J, Filippatos G, Pocock SJ, Carson P, Januzzi J, Verma S, Tsutsui H, Brueckmann M, Jamal W, Kimura K, Schnee J, Zeller C, Cotton D, Bocchi E, Böhm M, Choi DJ, Chopra V, Chuquiure E, Giannetti N, Janssens S, Zhang J, Gonzalez Juanatey JR, Kaul S, Brunner-La Rocca HP, Merkely B, Nicholls SJ, Perrone S, Pina I, Ponikowski P, Sattar N, Senni M, Seronde MF, Spinar J, Squire I, Taddei S, Wanner C, Zannad F., EMPEROR-Reduced Trial Investigators. Cardiovascular and Renal Outcomes with Empagliflozin in Heart Failure. N Engl J Med. 2020 Oct 08;383(15):1413-1424. \[[PubMed: 32865377](https://pubmed.ncbi.nlm.nih.gov/32865377)\]
 
 42.
-    
 
-McMurray JJV, Solomon SD, Inzucchi SE, Køber L, Kosiborod MN, Martinez FA, Ponikowski P, Sabatine MS, Anand IS, Bělohlávek J, Böhm M, Chiang CE, Chopra VK, de Boer RA, Desai AS, Diez M, Drozdz J, Dukát A, Ge J, Howlett JG, Katova T, Kitakaze M, Ljungman CEA, Merkely B, Nicolau JC, O'Meara E, Petrie MC, Vinh PN, Schou M, Tereshchenko S, Verma S, Held C, DeMets DL, Docherty KF, Jhund PS, Bengtsson O, Sjöstrand M, Langkilde AM., DAPA-HF Trial Committees and Investigators. Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction. N Engl J Med. 2019 Nov 21;381(21):1995-2008. [[PubMed: 31535829](https://pubmed.ncbi.nlm.nih.gov/31535829)]
+McMurray JJV, Solomon SD, Inzucchi SE, Køber L, Kosiborod MN, Martinez FA, Ponikowski P, Sabatine MS, Anand IS, Bělohlávek J, Böhm M, Chiang CE, Chopra VK, de Boer RA, Desai AS, Diez M, Drozdz J, Dukát A, Ge J, Howlett JG, Katova T, Kitakaze M, Ljungman CEA, Merkely B, Nicolau JC, O'Meara E, Petrie MC, Vinh PN, Schou M, Tereshchenko S, Verma S, Held C, DeMets DL, Docherty KF, Jhund PS, Bengtsson O, Sjöstrand M, Langkilde AM., DAPA-HF Trial Committees and Investigators. Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction. N Engl J Med. 2019 Nov 21;381(21):1995-2008. \[[PubMed: 31535829](https://pubmed.ncbi.nlm.nih.gov/31535829)\]
 
 43.
-    
 
-Heerspink HJL, Stefánsson BV, Correa-Rotter R, Chertow GM, Greene T, Hou FF, Mann JFE, McMurray JJV, Lindberg M, Rossing P, Sjöström CD, Toto RD, Langkilde AM, Wheeler DC., DAPA-CKD Trial Committees and Investigators. Dapagliflozin in Patients with Chronic Kidney Disease. N Engl J Med. 2020 Oct 08;383(15):1436-1446. [[PubMed: 32970396](https://pubmed.ncbi.nlm.nih.gov/32970396)]
-
-    
+Heerspink HJL, Stefánsson BV, Correa-Rotter R, Chertow GM, Greene T, Hou FF, Mann JFE, McMurray JJV, Lindberg M, Rossing P, Sjöström CD, Toto RD, Langkilde AM, Wheeler DC., DAPA-CKD Trial Committees and Investigators. Dapagliflozin in Patients with Chronic Kidney Disease. N Engl J Med. 2020 Oct 08;383(15):1436-1446. \[[PubMed: 32970396](https://pubmed.ncbi.nlm.nih.gov/32970396)\]
 
 **Disclosure:** Michael Plewa declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Michael Bryant declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Robin King-Thiele declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27632/
-scraped_date: 2025-07-22 12:49:03 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27632/ scraped_date: 2025-07-22 12:49:03 UTC
 
 # Eclampsia
 
@@ -29,13 +28,13 @@ This course enhances healthcare professionals' ability to recognize the signs of
 
 **Objectives:**
 
-  * Identify the early signs and symptoms of eclampsia, including new-onset seizures, severe headaches, and visual disturbances.
+- Identify the early signs and symptoms of eclampsia, including new-onset seizures, severe headaches, and visual disturbances.
 
-  * Differentiate eclampsia from other neurological conditions such as epilepsy or cerebrovascular events.
+- Differentiate eclampsia from other neurological conditions such as epilepsy or cerebrovascular events.
 
-  * Implement evidence-based protocols for managing eclampsia, including the administration of magnesium sulfate.
+- Implement evidence-based protocols for managing eclampsia, including the administration of magnesium sulfate.
 
-  * Develop and implement interprofessional team strategies to improve care coordination and outcomes in patients with eclampsia.
+- Develop and implement interprofessional team strategies to improve care coordination and outcomes in patients with eclampsia.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27632&utm_source=pubmed&utm_campaign=reviews&utm_content=27632)
 
@@ -67,31 +66,31 @@ Globally, hypertensive disorders of pregnancy are the most common cause of morbi
 
 Eclampsia and other hypertensive disorders of pregnancy have many of the same risk factors: chronic hypertension, younger age, those with lower education levels, and first-time mothers.[10] According to the results from a recent eclampsia study, approximately one-third of eclampsia cases occurred in women younger than 20.[9] Other risk factors include:
 
-  * Personal history of pregnancy hypertensive disorder
+- Personal history of pregnancy hypertensive disorder
 
-  * Family history of preeclampsia
+- Family history of preeclampsia
 
-  * Prepregnancy chronic hypertension
+- Prepregnancy chronic hypertension
 
-  * Comorbid conditions such as diabetes, renal disease, and autoimmune disorders
+- Comorbid conditions such as diabetes, renal disease, and autoimmune disorders
 
-  * Maternal obesity (body mass index >30 kg/m2)
+- Maternal obesity (body mass index >30 kg/m2)
 
-  * History of preterm birth less than 32 weeks of gestation [11]
+- History of preterm birth less than 32 weeks of gestation [11]
 
-  * Low socioeconomic status
+- Low socioeconomic status
 
-  * Insufficient prenatal care [11]
+- Insufficient prenatal care [11]
 
-  * Maternal age older than 35
+- Maternal age older than 35
 
-  * Multifetal gestation
+- Multifetal gestation
 
-  * Interval since previous birth of 10 or more years
+- Interval since previous birth of 10 or more years
 
-  * African American ethnicity
+- African American ethnicity
 
-  * In vitro fertilization [12][13]
+- In vitro fertilization [12][13]
 
 ## Pathophysiology
 
@@ -139,98 +138,105 @@ These abnormal EEG findings typically persist even with seizure prophylaxis usin
 
 Eclamptic seizures are a medical emergency and require immediate treatment to prevent mortality for the patient and fetus. The management approach for eclampsia should balance immediate supportive measures, seizure control, and the prevention of recurrent convulsions while ensuring a safe and optimally timed delivery and closely monitored postpartum care.[3][10] The management of eclampsia should include the following components:
 
-  * **Initial supportive measures**
-    * **Call for assistance** : Immediate help should be summoned as other trained clinicians are essential to stabilize the patient, evaluate underlying maternal-fetal conditions, and prepare for delivery simultaneously.[10]
+- **Initial supportive measures**
 
-    * **Maternal positioning** : Patients should be placed in the lateral decubitus position to improve blood flow and reduce the risk of aspiration.[2]
+  - **Call for assistance** : Immediate help should be summoned as other trained clinicians are essential to stabilize the patient, evaluate underlying maternal-fetal conditions, and prepare for delivery simultaneously.[10]
 
-    * **Preventing injury** : Clinicians should ensure the patient's safety by elevating and padding the bed rails. However, restraining the patient during seizures is not advised.[11]
+  - **Maternal positioning** : Patients should be placed in the lateral decubitus position to improve blood flow and reduce the risk of aspiration.[2]
 
-    * **Airway and oxygenation** : Maintaining a patent airway and preventing aspiration by suctioning secretions are critical. During the seizure, supplemental oxygen administered at 8 to 10 L/min via a face mask is recommended to ensure optimal maternal-fetal oxygenation. Oxygen saturation should continue to be monitored following the seizure to assess for the development of complications, including aspiration and pulmonary edema, which may result in maternal hypoxia and, therefore, necessitate treatment.[2][11]
+  - **Preventing injury** : Clinicians should ensure the patient's safety by elevating and padding the bed rails. However, restraining the patient during seizures is not advised.[11]
 
-    * **Vital signs and laboratory studies** : During and after the seizure, the healthcare team should monitor oxygen saturation, vital signs, urine output, and fluid status closely for at least 72 hours. Following the seizure, laboratory assessments should be performed, including complete blood count, liver function tests, and creatinine levels.[2][11]
+  - **Airway and oxygenation** : Maintaining a patent airway and preventing aspiration by suctioning secretions are critical. During the seizure, supplemental oxygen administered at 8 to 10 L/min via a face mask is recommended to ensure optimal maternal-fetal oxygenation. Oxygen saturation should continue to be monitored following the seizure to assess for the development of complications, including aspiration and pulmonary edema, which may result in maternal hypoxia and, therefore, necessitate treatment.[2][11]
 
-  * **Seizure management**
-    * **Magnesium sulfate** : Magnesium sulfate is preferred over other antiseizure treatments for eclamptic seizure prevention. While most seizures are self-limiting, magnesium sulfate is administered primarily to prevent further seizure activity, not to halt the current seizure.[2] The recommended standard loading dose is 6 g intravenous (IV) over 15 to 20 min, followed by a 2 g/hour maintenance dose. In patients without IV access, a loading dose of magnesium sulfate 10 g intramuscularly, followed by a maintenance dose of 5 g intramuscularly every 4 hours, may be used as an alternative regimen.[11][2]
+  - **Vital signs and laboratory studies** : During and after the seizure, the healthcare team should monitor oxygen saturation, vital signs, urine output, and fluid status closely for at least 72 hours. Following the seizure, laboratory assessments should be performed, including complete blood count, liver function tests, and creatinine levels.[2][11]
 
-    * In patients with contraindications to magnesium sulfate (eg, myasthenia gravis, hypocalcemia, renal failure, cardiac ischemia, heart block, or myocarditis), alternative antiseizure therapies (eg, phenytoin and diazepam) may be considered.[2] Levetiracetam may be preferable in patients with myasthenia gravis, a condition that may be exacerbated by phenytoin.[18]
+- **Seizure management**
 
-    * **Recurrent seizures** : If convulsions recur, clinicians may consider administering an additional 2 to 4 g of magnesium sulfate over 5 min.[2] If seizures persist after 20 minues, or more than 2 seizures have occurred despite magnesium therapy, lorazepam 4 mg IV over 3 to 5 minutes is recommended.[11] Other alternative seizure interventions that may be utilized include: 
-      * **Sodium amobarbital** : 250 mg IV in 3 minutes [2]
+  - **Magnesium sulfate** : Magnesium sulfate is preferred over other antiseizure treatments for eclamptic seizure prevention. While most seizures are self-limiting, magnesium sulfate is administered primarily to prevent further seizure activity, not to halt the current seizure.[2] The recommended standard loading dose is 6 g intravenous (IV) over 15 to 20 min, followed by a 2 g/hour maintenance dose. In patients without IV access, a loading dose of magnesium sulfate 10 g intramuscularly, followed by a maintenance dose of 5 g intramuscularly every 4 hours, may be used as an alternative regimen.[11][2]
 
-      * **Diazepam** : Loading dose of 10 mg IV over 2 min, then maintenance dose of 40 mg in 500 mL normal saline for 24 hours, followed by 20 mg in 500 mL for the next 24 hours [19]
+  - In patients with contraindications to magnesium sulfate (eg, myasthenia gravis, hypocalcemia, renal failure, cardiac ischemia, heart block, or myocarditis), alternative antiseizure therapies (eg, phenytoin and diazepam) may be considered.[2] Levetiracetam may be preferable in patients with myasthenia gravis, a condition that may be exacerbated by phenytoin.[18]
 
-      * **Phenytoin** : Loading dose of 10 mg/kg initially in 30 minutes, then 2 hours later administer 5 mg/kg over 10 minutes, followed by a maintenance dose of 300 mg IV over 10 minutes for 24 hours from the last seizure [19]
+  - **Recurrent seizures** : If convulsions recur, clinicians may consider administering an additional 2 to 4 g of magnesium sulfate over 5 min.[2] If seizures persist after 20 minues, or more than 2 seizures have occurred despite magnesium therapy, lorazepam 4 mg IV over 3 to 5 minutes is recommended.[11] Other alternative seizure interventions that may be utilized include:
 
-    * **Fetal monitoring** : During seizures, fetal heart rate decelerations, bradycardia, or tachycardia may occur secondary to maternal hypoxia and hypercapnia. Uterine contractions can increase but usually resolve once the maternal condition stabilizes.[2][11]
+    - **Sodium amobarbital** : 250 mg IV in 3 minutes [2]
 
-    * **Postpartum management** : Magnesium sulfate is recommended to prevent eclamptic seizures in postpartum patients with new-onset hypertension and neurologic symptoms (eg, headaches and blurred vision) or preeclampsia with severe features.[1]
+    - **Diazepam** : Loading dose of 10 mg IV over 2 min, then maintenance dose of 40 mg in 500 mL normal saline for 24 hours, followed by 20 mg in 500 mL for the next 24 hours [19]
 
-  * **Magnesium sulfate monitoring**
-    * **Therapeutic levels** : Elevated levels of magnesium sulfate can cause adverse events, including respiratory depression and cardiac arrest. Therefore, clinicians should monitor for clinical signs of toxicity, including decreased urine output, absent deep tendon reflexes, and respiratory depression. Clinicians should assess magnesium serum levels every 4 to 6 hours in patients with renal impairment due to the increased risk of toxicity.[2][11]
+    - **Phenytoin** : Loading dose of 10 mg/kg initially in 30 minutes, then 2 hours later administer 5 mg/kg over 10 minutes, followed by a maintenance dose of 300 mg IV over 10 minutes for 24 hours from the last seizure [19]
 
-    * **Toxicity management** : In patients demonstrating signs of magnesium toxicity (eg, respiratory depression) or the serum level is >9.6 mg/dL, the magnesium sulfate infusion should be discontinued, and calcium gluconate 10% solution (10 mL IV) can be administered over 3 min as an antidote.[11]
+  - **Fetal monitoring** : During seizures, fetal heart rate decelerations, bradycardia, or tachycardia may occur secondary to maternal hypoxia and hypercapnia. Uterine contractions can increase but usually resolve once the maternal condition stabilizes.[2][11]
 
-    * **Magnesium sulfate duration** : Continuing magnesium sulfate administration is recommended for 24 hours after delivery or the last seizure.[11]
+  - **Postpartum management** : Magnesium sulfate is recommended to prevent eclamptic seizures in postpartum patients with new-onset hypertension and neurologic symptoms (eg, headaches and blurred vision) or preeclampsia with severe features.[1]
 
-  * **Antihypertensive management**
-    * **Blood pressure control** : Treatment of severe hypertension is associated with decreased maternal-fetal morbidity. Experts recommend gradually reducing and maintaining blood pressure between a systolic of 140 and 160 mm Hg and a diastolic blood pressure of 90 and 110 mm Hg without causing a sudden drop that may compromise placental perfusion. Management of a hypertensive crisis usually involves rapid-acting IV first-line medications, such as hydralazine, labetalol, or nifedipine.[3][11]
+- **Magnesium sulfate monitoring**
 
-    * **Hydralazine** : Hydralazine is typically administered with a dosage of 5 to 10 mg IV, with repeat doses every 20 minutes as needed to a maximum total of 20 mg.[11] Hydralazine works by dilating blood vessels, reducing vascular resistance, and relaxing the smooth muscles of precapillary arterioles, which helps lower blood pressure. Additionally, hydralazine is associated with improved placental circulation. Common adverse events include reflex tachycardia and increased cardiac output, while rarer adverse effects include dizziness, chest pain, fluid retention, and severe hypotension. Clinicians should be especially aware of potential hypotension when using hydralazine as patients with preeclampsia typically have decreased intravascular volume already, and hypotension may result in further uteroplacental insufficiency.[3] Therefore, hydralazine requires careful fluid balance and intravascular volume monitoring to avoid complications, including pulmonary edema.[3]
+  - **Therapeutic levels** : Elevated levels of magnesium sulfate can cause adverse events, including respiratory depression and cardiac arrest. Therefore, clinicians should monitor for clinical signs of toxicity, including decreased urine output, absent deep tendon reflexes, and respiratory depression. Clinicians should assess magnesium serum levels every 4 to 6 hours in patients with renal impairment due to the increased risk of toxicity.[2][11]
 
-    * **Labetalol** : Labetalol is a beta blocker that dilates blood vessels and reduces vascular resistance, heart rate, and blood pressure while maintaining normal peripheral and uteroplacental circulation. In many institutions, labetalol is preferred over other first-line antihypertensives. The recommended regimen for emergent blood pressure control is 10 to 20 mg IV initially, followed by 20 to 80 mg every 10 to 30 min up to a maximum dosage of 300 mg. Alternatively, an infusion of 1 to 2 mg/min IV may be administered. Labetalol reduces BP while maintaining peripheral circulation, including uteroplacental blood flow. Labetalol is effective with relatively mild adverse effects and is suitable for patients with heart failure or after a heart attack. However, it can cause bradycardia in both mother and fetus and should not be used with calcium channel blockers or in patients with certain conditions, including asthma or heart block.[2][11]
+  - **Toxicity management** : In patients demonstrating signs of magnesium toxicity (eg, respiratory depression) or the serum level is >9.6 mg/dL, the magnesium sulfate infusion should be discontinued, and calcium gluconate 10% solution (10 mL IV) can be administered over 3 min as an antidote.[11]
 
-    * **Nifedipine** : Oral nifedipine may also be used for severe hypertension with a recommended dosage of 10 to 20 mg, repeated in 20 minutes if needed. A subsequent 10 to 20 mg dose may be administered every 2 to 6 hours up to a maximum daily dose of 180 mg. The protective renal effect and rapid onset are benefits of nifedipine.[20] Adverse effects include reflex tachycardia and headache.[2][11]
+  - **Magnesium sulfate duration** : Continuing magnesium sulfate administration is recommended for 24 hours after delivery or the last seizure.[11]
 
-  * **Delivery Considerations**
-    * **Delivery timing:** Eclampsia is an indication for delivery; cesarean delivery is not necessarily required. The mode of delivery should be based on various clinical features, including gestational age, fetal presentation, and cervical favorability. Please see StatPearls' companion resource, "[Bishop Score](https://www.statpearls.com/point-of-care/18340)," for more information on cervical favorability. Due to the increased risk for labor induction failure, in pregnancies under 30 weeks gestation with an unfavorable cervix, cesarean delivery is recommended.[2][11]
+- **Antihypertensive management**
 
-    * **Maternal resuscitation** : The maternal-fetal condition should be stabilized before proceeding with delivery. Following stabilization, fetal heart rate and uterine activity typically normalize.[2][11]
+  - **Blood pressure control** : Treatment of severe hypertension is associated with decreased maternal-fetal morbidity. Experts recommend gradually reducing and maintaining blood pressure between a systolic of 140 and 160 mm Hg and a diastolic blood pressure of 90 and 110 mm Hg without causing a sudden drop that may compromise placental perfusion. Management of a hypertensive crisis usually involves rapid-acting IV first-line medications, such as hydralazine, labetalol, or nifedipine.[3][11]
 
-    * **Antenatal steroids** : A full course of corticosteroids should be administered in pregnancies less than 34 weeks gestation for fetal lung maturation; delivery should not be delayed to complete the steroid course if the maternal-fetal condition begins to deteriorate.[2]
+  - **Hydralazine** : Hydralazine is typically administered with a dosage of 5 to 10 mg IV, with repeat doses every 20 minutes as needed to a maximum total of 20 mg.[11] Hydralazine works by dilating blood vessels, reducing vascular resistance, and relaxing the smooth muscles of precapillary arterioles, which helps lower blood pressure. Additionally, hydralazine is associated with improved placental circulation. Common adverse events include reflex tachycardia and increased cardiac output, while rarer adverse effects include dizziness, chest pain, fluid retention, and severe hypotension. Clinicians should be especially aware of potential hypotension when using hydralazine as patients with preeclampsia typically have decreased intravascular volume already, and hypotension may result in further uteroplacental insufficiency.[3] Therefore, hydralazine requires careful fluid balance and intravascular volume monitoring to avoid complications, including pulmonary edema.[3]
 
-    * **Postpartum monitoring** : In the postpartum period, seizures most commonly occur in the first 48 hours following delivery, and the seizure risk remains elevated during the first postpartum week. Due to this and the increased risk of seizure in patients with uncontrolled hypertension, clinicians should continue monitoring patients frequently during the postpartum period.[1] Clinical features of pulmonary edema should be especially looked for in patients with renal dysfunction due to the increased risk of this complication. Adjust antihypertensive treatment accordingly to prevent further complications.[2][11]
+  - **Labetalol** : Labetalol is a beta blocker that dilates blood vessels and reduces vascular resistance, heart rate, and blood pressure while maintaining normal peripheral and uteroplacental circulation. In many institutions, labetalol is preferred over other first-line antihypertensives. The recommended regimen for emergent blood pressure control is 10 to 20 mg IV initially, followed by 20 to 80 mg every 10 to 30 min up to a maximum dosage of 300 mg. Alternatively, an infusion of 1 to 2 mg/min IV may be administered. Labetalol reduces BP while maintaining peripheral circulation, including uteroplacental blood flow. Labetalol is effective with relatively mild adverse effects and is suitable for patients with heart failure or after a heart attack. However, it can cause bradycardia in both mother and fetus and should not be used with calcium channel blockers or in patients with certain conditions, including asthma or heart block.[2][11]
 
-  * **Transfer and Tertiary Care**
-    * **Transfer to appropriate facilities** : Patients with severe eclampsia should be managed in a facility with intensive and neonatal care units, particularly for those remote from term. Blood pressure and seizures should be controlled before transfer.[10]
+  - **Nifedipine** : Oral nifedipine may also be used for severe hypertension with a recommended dosage of 10 to 20 mg, repeated in 20 minutes if needed. A subsequent 10 to 20 mg dose may be administered every 2 to 6 hours up to a maximum daily dose of 180 mg. The protective renal effect and rapid onset are benefits of nifedipine.[20] Adverse effects include reflex tachycardia and headache.[2][11]
 
-    * **Ambulance Transfer** : Transfer should be done with appropriate medical personnel and fetal monitoring to manage any recurrent seizures during transit.[11]
+- **Delivery Considerations**
+
+  - **Delivery timing:** Eclampsia is an indication for delivery; cesarean delivery is not necessarily required. The mode of delivery should be based on various clinical features, including gestational age, fetal presentation, and cervical favorability. Please see StatPearls' companion resource, "[Bishop Score](https://www.statpearls.com/point-of-care/18340)," for more information on cervical favorability. Due to the increased risk for labor induction failure, in pregnancies under 30 weeks gestation with an unfavorable cervix, cesarean delivery is recommended.[2][11]
+
+  - **Maternal resuscitation** : The maternal-fetal condition should be stabilized before proceeding with delivery. Following stabilization, fetal heart rate and uterine activity typically normalize.[2][11]
+
+  - **Antenatal steroids** : A full course of corticosteroids should be administered in pregnancies less than 34 weeks gestation for fetal lung maturation; delivery should not be delayed to complete the steroid course if the maternal-fetal condition begins to deteriorate.[2]
+
+  - **Postpartum monitoring** : In the postpartum period, seizures most commonly occur in the first 48 hours following delivery, and the seizure risk remains elevated during the first postpartum week. Due to this and the increased risk of seizure in patients with uncontrolled hypertension, clinicians should continue monitoring patients frequently during the postpartum period.[1] Clinical features of pulmonary edema should be especially looked for in patients with renal dysfunction due to the increased risk of this complication. Adjust antihypertensive treatment accordingly to prevent further complications.[2][11]
+
+- **Transfer and Tertiary Care**
+
+  - **Transfer to appropriate facilities** : Patients with severe eclampsia should be managed in a facility with intensive and neonatal care units, particularly for those remote from term. Blood pressure and seizures should be controlled before transfer.[10]
+
+  - **Ambulance Transfer** : Transfer should be done with appropriate medical personnel and fetal monitoring to manage any recurrent seizures during transit.[11]
 
 ## Differential Diagnosis
 
 Differential diagnoses should be considered when evaluating patients who have had a seizure, particularly in those with atypical presentations (eg, normal blood pressure without proteinuria, focal neurological symptoms, onset occurring before 20 weeks of pregnancy or more than 48 hours postpartum, or extended period of unconsciousness).[11] Alternative potential diagnoses should be based on the patient’s history and physical exam findings. Differential diagnoses to consider include:
 
-  * Seizure disorders
+- Seizure disorders
 
-  * Metabolic abnormalities (eg, hypoglycemia and hyponatremia)
+- Metabolic abnormalities (eg, hypoglycemia and hyponatremia)
 
-  * Cerebral venous thrombosis
+- Cerebral venous thrombosis
 
-  * Space-occupying brain lesions
+- Space-occupying brain lesions
 
-  * Posterior reversible encephalopathy syndrome
+- Posterior reversible encephalopathy syndrome
 
-  * Infectious meningitis or encephalitis
+- Infectious meningitis or encephalitis
 
-  * Chronic renal or hepatic disease
+- Chronic renal or hepatic disease
 
-  * Psychogenic nonepileptic seizures
+- Psychogenic nonepileptic seizures
 
-  * Antiphospholipid syndrome
+- Antiphospholipid syndrome
 
-  * Hemolytic-uremic syndrome
+- Hemolytic-uremic syndrome
 
-  * Amniotic fluid emboli
+- Amniotic fluid emboli
 
-  * Immune thrombocytopenic purpura
+- Immune thrombocytopenic purpura
 
-  * Thrombotic thrombocytopenic purpura
+- Thrombotic thrombocytopenic purpura
 
-  * Toxins
+- Toxins
 
-  * Ruptured aneurysm
+- Ruptured aneurysm
 
-  * Intracranial hemorrhage [11]
+- Intracranial hemorrhage [11]
 
 ## Prognosis
 
@@ -242,23 +248,23 @@ Patients with preeclampsia have also been found to have an increased risk of sev
 
 Eclampsia increases the risk of complications, including:
 
-  * Placental abruption
+- Placental abruption
 
-  * HELLP syndrome
+- HELLP syndrome
 
-  * Disseminated intravascular coagulation 
+- Disseminated intravascular coagulation
 
-  * Pulmonary edema
+- Pulmonary edema
 
-  * Aspiration pneumonia
+- Aspiration pneumonia
 
-  * Cardiopulmonary arrest
+- Cardiopulmonary arrest
 
-  * Acute renal failure
+- Acute renal failure
 
-  * Blood transfusion
+- Blood transfusion
 
-  * Venous thromboembolism [11]
+- Venous thromboembolism [11]
 
 ## Deterrence and Patient Education
 
@@ -268,7 +274,7 @@ Patients diagnosed with hypertension or preeclampsia during pregnancy, as well a
 
 Primary and secondary preventative strategies have been recommended to decrease the occurrence of eclampsia. Low-dose aspirin (60 to 150 mg daily) is a primary prevention of eclampsia, focused on stopping the disease before it starts. This intervention has been shown to reduce the risk of preeclampsia by 10% to 15%. Secondary prevention consists of early disease detection and mitigation of adverse events. Strategies for the secondary prevention of eclampsia include weekly monitoring of patients with gestational hypertension or preeclampsia, including blood pressure measurements, laboratory studies, fetal growth measurements, blood pressure regulation, timely delivery, and magnesium sulfate seizure prophylaxis. Magnesium sulfate is also utilized to prevent recurrent seizures and reduce the risk of maternal death. While the exact mechanisms of magnesium sulfate are unclear, it is believed to work by acting as a vasodilator, protecting the blood-brain barrier, reducing cerebral edema, and functioning as a central anticonvulsant.[11]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Eclampsia is a severe medical condition that demands swift diagnosis and intervention to minimize risks for the mother and the unborn child. Effective management of eclampsia requires the coordinated efforts of an interprofessional healthcare team, with each member playing a critical role. Clinicians and advanced clinicians must recognize and promptly address the signs of eclampsia, particularly in emergency settings where rapid intervention is crucial, especially during active seizures. Nurses are responsible for closely monitoring patients and promptly relaying any changes in the patient’s condition to clinicians, ensuring that timely interventions (eg, administering anticonvulsant medication) are initiated. Communication between emergency clinicians and obstetricians is also essential, particularly when emergent delivery is necessary to manage the condition and safeguard maternal and fetal health.
 
@@ -276,118 +282,94 @@ Pharmacists contribute by reviewing and verifying medication dosages, ensuring n
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27632&utm_source=pubmed&utm_campaign=reviews&utm_content=27632)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27632&utm_source=pubmed&utm_campaign=reviews&utm_content=27632)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/womens-health/eclampsia/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=27632)
+- [Click here for a simplified version.](https://mdsearchlight.com/womens-health/eclampsia/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=27632)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27632/?utm_source=pubmed&utm_campaign=comments&utm_content=27632)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27632/?utm_source=pubmed&utm_campaign=comments&utm_content=27632)
 
 ## References
 
 1.
-    
 
-Hauspurg A, Jeyabalan A. Postpartum preeclampsia or eclampsia: defining its place and management among the hypertensive disorders of pregnancy. Am J Obstet Gynecol. 2022 Feb;226(2S):S1211-S1221. [[PMC free article: PMC8857508](/pmc/articles/PMC8857508/)] [[PubMed: 35177218](https://pubmed.ncbi.nlm.nih.gov/35177218)]
+Hauspurg A, Jeyabalan A. Postpartum preeclampsia or eclampsia: defining its place and management among the hypertensive disorders of pregnancy. Am J Obstet Gynecol. 2022 Feb;226(2S):S1211-S1221. \[[PMC free article: PMC8857508](/pmc/articles/PMC8857508/)\] \[[PubMed: 35177218](https://pubmed.ncbi.nlm.nih.gov/35177218)\]
 
 2.
-    
 
-Gestational Hypertension and Preeclampsia: ACOG Practice Bulletin, Number 222. Obstet Gynecol. 2020 Jun;135(6):e237-e260. [[PubMed: 32443079](https://pubmed.ncbi.nlm.nih.gov/32443079)]
+Gestational Hypertension and Preeclampsia: ACOG Practice Bulletin, Number 222. Obstet Gynecol. 2020 Jun;135(6):e237-e260. \[[PubMed: 32443079](https://pubmed.ncbi.nlm.nih.gov/32443079)\]
 
 3.
-    
 
-Laskowska M. Eclampsia: A Critical Pregnancy Complication Demanding Enhanced Maternal Care: A Review. Med Sci Monit. 2023 Jul 07;29:e939919. [[PMC free article: PMC10334845](/pmc/articles/PMC10334845/)] [[PubMed: 37415326](https://pubmed.ncbi.nlm.nih.gov/37415326)]
+Laskowska M. Eclampsia: A Critical Pregnancy Complication Demanding Enhanced Maternal Care: A Review. Med Sci Monit. 2023 Jul 07;29:e939919. \[[PMC free article: PMC10334845](/pmc/articles/PMC10334845/)\] \[[PubMed: 37415326](https://pubmed.ncbi.nlm.nih.gov/37415326)\]
 
 4.
-    
 
-Jung E, Romero R, Yeo L, Gomez-Lopez N, Chaemsaithong P, Jaovisidha A, Gotsch F, Erez O. The etiology of preeclampsia. Am J Obstet Gynecol. 2022 Feb;226(2S):S844-S866. [[PMC free article: PMC8988238](/pmc/articles/PMC8988238/)] [[PubMed: 35177222](https://pubmed.ncbi.nlm.nih.gov/35177222)]
+Jung E, Romero R, Yeo L, Gomez-Lopez N, Chaemsaithong P, Jaovisidha A, Gotsch F, Erez O. The etiology of preeclampsia. Am J Obstet Gynecol. 2022 Feb;226(2S):S844-S866. \[[PMC free article: PMC8988238](/pmc/articles/PMC8988238/)\] \[[PubMed: 35177222](https://pubmed.ncbi.nlm.nih.gov/35177222)\]
 
 5.
-    
 
-Cameron NA, Everitt I, Seegmiller LE, Yee LM, Grobman WA, Khan SS. Trends in the Incidence of New-Onset Hypertensive Disorders of Pregnancy Among Rural and Urban Areas in the United States, 2007 to 2019. J Am Heart Assoc. 2022 Jan 18;11(2):e023791. [[PMC free article: PMC9238536](/pmc/articles/PMC9238536/)] [[PubMed: 35014858](https://pubmed.ncbi.nlm.nih.gov/35014858)]
+Cameron NA, Everitt I, Seegmiller LE, Yee LM, Grobman WA, Khan SS. Trends in the Incidence of New-Onset Hypertensive Disorders of Pregnancy Among Rural and Urban Areas in the United States, 2007 to 2019. J Am Heart Assoc. 2022 Jan 18;11(2):e023791. \[[PMC free article: PMC9238536](/pmc/articles/PMC9238536/)\] \[[PubMed: 35014858](https://pubmed.ncbi.nlm.nih.gov/35014858)\]
 
 6.
-    
 
-Xiao MZX, Whitney D, Guo N, Bentley J, Shaw GM, Druzin ML, Butwick AJ. Trends in eclampsia in the United States, 2009-2017: a population-based study. J Hypertens. 2022 Mar 01;40(3):490-497. [[PubMed: 34751169](https://pubmed.ncbi.nlm.nih.gov/34751169)]
+Xiao MZX, Whitney D, Guo N, Bentley J, Shaw GM, Druzin ML, Butwick AJ. Trends in eclampsia in the United States, 2009-2017: a population-based study. J Hypertens. 2022 Mar 01;40(3):490-497. \[[PubMed: 34751169](https://pubmed.ncbi.nlm.nih.gov/34751169)\]
 
 7.
-    
 
-Garovic VD, Dechend R, Easterling T, Karumanchi SA, McMurtry Baird S, Magee LA, Rana S, Vermunt JV, August P., American Heart Association Council on Hypertension; Council on the Kidney in Cardiovascular Disease, Kidney in Heart Disease Science Committee; Council on Arteriosclerosis, Thrombosis and Vascular Biology; Council on Lifestyle and Cardiometabolic Health; Council on Peripheral Vascular Disease; and Stroke Council. Hypertension in Pregnancy: Diagnosis, Blood Pressure Goals, and Pharmacotherapy: A Scientific Statement From the American Heart Association. Hypertension. 2022 Feb;79(2):e21-e41. [[PMC free article: PMC9031058](/pmc/articles/PMC9031058/)] [[PubMed: 34905954](https://pubmed.ncbi.nlm.nih.gov/34905954)]
+Garovic VD, Dechend R, Easterling T, Karumanchi SA, McMurtry Baird S, Magee LA, Rana S, Vermunt JV, August P., American Heart Association Council on Hypertension; Council on the Kidney in Cardiovascular Disease, Kidney in Heart Disease Science Committee; Council on Arteriosclerosis, Thrombosis and Vascular Biology; Council on Lifestyle and Cardiometabolic Health; Council on Peripheral Vascular Disease; and Stroke Council. Hypertension in Pregnancy: Diagnosis, Blood Pressure Goals, and Pharmacotherapy: A Scientific Statement From the American Heart Association. Hypertension. 2022 Feb;79(2):e21-e41. \[[PMC free article: PMC9031058](/pmc/articles/PMC9031058/)\] \[[PubMed: 34905954](https://pubmed.ncbi.nlm.nih.gov/34905954)\]
 
 8.
-    
 
-Sinkey RG, Battarbee AN, Bello NA, Ives CW, Oparil S, Tita ATN. Prevention, Diagnosis, and Management of Hypertensive Disorders of Pregnancy: a Comparison of International Guidelines. Curr Hypertens Rep. 2020 Aug 27;22(9):66. [[PMC free article: PMC7773049](/pmc/articles/PMC7773049/)] [[PubMed: 32852691](https://pubmed.ncbi.nlm.nih.gov/32852691)]
+Sinkey RG, Battarbee AN, Bello NA, Ives CW, Oparil S, Tita ATN. Prevention, Diagnosis, and Management of Hypertensive Disorders of Pregnancy: a Comparison of International Guidelines. Curr Hypertens Rep. 2020 Aug 27;22(9):66. \[[PMC free article: PMC7773049](/pmc/articles/PMC7773049/)\] \[[PubMed: 32852691](https://pubmed.ncbi.nlm.nih.gov/32852691)\]
 
 9.
-    
 
-Vousden N, Lawley E, Seed PT, Gidiri MF, Goudar S, Sandall J, Chappell LC, Shennan AH., CRADLE Trial Collaborative Group. Incidence of eclampsia and related complications across 10 low- and middle-resource geographical regions: Secondary analysis of a cluster randomised controlled trial. PLoS Med. 2019 Mar;16(3):e1002775. [[PMC free article: PMC6440614](/pmc/articles/PMC6440614/)] [[PubMed: 30925157](https://pubmed.ncbi.nlm.nih.gov/30925157)]
+Vousden N, Lawley E, Seed PT, Gidiri MF, Goudar S, Sandall J, Chappell LC, Shennan AH., CRADLE Trial Collaborative Group. Incidence of eclampsia and related complications across 10 low- and middle-resource geographical regions: Secondary analysis of a cluster randomised controlled trial. PLoS Med. 2019 Mar;16(3):e1002775. \[[PMC free article: PMC6440614](/pmc/articles/PMC6440614/)\] \[[PubMed: 30925157](https://pubmed.ncbi.nlm.nih.gov/30925157)\]
 
 10.
-    
 
-Ngene NC, Moodley J. Preventing maternal morbidity and mortality from preeclampsia and eclampsia particularly in low- and middle-income countries. Best Pract Res Clin Obstet Gynaecol. 2024 Jun;94:102473. [[PubMed: 38513504](https://pubmed.ncbi.nlm.nih.gov/38513504)]
+Ngene NC, Moodley J. Preventing maternal morbidity and mortality from preeclampsia and eclampsia particularly in low- and middle-income countries. Best Pract Res Clin Obstet Gynaecol. 2024 Jun;94:102473. \[[PubMed: 38513504](https://pubmed.ncbi.nlm.nih.gov/38513504)\]
 
 11.
-    
 
-Fishel Bartal M, Sibai BM. Eclampsia in the 21st century. Am J Obstet Gynecol. 2022 Feb;226(2S):S1237-S1253. [[PubMed: 32980358](https://pubmed.ncbi.nlm.nih.gov/32980358)]
+Fishel Bartal M, Sibai BM. Eclampsia in the 21st century. Am J Obstet Gynecol. 2022 Feb;226(2S):S1237-S1253. \[[PubMed: 32980358](https://pubmed.ncbi.nlm.nih.gov/32980358)\]
 
 12.
-    
 
-Stefanovic V. International Academy of Perinatal Medicine (IAPM) guidelines for screening, prediction, prevention and management of pre-eclampsia to reduce maternal mortality in developing countries. J Perinat Med. 2023 Feb 23;51(2):164-169. [[PubMed: 34957729](https://pubmed.ncbi.nlm.nih.gov/34957729)]
+Stefanovic V. International Academy of Perinatal Medicine (IAPM) guidelines for screening, prediction, prevention and management of pre-eclampsia to reduce maternal mortality in developing countries. J Perinat Med. 2023 Feb 23;51(2):164-169. \[[PubMed: 34957729](https://pubmed.ncbi.nlm.nih.gov/34957729)\]
 
 13.
-    
 
-Wheeler SM, Myers SO, Swamy GK, Myers ER. Estimated Prevalence of Risk Factors for Preeclampsia Among Individuals Giving Birth in the US in 2019. JAMA Netw Open. 2022 Jan 04;5(1):e2142343. [[PMC free article: PMC8728614](/pmc/articles/PMC8728614/)] [[PubMed: 34982156](https://pubmed.ncbi.nlm.nih.gov/34982156)]
+Wheeler SM, Myers SO, Swamy GK, Myers ER. Estimated Prevalence of Risk Factors for Preeclampsia Among Individuals Giving Birth in the US in 2019. JAMA Netw Open. 2022 Jan 04;5(1):e2142343. \[[PMC free article: PMC8728614](/pmc/articles/PMC8728614/)\] \[[PubMed: 34982156](https://pubmed.ncbi.nlm.nih.gov/34982156)\]
 
 14.
-    
 
-Erez O, Romero R, Jung E, Chaemsaithong P, Bosco M, Suksai M, Gallo DM, Gotsch F. Preeclampsia and eclampsia: the conceptual evolution of a syndrome. Am J Obstet Gynecol. 2022 Feb;226(2S):S786-S803. [[PMC free article: PMC8941666](/pmc/articles/PMC8941666/)] [[PubMed: 35177220](https://pubmed.ncbi.nlm.nih.gov/35177220)]
+Erez O, Romero R, Jung E, Chaemsaithong P, Bosco M, Suksai M, Gallo DM, Gotsch F. Preeclampsia and eclampsia: the conceptual evolution of a syndrome. Am J Obstet Gynecol. 2022 Feb;226(2S):S786-S803. \[[PMC free article: PMC8941666](/pmc/articles/PMC8941666/)\] \[[PubMed: 35177220](https://pubmed.ncbi.nlm.nih.gov/35177220)\]
 
 15.
-    
 
-Wilkerson RG, Ogunbodede AC. Hypertensive Disorders of Pregnancy. Emerg Med Clin North Am. 2019 May;37(2):301-316. [[PubMed: 30940374](https://pubmed.ncbi.nlm.nih.gov/30940374)]
+Wilkerson RG, Ogunbodede AC. Hypertensive Disorders of Pregnancy. Emerg Med Clin North Am. 2019 May;37(2):301-316. \[[PubMed: 30940374](https://pubmed.ncbi.nlm.nih.gov/30940374)\]
 
 16.
-    
 
-Cífková R. Hypertension in Pregnancy: A Diagnostic and Therapeutic Overview. High Blood Press Cardiovasc Prev. 2023 Jul;30(4):289-303. [[PMC free article: PMC10403432](/pmc/articles/PMC10403432/)] [[PubMed: 37308715](https://pubmed.ncbi.nlm.nih.gov/37308715)]
+Cífková R. Hypertension in Pregnancy: A Diagnostic and Therapeutic Overview. High Blood Press Cardiovasc Prev. 2023 Jul;30(4):289-303. \[[PMC free article: PMC10403432](/pmc/articles/PMC10403432/)\] \[[PubMed: 37308715](https://pubmed.ncbi.nlm.nih.gov/37308715)\]
 
 17.
-    
 
-Sutton ALM, Harper LM, Tita ATN. Hypertensive Disorders in Pregnancy. Obstet Gynecol Clin North Am. 2018 Jun;45(2):333-347. [[PubMed: 29747734](https://pubmed.ncbi.nlm.nih.gov/29747734)]
+Sutton ALM, Harper LM, Tita ATN. Hypertensive Disorders in Pregnancy. Obstet Gynecol Clin North Am. 2018 Jun;45(2):333-347. \[[PubMed: 29747734](https://pubmed.ncbi.nlm.nih.gov/29747734)\]
 
 18.
-    
 
-Lake AJ, Al Khabbaz A, Keeney R. Severe Preeclampsia in the Setting of Myasthenia Gravis. Case Rep Obstet Gynecol. 2017;2017:9204930. [[PMC free article: PMC5322431](/pmc/articles/PMC5322431/)] [[PubMed: 28280642](https://pubmed.ncbi.nlm.nih.gov/28280642)]
+Lake AJ, Al Khabbaz A, Keeney R. Severe Preeclampsia in the Setting of Myasthenia Gravis. Case Rep Obstet Gynecol. 2017;2017:9204930. \[[PMC free article: PMC5322431](/pmc/articles/PMC5322431/)\] \[[PubMed: 28280642](https://pubmed.ncbi.nlm.nih.gov/28280642)\]
 
 19.
-    
 
-Harsono AAH, Achmadi A, Aldika Akbar MI, Joewono HT. Recurrent Seizures in 2 Patients with Magnesium Sulfate-Treated Eclampsia at a Secondary Hospital. Am J Case Rep. 2018 Sep 25;19:1129-1134. [[PMC free article: PMC6180921](/pmc/articles/PMC6180921/)] [[PubMed: 30250014](https://pubmed.ncbi.nlm.nih.gov/30250014)]
+Harsono AAH, Achmadi A, Aldika Akbar MI, Joewono HT. Recurrent Seizures in 2 Patients with Magnesium Sulfate-Treated Eclampsia at a Secondary Hospital. Am J Case Rep. 2018 Sep 25;19:1129-1134. \[[PMC free article: PMC6180921](/pmc/articles/PMC6180921/)\] \[[PubMed: 30250014](https://pubmed.ncbi.nlm.nih.gov/30250014)\]
 
 20.
-    
 
-Laskowska M, Bednarek A. Optimizing Delivery Strategies in Eclampsia: A Comprehensive Review on Seizure Management and Birth Methods. Med Sci Monit. 2023 Oct 07;29:e941709. [[PMC free article: PMC10566307](/pmc/articles/PMC10566307/)] [[PubMed: 37803822](https://pubmed.ncbi.nlm.nih.gov/37803822)]
-
-    
+Laskowska M, Bednarek A. Optimizing Delivery Strategies in Eclampsia: A Comprehensive Review on Seizure Management and Birth Methods. Med Sci Monit. 2023 Oct 07;29:e941709. \[[PMC free article: PMC10566307](/pmc/articles/PMC10566307/)\] \[[PubMed: 37803822](https://pubmed.ncbi.nlm.nih.gov/37803822)\]
 
 **Disclosure:** Mackenzie Magley declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Melissa Hinson declares no relevant financial relationships with ineligible companies.

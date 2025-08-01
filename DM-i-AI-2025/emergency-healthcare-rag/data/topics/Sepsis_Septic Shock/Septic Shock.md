@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28981/
-scraped_date: 2025-07-22 12:41:49 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28981/ scraped_date: 2025-07-22 12:41:49 UTC
 
 # Septic Shock
 
@@ -25,13 +24,13 @@ Sepsis syndromes span a clinical continuum with variable prognoses. Septic shock
 
 **Objectives:**
 
-  * Review the causes of septic shock.
+- Review the causes of septic shock.
 
-  * Describe the pathophysiology of septic shock.
+- Describe the pathophysiology of septic shock.
 
-  * Outline the treatment options for septic shock.
+- Outline the treatment options for septic shock.
 
-  * Explain the importance of improving care coordination amongst interprofessional team members to improve outcomes for patients affected by septic shock.
+- Explain the importance of improving care coordination amongst interprofessional team members to improve outcomes for patients affected by septic shock.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28981&utm_source=pubmed&utm_campaign=reviews&utm_content=28981)
 
@@ -49,29 +48,29 @@ Sepsis syndromes caused by multidrug-resistant bacterial strains (methicillin-re
 
 Risk factors that predispose to sepsis include:
 
-  * Diabetes
+- Diabetes
 
-  * Malignancy
+- Malignancy
 
-  * Chronic kidney and liver disease
+- Chronic kidney and liver disease
 
-  * Use of corticosteroids
+- Use of corticosteroids
 
-  * Immunosuppressed state
+- Immunosuppressed state
 
-  * Burns
+- Burns
 
-  * Major surgery
+- Major surgery
 
-  * Trauma
+- Trauma
 
-  * Presence of indwelling catheters
+- Presence of indwelling catheters
 
-  * Prolonged hospitalization
+- Prolonged hospitalization
 
-  * Hemodialysis
+- Hemodialysis
 
-  * Extremes of age
+- Extremes of age
 
 ## Epidemiology
 
@@ -79,17 +78,17 @@ Annually, the rate of this debilitating condition is rising by almost 9%.[7] The
 
 ## Pathophysiology
 
-Sepsis is a clinical state that falls along a continuum of pathophysiologic states, starting with a systemic inflammatory response syndrome (SIRS) and ending in multiorgan dysfunction syndrome (MODS) before death. 
+Sepsis is a clinical state that falls along a continuum of pathophysiologic states, starting with a systemic inflammatory response syndrome (SIRS) and ending in multiorgan dysfunction syndrome (MODS) before death.
 
 The earliest signs of inflammation are heralded by the following:
 
-  1. Fever (temperature higher than 38 C or hypothermia (temperature less than 36 C)
+1. Fever (temperature higher than 38 C or hypothermia (temperature less than 36 C)
 
-  2. Tachycardia (heart rate more than 90 beats per minute), 
+1. Tachycardia (heart rate more than 90 beats per minute),
 
-  3. Tachypnea (respiratory rate more than 20 breaths per minute)
+1. Tachypnea (respiratory rate more than 20 breaths per minute)
 
-  4. Leukocytosis (WBC greater than 12,000/cu mm) / leukopenia (white blood cells (WBC) less than 4,000/cu mm) with or without bandemia (more than 10%).
+1. Leukocytosis (WBC greater than 12,000/cu mm) / leukopenia (white blood cells (WBC) less than 4,000/cu mm) with or without bandemia (more than 10%).
 
 The presence of two of these four clinical signs is necessary for the diagnosis of systemic inflammatory response syndrome. After that, systemic inflammatory response syndrome with an infectious source suffices the clinical definition for sepsis.[14]
 
@@ -107,23 +106,23 @@ Functionally, septic shock is defined by persistent hypotension despite adequate
 
 Sepsis is defined as systemic inflammatory response syndrome plus an infectious source. Therefore, earlier on in the presentation of sepsis, patients present with the following vital sign changes:
 
-  * Fever, temperature higher than 38 C, or hypothermia, temperature lower than 36 C
+- Fever, temperature higher than 38 C, or hypothermia, temperature lower than 36 C
 
-  * Tachycardia with a heart rate higher than 90 beats per minute in adult patients or less than two standard deviations for age in pediatric patients
+- Tachycardia with a heart rate higher than 90 beats per minute in adult patients or less than two standard deviations for age in pediatric patients
 
-  * Tachypnea with respiratory rate greater than 20 breaths per minute in adult patients or more than two standard deviations for age in pediatric patients
+- Tachypnea with respiratory rate greater than 20 breaths per minute in adult patients or more than two standard deviations for age in pediatric patients
 
-**Signs and Symptoms of Severe Sepsis** Severe sepsis is defined as sepsis and end-organ dysfunction. At this stage, signs and symptoms may include: 
+**Signs and Symptoms of Severe Sepsis** Severe sepsis is defined as sepsis and end-organ dysfunction. At this stage, signs and symptoms may include:
 
-  * Altered mental status
+- Altered mental status
 
-  * Oliguria or anuria
+- Oliguria or anuria
 
-  * Hypoxia
+- Hypoxia
 
-  * Cyanosis
+- Cyanosis
 
-  * Ileus
+- Ileus
 
 Patients progressing to septic shock will experience signs and symptoms of severe sepsis with hypotension. Of note, at an early "compensated" stage of shock, blood pressure may be maintained, and other signs of distributive shock might be present, for example, warm extremities, flash capillary refill (less than one second), and bounding pulses, also known as warm shock. This stage of shock, if managed aggressively with fluid resuscitation and vasoactive support, can be reversed. With the progression of septic shock into the uncompensated stage, hypotension ensues, and patients may present with cool extremities, delayed capillary refill (more than three seconds), and thready pulses, also known as cold shock. After that, with continued tissue hypoperfusion, shock may be irreversible, progressive rapidly into multiorgan dysfunction syndrome and death.
 
@@ -131,29 +130,29 @@ Patients progressing to septic shock will experience signs and symptoms of sever
 
 **Laboratory Findings**
 
-Findings in sepsis, severe sepsis, and septic shock are as follows [16]: 
+Findings in sepsis, severe sepsis, and septic shock are as follows \[16\]:
 
-  * Hyperglycemia (glucose more than 120 mg/dL)
+- Hyperglycemia (glucose more than 120 mg/dL)
 
-  * Leukocytosis (WBC more than 12,000/mm3) or leukopenia (WBC less than 4000/mm3)
+- Leukocytosis (WBC more than 12,000/mm3) or leukopenia (WBC less than 4000/mm3)
 
-  * Bandemia (more than 10%)
+- Bandemia (more than 10%)
 
-  * C-reactive protein or procalcitonin more than 2 SD above normal
+- C-reactive protein or procalcitonin more than 2 SD above normal
 
-  * Mixed venous saturation of more than 70%
+- Mixed venous saturation of more than 70%
 
-  * PaO2: FiO2 less than 300
+- PaO2: FiO2 less than 300
 
-  * Pre-renal azotemia
+- Pre-renal azotemia
 
-  * Coagulopathy, INR more than 1.5 or PTT more than 60 sec
+- Coagulopathy, INR more than 1.5 or PTT more than 60 sec
 
-  * Thrombocytopenia (platelets less than 100,000/mL)
+- Thrombocytopenia (platelets less than 100,000/mL)
 
-  * Hyperbilirubinemia (total bilirubin more than 4 mg/dL)
+- Hyperbilirubinemia (total bilirubin more than 4 mg/dL)
 
-  * Lactic acidosis (more than 2 mmol/L)
+- Lactic acidosis (more than 2 mmol/L)
 
 Patients should be placed on continuous cardiopulmonary monitoring to allow close observation of vital signs. A thorough assessment of end-organ function and peripheral perfusion should be undertaken to determine where they may fall along the pathophysiologic continuum of sepsis. This should include a Glasgow Coma Scale (GCS) or mental status assessment, urine output measurement, or lactate/mixed venous saturation determination (with central lines). Regardless of where along the continuum patients are, all patients should have drawn a complete blood count with differential (CBC-d), source cultures (blood, urine, tracheal (if intubated), wound), and a urinalysis. Depending on the severity of presentation and age of the patient, a lumbar puncture may be indicated, for example, in patients with signs of encephalitis or meningitis or febrile pediatric patients under six weeks of age. The addition of C-reactive protein or procalcitonin, both acute-phase proteins, may be helpful in distinguishing viral from bacterial sepsis, with the latter showing steeper elevations in these proteins. A complete chemistry panel with liver function tests, a disseminated intravascular coagulation (DIC) panel, and an arterial blood gas are additional labs that may provide important information on the severity of sepsis syndrome in a patient.
 
@@ -167,31 +166,31 @@ The below guidelines are derived from the Surviving Sepsis Campaign Guidelines [
 
 **Source Control**
 
-  1. Broad-spectrum antibiotics within one hour of diagnosis for all patients. Initial empiric anti-infective therapy should have activity against all likely pathogens and adequate penetration of source tissue. 
+1. Broad-spectrum antibiotics within one hour of diagnosis for all patients. Initial empiric anti-infective therapy should have activity against all likely pathogens and adequate penetration of source tissue.
 
-  2. Removal of infected/necrotic tissue if it is the source of septic shock, ie, patients with cellulitis, abscess, infected devices, or purulent wounds.
+1. Removal of infected/necrotic tissue if it is the source of septic shock, ie, patients with cellulitis, abscess, infected devices, or purulent wounds.
 
 **Management of Shock** [19]
 
-  1. Measures are most effective if achieved within the first six hours of diagnosis.
+1. Measures are most effective if achieved within the first six hours of diagnosis.
 
-  2. Restore central venous pressure (CVP) to 8 mmHg to 12 mm Hg
+1. Restore central venous pressure (CVP) to 8 mmHg to 12 mm Hg
 
-  3. Restore mean arterial pressure (MAP) greater than 65 mm Hg
+1. Restore mean arterial pressure (MAP) greater than 65 mm Hg
 
-  4. Restore superior vena cava saturation to 70% or mixed venous saturation to 65%
+1. Restore superior vena cava saturation to 70% or mixed venous saturation to 65%
 
-  5. Fluid resuscitation with crystalloid (NS or albumin) and colloid (blood products) up to 80 ml/kg
+1. Fluid resuscitation with crystalloid (NS or albumin) and colloid (blood products) up to 80 ml/kg
 
-  6. Mechanical ventilation to reduce metabolic demand
+1. Mechanical ventilation to reduce metabolic demand
 
-  7. First-line vasoactive agents (epinephrine in cold shock versus norepinephrine in warm shock) when fluid-refractoryNote: dopamine as a first-line agent has fallen out of favor given its inhibitory effect on the HPA axis, namely prolactin and growth hormone, which can confer immunologic dysfunction [20]
+1. First-line vasoactive agents (epinephrine in cold shock versus norepinephrine in warm shock) when fluid-refractoryNote: dopamine as a first-line agent has fallen out of favor given its inhibitory effect on the HPA axis, namely prolactin and growth hormone, which can confer immunologic dysfunction [20]
 
 **Enhancing Host Response**
 
-  1. Corticosteroids indicated in vasoactive-refractory shock and or in patients with low (unstimulated) basal cortisol levels less than 150 μg/L) [21][22]
+1. Corticosteroids indicated in vasoactive-refractory shock and or in patients with low (unstimulated) basal cortisol levels less than 150 μg/L) [21][22]
 
-  2. Addition of vasopressin indicated in vasoactive-refractory shock
+1. Addition of vasopressin indicated in vasoactive-refractory shock
 
 While central lines are not required for the resuscitation of patients with septic shock, they provide an accurate means of monitoring CVP and mixed venous oxygen. Remember that CVP and MVO2 are most accurate from a central line that lies within the right atrium; lower extremity central lines do not provide the most accurate data for monitoring these indices of resuscitation. Regarding the need for central venous access for the administration of vasoactive agents, a recent study showed that both dopamine, norepinephrine, and phenylephrine at high doses could be safely administered via peripheral venous access.[23]
 
@@ -203,21 +202,21 @@ Patients with sepsis have a high metabolism, and thus, prolonged starvation shou
 
 ## Differential Diagnosis
 
-  * ARDS
+- ARDS
 
-  * DIC
+- DIC
 
-  * Distributive shock
+- Distributive shock
 
-  * Hemorrhagic shock
+- Hemorrhagic shock
 
-  * Adrenal crisis
+- Adrenal crisis
 
-  * Cardiogenic shock
+- Cardiogenic shock
 
-  * Toxic shock syndrome
+- Toxic shock syndrome
 
-  * Drug toxicity
+- Drug toxicity
 
 ## Prognosis
 
@@ -225,21 +224,21 @@ Septic shock is a serious illness, and despite all the advances in medicine, it 
 
 ## Complications
 
-  * ARDS
+- ARDS
 
-  * Acute/chronic renal injury
+- Acute/chronic renal injury
 
-  * DIC
+- DIC
 
-  * Mesenteric ischemia
+- Mesenteric ischemia
 
-  * Acute liver failure
+- Acute liver failure
 
-  * Myocardial dysfunction
+- Myocardial dysfunction
 
-  * Multiple organ failure
+- Multiple organ failure
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The management of septic shock is best done with an interprofessional team that includes ICU nurses. The key is early diagnosis and resuscitation to maintain end-organ perfusion. The type of fluid for resuscitation has little bearing on outcomes but the key is to maintain adequate perfusion pressure. Patients with sepsis are prone to many complications, which have high mortality. Thus, close monitoring and prevention of these complications are vital. Primary disorders like diabetes and renal or liver failure must be treated. Drugs that affect the immune system should be discontinued. The dietitian should be consulted as there is good evidence that early enteral nutrition is beneficial. The nurse should ensure DVT and pressure sore prophylaxis. The nurse should also monitor all catheters for infection and remove those that are not needed. The pharmacists should follow culture results and ensure the patient is on organism-sensitive antibiotics. Clinicians should maintain aseptic techniques during procedures, and hand washing should be practiced. The entire team should communicate with each other to ensure that the patient is receiving optimal care.
 
@@ -247,143 +246,114 @@ The outcomes of septic shock depend on patient age, associated comorbidities, re
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28981&utm_source=pubmed&utm_campaign=reviews&utm_content=28981)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28981&utm_source=pubmed&utm_campaign=reviews&utm_content=28981)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/health/septic-shock/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=28981)
+- [Click here for a simplified version.](https://mdsearchlight.com/health/septic-shock/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=28981)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/28981/?utm_source=pubmed&utm_campaign=comments&utm_content=28981)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/28981/?utm_source=pubmed&utm_campaign=comments&utm_content=28981)
 
 ## References
 
 1.
-    
 
-Nguyen HB, Rivers EP, Abrahamian FM, Moran GJ, Abraham E, Trzeciak S, Huang DT, Osborn T, Stevens D, Talan DA., Emergency Department Sepsis Education Program and Strategies to Improve Survival (ED-SEPSIS) Working Group. Severe sepsis and septic shock: review of the literature and emergency department management guidelines. Ann Emerg Med. 2006 Jul;48(1):28-54. [[PubMed: 16781920](https://pubmed.ncbi.nlm.nih.gov/16781920)]
+Nguyen HB, Rivers EP, Abrahamian FM, Moran GJ, Abraham E, Trzeciak S, Huang DT, Osborn T, Stevens D, Talan DA., Emergency Department Sepsis Education Program and Strategies to Improve Survival (ED-SEPSIS) Working Group. Severe sepsis and septic shock: review of the literature and emergency department management guidelines. Ann Emerg Med. 2006 Jul;48(1):28-54. \[[PubMed: 16781920](https://pubmed.ncbi.nlm.nih.gov/16781920)\]
 
 2.
-    
 
-Mayr FB, Yende S, Linde-Zwirble WT, Peck-Palmer OM, Barnato AE, Weissfeld LA, Angus DC. Infection rate and acute organ dysfunction risk as explanations for racial differences in severe sepsis. JAMA. 2010 Jun 23;303(24):2495-503. [[PMC free article: PMC3910506](/pmc/articles/PMC3910506/)] [[PubMed: 20571016](https://pubmed.ncbi.nlm.nih.gov/20571016)]
+Mayr FB, Yende S, Linde-Zwirble WT, Peck-Palmer OM, Barnato AE, Weissfeld LA, Angus DC. Infection rate and acute organ dysfunction risk as explanations for racial differences in severe sepsis. JAMA. 2010 Jun 23;303(24):2495-503. \[[PMC free article: PMC3910506](/pmc/articles/PMC3910506/)\] \[[PubMed: 20571016](https://pubmed.ncbi.nlm.nih.gov/20571016)\]
 
 3.
-    
 
-Vincent JL, Rello J, Marshall J, Silva E, Anzueto A, Martin CD, Moreno R, Lipman J, Gomersall C, Sakr Y, Reinhart K., EPIC II Group of Investigators. International study of the prevalence and outcomes of infection in intensive care units. JAMA. 2009 Dec 02;302(21):2323-9. [[PubMed: 19952319](https://pubmed.ncbi.nlm.nih.gov/19952319)]
+Vincent JL, Rello J, Marshall J, Silva E, Anzueto A, Martin CD, Moreno R, Lipman J, Gomersall C, Sakr Y, Reinhart K., EPIC II Group of Investigators. International study of the prevalence and outcomes of infection in intensive care units. JAMA. 2009 Dec 02;302(21):2323-9. \[[PubMed: 19952319](https://pubmed.ncbi.nlm.nih.gov/19952319)\]
 
 4.
-    
 
-Rangel-Frausto MS. The epidemiology of bacterial sepsis. Infect Dis Clin North Am. 1999 Jun;13(2):299-312, vii. [[PubMed: 10340168](https://pubmed.ncbi.nlm.nih.gov/10340168)]
+Rangel-Frausto MS. The epidemiology of bacterial sepsis. Infect Dis Clin North Am. 1999 Jun;13(2):299-312, vii. \[[PubMed: 10340168](https://pubmed.ncbi.nlm.nih.gov/10340168)\]
 
 5.
-    
 
-Cohen J, Cristofaro P, Carlet J, Opal S. New method of classifying infections in critically ill patients. Crit Care Med. 2004 Jul;32(7):1510-26. [[PubMed: 15241096](https://pubmed.ncbi.nlm.nih.gov/15241096)]
+Cohen J, Cristofaro P, Carlet J, Opal S. New method of classifying infections in critically ill patients. Crit Care Med. 2004 Jul;32(7):1510-26. \[[PubMed: 15241096](https://pubmed.ncbi.nlm.nih.gov/15241096)\]
 
 6.
-    
 
-Annane D, Aegerter P, Jars-Guincestre MC, Guidet B., CUB-Réa Network. Current epidemiology of septic shock: the CUB-Réa Network. Am J Respir Crit Care Med. 2003 Jul 15;168(2):165-72. [[PubMed: 12851245](https://pubmed.ncbi.nlm.nih.gov/12851245)]
+Annane D, Aegerter P, Jars-Guincestre MC, Guidet B., CUB-Réa Network. Current epidemiology of septic shock: the CUB-Réa Network. Am J Respir Crit Care Med. 2003 Jul 15;168(2):165-72. \[[PubMed: 12851245](https://pubmed.ncbi.nlm.nih.gov/12851245)\]
 
 7.
-    
 
-Martin GS, Mannino DM, Eaton S, Moss M. The epidemiology of sepsis in the United States from 1979 through 2000. N Engl J Med. 2003 Apr 17;348(16):1546-54. [[PubMed: 12700374](https://pubmed.ncbi.nlm.nih.gov/12700374)]
+Martin GS, Mannino DM, Eaton S, Moss M. The epidemiology of sepsis in the United States from 1979 through 2000. N Engl J Med. 2003 Apr 17;348(16):1546-54. \[[PubMed: 12700374](https://pubmed.ncbi.nlm.nih.gov/12700374)\]
 
 8.
-    
 
-Elixhauser A, Friedman B, Stranges E. Healthcare Cost and Utilization Project (HCUP) Statistical Briefs [Internet]. Agency for Healthcare Research and Quality (US); Rockville (MD): Oct, 2011. Septicemia in U.S. Hospitals, 2009. [[PubMed: 22049570](https://pubmed.ncbi.nlm.nih.gov/22049570)]
+Elixhauser A, Friedman B, Stranges E. Healthcare Cost and Utilization Project (HCUP) Statistical Briefs [Internet]. Agency for Healthcare Research and Quality (US); Rockville (MD): Oct, 2011. Septicemia in U.S. Hospitals, 2009. \[[PubMed: 22049570](https://pubmed.ncbi.nlm.nih.gov/22049570)\]
 
 9.
-    
 
-Torio CM, Andrews RM. Healthcare Cost and Utilization Project (HCUP) Statistical Briefs [Internet]. Agency for Healthcare Research and Quality (US); Rockville (MD): Aug, 2013. National Inpatient Hospital Costs: The Most Expensive Conditions by Payer, 2011. [[PubMed: 24199255](https://pubmed.ncbi.nlm.nih.gov/24199255)]
+Torio CM, Andrews RM. Healthcare Cost and Utilization Project (HCUP) Statistical Briefs [Internet]. Agency for Healthcare Research and Quality (US); Rockville (MD): Aug, 2013. National Inpatient Hospital Costs: The Most Expensive Conditions by Payer, 2011. \[[PubMed: 24199255](https://pubmed.ncbi.nlm.nih.gov/24199255)\]
 
 10.
-    
 
-Elfeky S, Golabi P, Otgonsuren M, Djurkovic S, Schmidt ME, Younossi ZM. The epidemiologic characteristics, temporal trends, predictors of death, and discharge disposition in patients with a diagnosis of sepsis: A cross-sectional retrospective cohort study. J Crit Care. 2017 Jun;39:48-55. [[PubMed: 28199891](https://pubmed.ncbi.nlm.nih.gov/28199891)]
+Elfeky S, Golabi P, Otgonsuren M, Djurkovic S, Schmidt ME, Younossi ZM. The epidemiologic characteristics, temporal trends, predictors of death, and discharge disposition in patients with a diagnosis of sepsis: A cross-sectional retrospective cohort study. J Crit Care. 2017 Jun;39:48-55. \[[PubMed: 28199891](https://pubmed.ncbi.nlm.nih.gov/28199891)\]
 
 11.
-    
 
-Angus DC, Linde-Zwirble WT, Lidicker J, Clermont G, Carcillo J, Pinsky MR. Epidemiology of severe sepsis in the United States: analysis of incidence, outcome, and associated costs of care. Crit Care Med. 2001 Jul;29(7):1303-10. [[PubMed: 11445675](https://pubmed.ncbi.nlm.nih.gov/11445675)]
+Angus DC, Linde-Zwirble WT, Lidicker J, Clermont G, Carcillo J, Pinsky MR. Epidemiology of severe sepsis in the United States: analysis of incidence, outcome, and associated costs of care. Crit Care Med. 2001 Jul;29(7):1303-10. \[[PubMed: 11445675](https://pubmed.ncbi.nlm.nih.gov/11445675)\]
 
 12.
-    
 
-Liu V, Escobar GJ, Greene JD, Soule J, Whippy A, Angus DC, Iwashyna TJ. Hospital deaths in patients with sepsis from 2 independent cohorts. JAMA. 2014 Jul 02;312(1):90-2. [[PubMed: 24838355](https://pubmed.ncbi.nlm.nih.gov/24838355)]
+Liu V, Escobar GJ, Greene JD, Soule J, Whippy A, Angus DC, Iwashyna TJ. Hospital deaths in patients with sepsis from 2 independent cohorts. JAMA. 2014 Jul 02;312(1):90-2. \[[PubMed: 24838355](https://pubmed.ncbi.nlm.nih.gov/24838355)\]
 
 13.
-    
 
-Annane D, Bellissant E, Cavaillon JM. Septic shock. Lancet. 2005 Jan 1-7;365(9453):63-78. [[PubMed: 15639681](https://pubmed.ncbi.nlm.nih.gov/15639681)]
+Annane D, Bellissant E, Cavaillon JM. Septic shock. Lancet. 2005 Jan 1-7;365(9453):63-78. \[[PubMed: 15639681](https://pubmed.ncbi.nlm.nih.gov/15639681)\]
 
 14.
-    
 
-Bone RC, Balk RA, Cerra FB, Dellinger RP, Fein AM, Knaus WA, Schein RM, Sibbald WJ. Definitions for sepsis and organ failure and guidelines for the use of innovative therapies in sepsis. The ACCP/SCCM Consensus Conference Committee. American College of Chest Physicians/Society of Critical Care Medicine. Chest. 1992 Jun;101(6):1644-55. [[PubMed: 1303622](https://pubmed.ncbi.nlm.nih.gov/1303622)]
+Bone RC, Balk RA, Cerra FB, Dellinger RP, Fein AM, Knaus WA, Schein RM, Sibbald WJ. Definitions for sepsis and organ failure and guidelines for the use of innovative therapies in sepsis. The ACCP/SCCM Consensus Conference Committee. American College of Chest Physicians/Society of Critical Care Medicine. Chest. 1992 Jun;101(6):1644-55. \[[PubMed: 1303622](https://pubmed.ncbi.nlm.nih.gov/1303622)\]
 
 15.
-    
 
-Hotchkiss RS, Karl IE. The pathophysiology and treatment of sepsis. N Engl J Med. 2003 Jan 09;348(2):138-50. [[PubMed: 12519925](https://pubmed.ncbi.nlm.nih.gov/12519925)]
+Hotchkiss RS, Karl IE. The pathophysiology and treatment of sepsis. N Engl J Med. 2003 Jan 09;348(2):138-50. \[[PubMed: 12519925](https://pubmed.ncbi.nlm.nih.gov/12519925)\]
 
 16.
-    
 
-Levy MM, Fink MP, Marshall JC, Abraham E, Angus D, Cook D, Cohen J, Opal SM, Vincent JL, Ramsay G., SCCM/ESICM/ACCP/ATS/SIS. 2001 SCCM/ESICM/ACCP/ATS/SIS International Sepsis Definitions Conference. Crit Care Med. 2003 Apr;31(4):1250-6. [[PubMed: 12682500](https://pubmed.ncbi.nlm.nih.gov/12682500)]
+Levy MM, Fink MP, Marshall JC, Abraham E, Angus D, Cook D, Cohen J, Opal SM, Vincent JL, Ramsay G., SCCM/ESICM/ACCP/ATS/SIS. 2001 SCCM/ESICM/ACCP/ATS/SIS International Sepsis Definitions Conference. Crit Care Med. 2003 Apr;31(4):1250-6. \[[PubMed: 12682500](https://pubmed.ncbi.nlm.nih.gov/12682500)\]
 
 17.
-    
 
-Jones AE, Puskarich MA. The Surviving Sepsis Campaign guidelines 2012: update for emergency physicians. Ann Emerg Med. 2014 Jan;63(1):35-47. [[PubMed: 24067755](https://pubmed.ncbi.nlm.nih.gov/24067755)]
+Jones AE, Puskarich MA. The Surviving Sepsis Campaign guidelines 2012: update for emergency physicians. Ann Emerg Med. 2014 Jan;63(1):35-47. \[[PubMed: 24067755](https://pubmed.ncbi.nlm.nih.gov/24067755)\]
 
 18.
-    
 
-Rhodes A, Evans LE, Alhazzani W, Levy MM, Antonelli M, Ferrer R, Kumar A, Sevransky JE, Sprung CL, Nunnally ME, Rochwerg B, Rubenfeld GD, Angus DC, Annane D, Beale RJ, Bellinghan GJ, Bernard GR, Chiche JD, Coopersmith C, De Backer DP, French CJ, Fujishima S, Gerlach H, Hidalgo JL, Hollenberg SM, Jones AE, Karnad DR, Kleinpell RM, Koh Y, Lisboa TC, Machado FR, Marini JJ, Marshall JC, Mazuski JE, McIntyre LA, McLean AS, Mehta S, Moreno RP, Myburgh J, Navalesi P, Nishida O, Osborn TM, Perner A, Plunkett CM, Ranieri M, Schorr CA, Seckel MA, Seymour CW, Shieh L, Shukri KA, Simpson SQ, Singer M, Thompson BT, Townsend SR, Van der Poll T, Vincent JL, Wiersinga WJ, Zimmerman JL, Dellinger RP. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016. Crit Care Med. 2017 Mar;45(3):486-552. [[PubMed: 28098591](https://pubmed.ncbi.nlm.nih.gov/28098591)]
+Rhodes A, Evans LE, Alhazzani W, Levy MM, Antonelli M, Ferrer R, Kumar A, Sevransky JE, Sprung CL, Nunnally ME, Rochwerg B, Rubenfeld GD, Angus DC, Annane D, Beale RJ, Bellinghan GJ, Bernard GR, Chiche JD, Coopersmith C, De Backer DP, French CJ, Fujishima S, Gerlach H, Hidalgo JL, Hollenberg SM, Jones AE, Karnad DR, Kleinpell RM, Koh Y, Lisboa TC, Machado FR, Marini JJ, Marshall JC, Mazuski JE, McIntyre LA, McLean AS, Mehta S, Moreno RP, Myburgh J, Navalesi P, Nishida O, Osborn TM, Perner A, Plunkett CM, Ranieri M, Schorr CA, Seckel MA, Seymour CW, Shieh L, Shukri KA, Simpson SQ, Singer M, Thompson BT, Townsend SR, Van der Poll T, Vincent JL, Wiersinga WJ, Zimmerman JL, Dellinger RP. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016. Crit Care Med. 2017 Mar;45(3):486-552. \[[PubMed: 28098591](https://pubmed.ncbi.nlm.nih.gov/28098591)\]
 
 19.
-    
 
-Rivers E, Nguyen B, Havstad S, Ressler J, Muzzin A, Knoblich B, Peterson E, Tomlanovich M., Early Goal-Directed Therapy Collaborative Group. Early goal-directed therapy in the treatment of severe sepsis and septic shock. N Engl J Med. 2001 Nov 08;345(19):1368-77. [[PubMed: 11794169](https://pubmed.ncbi.nlm.nih.gov/11794169)]
+Rivers E, Nguyen B, Havstad S, Ressler J, Muzzin A, Knoblich B, Peterson E, Tomlanovich M., Early Goal-Directed Therapy Collaborative Group. Early goal-directed therapy in the treatment of severe sepsis and septic shock. N Engl J Med. 2001 Nov 08;345(19):1368-77. \[[PubMed: 11794169](https://pubmed.ncbi.nlm.nih.gov/11794169)\]
 
 20.
-    
 
-Ventura AM, Shieh HH, Bousso A, Góes PF, de Cássia F O Fernandes I, de Souza DC, Paulo RL, Chagas F, Gilio AE. Double-Blind Prospective Randomized Controlled Trial of Dopamine Versus Epinephrine as First-Line Vasoactive Drugs in Pediatric Septic Shock. Crit Care Med. 2015 Nov;43(11):2292-302. [[PubMed: 26323041](https://pubmed.ncbi.nlm.nih.gov/26323041)]
+Ventura AM, Shieh HH, Bousso A, Góes PF, de Cássia F O Fernandes I, de Souza DC, Paulo RL, Chagas F, Gilio AE. Double-Blind Prospective Randomized Controlled Trial of Dopamine Versus Epinephrine as First-Line Vasoactive Drugs in Pediatric Septic Shock. Crit Care Med. 2015 Nov;43(11):2292-302. \[[PubMed: 26323041](https://pubmed.ncbi.nlm.nih.gov/26323041)\]
 
 21.
-    
 
-Annane D. Corticosteroids for septic shock. Crit Care Med. 2001 Jul;29(7 Suppl):S117-20. [[PubMed: 11445745](https://pubmed.ncbi.nlm.nih.gov/11445745)]
+Annane D. Corticosteroids for septic shock. Crit Care Med. 2001 Jul;29(7 Suppl):S117-20. \[[PubMed: 11445745](https://pubmed.ncbi.nlm.nih.gov/11445745)\]
 
 22.
-    
 
-Annane D, Renault A, Bellissant E. Glucocorticoids with or without Fludrocortisone in Septic Shock. N Engl J Med. 2018 Aug 30;379(9):895-6. [[PubMed: 30179381](https://pubmed.ncbi.nlm.nih.gov/30179381)]
+Annane D, Renault A, Bellissant E. Glucocorticoids with or without Fludrocortisone in Septic Shock. N Engl J Med. 2018 Aug 30;379(9):895-6. \[[PubMed: 30179381](https://pubmed.ncbi.nlm.nih.gov/30179381)\]
 
 23.
-    
 
-Cardenas-Garcia J, Schaub KF, Belchikov YG, Narasimhan M, Koenig SJ, Mayo PH. Safety of peripheral intravenous administration of vasoactive medication. J Hosp Med. 2015 Sep;10(9):581-5. [[PubMed: 26014852](https://pubmed.ncbi.nlm.nih.gov/26014852)]
+Cardenas-Garcia J, Schaub KF, Belchikov YG, Narasimhan M, Koenig SJ, Mayo PH. Safety of peripheral intravenous administration of vasoactive medication. J Hosp Med. 2015 Sep;10(9):581-5. \[[PubMed: 26014852](https://pubmed.ncbi.nlm.nih.gov/26014852)\]
 
 24.
-    
 
-Angus DC, Barnato AE, Bell D, Bellomo R, Chong CR, Coats TJ, Davies A, Delaney A, Harrison DA, Holdgate A, Howe B, Huang DT, Iwashyna T, Kellum JA, Peake SL, Pike F, Reade MC, Rowan KM, Singer M, Webb SA, Weissfeld LA, Yealy DM, Young JD. A systematic review and meta-analysis of early goal-directed therapy for septic shock: the ARISE, ProCESS and ProMISe Investigators. Intensive Care Med. 2015 Sep;41(9):1549-60. [[PubMed: 25952825](https://pubmed.ncbi.nlm.nih.gov/25952825)]
+Angus DC, Barnato AE, Bell D, Bellomo R, Chong CR, Coats TJ, Davies A, Delaney A, Harrison DA, Holdgate A, Howe B, Huang DT, Iwashyna T, Kellum JA, Peake SL, Pike F, Reade MC, Rowan KM, Singer M, Webb SA, Weissfeld LA, Yealy DM, Young JD. A systematic review and meta-analysis of early goal-directed therapy for septic shock: the ARISE, ProCESS and ProMISe Investigators. Intensive Care Med. 2015 Sep;41(9):1549-60. \[[PubMed: 25952825](https://pubmed.ncbi.nlm.nih.gov/25952825)\]
 
 25.
-    
 
-Osborn TM. Severe Sepsis and Septic Shock Trials (ProCESS, ARISE, ProMISe): What is Optimal Resuscitation? Crit Care Clin. 2017 Apr;33(2):323-344. [[PubMed: 28284298](https://pubmed.ncbi.nlm.nih.gov/28284298)]
-
-    
+Osborn TM. Severe Sepsis and Septic Shock Trials (ProCESS, ARISE, ProMISe): What is Optimal Resuscitation? Crit Care Clin. 2017 Apr;33(2):323-344. \[[PubMed: 28284298](https://pubmed.ncbi.nlm.nih.gov/28284298)\]
 
 **Disclosure:** Sidharth Mahapatra declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Alan Heffner declares no relevant financial relationships with ineligible companies.

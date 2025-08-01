@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18770/
-scraped_date: 2025-07-22 12:50:24 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18770/ scraped_date: 2025-07-22 12:50:24 UTC
 
 # Calcitonin
 
@@ -29,13 +28,13 @@ Salmon calcitonin, hereinafter referred to as calcitonin, is a derivative of hum
 
 **Objectives:**
 
-  * Identify the appropriate indications for calcitonin therapy, including postmenopausal osteoporosis, Paget disease of bone, and hypercalcemia.
+- Identify the appropriate indications for calcitonin therapy, including postmenopausal osteoporosis, Paget disease of bone, and hypercalcemia.
 
-  * Screen patients for contraindications, allergies, and potential interactions before initiating calcitonin therapy.
+- Screen patients for contraindications, allergies, and potential interactions before initiating calcitonin therapy.
 
-  * Implement proper patient dosing regimens based on specific clinical conditions and patient characteristics.
+- Implement proper patient dosing regimens based on specific clinical conditions and patient characteristics.
 
-  * Coordinate the patient care plan with the interprofessional team to manage potential drug interactions and optimize treatment outcomes.
+- Coordinate the patient care plan with the interprofessional team to manage potential drug interactions and optimize treatment outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18770&utm_source=pubmed&utm_campaign=reviews&utm_content=18770)
 
@@ -75,9 +74,9 @@ The countermeasure to counteract this adaptation mechanism involves simultaneous
 
 **Off-Label Uses**
 
-  * Migraine headaches: Research indicated that intranasal or SQ administration of calcitonin may provide relief from migraine pain, potentially by inhibiting the release of neuropeptides involved in migraine pathogenesis. However, the available evidence supporting its efficacy is limited.
+- Migraine headaches: Research indicated that intranasal or SQ administration of calcitonin may provide relief from migraine pain, potentially by inhibiting the release of neuropeptides involved in migraine pathogenesis. However, the available evidence supporting its efficacy is limited.
 
-  * Acute bone loss due to sudden immobilization: Calcitonin might aid in averting or mitigating the rapid loss of BMD that occurs when an individual becomes immobilized due to injury, surgery, or illness.
+- Acute bone loss due to sudden immobilization: Calcitonin might aid in averting or mitigating the rapid loss of BMD that occurs when an individual becomes immobilized due to injury, surgery, or illness.
 
 ## Mechanism of Action
 
@@ -91,7 +90,7 @@ Absorption: Calcitonin is available in different formulations, including nasal s
 
 Distribution: Calcitonin disperses throughout the body following its absorption. The drug exhibits a relatively short half-life, ranging from minutes to hours. Calcitonin readily attaches to plasma proteins, primarily albumin, at a rate of approximately 30% to 40%. The drug distributes across various body tissues, with the highest concentrations observed in the kidneys, bones, and central nervous system. In addition, calcitonin displays a volume of distribution ranging from 0.15 to 0.3 L/kg.
 
-Metabolism: The primary metabolic processes for calcitonin involve enzymatic breakdown by proteolytic enzymes, which predominantly occur in the kidneys and other tissues. 
+Metabolism: The primary metabolic processes for calcitonin involve enzymatic breakdown by proteolytic enzymes, which predominantly occur in the kidneys and other tissues.
 
 Elimination: Calcitonin and its metabolites are excreted from the body via urine and feces.
 
@@ -111,17 +110,17 @@ The injectable solution of calcitonin has a concentration of 200 units/mL, where
 
 Adult dosages of calcitonin for managing postmenopausal osteoporosis, Paget disease of bone, and hypercalcemia are listed below.
 
-  * Postmenopausal osteoporosis: For SQ or IM administration, 100 IU of the medication should be taken daily. The nasal spray option requires alternating nostrils daily and using 200 units per actuation.
+- Postmenopausal osteoporosis: For SQ or IM administration, 100 IU of the medication should be taken daily. The nasal spray option requires alternating nostrils daily and using 200 units per actuation.
 
-  * Paget disease of bone: The recommended initial dosage is 100 IU daily through SQ or IM injection. A daily dosage of 50 IU or a range of 50 to 100 IU every 1 to 3 days is advised for maintenance.
+- Paget disease of bone: The recommended initial dosage is 100 IU daily through SQ or IM injection. A daily dosage of 50 IU or a range of 50 to 100 IU every 1 to 3 days is advised for maintenance.
 
-  * Hypercalcemia: The initial dosage is typically 4 IU/kg administered every 12 hours via SQ or IM injection. If the response is inadequate, the dosage can be increased up to 8 IU/kg every 6 hours.
+- Hypercalcemia: The initial dosage is typically 4 IU/kg administered every 12 hours via SQ or IM injection. If the response is inadequate, the dosage can be increased up to 8 IU/kg every 6 hours.
 
 **Specific Patient Population**
 
 Hepatic impairment: As the kidneys and other tissues primarily metabolize calcitonin, not the liver, dosage adjustments are unnecessary for patients with hepatic impairment.
 
-Renal impairment: As calcitonin and its metabolites are excreted via the urine, renal impairment can influence their clearance and elevate their exposure, possibly resulting in a prolonged half-life. However, no dosage adjustments are required for patients with mild-to-moderate renal impairment. 
+Renal impairment: As calcitonin and its metabolites are excreted via the urine, renal impairment can influence their clearance and elevate their exposure, possibly resulting in a prolonged half-life. However, no dosage adjustments are required for patients with mild-to-moderate renal impairment.
 
 Pregnancy considerations: The available data on using calcitonin during pregnancy are limited. Although animal studies have not indicated any fetal harm, the data from human studies is insufficient to establish the drug's safety for use in pregnancy.
 
@@ -143,7 +142,7 @@ The nasal spray formulation can lead to epistaxis, rhinitis, and ulceration of t
 
 **Drug-Drug Interactions**
 
-Medications that may interact with calcitonin include etelcalcetide, foscarnet, lithium, sincalide, and zoledronic acid. These medications can impact patients' calcium levels or kidney function using calcitonin. Such interactions may increase the risk of adverse effects or diminish the efficacy of calcitonin treatment. 
+Medications that may interact with calcitonin include etelcalcetide, foscarnet, lithium, sincalide, and zoledronic acid. These medications can impact patients' calcium levels or kidney function using calcitonin. Such interactions may increase the risk of adverse effects or diminish the efficacy of calcitonin treatment.
 
 ## Contraindications
 
@@ -169,193 +168,154 @@ Animal studies have demonstrated an increased incidence of pituitary hyperplasia
 
 Considering calcitonin's mechanisms of action, the drug may also induce hypocalcemia. Hypocalcemia can trigger symptoms such as tetany, seizures, changes in mental status, and even cardiac arrest. Patients should incorporate supplementary vitamin D and calcium into their regimen when utilizing calcitonin to manage Paget disease of bone or postmenopausal osteoporosis to avert the onset of hypocalcemia. Men between the ages of 50 and 70 should consider a daily calcium intake of 1000 mg, whereas women older than 50 and men older than 70 should take 1200 mg of calcium daily. Individuals aged 50 or older should take 800 to 1000 units of vitamin D daily, whereas those aged 70 or older should reduce their daily vitamin D intake to 800 units.[1] Combining calcitonin and bisphosphonates can offer therapeutic advantages in managing hypercalcemia. However, this approach necessitates caution, as it can potentially lead to hypocalcemia, especially when using zoledronate.[33]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
-When initiating calcitonin therapy for patients with acute hypercalcemia, Paget disease of bone, and postmenopausal osteoporosis, a collaborative healthcare approach involving an interprofessional team is essential. This healthcare team should include the patient's primary care physician, endocrinologist, oncologist, advanced practice practitioners, nursing staff, and clinical pharmacist to provide a comprehensive approach toward patient care. 
+When initiating calcitonin therapy for patients with acute hypercalcemia, Paget disease of bone, and postmenopausal osteoporosis, a collaborative healthcare approach involving an interprofessional team is essential. This healthcare team should include the patient's primary care physician, endocrinologist, oncologist, advanced practice practitioners, nursing staff, and clinical pharmacist to provide a comprehensive approach toward patient care.
 
 Close monitoring of patients' conditions is crucial throughout calcitonin therapy to uphold the safety of patients and enhance their treatment outcomes. Interprofessional collaboration facilitates consistent monitoring of the patient's treatment response, encompassing evaluations of bone density, serum calcium levels, and the occurrence of adverse effects. Effective communication and coordination with shared decision-making among healthcare professionals enable timely modifications in dosage, treatment duration, or adjunctive therapies when necessary. This approach optimizes the medication's potential therapeutic effectiveness while minimizing adverse events.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18770&utm_source=pubmed&utm_campaign=reviews&utm_content=18770)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18770&utm_source=pubmed&utm_campaign=reviews&utm_content=18770)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18770/?utm_source=pubmed&utm_campaign=comments&utm_content=18770)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18770/?utm_source=pubmed&utm_campaign=comments&utm_content=18770)
 
 ## References
 
 1.
-    
 
-Cosman F, de Beur SJ, LeBoff MS, Lewiecki EM, Tanner B, Randall S, Lindsay R., National Osteoporosis Foundation. Clinician's Guide to Prevention and Treatment of Osteoporosis. Osteoporos Int. 2014 Oct;25(10):2359-81. [[PMC free article: PMC4176573](/pmc/articles/PMC4176573/)] [[PubMed: 25182228](https://pubmed.ncbi.nlm.nih.gov/25182228)]
+Cosman F, de Beur SJ, LeBoff MS, Lewiecki EM, Tanner B, Randall S, Lindsay R., National Osteoporosis Foundation. Clinician's Guide to Prevention and Treatment of Osteoporosis. Osteoporos Int. 2014 Oct;25(10):2359-81. \[[PMC free article: PMC4176573](/pmc/articles/PMC4176573/)\] \[[PubMed: 25182228](https://pubmed.ncbi.nlm.nih.gov/25182228)\]
 
 2.
-    
 
-Chesnut CH, Silverman S, Andriano K, Genant H, Gimona A, Harris S, Kiel D, LeBoff M, Maricic M, Miller P, Moniz C, Peacock M, Richardson P, Watts N, Baylink D. A randomized trial of nasal spray salmon calcitonin in postmenopausal women with established osteoporosis: the prevent recurrence of osteoporotic fractures study. PROOF Study Group. Am J Med. 2000 Sep;109(4):267-76. [[PubMed: 10996576](https://pubmed.ncbi.nlm.nih.gov/10996576)]
+Chesnut CH, Silverman S, Andriano K, Genant H, Gimona A, Harris S, Kiel D, LeBoff M, Maricic M, Miller P, Moniz C, Peacock M, Richardson P, Watts N, Baylink D. A randomized trial of nasal spray salmon calcitonin in postmenopausal women with established osteoporosis: the prevent recurrence of osteoporotic fractures study. PROOF Study Group. Am J Med. 2000 Sep;109(4):267-76. \[[PubMed: 10996576](https://pubmed.ncbi.nlm.nih.gov/10996576)\]
 
 3.
-    
 
-Binkley N, Bolognese M, Sidorowicz-Bialynicka A, Vally T, Trout R, Miller C, Buben CE, Gilligan JP, Krause DS., Oral Calcitonin in Postmenopausal Osteoporosis (ORACAL) Investigators. A phase 3 trial of the efficacy and safety of oral recombinant calcitonin: the Oral Calcitonin in Postmenopausal Osteoporosis (ORACAL) trial. J Bone Miner Res. 2012 Aug;27(8):1821-9. [[PubMed: 22437792](https://pubmed.ncbi.nlm.nih.gov/22437792)]
+Binkley N, Bolognese M, Sidorowicz-Bialynicka A, Vally T, Trout R, Miller C, Buben CE, Gilligan JP, Krause DS., Oral Calcitonin in Postmenopausal Osteoporosis (ORACAL) Investigators. A phase 3 trial of the efficacy and safety of oral recombinant calcitonin: the Oral Calcitonin in Postmenopausal Osteoporosis (ORACAL) trial. J Bone Miner Res. 2012 Aug;27(8):1821-9. \[[PubMed: 22437792](https://pubmed.ncbi.nlm.nih.gov/22437792)\]
 
 4.
-    
 
-Downs RW, Bell NH, Ettinger MP, Walsh BW, Favus MJ, Mako B, Wang L, Smith ME, Gormley GJ, Melton ME. Comparison of alendronate and intranasal calcitonin for treatment of osteoporosis in postmenopausal women. J Clin Endocrinol Metab. 2000 May;85(5):1783-8. [[PubMed: 10843152](https://pubmed.ncbi.nlm.nih.gov/10843152)]
+Downs RW, Bell NH, Ettinger MP, Walsh BW, Favus MJ, Mako B, Wang L, Smith ME, Gormley GJ, Melton ME. Comparison of alendronate and intranasal calcitonin for treatment of osteoporosis in postmenopausal women. J Clin Endocrinol Metab. 2000 May;85(5):1783-8. \[[PubMed: 10843152](https://pubmed.ncbi.nlm.nih.gov/10843152)\]
 
 5.
-    
 
-Muñoz-Torres M, Alonso G, Raya MP. Calcitonin therapy in osteoporosis. Treat Endocrinol. 2004;3(2):117-32. [[PubMed: 15743107](https://pubmed.ncbi.nlm.nih.gov/15743107)]
+Muñoz-Torres M, Alonso G, Raya MP. Calcitonin therapy in osteoporosis. Treat Endocrinol. 2004;3(2):117-32. \[[PubMed: 15743107](https://pubmed.ncbi.nlm.nih.gov/15743107)\]
 
 6.
-    
 
-Knopp-Sihota JA, Newburn-Cook CV, Homik J, Cummings GG, Voaklander D. Calcitonin for treating acute and chronic pain of recent and remote osteoporotic vertebral compression fractures: a systematic review and meta-analysis. Osteoporos Int. 2012 Jan;23(1):17-38. [[PubMed: 21660557](https://pubmed.ncbi.nlm.nih.gov/21660557)]
+Knopp-Sihota JA, Newburn-Cook CV, Homik J, Cummings GG, Voaklander D. Calcitonin for treating acute and chronic pain of recent and remote osteoporotic vertebral compression fractures: a systematic review and meta-analysis. Osteoporos Int. 2012 Jan;23(1):17-38. \[[PubMed: 21660557](https://pubmed.ncbi.nlm.nih.gov/21660557)\]
 
 7.
-    
 
-Camacho PM, Petak SM, Binkley N, Clarke BL, Harris ST, Hurley DL, Kleerekoper M, Lewiecki EM, Miller PD, Narula HS, Pessah-Pollack R, Tangpricha V, Wimalawansa SJ, Watts NB. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERICAN COLLEGE OF ENDOCRINOLOGY CLINICAL PRACTICE GUIDELINES FOR THE DIAGNOSIS AND TREATMENT OF POSTMENOPAUSAL OSTEOPOROSIS - 2016--EXECUTIVE SUMMARY. Endocr Pract. 2016 Sep;22(9):1111-8. [[PubMed: 27643923](https://pubmed.ncbi.nlm.nih.gov/27643923)]
+Camacho PM, Petak SM, Binkley N, Clarke BL, Harris ST, Hurley DL, Kleerekoper M, Lewiecki EM, Miller PD, Narula HS, Pessah-Pollack R, Tangpricha V, Wimalawansa SJ, Watts NB. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERICAN COLLEGE OF ENDOCRINOLOGY CLINICAL PRACTICE GUIDELINES FOR THE DIAGNOSIS AND TREATMENT OF POSTMENOPAUSAL OSTEOPOROSIS - 2016--EXECUTIVE SUMMARY. Endocr Pract. 2016 Sep;22(9):1111-8. \[[PubMed: 27643923](https://pubmed.ncbi.nlm.nih.gov/27643923)\]
 
 8.
-    
 
-Singer FR. Clinical efficacy of salmon calcitonin in Paget's disease of bone. Calcif Tissue Int. 1991;49 Suppl 2:S7-8. [[PubMed: 1933617](https://pubmed.ncbi.nlm.nih.gov/1933617)]
+Singer FR. Clinical efficacy of salmon calcitonin in Paget's disease of bone. Calcif Tissue Int. 1991;49 Suppl 2:S7-8. \[[PubMed: 1933617](https://pubmed.ncbi.nlm.nih.gov/1933617)\]
 
 9.
-    
 
-Drake MT, Clarke BL, Khosla S. Bisphosphonates: mechanism of action and role in clinical practice. Mayo Clin Proc. 2008 Sep;83(9):1032-45. [[PMC free article: PMC2667901](/pmc/articles/PMC2667901/)] [[PubMed: 18775204](https://pubmed.ncbi.nlm.nih.gov/18775204)]
+Drake MT, Clarke BL, Khosla S. Bisphosphonates: mechanism of action and role in clinical practice. Mayo Clin Proc. 2008 Sep;83(9):1032-45. \[[PMC free article: PMC2667901](/pmc/articles/PMC2667901/)\] \[[PubMed: 18775204](https://pubmed.ncbi.nlm.nih.gov/18775204)\]
 
 10.
-    
 
-Wootton R, Reeve J, Spellacy E, Tellez-Yudilevich M. Skeletal blood flow in Paget's disease of bone and its response to calcitonin therapy. Clin Sci Mol Med. 1978 Jan;54(1):69-74. [[PubMed: 620495](https://pubmed.ncbi.nlm.nih.gov/620495)]
+Wootton R, Reeve J, Spellacy E, Tellez-Yudilevich M. Skeletal blood flow in Paget's disease of bone and its response to calcitonin therapy. Clin Sci Mol Med. 1978 Jan;54(1):69-74. \[[PubMed: 620495](https://pubmed.ncbi.nlm.nih.gov/620495)\]
 
 11.
-    
 
-Singer FR, Fredericks RS, Minkin C. Salmon calcitonin therapy for Paget's disease of bone. The problem of acquired clinical resistance. Arthritis Rheum. 1980 Oct;23(10):1148-54. [[PubMed: 7000081](https://pubmed.ncbi.nlm.nih.gov/7000081)]
+Singer FR, Fredericks RS, Minkin C. Salmon calcitonin therapy for Paget's disease of bone. The problem of acquired clinical resistance. Arthritis Rheum. 1980 Oct;23(10):1148-54. \[[PubMed: 7000081](https://pubmed.ncbi.nlm.nih.gov/7000081)\]
 
 12.
-    
 
-Reginster JY, Lecart MP. Efficacy and safety of drugs for Paget's disease of bone. Bone. 1995 Nov;17(5 Suppl):485S-488S. [[PubMed: 8573423](https://pubmed.ncbi.nlm.nih.gov/8573423)]
+Reginster JY, Lecart MP. Efficacy and safety of drugs for Paget's disease of bone. Bone. 1995 Nov;17(5 Suppl):485S-488S. \[[PubMed: 8573423](https://pubmed.ncbi.nlm.nih.gov/8573423)\]
 
 13.
-    
 
-Luboshitzky R, Bar-Shalom R. [Calcitonin nasal spray for Paget's disease of the bone]. Harefuah. 1995 Mar 15;128(6):358-62, 399. [[PubMed: 7750816](https://pubmed.ncbi.nlm.nih.gov/7750816)]
+Luboshitzky R, Bar-Shalom R. [Calcitonin nasal spray for Paget's disease of the bone]. Harefuah. 1995 Mar 15;128(6):358-62, 399. \[[PubMed: 7750816](https://pubmed.ncbi.nlm.nih.gov/7750816)\]
 
 14.
-    
 
-Hosking DJ, Cowley A, Bucknall CA. Rehydration in the treatment of severe hypercalcaemia. Q J Med. 1981 Autumn;50(200):473-81. [[PubMed: 7342172](https://pubmed.ncbi.nlm.nih.gov/7342172)]
+Hosking DJ, Cowley A, Bucknall CA. Rehydration in the treatment of severe hypercalcaemia. Q J Med. 1981 Autumn;50(200):473-81. \[[PubMed: 7342172](https://pubmed.ncbi.nlm.nih.gov/7342172)\]
 
 15.
-    
 
-Wisneski LA. Salmon calcitonin in the acute management of hypercalcemia. Calcif Tissue Int. 1990;46 Suppl:S26-30. [[PubMed: 2137363](https://pubmed.ncbi.nlm.nih.gov/2137363)]
+Wisneski LA. Salmon calcitonin in the acute management of hypercalcemia. Calcif Tissue Int. 1990;46 Suppl:S26-30. \[[PubMed: 2137363](https://pubmed.ncbi.nlm.nih.gov/2137363)\]
 
 16.
-    
 
-Bilezikian JP. Clinical review 51: Management of hypercalcemia. J Clin Endocrinol Metab. 1993 Dec;77(6):1445-9. [[PubMed: 8263125](https://pubmed.ncbi.nlm.nih.gov/8263125)]
+Bilezikian JP. Clinical review 51: Management of hypercalcemia. J Clin Endocrinol Metab. 1993 Dec;77(6):1445-9. \[[PubMed: 8263125](https://pubmed.ncbi.nlm.nih.gov/8263125)\]
 
 17.
-    
 
-Nilsson O, Almqvist S, Karlberg BE. Salmon calcitonin in the acute treatment of moderate and severe hypercalcemia in man. Acta Med Scand. 1978;204(4):249-52. [[PubMed: 358762](https://pubmed.ncbi.nlm.nih.gov/358762)]
+Nilsson O, Almqvist S, Karlberg BE. Salmon calcitonin in the acute treatment of moderate and severe hypercalcemia in man. Acta Med Scand. 1978;204(4):249-52. \[[PubMed: 358762](https://pubmed.ncbi.nlm.nih.gov/358762)\]
 
 18.
-    
 
-Stevenson JC. Current management of malignant hypercalcaemia. Drugs. 1988 Aug;36(2):229-38. [[PubMed: 3053127](https://pubmed.ncbi.nlm.nih.gov/3053127)]
+Stevenson JC. Current management of malignant hypercalcaemia. Drugs. 1988 Aug;36(2):229-38. \[[PubMed: 3053127](https://pubmed.ncbi.nlm.nih.gov/3053127)\]
 
 19.
-    
 
-Masi L, Brandi ML. Calcitonin and calcitonin receptors. Clin Cases Miner Bone Metab. 2007 May;4(2):117-22. [[PMC free article: PMC2781237](/pmc/articles/PMC2781237/)] [[PubMed: 22461211](https://pubmed.ncbi.nlm.nih.gov/22461211)]
+Masi L, Brandi ML. Calcitonin and calcitonin receptors. Clin Cases Miner Bone Metab. 2007 May;4(2):117-22. \[[PMC free article: PMC2781237](/pmc/articles/PMC2781237/)\] \[[PubMed: 22461211](https://pubmed.ncbi.nlm.nih.gov/22461211)\]
 
 20.
-    
 
-Felsenfeld AJ, Levine BS. Calcitonin, the forgotten hormone: does it deserve to be forgotten? Clin Kidney J. 2015 Apr;8(2):180-7. [[PMC free article: PMC4370311](/pmc/articles/PMC4370311/)] [[PubMed: 25815174](https://pubmed.ncbi.nlm.nih.gov/25815174)]
+Felsenfeld AJ, Levine BS. Calcitonin, the forgotten hormone: does it deserve to be forgotten? Clin Kidney J. 2015 Apr;8(2):180-7. \[[PMC free article: PMC4370311](/pmc/articles/PMC4370311/)\] \[[PubMed: 25815174](https://pubmed.ncbi.nlm.nih.gov/25815174)\]
 
 21.
-    
 
-Niall HD, Keutmann HT, Copp DH, Potts JT. Amino acid sequence of salmon ultimobranchial calcitonin. Proc Natl Acad Sci U S A. 1969 Oct;64(2):771-8. [[PMC free article: PMC223410](/pmc/articles/PMC223410/)] [[PubMed: 5261048](https://pubmed.ncbi.nlm.nih.gov/5261048)]
+Niall HD, Keutmann HT, Copp DH, Potts JT. Amino acid sequence of salmon ultimobranchial calcitonin. Proc Natl Acad Sci U S A. 1969 Oct;64(2):771-8. \[[PMC free article: PMC223410](/pmc/articles/PMC223410/)\] \[[PubMed: 5261048](https://pubmed.ncbi.nlm.nih.gov/5261048)\]
 
 22.
-    
 
-Andreotti G, Méndez BL, Amodeo P, Morelli MA, Nakamuta H, Motta A. Structural determinants of salmon calcitonin bioactivity: the role of the Leu-based amphipathic alpha-helix. J Biol Chem. 2006 Aug 25;281(34):24193-203. [[PubMed: 16766525](https://pubmed.ncbi.nlm.nih.gov/16766525)]
+Andreotti G, Méndez BL, Amodeo P, Morelli MA, Nakamuta H, Motta A. Structural determinants of salmon calcitonin bioactivity: the role of the Leu-based amphipathic alpha-helix. J Biol Chem. 2006 Aug 25;281(34):24193-203. \[[PubMed: 16766525](https://pubmed.ncbi.nlm.nih.gov/16766525)\]
 
 23.
-    
 
-Nicholson GC, Moseley JM, Sexton PM, Mendelsohn FA, Martin TJ. Abundant calcitonin receptors in isolated rat osteoclasts. Biochemical and autoradiographic characterization. J Clin Invest. 1986 Aug;78(2):355-60. [[PMC free article: PMC423551](/pmc/articles/PMC423551/)] [[PubMed: 3016026](https://pubmed.ncbi.nlm.nih.gov/3016026)]
+Nicholson GC, Moseley JM, Sexton PM, Mendelsohn FA, Martin TJ. Abundant calcitonin receptors in isolated rat osteoclasts. Biochemical and autoradiographic characterization. J Clin Invest. 1986 Aug;78(2):355-60. \[[PMC free article: PMC423551](/pmc/articles/PMC423551/)\] \[[PubMed: 3016026](https://pubmed.ncbi.nlm.nih.gov/3016026)\]
 
 24.
-    
 
-Carstens JH, Feinblatt JD. Future horizons for calcitonin: a U.S. perspective. Calcif Tissue Int. 1991;49 Suppl 2:S2-6. [[PubMed: 1933616](https://pubmed.ncbi.nlm.nih.gov/1933616)]
+Carstens JH, Feinblatt JD. Future horizons for calcitonin: a U.S. perspective. Calcif Tissue Int. 1991;49 Suppl 2:S2-6. \[[PubMed: 1933616](https://pubmed.ncbi.nlm.nih.gov/1933616)\]
 
 25.
-    
 
-Overgaard K, Agnusdei D, Hansen MA, Maioli E, Christiansen C, Gennari C. Dose-response bioactivity and bioavailability of salmon calcitonin in premenopausal and postmenopausal women. J Clin Endocrinol Metab. 1991 Feb;72(2):344-9. [[PubMed: 1846873](https://pubmed.ncbi.nlm.nih.gov/1846873)]
+Overgaard K, Agnusdei D, Hansen MA, Maioli E, Christiansen C, Gennari C. Dose-response bioactivity and bioavailability of salmon calcitonin in premenopausal and postmenopausal women. J Clin Endocrinol Metab. 1991 Feb;72(2):344-9. \[[PubMed: 1846873](https://pubmed.ncbi.nlm.nih.gov/1846873)\]
 
 26.
-    
 
-Reginster JY, Franchimont P. Side effects of synthetic salmon calcitonin given by intranasal spray compared with intramuscular injection. Clin Exp Rheumatol. 1985 Apr-Jun;3(2):155-7. [[PubMed: 2410171](https://pubmed.ncbi.nlm.nih.gov/2410171)]
+Reginster JY, Franchimont P. Side effects of synthetic salmon calcitonin given by intranasal spray compared with intramuscular injection. Clin Exp Rheumatol. 1985 Apr-Jun;3(2):155-7. \[[PubMed: 2410171](https://pubmed.ncbi.nlm.nih.gov/2410171)\]
 
 27.
-    
 
-Latif A, Gastelum AA, Farhan K, Jagadesh S, Mutnuri S. Treatment approach for primary hyperparathyroidism in pregnancy. Proc (Bayl Univ Med Cent). 2020 Oct 28;34(1):191-193. [[PMC free article: PMC7785157](/pmc/articles/PMC7785157/)] [[PubMed: 33456198](https://pubmed.ncbi.nlm.nih.gov/33456198)]
+Latif A, Gastelum AA, Farhan K, Jagadesh S, Mutnuri S. Treatment approach for primary hyperparathyroidism in pregnancy. Proc (Bayl Univ Med Cent). 2020 Oct 28;34(1):191-193. \[[PMC free article: PMC7785157](/pmc/articles/PMC7785157/)\] \[[PubMed: 33456198](https://pubmed.ncbi.nlm.nih.gov/33456198)\]
 
 28.
-    
 
-Peña-Rodríguez ZA, Haro-García M, Benito-Navarro JR. Nasal osteoma and inhaled salmon calcitonin: Coincidence or consequence? Acta Otorrinolaringol Esp (Engl Ed). 2017 Nov-Dec;68(6):366-368. [[PubMed: 28069111](https://pubmed.ncbi.nlm.nih.gov/28069111)]
+Peña-Rodríguez ZA, Haro-García M, Benito-Navarro JR. Nasal osteoma and inhaled salmon calcitonin: Coincidence or consequence? Acta Otorrinolaringol Esp (Engl Ed). 2017 Nov-Dec;68(6):366-368. \[[PubMed: 28069111](https://pubmed.ncbi.nlm.nih.gov/28069111)\]
 
 29.
-    
 
-Overman RA, Borse M, Gourlay ML. Salmon calcitonin use and associated cancer risk. Ann Pharmacother. 2013 Dec;47(12):1675-84. [[PubMed: 24259626](https://pubmed.ncbi.nlm.nih.gov/24259626)]
+Overman RA, Borse M, Gourlay ML. Salmon calcitonin use and associated cancer risk. Ann Pharmacother. 2013 Dec;47(12):1675-84. \[[PubMed: 24259626](https://pubmed.ncbi.nlm.nih.gov/24259626)\]
 
 30.
-    
 
-Ishii J, Katayama S, Itabashi A, Takahama M, Kawazu S. Salmon calcitonin induces pituitary tumor in rats. Endocrinol Jpn. 1991 Dec;38(6):705-9. [[PubMed: 1823038](https://pubmed.ncbi.nlm.nih.gov/1823038)]
+Ishii J, Katayama S, Itabashi A, Takahama M, Kawazu S. Salmon calcitonin induces pituitary tumor in rats. Endocrinol Jpn. 1991 Dec;38(6):705-9. \[[PubMed: 1823038](https://pubmed.ncbi.nlm.nih.gov/1823038)\]
 
 31.
-    
 
-Sondergaard BC, Catala-Lehnen P, Huebner AK, Bay-Jensen AC, Schinke T, Henriksen K, Schilling S, Haberland M, Nielsen RH, Amling M, Karsdal MA. Mice over-expressing salmon calcitonin have strongly attenuated osteoarthritic histopathological changes after destabilization of the medial meniscus. Osteoarthritis Cartilage. 2012 Feb;20(2):136-43. [[PubMed: 22122987](https://pubmed.ncbi.nlm.nih.gov/22122987)]
+Sondergaard BC, Catala-Lehnen P, Huebner AK, Bay-Jensen AC, Schinke T, Henriksen K, Schilling S, Haberland M, Nielsen RH, Amling M, Karsdal MA. Mice over-expressing salmon calcitonin have strongly attenuated osteoarthritic histopathological changes after destabilization of the medial meniscus. Osteoarthritis Cartilage. 2012 Feb;20(2):136-43. \[[PubMed: 22122987](https://pubmed.ncbi.nlm.nih.gov/22122987)\]
 
 32.
-    
 
-Wells G, Chernoff J, Gilligan JP, Krause DS. Does salmon calcitonin cause cancer? A review and meta-analysis. Osteoporos Int. 2016 Jan;27(1):13-9. [[PMC free article: PMC4715844](/pmc/articles/PMC4715844/)] [[PubMed: 26438308](https://pubmed.ncbi.nlm.nih.gov/26438308)]
+Wells G, Chernoff J, Gilligan JP, Krause DS. Does salmon calcitonin cause cancer? A review and meta-analysis. Osteoporos Int. 2016 Jan;27(1):13-9. \[[PMC free article: PMC4715844](/pmc/articles/PMC4715844/)\] \[[PubMed: 26438308](https://pubmed.ncbi.nlm.nih.gov/26438308)\]
 
 33.
-    
 
-Tanaka S, Yoshida A, Kono S, Ito M. Effectiveness of monotherapy and combined therapy with calcitonin and minodronic acid hydrate, a bisphosphonate, for early treatment in patients with new vertebral fractures: An open-label, randomized, parallel-group study. J Orthop Sci. 2017 May;22(3):536-541. [[PubMed: 28108224](https://pubmed.ncbi.nlm.nih.gov/28108224)]
-
-    
+Tanaka S, Yoshida A, Kono S, Ito M. Effectiveness of monotherapy and combined therapy with calcitonin and minodronic acid hydrate, a bisphosphonate, for early treatment in patients with new vertebral fractures: An open-label, randomized, parallel-group study. J Orthop Sci. 2017 May;22(3):536-541. \[[PubMed: 28108224](https://pubmed.ncbi.nlm.nih.gov/28108224)\]
 
 **Disclosure:** Matthew McLaughlin declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Ayoola Awosika declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Ishwarlal Jialal declares no relevant financial relationships with ineligible companies.

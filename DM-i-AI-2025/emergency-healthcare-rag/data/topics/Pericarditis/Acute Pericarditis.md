@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26955/
-scraped_date: 2025-07-22 12:36:26 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26955/ scraped_date: 2025-07-22 12:36:26 UTC
 
 # Pericarditis
 
@@ -29,13 +28,13 @@ Patients with pericarditis often present with chest pain that can be confused wi
 
 **Objectives:**
 
-  * Identify the common presenting symptoms of pericarditis and its potential complications, including cardiac tamponade and constrictive pericarditis.
+- Identify the common presenting symptoms of pericarditis and its potential complications, including cardiac tamponade and constrictive pericarditis.
 
-  * Implement evidence-based treatment protocols for pericarditis, including the administration of anti-inflammatory agents, colchicine, and corticosteroids when indicated.
+- Implement evidence-based treatment protocols for pericarditis, including the administration of anti-inflammatory agents, colchicine, and corticosteroids when indicated.
 
-  * Select appropriate diagnostic tools, such as electrocardiogram, echocardiography, and laboratory tests, to aid in the accurate diagnosis of pericarditis.
+- Select appropriate diagnostic tools, such as electrocardiogram, echocardiography, and laboratory tests, to aid in the accurate diagnosis of pericarditis.
 
-  * Collaborate with an interprofessional healthcare team to ensure monitoring for the recurrence of pericarditis and comprehensive management of pericarditis and its complications.
+- Collaborate with an interprofessional healthcare team to ensure monitoring for the recurrence of pericarditis and comprehensive management of pericarditis and its complications.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26955&utm_source=pubmed&utm_campaign=reviews&utm_content=26955)
 
@@ -57,7 +56,7 @@ The 2015 European Society of Cardiology (ESC) guidelines for diagnosing and mana
 
 Viruses are the most common infectious agents causing pericarditis, including coxsackieviruses A and B, echovirus, adenoviruses, parvovirus B19, HIV, influenza, and several herpes viruses such as Epstein-Barr virus (EBV) and cytomegalovirus (CMV).[9][10] Bacterial pericarditis occurs infrequently in in developed countries; however, tuberculosis remains widespread in developing regions and is the most common cause of pericarditis in endemic areas.[11] This is particularly true for HIV-positive patients, among whom the infection rate continues to rise.[12] Less commonly, bacteria such as _Coxiella burnetii_ , _Neisseria meningitidis_ , _Streptococcus pneumoniae_ , _Staphylococcus_ , and _Streptococcus_ can cause pericarditis, with life-threatening cases of purulent cardiac tamponade documented in the literature.[13]
 
-In rare instances, fungal organisms such as  _Histoplasma_ , _Coccidioides_ , _Candida_ , and _Blastomyces_ or parasitic species such as _Echinococcus_ and _Toxoplasma_ can also cause pericarditis.[14] When these pathogens are identified, an underlying immunocompromised state should be strongly considered, as many fungi and parasites—particularly _Histoplasma_ and _Toxoplasma_ —are opportunistic infections, and they have been described as predominant in HIV-positive patients.
+In rare instances, fungal organisms such as _Histoplasma_ , _Coccidioides_ , _Candida_ , and _Blastomyces_ or parasitic species such as _Echinococcus_ and _Toxoplasma_ can also cause pericarditis.[14] When these pathogens are identified, an underlying immunocompromised state should be strongly considered, as many fungi and parasites—particularly _Histoplasma_ and _Toxoplasma_ —are opportunistic infections, and they have been described as predominant in HIV-positive patients.
 
 **Noninfectious Causes of Pericarditis**
 
@@ -99,25 +98,25 @@ When present, particularly as a triphasic sound, a pericardial friction rub is h
 
 More than half of patients with acute pericarditis exhibit characteristic electrocardiogram (ECG) changes that evolve through 4 stages over several weeks, showing significant temporal variability, as mentioned below (see **Image.** Electrocardiographic Findings in Acute Pericarditis).[31]
 
-  * Stage I typically presents with diffuse, concave ST-segment elevation, accompanied by reciprocal ST depression in the lead AVR. This stage may also feature PR segment elevation in lead AVR (and possibly V1), which can effectively differentiate acute pericarditis from myocardial infarction.[32] Although localized pericarditis can present with ST elevations in specific leads, diffuse changes on the ECG are more commonly observed.
+- Stage I typically presents with diffuse, concave ST-segment elevation, accompanied by reciprocal ST depression in the lead AVR. This stage may also feature PR segment elevation in lead AVR (and possibly V1), which can effectively differentiate acute pericarditis from myocardial infarction.[32] Although localized pericarditis can present with ST elevations in specific leads, diffuse changes on the ECG are more commonly observed.
 
-  * Stage II typically occurs within the first week and shows normalization of ST and PR segment changes.
+- Stage II typically occurs within the first week and shows normalization of ST and PR segment changes.
 
-  * Stage III is characterized by widespread T-wave inversions.
+- Stage III is characterized by widespread T-wave inversions.
 
-  * Stage IV involves the eventual normalization of T waves.
+- Stage IV involves the eventual normalization of T waves.
 
 The initial ST elevation in pericarditis should not be confused with an acute injury pattern, where ST elevation appears in a localized distribution and is concave down, unlike the concave-up pattern seen in pericarditis. Acute injury patterns are also typically associated with reciprocal ST depressions in multiple leads (not limited to AVR, as in pericarditis), and Q waves often emerge in the same distribution—or develop shortly thereafter—as part of the natural progression of acute or subacute myocardial infarction. The differential diagnosis for ST elevations should include early repolarization abnormalities commonly observed in healthy individuals. These abnormalities are characterized by an elevated J-point, often presenting as an initial slur at the beginning of the ST segment. While they may appear in several leads, they are typically not diffuse.[33]
 
 Clinically, acute pericarditis is indicated by a characteristic description of chest pain and the presence of a pericardial friction rub upon auscultation. However, laboratory studies, ECG, and echocardiography are often necessary to confirm the diagnosis. According to the 2015 ESC guidelines, a diagnosis of acute pericarditis requires the presence of at least 2 out of 4 criteria, as mentioned below.
 
-  * Pericardial chest pain
+- Pericardial chest pain
 
-  * Pericardial rubs
+- Pericardial rubs
 
-  * New widespread ST elevation or PR depression on ECG
+- New widespread ST elevation or PR depression on ECG
 
-  * New or worsening pericardial effusion.
+- New or worsening pericardial effusion.
 
 Supporting findings may include elevated inflammatory biomarkers (erythrocyte sedimentation rate [ESR], C-reactive protein [CRP], and leukocytosis) and evidence of pericardial inflammation on advanced imaging, such as cardiac computed tomography (CT) and cardiovascular magnetic resonance imaging (MRI). While pericardial effusion is often present, it is not required for a definitive diagnosis of acute pericarditis.[32]
 
@@ -161,23 +160,23 @@ Certain forms of acute pericarditis, such as iatrogenic and uremic pericarditis,
 
 Differential diagnoses include:
 
-  * Pleurisy
+- Pleurisy
 
-  * Pneumonia
+- Pneumonia
 
-  * Acute myocardial infarction
+- Acute myocardial infarction
 
-  * Bony pain
+- Bony pain
 
-  * Costochondritis
+- Costochondritis
 
-  * Angina
+- Angina
 
 ## Prognosis
 
 The overall prognosis for acute pericarditis is excellent, with most patients experiencing complete recovery. Up to 30% of patients who are not treated with colchicine may experience recurrent pericarditis. Constrictive pericarditis is exceedingly rare following idiopathic acute pericarditis, occurring in less than 1% of cases. However, the risk of constrictive pericarditis increases with specific etiologies, particularly purulent bacterial or tuberculosis pericarditis, where it may rise to as high as 30%.[56][57] Cardiac tamponade, the most feared acute complication, rarely occurs after idiopathic pericarditis but is more commonly associated with malignancy and infectious causes of pericarditis.[58]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Diagnosing and managing pericarditis can be complex and is best accomplished through an interprofessional healthcare team that includes a cardiologist, radiologist, cardiac surgeon, infectious disease specialist, primary care provider, and nurse practitioner. Most patients present with vague chest pain, which can be mistaken for a heart attack, pleurisy, or angina. Therefore, consulting with a cardiologist before initiating treatment is essential.
 
@@ -187,314 +186,252 @@ Pharmacists should educate patients about medication compliance. If colchicine i
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26955&utm_source=pubmed&utm_campaign=reviews&utm_content=26955)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26955&utm_source=pubmed&utm_campaign=reviews&utm_content=26955)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/pericarditis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26955)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/pericarditis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26955)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26955/?utm_source=pubmed&utm_campaign=comments&utm_content=26955)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26955/?utm_source=pubmed&utm_campaign=comments&utm_content=26955)
 
 [![Image ](/books/NBK431080/bin/Figure__1.gif)](/books/NBK431080/figure/article-26955.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK431080/figure/article-26955.image.f1/?report=objectonly)
 
-Electrocardiographic Findings in Acute Pericarditis Contributed by L Chhabra, MD 
+Electrocardiographic Findings in Acute Pericarditis Contributed by L Chhabra, MD
 
 ## References
 
 1.
-    
 
-Hoit BD. Anatomy and Physiology of the Pericardium. Cardiol Clin. 2017 Nov;35(4):481-490. [[PubMed: 29025540](https://pubmed.ncbi.nlm.nih.gov/29025540)]
+Hoit BD. Anatomy and Physiology of the Pericardium. Cardiol Clin. 2017 Nov;35(4):481-490. \[[PubMed: 29025540](https://pubmed.ncbi.nlm.nih.gov/29025540)\]
 
 2.
-    
 
-Little WC, Freeman GL. Pericardial disease. Circulation. 2006 Mar 28;113(12):1622-32. [[PubMed: 16567581](https://pubmed.ncbi.nlm.nih.gov/16567581)]
+Little WC, Freeman GL. Pericardial disease. Circulation. 2006 Mar 28;113(12):1622-32. \[[PubMed: 16567581](https://pubmed.ncbi.nlm.nih.gov/16567581)\]
 
 3.
-    
 
-Imazio M, Gaita F, LeWinter M. Evaluation and Treatment of Pericarditis: A Systematic Review. JAMA. 2015 Oct 13;314(14):1498-506. [[PubMed: 26461998](https://pubmed.ncbi.nlm.nih.gov/26461998)]
+Imazio M, Gaita F, LeWinter M. Evaluation and Treatment of Pericarditis: A Systematic Review. JAMA. 2015 Oct 13;314(14):1498-506. \[[PubMed: 26461998](https://pubmed.ncbi.nlm.nih.gov/26461998)\]
 
 4.
-    
 
-Spodick DH. Acute cardiac tamponade. N Engl J Med. 2003 Aug 14;349(7):684-90. [[PubMed: 12917306](https://pubmed.ncbi.nlm.nih.gov/12917306)]
+Spodick DH. Acute cardiac tamponade. N Engl J Med. 2003 Aug 14;349(7):684-90. \[[PubMed: 12917306](https://pubmed.ncbi.nlm.nih.gov/12917306)\]
 
 5.
-    
 
-Imazio M, Lazaros G, Brucato A, Gaita F. Recurrent pericarditis: new and emerging therapeutic options. Nat Rev Cardiol. 2016 Feb;13(2):99-105. [[PubMed: 26259934](https://pubmed.ncbi.nlm.nih.gov/26259934)]
+Imazio M, Lazaros G, Brucato A, Gaita F. Recurrent pericarditis: new and emerging therapeutic options. Nat Rev Cardiol. 2016 Feb;13(2):99-105. \[[PubMed: 26259934](https://pubmed.ncbi.nlm.nih.gov/26259934)\]
 
 6.
-    
 
-Maisch B. [Management of pericarditis and pericardial effusion, constrictive and effusive-constrictive pericarditis]. Herz. 2018 Nov;43(7):663-678. [[PubMed: 30315402](https://pubmed.ncbi.nlm.nih.gov/30315402)]
+Maisch B. [Management of pericarditis and pericardial effusion, constrictive and effusive-constrictive pericarditis]. Herz. 2018 Nov;43(7):663-678. \[[PubMed: 30315402](https://pubmed.ncbi.nlm.nih.gov/30315402)\]
 
 7.
-    
 
-Khandaker MH, Espinosa RE, Nishimura RA, Sinak LJ, Hayes SN, Melduni RM, Oh JK. Pericardial disease: diagnosis and management. Mayo Clin Proc. 2010 Jun;85(6):572-93. [[PMC free article: PMC2878263](/pmc/articles/PMC2878263/)] [[PubMed: 20511488](https://pubmed.ncbi.nlm.nih.gov/20511488)]
+Khandaker MH, Espinosa RE, Nishimura RA, Sinak LJ, Hayes SN, Melduni RM, Oh JK. Pericardial disease: diagnosis and management. Mayo Clin Proc. 2010 Jun;85(6):572-93. \[[PMC free article: PMC2878263](/pmc/articles/PMC2878263/)\] \[[PubMed: 20511488](https://pubmed.ncbi.nlm.nih.gov/20511488)\]
 
 8.
-    
 
-Oh JK, Hatle LK, Seward JB, Danielson GK, Schaff HV, Reeder GS, Tajik AJ. Diagnostic role of Doppler echocardiography in constrictive pericarditis. J Am Coll Cardiol. 1994 Jan;23(1):154-62. [[PubMed: 8277074](https://pubmed.ncbi.nlm.nih.gov/8277074)]
+Oh JK, Hatle LK, Seward JB, Danielson GK, Schaff HV, Reeder GS, Tajik AJ. Diagnostic role of Doppler echocardiography in constrictive pericarditis. J Am Coll Cardiol. 1994 Jan;23(1):154-62. \[[PubMed: 8277074](https://pubmed.ncbi.nlm.nih.gov/8277074)\]
 
 9.
-    
 
-Adler Y, Charron P. The 2015 ESC Guidelines on the diagnosis and management of pericardial diseases. Eur Heart J. 2015 Nov 07;36(42):2873-4. [[PubMed: 26547486](https://pubmed.ncbi.nlm.nih.gov/26547486)]
+Adler Y, Charron P. The 2015 ESC Guidelines on the diagnosis and management of pericardial diseases. Eur Heart J. 2015 Nov 07;36(42):2873-4. \[[PubMed: 26547486](https://pubmed.ncbi.nlm.nih.gov/26547486)\]
 
 10.
-    
 
-Imazio M, Brucato A, Derosa FG, Lestuzzi C, Bombana E, Scipione F, Leuzzi S, Cecchi E, Trinchero R, Adler Y. Aetiological diagnosis in acute and recurrent pericarditis: when and how. J Cardiovasc Med (Hagerstown). 2009 Mar;10(3):217-30. [[PubMed: 19262208](https://pubmed.ncbi.nlm.nih.gov/19262208)]
+Imazio M, Brucato A, Derosa FG, Lestuzzi C, Bombana E, Scipione F, Leuzzi S, Cecchi E, Trinchero R, Adler Y. Aetiological diagnosis in acute and recurrent pericarditis: when and how. J Cardiovasc Med (Hagerstown). 2009 Mar;10(3):217-30. \[[PubMed: 19262208](https://pubmed.ncbi.nlm.nih.gov/19262208)\]
 
 11.
-    
 
-Mayosi BM, Burgess LJ, Doubell AF. Tuberculous pericarditis. Circulation. 2005 Dec 06;112(23):3608-16. [[PubMed: 16330703](https://pubmed.ncbi.nlm.nih.gov/16330703)]
+Mayosi BM, Burgess LJ, Doubell AF. Tuberculous pericarditis. Circulation. 2005 Dec 06;112(23):3608-16. \[[PubMed: 16330703](https://pubmed.ncbi.nlm.nih.gov/16330703)\]
 
 12.
-    
 
-Ntsekhe M, Mayosi BM. Tuberculous pericarditis with and without HIV. Heart Fail Rev. 2013 May;18(3):367-73. [[PubMed: 22427006](https://pubmed.ncbi.nlm.nih.gov/22427006)]
+Ntsekhe M, Mayosi BM. Tuberculous pericarditis with and without HIV. Heart Fail Rev. 2013 May;18(3):367-73. \[[PubMed: 22427006](https://pubmed.ncbi.nlm.nih.gov/22427006)\]
 
 13.
-    
 
-Petcu CP, Dilof R, Bătăiosu C, Petcu PD. Purulent pericardial effusions with pericardial tamponade - diagnosis and treatment issues. Curr Health Sci J. 2013 Jan;39(1):53-6. [[PMC free article: PMC3945255](/pmc/articles/PMC3945255/)] [[PubMed: 24778855](https://pubmed.ncbi.nlm.nih.gov/24778855)]
+Petcu CP, Dilof R, Bătăiosu C, Petcu PD. Purulent pericardial effusions with pericardial tamponade - diagnosis and treatment issues. Curr Health Sci J. 2013 Jan;39(1):53-6. \[[PMC free article: PMC3945255](/pmc/articles/PMC3945255/)\] \[[PubMed: 24778855](https://pubmed.ncbi.nlm.nih.gov/24778855)\]
 
 14.
-    
 
-Oladele RO, Ayanlowo OO, Richardson MD, Denning DW. Histoplasmosis in Africa: An emerging or a neglected disease? PLoS Negl Trop Dis. 2018 Jan;12(1):e0006046. [[PMC free article: PMC5773084](/pmc/articles/PMC5773084/)] [[PubMed: 29346384](https://pubmed.ncbi.nlm.nih.gov/29346384)]
+Oladele RO, Ayanlowo OO, Richardson MD, Denning DW. Histoplasmosis in Africa: An emerging or a neglected disease? PLoS Negl Trop Dis. 2018 Jan;12(1):e0006046. \[[PMC free article: PMC5773084](/pmc/articles/PMC5773084/)\] \[[PubMed: 29346384](https://pubmed.ncbi.nlm.nih.gov/29346384)\]
 
 15.
-    
 
-Imazio M, Negro A, Belli R, Beqaraj F, Forno D, Giammaria M, Trinchero R, Adler Y, Spodick D. Frequency and prognostic significance of pericarditis following acute myocardial infarction treated by primary percutaneous coronary intervention. Am J Cardiol. 2009 Jun 01;103(11):1525-9. [[PubMed: 19463510](https://pubmed.ncbi.nlm.nih.gov/19463510)]
+Imazio M, Negro A, Belli R, Beqaraj F, Forno D, Giammaria M, Trinchero R, Adler Y, Spodick D. Frequency and prognostic significance of pericarditis following acute myocardial infarction treated by primary percutaneous coronary intervention. Am J Cardiol. 2009 Jun 01;103(11):1525-9. \[[PubMed: 19463510](https://pubmed.ncbi.nlm.nih.gov/19463510)\]
 
 16.
-    
 
-Jaworska-Wilczynska M, Abramczuk E, Hryniewiecki T. Postcardiac injury syndrome. Med Sci Monit. 2011 Nov;17(11):CQ13-14. [[PubMed: 22037738](https://pubmed.ncbi.nlm.nih.gov/22037738)]
+Jaworska-Wilczynska M, Abramczuk E, Hryniewiecki T. Postcardiac injury syndrome. Med Sci Monit. 2011 Nov;17(11):CQ13-14. \[[PubMed: 22037738](https://pubmed.ncbi.nlm.nih.gov/22037738)\]
 
 17.
-    
 
-Wessman DE, Stafford CM. The postcardiac injury syndrome: case report and review of the literature. South Med J. 2006 Mar;99(3):309-14. [[PubMed: 16553111](https://pubmed.ncbi.nlm.nih.gov/16553111)]
+Wessman DE, Stafford CM. The postcardiac injury syndrome: case report and review of the literature. South Med J. 2006 Mar;99(3):309-14. \[[PubMed: 16553111](https://pubmed.ncbi.nlm.nih.gov/16553111)\]
 
 18.
-    
 
-Katz U, Zandman-Goddard G. Drug-induced lupus: an update. Autoimmun Rev. 2010 Nov;10(1):46-50. [[PubMed: 20656071](https://pubmed.ncbi.nlm.nih.gov/20656071)]
+Katz U, Zandman-Goddard G. Drug-induced lupus: an update. Autoimmun Rev. 2010 Nov;10(1):46-50. \[[PubMed: 20656071](https://pubmed.ncbi.nlm.nih.gov/20656071)\]
 
 19.
-    
 
-Altan M, Toki MI, Gettinger SN, Carvajal-Hausdorf DE, Zugazagoitia J, Sinard JH, Herbst RS, Rimm DL. Immune Checkpoint Inhibitor-Associated Pericarditis. J Thorac Oncol. 2019 Jun;14(6):1102-1108. [[PMC free article: PMC6617516](/pmc/articles/PMC6617516/)] [[PubMed: 30851443](https://pubmed.ncbi.nlm.nih.gov/30851443)]
+Altan M, Toki MI, Gettinger SN, Carvajal-Hausdorf DE, Zugazagoitia J, Sinard JH, Herbst RS, Rimm DL. Immune Checkpoint Inhibitor-Associated Pericarditis. J Thorac Oncol. 2019 Jun;14(6):1102-1108. \[[PMC free article: PMC6617516](/pmc/articles/PMC6617516/)\] \[[PubMed: 30851443](https://pubmed.ncbi.nlm.nih.gov/30851443)\]
 
 20.
-    
 
-Wyplosz B, Marijon E, Dougados J, Pouchot J. Sarcoidosis: an unusual cause of acute pericarditis. Acta Cardiol. 2010 Feb;65(1):83-4. [[PubMed: 20306895](https://pubmed.ncbi.nlm.nih.gov/20306895)]
+Wyplosz B, Marijon E, Dougados J, Pouchot J. Sarcoidosis: an unusual cause of acute pericarditis. Acta Cardiol. 2010 Feb;65(1):83-4. \[[PubMed: 20306895](https://pubmed.ncbi.nlm.nih.gov/20306895)\]
 
 21.
-    
 
-Imazio M. Noninfectious pericarditis: management challenges for cardiologists. Kardiol Pol. 2020 May 25;78(5):396-403. [[PubMed: 32394692](https://pubmed.ncbi.nlm.nih.gov/32394692)]
+Imazio M. Noninfectious pericarditis: management challenges for cardiologists. Kardiol Pol. 2020 May 25;78(5):396-403. \[[PubMed: 32394692](https://pubmed.ncbi.nlm.nih.gov/32394692)\]
 
 22.
-    
 
-Kim HJ, Cho YS, Cho GY, Choi SI. Congenital absence of the pericardium. J Cardiovasc Ultrasound. 2014 Mar;22(1):36-9. [[PMC free article: PMC3992347](/pmc/articles/PMC3992347/)] [[PubMed: 24753808](https://pubmed.ncbi.nlm.nih.gov/24753808)]
+Kim HJ, Cho YS, Cho GY, Choi SI. Congenital absence of the pericardium. J Cardiovasc Ultrasound. 2014 Mar;22(1):36-9. \[[PMC free article: PMC3992347](/pmc/articles/PMC3992347/)\] \[[PubMed: 24753808](https://pubmed.ncbi.nlm.nih.gov/24753808)\]
 
 23.
-    
 
-Shah AB, Kronzon I. Congenital defects of the pericardium: a review. Eur Heart J Cardiovasc Imaging. 2015 Aug;16(8):821-7. [[PubMed: 26003149](https://pubmed.ncbi.nlm.nih.gov/26003149)]
+Shah AB, Kronzon I. Congenital defects of the pericardium: a review. Eur Heart J Cardiovasc Imaging. 2015 Aug;16(8):821-7. \[[PubMed: 26003149](https://pubmed.ncbi.nlm.nih.gov/26003149)\]
 
 24.
-    
 
-Ben-Horin S, Bank I, Guetta V, Livneh A. Large symptomatic pericardial effusion as the presentation of unrecognized cancer: a study in 173 consecutive patients undergoing pericardiocentesis. Medicine (Baltimore). 2006 Jan;85(1):49-53. [[PubMed: 16523053](https://pubmed.ncbi.nlm.nih.gov/16523053)]
+Ben-Horin S, Bank I, Guetta V, Livneh A. Large symptomatic pericardial effusion as the presentation of unrecognized cancer: a study in 173 consecutive patients undergoing pericardiocentesis. Medicine (Baltimore). 2006 Jan;85(1):49-53. \[[PubMed: 16523053](https://pubmed.ncbi.nlm.nih.gov/16523053)\]
 
 25.
-    
 
-LeWinter MM. Clinical practice. Acute pericarditis. N Engl J Med. 2014 Dec 18;371(25):2410-6. [[PubMed: 25517707](https://pubmed.ncbi.nlm.nih.gov/25517707)]
+LeWinter MM. Clinical practice. Acute pericarditis. N Engl J Med. 2014 Dec 18;371(25):2410-6. \[[PubMed: 25517707](https://pubmed.ncbi.nlm.nih.gov/25517707)\]
 
 26.
-    
 
-Imazio M, Trinchero R. Myopericarditis: Etiology, management, and prognosis. Int J Cardiol. 2008 Jun 23;127(1):17-26. [[PubMed: 18221804](https://pubmed.ncbi.nlm.nih.gov/18221804)]
+Imazio M, Trinchero R. Myopericarditis: Etiology, management, and prognosis. Int J Cardiol. 2008 Jun 23;127(1):17-26. \[[PubMed: 18221804](https://pubmed.ncbi.nlm.nih.gov/18221804)\]
 
 27.
-    
 
-Goodacre S, Locker T, Morris F, Campbell S. How useful are clinical features in the diagnosis of acute, undifferentiated chest pain? Acad Emerg Med. 2002 Mar;9(3):203-8. [[PubMed: 11874776](https://pubmed.ncbi.nlm.nih.gov/11874776)]
+Goodacre S, Locker T, Morris F, Campbell S. How useful are clinical features in the diagnosis of acute, undifferentiated chest pain? Acad Emerg Med. 2002 Mar;9(3):203-8. \[[PubMed: 11874776](https://pubmed.ncbi.nlm.nih.gov/11874776)\]
 
 28.
-    
 
-Launbjerg J, Fruergaard P, Hesse B, Jørgensen F, Elsborg L, Petri A. Long-term risk of death, cardiac events and recurrent chest pain in patients with acute chest pain of different origin. Cardiology. 1996 Jan-Feb;87(1):60-6. [[PubMed: 8631047](https://pubmed.ncbi.nlm.nih.gov/8631047)]
+Launbjerg J, Fruergaard P, Hesse B, Jørgensen F, Elsborg L, Petri A. Long-term risk of death, cardiac events and recurrent chest pain in patients with acute chest pain of different origin. Cardiology. 1996 Jan-Feb;87(1):60-6. \[[PubMed: 8631047](https://pubmed.ncbi.nlm.nih.gov/8631047)\]
 
 29.
-    
 
-Zayas R, Anguita M, Torres F, Giménez D, Bergillos F, Ruiz M, Ciudad M, Gallardo A, Vallés F. Incidence of specific etiology and role of methods for specific etiologic diagnosis of primary acute pericarditis. Am J Cardiol. 1995 Feb 15;75(5):378-82. [[PubMed: 7856532](https://pubmed.ncbi.nlm.nih.gov/7856532)]
+Zayas R, Anguita M, Torres F, Giménez D, Bergillos F, Ruiz M, Ciudad M, Gallardo A, Vallés F. Incidence of specific etiology and role of methods for specific etiologic diagnosis of primary acute pericarditis. Am J Cardiol. 1995 Feb 15;75(5):378-82. \[[PubMed: 7856532](https://pubmed.ncbi.nlm.nih.gov/7856532)\]
 
 30.
-    
 
-Sarkar M, Madabhavi I, Niranjan N, Dogra M. Auscultation of the respiratory system. Ann Thorac Med. 2015 Jul-Sep;10(3):158-68. [[PMC free article: PMC4518345](/pmc/articles/PMC4518345/)] [[PubMed: 26229557](https://pubmed.ncbi.nlm.nih.gov/26229557)]
+Sarkar M, Madabhavi I, Niranjan N, Dogra M. Auscultation of the respiratory system. Ann Thorac Med. 2015 Jul-Sep;10(3):158-68. \[[PMC free article: PMC4518345](/pmc/articles/PMC4518345/)\] \[[PubMed: 26229557](https://pubmed.ncbi.nlm.nih.gov/26229557)\]
 
 31.
-    
 
-Imazio M, Gaita F. Diagnosis and treatment of pericarditis. Heart. 2015 Jul;101(14):1159-68. [[PubMed: 25855795](https://pubmed.ncbi.nlm.nih.gov/25855795)]
+Imazio M, Gaita F. Diagnosis and treatment of pericarditis. Heart. 2015 Jul;101(14):1159-68. \[[PubMed: 25855795](https://pubmed.ncbi.nlm.nih.gov/25855795)\]
 
 32.
-    
 
-Rossello X, Wiegerinck RF, Alguersuari J, Bardají A, Worner F, Sutil M, Ferrero A, Cinca J. New electrocardiographic criteria to differentiate acute pericarditis and myocardial infarction. Am J Med. 2014 Mar;127(3):233-9. [[PubMed: 24287008](https://pubmed.ncbi.nlm.nih.gov/24287008)]
+Rossello X, Wiegerinck RF, Alguersuari J, Bardají A, Worner F, Sutil M, Ferrero A, Cinca J. New electrocardiographic criteria to differentiate acute pericarditis and myocardial infarction. Am J Med. 2014 Mar;127(3):233-9. \[[PubMed: 24287008](https://pubmed.ncbi.nlm.nih.gov/24287008)\]
 
 33.
-    
 
-Spodick DH. Differential characteristics of the electrocardiogram in early repolarization and acute pericarditis. N Engl J Med. 1976 Sep 02;295(10):523-6. [[PubMed: 950958](https://pubmed.ncbi.nlm.nih.gov/950958)]
+Spodick DH. Differential characteristics of the electrocardiogram in early repolarization and acute pericarditis. N Engl J Med. 1976 Sep 02;295(10):523-6. \[[PubMed: 950958](https://pubmed.ncbi.nlm.nih.gov/950958)\]
 
 34.
-    
 
-Buppajamrntham T, Palavutitotai N, Katchamart W. Clinical manifestation, diagnosis, management, and treatment outcome of pericarditis in patients with systemic lupus erythematosus. J Med Assoc Thai. 2014 Dec;97(12):1234-40. [[PubMed: 25764628](https://pubmed.ncbi.nlm.nih.gov/25764628)]
+Buppajamrntham T, Palavutitotai N, Katchamart W. Clinical manifestation, diagnosis, management, and treatment outcome of pericarditis in patients with systemic lupus erythematosus. J Med Assoc Thai. 2014 Dec;97(12):1234-40. \[[PubMed: 25764628](https://pubmed.ncbi.nlm.nih.gov/25764628)\]
 
 35.
-    
 
-Bentata Y, Hamdi F, Chemlal A, Haddiya I, Ismaili N, El Ouafi N. Uremic pericarditis in patients with End Stage Renal Disease: Prevalence, symptoms and outcome in 2017. Am J Emerg Med. 2018 Mar;36(3):464-466. [[PubMed: 29248269](https://pubmed.ncbi.nlm.nih.gov/29248269)]
+Bentata Y, Hamdi F, Chemlal A, Haddiya I, Ismaili N, El Ouafi N. Uremic pericarditis in patients with End Stage Renal Disease: Prevalence, symptoms and outcome in 2017. Am J Emerg Med. 2018 Mar;36(3):464-466. \[[PubMed: 29248269](https://pubmed.ncbi.nlm.nih.gov/29248269)\]
 
 36.
-    
 
-Imazio M, Spodick DH, Brucato A, Trinchero R, Adler Y. Controversial issues in the management of pericardial diseases. Circulation. 2010 Feb 23;121(7):916-28. [[PubMed: 20177006](https://pubmed.ncbi.nlm.nih.gov/20177006)]
+Imazio M, Spodick DH, Brucato A, Trinchero R, Adler Y. Controversial issues in the management of pericardial diseases. Circulation. 2010 Feb 23;121(7):916-28. \[[PubMed: 20177006](https://pubmed.ncbi.nlm.nih.gov/20177006)\]
 
 37.
-    
 
-Klein AL, Abbara S, Agler DA, Appleton CP, Asher CR, Hoit B, Hung J, Garcia MJ, Kronzon I, Oh JK, Rodriguez ER, Schaff HV, Schoenhagen P, Tan CD, White RD. American Society of Echocardiography clinical recommendations for multimodality cardiovascular imaging of patients with pericardial disease: endorsed by the Society for Cardiovascular Magnetic Resonance and Society of Cardiovascular Computed Tomography. J Am Soc Echocardiogr. 2013 Sep;26(9):965-1012.e15. [[PubMed: 23998693](https://pubmed.ncbi.nlm.nih.gov/23998693)]
+Klein AL, Abbara S, Agler DA, Appleton CP, Asher CR, Hoit B, Hung J, Garcia MJ, Kronzon I, Oh JK, Rodriguez ER, Schaff HV, Schoenhagen P, Tan CD, White RD. American Society of Echocardiography clinical recommendations for multimodality cardiovascular imaging of patients with pericardial disease: endorsed by the Society for Cardiovascular Magnetic Resonance and Society of Cardiovascular Computed Tomography. J Am Soc Echocardiogr. 2013 Sep;26(9):965-1012.e15. \[[PubMed: 23998693](https://pubmed.ncbi.nlm.nih.gov/23998693)\]
 
 38.
-    
 
-Cosyns B, Plein S, Nihoyanopoulos P, Smiseth O, Achenbach S, Andrade MJ, Pepi M, Ristic A, Imazio M, Paelinck B, Lancellotti P., European Association of Cardiovascular Imaging (EACVI). European Society of Cardiology Working Group (ESC WG) on Myocardial and Pericardial diseases. European Association of Cardiovascular Imaging (EACVI) position paper: Multimodality imaging in pericardial disease. Eur Heart J Cardiovasc Imaging. 2015 Jan;16(1):12-31. [[PubMed: 25248336](https://pubmed.ncbi.nlm.nih.gov/25248336)]
+Cosyns B, Plein S, Nihoyanopoulos P, Smiseth O, Achenbach S, Andrade MJ, Pepi M, Ristic A, Imazio M, Paelinck B, Lancellotti P., European Association of Cardiovascular Imaging (EACVI). European Society of Cardiology Working Group (ESC WG) on Myocardial and Pericardial diseases. European Association of Cardiovascular Imaging (EACVI) position paper: Multimodality imaging in pericardial disease. Eur Heart J Cardiovasc Imaging. 2015 Jan;16(1):12-31. \[[PubMed: 25248336](https://pubmed.ncbi.nlm.nih.gov/25248336)\]
 
 39.
-    
 
-Bogaert J, Francone M. Cardiovascular magnetic resonance in pericardial diseases. J Cardiovasc Magn Reson. 2009 May 04;11(1):14. [[PMC free article: PMC2685792](/pmc/articles/PMC2685792/)] [[PubMed: 19413898](https://pubmed.ncbi.nlm.nih.gov/19413898)]
+Bogaert J, Francone M. Cardiovascular magnetic resonance in pericardial diseases. J Cardiovasc Magn Reson. 2009 May 04;11(1):14. \[[PMC free article: PMC2685792](/pmc/articles/PMC2685792/)\] \[[PubMed: 19413898](https://pubmed.ncbi.nlm.nih.gov/19413898)\]
 
 40.
-    
 
-Maisch B, Seferović PM, Ristić AD, Erbel R, Rienmüller R, Adler Y, Tomkowski WZ, Thiene G, Yacoub MH., Grupo de Trabajo para el Diagnóstico y Tratamiento de las Enfermedades del Pericardio de la Sociedad Europea de Cardiología. [Guidelines on the diagnosis and management of pericardial diseases. Executive summary]. Rev Esp Cardiol. 2004 Nov;57(11):1090-114. [[PubMed: 15544758](https://pubmed.ncbi.nlm.nih.gov/15544758)]
+Maisch B, Seferović PM, Ristić AD, Erbel R, Rienmüller R, Adler Y, Tomkowski WZ, Thiene G, Yacoub MH., Grupo de Trabajo para el Diagnóstico y Tratamiento de las Enfermedades del Pericardio de la Sociedad Europea de Cardiología. [Guidelines on the diagnosis and management of pericardial diseases. Executive summary]. Rev Esp Cardiol. 2004 Nov;57(11):1090-114. \[[PubMed: 15544758](https://pubmed.ncbi.nlm.nih.gov/15544758)\]
 
 41.
-    
 
-Ben-Horin S, Bank I, Shinfeld A, Kachel E, Guetta V, Livneh A. Diagnostic value of the biochemical composition of pericardial effusions in patients undergoing pericardiocentesis. Am J Cardiol. 2007 May 01;99(9):1294-7. [[PubMed: 17478160](https://pubmed.ncbi.nlm.nih.gov/17478160)]
+Ben-Horin S, Bank I, Shinfeld A, Kachel E, Guetta V, Livneh A. Diagnostic value of the biochemical composition of pericardial effusions in patients undergoing pericardiocentesis. Am J Cardiol. 2007 May 01;99(9):1294-7. \[[PubMed: 17478160](https://pubmed.ncbi.nlm.nih.gov/17478160)\]
 
 42.
-    
 
-Mayosi BM, Ntsekhe M, Volmink JA, Commerford PJ. Interventions for treating tuberculous pericarditis. Cochrane Database Syst Rev. 2002;(4):CD000526. [[PubMed: 12519546](https://pubmed.ncbi.nlm.nih.gov/12519546)]
+Mayosi BM, Ntsekhe M, Volmink JA, Commerford PJ. Interventions for treating tuberculous pericarditis. Cochrane Database Syst Rev. 2002;(4):CD000526. \[[PubMed: 12519546](https://pubmed.ncbi.nlm.nih.gov/12519546)\]
 
 43.
-    
 
-Mayosi BM, Ntsekhe M, Bosch J, Pandie S, Jung H, Gumedze F, Pogue J, Thabane L, Smieja M, Francis V, Joldersma L, Thomas KM, Thomas B, Awotedu AA, Magula NP, Naidoo DP, Damasceno A, Chitsa Banda A, Brown B, Manga P, Kirenga B, Mondo C, Mntla P, Tsitsi JM, Peters F, Essop MR, Russell JB, Hakim J, Matenga J, Barasa AF, Sani MU, Olunuga T, Ogah O, Ansa V, Aje A, Danbauchi S, Ojji D, Yusuf S., IMPI Trial Investigators. Prednisolone and Mycobacterium indicus pranii in tuberculous pericarditis. N Engl J Med. 2014 Sep 18;371(12):1121-30. [[PMC free article: PMC4912834](/pmc/articles/PMC4912834/)] [[PubMed: 25178809](https://pubmed.ncbi.nlm.nih.gov/25178809)]
+Mayosi BM, Ntsekhe M, Bosch J, Pandie S, Jung H, Gumedze F, Pogue J, Thabane L, Smieja M, Francis V, Joldersma L, Thomas KM, Thomas B, Awotedu AA, Magula NP, Naidoo DP, Damasceno A, Chitsa Banda A, Brown B, Manga P, Kirenga B, Mondo C, Mntla P, Tsitsi JM, Peters F, Essop MR, Russell JB, Hakim J, Matenga J, Barasa AF, Sani MU, Olunuga T, Ogah O, Ansa V, Aje A, Danbauchi S, Ojji D, Yusuf S., IMPI Trial Investigators. Prednisolone and Mycobacterium indicus pranii in tuberculous pericarditis. N Engl J Med. 2014 Sep 18;371(12):1121-30. \[[PMC free article: PMC4912834](/pmc/articles/PMC4912834/)\] \[[PubMed: 25178809](https://pubmed.ncbi.nlm.nih.gov/25178809)\]
 
 44.
-    
 
-Karatolios K, Pankuweit S, Maisch B. Diagnostic value of biochemical biomarkers in malignant and non-malignant pericardial effusion. Heart Fail Rev. 2013 May;18(3):337-44. [[PubMed: 22638889](https://pubmed.ncbi.nlm.nih.gov/22638889)]
+Karatolios K, Pankuweit S, Maisch B. Diagnostic value of biochemical biomarkers in malignant and non-malignant pericardial effusion. Heart Fail Rev. 2013 May;18(3):337-44. \[[PubMed: 22638889](https://pubmed.ncbi.nlm.nih.gov/22638889)\]
 
 45.
-    
 
-Alpert MA, Ravenscraft MD. Pericardial involvement in end-stage renal disease. Am J Med Sci. 2003 Apr;325(4):228-36. [[PubMed: 12695728](https://pubmed.ncbi.nlm.nih.gov/12695728)]
+Alpert MA, Ravenscraft MD. Pericardial involvement in end-stage renal disease. Am J Med Sci. 2003 Apr;325(4):228-36. \[[PubMed: 12695728](https://pubmed.ncbi.nlm.nih.gov/12695728)\]
 
 46.
-    
 
-Wood JE, Mahnensmith RL. Pericarditis associated with renal failure: evolution and management. Semin Dial. 2001 Jan-Feb;14(1):61-6. [[PubMed: 11208042](https://pubmed.ncbi.nlm.nih.gov/11208042)]
+Wood JE, Mahnensmith RL. Pericarditis associated with renal failure: evolution and management. Semin Dial. 2001 Jan-Feb;14(1):61-6. \[[PubMed: 11208042](https://pubmed.ncbi.nlm.nih.gov/11208042)\]
 
 47.
-    
 
-Seidenberg PH, Haynes J. Pericarditis: diagnosis, management, and return to play. Curr Sports Med Rep. 2006 Apr;5(2):74-9. [[PubMed: 16529677](https://pubmed.ncbi.nlm.nih.gov/16529677)]
+Seidenberg PH, Haynes J. Pericarditis: diagnosis, management, and return to play. Curr Sports Med Rep. 2006 Apr;5(2):74-9. \[[PubMed: 16529677](https://pubmed.ncbi.nlm.nih.gov/16529677)\]
 
 48.
-    
 
-Imazio M, Cecchi E, Demichelis B, Ierna S, Demarie D, Ghisio A, Pomari F, Coda L, Belli R, Trinchero R. Indicators of poor prognosis of acute pericarditis. Circulation. 2007 May 29;115(21):2739-44. [[PubMed: 17502574](https://pubmed.ncbi.nlm.nih.gov/17502574)]
+Imazio M, Cecchi E, Demichelis B, Ierna S, Demarie D, Ghisio A, Pomari F, Coda L, Belli R, Trinchero R. Indicators of poor prognosis of acute pericarditis. Circulation. 2007 May 29;115(21):2739-44. \[[PubMed: 17502574](https://pubmed.ncbi.nlm.nih.gov/17502574)\]
 
 49.
-    
 
-Imazio M, Brucato A, Trinchero R, Spodick D, Adler Y. Individualized therapy for pericarditis. Expert Rev Cardiovasc Ther. 2009 Aug;7(8):965-75. [[PubMed: 19673674](https://pubmed.ncbi.nlm.nih.gov/19673674)]
+Imazio M, Brucato A, Trinchero R, Spodick D, Adler Y. Individualized therapy for pericarditis. Expert Rev Cardiovasc Ther. 2009 Aug;7(8):965-75. \[[PubMed: 19673674](https://pubmed.ncbi.nlm.nih.gov/19673674)\]
 
 50.
-    
 
-Imazio M, Bobbio M, Cecchi E, Demarie D, Demichelis B, Pomari F, Moratti M, Gaschino G, Giammaria M, Ghisio A, Belli R, Trinchero R. Colchicine in addition to conventional therapy for acute pericarditis: results of the COlchicine for acute PEricarditis (COPE) trial. Circulation. 2005 Sep 27;112(13):2012-6. [[PubMed: 16186437](https://pubmed.ncbi.nlm.nih.gov/16186437)]
+Imazio M, Bobbio M, Cecchi E, Demarie D, Demichelis B, Pomari F, Moratti M, Gaschino G, Giammaria M, Ghisio A, Belli R, Trinchero R. Colchicine in addition to conventional therapy for acute pericarditis: results of the COlchicine for acute PEricarditis (COPE) trial. Circulation. 2005 Sep 27;112(13):2012-6. \[[PubMed: 16186437](https://pubmed.ncbi.nlm.nih.gov/16186437)\]
 
 51.
-    
 
-Imazio M, Bobbio M, Cecchi E, Demarie D, Pomari F, Moratti M, Ghisio A, Belli R, Trinchero R. Colchicine as first-choice therapy for recurrent pericarditis: results of the CORE (COlchicine for REcurrent pericarditis) trial. Arch Intern Med. 2005 Sep 26;165(17):1987-91. [[PubMed: 16186468](https://pubmed.ncbi.nlm.nih.gov/16186468)]
+Imazio M, Bobbio M, Cecchi E, Demarie D, Pomari F, Moratti M, Ghisio A, Belli R, Trinchero R. Colchicine as first-choice therapy for recurrent pericarditis: results of the CORE (COlchicine for REcurrent pericarditis) trial. Arch Intern Med. 2005 Sep 26;165(17):1987-91. \[[PubMed: 16186468](https://pubmed.ncbi.nlm.nih.gov/16186468)\]
 
 52.
-    
 
-Lotrionte M, Biondi-Zoccai G, Imazio M, Castagno D, Moretti C, Abbate A, Agostoni P, Brucato AL, Di Pasquale P, Raatikka M, Sangiorgi G, Laudito A, Sheiban I, Gaita F. International collaborative systematic review of controlled clinical trials on pharmacologic treatments for acute pericarditis and its recurrences. Am Heart J. 2010 Oct;160(4):662-70. [[PubMed: 20934560](https://pubmed.ncbi.nlm.nih.gov/20934560)]
+Lotrionte M, Biondi-Zoccai G, Imazio M, Castagno D, Moretti C, Abbate A, Agostoni P, Brucato AL, Di Pasquale P, Raatikka M, Sangiorgi G, Laudito A, Sheiban I, Gaita F. International collaborative systematic review of controlled clinical trials on pharmacologic treatments for acute pericarditis and its recurrences. Am Heart J. 2010 Oct;160(4):662-70. \[[PubMed: 20934560](https://pubmed.ncbi.nlm.nih.gov/20934560)\]
 
 53.
-    
 
-Imazio M, Brucato A, Cumetti D, Brambilla G, Demichelis B, Ferro S, Maestroni S, Cecchi E, Belli R, Palmieri G, Trinchero R. Corticosteroids for recurrent pericarditis: high versus low doses: a nonrandomized observation. Circulation. 2008 Aug 05;118(6):667-71. [[PubMed: 18645054](https://pubmed.ncbi.nlm.nih.gov/18645054)]
+Imazio M, Brucato A, Cumetti D, Brambilla G, Demichelis B, Ferro S, Maestroni S, Cecchi E, Belli R, Palmieri G, Trinchero R. Corticosteroids for recurrent pericarditis: high versus low doses: a nonrandomized observation. Circulation. 2008 Aug 05;118(6):667-71. \[[PubMed: 18645054](https://pubmed.ncbi.nlm.nih.gov/18645054)\]
 
 54.
-    
 
-Finetti M, Insalaco A, Cantarini L, Meini A, Breda L, Alessio M, D'Alessandro M, Picco P, Martini A, Gattorno M. Long-term efficacy of interleukin-1 receptor antagonist (anakinra) in corticosteroid-dependent and colchicine-resistant recurrent pericarditis. J Pediatr. 2014 Jun;164(6):1425-31.e1. [[PubMed: 24630353](https://pubmed.ncbi.nlm.nih.gov/24630353)]
+Finetti M, Insalaco A, Cantarini L, Meini A, Breda L, Alessio M, D'Alessandro M, Picco P, Martini A, Gattorno M. Long-term efficacy of interleukin-1 receptor antagonist (anakinra) in corticosteroid-dependent and colchicine-resistant recurrent pericarditis. J Pediatr. 2014 Jun;164(6):1425-31.e1. \[[PubMed: 24630353](https://pubmed.ncbi.nlm.nih.gov/24630353)\]
 
 55.
-    
 
-Khandaker MH, Schaff HV, Greason KL, Anavekar NS, Espinosa RE, Hayes SN, Nishimura RA, Oh JK. Pericardiectomy vs medical management in patients with relapsing pericarditis. Mayo Clin Proc. 2012 Nov;87(11):1062-70. [[PMC free article: PMC3541868](/pmc/articles/PMC3541868/)] [[PubMed: 23127733](https://pubmed.ncbi.nlm.nih.gov/23127733)]
+Khandaker MH, Schaff HV, Greason KL, Anavekar NS, Espinosa RE, Hayes SN, Nishimura RA, Oh JK. Pericardiectomy vs medical management in patients with relapsing pericarditis. Mayo Clin Proc. 2012 Nov;87(11):1062-70. \[[PMC free article: PMC3541868](/pmc/articles/PMC3541868/)\] \[[PubMed: 23127733](https://pubmed.ncbi.nlm.nih.gov/23127733)\]
 
 56.
-    
 
-Imazio M, Brucato A, Maestroni S, Cumetti D, Belli R, Trinchero R, Adler Y. Risk of constrictive pericarditis after acute pericarditis. Circulation. 2011 Sep 13;124(11):1270-5. [[PubMed: 21844077](https://pubmed.ncbi.nlm.nih.gov/21844077)]
+Imazio M, Brucato A, Maestroni S, Cumetti D, Belli R, Trinchero R, Adler Y. Risk of constrictive pericarditis after acute pericarditis. Circulation. 2011 Sep 13;124(11):1270-5. \[[PubMed: 21844077](https://pubmed.ncbi.nlm.nih.gov/21844077)\]
 
 57.
-    
 
-Soler-Soler J, Sagristà-Sauleda J, Permanyer-Miralda G. Relapsing pericarditis. Heart. 2004 Nov;90(11):1364-8. [[PMC free article: PMC1768518](/pmc/articles/PMC1768518/)] [[PubMed: 15486149](https://pubmed.ncbi.nlm.nih.gov/15486149)]
+Soler-Soler J, Sagristà-Sauleda J, Permanyer-Miralda G. Relapsing pericarditis. Heart. 2004 Nov;90(11):1364-8. \[[PMC free article: PMC1768518](/pmc/articles/PMC1768518/)\] \[[PubMed: 15486149](https://pubmed.ncbi.nlm.nih.gov/15486149)\]
 
 58.
-    
 
-Kabukcu M, Demircioglu F, Yanik E, Basarici I, Ersel F. Pericardial tamponade and large pericardial effusions: causal factors and efficacy of percutaneous catheter drainage in 50 patients. Tex Heart Inst J. 2004;31(4):398-403. [[PMC free article: PMC548241](/pmc/articles/PMC548241/)] [[PubMed: 15745292](https://pubmed.ncbi.nlm.nih.gov/15745292)]
-
-    
+Kabukcu M, Demircioglu F, Yanik E, Basarici I, Ersel F. Pericardial tamponade and large pericardial effusions: causal factors and efficacy of percutaneous catheter drainage in 50 patients. Tex Heart Inst J. 2004;31(4):398-403. \[[PMC free article: PMC548241](/pmc/articles/PMC548241/)\] \[[PubMed: 15745292](https://pubmed.ncbi.nlm.nih.gov/15745292)\]
 
 **Disclosure:** Ehab Dababneh declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Momin Siddique declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17920/
-scraped_date: 2025-07-22 12:38:48 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17920/ scraped_date: 2025-07-22 12:38:48 UTC
 
 # Asthma
 
@@ -25,19 +24,19 @@ Last Update: May 3, 2024.
 
 ## Continuing Education Activity
 
-Asthma is a chronic inflammatory respiratory condition characterized by hallmark symptoms of intermittent dyspnea, cough, and wheezing. However, due to the nonspecific nature of these symptoms, distinguishing asthma from other respiratory illnesses can sometimes be challenging. A confirmed diagnosis of asthma relies on consistent respiratory symptoms and the identification of variable expiratory airflow obstruction documented on spirometry. Clinicians prioritize symptom control and prevention of future exacerbations through tailored treatment, considering symptom frequency, severity, and potential risks in a step-wise approach. Early recognition and intervention of asthma exacerbations are crucial to prevent the progression of asthma to severe, life-threatening stages. Fatalities related to asthma highlight missed opportunities in recognizing disease severity and escalating therapy, emphasizing the critical role of continual patient education and routine symptom control assessment for successful long-term management. 
+Asthma is a chronic inflammatory respiratory condition characterized by hallmark symptoms of intermittent dyspnea, cough, and wheezing. However, due to the nonspecific nature of these symptoms, distinguishing asthma from other respiratory illnesses can sometimes be challenging. A confirmed diagnosis of asthma relies on consistent respiratory symptoms and the identification of variable expiratory airflow obstruction documented on spirometry. Clinicians prioritize symptom control and prevention of future exacerbations through tailored treatment, considering symptom frequency, severity, and potential risks in a step-wise approach. Early recognition and intervention of asthma exacerbations are crucial to prevent the progression of asthma to severe, life-threatening stages. Fatalities related to asthma highlight missed opportunities in recognizing disease severity and escalating therapy, emphasizing the critical role of continual patient education and routine symptom control assessment for successful long-term management.
 
 The development of asthma, often presenting in childhood, involves a complex interplay of genetic and environmental factors associated with atopy. Researchers strive to develop predictive systems for identifying individuals at risk of continued symptoms into adulthood. Despite significant advancements in understanding the underlying genetic loci, environmental triggers, and risk factors, clinical strategies remain lacking to mitigate the risks of persistent asthma development into adolescence and adulthood. This activity covers the epidemiology, pathophysiology, and assessment of asthma, along with initiating pharmacological treatment and developing monitoring strategies tailored for adolescents and adults. These strategies closely align with evidence-based recommendations from the National Asthma Education and Prevention Program and the Global Initiative for Asthma.
 
 **Objectives:**
 
-  * Identify the hallmark symptoms of asthma, including dyspnea, cough, and wheezing.
+- Identify the hallmark symptoms of asthma, including dyspnea, cough, and wheezing.
 
-  * Implement evidence-based treatment strategies for asthma management, considering individual patient characteristics and preferences.
+- Implement evidence-based treatment strategies for asthma management, considering individual patient characteristics and preferences.
 
-  * Assess asthma severity, control, and exacerbation risk regularly during follow-up visits.
+- Assess asthma severity, control, and exacerbation risk regularly during follow-up visits.
 
-  * Collaborate with interdisciplinary healthcare team members to optimize asthma care and patient outcomes.
+- Collaborate with interdisciplinary healthcare team members to optimize asthma care and patient outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17920&utm_source=pubmed&utm_campaign=reviews&utm_content=17920)
 
@@ -55,13 +54,13 @@ Asthma manifests with diverse phenotypes, likely influenced by intricate interac
 
 The EVE Consortium also identifies a susceptibility locus for thymic stromal lymphopoietin (_TSLP_), an epithelial cell–derived cytokine implicated in asthma-related inflammation initiation.[8] Asthma patients exhibit higher _TSLP_ expression in their airways compared to healthy controls. Additional genetic loci involved in asthma include major histocompatibility complex class II DQ α1 (_HLA-DQA1_), HLA-DQB1 antisense RNA 1 (_HLA-DQB1_), Toll-like receptor 1 (_TLR1_), IL-6 receptor (_IL6R_), zona pellucida-binding protein 2 (_ZPBP2_), and gasdermin A (_GSDMA_).
 
-Genetics may also be pivotal in asthma treatment. The hydroxy-δ-5-steroid dehydrogenase, 3-beta- and steroid δ-isomerase 1 (_HSD3B1_) genotype is associated with glucocorticoid resistance among patients. In addition, single-nucleotide polymorphisms in protein kinase cGMP-dependent 1 (_PRKG1_)__ and SPATA13 antisense RNA 1 (_SPATA13-AS1_)__ are associated with BDR in Black children.[9]
+Genetics may also be pivotal in asthma treatment. The hydroxy-δ-5-steroid dehydrogenase, 3-beta- and steroid δ-isomerase 1 (_HSD3B1_) genotype is associated with glucocorticoid resistance among patients. In addition, single-nucleotide polymorphisms in protein kinase cGMP-dependent 1 (_PRKG1_)\_\_ and SPATA13 antisense RNA 1 (_SPATA13-AS1_)\_\_ are associated with BDR in Black children.[9]
 
-Differing concordance rates among monozygotic twins suggest that exposure to environmental factors has an essential role in the development of asthma. Specific alleles have different effects depending on the environmental exposures. For example, exposure to secondhand smoke associates variations in the  _N_ -acetyltransferase 1 (_NAT1_) gene with the development of asthma in children. A study involving 983 children with single-nucleotide polymorphisms related to  _ORMDL3_ and  _GSDMB_ at chromosome locus 17q21 reveals that the same genotype poses genetic risk while also offering environmental protection.[10]
+Differing concordance rates among monozygotic twins suggest that exposure to environmental factors has an essential role in the development of asthma. Specific alleles have different effects depending on the environmental exposures. For example, exposure to secondhand smoke associates variations in the _N_ -acetyltransferase 1 (_NAT1_) gene with the development of asthma in children. A study involving 983 children with single-nucleotide polymorphisms related to _ORMDL3_ and _GSDMB_ at chromosome locus 17q21 reveals that the same genotype poses genetic risk while also offering environmental protection.[10]
 
 **Risk Factors**
 
-Risk factors for asthma development encompass exposures throughout a patient's lifespan, including the perinatal period. The most substantial known risk factor is atopy, which is characterized by the genetic tendency to produce specific immunoglobulin E (IgE) antibodies in response to common environmental allergens. Nearly one-third of children with atopy will develop asthma later in life. 
+Risk factors for asthma development encompass exposures throughout a patient's lifespan, including the perinatal period. The most substantial known risk factor is atopy, which is characterized by the genetic tendency to produce specific immunoglobulin E (IgE) antibodies in response to common environmental allergens. Nearly one-third of children with atopy will develop asthma later in life.
 
 **Prenatal and Perinatal Factors**
 
@@ -73,57 +72,57 @@ The Copenhagen Prospective Studies on Asthma in Childhood (COPSAC2010) reveals t
 
 **Childhood**
 
-Wheezing caused by viral infections, particularly respiratory syncytial virus and human rhinovirus, may predispose infants and young children to develop asthma later in life. In addition, early-life exposure to air pollution, including combustion by-products from gas-fired appliances and indoor fires, obesity, and early puberty, also increases the risk of asthma. 
+Wheezing caused by viral infections, particularly respiratory syncytial virus and human rhinovirus, may predispose infants and young children to develop asthma later in life. In addition, early-life exposure to air pollution, including combustion by-products from gas-fired appliances and indoor fires, obesity, and early puberty, also increases the risk of asthma.
 
 **Adulthood**
 
-The most significant risk factors for adult-onset asthma include tobacco smoke, occupational exposure, and adults with rhinitis or atopy. Studies also suggest a modest increase in asthma incidence among postmenopausal women taking hormone replacement therapy. 
+The most significant risk factors for adult-onset asthma include tobacco smoke, occupational exposure, and adults with rhinitis or atopy. Studies also suggest a modest increase in asthma incidence among postmenopausal women taking hormone replacement therapy.
 
 Furthermore, the following factors can contribute to asthma and airway hyperreactivity:
 
-  * Exposure to environmental allergens such as house dust mites, animal allergens (especially from cats and dogs), cockroach allergens, and fungi
+- Exposure to environmental allergens such as house dust mites, animal allergens (especially from cats and dogs), cockroach allergens, and fungi
 
-  * Physical activity or exercise
+- Physical activity or exercise
 
-  * Conditions such as hyperventilation, gastroesophageal reflux disease, and chronic sinusitis
+- Conditions such as hyperventilation, gastroesophageal reflux disease, and chronic sinusitis
 
-  * Hypersensitivity to aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs), as well as sulfite sensitivity
+- Hypersensitivity to aspirin or nonsteroidal anti-inflammatory drugs (NSAIDs), as well as sulfite sensitivity
 
-  * Use of β-adrenergic receptor blockers, including ophthalmic preparations
+- Use of β-adrenergic receptor blockers, including ophthalmic preparations
 
-  * Exposure to irritants such as household sprays and paint fumes
+- Exposure to irritants such as household sprays and paint fumes
 
-  * Contact with various high- and low-molecular-weight compounds found in insects, plants, latex, gums, diisocyanates, anhydrides, wood dust, and solder fluxes, which are associated with occupational asthma
+- Contact with various high- and low-molecular-weight compounds found in insects, plants, latex, gums, diisocyanates, anhydrides, wood dust, and solder fluxes, which are associated with occupational asthma
 
-  * Emotional factors or stress
+- Emotional factors or stress
 
 **Aspirin-Exacerbated Respiratory Disease**
 
-Aspirin-exacerbated respiratory disease****(AERD) is a condition characterized by a combination of asthma, chronic rhinosinusitis with nasal polyposis, and NSAID intolerance. Patients with AERD present with upper and lower respiratory tract symptoms after ingesting aspirin or NSAIDs that inhibit cyclooxygenase-1 (COX-1). This condition arises from dysregulated arachidonic acid metabolism and the overproduction of leukotrienes involving the 5-lipoxygenase and cyclooxygenase pathways. AERD affects approximately 7% of adults with asthma.
+Aspirin-exacerbated respiratory disease\*\*\*\*(AERD) is a condition characterized by a combination of asthma, chronic rhinosinusitis with nasal polyposis, and NSAID intolerance. Patients with AERD present with upper and lower respiratory tract symptoms after ingesting aspirin or NSAIDs that inhibit cyclooxygenase-1 (COX-1). This condition arises from dysregulated arachidonic acid metabolism and the overproduction of leukotrienes involving the 5-lipoxygenase and cyclooxygenase pathways. AERD affects approximately 7% of adults with asthma.
 
 **Occupational-Induced Asthma**
 
-Two types of occupational asthma exist based on their appearance after a latency period: 
+Two types of occupational asthma exist based on their appearance after a latency period:
 
-  * Occupational asthma triggered by workplace sensitizers results from an allergic or immunological process associated with a latency period induced by both low- and high-molecular-weight agents. High-molecular-weight substances, such as flour, contain proteins and polysaccharides of plant or animal origin. Low-molecular-weight substances, like formaldehyde, form a sensitizing neoantigen when combined with a human protein.
+- Occupational asthma triggered by workplace sensitizers results from an allergic or immunological process associated with a latency period induced by both low- and high-molecular-weight agents. High-molecular-weight substances, such as flour, contain proteins and polysaccharides of plant or animal origin. Low-molecular-weight substances, like formaldehyde, form a sensitizing neoantigen when combined with a human protein.
 
-  * Occupational asthma caused by irritants involves a**** nonallergic or nonimmunological process induced by gases, fumes, smoke, and aerosols.
+- Occupational asthma caused by irritants involves a\*\*\*\* nonallergic or nonimmunological process induced by gases, fumes, smoke, and aerosols.
 
 ## Epidemiology
 
 The worldwide incidence of asthma is estimated to affect 260 million individuals.[20] Recent studies examining asthma prevalence across 17 countries reveal varying rates, ranging from 3.4% to 6% for adults and children in India, Taiwan, Kosovo, Nigeria, and Russia, and higher rates of 17% to 33% for Honduras, Costa Rica, Brazil, and New Zealand.[21] Despite data showing the death rate consistently declining for asthma between 2001 and 2015, asthma continues to account for approximately 420,000 deaths per year.[22] Factors such as under-prescription of inhaled glucocorticoids and limited access to emergency medical care or specialist care all play a role in asthma-related deaths.
 
-Asthma prevalence in the United States differs among demographic groups, including age, gender, race, and socioeconomic status. The United States Centers for Disease Control and Prevention (CDC) estimates that around 25 million Americans are currently affected by asthma. Among individuals younger than 18, boys exhibit a higher prevalence compared to girls, while among adults, women are more commonly affected than men. Additionally, asthma prevalence is notably higher among Black individuals, with a prevalence of 10.1%, compared to White individuals at 8.1%. Hispanic Americans generally have a lower prevalence of 6.4%, except for those from Puerto Rico, where the prevalence rises to 12.8%. Moreover, underrepresented minorities and individuals living below the poverty line experience the highest incidence of asthma, along with heightened rates of asthma-related morbidity and mortality. 
+Asthma prevalence in the United States differs among demographic groups, including age, gender, race, and socioeconomic status. The United States Centers for Disease Control and Prevention (CDC) estimates that around 25 million Americans are currently affected by asthma. Among individuals younger than 18, boys exhibit a higher prevalence compared to girls, while among adults, women are more commonly affected than men. Additionally, asthma prevalence is notably higher among Black individuals, with a prevalence of 10.1%, compared to White individuals at 8.1%. Hispanic Americans generally have a lower prevalence of 6.4%, except for those from Puerto Rico, where the prevalence rises to 12.8%. Moreover, underrepresented minorities and individuals living below the poverty line experience the highest incidence of asthma, along with heightened rates of asthma-related morbidity and mortality.
 
 Similar to worldwide data, the mortality rate of asthma in the United States has also undergone a consistent decline. The current mortality rate is 9.86 per million compared to 15.09 per million in 2001. However, mortality rates remain consistently higher for Black patients compared to their White counterparts. According to the CDC, from 1999 to 2016, asthma death rates among adults aged 55 to 64 were 16.32 per 1 million persons, 9.95 per 1 million for females, 9.39 per 1 million for individuals who were not Hispanic or Latino, and notably higher at 25.60 per 1 million for Black patients.
 
 ## Pathophysiology
 
-Asthma is a syndrome characterized by diverse underlying mechanisms and involves intricate interactions among inflammatory and resident airway cells. These mechanisms lead to airway inflammation, intermittent airflow obstruction, and bronchial hyperresponsiveness (see **Image.** Pathophysiology of Asthma). 
+Asthma is a syndrome characterized by diverse underlying mechanisms and involves intricate interactions among inflammatory and resident airway cells. These mechanisms lead to airway inflammation, intermittent airflow obstruction, and bronchial hyperresponsiveness (see **Image.** Pathophysiology of Asthma).
 
 **Airway Inflammation**
 
-The activation of mast cells by cytokines and other mediators plays a pivotal role in the development of clinical asthma. Following initial allergen inhalation, affected patients produce specific IgE antibodies due to an overexpression of the T-helper 2 subset (Th2) of lymphocytes relative to the Th1 type. Cytokines produced by Th2 lymphocytes include IL-4, IL-5, and IL-13, which promote IgE and eosinophilic responses in atopy. Once produced, these specific IgE antibodies bind to receptors on mast cells and basophils. Upon additional allergen inhalation, allergen-specific IgE antibodies on the mast cell surface undergo cross-linking, leading to rapid degranulation and the release of histamine, prostaglandin D2 (PGD2), and cysteinyl leukotrienes C4 (LTC4), D4 (LTD4), and E4 (LTE4).[23][24] This triggers contraction of the airway smooth muscle within minutes and may stimulate reflex neural pathways. Subsequently, an influx of inflammatory cells, including monocytes, dendritic cells, neutrophils, T lymphocytes, eosinophils, and basophils, may lead to delayed bronchoconstriction several hours later. 
+The activation of mast cells by cytokines and other mediators plays a pivotal role in the development of clinical asthma. Following initial allergen inhalation, affected patients produce specific IgE antibodies due to an overexpression of the T-helper 2 subset (Th2) of lymphocytes relative to the Th1 type. Cytokines produced by Th2 lymphocytes include IL-4, IL-5, and IL-13, which promote IgE and eosinophilic responses in atopy. Once produced, these specific IgE antibodies bind to receptors on mast cells and basophils. Upon additional allergen inhalation, allergen-specific IgE antibodies on the mast cell surface undergo cross-linking, leading to rapid degranulation and the release of histamine, prostaglandin D2 (PGD2), and cysteinyl leukotrienes C4 (LTC4), D4 (LTD4), and E4 (LTE4).[23][24] This triggers contraction of the airway smooth muscle within minutes and may stimulate reflex neural pathways. Subsequently, an influx of inflammatory cells, including monocytes, dendritic cells, neutrophils, T lymphocytes, eosinophils, and basophils, may lead to delayed bronchoconstriction several hours later.
 
 **Airflow Obstruction**
 
@@ -157,7 +156,7 @@ Healthcare professionals may identify extrapulmonary findings that support the d
 
 ## Evaluation
 
-Intermittent symptoms consistent with asthma, in addition to wheezing observed during physical examination, strongly indicate asthma. Confirming the diagnosis involves the exclusion of alternative diagnoses and a demonstration of variable airflow limitation, usually seen in spirometry. 
+Intermittent symptoms consistent with asthma, in addition to wheezing observed during physical examination, strongly indicate asthma. Confirming the diagnosis involves the exclusion of alternative diagnoses and a demonstration of variable airflow limitation, usually seen in spirometry.
 
 **Spirometry**
 
@@ -181,11 +180,11 @@ During bronchoprovocation testing, clinicians induce bronchoconstriction using i
 
 Although consistent reductions of 20% during symptomatic periods, followed by a gradual return to baseline as symptoms resolve, indicate asthma, clinicians typically use peak flow measurement to monitor patients with known asthma rather than for initial diagnosis. To measure peak flow, the patient takes a maximal breath and seals the peak flow meter between their lips before blowing forcefully for 1 to 2 seconds. Please see StatPearls' companion resource, "[Peak Flow Measurement](https://www.statpearls.com/point-of-care/26780)," for additional information regarding peak flow measurement and its clinical significance in the evaluation and management of asthma.
 
-Patients repeat this process 3 times, recording the highest reading as the current peak flow measurement. Patients can compare their recorded values to established graphs based on age and height for adults and height for adolescents to determine their predicted value. Notably, reduced peak flow values are not specific to asthma. Patients with either an obstructive or restrictive pattern on spirometry can have decreased peak flow values. Additionally, the accuracy of results is highly contingent on patient effort. 
+Patients repeat this process 3 times, recording the highest reading as the current peak flow measurement. Patients can compare their recorded values to established graphs based on age and height for adults and height for adolescents to determine their predicted value. Notably, reduced peak flow values are not specific to asthma. Patients with either an obstructive or restrictive pattern on spirometry can have decreased peak flow values. Additionally, the accuracy of results is highly contingent on patient effort.
 
 **Exhaled Nitric Oxide**
 
-Eosinophilic airway inflammation causes an upregulation of nitric oxide synthase in the respiratory mucosa, leading to elevated nitric oxide levels in exhaled breath. In certain asthma patients, the fractional exhaled nitric oxide (FENO) surpasses levels observed in individuals without asthma. A FENO of measurement exceeding 40 to 50 ppb can aid in confirming an asthma diagnosis. 
+Eosinophilic airway inflammation causes an upregulation of nitric oxide synthase in the respiratory mucosa, leading to elevated nitric oxide levels in exhaled breath. In certain asthma patients, the fractional exhaled nitric oxide (FENO) surpasses levels observed in individuals without asthma. A FENO of measurement exceeding 40 to 50 ppb can aid in confirming an asthma diagnosis.
 
 **Pulse Oximetry**
 
@@ -193,7 +192,7 @@ Pulse oximetry can help assess the severity of an asthma attack or monitor for d
 
 **Laboratory**
 
-No specific laboratory tests are necessary for diagnosing asthma. However, patients who present with a severe asthma exacerbation should undergo a complete blood count to evaluate eosinophil levels and check for anemia, which may be the underlying cause of the patient's dyspnea. A significantly elevated eosinophil count should prompt further investigation for conditions, including parasitic infections such as _Strongyloides_ , drug reactions, and syndromes characterized by pulmonary infiltrates with eosinophilia. These syndromes include allergic bronchopulmonary aspergillosis, eosinophilic granulomatosis with polyangiitis, and hypereosinophilic syndrome (see **Image.** Allergic Bronchopulmonary Aspergillosis on CT Scan). 
+No specific laboratory tests are necessary for diagnosing asthma. However, patients who present with a severe asthma exacerbation should undergo a complete blood count to evaluate eosinophil levels and check for anemia, which may be the underlying cause of the patient's dyspnea. A significantly elevated eosinophil count should prompt further investigation for conditions, including parasitic infections such as _Strongyloides_ , drug reactions, and syndromes characterized by pulmonary infiltrates with eosinophilia. These syndromes include allergic bronchopulmonary aspergillosis, eosinophilic granulomatosis with polyangiitis, and hypereosinophilic syndrome (see **Image.** Allergic Bronchopulmonary Aspergillosis on CT Scan).
 
 Non-smoking patients who present with irreversible airflow obstruction should undergo serum α1-antitrypsin level testing to rule out emphysema caused by homozygous α1-antitrypsin deficiency. Allergy testing may prove beneficial for patients experiencing symptoms upon exposure to specific allergens. Clinicians should obtain total serum IgE levels in patients with moderate-to-severe persistent asthma, particularly when considering treatment with anti-IgE monoclonal antibodies or when there is suspicion of allergic bronchopulmonary aspergillosis. Please refer to the **Treatment/Management** section for further details on anti-IgE monoclonal antibodies.
 
@@ -211,13 +210,13 @@ Each patient should undergo a rapid assessment of their vital signs, including o
 
 Most asthma-related deaths are preventable if risk factors are identified and addressed early. Major risk factors that place patients at high risk for future fatal asthma exacerbations include:
 
-  * A recent history of poorly controlled asthma
+- A recent history of poorly controlled asthma
 
-  * A prior history of near-fatal asthma
+- A prior history of near-fatal asthma
 
-  * A history of endotracheal intubation for asthma 
+- A history of endotracheal intubation for asthma
 
-  * A history of intensive care unit admission for asthma
+- A history of intensive care unit admission for asthma
 
 Minor risk factors include exposure to aeroallergens and tobacco smoke, illicit drug use, older patients, aspirin sensitivity, long duration of asthma, and frequent hospitalizations for asthma-related issues.
 
@@ -227,13 +226,13 @@ Minor risk factors include exposure to aeroallergens and tobacco smoke, illicit 
 
 Multiple sources of patient education are available. According to the National Asthma Education and Prevention Program's Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma, personalized education from the patient's primary clinician is especially impactful. Studies reveal that such education reduces the number of asthma exacerbations and hospitalizations. Healthcare professionals should provide culturally specific asthma education that includes understanding asthma and its symptoms, identifying the patient's specific triggers, and strategies for their avoidance. Each patient should understand how to properly use an inhaler and be familiar with medications that serve as rescue options, those used for symptom control, and those that may fulfill both roles. Clinicians should inquire about any obstacles hindering medication adherence and work collaboratively with patients to overcome concerns or barriers, thus enhancing overall adherence.
 
-Although the data on effectiveness are limited, a general consensus among experts exists that individuals with asthma should possess a personalized "action plan" to follow at home (please refer to the link to an action plan download in the **Deterrence and Patient Education** section). This action plan provides a structured maintenance medication regimen and delineates steps to take when symptoms exacerbate. Clinicians develop an action plan based on symptoms or peak flow readings and divide it into 3 zones—green, yellow, and red. 
+Although the data on effectiveness are limited, a general consensus among experts exists that individuals with asthma should possess a personalized "action plan" to follow at home (please refer to the link to an action plan download in the **Deterrence and Patient Education** section). This action plan provides a structured maintenance medication regimen and delineates steps to take when symptoms exacerbate. Clinicians develop an action plan based on symptoms or peak flow readings and divide it into 3 zones—green, yellow, and red.
 
 Patients in the green zone are asymptomatic, with peak flows at 80% or higher than their personal best. They feel well and continue with their long-term control medication. Peak flow readings falling within the yellow zone range between 50% and 79% of the patient's personal best, accompanied by symptoms such as coughing, wheezing, and shortness of breath, which begin to interfere with activity levels. In the red zone, patients experience peak flow readings below 50% of their best, severe shortness of breath, and an inability to perform everyday activities.
 
 **Asthma Severity**
 
-Guidelines established by the National Asthma Education and Prevention Program (NAEPP) and the Global Initiative for Asthma (GINA) determine therapy based on the frequency and severity of asthma symptoms, the degree of respiratory impairment, and the risk of future exacerbations. Risk factors contributing to future exacerbations include frequent asthma symptoms, a history of intensive care unit admission for asthma, obesity, poor medication adherence, chronic rhinosinusitis, and a low FEV1. The severity categories and treatment guidelines vary based on age. This activity will address asthma severity and management in adolescents and adults aged 12 or older. Please see StatPearls' companion resource, "[Pediatric Asthma](https://www.statpearls.com/point-of-care/26821)," for additional information regarding the treatment of asthma in infants and children. 
+Guidelines established by the National Asthma Education and Prevention Program (NAEPP) and the Global Initiative for Asthma (GINA) determine therapy based on the frequency and severity of asthma symptoms, the degree of respiratory impairment, and the risk of future exacerbations. Risk factors contributing to future exacerbations include frequent asthma symptoms, a history of intensive care unit admission for asthma, obesity, poor medication adherence, chronic rhinosinusitis, and a low FEV1. The severity categories and treatment guidelines vary based on age. This activity will address asthma severity and management in adolescents and adults aged 12 or older. Please see StatPearls' companion resource, "[Pediatric Asthma](https://www.statpearls.com/point-of-care/26821)," for additional information regarding the treatment of asthma in infants and children.
 
 Every patient should have access to a bronchodilator with a rapid onset of action. Traditionally, this has been a short-acting β-agonist (SABA) such as albuterol. However, GINA recommends a low-dose glucocorticoid/formoterol inhaler, such as 80 to 160 mcg budesonide/4.5 mcg formoterol inhaled by mouth 1 or 2 times daily, for asthma symptoms. Notably, this is an off-label indication for this preparation.
 
@@ -243,7 +242,7 @@ Treatment progresses in a stepwise manner, with the highest severity category in
 
 #### [Table](/books/NBK430901/table/article-17920.table0/?report=objectonly)
 
-Table 1. National Asthma Education and Prevention Program: Expert Panel Working Group Initial Asthma Therapy in Adolescents and Adults. 
+Table 1. National Asthma Education and Prevention Program: Expert Panel Working Group Initial Asthma Therapy in Adolescents and Adults.
 
 Abbreviations: FEV1, forced expiratory volume in 1 second; ICS, inhaled corticosteroid; LABA, long-acting β-agonist; LAMA, long-acting muscarinic antagonist; LTRA, leukotriene receptor antagonist; SABA, short-acting β-agonist.
 
@@ -251,7 +250,7 @@ Abbreviations: FEV1, forced expiratory volume in 1 second; ICS, inhaled corticos
 
 #### [Table](/books/NBK430901/table/article-17920.table1/?report=objectonly)
 
-Table 2. Global Initiative for Asthma Initial Asthma Therapy in Adolescents and Adults. 
+Table 2. Global Initiative for Asthma Initial Asthma Therapy in Adolescents and Adults.
 
 Abbreviations: ICS, inhaled corticosteroid; LABA, long-acting β-agonist; LAMA, long-acting muscarinic antagonist; LTRA, leukotriene receptor antagonist; OCS, oral corticosteroid; SABA, short-acting β-agonist.
 
@@ -267,25 +266,25 @@ Patients with severe eosinophilic asthma who are not adequately controlled can u
 
 Patients experiencing an acute asthma exacerbation may manage symptoms at home or need urgent medical care depending on their symptom severity and risk factors for fatal asthma. These risk factors include prior life-threatening exacerbations, exacerbations despite glucocorticoid use, more than 1 asthma-related hospitalization or 3 emergency room visits in the past year, and comorbidities such as cardiovascular or chronic lung disease. Immediate medical attention is warranted for patients showing significant breathlessness, inability to speak beyond short phrases, reliance on accessory muscles, or peak flow measurements at 50% or less of their baseline measurement.
 
-All patients require a fast-acting β-agonist. Potential options include the LABA formoterol combined with ICS, the SABA albuterol combined with budesonide, or albuterol alone. Combination with ICS is the preferred choice. Albuterol dosing is 2 to 4 puffs from a metered dose inhaler (MDI) at home and 4 to 8 puffs in the office with a valved holding chamber or spacer every 20 minutes for 1 hour as needed. Albuterol may also be nebulized. ICS-formoterol dosing is 1 to 2 puffs every 20 minutes for 1 hour as required, with a maximum of 8 puffs per day. 
+All patients require a fast-acting β-agonist. Potential options include the LABA formoterol combined with ICS, the SABA albuterol combined with budesonide, or albuterol alone. Combination with ICS is the preferred choice. Albuterol dosing is 2 to 4 puffs from a metered dose inhaler (MDI) at home and 4 to 8 puffs in the office with a valved holding chamber or spacer every 20 minutes for 1 hour as needed. Albuterol may also be nebulized. ICS-formoterol dosing is 1 to 2 puffs every 20 minutes for 1 hour as required, with a maximum of 8 puffs per day.
 
 Patients whose symptoms improve after administering a bronchodilator and whose peak flow returns to 80% of their baseline or better can continue to manage their symptoms at home. Oral glucocorticoids equivalent to 40 to 60 mg prednisone daily for 5 to 7 days are warranted for the following patients:
 
-  * Those experiencing recurrent symptoms over the following 1 to 2 days.
+- Those experiencing recurrent symptoms over the following 1 to 2 days.
 
-  * Those whose peak flow remains less than 80% of their normal baseline (high-dose ICSs are an alternative).
+- Those whose peak flow remains less than 80% of their normal baseline (high-dose ICSs are an alternative).
 
-  * If they do not improve after 1 to 3 doses of a fast-acting bronchodilator.
+- If they do not improve after 1 to 3 doses of a fast-acting bronchodilator.
 
-  * If they have recently completed a course in OCS.
+- If they have recently completed a course in OCS.
 
-  * Those who are on a maximal dose of controller medications.
+- Those who are on a maximal dose of controller medications.
 
-Patients with a peak flow value of 50% or lower despite administering a bronchodilator or continuing to worsen should seek immediate medical care while continuing to administer their fast-acting bronchodilator. 
+Patients with a peak flow value of 50% or lower despite administering a bronchodilator or continuing to worsen should seek immediate medical care while continuing to administer their fast-acting bronchodilator.
 
 Office management is similar to home management, with the addition that according to GINA guidelines, all patients with oxygen saturation below 90% should receive oxygen to maintain saturation above 92% or 95% for pregnant individuals. Albuterol treatment can be administered via an MDI or nebulizer, with a dosage of 4 to 8 puffs or 2.5 to 5 mg every 20 minutes for 1 hour, respectively. Research comparing the efficacy of an MDI combined with a valved-holding chamber to nebulizer delivery, both administering the same β-agonist but with significantly lower doses via MDI, demonstrates similar enhancements in lung function and risk reduction for hospitalization.[33][34][35]
 
-If oral glucocorticoids are unavailable, intramuscular steroids such as triamcinolone suspension (40 mg/mL) 60 to 100 mg can be an alternative. However, it is noteworthy that intramuscular glucocorticoids have a delayed onset of action of 12 to 36 hours. Patients meeting certain criteria such as a respiratory rate of 30 breaths per minute, a heart rate of more than 120 bpm, a continued peak flow of less than 50% predicted, oxygen saturation of less than 90%, or the inability to speak in full sentences should be transferred to the emergency department. 
+If oral glucocorticoids are unavailable, intramuscular steroids such as triamcinolone suspension (40 mg/mL) 60 to 100 mg can be an alternative. However, it is noteworthy that intramuscular glucocorticoids have a delayed onset of action of 12 to 36 hours. Patients meeting certain criteria such as a respiratory rate of 30 breaths per minute, a heart rate of more than 120 bpm, a continued peak flow of less than 50% predicted, oxygen saturation of less than 90%, or the inability to speak in full sentences should be transferred to the emergency department.
 
 Patients who can be sent home from the office should have their controller medications advanced in 1 step. In addition, it is essential to review the correct use of their inhaler, discuss trigger avoidance strategies, ensure they have an asthma action plan, and emphasize the importance of adhering to their controller medication.
 
@@ -293,7 +292,7 @@ Patients who can be sent home from the office should have their controller medic
 
 Within the first hour, patients should receive 3 treatments of an inhaled SABA, such as albuterol, via a nebulizer or MDI, followed by repeat dosing every 1 to 4 hours. In addition to a SABA, patients with severe asthma exacerbations should also receive inhaled ipratropium, a short-acting muscarinic antagonist (SAMA), at a dosage of 500 µg by nebulization or 4 to 8 puffs by MDI, every 20 minutes for 3 doses, and then hourly as needed for up to 3 hours. Current guidelines recommend discontinuing SAMA therapy once the patient requires hospital admission, except in specific cases such as refractory asthma requiring treatment in the intensive care unit, concurrent treatment with monoamine oxidase inhibitors due to potential increased toxicity from sympathomimetic therapy due to impaired drug metabolism, presence of COPD with an asthmatic component, or asthma triggered by β-blocker therapy.
 
-As with outpatient management, patients also receive glucocorticoids equivalent to 40 to 60 mg of prednisone daily for 5 to 7 days. A systematic review reveals no difference between a higher dose and a longer course when compared to a lower dose with a shorter course of prednisone or prednisolone.[36] Oral and intravenous glucocorticoids have equivalent effects when administered in comparable doses. Intravenous steroids are necessary for patients with impending or actual respiratory arrest or who are intolerant of oral glucocorticoids. Some clinicians administer higher doses of glucocorticoids for severe asthma exacerbations based on their expert opinion and concern that a lower dose might be insufficient in a critically ill patient. 
+As with outpatient management, patients also receive glucocorticoids equivalent to 40 to 60 mg of prednisone daily for 5 to 7 days. A systematic review reveals no difference between a higher dose and a longer course when compared to a lower dose with a shorter course of prednisone or prednisolone.[36] Oral and intravenous glucocorticoids have equivalent effects when administered in comparable doses. Intravenous steroids are necessary for patients with impending or actual respiratory arrest or who are intolerant of oral glucocorticoids. Some clinicians administer higher doses of glucocorticoids for severe asthma exacerbations based on their expert opinion and concern that a lower dose might be insufficient in a critically ill patient.
 
 **Magnesium sulfate**
 
@@ -307,17 +306,17 @@ An additional study reveals a small benefit of adding inhaled magnesium to inhal
 
 Indications for intubation and mechanical ventilation or noninvasive ventilation include the following:
 
-  * Slowing of the respiratory rate
+- Slowing of the respiratory rate
 
-  * Depressed mental status
+- Depressed mental status
 
-  * Inability to maintain respiratory effort
+- Inability to maintain respiratory effort
 
-  * Inability to cooperate with the administration of inhaled medications
+- Inability to cooperate with the administration of inhaled medications
 
-  * Worsening hypercapnia and associated respiratory acidosis
+- Worsening hypercapnia and associated respiratory acidosis
 
-  * Inability to maintain oxygen saturation above 92% despite face mask supplemental oxygen
+- Inability to maintain oxygen saturation above 92% despite face mask supplemental oxygen
 
 A 1- to 2-hour trial of bilevel noninvasive positive pressure ventilation is appropriate for patients with an acute asthma exacerbation, but clinicians should maintain a low threshold for intubation.[40][41]
 
@@ -331,57 +330,57 @@ All patients who are smokers should be educated on the benefits of smoking cessa
 
 The differential diagnoses for asthma include the following conditions:
 
-  * Bronchiectasis
+- Bronchiectasis
 
-  * Bronchiolitis
+- Bronchiolitis
 
-  * Chronic obstructive pulmonary disease
+- Chronic obstructive pulmonary disease
 
-  * Chronic sinusitis
+- Chronic sinusitis
 
-  * Cystic fibrosis
+- Cystic fibrosis
 
-  * α1-antitrypsin deficiency
+- α1-antitrypsin deficiency
 
-  * Aspergillosis
+- Aspergillosis
 
-  * Exercise-induced anaphylaxis
+- Exercise-induced anaphylaxis
 
-  * Foreign body aspiration
+- Foreign body aspiration
 
-  * Heart failure
+- Heart failure
 
-  * Gastroesophageal reflux disease
+- Gastroesophageal reflux disease
 
-  * Tracheomalacia
+- Tracheomalacia
 
-  * Pulmonary embolism
+- Pulmonary embolism
 
-  * Pulmonary eosinophilia
+- Pulmonary eosinophilia
 
-  * Sarcoidosis
+- Sarcoidosis
 
-  * Upper respiratory tract infection
+- Upper respiratory tract infection
 
-  * Vocal cord dysfunction
+- Vocal cord dysfunction
 
-  * Eosinophilic granulomatosis with polyangiitis
+- Eosinophilic granulomatosis with polyangiitis
 
-  * Bronchogenic carcinoma
+- Bronchogenic carcinoma
 
-  * Post-viral tussive syndrome
+- Post-viral tussive syndrome
 
-  * Eosinophilic bronchitis
+- Eosinophilic bronchitis
 
-  * Cough induced by angiotensin-converting enzyme inhibitors
+- Cough induced by angiotensin-converting enzyme inhibitors
 
-  * Bordetella pertussis infection
+- Bordetella pertussis infection
 
-  * Interstitial lung disease
+- Interstitial lung disease
 
-  * Obesity
+- Obesity
 
-  * Recurrent oropharyngeal aspiration
+- Recurrent oropharyngeal aspiration
 
 ## Prognosis
 
@@ -393,39 +392,39 @@ The international asthma mortality rate reaches as high as 0.86 deaths per 100,0
 
 The complications related to asthma include disease-related complications and adverse effects of glucocorticoids, LTRA, and endotracheal intubation. The following list contains complications associated with asthma:
 
-  * Decline in lung function
+- Decline in lung function
 
-  * Osteoporosis
+- Osteoporosis
 
-  * Fracture
+- Fracture
 
-  * Infections
+- Infections
 
-  * Adrenal suppression
+- Adrenal suppression
 
-  * Hypertension
+- Hypertension
 
-  * Diabetes
+- Diabetes
 
-  * Cataract
+- Cataract
 
-  * Peptic ulcer
+- Peptic ulcer
 
-  * Sleep disorders
+- Sleep disorders
 
-  * Obstructive sleep apnea
+- Obstructive sleep apnea
 
-  * Mood disorders
+- Mood disorders
 
-  * Cardiac arrest
+- Cardiac arrest
 
-  * Glaucoma
+- Glaucoma
 
-  * Respiratory failure or arrest 
+- Respiratory failure or arrest
 
-  * Pneumothorax
+- Pneumothorax
 
-  * Aspiration [45]
+- Aspiration [45]
 
 ## Consultations
 
@@ -437,23 +436,23 @@ Patient education plays a pivotal role in the effective management of asthma by 
 
 Patient education should also prioritize the recognition of early warning signs of an asthma attack and prompt seeking of medical attention when necessary. Routine follow-up visits for patients with active asthma are recommended, occurring every one to six months, contingent on the severity of asthma and adequacy of control. During these follow-up visits, clinicians should assess asthma control, lung function, exacerbations, inhaler technique, adherence, adverse effects of medication, quality of life, and patient satisfaction with care. By instilling a comprehensive understanding of asthma management strategies and fostering proactive patient involvement, clinicians can significantly reduce the burden of asthma and enhance patient well-being.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Asthma is characterized by complex pathophysiology involving airway inflammation, intermittent airflow obstruction, and bronchial hyperresponsiveness. The condition presents various signs and symptoms, such as wheezing, coughing, shortness of breath, and chest tightness. Wheezing may not always be present, particularly in cases primarily affecting small airways, and its absence does not exclude asthma. Additionally, a cough might be the sole symptom, especially one that occurs or worsens at night. Diagnostic evaluation involves spirometry, assessing lung function parameters such as FEV1 and FVC, measuring peak flow, and possibly conducting bronchoprovocation testing in some individuals.
 
 Treatment strategies include trigger avoidance, ensuring access to rescue medications, and personalized pharmacological interventions, with inhaled corticosteroids being the preferred controller medication. Patient education, regular assessment of symptom control, and adherence to treatment plans are crucial components in effectively managing asthma. Adequate patient readiness and preparation, including the development of an asthma action plan, help minimize illness severity and optimize patient outcomes by promoting self-management and reducing healthcare utilization.
 
-Enhancing patient-centered care, outcomes, patient safety, and team performance in asthma management demands a strategic approach. Each healthcare team member should possess the necessary clinical expertise to diagnose and treat asthma effectively, which involves interpreting spirometry findings and customizing treatment plans according to individual patient needs. Adhering to evidence-based guidelines and protocols will ensure uniform practices across healthcare settings. 
+Enhancing patient-centered care, outcomes, patient safety, and team performance in asthma management demands a strategic approach. Each healthcare team member should possess the necessary clinical expertise to diagnose and treat asthma effectively, which involves interpreting spirometry findings and customizing treatment plans according to individual patient needs. Adhering to evidence-based guidelines and protocols will ensure uniform practices across healthcare settings.
 
 Effective interprofessional communication enables the exchange of information, collaborative decision-making, and seamless care transitions. Each healthcare team member, including physicians, advanced care practitioners, nurses, pharmacists, respiratory therapists, and social workers, contributes unique skills to asthma care, further enriching interdisciplinary collaboration. By fostering a culture of collaboration, communication, and coordination, healthcare professionals can deliver comprehensive, patient-centered asthma care, decreasing morbidity and mortality and enhancing team performance.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17920&utm_source=pubmed&utm_campaign=reviews&utm_content=17920)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17920&utm_source=pubmed&utm_campaign=reviews&utm_content=17920)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/asthma/asthma/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17920)
+- [Click here for a simplified version.](https://mdsearchlight.com/asthma/asthma/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17920)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17920/?utm_source=pubmed&utm_campaign=comments&utm_content=17920)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17920/?utm_source=pubmed&utm_campaign=comments&utm_content=17920)
 
 [![Pathophysiology of Asthma](/books/NBK430901/bin/Asthma_attack-illustration_NIH.gif)](/books/NBK430901/figure/article-17920.image.f1/?report=objectonly "Figure")
 
@@ -465,255 +464,204 @@ Pathophysiology of Asthma. Figure A displays the location of the lungs and airwa
 
 #### [Figure](/books/NBK430901/figure/article-17920.image.f2/?report=objectonly)
 
-A Chest Radiograph Depicting Asthma. The image depicts both anterior and lateral radiographs of a patient with asthma. The image highlights the presence of pneumomediastinum and increased bronchovascular markings. Contributed by H Shulman, MD 
+A Chest Radiograph Depicting Asthma. The image depicts both anterior and lateral radiographs of a patient with asthma. The image highlights the presence of pneumomediastinum and increased bronchovascular markings. Contributed by H Shulman, MD
 
 [![Allergic Bronchopulmonary Aspergillosis on CT Scan](/books/NBK430901/bin/ABPA..gif)](/books/NBK430901/figure/article-17920.image.f3/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK430901/figure/article-17920.image.f3/?report=objectonly)
 
-Allergic Bronchopulmonary Aspergillosis on CT Scan. Computed tomography (CT) images reveal bronchiectasis in both upper lobes of a patient with bronchial asthma, indicative of allergic bronchopulmonary aspergillosis. Contributed by M Salahuddin, MD 
+Allergic Bronchopulmonary Aspergillosis on CT Scan. Computed tomography (CT) images reveal bronchiectasis in both upper lobes of a patient with bronchial asthma, indicative of allergic bronchopulmonary aspergillosis. Contributed by M Salahuddin, MD
 
 [![Asthma Severity Classification by The National Asthma Education and Prevention Program](/books/NBK430901/bin/Classification.gif)](/books/NBK430901/figure/article-17920.image.f4/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK430901/figure/article-17920.image.f4/?report=objectonly)
 
-Asthma Severity Classification by The National Asthma Education and Prevention Program. Contributed by R Chabra, DO 
+Asthma Severity Classification by The National Asthma Education and Prevention Program. Contributed by R Chabra, DO
 
 ## References
 
 1.
-    
 
-Lee J, McDonald C. Review: Immunotherapy improves some symptoms and reduces long-term medication use in mild to moderate asthma. Ann Intern Med. 2018 Aug 21;169(4):JC17. [[PubMed: 30128507](https://pubmed.ncbi.nlm.nih.gov/30128507)]
+Lee J, McDonald C. Review: Immunotherapy improves some symptoms and reduces long-term medication use in mild to moderate asthma. Ann Intern Med. 2018 Aug 21;169(4):JC17. \[[PubMed: 30128507](https://pubmed.ncbi.nlm.nih.gov/30128507)\]
 
 2.
-    
 
-Tesfaye ZT, Gebreselase NT, Horsa BA. Appropriateness of chronic asthma management and medication adherence in patients visiting ambulatory clinic of Gondar University Hospital: a cross-sectional study. World Allergy Organ J. 2018;11(1):18. [[PMC free article: PMC6085626](/pmc/articles/PMC6085626/)] [[PubMed: 30128064](https://pubmed.ncbi.nlm.nih.gov/30128064)]
+Tesfaye ZT, Gebreselase NT, Horsa BA. Appropriateness of chronic asthma management and medication adherence in patients visiting ambulatory clinic of Gondar University Hospital: a cross-sectional study. World Allergy Organ J. 2018;11(1):18. \[[PMC free article: PMC6085626](/pmc/articles/PMC6085626/)\] \[[PubMed: 30128064](https://pubmed.ncbi.nlm.nih.gov/30128064)\]
 
 3.
-    
 
-Salo PM, Cohn RD, Zeldin DC. Bedroom Allergen Exposure Beyond House Dust Mites. Curr Allergy Asthma Rep. 2018 Aug 20;18(10):52. [[PMC free article: PMC6222253](/pmc/articles/PMC6222253/)] [[PubMed: 30128784](https://pubmed.ncbi.nlm.nih.gov/30128784)]
+Salo PM, Cohn RD, Zeldin DC. Bedroom Allergen Exposure Beyond House Dust Mites. Curr Allergy Asthma Rep. 2018 Aug 20;18(10):52. \[[PMC free article: PMC6222253](/pmc/articles/PMC6222253/)\] \[[PubMed: 30128784](https://pubmed.ncbi.nlm.nih.gov/30128784)\]
 
 4.
-    
 
-Piloni D, Tirelli C, Domenica RD, Conio V, Grosso A, Ronzoni V, Antonacci F, Totaro P, Corsico AG. Asthma-like symptoms: is it always a pulmonary issue? Multidiscip Respir Med. 2018;13:21. [[PMC free article: PMC6091004](/pmc/articles/PMC6091004/)] [[PubMed: 30123502](https://pubmed.ncbi.nlm.nih.gov/30123502)]
+Piloni D, Tirelli C, Domenica RD, Conio V, Grosso A, Ronzoni V, Antonacci F, Totaro P, Corsico AG. Asthma-like symptoms: is it always a pulmonary issue? Multidiscip Respir Med. 2018;13:21. \[[PMC free article: PMC6091004](/pmc/articles/PMC6091004/)\] \[[PubMed: 30123502](https://pubmed.ncbi.nlm.nih.gov/30123502)\]
 
 5.
-    
 
-Aggarwal B, Mulgirigama A, Berend N. Exercise-induced bronchoconstriction: prevalence, pathophysiology, patient impact, diagnosis and management. NPJ Prim Care Respir Med. 2018 Aug 14;28(1):31. [[PMC free article: PMC6092370](/pmc/articles/PMC6092370/)] [[PubMed: 30108224](https://pubmed.ncbi.nlm.nih.gov/30108224)]
+Aggarwal B, Mulgirigama A, Berend N. Exercise-induced bronchoconstriction: prevalence, pathophysiology, patient impact, diagnosis and management. NPJ Prim Care Respir Med. 2018 Aug 14;28(1):31. \[[PMC free article: PMC6092370](/pmc/articles/PMC6092370/)\] \[[PubMed: 30108224](https://pubmed.ncbi.nlm.nih.gov/30108224)\]
 
 6.
-    
 
-Gui H, Levin AM, Hu D, Sleiman P, Xiao S, Mak ACY, Yang M, Barczak AJ, Huntsman S, Eng C, Hochstadt S, Zhang E, Whitehouse K, Simons S, Cabral W, Takriti S, Abecasis G, Blackwell TW, Kang HM, Nickerson DA, Germer S, Lanfear DE, Gilliland F, Gauderman WJ, Kumar R, Erle DJ, Martinez FD, Hakonarson H, Burchard EG, Williams LK. Mapping the 17q12-21.1 Locus for Variants Associated with Early-Onset Asthma in African Americans. Am J Respir Crit Care Med. 2021 Feb 15;203(4):424-436. [[PMC free article: PMC7885840](/pmc/articles/PMC7885840/)] [[PubMed: 32966749](https://pubmed.ncbi.nlm.nih.gov/32966749)]
+Gui H, Levin AM, Hu D, Sleiman P, Xiao S, Mak ACY, Yang M, Barczak AJ, Huntsman S, Eng C, Hochstadt S, Zhang E, Whitehouse K, Simons S, Cabral W, Takriti S, Abecasis G, Blackwell TW, Kang HM, Nickerson DA, Germer S, Lanfear DE, Gilliland F, Gauderman WJ, Kumar R, Erle DJ, Martinez FD, Hakonarson H, Burchard EG, Williams LK. Mapping the 17q12-21.1 Locus for Variants Associated with Early-Onset Asthma in African Americans. Am J Respir Crit Care Med. 2021 Feb 15;203(4):424-436. \[[PMC free article: PMC7885840](/pmc/articles/PMC7885840/)\] \[[PubMed: 32966749](https://pubmed.ncbi.nlm.nih.gov/32966749)\]
 
 7.
-    
 
-Torgerson DG, Ampleford EJ, Chiu GY, Gauderman WJ, Gignoux CR, Graves PE, Himes BE, Levin AM, Mathias RA, Hancock DB, Baurley JW, Eng C, Stern DA, Celedón JC, Rafaels N, Capurso D, Conti DV, Roth LA, Soto-Quiros M, Togias A, Li X, Myers RA, Romieu I, Van Den Berg DJ, Hu D, Hansel NN, Hernandez RD, Israel E, Salam MT, Galanter J, Avila PC, Avila L, Rodriquez-Santana JR, Chapela R, Rodriguez-Cintron W, Diette GB, Adkinson NF, Abel RA, Ross KD, Shi M, Faruque MU, Dunston GM, Watson HR, Mantese VJ, Ezurum SC, Liang L, Ruczinski I, Ford JG, Huntsman S, Chung KF, Vora H, Li X, Calhoun WJ, Castro M, Sienra-Monge JJ, del Rio-Navarro B, Deichmann KA, Heinzmann A, Wenzel SE, Busse WW, Gern JE, Lemanske RF, Beaty TH, Bleecker ER, Raby BA, Meyers DA, London SJ, Mexico City Childhood Asthma Study (MCAAS). Gilliland FD, Children's Health Study (CHS) and HARBORS study. Burchard EG, Genetics of Asthma in Latino Americans (GALA) Study, Study of Genes-Environment and Admixture in Latino Americans (GALA2) and Study of African Americans, Asthma, Genes & Environments (SAGE). Martinez FD, Childhood Asthma Research and Education (CARE) Network. Weiss ST, Childhood Asthma Management Program (CAMP). Williams LK, Study of Asthma Phenotypes and Pharmacogenomic Interactions by Race-Ethnicity (SAPPHIRE). Barnes KC, Genetic Research on Asthma in African Diaspora (GRAAD) Study. Ober C, Nicolae DL. Meta-analysis of genome-wide association studies of asthma in ethnically diverse North American populations. Nat Genet. 2011 Jul 31;43(9):887-92. [[PMC free article: PMC3445408](/pmc/articles/PMC3445408/)] [[PubMed: 21804549](https://pubmed.ncbi.nlm.nih.gov/21804549)]
+Torgerson DG, Ampleford EJ, Chiu GY, Gauderman WJ, Gignoux CR, Graves PE, Himes BE, Levin AM, Mathias RA, Hancock DB, Baurley JW, Eng C, Stern DA, Celedón JC, Rafaels N, Capurso D, Conti DV, Roth LA, Soto-Quiros M, Togias A, Li X, Myers RA, Romieu I, Van Den Berg DJ, Hu D, Hansel NN, Hernandez RD, Israel E, Salam MT, Galanter J, Avila PC, Avila L, Rodriquez-Santana JR, Chapela R, Rodriguez-Cintron W, Diette GB, Adkinson NF, Abel RA, Ross KD, Shi M, Faruque MU, Dunston GM, Watson HR, Mantese VJ, Ezurum SC, Liang L, Ruczinski I, Ford JG, Huntsman S, Chung KF, Vora H, Li X, Calhoun WJ, Castro M, Sienra-Monge JJ, del Rio-Navarro B, Deichmann KA, Heinzmann A, Wenzel SE, Busse WW, Gern JE, Lemanske RF, Beaty TH, Bleecker ER, Raby BA, Meyers DA, London SJ, Mexico City Childhood Asthma Study (MCAAS). Gilliland FD, Children's Health Study (CHS) and HARBORS study. Burchard EG, Genetics of Asthma in Latino Americans (GALA) Study, Study of Genes-Environment and Admixture in Latino Americans (GALA2) and Study of African Americans, Asthma, Genes & Environments (SAGE). Martinez FD, Childhood Asthma Research and Education (CARE) Network. Weiss ST, Childhood Asthma Management Program (CAMP). Williams LK, Study of Asthma Phenotypes and Pharmacogenomic Interactions by Race-Ethnicity (SAPPHIRE). Barnes KC, Genetic Research on Asthma in African Diaspora (GRAAD) Study. Ober C, Nicolae DL. Meta-analysis of genome-wide association studies of asthma in ethnically diverse North American populations. Nat Genet. 2011 Jul 31;43(9):887-92. \[[PMC free article: PMC3445408](/pmc/articles/PMC3445408/)\] \[[PubMed: 21804549](https://pubmed.ncbi.nlm.nih.gov/21804549)\]
 
 8.
-    
 
-Parnes JR, Molfino NA, Colice G, Martin U, Corren J, Menzies-Gow A. Targeting TSLP in Asthma. J Asthma Allergy. 2022;15:749-765. [[PMC free article: PMC9172920](/pmc/articles/PMC9172920/)] [[PubMed: 35685846](https://pubmed.ncbi.nlm.nih.gov/35685846)]
+Parnes JR, Molfino NA, Colice G, Martin U, Corren J, Menzies-Gow A. Targeting TSLP in Asthma. J Asthma Allergy. 2022;15:749-765. \[[PMC free article: PMC9172920](/pmc/articles/PMC9172920/)\] \[[PubMed: 35685846](https://pubmed.ncbi.nlm.nih.gov/35685846)\]
 
 9.
-    
 
-Fishe JN, Labilloy G, Higley R, Casey D, Ginn A, Baskovich B, Blake KV. Single Nucleotide Polymorphisms (SNPs) in PRKG1 & SPATA13-AS1 are associated with bronchodilator response: a pilot study during acute asthma exacerbations in African American children. Pharmacogenet Genomics. 2021 Sep 01;31(7):146-154. [[PMC free article: PMC8373649](/pmc/articles/PMC8373649/)] [[PubMed: 33851947](https://pubmed.ncbi.nlm.nih.gov/33851947)]
+Fishe JN, Labilloy G, Higley R, Casey D, Ginn A, Baskovich B, Blake KV. Single Nucleotide Polymorphisms (SNPs) in PRKG1 & SPATA13-AS1 are associated with bronchodilator response: a pilot study during acute asthma exacerbations in African American children. Pharmacogenet Genomics. 2021 Sep 01;31(7):146-154. \[[PMC free article: PMC8373649](/pmc/articles/PMC8373649/)\] \[[PubMed: 33851947](https://pubmed.ncbi.nlm.nih.gov/33851947)\]
 
 10.
-    
 
-Loss GJ, Depner M, Hose AJ, Genuneit J, Karvonen AM, Hyvärinen A, Roduit C, Kabesch M, Lauener R, Pfefferle PI, Pekkanen J, Dalphin JC, Riedler J, Braun-Fahrländer C, von Mutius E, Ege MJ., PASTURE (Protection against Allergy Study in Rural Environments) Study Group. The Early Development of Wheeze. Environmental Determinants and Genetic Susceptibility at 17q21. Am J Respir Crit Care Med. 2016 Apr 15;193(8):889-97. [[PubMed: 26575599](https://pubmed.ncbi.nlm.nih.gov/26575599)]
+Loss GJ, Depner M, Hose AJ, Genuneit J, Karvonen AM, Hyvärinen A, Roduit C, Kabesch M, Lauener R, Pfefferle PI, Pekkanen J, Dalphin JC, Riedler J, Braun-Fahrländer C, von Mutius E, Ege MJ., PASTURE (Protection against Allergy Study in Rural Environments) Study Group. The Early Development of Wheeze. Environmental Determinants and Genetic Susceptibility at 17q21. Am J Respir Crit Care Med. 2016 Apr 15;193(8):889-97. \[[PubMed: 26575599](https://pubmed.ncbi.nlm.nih.gov/26575599)\]
 
 11.
-    
 
-Jaakkola JJ, Ahmed P, Ieromnimon A, Goepfert P, Laiou E, Quansah R, Jaakkola MS. Preterm delivery and asthma: a systematic review and meta-analysis. J Allergy Clin Immunol. 2006 Oct;118(4):823-30. [[PubMed: 17030233](https://pubmed.ncbi.nlm.nih.gov/17030233)]
+Jaakkola JJ, Ahmed P, Ieromnimon A, Goepfert P, Laiou E, Quansah R, Jaakkola MS. Preterm delivery and asthma: a systematic review and meta-analysis. J Allergy Clin Immunol. 2006 Oct;118(4):823-30. \[[PubMed: 17030233](https://pubmed.ncbi.nlm.nih.gov/17030233)\]
 
 12.
-    
 
-Been JV, Lugtenberg MJ, Smets E, van Schayck CP, Kramer BW, Mommers M, Sheikh A. Preterm birth and childhood wheezing disorders: a systematic review and meta-analysis. PLoS Med. 2014 Jan;11(1):e1001596. [[PMC free article: PMC3904844](/pmc/articles/PMC3904844/)] [[PubMed: 24492409](https://pubmed.ncbi.nlm.nih.gov/24492409)]
+Been JV, Lugtenberg MJ, Smets E, van Schayck CP, Kramer BW, Mommers M, Sheikh A. Preterm birth and childhood wheezing disorders: a systematic review and meta-analysis. PLoS Med. 2014 Jan;11(1):e1001596. \[[PMC free article: PMC3904844](/pmc/articles/PMC3904844/)\] \[[PubMed: 24492409](https://pubmed.ncbi.nlm.nih.gov/24492409)\]
 
 13.
-    
 
-Leps C, Carson C, Quigley MA. Gestational age at birth and wheezing trajectories at 3-11 years. Arch Dis Child. 2018 Dec;103(12):1138-1144. [[PMC free article: PMC6287557](/pmc/articles/PMC6287557/)] [[PubMed: 29860226](https://pubmed.ncbi.nlm.nih.gov/29860226)]
+Leps C, Carson C, Quigley MA. Gestational age at birth and wheezing trajectories at 3-11 years. Arch Dis Child. 2018 Dec;103(12):1138-1144. \[[PMC free article: PMC6287557](/pmc/articles/PMC6287557/)\] \[[PubMed: 29860226](https://pubmed.ncbi.nlm.nih.gov/29860226)\]
 
 14.
-    
 
-Crump C, Sundquist J, Sundquist K. Preterm or early term birth and long-term risk of asthma into midadulthood: a national cohort and cosibling study. Thorax. 2023 Jul;78(7):653-660. [[PMC free article: PMC9884998](/pmc/articles/PMC9884998/)] [[PubMed: 35907641](https://pubmed.ncbi.nlm.nih.gov/35907641)]
+Crump C, Sundquist J, Sundquist K. Preterm or early term birth and long-term risk of asthma into midadulthood: a national cohort and cosibling study. Thorax. 2023 Jul;78(7):653-660. \[[PMC free article: PMC9884998](/pmc/articles/PMC9884998/)\] \[[PubMed: 35907641](https://pubmed.ncbi.nlm.nih.gov/35907641)\]
 
 15.
-    
 
-Castro-Rodriguez JA, Forno E, Rodriguez-Martinez CE, Celedón JC. Risk and Protective Factors for Childhood Asthma: What Is the Evidence? J Allergy Clin Immunol Pract. 2016 Nov-Dec;4(6):1111-1122. [[PMC free article: PMC5107168](/pmc/articles/PMC5107168/)] [[PubMed: 27286779](https://pubmed.ncbi.nlm.nih.gov/27286779)]
+Castro-Rodriguez JA, Forno E, Rodriguez-Martinez CE, Celedón JC. Risk and Protective Factors for Childhood Asthma: What Is the Evidence? J Allergy Clin Immunol Pract. 2016 Nov-Dec;4(6):1111-1122. \[[PMC free article: PMC5107168](/pmc/articles/PMC5107168/)\] \[[PubMed: 27286779](https://pubmed.ncbi.nlm.nih.gov/27286779)\]
 
 16.
-    
 
-Wolsk HM, Chawes BL, Litonjua AA, Hollis BW, Waage J, Stokholm J, Bønnelykke K, Bisgaard H, Weiss ST. Prenatal vitamin D supplementation reduces risk of asthma/recurrent wheeze in early childhood: A combined analysis of two randomized controlled trials. PLoS One. 2017;12(10):e0186657. [[PMC free article: PMC5659607](/pmc/articles/PMC5659607/)] [[PubMed: 29077711](https://pubmed.ncbi.nlm.nih.gov/29077711)]
+Wolsk HM, Chawes BL, Litonjua AA, Hollis BW, Waage J, Stokholm J, Bønnelykke K, Bisgaard H, Weiss ST. Prenatal vitamin D supplementation reduces risk of asthma/recurrent wheeze in early childhood: A combined analysis of two randomized controlled trials. PLoS One. 2017;12(10):e0186657. \[[PMC free article: PMC5659607](/pmc/articles/PMC5659607/)\] \[[PubMed: 29077711](https://pubmed.ncbi.nlm.nih.gov/29077711)\]
 
 17.
-    
 
-Litonjua AA, Weiss ST. Is vitamin D deficiency to blame for the asthma epidemic? J Allergy Clin Immunol. 2007 Nov;120(5):1031-5. [[PubMed: 17919705](https://pubmed.ncbi.nlm.nih.gov/17919705)]
+Litonjua AA, Weiss ST. Is vitamin D deficiency to blame for the asthma epidemic? J Allergy Clin Immunol. 2007 Nov;120(5):1031-5. \[[PubMed: 17919705](https://pubmed.ncbi.nlm.nih.gov/17919705)\]
 
 18.
-    
 
-McEvoy CT, Schilling D, Clay N, Jackson K, Go MD, Spitale P, Bunten C, Leiva M, Gonzales D, Hollister-Smith J, Durand M, Frei B, Buist AS, Peters D, Morris CD, Spindel ER. Vitamin C supplementation for pregnant smoking women and pulmonary function in their newborn infants: a randomized clinical trial. JAMA. 2014 May;311(20):2074-82. [[PMC free article: PMC4296045](/pmc/articles/PMC4296045/)] [[PubMed: 24838476](https://pubmed.ncbi.nlm.nih.gov/24838476)]
+McEvoy CT, Schilling D, Clay N, Jackson K, Go MD, Spitale P, Bunten C, Leiva M, Gonzales D, Hollister-Smith J, Durand M, Frei B, Buist AS, Peters D, Morris CD, Spindel ER. Vitamin C supplementation for pregnant smoking women and pulmonary function in their newborn infants: a randomized clinical trial. JAMA. 2014 May;311(20):2074-82. \[[PMC free article: PMC4296045](/pmc/articles/PMC4296045/)\] \[[PubMed: 24838476](https://pubmed.ncbi.nlm.nih.gov/24838476)\]
 
 19.
-    
 
-McEvoy CT, Shorey-Kendrick LE, Milner K, Schilling D, Tiller C, Vuylsteke B, Scherman A, Jackson K, Haas DM, Harris J, Schuff R, Park BS, Vu A, Kraemer DF, Mitchell J, Metz J, Gonzales D, Bunten C, Spindel ER, Tepper RS, Morris CD. Oral Vitamin C (500 mg/d) to Pregnant Smokers Improves Infant Airway Function at 3 Months (VCSIP). A Randomized Trial. Am J Respir Crit Care Med. 2019 May 01;199(9):1139-1147. [[PMC free article: PMC6515875](/pmc/articles/PMC6515875/)] [[PubMed: 30522343](https://pubmed.ncbi.nlm.nih.gov/30522343)]
+McEvoy CT, Shorey-Kendrick LE, Milner K, Schilling D, Tiller C, Vuylsteke B, Scherman A, Jackson K, Haas DM, Harris J, Schuff R, Park BS, Vu A, Kraemer DF, Mitchell J, Metz J, Gonzales D, Bunten C, Spindel ER, Tepper RS, Morris CD. Oral Vitamin C (500 mg/d) to Pregnant Smokers Improves Infant Airway Function at 3 Months (VCSIP). A Randomized Trial. Am J Respir Crit Care Med. 2019 May 01;199(9):1139-1147. \[[PMC free article: PMC6515875](/pmc/articles/PMC6515875/)\] \[[PubMed: 30522343](https://pubmed.ncbi.nlm.nih.gov/30522343)\]
 
 20.
-    
 
-GBD 2019 Diseases and Injuries Collaborators. Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet. 2020 Oct 17;396(10258):1204-1222. [[PMC free article: PMC7567026](/pmc/articles/PMC7567026/)] [[PubMed: 33069326](https://pubmed.ncbi.nlm.nih.gov/33069326)]
+GBD 2019 Diseases and Injuries Collaborators. Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet. 2020 Oct 17;396(10258):1204-1222. \[[PMC free article: PMC7567026](/pmc/articles/PMC7567026/)\] \[[PubMed: 33069326](https://pubmed.ncbi.nlm.nih.gov/33069326)\]
 
 21.
-    
 
-Mortimer K, Lesosky M, García-Marcos L, Asher MI, Pearce N, Ellwood E, Bissell K, El Sony A, Ellwood P, Marks GB, Martínez-Torres A, Morales E, Perez-Fernandez V, Robertson S, Rutter CE, Silverwood RJ, Strachan DP, Chiang CY., Global Asthma Network Phase I Study Group. The burden of asthma, hay fever and eczema in adults in 17 countries: GAN Phase I study. Eur Respir J. 2022 Sep;60(3) [[PMC free article: PMC9474894](/pmc/articles/PMC9474894/)] [[PubMed: 35210319](https://pubmed.ncbi.nlm.nih.gov/35210319)]
+Mortimer K, Lesosky M, García-Marcos L, Asher MI, Pearce N, Ellwood E, Bissell K, El Sony A, Ellwood P, Marks GB, Martínez-Torres A, Morales E, Perez-Fernandez V, Robertson S, Rutter CE, Silverwood RJ, Strachan DP, Chiang CY., Global Asthma Network Phase I Study Group. The burden of asthma, hay fever and eczema in adults in 17 countries: GAN Phase I study. Eur Respir J. 2022 Sep;60(3) \[[PMC free article: PMC9474894](/pmc/articles/PMC9474894/)\] \[[PubMed: 35210319](https://pubmed.ncbi.nlm.nih.gov/35210319)\]
 
 22.
-    
 
-Pate CA, Zahran HS, Qin X, Johnson C, Hummelman E, Malilay J. Asthma Surveillance - United States, 2006-2018. MMWR Surveill Summ. 2021 Sep 17;70(5):1-32. [[PMC free article: PMC8480992](/pmc/articles/PMC8480992/)] [[PubMed: 34529643](https://pubmed.ncbi.nlm.nih.gov/34529643)]
+Pate CA, Zahran HS, Qin X, Johnson C, Hummelman E, Malilay J. Asthma Surveillance - United States, 2006-2018. MMWR Surveill Summ. 2021 Sep 17;70(5):1-32. \[[PMC free article: PMC8480992](/pmc/articles/PMC8480992/)\] \[[PubMed: 34529643](https://pubmed.ncbi.nlm.nih.gov/34529643)\]
 
 23.
-    
 
-Liu MC, Hubbard WC, Proud D, Stealey BA, Galli SJ, Kagey-Sobotka A, Bleecker ER, Lichtenstein LM. Immediate and late inflammatory responses to ragweed antigen challenge of the peripheral airways in allergic asthmatics. Cellular, mediator, and permeability changes. Am Rev Respir Dis. 1991 Jul;144(1):51-8. [[PubMed: 2064141](https://pubmed.ncbi.nlm.nih.gov/2064141)]
+Liu MC, Hubbard WC, Proud D, Stealey BA, Galli SJ, Kagey-Sobotka A, Bleecker ER, Lichtenstein LM. Immediate and late inflammatory responses to ragweed antigen challenge of the peripheral airways in allergic asthmatics. Cellular, mediator, and permeability changes. Am Rev Respir Dis. 1991 Jul;144(1):51-8. \[[PubMed: 2064141](https://pubmed.ncbi.nlm.nih.gov/2064141)\]
 
 24.
-    
 
-Riccio MM, Proud D. Evidence that enhanced nasal reactivity to bradykinin in patients with symptomatic allergy is mediated by neural reflexes. J Allergy Clin Immunol. 1996 Jun;97(6):1252-63. [[PubMed: 8648021](https://pubmed.ncbi.nlm.nih.gov/8648021)]
+Riccio MM, Proud D. Evidence that enhanced nasal reactivity to bradykinin in patients with symptomatic allergy is mediated by neural reflexes. J Allergy Clin Immunol. 1996 Jun;97(6):1252-63. \[[PubMed: 8648021](https://pubmed.ncbi.nlm.nih.gov/8648021)\]
 
 25.
-    
 
-Limb SL, Brown KC, Wood RA, Wise RA, Eggleston PA, Tonascia J, Adkinson NF. Irreversible lung function deficits in young adults with a history of childhood asthma. J Allergy Clin Immunol. 2005 Dec;116(6):1213-9. [[PubMed: 16337448](https://pubmed.ncbi.nlm.nih.gov/16337448)]
+Limb SL, Brown KC, Wood RA, Wise RA, Eggleston PA, Tonascia J, Adkinson NF. Irreversible lung function deficits in young adults with a history of childhood asthma. J Allergy Clin Immunol. 2005 Dec;116(6):1213-9. \[[PubMed: 16337448](https://pubmed.ncbi.nlm.nih.gov/16337448)\]
 
 26.
-    
 
-Förster-Ruhrmann U, Olze H. [Importance of aspirin challenges in patients with NSAID-exacerbated respiratory disease]. HNO. 2024 Jul;72(7):494-498. [[PubMed: 38597968](https://pubmed.ncbi.nlm.nih.gov/38597968)]
+Förster-Ruhrmann U, Olze H. [Importance of aspirin challenges in patients with NSAID-exacerbated respiratory disease]. HNO. 2024 Jul;72(7):494-498. \[[PubMed: 38597968](https://pubmed.ncbi.nlm.nih.gov/38597968)\]
 
 27.
-    
 
-Lee DL, Baptist AP. Understanding the Updates in the Asthma Guidelines. Semin Respir Crit Care Med. 2022 Oct;43(5):595-612. [[PubMed: 35728605](https://pubmed.ncbi.nlm.nih.gov/35728605)]
+Lee DL, Baptist AP. Understanding the Updates in the Asthma Guidelines. Semin Respir Crit Care Med. 2022 Oct;43(5):595-612. \[[PubMed: 35728605](https://pubmed.ncbi.nlm.nih.gov/35728605)\]
 
 28.
-    
 
-Stanojevic S, Kaminsky DA, Miller MR, Thompson B, Aliverti A, Barjaktarevic I, Cooper BG, Culver B, Derom E, Hall GL, Hallstrand TS, Leuppi JD, MacIntyre N, McCormack M, Rosenfeld M, Swenson ER. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J. 2022 Jul;60(1) [[PubMed: 34949706](https://pubmed.ncbi.nlm.nih.gov/34949706)]
+Stanojevic S, Kaminsky DA, Miller MR, Thompson B, Aliverti A, Barjaktarevic I, Cooper BG, Culver B, Derom E, Hall GL, Hallstrand TS, Leuppi JD, MacIntyre N, McCormack M, Rosenfeld M, Swenson ER. ERS/ATS technical standard on interpretive strategies for routine lung function tests. Eur Respir J. 2022 Jul;60(1) \[[PubMed: 34949706](https://pubmed.ncbi.nlm.nih.gov/34949706)\]
 
 29.
-    
 
-Tsuyuki RT, Midodzi W, Villa-Roel C, Marciniuk D, Mayers I, Vethanayagam D, Chan M, Rowe BH. Diagnostic practices for patients with shortness of breath and presumed obstructive airway disorders: a cross-sectional analysis. CMAJ Open. 2020 Jul-Sep;8(3):E605-E612. [[PMC free article: PMC7527250](/pmc/articles/PMC7527250/)] [[PubMed: 32978240](https://pubmed.ncbi.nlm.nih.gov/32978240)]
+Tsuyuki RT, Midodzi W, Villa-Roel C, Marciniuk D, Mayers I, Vethanayagam D, Chan M, Rowe BH. Diagnostic practices for patients with shortness of breath and presumed obstructive airway disorders: a cross-sectional analysis. CMAJ Open. 2020 Jul-Sep;8(3):E605-E612. \[[PMC free article: PMC7527250](/pmc/articles/PMC7527250/)\] \[[PubMed: 32978240](https://pubmed.ncbi.nlm.nih.gov/32978240)\]
 
 30.
-    
 
-Aaron SD, Vandemheen KL, FitzGerald JM, Ainslie M, Gupta S, Lemière C, Field SK, McIvor RA, Hernandez P, Mayers I, Mulpuru S, Alvarez GG, Pakhale S, Mallick R, Boulet LP., Canadian Respiratory Research Network. Reevaluation of Diagnosis in Adults With Physician-Diagnosed Asthma. JAMA. 2017 Jan 17;317(3):269-279. [[PubMed: 28114551](https://pubmed.ncbi.nlm.nih.gov/28114551)]
+Aaron SD, Vandemheen KL, FitzGerald JM, Ainslie M, Gupta S, Lemière C, Field SK, McIvor RA, Hernandez P, Mayers I, Mulpuru S, Alvarez GG, Pakhale S, Mallick R, Boulet LP., Canadian Respiratory Research Network. Reevaluation of Diagnosis in Adults With Physician-Diagnosed Asthma. JAMA. 2017 Jan 17;317(3):269-279. \[[PubMed: 28114551](https://pubmed.ncbi.nlm.nih.gov/28114551)\]
 
 31.
-    
 
-Coates AL, Wanger J, Cockcroft DW, Culver BH, Bronchoprovocation Testing Task Force: Kai-Håkon Carlsen. Diamant Z, Gauvreau G, Hall GL, Hallstrand TS, Horvath I, de Jongh FHC, Joos G, Kaminsky DA, Laube BL, Leuppi JD, Sterk PJ. ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests. Eur Respir J. 2017 May;49(5) [[PubMed: 28461290](https://pubmed.ncbi.nlm.nih.gov/28461290)]
+Coates AL, Wanger J, Cockcroft DW, Culver BH, Bronchoprovocation Testing Task Force: Kai-Håkon Carlsen. Diamant Z, Gauvreau G, Hall GL, Hallstrand TS, Horvath I, de Jongh FHC, Joos G, Kaminsky DA, Laube BL, Leuppi JD, Sterk PJ. ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests. Eur Respir J. 2017 May;49(5) \[[PubMed: 28461290](https://pubmed.ncbi.nlm.nih.gov/28461290)\]
 
 32.
-    
 
-Gauvreau GM, O'Byrne PM, Boulet LP, Wang Y, Cockcroft D, Bigler J, FitzGerald JM, Boedigheimer M, Davis BE, Dias C, Gorski KS, Smith L, Bautista E, Comeau MR, Leigh R, Parnes JR. Effects of an anti-TSLP antibody on allergen-induced asthmatic responses. N Engl J Med. 2014 May 29;370(22):2102-10. [[PubMed: 24846652](https://pubmed.ncbi.nlm.nih.gov/24846652)]
+Gauvreau GM, O'Byrne PM, Boulet LP, Wang Y, Cockcroft D, Bigler J, FitzGerald JM, Boedigheimer M, Davis BE, Dias C, Gorski KS, Smith L, Bautista E, Comeau MR, Leigh R, Parnes JR. Effects of an anti-TSLP antibody on allergen-induced asthmatic responses. N Engl J Med. 2014 May 29;370(22):2102-10. \[[PubMed: 24846652](https://pubmed.ncbi.nlm.nih.gov/24846652)\]
 
 33.
-    
 
-Dhuper S, Chandra A, Ahmed A, Bista S, Moghekar A, Verma R, Chong C, Shim C, Cohen H, Choksi S. Efficacy and cost comparisons of bronchodilatator administration between metered dose inhalers with disposable spacers and nebulizers for acute asthma treatment. J Emerg Med. 2011 Mar;40(3):247-55. [[PubMed: 19081697](https://pubmed.ncbi.nlm.nih.gov/19081697)]
+Dhuper S, Chandra A, Ahmed A, Bista S, Moghekar A, Verma R, Chong C, Shim C, Cohen H, Choksi S. Efficacy and cost comparisons of bronchodilatator administration between metered dose inhalers with disposable spacers and nebulizers for acute asthma treatment. J Emerg Med. 2011 Mar;40(3):247-55. \[[PubMed: 19081697](https://pubmed.ncbi.nlm.nih.gov/19081697)\]
 
 34.
-    
 
-Cates CJ, Welsh EJ, Rowe BH. Holding chambers (spacers) versus nebulisers for beta-agonist treatment of acute asthma. Cochrane Database Syst Rev. 2013 Sep 13;2013(9):CD000052. [[PMC free article: PMC7032675](/pmc/articles/PMC7032675/)] [[PubMed: 24037768](https://pubmed.ncbi.nlm.nih.gov/24037768)]
+Cates CJ, Welsh EJ, Rowe BH. Holding chambers (spacers) versus nebulisers for beta-agonist treatment of acute asthma. Cochrane Database Syst Rev. 2013 Sep 13;2013(9):CD000052. \[[PMC free article: PMC7032675](/pmc/articles/PMC7032675/)\] \[[PubMed: 24037768](https://pubmed.ncbi.nlm.nih.gov/24037768)\]
 
 35.
-    
 
-Newman KB, Milne S, Hamilton C, Hall K. A comparison of albuterol administered by metered-dose inhaler and spacer with albuterol by nebulizer in adults presenting to an urban emergency department with acute asthma. Chest. 2002 Apr;121(4):1036-41. [[PubMed: 11948030](https://pubmed.ncbi.nlm.nih.gov/11948030)]
+Newman KB, Milne S, Hamilton C, Hall K. A comparison of albuterol administered by metered-dose inhaler and spacer with albuterol by nebulizer in adults presenting to an urban emergency department with acute asthma. Chest. 2002 Apr;121(4):1036-41. \[[PubMed: 11948030](https://pubmed.ncbi.nlm.nih.gov/11948030)\]
 
 36.
-    
 
-Normansell R, Kew KM, Mansour G. Different oral corticosteroid regimens for acute asthma. Cochrane Database Syst Rev. 2016 May 13;2016(5):CD011801. [[PMC free article: PMC8504986](/pmc/articles/PMC8504986/)] [[PubMed: 27176676](https://pubmed.ncbi.nlm.nih.gov/27176676)]
+Normansell R, Kew KM, Mansour G. Different oral corticosteroid regimens for acute asthma. Cochrane Database Syst Rev. 2016 May 13;2016(5):CD011801. \[[PMC free article: PMC8504986](/pmc/articles/PMC8504986/)\] \[[PubMed: 27176676](https://pubmed.ncbi.nlm.nih.gov/27176676)\]
 
 37.
-    
 
-Kew KM, Kirtchuk L, Michell CI. Intravenous magnesium sulfate for treating adults with acute asthma in the emergency department. Cochrane Database Syst Rev. 2014 May 28;2014(5):CD010909. [[PMC free article: PMC10892514](/pmc/articles/PMC10892514/)] [[PubMed: 24865567](https://pubmed.ncbi.nlm.nih.gov/24865567)]
+Kew KM, Kirtchuk L, Michell CI. Intravenous magnesium sulfate for treating adults with acute asthma in the emergency department. Cochrane Database Syst Rev. 2014 May 28;2014(5):CD010909. \[[PMC free article: PMC10892514](/pmc/articles/PMC10892514/)\] \[[PubMed: 24865567](https://pubmed.ncbi.nlm.nih.gov/24865567)\]
 
 38.
-    
 
-Rovsing AH, Savran O, Ulrik CS. Magnesium sulfate treatment for acute severe asthma in adults-a systematic review and meta-analysis. Front Allergy. 2023;4:1211949. [[PMC free article: PMC10420062](/pmc/articles/PMC10420062/)] [[PubMed: 37577333](https://pubmed.ncbi.nlm.nih.gov/37577333)]
+Rovsing AH, Savran O, Ulrik CS. Magnesium sulfate treatment for acute severe asthma in adults-a systematic review and meta-analysis. Front Allergy. 2023;4:1211949. \[[PMC free article: PMC10420062](/pmc/articles/PMC10420062/)\] \[[PubMed: 37577333](https://pubmed.ncbi.nlm.nih.gov/37577333)\]
 
 39.
-    
 
-Knightly R, Milan SJ, Hughes R, Knopp-Sihota JA, Rowe BH, Normansell R, Powell C. Inhaled magnesium sulfate in the treatment of acute asthma. Cochrane Database Syst Rev. 2017 Nov 28;11(11):CD003898. [[PMC free article: PMC6485984](/pmc/articles/PMC6485984/)] [[PubMed: 29182799](https://pubmed.ncbi.nlm.nih.gov/29182799)]
+Knightly R, Milan SJ, Hughes R, Knopp-Sihota JA, Rowe BH, Normansell R, Powell C. Inhaled magnesium sulfate in the treatment of acute asthma. Cochrane Database Syst Rev. 2017 Nov 28;11(11):CD003898. \[[PMC free article: PMC6485984](/pmc/articles/PMC6485984/)\] \[[PubMed: 29182799](https://pubmed.ncbi.nlm.nih.gov/29182799)\]
 
 40.
-    
 
-Stefan MS, Nathanson BH, Lagu T, Priya A, Pekow PS, Steingrub JS, Hill NS, Goldberg RJ, Kent DM, Lindenauer PK. Outcomes of Noninvasive and Invasive Ventilation in Patients Hospitalized with Asthma Exacerbation. Ann Am Thorac Soc. 2016 Jul;13(7):1096-104. [[PMC free article: PMC5015747](/pmc/articles/PMC5015747/)] [[PubMed: 27070493](https://pubmed.ncbi.nlm.nih.gov/27070493)]
+Stefan MS, Nathanson BH, Lagu T, Priya A, Pekow PS, Steingrub JS, Hill NS, Goldberg RJ, Kent DM, Lindenauer PK. Outcomes of Noninvasive and Invasive Ventilation in Patients Hospitalized with Asthma Exacerbation. Ann Am Thorac Soc. 2016 Jul;13(7):1096-104. \[[PMC free article: PMC5015747](/pmc/articles/PMC5015747/)\] \[[PubMed: 27070493](https://pubmed.ncbi.nlm.nih.gov/27070493)\]
 
 41.
-    
 
-Soroksky A, Stav D, Shpirer I. A pilot prospective, randomized, placebo-controlled trial of bilevel positive airway pressure in acute asthmatic attack. Chest. 2003 Apr;123(4):1018-25. [[PubMed: 12684289](https://pubmed.ncbi.nlm.nih.gov/12684289)]
+Soroksky A, Stav D, Shpirer I. A pilot prospective, randomized, placebo-controlled trial of bilevel positive airway pressure in acute asthmatic attack. Chest. 2003 Apr;123(4):1018-25. \[[PubMed: 12684289](https://pubmed.ncbi.nlm.nih.gov/12684289)\]
 
 42.
-    
 
-Nair P, Milan SJ, Rowe BH. Addition of intravenous aminophylline to inhaled beta(2)-agonists in adults with acute asthma. Cochrane Database Syst Rev. 2012 Dec 12;12(12):CD002742. [[PMC free article: PMC7093892](/pmc/articles/PMC7093892/)] [[PubMed: 23235591](https://pubmed.ncbi.nlm.nih.gov/23235591)]
+Nair P, Milan SJ, Rowe BH. Addition of intravenous aminophylline to inhaled beta(2)-agonists in adults with acute asthma. Cochrane Database Syst Rev. 2012 Dec 12;12(12):CD002742. \[[PMC free article: PMC7093892](/pmc/articles/PMC7093892/)\] \[[PubMed: 23235591](https://pubmed.ncbi.nlm.nih.gov/23235591)\]
 
 43.
-    
 
-Cremer NM, Baptist AP. Race and Asthma Outcomes in Older Adults: Results from the National Asthma Survey. J Allergy Clin Immunol Pract. 2020 Apr;8(4):1294-1301.e7. [[PubMed: 32035849](https://pubmed.ncbi.nlm.nih.gov/32035849)]
+Cremer NM, Baptist AP. Race and Asthma Outcomes in Older Adults: Results from the National Asthma Survey. J Allergy Clin Immunol Pract. 2020 Apr;8(4):1294-1301.e7. \[[PubMed: 32035849](https://pubmed.ncbi.nlm.nih.gov/32035849)\]
 
 44.
-    
 
-Nardone A, Casey JA, Morello-Frosch R, Mujahid M, Balmes JR, Thakur N. Associations between historical residential redlining and current age-adjusted rates of emergency department visits due to asthma across eight cities in California: an ecological study. Lancet Planet Health. 2020 Jan;4(1):e24-e31. [[PMC free article: PMC10018700](/pmc/articles/PMC10018700/)] [[PubMed: 31999951](https://pubmed.ncbi.nlm.nih.gov/31999951)]
+Nardone A, Casey JA, Morello-Frosch R, Mujahid M, Balmes JR, Thakur N. Associations between historical residential redlining and current age-adjusted rates of emergency department visits due to asthma across eight cities in California: an ecological study. Lancet Planet Health. 2020 Jan;4(1):e24-e31. \[[PMC free article: PMC10018700](/pmc/articles/PMC10018700/)\] \[[PubMed: 31999951](https://pubmed.ncbi.nlm.nih.gov/31999951)\]
 
 45.
-    
 
-Song WJ, Lee JH, Kang Y, Joung WJ, Chung KF. Future Risks in Patients With Severe Asthma. Allergy Asthma Immunol Res. 2019 Nov;11(6):763-778. [[PMC free article: PMC6761069](/pmc/articles/PMC6761069/)] [[PubMed: 31552713](https://pubmed.ncbi.nlm.nih.gov/31552713)]
-
-    
+Song WJ, Lee JH, Kang Y, Joung WJ, Chung KF. Future Risks in Patients With Severe Asthma. Allergy Asthma Immunol Res. 2019 Nov;11(6):763-778. \[[PMC free article: PMC6761069](/pmc/articles/PMC6761069/)\] \[[PubMed: 31552713](https://pubmed.ncbi.nlm.nih.gov/31552713)\]
 
 **Disclosure:** Jennifer Goldin declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Muhammad Hashmi declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Mary Cataletto declares no relevant financial relationships with ineligible companies.

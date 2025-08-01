@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30349/
-scraped_date: 2025-07-22 12:44:30 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30349/ scraped_date: 2025-07-22 12:44:30 UTC
 
 # 3,4-Methylenedioxymethamphetamine (MDMA) Toxicity
 
@@ -31,13 +30,13 @@ Participants will gain the skills to assess, manage, and recognize adverse effec
 
 **Objectives:**
 
-  * Identify the acute symptoms and signs of MDMA toxicity, especially in emergency settings.
+- Identify the acute symptoms and signs of MDMA toxicity, especially in emergency settings.
 
-  * Apply current, evidence-based treatments for patients with MDMA toxicity.
+- Apply current, evidence-based treatments for patients with MDMA toxicity.
 
-  * Implement the appropriate diagnostic tests for a patient with MDMA toxicity.
+- Implement the appropriate diagnostic tests for a patient with MDMA toxicity.
 
-  * Collaborate with interprofessional team members, including medical toxicologists, pharmacists, and poison control centers, to provide efficient, comprehensive, and coordinated care for the MDMA toxic patient.
+- Collaborate with interprofessional team members, including medical toxicologists, pharmacists, and poison control centers, to provide efficient, comprehensive, and coordinated care for the MDMA toxic patient.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30349&utm_source=pubmed&utm_campaign=reviews&utm_content=30349)
 
@@ -83,27 +82,29 @@ Because MDMA is a popular rave drug, the combination of intense physical activit
 
 ## Evaluation
 
-Diagnostic testing should be guided by the clinical presentation (history and physical exam). Initially, evaluation of the altered patient must include intravenous (IV) access, vital signs, rapid glucose check, and complete physical examination. Obtaining a core body temperature (rectal or bladder) is critical to diagnose life-threatening hyperthermia (>105 °F or >40.5 °C). 
+Diagnostic testing should be guided by the clinical presentation (history and physical exam). Initially, evaluation of the altered patient must include intravenous (IV) access, vital signs, rapid glucose check, and complete physical examination. Obtaining a core body temperature (rectal or bladder) is critical to diagnose life-threatening hyperthermia (>105 °F or >40.5 °C).
 
 Recommended lab tests are as follows:
 
-  1. Basic metabolic panel (BMP) to evaluate for: 
-     * Electrolyte abnormalities such as hyponatremia and hyperkalemia
+1. Basic metabolic panel (BMP) to evaluate for:
 
-     * Acute kidney injury - blood urea nitrogen (BUN) and creatinine (Cr) levels
+   - Electrolyte abnormalities such as hyponatremia and hyperkalemia
 
-     * Rhabdomyolysis - creatine phosphokinase (CPK) levels
+   - Acute kidney injury - blood urea nitrogen (BUN) and creatinine (Cr) levels
 
-  2. Liver function tests (LFTs) to evaluate fulminant hepatic failure
+   - Rhabdomyolysis - creatine phosphokinase (CPK) levels
 
-  3. Electrocardiogram (EKG) for screening tachyarrhythmias
+1. Liver function tests (LFTs) to evaluate fulminant hepatic failure
 
-  4. Complete blood count (CBC), urinalysis, coagulation profile, chest radiography, computed tomography (CT) head scan, or lumbar puncture in the undifferentiated altered mental status patient
+1. Electrocardiogram (EKG) for screening tachyarrhythmias
 
-  5. Qualitative urine immunoassays (urine drug screens) for amphetamines should not guide the clinical management of patients. The major limitation of amphetamine immunoassays is the high rate of false positives and false negatives. An actual positive result means that the patient used a certain amphetamine within the past several days and did not distinguish acute or recent use. The gold standard of drug testing, gas chromatography-mass spectrometry analysis, may misidentify isomeric substances such as _l_ -methamphetamine (present in nasal inhalers) versus _d_ -methamphetamine. 
-     * Xenobiotics that cause false-positive qualitative amphetamine screens include pseudoephedrine, L-ephedrine, procainamide, mexiletine, selegiline, bupropion, trazodone, and amantadine.
+1. Complete blood count (CBC), urinalysis, coagulation profile, chest radiography, computed tomography (CT) head scan, or lumbar puncture in the undifferentiated altered mental status patient
 
-     * Xenobiotics known to cause false negatives include MDMA and cathinones. 
+1. Qualitative urine immunoassays (urine drug screens) for amphetamines should not guide the clinical management of patients. The major limitation of amphetamine immunoassays is the high rate of false positives and false negatives. An actual positive result means that the patient used a certain amphetamine within the past several days and did not distinguish acute or recent use. The gold standard of drug testing, gas chromatography-mass spectrometry analysis, may misidentify isomeric substances such as _l_ -methamphetamine (present in nasal inhalers) versus _d_ -methamphetamine.
+
+   - Xenobiotics that cause false-positive qualitative amphetamine screens include pseudoephedrine, L-ephedrine, procainamide, mexiletine, selegiline, bupropion, trazodone, and amantadine.
+
+   - Xenobiotics known to cause false negatives include MDMA and cathinones.
 
 ## Treatment / Management
 
@@ -117,31 +118,31 @@ Rhabdomyolysis from acute amphetamine toxicity occurs from psychomotor agitation
 
 Differential diagnoses include the following:
 
-  1. Anticholinergic toxicity
+1. Anticholinergic toxicity
 
-  2. Cholinergic toxicity
+1. Cholinergic toxicity
 
-  3. Neuroleptic malignant syndrome
+1. Neuroleptic malignant syndrome
 
-  4. Malignant hyperthermia
+1. Malignant hyperthermia
 
-  5. Serotonin syndrome
+1. Serotonin syndrome
 
-  6. Monoamine oxidase inhibitor toxicity
+1. Monoamine oxidase inhibitor toxicity
 
-  7. Meningitis
+1. Meningitis
 
-  8. Encephalitis
+1. Encephalitis
 
-  9. Heatstroke
+1. Heatstroke
 
-  10. Heat exhaustion
+1. Heat exhaustion
 
-  11. Rhabdomyolysis
+1. Rhabdomyolysis
 
-  12. Amphetamine toxicity
+1. Amphetamine toxicity
 
-  13. Cocaine toxicity
+1. Cocaine toxicity
 
 ## Prognosis
 
@@ -153,19 +154,19 @@ Though deaths are rare, animal and radiological studies have demonstrated the po
 
 Complications of MDMA toxicity include the following:
 
-  * Neurologic complications include delirium and seizures [23]
+- Neurologic complications include delirium and seizures [23]
 
-  * Cardiovascular complications include cardiac dysrhythmias, myocardial infarction, aortic dissection, and intracranial hemorrhages [8][20][21]
+- Cardiovascular complications include cardiac dysrhythmias, myocardial infarction, aortic dissection, and intracranial hemorrhages [8][20][21]
 
-  * Gastrointestinal complications include severe hepatotoxicity, which can lead to fulminant liver failure [22]
+- Gastrointestinal complications include severe hepatotoxicity, which can lead to fulminant liver failure [22]
 
-  * Renal complications include rhabdomyolysis and acute renal failure [25]
+- Renal complications include rhabdomyolysis and acute renal failure [25]
 
-  * Endocrine complications include the development of a syndrome of inappropriate diuretic hormone (SIADH), resulting in life-threatening hyponatremia and seizures
+- Endocrine complications include the development of a syndrome of inappropriate diuretic hormone (SIADH), resulting in life-threatening hyponatremia and seizures
 
-  * Patients can also present with life-threatening hyperthermia mimicking heat stroke [25][26][27]
+- Patients can also present with life-threatening hyperthermia mimicking heat stroke [25][26][27]
 
-  * Other complications include increased psychomotor agitation or muscle activity (such as bruxism, restless legs, and jaw clenching), hyperactivity, insomnia, difficulty concentrating, and feelings of restlessness [14]
+- Other complications include increased psychomotor agitation or muscle activity (such as bruxism, restless legs, and jaw clenching), hyperactivity, insomnia, difficulty concentrating, and feelings of restlessness [14]
 
 ## Deterrence and Patient Education
 
@@ -173,7 +174,7 @@ Patient education is crucial in helping patients understand both the short- and 
 
 Patients must also understand the long-term psychiatric implications that accompany regular use. There are reports of depression, paranoia, anxiety, and insomnia lasting years following cessation of MDMA use. Additionally, research shows correlations between MDMA use and impaired concentration and memory.[38]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 MDMA toxicity can be life-threatening and involve multiple organ systems, necessitating an interprofessional approach. Providers need to be prepared to treat potential toxicities because treatment is mainly supportive. This requires an interprofessional team approach to managing toxicity, including education, interventions, monitoring, and follow-up from all disciplines, particularly emergency clinicians, toxicology specialists, mid-level practitioners, nurses, pharmacists, and mental health professionals. By coordinating activities and sharing information, the patient is more likely to achieve successful short- and long-term outcomes.
 
@@ -181,217 +182,172 @@ The most effective solution to the issue at hand is prevention. According to exi
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30349&utm_source=pubmed&utm_campaign=reviews&utm_content=30349)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30349&utm_source=pubmed&utm_campaign=reviews&utm_content=30349)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/addiction/34-methylenedioxymethamphetamine-mdma-toxicity-ecstasy-molly-overdose/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=30349)
+- [Click here for a simplified version.](https://mdsearchlight.com/addiction/34-methylenedioxymethamphetamine-mdma-toxicity-ecstasy-molly-overdose/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=30349)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30349/?utm_source=pubmed&utm_campaign=comments&utm_content=30349)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30349/?utm_source=pubmed&utm_campaign=comments&utm_content=30349)
 
 ## References
 
 1.
-    
 
-Mitchell JM, Ot'alora G M, van der Kolk B, Shannon S, Bogenschutz M, Gelfand Y, Paleos C, Nicholas CR, Quevedo S, Balliett B, Hamilton S, Mithoefer M, Kleiman S, Parker-Guilbert K, Tzarfaty K, Harrison C, de Boer A, Doblin R, Yazar-Klosinski B., MAPP2 Study Collaborator Group. MDMA-assisted therapy for moderate to severe PTSD: a randomized, placebo-controlled phase 3 trial. Nat Med. 2023 Oct;29(10):2473-2480. [[PMC free article: PMC10579091](/pmc/articles/PMC10579091/)] [[PubMed: 37709999](https://pubmed.ncbi.nlm.nih.gov/37709999)]
+Mitchell JM, Ot'alora G M, van der Kolk B, Shannon S, Bogenschutz M, Gelfand Y, Paleos C, Nicholas CR, Quevedo S, Balliett B, Hamilton S, Mithoefer M, Kleiman S, Parker-Guilbert K, Tzarfaty K, Harrison C, de Boer A, Doblin R, Yazar-Klosinski B., MAPP2 Study Collaborator Group. MDMA-assisted therapy for moderate to severe PTSD: a randomized, placebo-controlled phase 3 trial. Nat Med. 2023 Oct;29(10):2473-2480. \[[PMC free article: PMC10579091](/pmc/articles/PMC10579091/)\] \[[PubMed: 37709999](https://pubmed.ncbi.nlm.nih.gov/37709999)\]
 
 2.
-    
 
-Passie T, Benzenhöfer U. The History of MDMA as an Underground Drug in the United States, 1960-1979. J Psychoactive Drugs. 2016 Apr-Jun;48(2):67-75. [[PubMed: 26940772](https://pubmed.ncbi.nlm.nih.gov/26940772)]
+Passie T, Benzenhöfer U. The History of MDMA as an Underground Drug in the United States, 1960-1979. J Psychoactive Drugs. 2016 Apr-Jun;48(2):67-75. \[[PubMed: 26940772](https://pubmed.ncbi.nlm.nih.gov/26940772)\]
 
 3.
-    
 
-Hysek CM, Simmler LD, Schillinger N, Meyer N, Schmid Y, Donzelli M, Grouzmann E, Liechti ME. Pharmacokinetic and pharmacodynamic effects of methylphenidate and MDMA administered alone or in combination. Int J Neuropsychopharmacol. 2014 Mar;17(3):371-81. [[PubMed: 24103254](https://pubmed.ncbi.nlm.nih.gov/24103254)]
+Hysek CM, Simmler LD, Schillinger N, Meyer N, Schmid Y, Donzelli M, Grouzmann E, Liechti ME. Pharmacokinetic and pharmacodynamic effects of methylphenidate and MDMA administered alone or in combination. Int J Neuropsychopharmacol. 2014 Mar;17(3):371-81. \[[PubMed: 24103254](https://pubmed.ncbi.nlm.nih.gov/24103254)\]
 
 4.
-    
 
-Parrott AC. MDMA in humans: factors which affect the neuropsychobiological profiles of recreational ecstasy users, the integrative role of bioenergetic stress. J Psychopharmacol. 2006 Mar;20(2):147-63. [[PubMed: 16510474](https://pubmed.ncbi.nlm.nih.gov/16510474)]
+Parrott AC. MDMA in humans: factors which affect the neuropsychobiological profiles of recreational ecstasy users, the integrative role of bioenergetic stress. J Psychopharmacol. 2006 Mar;20(2):147-63. \[[PubMed: 16510474](https://pubmed.ncbi.nlm.nih.gov/16510474)\]
 
 5.
-    
 
-Parrott AC. Chronic tolerance to recreational MDMA (3,4-methylenedioxymethamphetamine) or Ecstasy. J Psychopharmacol. 2005 Jan;19(1):71-83. [[PubMed: 15671132](https://pubmed.ncbi.nlm.nih.gov/15671132)]
+Parrott AC. Chronic tolerance to recreational MDMA (3,4-methylenedioxymethamphetamine) or Ecstasy. J Psychopharmacol. 2005 Jan;19(1):71-83. \[[PubMed: 15671132](https://pubmed.ncbi.nlm.nih.gov/15671132)\]
 
 6.
-    
 
-García-Repetto R, Moreno E, Soriano T, Jurado C, Giménez MP, Menéndez M. Tissue concentrations of MDMA and its metabolite MDA in three fatal cases of overdose. Forensic Sci Int. 2003 Aug 12;135(2):110-4. [[PubMed: 12927411](https://pubmed.ncbi.nlm.nih.gov/12927411)]
+García-Repetto R, Moreno E, Soriano T, Jurado C, Giménez MP, Menéndez M. Tissue concentrations of MDMA and its metabolite MDA in three fatal cases of overdose. Forensic Sci Int. 2003 Aug 12;135(2):110-4. \[[PubMed: 12927411](https://pubmed.ncbi.nlm.nih.gov/12927411)\]
 
 7.
-    
 
-Traub SJ, Hoffman RS, Nelson LS. The "ecstasy" hangover: hyponatremia due to 3,4-methylenedioxymethamphetamine. J Urban Health. 2002 Dec;79(4):549-55. [[PMC free article: PMC3456731](/pmc/articles/PMC3456731/)] [[PubMed: 12468674](https://pubmed.ncbi.nlm.nih.gov/12468674)]
+Traub SJ, Hoffman RS, Nelson LS. The "ecstasy" hangover: hyponatremia due to 3,4-methylenedioxymethamphetamine. J Urban Health. 2002 Dec;79(4):549-55. \[[PMC free article: PMC3456731](/pmc/articles/PMC3456731/)\] \[[PubMed: 12468674](https://pubmed.ncbi.nlm.nih.gov/12468674)\]
 
 8.
-    
 
-Meyer JS. 3,4-methylenedioxymethamphetamine (MDMA): current perspectives. Subst Abuse Rehabil. 2013;4:83-99. [[PMC free article: PMC3931692](/pmc/articles/PMC3931692/)] [[PubMed: 24648791](https://pubmed.ncbi.nlm.nih.gov/24648791)]
+Meyer JS. 3,4-methylenedioxymethamphetamine (MDMA): current perspectives. Subst Abuse Rehabil. 2013;4:83-99. \[[PMC free article: PMC3931692](/pmc/articles/PMC3931692/)\] \[[PubMed: 24648791](https://pubmed.ncbi.nlm.nih.gov/24648791)\]
 
 9.
-    
 
-Kiyatkin EA, Ren S. Clubbing with ecstasy. Temperature (Austin). 2014 Oct-Dec;1(3):160-1. [[PMC free article: PMC5008718](/pmc/articles/PMC5008718/)] [[PubMed: 27627800](https://pubmed.ncbi.nlm.nih.gov/27627800)]
+Kiyatkin EA, Ren S. Clubbing with ecstasy. Temperature (Austin). 2014 Oct-Dec;1(3):160-1. \[[PMC free article: PMC5008718](/pmc/articles/PMC5008718/)\] \[[PubMed: 27627800](https://pubmed.ncbi.nlm.nih.gov/27627800)\]
 
 10.
-    
 
-Wish ED, Fitzelle DB, O'Grady KE, Hsu MH, Arria AM. Evidence for significant polydrug use among ecstasy-using college students. J Am Coll Health. 2006 Sep-Oct;55(2):99-104. [[PMC free article: PMC3005618](/pmc/articles/PMC3005618/)] [[PubMed: 17017306](https://pubmed.ncbi.nlm.nih.gov/17017306)]
+Wish ED, Fitzelle DB, O'Grady KE, Hsu MH, Arria AM. Evidence for significant polydrug use among ecstasy-using college students. J Am Coll Health. 2006 Sep-Oct;55(2):99-104. \[[PMC free article: PMC3005618](/pmc/articles/PMC3005618/)\] \[[PubMed: 17017306](https://pubmed.ncbi.nlm.nih.gov/17017306)\]
 
 11.
-    
 
-Leshner AI. Ecstasy abuse and control: hearing before the Senate Subcommittee on Governmental Affairs--July 30, 2001. Statement for the record. J Psychoactive Drugs. 2002 Apr-Jun;34(2):133-5. [[PubMed: 12691202](https://pubmed.ncbi.nlm.nih.gov/12691202)]
+Leshner AI. Ecstasy abuse and control: hearing before the Senate Subcommittee on Governmental Affairs--July 30, 2001. Statement for the record. J Psychoactive Drugs. 2002 Apr-Jun;34(2):133-5. \[[PubMed: 12691202](https://pubmed.ncbi.nlm.nih.gov/12691202)\]
 
 12.
-    
 
-Wu LT, Parrott AC, Ringwalt CL, Yang C, Blazer DG. The variety of ecstasy/MDMA users: results from the National Epidemiologic Survey on alcohol and related conditions. Am J Addict. 2009 Nov-Dec;18(6):452-61. [[PMC free article: PMC3075627](/pmc/articles/PMC3075627/)] [[PubMed: 19874166](https://pubmed.ncbi.nlm.nih.gov/19874166)]
+Wu LT, Parrott AC, Ringwalt CL, Yang C, Blazer DG. The variety of ecstasy/MDMA users: results from the National Epidemiologic Survey on alcohol and related conditions. Am J Addict. 2009 Nov-Dec;18(6):452-61. \[[PMC free article: PMC3075627](/pmc/articles/PMC3075627/)\] \[[PubMed: 19874166](https://pubmed.ncbi.nlm.nih.gov/19874166)\]
 
 13.
-    
 
-Passie T, Benzenhöfer U. MDA, MDMA, and other "mescaline-like" substances in the US military's search for a truth drug (1940s to 1960s). Drug Test Anal. 2018 Jan;10(1):72-80. [[PubMed: 28851034](https://pubmed.ncbi.nlm.nih.gov/28851034)]
+Passie T, Benzenhöfer U. MDA, MDMA, and other "mescaline-like" substances in the US military's search for a truth drug (1940s to 1960s). Drug Test Anal. 2018 Jan;10(1):72-80. \[[PubMed: 28851034](https://pubmed.ncbi.nlm.nih.gov/28851034)\]
 
 14.
-    
 
-Vollenweider FX, Gamma A, Liechti M, Huber T. Psychological and cardiovascular effects and short-term sequelae of MDMA ("ecstasy") in MDMA-naïve healthy volunteers. Neuropsychopharmacology. 1998 Oct;19(4):241-51. [[PubMed: 9718588](https://pubmed.ncbi.nlm.nih.gov/9718588)]
+Vollenweider FX, Gamma A, Liechti M, Huber T. Psychological and cardiovascular effects and short-term sequelae of MDMA ("ecstasy") in MDMA-naïve healthy volunteers. Neuropsychopharmacology. 1998 Oct;19(4):241-51. \[[PubMed: 9718588](https://pubmed.ncbi.nlm.nih.gov/9718588)\]
 
 15.
-    
 
-Parrott AC. Is ecstasy MDMA? A review of the proportion of ecstasy tablets containing MDMA, their dosage levels, and the changing perceptions of purity. Psychopharmacology (Berl). 2004 May;173(3-4):234-41. [[PubMed: 15007594](https://pubmed.ncbi.nlm.nih.gov/15007594)]
+Parrott AC. Is ecstasy MDMA? A review of the proportion of ecstasy tablets containing MDMA, their dosage levels, and the changing perceptions of purity. Psychopharmacology (Berl). 2004 May;173(3-4):234-41. \[[PubMed: 15007594](https://pubmed.ncbi.nlm.nih.gov/15007594)\]
 
 16.
-    
 
-Moritz ML, Kalantar-Zadeh K, Ayus JC. Ecstacy-associated hyponatremia: why are women at risk? Nephrol Dial Transplant. 2013 Sep;28(9):2206-9. [[PMC free article: PMC3769979](/pmc/articles/PMC3769979/)] [[PubMed: 23804804](https://pubmed.ncbi.nlm.nih.gov/23804804)]
+Moritz ML, Kalantar-Zadeh K, Ayus JC. Ecstacy-associated hyponatremia: why are women at risk? Nephrol Dial Transplant. 2013 Sep;28(9):2206-9. \[[PMC free article: PMC3769979](/pmc/articles/PMC3769979/)\] \[[PubMed: 23804804](https://pubmed.ncbi.nlm.nih.gov/23804804)\]
 
 17.
-    
 
-Mas M, Farré M, de la Torre R, Roset PN, Ortuño J, Segura J, Camí J. Cardiovascular and neuroendocrine effects and pharmacokinetics of 3, 4-methylenedioxymethamphetamine in humans. J Pharmacol Exp Ther. 1999 Jul;290(1):136-45. [[PubMed: 10381769](https://pubmed.ncbi.nlm.nih.gov/10381769)]
+Mas M, Farré M, de la Torre R, Roset PN, Ortuño J, Segura J, Camí J. Cardiovascular and neuroendocrine effects and pharmacokinetics of 3, 4-methylenedioxymethamphetamine in humans. J Pharmacol Exp Ther. 1999 Jul;290(1):136-45. \[[PubMed: 10381769](https://pubmed.ncbi.nlm.nih.gov/10381769)\]
 
 18.
-    
 
-Wu D, Otton SV, Inaba T, Kalow W, Sellers EM. Interactions of amphetamine analogs with human liver CYP2D6. Biochem Pharmacol. 1997 Jun 01;53(11):1605-12. [[PubMed: 9264312](https://pubmed.ncbi.nlm.nih.gov/9264312)]
+Wu D, Otton SV, Inaba T, Kalow W, Sellers EM. Interactions of amphetamine analogs with human liver CYP2D6. Biochem Pharmacol. 1997 Jun 01;53(11):1605-12. \[[PubMed: 9264312](https://pubmed.ncbi.nlm.nih.gov/9264312)\]
 
 19.
-    
 
-De Souza EB, Battaglia G. Effects of MDMA and MDA on brain serotonin neurons: evidence from neurochemical and autoradiographic studies. NIDA Res Monogr. 1989;94:196-222. [[PubMed: 2575225](https://pubmed.ncbi.nlm.nih.gov/2575225)]
+De Souza EB, Battaglia G. Effects of MDMA and MDA on brain serotonin neurons: evidence from neurochemical and autoradiographic studies. NIDA Res Monogr. 1989;94:196-222. \[[PubMed: 2575225](https://pubmed.ncbi.nlm.nih.gov/2575225)\]
 
 20.
-    
 
-Lai TI, Hwang JJ, Fang CC, Chen WJ. Methylene 3, 4 dioxymethamphetamine-induced acute myocardial infarction. Ann Emerg Med. 2003 Dec;42(6):759-62. [[PubMed: 14634599](https://pubmed.ncbi.nlm.nih.gov/14634599)]
+Lai TI, Hwang JJ, Fang CC, Chen WJ. Methylene 3, 4 dioxymethamphetamine-induced acute myocardial infarction. Ann Emerg Med. 2003 Dec;42(6):759-62. \[[PubMed: 14634599](https://pubmed.ncbi.nlm.nih.gov/14634599)\]
 
 21.
-    
 
-Duflou J, Mark A. Aortic dissection after ingestion of "ecstasy" (MDMA). Am J Forensic Med Pathol. 2000 Sep;21(3):261-3. [[PubMed: 10990289](https://pubmed.ncbi.nlm.nih.gov/10990289)]
+Duflou J, Mark A. Aortic dissection after ingestion of "ecstasy" (MDMA). Am J Forensic Med Pathol. 2000 Sep;21(3):261-3. \[[PubMed: 10990289](https://pubmed.ncbi.nlm.nih.gov/10990289)\]
 
 22.
-    
 
-Lange-Brock N, Berg T, Müller AR, Fliege H, Neuhaus P, Wiedenmann B, Klapp BF, Mönnikes H. [Acute liver failure following the use of ecstasy (MDMA)]. Z Gastroenterol. 2002 Aug;40(8):581-6. [[PubMed: 12297982](https://pubmed.ncbi.nlm.nih.gov/12297982)]
+Lange-Brock N, Berg T, Müller AR, Fliege H, Neuhaus P, Wiedenmann B, Klapp BF, Mönnikes H. [Acute liver failure following the use of ecstasy (MDMA)]. Z Gastroenterol. 2002 Aug;40(8):581-6. \[[PubMed: 12297982](https://pubmed.ncbi.nlm.nih.gov/12297982)\]
 
 23.
-    
 
-Theune M, Esser W, Druschky KF, Interschick E, Patscheke H. [Grand mal series after Ecstasy abuse]. Nervenarzt. 1999 Dec;70(12):1094-7. [[PubMed: 10637815](https://pubmed.ncbi.nlm.nih.gov/10637815)]
+Theune M, Esser W, Druschky KF, Interschick E, Patscheke H. [Grand mal series after Ecstasy abuse]. Nervenarzt. 1999 Dec;70(12):1094-7. \[[PubMed: 10637815](https://pubmed.ncbi.nlm.nih.gov/10637815)\]
 
 24.
-    
 
-Tao R, Shokry IM, Callanan JJ. Environment Influencing Serotonin Syndrome Induced by Ecstasy Abuse. Ann Forensic Res Anal. 2017;4(1) [[PMC free article: PMC5931730](/pmc/articles/PMC5931730/)] [[PubMed: 29732414](https://pubmed.ncbi.nlm.nih.gov/29732414)]
+Tao R, Shokry IM, Callanan JJ. Environment Influencing Serotonin Syndrome Induced by Ecstasy Abuse. Ann Forensic Res Anal. 2017;4(1) \[[PMC free article: PMC5931730](/pmc/articles/PMC5931730/)\] \[[PubMed: 29732414](https://pubmed.ncbi.nlm.nih.gov/29732414)\]
 
 25.
-    
 
-Ginsberg MD, Hertzman M, Schmidt-Nowara WW. Amphetamine intoxication with coagulopathy, hyperthermia, and reversible renal failure. A syndrome resembling heatstroke. Ann Intern Med. 1970 Jul;73(1):81-5. [[PubMed: 5433281](https://pubmed.ncbi.nlm.nih.gov/5433281)]
+Ginsberg MD, Hertzman M, Schmidt-Nowara WW. Amphetamine intoxication with coagulopathy, hyperthermia, and reversible renal failure. A syndrome resembling heatstroke. Ann Intern Med. 1970 Jul;73(1):81-5. \[[PubMed: 5433281](https://pubmed.ncbi.nlm.nih.gov/5433281)\]
 
 26.
-    
 
-Matthai SM, Davidson DC, Sills JA, Alexandrou D. Cerebral oedema after ingestion of MDMA ("ecstasy") and unrestricted intake of water. BMJ. 1996 May 25;312(7042):1359. [[PMC free article: PMC2351042](/pmc/articles/PMC2351042/)] [[PubMed: 8646063](https://pubmed.ncbi.nlm.nih.gov/8646063)]
+Matthai SM, Davidson DC, Sills JA, Alexandrou D. Cerebral oedema after ingestion of MDMA ("ecstasy") and unrestricted intake of water. BMJ. 1996 May 25;312(7042):1359. \[[PMC free article: PMC2351042](/pmc/articles/PMC2351042/)\] \[[PubMed: 8646063](https://pubmed.ncbi.nlm.nih.gov/8646063)\]
 
 27.
-    
 
-O'Connor A, Cluroe A, Couch R, Galler L, Lawrence J, Synek B. Death from hyponatraemia-induced cerebral oedema associated with MDMA ("Ecstasy") use. N Z Med J. 1999 Jul 09;112(1091):255-6. [[PubMed: 10448984](https://pubmed.ncbi.nlm.nih.gov/10448984)]
+O'Connor A, Cluroe A, Couch R, Galler L, Lawrence J, Synek B. Death from hyponatraemia-induced cerebral oedema associated with MDMA ("Ecstasy") use. N Z Med J. 1999 Jul 09;112(1091):255-6. \[[PubMed: 10448984](https://pubmed.ncbi.nlm.nih.gov/10448984)\]
 
 28.
-    
 
-Kim DA, Lindquist BD, Shen SH, Wagner AM, Lipman GS. A body bag can save your life: a novel method of cold water immersion for heat stroke treatment. J Am Coll Emerg Physicians Open. 2020 Feb;1(1):49-52. [[PMC free article: PMC7493529](/pmc/articles/PMC7493529/)] [[PubMed: 33000014](https://pubmed.ncbi.nlm.nih.gov/33000014)]
+Kim DA, Lindquist BD, Shen SH, Wagner AM, Lipman GS. A body bag can save your life: a novel method of cold water immersion for heat stroke treatment. J Am Coll Emerg Physicians Open. 2020 Feb;1(1):49-52. \[[PMC free article: PMC7493529](/pmc/articles/PMC7493529/)\] \[[PubMed: 33000014](https://pubmed.ncbi.nlm.nih.gov/33000014)\]
 
 29.
-    
 
-Richards JR, Colby DK. Stimulant-induced hyperthermia and ice-water submersion: Practical considerations. Clin Toxicol (Phila). 2016;54(1):69-70. [[PubMed: 26515112](https://pubmed.ncbi.nlm.nih.gov/26515112)]
+Richards JR, Colby DK. Stimulant-induced hyperthermia and ice-water submersion: Practical considerations. Clin Toxicol (Phila). 2016;54(1):69-70. \[[PubMed: 26515112](https://pubmed.ncbi.nlm.nih.gov/26515112)\]
 
 30.
-    
 
-Laskowski LK, Landry A, Vassallo SU, Hoffman RS. Ice water submersion for rapid cooling in severe drug-induced hyperthermia. Clin Toxicol (Phila). 2015 Mar;53(3):181-4. [[PMC free article: PMC4684641](/pmc/articles/PMC4684641/)] [[PubMed: 25695144](https://pubmed.ncbi.nlm.nih.gov/25695144)]
+Laskowski LK, Landry A, Vassallo SU, Hoffman RS. Ice water submersion for rapid cooling in severe drug-induced hyperthermia. Clin Toxicol (Phila). 2015 Mar;53(3):181-4. \[[PMC free article: PMC4684641](/pmc/articles/PMC4684641/)\] \[[PubMed: 25695144](https://pubmed.ncbi.nlm.nih.gov/25695144)\]
 
 31.
-    
 
-Derlet RW, Albertson TE, Rice P. Antagonism of cocaine, amphetamine, and methamphetamine toxicity. Pharmacol Biochem Behav. 1990 Aug;36(4):745-9. [[PubMed: 2217500](https://pubmed.ncbi.nlm.nih.gov/2217500)]
+Derlet RW, Albertson TE, Rice P. Antagonism of cocaine, amphetamine, and methamphetamine toxicity. Pharmacol Biochem Behav. 1990 Aug;36(4):745-9. \[[PubMed: 2217500](https://pubmed.ncbi.nlm.nih.gov/2217500)\]
 
 32.
-    
 
-Davies N, English W, Grundlingh J. MDMA toxicity: management of acute and life-threatening presentations. Br J Nurs. 2018 Jun 14;27(11):616-622. [[PubMed: 29894255](https://pubmed.ncbi.nlm.nih.gov/29894255)]
+Davies N, English W, Grundlingh J. MDMA toxicity: management of acute and life-threatening presentations. Br J Nurs. 2018 Jun 14;27(11):616-622. \[[PubMed: 29894255](https://pubmed.ncbi.nlm.nih.gov/29894255)\]
 
 33.
-    
 
-Rowland M, Beckett AH. The amphetamines: clinical and pharmacokinetic implications of recent studies of an assay procedure and urinary excretion in man. Arzneimittelforschung. 1966 Nov;16(11):1369-73. [[PubMed: 4880484](https://pubmed.ncbi.nlm.nih.gov/4880484)]
+Rowland M, Beckett AH. The amphetamines: clinical and pharmacokinetic implications of recent studies of an assay procedure and urinary excretion in man. Arzneimittelforschung. 1966 Nov;16(11):1369-73. \[[PubMed: 4880484](https://pubmed.ncbi.nlm.nih.gov/4880484)\]
 
 34.
-    
 
-Wang L, Feng F, Wang XQ, Zhu L. Influences of urinary pH on the pharmacokinetics of three amphetamine-type stimulants using a new high-performance liquid chromatographic method. J Pharm Sci. 2009 Feb;98(2):728-38. [[PubMed: 18481797](https://pubmed.ncbi.nlm.nih.gov/18481797)]
+Wang L, Feng F, Wang XQ, Zhu L. Influences of urinary pH on the pharmacokinetics of three amphetamine-type stimulants using a new high-performance liquid chromatographic method. J Pharm Sci. 2009 Feb;98(2):728-38. \[[PubMed: 18481797](https://pubmed.ncbi.nlm.nih.gov/18481797)\]
 
 35.
-    
 
-Grunau BE, Wiens MO, Brubacher JR. Dantrolene in the treatment of MDMA-related hyperpyrexia: a systematic review. CJEM. 2010 Sep;12(5):435-42. [[PubMed: 20880437](https://pubmed.ncbi.nlm.nih.gov/20880437)]
+Grunau BE, Wiens MO, Brubacher JR. Dantrolene in the treatment of MDMA-related hyperpyrexia: a systematic review. CJEM. 2010 Sep;12(5):435-42. \[[PubMed: 20880437](https://pubmed.ncbi.nlm.nih.gov/20880437)\]
 
 36.
-    
 
-Kelly PA. Does recreational ecstasy use cause long-term cognitive problems? West J Med. 2000 Aug;173(2):129-30. [[PMC free article: PMC1071023](/pmc/articles/PMC1071023/)] [[PubMed: 10924441](https://pubmed.ncbi.nlm.nih.gov/10924441)]
+Kelly PA. Does recreational ecstasy use cause long-term cognitive problems? West J Med. 2000 Aug;173(2):129-30. \[[PMC free article: PMC1071023](/pmc/articles/PMC1071023/)\] \[[PubMed: 10924441](https://pubmed.ncbi.nlm.nih.gov/10924441)\]
 
 37.
-    
 
-Ricaurte GA, McCann UD, Szabo Z, Scheffel U. Toxicodynamics and long-term toxicity of the recreational drug, 3, 4-methylenedioxymethamphetamine (MDMA, 'Ecstasy'). Toxicol Lett. 2000 Mar 15;112-113:143-6. [[PubMed: 10720723](https://pubmed.ncbi.nlm.nih.gov/10720723)]
+Ricaurte GA, McCann UD, Szabo Z, Scheffel U. Toxicodynamics and long-term toxicity of the recreational drug, 3, 4-methylenedioxymethamphetamine (MDMA, 'Ecstasy'). Toxicol Lett. 2000 Mar 15;112-113:143-6. \[[PubMed: 10720723](https://pubmed.ncbi.nlm.nih.gov/10720723)\]
 
 38.
-    
 
-Figurasin R, Lee VR, Maguire NJ. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jan 17, 2024. 3,4-Methylenedioxymethamphetamine (MDMA) Toxicity. [[PubMed: 30860717](https://pubmed.ncbi.nlm.nih.gov/30860717)]
+Figurasin R, Lee VR, Maguire NJ. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jan 17, 2024. 3,4-Methylenedioxymethamphetamine (MDMA) Toxicity. \[[PubMed: 30860717](https://pubmed.ncbi.nlm.nih.gov/30860717)\]
 
 39.
-    
 
-Peters GJ, Kok G. A structured review of reasons for ecstasy use and related behaviours: pointers for future research. BMC Public Health. 2009 Jul 13;9:230. [[PMC free article: PMC2717953](/pmc/articles/PMC2717953/)] [[PubMed: 19594926](https://pubmed.ncbi.nlm.nih.gov/19594926)]
-
-    
+Peters GJ, Kok G. A structured review of reasons for ecstasy use and related behaviours: pointers for future research. BMC Public Health. 2009 Jul 13;9:230. \[[PMC free article: PMC2717953](/pmc/articles/PMC2717953/)\] \[[PubMed: 19594926](https://pubmed.ncbi.nlm.nih.gov/19594926)\]
 
 **Disclosure:** Rick Figurasin declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Vincent Lee declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Nicole Maguire declares no relevant financial relationships with ineligible companies.

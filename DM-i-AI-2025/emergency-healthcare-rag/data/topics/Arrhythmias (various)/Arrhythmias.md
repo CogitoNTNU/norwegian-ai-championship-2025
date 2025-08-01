@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17827/
-scraped_date: 2025-07-22 12:37:18 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17827/ scraped_date: 2025-07-22 12:37:18 UTC
 
 # Arrhythmias
 
@@ -25,13 +24,13 @@ Arrhythmia entails a broad spectrum of disorders of heart rate and rhythm abnorm
 
 **Objectives:**
 
-  * Describe the broad categories of arrhythmias
+- Describe the broad categories of arrhythmias
 
-  * Outline the typical presentation of various arrhythmias.
+- Outline the typical presentation of various arrhythmias.
 
-  * Identify the typical electrocardiographic features and treatment options for arrhythmias.
+- Identify the typical electrocardiographic features and treatment options for arrhythmias.
 
-  * Explain the importance of collaboration and communication amongst the interprofessional team to ensure the appropriate selection of candidates for further electrophysiological testing and management option with defibrillators and pacemakers.
+- Explain the importance of collaboration and communication amongst the interprofessional team to ensure the appropriate selection of candidates for further electrophysiological testing and management option with defibrillators and pacemakers.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17827&utm_source=pubmed&utm_campaign=reviews&utm_content=17827)
 
@@ -41,81 +40,81 @@ Arrhythmia is an abnormal rhythm of the heart. The only normal rhythm of the hea
 
 ## Clinical Significance
 
-The prevalence of arrhythmias is expected to be 1.5% to 5% in the general population, with atrial fibrillation being the most common.[1] Arrhythmias may or may not produce any symptoms and can be paroxysmal, leading to difficulty in estimating true prevalence. The overall presence of arrhythmia is associated with higher morbidity and mortality. 
+The prevalence of arrhythmias is expected to be 1.5% to 5% in the general population, with atrial fibrillation being the most common.[1] Arrhythmias may or may not produce any symptoms and can be paroxysmal, leading to difficulty in estimating true prevalence. The overall presence of arrhythmia is associated with higher morbidity and mortality.
 
 **Evaluation of Arrhythmia**
 
 In patients suspected of arrhythmias, an electrocardiogram (EKG) is the first step and will usually give the diagnosis. However, at times, the patient may suffer from paroxysmal arrhythmia. The following modalities can be used for diagnosing based on the frequency of the symptoms a patient has secondary to a suspected arrhythmia.
 
-  * Ambulatory EKG monitoring for patients with frequent symptoms
+- Ambulatory EKG monitoring for patients with frequent symptoms
 
-  * The event recorder needs to be triggered by the patient to record and will not a viable choice for patients with syncope.
+- The event recorder needs to be triggered by the patient to record and will not a viable choice for patients with syncope.
 
-  * Loop event recorder records up to 2 minutes before the trigger. It is good for patients with syncope.
+- Loop event recorder records up to 2 minutes before the trigger. It is good for patients with syncope.
 
-  * Implantable loop recorder for patients with less frequent symptoms. 
+- Implantable loop recorder for patients with less frequent symptoms.
 
 **Tachyarrhythmia**
 
-Tachyarrhythmia is defined as an abnormal rhythm with a ventricular heart rate of 100 beats per minute or more. It**** can be further classified based on the origin of the arrhythmia into:
+Tachyarrhythmia is defined as an abnormal rhythm with a ventricular heart rate of 100 beats per minute or more. It\*\*\*\* can be further classified based on the origin of the arrhythmia into:
 
-Supraventricular Tachycardia (SVT): Arrhythmia originating from above the AV node (from atrial origin or AV junction origin). 
+Supraventricular Tachycardia (SVT): Arrhythmia originating from above the AV node (from atrial origin or AV junction origin).
 
-  * Atrial fibrillation (AFib)
+- Atrial fibrillation (AFib)
 
-  * Atrial flutter
+- Atrial flutter
 
-  * Atrial tachycardia
+- Atrial tachycardia
 
-  * Atrial premature complex (PAC)
+- Atrial premature complex (PAC)
 
-  * Atrioventricular nodal reentrant tachycardia (AVNRT)
+- Atrioventricular nodal reentrant tachycardia (AVNRT)
 
-  * Atrioventricular reentrant tachycardia (AVRT)
+- Atrioventricular reentrant tachycardia (AVRT)
 
-  * AV junctional extrasystoles
+- AV junctional extrasystoles
 
 Ventricular Tachycardia (VT): The origin of the arrhythmia is below the AV node.
 
-  * Ventricular fibrillation (V-fib)
+- Ventricular fibrillation (V-fib)
 
-  * Ventricular premature beats (PVC)
+- Ventricular premature beats (PVC)
 
-  * Ventricular tachycardia (sustained or non-sustained) 
+- Ventricular tachycardia (sustained or non-sustained)
 
 Tachyarrhythmias can also be classified based on the QRS complex duration into:
 
-Narrow QRS complex tachycardia when QRS is <120 milliseconds in duration:
+Narrow QRS complex tachycardia when QRS is \<120 milliseconds in duration:
 
-  * Sinus tachycardia
+- Sinus tachycardia
 
-  * Atrial tachycardia (AT)
+- Atrial tachycardia (AT)
 
-  * Atrial flutter
+- Atrial flutter
 
-  * Atrioventricular nodal reentrant tachycardia (AVNRT)
+- Atrioventricular nodal reentrant tachycardia (AVNRT)
 
-  * Atrioventricular reentrant tachycardia (AVRT)
+- Atrioventricular reentrant tachycardia (AVRT)
 
-  * Junctional ectopic tachycardia
+- Junctional ectopic tachycardia
 
-  * Sinoatrial nodal reentrant tachycardia (SANRT)
+- Sinoatrial nodal reentrant tachycardia (SANRT)
 
-  * Atrial fibrillation (irregular QRS complexes)
+- Atrial fibrillation (irregular QRS complexes)
 
 Wide QRS complex tachycardia (QRS ≥120 milliseconds in duration) is classified as monomorphic ventricular tachycardia, polymorphic ventricular tachycardia, or ventricular fibrillation.
 
 **Supraventricular Tachycardia Syndromes** [2] [3]
 
-These are usually narrow complex tachycardias with QRS width being less than 3 mm or 120 milliseconds on the EKG strip. Supraventricular tachycardia is further classified into atrioventricular reciprocating tachycardia, atrioventricular nodal reentrant tachycardia, and atrial tachycardia based on the mechanism of tachycardia. 
+These are usually narrow complex tachycardias with QRS width being less than 3 mm or 120 milliseconds on the EKG strip. Supraventricular tachycardia is further classified into atrioventricular reciprocating tachycardia, atrioventricular nodal reentrant tachycardia, and atrial tachycardia based on the mechanism of tachycardia.
 
-**** I. Atrioventricular reciprocating tachycardia (AVRT): As found in Wolff-Parkinson-White syndrome (the presence of delta wave without arrhythmia doesn’t require investigation or treatment).
+\*\*\*\* I. Atrioventricular reciprocating tachycardia (AVRT): As found in Wolff-Parkinson-White syndrome (the presence of delta wave without arrhythmia doesn’t require investigation or treatment).
 
 Mechanism: Accessory pathway present outside of the AV node-Bundle of Kent. It can be further categorized into:
 
-  * Antidromic: Conduction down the accessory pathway and up to the AV node leading to the formation of a delta wave.
+- Antidromic: Conduction down the accessory pathway and up to the AV node leading to the formation of a delta wave.
 
-  * Orthodromic _:_ Conduction down the AV node into an accessory pathway with no delta wave.
+- Orthodromic _:_ Conduction down the AV node into an accessory pathway with no delta wave.
 
 Signs & Symptoms: Palpitation, shortness of breath, or syncope.
 
@@ -135,7 +134,7 @@ EKG Findings: Narrow complex tachycardia with P waves hidden in T waves. Heart r
 
 Management:
 
-Step 1: Carotid massage/Valsalva maneuver 
+Step 1: Carotid massage/Valsalva maneuver
 
 Step 2: Adenosine
 
@@ -143,17 +142,17 @@ Step 3: Cardioversion
 
 Step 4: Ablation or chronic suppressive therapy with beta-blockers and calcium channel blockers such as diltiazem/verapamil.
 
-III.**** Atrial fibrillation: It is the most common arrhythmia in the United States. It affects more than 20% of the general population at some time in their lives.[4] There are five types based on their duration:[5]
+III.\*\*\*\* Atrial fibrillation: It is the most common arrhythmia in the United States. It affects more than 20% of the general population at some time in their lives.[4] There are five types based on their duration:[5]
 
-  * New-onset
+- New-onset
 
-  * Paroxysmal: Self-terminating or intermittent
+- Paroxysmal: Self-terminating or intermittent
 
-  * Persistent: Fails to self-terminate within 7 days and requires treatments (medical or electrical cardioversion) 
+- Persistent: Fails to self-terminate within 7 days and requires treatments (medical or electrical cardioversion)
 
-  * Long-standing Persistent: Lasts for ≥ 1 year
+- Long-standing Persistent: Lasts for ≥ 1 year
 
-  * Permanent: Persistent for ≥ 1 year despite treatment
+- Permanent: Persistent for ≥ 1 year despite treatment
 
 Mechanism: Multiple reentrant wavelets due to atrial ectopy from muscle fibers near the proximal part of the pulmonary vein.
 
@@ -163,19 +162,19 @@ EKG Findings: Irregularly irregular narrow complex tachycardia with no discernab
 
 Management: The management strategy for atrial fibrillation can be classified into rate control or rhythm control. The decision to use a rate control or a rhythm-control strategy depends on the hemodynamic stability, candidacy for ablation, and the presence of co-morbidities. Patients with atrial fibrillation are at increased risk of ischemic-embolic stroke, and anticoagulation recommendations are based on the CHA2DS2VaSc score.
 
-The CHA2DS2VaSc score is determined by the presence of the following factors: Congestive heart failure (CHF) with ejection fraction (EF) less than 40%, hypertension, age > 65 years, diabetes mellitus, history of stroke (non-hemorrhagic), or transient ischemic attack (TIA), vascular disease (peripheral vascular disease - PVD), age > 75 years, female sex. Each factor adds a point to the score, except for a history of stroke/TIA, which adds 2 points. 
+The CHA2DS2VaSc score is determined by the presence of the following factors: Congestive heart failure (CHF) with ejection fraction (EF) less than 40%, hypertension, age > 65 years, diabetes mellitus, history of stroke (non-hemorrhagic), or transient ischemic attack (TIA), vascular disease (peripheral vascular disease - PVD), age > 75 years, female sex. Each factor adds a point to the score, except for a history of stroke/TIA, which adds 2 points.
 
-  * If the score is 0: No anticoagulation or aspirin based on individual assessment
+- If the score is 0: No anticoagulation or aspirin based on individual assessment
 
-  * If the score is 1: Aspirin or anticoagulation based on individual assessment.
+- If the score is 1: Aspirin or anticoagulation based on individual assessment.
 
-  * If the score is 2 or more: Anticoagulation is recommended if not at high risk of bleeding. 
+- If the score is 2 or more: Anticoagulation is recommended if not at high risk of bleeding.
 
-Rate Control Strategy**:** The heart rate goal is < 110 bpm in patients with chronic atrial fibrillation. It can be achieved with either beta-blockers or calcium channel blockers. Digoxin is usually used as adjuvant therapy in a patient with a "difficult to control" heart rate or in heart failure patients.
+Rate Control Strategy\*\*:\*\* The heart rate goal is < 110 bpm in patients with chronic atrial fibrillation. It can be achieved with either beta-blockers or calcium channel blockers. Digoxin is usually used as adjuvant therapy in a patient with a "difficult to control" heart rate or in heart failure patients.
 
-Cardioversion Strategy:**** Cardioversion is preferred in hemodynamically unstable patients or if rate control fails. It is also preferred in a young patient with no other co-morbidities. Cardioversion can be performed within 36 hrs of the onset of atrial fibrillation, but if the presentation is delayed or is of unknown duration, the absence of thrombi needs to be confirmed with a transesophageal echocardiogram (TEE). If a thrombus is present on an echocardiogram, the patient will need anticoagulation for at least three weeks before cardioversion can be performed. The patient needs to be on anticoagulation for at least four weeks post cardioversion. Various modalities are available for cardioversion therapy and include synchronized electric cardioversion or chemical cardioversion with medications including flecainide, propafenone, amiodarone, or dronedarone. Maze procedure is usually reserved for the patient undergoing other cardiac surgery.
+Cardioversion Strategy:\*\*\*\* Cardioversion is preferred in hemodynamically unstable patients or if rate control fails. It is also preferred in a young patient with no other co-morbidities. Cardioversion can be performed within 36 hrs of the onset of atrial fibrillation, but if the presentation is delayed or is of unknown duration, the absence of thrombi needs to be confirmed with a transesophageal echocardiogram (TEE). If a thrombus is present on an echocardiogram, the patient will need anticoagulation for at least three weeks before cardioversion can be performed. The patient needs to be on anticoagulation for at least four weeks post cardioversion. Various modalities are available for cardioversion therapy and include synchronized electric cardioversion or chemical cardioversion with medications including flecainide, propafenone, amiodarone, or dronedarone. Maze procedure is usually reserved for the patient undergoing other cardiac surgery.
 
-  * Atrial Flutter[6]
+- Atrial Flutter[6]
 
 Mechanism: Reentrant circuit usually around the tricuspid annulus in the right atrium.
 
@@ -183,9 +182,9 @@ Signs & Symptoms: Can be asymptomatic, or it can cause palpitation, shortness of
 
 EKG Findings: Regular tachycardia with Saw-tooth appearance of P wave with a variable degree of AV block.
 
-Management: General goals include control of ventricular rate with AV blocking agents (beta-blockers or calcium channel blockers), but the restoration of sinus rhythm through cardioversion or ablation is preferred. 
+Management: General goals include control of ventricular rate with AV blocking agents (beta-blockers or calcium channel blockers), but the restoration of sinus rhythm through cardioversion or ablation is preferred.
 
-  * Multifocal Atrial Tachycardia (MAT)
+- Multifocal Atrial Tachycardia (MAT)
 
 Mechanism: multiple automatic atrial foci due to increased sympathetic tone secondary to various causes, including hypoxemia (chronic obstructive pulmonary disease (COPD), or stimulant use.
 
@@ -197,7 +196,7 @@ Management: Oxygen therapy if hypoxemic and treatment of the underlying cause.
 
 Refractory cases: Rate Control with calcium channel blockers as the first choice in the setting of COPD followed by beta-blockers.
 
-  * Junctional tachycardia:[7] Arrhythmia originating from or near the AV node.
+- Junctional tachycardia:[7] Arrhythmia originating from or near the AV node.
 
 Mechanism: Rhythm arising from the AV node.
 
@@ -207,11 +206,11 @@ Signs & Symptoms: Usually well-tolerated and asymptomatic.
 
 EKG Findings: Inverted P Wave in the lead 2 with short PR or No P waves with a narrow complex.
 
-Management: Treat the underlying cause. 
+Management: Treat the underlying cause.
 
-**** IV.**Ventricular Tachycardia:** Origin is below the AV node. It is the major cause of sudden cardiac deaths in the United States.
+\*\*\*\* IV.**Ventricular Tachycardia:** Origin is below the AV node. It is the major cause of sudden cardiac deaths in the United States.
 
-a) Non-Sustained Ventricular Tachycardia:[8]**** When the rapid ventricular rhythm terminates on its own within 30 seconds.
+a) Non-Sustained Ventricular Tachycardia:[8]\*\*\*\* When the rapid ventricular rhythm terminates on its own within 30 seconds.
 
 Mechanism: Channelopathies secondary to structural abnormality, electrolyte disturbances, metabolic imbalance, and the effect of pro-arrhythmic drugs.
 
@@ -269,7 +268,7 @@ Signs & Symptoms: Usually asymptomatic. It can lead to orthostasis or dizziness 
 
 EKG Findings: Sinus rhythm with an upright P wave in lead II and biphasic in V1.
 
-Management: No treatment is required unless pathological with an inadequate heart rate increase with leg raise test. Treat with isoproterenol or pacemaker if no relief. 
+Management: No treatment is required unless pathological with an inadequate heart rate increase with leg raise test. Treat with isoproterenol or pacemaker if no relief.
 
 Atrioventricular Blocks
 
@@ -325,21 +324,21 @@ Mechanism: Subaortic outflow tract obstruction from abnormal hypertrophy of the 
 
 Risk Factor: Autosomal dominant mutation in the gene coding for cardiac sarcomere(Beta myosin heavy chain). Suspect this in a patient with a family history of sudden cardiac death in 2 first-degree relatives.
 
-Symptoms: Syncope with exertion, palpitation, develops early heart failure symptoms. 
+Symptoms: Syncope with exertion, palpitation, develops early heart failure symptoms.
 
 Treatment: Beta-blockers are the mainstay of therapy. Surgery is indicated for patients with obstructive physiology with an outflow gradient greater than 50 mmHg. The defibrillator is indicated for patients who are symptomatic post maximal medical therapy, abnormal systolic blood pressure response to exercise, septal thickness > 30 mm, runs of ventricular tachycardia, or ventricular fibrillation on telemetry or during the stress test.
 
 Indications for ICD placements to prevent sudden cardiac death with arrhythmia:
 
-  * CHF with EF < 35% after three months of maximal medical therapy.
+- CHF with EF < 35% after three months of maximal medical therapy.
 
-  * Myocardial infarction (MI) with EF < 40% with inducible VT or VF in electrophysiological studies.
+- Myocardial infarction (MI) with EF < 40% with inducible VT or VF in electrophysiological studies.
 
-  * MI with EF < 30%
+- MI with EF < 30%
 
-  * Patients with long QT if QTc > 500 and an episode of unexplained syncope or Holter showing NSVTs
+- Patients with long QT if QTc > 500 and an episode of unexplained syncope or Holter showing NSVTs
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Arrhythmias can pose a diagnostic dilemma. The patient presentation can be varied even for the same arrhythmia and can require a different management approach based on the patient's clinical condition and characteristics. While clinical history, physical exam, and EKG findings may reveal particular kinds of arrhythmia, it can sometimes be challenging to form an appropriate management plan without an expert opinion. While an internist is always involved in the care of patients with arrhythmia, it is essential to consult an interprofessional team of specialists, including cardiologists, electrophysiologists, and interventionists.
 
@@ -347,9 +346,9 @@ Based on the condition, the patient may need further evaluation with electrophys
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17827&utm_source=pubmed&utm_campaign=reviews&utm_content=17827)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17827&utm_source=pubmed&utm_campaign=reviews&utm_content=17827)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17827/?utm_source=pubmed&utm_campaign=comments&utm_content=17827)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17827/?utm_source=pubmed&utm_campaign=comments&utm_content=17827)
 
 [![Cardiac Electrical Conduction System](/books/NBK558923/bin/ConductionsystemoftheheartwithouttheHeart-en.svg.gif)](/books/NBK558923/figure/article-17827.image.f1/?report=objectonly "Figure")
 
@@ -360,64 +359,49 @@ Cardiac Electrical Conduction System. A graphical representation of the heart's 
 ## References
 
 1.
-    
 
-Lakshminarayan K, Anderson DC, Herzog CA, Qureshi AI. Clinical epidemiology of atrial fibrillation and related cerebrovascular events in the United States. Neurologist. 2008 May;14(3):143-50. [[PMC free article: PMC5619693](/pmc/articles/PMC5619693/)] [[PubMed: 18469671](https://pubmed.ncbi.nlm.nih.gov/18469671)]
+Lakshminarayan K, Anderson DC, Herzog CA, Qureshi AI. Clinical epidemiology of atrial fibrillation and related cerebrovascular events in the United States. Neurologist. 2008 May;14(3):143-50. \[[PMC free article: PMC5619693](/pmc/articles/PMC5619693/)\] \[[PubMed: 18469671](https://pubmed.ncbi.nlm.nih.gov/18469671)\]
 
 2.
-    
 
-Kaplan J, Lala V. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jun 26, 2023. Paroxysmal Atrial Tachycardia. [[PubMed: 30855901](https://pubmed.ncbi.nlm.nih.gov/30855901)]
+Kaplan J, Lala V. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jun 26, 2023. Paroxysmal Atrial Tachycardia. \[[PubMed: 30855901](https://pubmed.ncbi.nlm.nih.gov/30855901)\]
 
 3.
-    
 
-Hafeez Y, Quintanilla Rodriguez BS, Ahmed I, Grossman SA. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Feb 28, 2024. Paroxysmal Supraventricular Tachycardia. [[PubMed: 29939521](https://pubmed.ncbi.nlm.nih.gov/29939521)]
+Hafeez Y, Quintanilla Rodriguez BS, Ahmed I, Grossman SA. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Feb 28, 2024. Paroxysmal Supraventricular Tachycardia. \[[PubMed: 29939521](https://pubmed.ncbi.nlm.nih.gov/29939521)\]
 
 4.
-    
 
-Heeringa J, van der Kuip DA, Hofman A, Kors JA, van Herpen G, Stricker BH, Stijnen T, Lip GY, Witteman JC. Prevalence, incidence and lifetime risk of atrial fibrillation: the Rotterdam study. Eur Heart J. 2006 Apr;27(8):949-53. [[PubMed: 16527828](https://pubmed.ncbi.nlm.nih.gov/16527828)]
+Heeringa J, van der Kuip DA, Hofman A, Kors JA, van Herpen G, Stricker BH, Stijnen T, Lip GY, Witteman JC. Prevalence, incidence and lifetime risk of atrial fibrillation: the Rotterdam study. Eur Heart J. 2006 Apr;27(8):949-53. \[[PubMed: 16527828](https://pubmed.ncbi.nlm.nih.gov/16527828)\]
 
 5.
-    
 
-Schmidt C, Kisselbach J, Schweizer PA, Katus HA, Thomas D. The pathology and treatment of cardiac arrhythmias: focus on atrial fibrillation. Vasc Health Risk Manag. 2011;7:193-202. [[PMC free article: PMC3072743](/pmc/articles/PMC3072743/)] [[PubMed: 21490945](https://pubmed.ncbi.nlm.nih.gov/21490945)]
+Schmidt C, Kisselbach J, Schweizer PA, Katus HA, Thomas D. The pathology and treatment of cardiac arrhythmias: focus on atrial fibrillation. Vasc Health Risk Manag. 2011;7:193-202. \[[PMC free article: PMC3072743](/pmc/articles/PMC3072743/)\] \[[PubMed: 21490945](https://pubmed.ncbi.nlm.nih.gov/21490945)\]
 
 6.
-    
 
-Rodriguez Ziccardi M, Goyal A, Maani CV. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Dec 8, 2022. Atrial Flutter. [[PubMed: 31082029](https://pubmed.ncbi.nlm.nih.gov/31082029)]
+Rodriguez Ziccardi M, Goyal A, Maani CV. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Dec 8, 2022. Atrial Flutter. \[[PubMed: 31082029](https://pubmed.ncbi.nlm.nih.gov/31082029)\]
 
 7.
-    
 
-Cundiff NM, Robinson JA, Cannon BC, Snyder CS. Atrioventricular junctional tachycardia with exit block in an adolescent. HeartRhythm Case Rep. 2018 Dec;4(12):594-597. [[PMC free article: PMC6301910](/pmc/articles/PMC6301910/)] [[PubMed: 30581740](https://pubmed.ncbi.nlm.nih.gov/30581740)]
+Cundiff NM, Robinson JA, Cannon BC, Snyder CS. Atrioventricular junctional tachycardia with exit block in an adolescent. HeartRhythm Case Rep. 2018 Dec;4(12):594-597. \[[PMC free article: PMC6301910](/pmc/articles/PMC6301910/)\] \[[PubMed: 30581740](https://pubmed.ncbi.nlm.nih.gov/30581740)\]
 
 8.
-    
 
-Allen SM, Abrich VA, Bibby PS, Fishman D, Shen WK, Sorajja D. Prevalence and Prognostic Significance of Nonsustained Ventricular Tachycardia in Patients With a Left Ventricular Ejection Fraction from 35% to 50. Am J Cardiol. 2018 Feb 01;121(3):330-335. [[PubMed: 29224709](https://pubmed.ncbi.nlm.nih.gov/29224709)]
+Allen SM, Abrich VA, Bibby PS, Fishman D, Shen WK, Sorajja D. Prevalence and Prognostic Significance of Nonsustained Ventricular Tachycardia in Patients With a Left Ventricular Ejection Fraction from 35% to 50. Am J Cardiol. 2018 Feb 01;121(3):330-335. \[[PubMed: 29224709](https://pubmed.ncbi.nlm.nih.gov/29224709)\]
 
 9.
-    
 
-Kerola T, Eranti A, Aro AL, Haukilahti MA, Holkeri A, Junttila MJ, Kenttä TV, Rissanen H, Vittinghoff E, Knekt P, Heliövaara M, Huikuri HV, Marcus GM. Risk Factors Associated With Atrioventricular Block. JAMA Netw Open. 2019 May 03;2(5):e194176. [[PMC free article: PMC6632153](/pmc/articles/PMC6632153/)] [[PubMed: 31125096](https://pubmed.ncbi.nlm.nih.gov/31125096)]
+Kerola T, Eranti A, Aro AL, Haukilahti MA, Holkeri A, Junttila MJ, Kenttä TV, Rissanen H, Vittinghoff E, Knekt P, Heliövaara M, Huikuri HV, Marcus GM. Risk Factors Associated With Atrioventricular Block. JAMA Netw Open. 2019 May 03;2(5):e194176. \[[PMC free article: PMC6632153](/pmc/articles/PMC6632153/)\] \[[PubMed: 31125096](https://pubmed.ncbi.nlm.nih.gov/31125096)\]
 
 10.
-    
 
-Leonelli FM, De Ponti R, Bagliani G. Challenges in Bradicardias Interpretation. Card Electrophysiol Clin. 2019 Jun;11(2):261-281. [[PubMed: 31084850](https://pubmed.ncbi.nlm.nih.gov/31084850)]
+Leonelli FM, De Ponti R, Bagliani G. Challenges in Bradicardias Interpretation. Card Electrophysiol Clin. 2019 Jun;11(2):261-281. \[[PubMed: 31084850](https://pubmed.ncbi.nlm.nih.gov/31084850)\]
 
 11.
-    
 
-Stewart S, Ball J, Horowitz JD, Marwick TH, Mahadevan G, Wong C, Abhayaratna WP, Chan YK, Esterman A, Thompson DR, Scuffham PA, Carrington MJ. Standard versus atrial fibrillation-specific management strategy (SAFETY) to reduce recurrent admission and prolong survival: pragmatic, multicentre, randomised controlled trial. Lancet. 2015 Feb 28;385(9970):775-84. [[PubMed: 25467562](https://pubmed.ncbi.nlm.nih.gov/25467562)]
-
-    
+Stewart S, Ball J, Horowitz JD, Marwick TH, Mahadevan G, Wong C, Abhayaratna WP, Chan YK, Esterman A, Thompson DR, Scuffham PA, Carrington MJ. Standard versus atrial fibrillation-specific management strategy (SAFETY) to reduce recurrent admission and prolong survival: pragmatic, multicentre, randomised controlled trial. Lancet. 2015 Feb 28;385(9970):775-84. \[[PubMed: 25467562](https://pubmed.ncbi.nlm.nih.gov/25467562)\]
 
 **Disclosure:** Dhaval Desai declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Said Hajouli declares no relevant financial relationships with ineligible companies.

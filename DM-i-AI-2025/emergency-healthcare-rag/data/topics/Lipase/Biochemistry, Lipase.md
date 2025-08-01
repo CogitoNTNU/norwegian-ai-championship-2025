@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24303/
-scraped_date: 2025-07-22 12:50:47 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24303/ scraped_date: 2025-07-22 12:50:47 UTC
 
 # Biochemistry, Lipase
 
@@ -25,7 +24,7 @@ Last Update: June 26, 2023.
 
 Lipases are a family of enzymes that break down triglycerides into free fatty acids and glycerol. There are expressed and active in multiple tissues; for example, hepatic lipases are in the liver, hormone-sensitive lipases are in adipocytes, lipoprotein lipase is in the vascular endothelial surface, and pancreatic lipase is in the small intestine. [1] Lipases in pancreatic secretions are responsible for digestion and hydrolysis of fat and absorption of fat-soluble vitamins. Understanding the lipase function is crucial for the pathophysiology of fat necrosis and acute and chronic pancreatitis. Also, lipases play an essential role in the mechanism of some cholesterol-lowering medications. This review will explore the lipase enzyme's function, pathophysiology, and clinical significance.[2]
 
-## Molecular Level 
+## Molecular Level
 
 The lipases belong to the alpha/beta-hydrolase fold superfamily of enzymes. They work by employing chymotrypsin-like hydrolysis, which uses a histidine base, a serine nucleophile, and aspartic acid.[3][4]
 
@@ -55,91 +54,72 @@ Niacin, or vitamin B3, is another cholesterol-lowering medication that acts on l
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24303&utm_source=pubmed&utm_campaign=reviews&utm_content=24303)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24303&utm_source=pubmed&utm_campaign=reviews&utm_content=24303)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24303/?utm_source=pubmed&utm_campaign=comments&utm_content=24303)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24303/?utm_source=pubmed&utm_campaign=comments&utm_content=24303)
 
 ## References
 
 1.
-    
 
-Holmes RS, Cox LA, VandeBerg JL. Comparative studies of mammalian acid lipases: Evidence for a new gene family in mouse and rat (Lipo). Comp Biochem Physiol Part D Genomics Proteomics. 2010 Sep;5(3):217-26. [[PMC free article: PMC2917524](/pmc/articles/PMC2917524/)] [[PubMed: 20598663](https://pubmed.ncbi.nlm.nih.gov/20598663)]
+Holmes RS, Cox LA, VandeBerg JL. Comparative studies of mammalian acid lipases: Evidence for a new gene family in mouse and rat (Lipo). Comp Biochem Physiol Part D Genomics Proteomics. 2010 Sep;5(3):217-26. \[[PMC free article: PMC2917524](/pmc/articles/PMC2917524/)\] \[[PubMed: 20598663](https://pubmed.ncbi.nlm.nih.gov/20598663)\]
 
 2.
-    
 
-Cerk IK, Wechselberger L, Oberer M. Adipose Triglyceride Lipase Regulation: An Overview. Curr Protein Pept Sci. 2018;19(2):221-233. [[PMC free article: PMC7613786](/pmc/articles/PMC7613786/)] [[PubMed: 28925902](https://pubmed.ncbi.nlm.nih.gov/28925902)]
+Cerk IK, Wechselberger L, Oberer M. Adipose Triglyceride Lipase Regulation: An Overview. Curr Protein Pept Sci. 2018;19(2):221-233. \[[PMC free article: PMC7613786](/pmc/articles/PMC7613786/)\] \[[PubMed: 28925902](https://pubmed.ncbi.nlm.nih.gov/28925902)\]
 
 3.
-    
 
-Lenfant N, Hotelier T, Velluet E, Bourne Y, Marchot P, Chatonnet A. ESTHER, the database of the α/β-hydrolase fold superfamily of proteins: tools to explore diversity of functions. Nucleic Acids Res. 2013 Jan;41(Database issue):D423-9. [[PMC free article: PMC3531081](/pmc/articles/PMC3531081/)] [[PubMed: 23193256](https://pubmed.ncbi.nlm.nih.gov/23193256)]
+Lenfant N, Hotelier T, Velluet E, Bourne Y, Marchot P, Chatonnet A. ESTHER, the database of the α/β-hydrolase fold superfamily of proteins: tools to explore diversity of functions. Nucleic Acids Res. 2013 Jan;41(Database issue):D423-9. \[[PMC free article: PMC3531081](/pmc/articles/PMC3531081/)\] \[[PubMed: 23193256](https://pubmed.ncbi.nlm.nih.gov/23193256)\]
 
 4.
-    
 
-Holmquist M. Alpha/Beta-hydrolase fold enzymes: structures, functions and mechanisms. Curr Protein Pept Sci. 2000 Sep;1(2):209-35. [[PubMed: 12369917](https://pubmed.ncbi.nlm.nih.gov/12369917)]
+Holmquist M. Alpha/Beta-hydrolase fold enzymes: structures, functions and mechanisms. Curr Protein Pept Sci. 2000 Sep;1(2):209-35. \[[PubMed: 12369917](https://pubmed.ncbi.nlm.nih.gov/12369917)\]
 
 5.
-    
 
-Salah RB, Mosbah H, Fendri A, Gargouri A, Gargouri Y, Mejdoub H. Biochemical and molecular characterization of a lipase produced by Rhizopus oryzae. FEMS Microbiol Lett. 2006 Jul;260(2):241-8. [[PubMed: 16842350](https://pubmed.ncbi.nlm.nih.gov/16842350)]
+Salah RB, Mosbah H, Fendri A, Gargouri A, Gargouri Y, Mejdoub H. Biochemical and molecular characterization of a lipase produced by Rhizopus oryzae. FEMS Microbiol Lett. 2006 Jul;260(2):241-8. \[[PubMed: 16842350](https://pubmed.ncbi.nlm.nih.gov/16842350)\]
 
 6.
-    
 
-Waldmann E, Parhofer KG. Apheresis for severe hypercholesterolaemia and elevated lipoprotein(a). Pathology. 2019 Feb;51(2):227-232. [[PubMed: 30611543](https://pubmed.ncbi.nlm.nih.gov/30611543)]
+Waldmann E, Parhofer KG. Apheresis for severe hypercholesterolaemia and elevated lipoprotein(a). Pathology. 2019 Feb;51(2):227-232. \[[PubMed: 30611543](https://pubmed.ncbi.nlm.nih.gov/30611543)\]
 
 7.
-    
 
-Lotta LA, Stewart ID, Sharp SJ, Day FR, Burgess S, Luan J, Bowker N, Cai L, Li C, Wittemans LBL, Kerrison ND, Khaw KT, McCarthy MI, O'Rahilly S, Scott RA, Savage DB, Perry JRB, Langenberg C, Wareham NJ. Association of Genetically Enhanced Lipoprotein Lipase-Mediated Lipolysis and Low-Density Lipoprotein Cholesterol-Lowering Alleles With Risk of Coronary Disease and Type 2 Diabetes. JAMA Cardiol. 2018 Oct 01;3(10):957-966. [[PMC free article: PMC6217943](/pmc/articles/PMC6217943/)] [[PubMed: 30326043](https://pubmed.ncbi.nlm.nih.gov/30326043)]
+Lotta LA, Stewart ID, Sharp SJ, Day FR, Burgess S, Luan J, Bowker N, Cai L, Li C, Wittemans LBL, Kerrison ND, Khaw KT, McCarthy MI, O'Rahilly S, Scott RA, Savage DB, Perry JRB, Langenberg C, Wareham NJ. Association of Genetically Enhanced Lipoprotein Lipase-Mediated Lipolysis and Low-Density Lipoprotein Cholesterol-Lowering Alleles With Risk of Coronary Disease and Type 2 Diabetes. JAMA Cardiol. 2018 Oct 01;3(10):957-966. \[[PMC free article: PMC6217943](/pmc/articles/PMC6217943/)\] \[[PubMed: 30326043](https://pubmed.ncbi.nlm.nih.gov/30326043)\]
 
 8.
-    
 
-Vasei N, Shishegar A, Ghalkhani F, Darvishi M. Fat necrosis in the Breast: A systematic review of clinical. Lipids Health Dis. 2019 Jun 11;18(1):139. [[PMC free article: PMC6560815](/pmc/articles/PMC6560815/)] [[PubMed: 31185981](https://pubmed.ncbi.nlm.nih.gov/31185981)]
+Vasei N, Shishegar A, Ghalkhani F, Darvishi M. Fat necrosis in the Breast: A systematic review of clinical. Lipids Health Dis. 2019 Jun 11;18(1):139. \[[PMC free article: PMC6560815](/pmc/articles/PMC6560815/)\] \[[PubMed: 31185981](https://pubmed.ncbi.nlm.nih.gov/31185981)\]
 
 9.
-    
 
-Aloysius TA, Carvajal AK, Slizyte R, Skorve J, Berge RK, Bjørndal B. Chicken Protein Hydrolysates Have Anti-Inflammatory Effects on High-Fat Diet Induced Obesity in Mice. Medicines (Basel). 2018 Dec 28;6(1) [[PMC free article: PMC6473722](/pmc/articles/PMC6473722/)] [[PubMed: 30597839](https://pubmed.ncbi.nlm.nih.gov/30597839)]
+Aloysius TA, Carvajal AK, Slizyte R, Skorve J, Berge RK, Bjørndal B. Chicken Protein Hydrolysates Have Anti-Inflammatory Effects on High-Fat Diet Induced Obesity in Mice. Medicines (Basel). 2018 Dec 28;6(1) \[[PMC free article: PMC6473722](/pmc/articles/PMC6473722/)\] \[[PubMed: 30597839](https://pubmed.ncbi.nlm.nih.gov/30597839)\]
 
 10.
-    
 
-Prieto Vidal N, Adeseun Adigun O, Pham TH, Mumtaz A, Manful C, Callahan G, Stewart P, Keough D, Thomas RH. The Effects of Cold Saponification on the Unsaponified Fatty Acid Composition and Sensory Perception of Commercial Natural Herbal Soaps. Molecules. 2018 Sep 14;23(9) [[PMC free article: PMC6225244](/pmc/articles/PMC6225244/)] [[PubMed: 30223479](https://pubmed.ncbi.nlm.nih.gov/30223479)]
+Prieto Vidal N, Adeseun Adigun O, Pham TH, Mumtaz A, Manful C, Callahan G, Stewart P, Keough D, Thomas RH. The Effects of Cold Saponification on the Unsaponified Fatty Acid Composition and Sensory Perception of Commercial Natural Herbal Soaps. Molecules. 2018 Sep 14;23(9) \[[PMC free article: PMC6225244](/pmc/articles/PMC6225244/)\] \[[PubMed: 30223479](https://pubmed.ncbi.nlm.nih.gov/30223479)\]
 
 11.
-    
 
-Ismail OZ, Bhayana V. Lipase or amylase for the diagnosis of acute pancreatitis? Clin Biochem. 2017 Dec;50(18):1275-1280. [[PubMed: 28720341](https://pubmed.ncbi.nlm.nih.gov/28720341)]
+Ismail OZ, Bhayana V. Lipase or amylase for the diagnosis of acute pancreatitis? Clin Biochem. 2017 Dec;50(18):1275-1280. \[[PubMed: 28720341](https://pubmed.ncbi.nlm.nih.gov/28720341)\]
 
 12.
-    
 
-Oh HC, Kwon CI, El Hajj II, Easler JJ, Watkins J, Fogel EL, McHenry L, Sherman S, Zimmerman MK, Lehman GA. Low Serum Pancreatic Amylase and Lipase Values Are Simple and Useful Predictors to Diagnose Chronic Pancreatitis. Gut Liver. 2017 Nov 15;11(6):878-883. [[PMC free article: PMC5669605](/pmc/articles/PMC5669605/)] [[PubMed: 29081212](https://pubmed.ncbi.nlm.nih.gov/29081212)]
+Oh HC, Kwon CI, El Hajj II, Easler JJ, Watkins J, Fogel EL, McHenry L, Sherman S, Zimmerman MK, Lehman GA. Low Serum Pancreatic Amylase and Lipase Values Are Simple and Useful Predictors to Diagnose Chronic Pancreatitis. Gut Liver. 2017 Nov 15;11(6):878-883. \[[PMC free article: PMC5669605](/pmc/articles/PMC5669605/)\] \[[PubMed: 29081212](https://pubmed.ncbi.nlm.nih.gov/29081212)\]
 
 13.
-    
 
-Pamuk B, Yilmaz H, Kebapçilar L, Kirbiyik H, Alacacioğlu A, Bozkaya G, Pamuk G, Demirpence M. The effect of orlistat and weight loss diet on plasma ghrelin and obestatin. J Res Med Sci. 2018;23:95. [[PMC free article: PMC6282548](/pmc/articles/PMC6282548/)] [[PubMed: 30595703](https://pubmed.ncbi.nlm.nih.gov/30595703)]
+Pamuk B, Yilmaz H, Kebapçilar L, Kirbiyik H, Alacacioğlu A, Bozkaya G, Pamuk G, Demirpence M. The effect of orlistat and weight loss diet on plasma ghrelin and obestatin. J Res Med Sci. 2018;23:95. \[[PMC free article: PMC6282548](/pmc/articles/PMC6282548/)\] \[[PubMed: 30595703](https://pubmed.ncbi.nlm.nih.gov/30595703)\]
 
 14.
-    
 
-Inácio MD, Rafacho A, de Paula Camaforte NA, Teixeira P, Vareda PMP, Violato NM, Bosqueiro JR. Prevention of Elevation in Plasma Triacylglycerol with High-Dose Bezafibrate Treatment Abolishes Insulin Resistance and Attenuates Glucose Intolerance Induced by Short-Term Treatment with Dexamethasone in Rats. Int J Endocrinol. 2018;2018:3257812. [[PMC free article: PMC6250034](/pmc/articles/PMC6250034/)] [[PubMed: 30532777](https://pubmed.ncbi.nlm.nih.gov/30532777)]
+Inácio MD, Rafacho A, de Paula Camaforte NA, Teixeira P, Vareda PMP, Violato NM, Bosqueiro JR. Prevention of Elevation in Plasma Triacylglycerol with High-Dose Bezafibrate Treatment Abolishes Insulin Resistance and Attenuates Glucose Intolerance Induced by Short-Term Treatment with Dexamethasone in Rats. Int J Endocrinol. 2018;2018:3257812. \[[PMC free article: PMC6250034](/pmc/articles/PMC6250034/)\] \[[PubMed: 30532777](https://pubmed.ncbi.nlm.nih.gov/30532777)\]
 
 15.
-    
 
-Gupta KK, Ali S, Sanghera RS. Pharmacological Options in Atherosclerosis: A Review of the Existing Evidence. Cardiol Ther. 2019 Jun;8(1):5-20. [[PMC free article: PMC6525235](/pmc/articles/PMC6525235/)] [[PubMed: 30543029](https://pubmed.ncbi.nlm.nih.gov/30543029)]
-
-    
+Gupta KK, Ali S, Sanghera RS. Pharmacological Options in Atherosclerosis: A Review of the Existing Evidence. Cardiol Ther. 2019 Jun;8(1):5-20. \[[PMC free article: PMC6525235](/pmc/articles/PMC6525235/)\] \[[PubMed: 30543029](https://pubmed.ncbi.nlm.nih.gov/30543029)\]
 
 **Disclosure:** Yasaman Pirahanchi declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Sandeep Sharma declares no relevant financial relationships with ineligible companies.

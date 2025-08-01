@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26081/
-scraped_date: 2025-07-22 12:47:53 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26081/ scraped_date: 2025-07-22 12:47:53 UTC
 
 # Small Bowel Obstruction
 
@@ -31,13 +30,13 @@ Clinicians participating in this course gain a comprehensive understanding of th
 
 **Objectives:**
 
-  * Apply current imaging modalities and strategize a management plan for optimal timing of exploratory surgical procedures to detect the etiology of small bowel obstruction.
+- Apply current imaging modalities and strategize a management plan for optimal timing of exploratory surgical procedures to detect the etiology of small bowel obstruction.
 
-  * Implement evidence-based guidelines for a safe initial nonoperative phase of management while monitoring patients for resolution or worsening to prevent complications of small bowel obstruction.
+- Implement evidence-based guidelines for a safe initial nonoperative phase of management while monitoring patients for resolution or worsening to prevent complications of small bowel obstruction.
 
-  * Differentiate between mechanical and functional causes of small bowel obstruction using clinical, laboratory, and imaging findings.
+- Differentiate between mechanical and functional causes of small bowel obstruction using clinical, laboratory, and imaging findings.
 
-  * Communicate interprofessional team strategies for enhancing care coordination to facilitate rapid diagnosis and management options for patients with small bowel obstruction.
+- Communicate interprofessional team strategies for enhancing care coordination to facilitate rapid diagnosis and management options for patients with small bowel obstruction.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26081&utm_source=pubmed&utm_campaign=reviews&utm_content=26081)
 
@@ -61,7 +60,7 @@ Abdominal wall hernias, external (eg, inguinal or umbilical) and internal, are t
 
 **Malignancies and Tumors**
 
-Malignancy is the third most common cause of SBO after intraabdominal adhesions and hernias.[8] Malignant bowel obstruction, resulting from primary or metastatic cancers, accounts for approximately 5% to 20% of cases.[9] The most common primary small bowel tumors that cause SBO are adenocarcinomas, carcinoid tumors, and gastrointestinal stromal tumors. Metastases to the small intestine are far more common than primary tumors. The small bowel is a frequent site of metastasis, particularly from tumors of the colon, pancreas, ovary, and melanoma. Other tumors involved in SBO are lymphoma, leiomyomas, and desmoid tumors. 
+Malignancy is the third most common cause of SBO after intraabdominal adhesions and hernias.[8] Malignant bowel obstruction, resulting from primary or metastatic cancers, accounts for approximately 5% to 20% of cases.[9] The most common primary small bowel tumors that cause SBO are adenocarcinomas, carcinoid tumors, and gastrointestinal stromal tumors. Metastases to the small intestine are far more common than primary tumors. The small bowel is a frequent site of metastasis, particularly from tumors of the colon, pancreas, ovary, and melanoma. Other tumors involved in SBO are lymphoma, leiomyomas, and desmoid tumors.
 
 **Gallstone Ileus**
 
@@ -105,38 +104,47 @@ SBO results from an interruption in the normal flow of intestinal contents due t
 
 In mechanical SBO, a physical barrier obstructs the bowel lumen, creating a transition point where proximal bowel distention and distal bowel decompression occur. The obstructing lesion prevents the passage of intestinal contents, leading to increased intraluminal pressure proximal to the obstruction. This pressure gradient causes:
 
-  * Proximal bowel distention 
-    * This may induce vomiting as the bowel attempts to relieve pressure.
+- Proximal bowel distention
 
-  * Distal bowel decompression 
-    * This occurs along with inhibition of peristalsis distal to the obstruction, while proximal peristalsis temporarily increases to overcome the blockage.
+  - This may induce vomiting as the bowel attempts to relieve pressure.
+
+- Distal bowel decompression
+
+  - This occurs along with inhibition of peristalsis distal to the obstruction, while proximal peristalsis temporarily increases to overcome the blockage.
 
 Common causes of mechanical obstruction include adhesions, hernias, tumors, strictures, and volvulus.
 
 **Physiological Consequences**
 
-  * Impaired venous flow and bowel wall edema 
-    * As the proximal bowel distends, venous outflow from the bowel wall is compromised, resulting in bowel wall edema and inflammation. These changes can exacerbate luminal narrowing and impair the oxygenation of the bowel tissue.
+- Impaired venous flow and bowel wall edema
 
-  * Third spacing and fluid loss 
-    * Increased bowel wall permeability leads to fluid and electrolyte sequestration into the bowel lumen and third spacing into the peritoneal cavity as ascitic fluid. This fluid loss, coupled with vomiting and decreased oral intake, contributes to dehydration, hypovolemia, and metabolic disturbances.
+  - As the proximal bowel distends, venous outflow from the bowel wall is compromised, resulting in bowel wall edema and inflammation. These changes can exacerbate luminal narrowing and impair the oxygenation of the bowel tissue.
 
-  * Bacterial translocation 
-    * The thickened, inflamed, and ischemic bowel wall becomes more permeable, allowing bacteria, predominantly _Escherichia coli_ , to translocate into the bloodstream or peritoneal cavity. This can result in peritonitis, bacteremia, and systemic infection.
+- Third spacing and fluid loss
 
-  * Ischemia and infarction 
-    * Prolonged obstruction increases intraluminal pressure to a point where arterial blood flow is compromised. This results in ischemia, necrosis, and, if untreated, perforation. Perforation leads to peritonitis, which can progress to sepsis and death.[19]
+  - Increased bowel wall permeability leads to fluid and electrolyte sequestration into the bowel lumen and third spacing into the peritoneal cavity as ascitic fluid. This fluid loss, coupled with vomiting and decreased oral intake, contributes to dehydration, hypovolemia, and metabolic disturbances.
 
-  * Systemic effects 
-    * The combination of fluid loss, bacterial translocation, and ischemia activates a systemic inflammatory response syndrome, increasing the risk of septic shock and multiorgan failure.
+- Bacterial translocation
+
+  - The thickened, inflamed, and ischemic bowel wall becomes more permeable, allowing bacteria, predominantly _Escherichia coli_ , to translocate into the bloodstream or peritoneal cavity. This can result in peritonitis, bacteremia, and systemic infection.
+
+- Ischemia and infarction
+
+  - Prolonged obstruction increases intraluminal pressure to a point where arterial blood flow is compromised. This results in ischemia, necrosis, and, if untreated, perforation. Perforation leads to peritonitis, which can progress to sepsis and death.[19]
+
+- Systemic effects
+
+  - The combination of fluid loss, bacterial translocation, and ischemia activates a systemic inflammatory response syndrome, increasing the risk of septic shock and multiorgan failure.
 
 **Distinction Based on Obstruction Location**
 
-  * Proximal SBO 
-    * Characterized by significant vomiting, minimal abdominal distension, and rapid onset of dehydration and electrolyte imbalances
+- Proximal SBO
 
-  * Distal SBO 
-    * Associated with more pronounced abdominal distension, delayed vomiting, and slower progression of systemic complications
+  - Characterized by significant vomiting, minimal abdominal distension, and rapid onset of dehydration and electrolyte imbalances
+
+- Distal SBO
+
+  - Associated with more pronounced abdominal distension, delayed vomiting, and slower progression of systemic complications
 
 **Functional Obstruction**
 
@@ -174,25 +182,31 @@ The evaluation of SBO involves a combination of laboratory tests, radiographic i
 
 Laboratory testing in SBO primarily assesses the patient's overall health, identifies complications, and helps to monitor for signs of dehydration, electrolyte imbalance, or infection:
 
-  * Complete blood count (CBC) 
-    * A CBC may show leukocytosis, indicating infection or inflammation, which can be seen in strangulated obstruction or peritonitis cases. Anemia may be present in cases of chronic obstruction due to subclinical blood loss or nutritional deficiencies.
+- Complete blood count (CBC)
 
-  * Electrolytes and renal function 
-    * A basic or comprehensive metabolic panel can assess hydration status, electrolyte imbalances (such as hyponatremia, hypokalemia, and metabolic alkalosis), and kidney function. Vomiting, fluid sequestration in the intestines, and third-spacing of fluids can lead to dehydration, which, if severe, may result in prerenal acute kidney injury.
+  - A CBC may show leukocytosis, indicating infection or inflammation, which can be seen in strangulated obstruction or peritonitis cases. Anemia may be present in cases of chronic obstruction due to subclinical blood loss or nutritional deficiencies.
 
-  * Arterial blood gas (ABG) 
-    * An ABG panel
+- Electrolytes and renal function
 
-    * may reveal metabolic alkalosis in prolonged vomiting or bowel ischemia, while lactic acidosis may indicate bowel ischemia or infarction.
+  - A basic or comprehensive metabolic panel can assess hydration status, electrolyte imbalances (such as hyponatremia, hypokalemia, and metabolic alkalosis), and kidney function. Vomiting, fluid sequestration in the intestines, and third-spacing of fluids can lead to dehydration, which, if severe, may result in prerenal acute kidney injury.
 
-  * Lactate levels 
-    * Elevated lactate levels can suggest tissue hypoxia, indicating ischemia or necrosis of the bowel, particularly in the context of strangulated obstruction.
+- Arterial blood gas (ABG)
 
-  * Amylase/lipase 
-    * Although these tests are typically used to evaluate pancreatitis, they may be elevated in cases of SBO if there is associated pancreatic involvement or strangulation of a segment of the small intestine.
+  - An ABG panel
 
-  * Blood cultures 
-    * If there is suspicion of peritonitis or sepsis due to bowel perforation or bacterial translocation, blood cultures may be warranted to guide antibiotic therapy.
+  - may reveal metabolic alkalosis in prolonged vomiting or bowel ischemia, while lactic acidosis may indicate bowel ischemia or infarction.
+
+- Lactate levels
+
+  - Elevated lactate levels can suggest tissue hypoxia, indicating ischemia or necrosis of the bowel, particularly in the context of strangulated obstruction.
+
+- Amylase/lipase
+
+  - Although these tests are typically used to evaluate pancreatitis, they may be elevated in cases of SBO if there is associated pancreatic involvement or strangulation of a segment of the small intestine.
+
+- Blood cultures
+
+  - If there is suspicion of peritonitis or sepsis due to bowel perforation or bacterial translocation, blood cultures may be warranted to guide antibiotic therapy.
 
 **Radiographic Imaging**
 
@@ -202,17 +216,21 @@ Radiologic evaluation is central to confirming the diagnosis of SBO and assessin
 
 The initial imaging study of choice is usually a plain abdominal radiograph (x-ray). This study can reveal characteristic findings such as:
 
-  * Dilated loops of small bowel 
-    * Air-fluid levels are visible on upright images, indicating proximal bowel distention.
+- Dilated loops of small bowel
 
-  * Absence of gas in the colon 
-    * This finding suggests a complete obstruction, especially if the obstruction is distal to the small intestine.
+  - Air-fluid levels are visible on upright images, indicating proximal bowel distention.
 
-  * Step ladder pattern 
-    * This pattern of air-fluid levels in the small intestine can indicate obstruction.
+- Absence of gas in the colon
 
-  * Signs of perforation 
-    * Free air under the diaphragm on an upright chest x-ray suggests perforation.
+  - This finding suggests a complete obstruction, especially if the obstruction is distal to the small intestine.
+
+- Step ladder pattern
+
+  - This pattern of air-fluid levels in the small intestine can indicate obstruction.
+
+- Signs of perforation
+
+  - Free air under the diaphragm on an upright chest x-ray suggests perforation.
 
 Plain radiography has poor sensitivity, with rates ranging from 50% to 80%. While radiography can serve as an initial screening test for detecting air-fluid levels or free air in the abdomen, it does not provide sufficient imaging to identify the cause, extent, or complications of SBO. A small bowel diameter greater than 6 cm is concerning and indicates a severe obstruction that may pose a high risk for compromised viability.
 
@@ -220,37 +238,43 @@ Plain radiography has poor sensitivity, with rates ranging from 50% to 80%. Whil
 
 A CT scan of the abdomen is considered the gold standard for diagnosing SBO. CT scans are more sensitive than x-rays for detecting SBO, particularly in assessing the underlying cause. This study can help differentiate between simple and complicated (strangulated or ischemic) SBO. This imaging can be enhanced using intravenous contrast, provided the patient has normal kidney function and no contraindications. Key findings include:
 
-  * Bowel distention 
-    * This appears similar to that on x-rays but is more detailed and can help quantify the extent.
+- Bowel distention
 
-  * Transition point 
-    * This is the location of the obstruction, which is critical in planning surgical or conservative management.
+  - This appears similar to that on x-rays but is more detailed and can help quantify the extent.
 
-  * Bowel wall thickening 
-    * This finding is suggestive of ischemia, inflammation, or infection.
+- Transition point
 
-  * Mesenteric stranding 
-    * In cases of bowel ischemia or perforation, this can be seen. 
+  - This is the location of the obstruction, which is critical in planning surgical or conservative management.
 
-  * Signs of perforation 
-    * Free air or fluid in the abdomen can indicate perforation.
+- Bowel wall thickening
 
-  * Absence of contrast in bowel 
-    * In cases of a complete obstruction, contrast may not reach beyond the obstruction site.
+  - This finding is suggestive of ischemia, inflammation, or infection.
+
+- Mesenteric stranding
+
+  - In cases of bowel ischemia or perforation, this can be seen.
+
+- Signs of perforation
+
+  - Free air or fluid in the abdomen can indicate perforation.
+
+- Absence of contrast in bowel
+
+  - In cases of a complete obstruction, contrast may not reach beyond the obstruction site.
 
 **Ultrasound**
 
 Although not typically the first choice for diagnosing SBO, abdominal ultrasound can be useful, particularly in children and pregnant women, due to its noninvasive nature. Additionally, ultrasound does not result in radiation exposure and has the benefit of rapid and serial examinations.[24][25] This study can detect bowel distention, peristalsis, and the presence of fluid or air in the bowel, and is often used in cases of suspected bowel perforation or other intraabdominal pathology. The following are pathological findings that can be seen on ultrasound:
 
-  * A dilated small bowel loop measuring more than 3 cm in diameter suggests an obstruction or ileus.
+- A dilated small bowel loop measuring more than 3 cm in diameter suggests an obstruction or ileus.
 
-  * An edematous bowel wall measuring more than 3 mm indicates an obstruction or other intestinal inflammatory cause.
+- An edematous bowel wall measuring more than 3 mm indicates an obstruction or other intestinal inflammatory cause.
 
-  * The noncompressibility of the bowel and the appearance of free fluid suggest obstruction.
+- The noncompressibility of the bowel and the appearance of free fluid suggest obstruction.
 
-  * Anterograde-retrograde peristalsis is specific for obstruction.
+- Anterograde-retrograde peristalsis is specific for obstruction.
 
-  * The visualization of a transition point is specific for obstruction. A transition point on ultrasound is demonstrated by a thick-walled, noncompressible bowel loop adjacent to a loop of decompressed small bowel.[26]
+- The visualization of a transition point is specific for obstruction. A transition point on ultrasound is demonstrated by a thick-walled, noncompressible bowel loop adjacent to a loop of decompressed small bowel.[26]
 
 Ultrasound does not replace a CT scan and should not delay surgical consultation. This study is useful in cases where it can facilitate diagnostic evaluation and rule out other causes.[27]
 
@@ -258,26 +282,31 @@ Ultrasound does not replace a CT scan and should not delay surgical consultation
 
 If the diagnosis remains unclear, a contrast-enhanced study may be performed:
 
-  * Upper gastrointestinal series with small bowel follow-through 
-    * This is useful if there is a suspicion of a partial obstruction or when evaluating the motility of the bowel.
+- Upper gastrointestinal series with small bowel follow-through
 
-  * Barium enema 
-    * This is rarely used in acute SBO but can help visualize obstruction in the colon or ileocecal valve.
+  - This is useful if there is a suspicion of a partial obstruction or when evaluating the motility of the bowel.
+
+- Barium enema
+
+  - This is rarely used in acute SBO but can help visualize obstruction in the colon or ileocecal valve.
 
 **Other Diagnostic Tests**
 
-  * Endoscopy 
-    * In some cases, especially if there is a concern for a nonmechanical cause such as a malignancy, endoscopic evaluation (eg, upper endoscopy or colonoscopy) may be performed. This is particularly useful for evaluating patients suspected of tumors or foreign bodies causing the obstruction.
+- Endoscopy
 
-  * Diagnostic laparoscopy 
-    * In cases where the etiology of the SBO is unclear or there is a suspicion of strangulation, peritonitis, or ischemia, diagnostic laparoscopy may be employed. This minimally invasive operation allows direct visualization of the abdominal cavity, aiding in the diagnosis of the cause and in planning surgical intervention.
+  - In some cases, especially if there is a concern for a nonmechanical cause such as a malignancy, endoscopic evaluation (eg, upper endoscopy or colonoscopy) may be performed. This is particularly useful for evaluating patients suspected of tumors or foreign bodies causing the obstruction.
 
-  * Magnetic resonance imaging (MRI) 
-    * MRI is occasionally used, particularly in special circumstances such as with patients who are pregnant or when CT is contraindicated. This study provides detailed soft tissue imaging and can be useful for detecting complications like ischemia or tumors.
+- Diagnostic laparoscopy
+
+  - In cases where the etiology of the SBO is unclear or there is a suspicion of strangulation, peritonitis, or ischemia, diagnostic laparoscopy may be employed. This minimally invasive operation allows direct visualization of the abdominal cavity, aiding in the diagnosis of the cause and in planning surgical intervention.
+
+- Magnetic resonance imaging (MRI)
+
+  - MRI is occasionally used, particularly in special circumstances such as with patients who are pregnant or when CT is contraindicated. This study provides detailed soft tissue imaging and can be useful for detecting complications like ischemia or tumors.
 
 ## Treatment / Management
 
-The treatment and management of SBO require a multidisciplinary approach that prioritizes early recognition and intervention to optimize patient outcomes. 
+The treatment and management of SBO require a multidisciplinary approach that prioritizes early recognition and intervention to optimize patient outcomes.
 
 **Initial Resuscitation**
 
@@ -319,58 +348,65 @@ Optimal management of SBO relies on collaboration among surgeons, radiologists, 
 
 The differential diagnosis of SBO encompasses a range of conditions that can mimic or contribute to its clinical presentation. Differentiating among these conditions is critical for accurate diagnosis and appropriate management. The primary categories of differential diagnoses include:
 
-  * **Mechanical**
-    * Adhesions
+- **Mechanical**
 
-    * Hernias
+  - Adhesions
 
-    * Neoplasms
+  - Hernias
 
-    * Gallstone ileus
+  - Neoplasms
 
-    * Volvulus
+  - Gallstone ileus
 
-    * Intussusception
+  - Volvulus
 
-    * Foreign bodies
+  - Intussusception
 
-    * Crohn disease
+  - Foreign bodies
 
-  * **Functional**
-    * Postoperative ileus
+  - Crohn disease
 
-    * Ogilvie syndrome
+- **Functional**
 
-    * Neuromuscular disorders
+  - Postoperative ileus
 
-    * Medications
+  - Ogilvie syndrome
 
-  * **Gynecological**
-    * Endometriosis
+  - Neuromuscular disorders
 
-    * Ovarian torsion or masses
+  - Medications
 
-  * **Vascular**
-    * Mesenteric ischemia
+- **Gynecological**
 
-    * Strangulated obstruction
+  - Endometriosis
 
-  * **Metabolic and systemic**
-    * Electrolyte imbalances
+  - Ovarian torsion or masses
 
-    * Diabetes mellitus
+- **Vascular**
 
-  * **Infectious**
-    * Tuberculosis
+  - Mesenteric ischemia
 
-    * Intraabdominal abscesses
+  - Strangulated obstruction
 
-  * **Pediatric-specific**
-    * Malrotation with volvulus
+- **Metabolic and systemic**
 
-    * Meckel diverticulum
+  - Electrolyte imbalances
 
-    * Congenital atresia or stenosis
+  - Diabetes mellitus
+
+- **Infectious**
+
+  - Tuberculosis
+
+  - Intraabdominal abscesses
+
+- **Pediatric-specific**
+
+  - Malrotation with volvulus
+
+  - Meckel diverticulum
+
+  - Congenital atresia or stenosis
 
 ## Surgical Oncology
 
@@ -394,17 +430,21 @@ Complicated SBO, involving bowel strangulation, ischemia, or perforation, carrie
 
 Several factors influence prognosis:
 
-  * Etiology 
-    * Adhesional SBO generally has a better prognosis than obstruction caused by malignancy or inflammatory bowel disease. Malignant bowel obstruction often indicates advanced disease, with limited curative options and a focus on palliative care.
+- Etiology
 
-  * Age and comorbidities 
-    * Elderly patients and those with significant comorbid conditions, such as cardiovascular or respiratory disease, have higher risks of complications and mortality.
+  - Adhesional SBO generally has a better prognosis than obstruction caused by malignancy or inflammatory bowel disease. Malignant bowel obstruction often indicates advanced disease, with limited curative options and a focus on palliative care.
 
-  * Timeliness of treatment 
-    * Delays in diagnosis or intervention can worsen outcomes due to prolonged ischemia, necrosis, or systemic infection.
+- Age and comorbidities
 
-  * Extent of bowel damage 
-    * The need for extensive bowel resection may lead to short bowel syndrome, nutritional deficiencies, and long-term morbidity.
+  - Elderly patients and those with significant comorbid conditions, such as cardiovascular or respiratory disease, have higher risks of complications and mortality.
+
+- Timeliness of treatment
+
+  - Delays in diagnosis or intervention can worsen outcomes due to prolonged ischemia, necrosis, or systemic infection.
+
+- Extent of bowel damage
+
+  - The need for extensive bowel resection may lead to short bowel syndrome, nutritional deficiencies, and long-term morbidity.
 
 **Long-Term Outcomes**
 
@@ -420,36 +460,45 @@ SBO can lead to a range of complications, many of which are life-threatening if 
 
 **Mechanical and Local Complications**
 
-  * Bowel ischemia and strangulation 
-    * Increased intraluminal pressure compromises venous return, leading to bowel wall edema and, eventually, arterial ischemia. Strangulation occurs in approximately 25% of cases, particularly in closed-loop obstructions or hernias, and may result in necrosis, perforation, and gangrene.[38]
+- Bowel ischemia and strangulation
 
-  * Perforation and peritonitis 
-    * Persistent ischemia or bowel necrosis can lead to perforation, spilling luminal contents into the peritoneal cavity and causing bacterial peritonitis. This is a surgical emergency with a high mortality risk.
+  - Increased intraluminal pressure compromises venous return, leading to bowel wall edema and, eventually, arterial ischemia. Strangulation occurs in approximately 25% of cases, particularly in closed-loop obstructions or hernias, and may result in necrosis, perforation, and gangrene.[38]
 
-  * Adhesion formation 
-    * Surgical or inflammatory causes of SBO may result in further adhesion formation, increasing the risk of recurrent obstructions.
+- Perforation and peritonitis
 
-  * Fistula formation 
-    * Chronic obstructions or associated diseases, such as Crohn disease, can lead to abnormal connections between bowel loops or other organs, complicating management.
+  - Persistent ischemia or bowel necrosis can lead to perforation, spilling luminal contents into the peritoneal cavity and causing bacterial peritonitis. This is a surgical emergency with a high mortality risk.
+
+- Adhesion formation
+
+  - Surgical or inflammatory causes of SBO may result in further adhesion formation, increasing the risk of recurrent obstructions.
+
+- Fistula formation
+
+  - Chronic obstructions or associated diseases, such as Crohn disease, can lead to abnormal connections between bowel loops or other organs, complicating management.
 
 **Systemic Complications**
 
-  * Sepsis and multiorgan failure 
-    * Bacterial translocation across ischemic or necrotic bowel walls can lead to bacteremia, septic shock, and multiorgan dysfunction.
+- Sepsis and multiorgan failure
 
-  * Electrolyte imbalance and dehydration 
-    * Fluid sequestration within the bowel and vomiting lead to significant fluid and electrolyte losses, causing hypovolemia, metabolic alkalosis (from vomiting), or acidosis (with bowel ischemia or necrosis).
+  - Bacterial translocation across ischemic or necrotic bowel walls can lead to bacteremia, septic shock, and multiorgan dysfunction.
 
-  * Malnutrition 
-    * Prolonged obstruction, especially in chronic or partial cases, can result in malabsorption, weight loss, and nutritional deficiencies.
+- Electrolyte imbalance and dehydration
+
+  - Fluid sequestration within the bowel and vomiting lead to significant fluid and electrolyte losses, causing hypovolemia, metabolic alkalosis (from vomiting), or acidosis (with bowel ischemia or necrosis).
+
+- Malnutrition
+
+  - Prolonged obstruction, especially in chronic or partial cases, can result in malabsorption, weight loss, and nutritional deficiencies.
 
 **Postsurgical Complications**
 
-  * **Anastomotic leak**
-    * In cases requiring bowel resection, anastomotic leaks may occur, leading to peritonitis or abscess formation.
+- **Anastomotic leak**
 
-  * **Wound infection and dehiscence**
-    * Postoperative infections and delayed wound healing are common complications following surgical intervention for SBO.
+  - In cases requiring bowel resection, anastomotic leaks may occur, leading to peritonitis or abscess formation.
+
+- **Wound infection and dehiscence**
+
+  - Postoperative infections and delayed wound healing are common complications following surgical intervention for SBO.
 
 **Palliative Complications**
 
@@ -479,7 +528,7 @@ Patients recovering from surgery for SBO require specific discharge instructions
 
 Patients with chronic or recurrent SBO may benefit from support groups or counseling to address the physical and emotional challenges of their condition. Educational materials, such as brochures or online resources, empower patients to actively participate in their care and improve their understanding of prevention strategies. Healthcare teams can significantly reduce the risk of severe complications and recurrent SBO by fostering prevention, early symptom recognition, and effective patient-provider communication.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Effective management of SBO requires a collaborative, patient-centered approach that leverages the skills and expertise of an interprofessional healthcare team. Clinicians are central in diagnosing SBO, ordering appropriate imaging, and determining surgical intervention needs. They must communicate clinical findings clearly, as well as anticipated management plans and possible complications, to other team members. Nurses are essential in monitoring patients’ vital signs, fluid balance, and the progression of symptoms, ensuring early detection of complications like ischemia or perforation. They manage nasogastric tube care and educate patients about the condition and its treatment. Pharmacists contribute by optimizing fluid resuscitation, electrolyte replacement, and antimicrobial therapy, particularly when addressing sepsis or preparing for surgical intervention.
 
@@ -487,236 +536,186 @@ Care coordination is pivotal in achieving optimal outcomes for patients with SBO
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26081&utm_source=pubmed&utm_campaign=reviews&utm_content=26081)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26081&utm_source=pubmed&utm_campaign=reviews&utm_content=26081)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/gut-health/small-bowel-obstruction/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26081)
+- [Click here for a simplified version.](https://mdsearchlight.com/gut-health/small-bowel-obstruction/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26081)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26081/?utm_source=pubmed&utm_campaign=comments&utm_content=26081)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26081/?utm_source=pubmed&utm_campaign=comments&utm_content=26081)
 
 ## References
 
 1.
-    
 
-Tong JWV, Lingam P, Shelat VG. Adhesive small bowel obstruction - an update. Acute Med Surg. 2020 Jan-Dec;7(1):e587. [[PMC free article: PMC7642618](/pmc/articles/PMC7642618/)] [[PubMed: 33173587](https://pubmed.ncbi.nlm.nih.gov/33173587)]
+Tong JWV, Lingam P, Shelat VG. Adhesive small bowel obstruction - an update. Acute Med Surg. 2020 Jan-Dec;7(1):e587. \[[PMC free article: PMC7642618](/pmc/articles/PMC7642618/)\] \[[PubMed: 33173587](https://pubmed.ncbi.nlm.nih.gov/33173587)\]
 
 2.
-    
 
-Adejumo AA, Alegbejo-Olarinoye MI, Akims SM, Akanbi OO. Acute Small-bowel Obstruction: An Appraisal of Common Etiology and Management at the Federal Medical Centre, Keffi, North-central Nigeria. Ann Afr Med. 2024 Jul 01;23(3):313-316. [[PMC free article: PMC11364338](/pmc/articles/PMC11364338/)] [[PubMed: 39034552](https://pubmed.ncbi.nlm.nih.gov/39034552)]
+Adejumo AA, Alegbejo-Olarinoye MI, Akims SM, Akanbi OO. Acute Small-bowel Obstruction: An Appraisal of Common Etiology and Management at the Federal Medical Centre, Keffi, North-central Nigeria. Ann Afr Med. 2024 Jul 01;23(3):313-316. \[[PMC free article: PMC11364338](/pmc/articles/PMC11364338/)\] \[[PubMed: 39034552](https://pubmed.ncbi.nlm.nih.gov/39034552)\]
 
 3.
-    
 
-Jang Y, Jung SM, Heo TG, Choi PW, Kim JI, Jung SW, Jun H, Shin YC, Um E. Determining the etiology of small bowel obstruction in patients without intraabdominal operative history: a retrospective study. Ann Coloproctol. 2022 Dec;38(6):423-431. [[PMC free article: PMC9816557](/pmc/articles/PMC9816557/)] [[PubMed: 34875819](https://pubmed.ncbi.nlm.nih.gov/34875819)]
+Jang Y, Jung SM, Heo TG, Choi PW, Kim JI, Jung SW, Jun H, Shin YC, Um E. Determining the etiology of small bowel obstruction in patients without intraabdominal operative history: a retrospective study. Ann Coloproctol. 2022 Dec;38(6):423-431. \[[PMC free article: PMC9816557](/pmc/articles/PMC9816557/)\] \[[PubMed: 34875819](https://pubmed.ncbi.nlm.nih.gov/34875819)\]
 
 4.
-    
 
-Das SS, Krishnan S, Albedwawi MH, Bondok W, Shalak H. Post-appendectomy Adhesive Small Intestine Obstruction With Gangrene: A Sinister Case. Cureus. 2023 May;15(5):e39437. [[PMC free article: PMC10292044](/pmc/articles/PMC10292044/)] [[PubMed: 37378224](https://pubmed.ncbi.nlm.nih.gov/37378224)]
+Das SS, Krishnan S, Albedwawi MH, Bondok W, Shalak H. Post-appendectomy Adhesive Small Intestine Obstruction With Gangrene: A Sinister Case. Cureus. 2023 May;15(5):e39437. \[[PMC free article: PMC10292044](/pmc/articles/PMC10292044/)\] \[[PubMed: 37378224](https://pubmed.ncbi.nlm.nih.gov/37378224)\]
 
 5.
-    
 
-Küçükali B, Gezgin Yıldırım D, Esmeray Şenol P, Yıldız Ç, Karaçayır N, Belder N, Kutlar Tanıdır M, Azzam A, Kapısız A, Bakkaloğlu SA, Söylemezoğlu HO. Adhesive small-bowel obstruction as a challenging complication of familial Mediterranean fever: A case-based review. Int J Rheum Dis. 2024 Jan;27(1):e14867. [[PubMed: 37575017](https://pubmed.ncbi.nlm.nih.gov/37575017)]
+Küçükali B, Gezgin Yıldırım D, Esmeray Şenol P, Yıldız Ç, Karaçayır N, Belder N, Kutlar Tanıdır M, Azzam A, Kapısız A, Bakkaloğlu SA, Söylemezoğlu HO. Adhesive small-bowel obstruction as a challenging complication of familial Mediterranean fever: A case-based review. Int J Rheum Dis. 2024 Jan;27(1):e14867. \[[PubMed: 37575017](https://pubmed.ncbi.nlm.nih.gov/37575017)\]
 
 6.
-    
 
-Gashey EM, Tiruneh SG, Gelaw FW, Tebabel AT, Gelaw LY. Internal hernia through mesoappendix causing small bowel obstruction: A case report. Int J Surg Case Rep. 2024 Dec;125:110590. [[PMC free article: PMC11605386](/pmc/articles/PMC11605386/)] [[PubMed: 39536672](https://pubmed.ncbi.nlm.nih.gov/39536672)]
+Gashey EM, Tiruneh SG, Gelaw FW, Tebabel AT, Gelaw LY. Internal hernia through mesoappendix causing small bowel obstruction: A case report. Int J Surg Case Rep. 2024 Dec;125:110590. \[[PMC free article: PMC11605386](/pmc/articles/PMC11605386/)\] \[[PubMed: 39536672](https://pubmed.ncbi.nlm.nih.gov/39536672)\]
 
 7.
-    
 
-Permekerlis A, Gemousakaki E, Tepelidis C, Fotiadis P. Internal Herniation Causing Double Obstruction of the Small Bowel and Urinary Tract: A Rare Case Presentation. Cureus. 2024 Jul;16(7):e65483. [[PMC free article: PMC11346821](/pmc/articles/PMC11346821/)] [[PubMed: 39188423](https://pubmed.ncbi.nlm.nih.gov/39188423)]
+Permekerlis A, Gemousakaki E, Tepelidis C, Fotiadis P. Internal Herniation Causing Double Obstruction of the Small Bowel and Urinary Tract: A Rare Case Presentation. Cureus. 2024 Jul;16(7):e65483. \[[PMC free article: PMC11346821](/pmc/articles/PMC11346821/)\] \[[PubMed: 39188423](https://pubmed.ncbi.nlm.nih.gov/39188423)\]
 
 8.
-    
 
-Lee MJ, Sayers AE, Drake TM, Marriott PJ, Anderson ID, Bach SP, Bradburn M, Hind D, Verjee A, Fearnhead NS., NASBO steering group and NASBO collaborators. National prospective cohort study of the burden of acute small bowel obstruction. BJS Open. 2019 Jun;3(3):354-366. [[PMC free article: PMC6551410](/pmc/articles/PMC6551410/)] [[PubMed: 31183452](https://pubmed.ncbi.nlm.nih.gov/31183452)]
+Lee MJ, Sayers AE, Drake TM, Marriott PJ, Anderson ID, Bach SP, Bradburn M, Hind D, Verjee A, Fearnhead NS., NASBO steering group and NASBO collaborators. National prospective cohort study of the burden of acute small bowel obstruction. BJS Open. 2019 Jun;3(3):354-366. \[[PMC free article: PMC6551410](/pmc/articles/PMC6551410/)\] \[[PubMed: 31183452](https://pubmed.ncbi.nlm.nih.gov/31183452)\]
 
 9.
-    
 
-Fleites O, Pelenyi SS, Lee CK, Wisnik CA, Tariq A, Abdel-Khalek A, Tiesenga FM. Persistent Small Bowel Obstruction due to Small Bowel Adenocarcinoma: A Case Report. Cureus. 2021 Dec;13(12):e20233. [[PMC free article: PMC8734532](/pmc/articles/PMC8734532/)] [[PubMed: 35004049](https://pubmed.ncbi.nlm.nih.gov/35004049)]
+Fleites O, Pelenyi SS, Lee CK, Wisnik CA, Tariq A, Abdel-Khalek A, Tiesenga FM. Persistent Small Bowel Obstruction due to Small Bowel Adenocarcinoma: A Case Report. Cureus. 2021 Dec;13(12):e20233. \[[PMC free article: PMC8734532](/pmc/articles/PMC8734532/)\] \[[PubMed: 35004049](https://pubmed.ncbi.nlm.nih.gov/35004049)\]
 
 10.
-    
 
-Marie S, Alhejji KA, Bin Gheshayan S, Bin Nafesah S, Al Selaim N. Dual Bowel Obstruction: A Rare Case of Gallstone Ileus and Colonic Adenocarcinoma. Cureus. 2022 Jan;14(1):e21379. [[PMC free article: PMC8853651](/pmc/articles/PMC8853651/)] [[PubMed: 35198291](https://pubmed.ncbi.nlm.nih.gov/35198291)]
+Marie S, Alhejji KA, Bin Gheshayan S, Bin Nafesah S, Al Selaim N. Dual Bowel Obstruction: A Rare Case of Gallstone Ileus and Colonic Adenocarcinoma. Cureus. 2022 Jan;14(1):e21379. \[[PMC free article: PMC8853651](/pmc/articles/PMC8853651/)\] \[[PubMed: 35198291](https://pubmed.ncbi.nlm.nih.gov/35198291)\]
 
 11.
-    
 
-Krielen P, Stommel MWJ, Pargmae P, Bouvy ND, Bakkum EA, Ellis H, Parker MC, Griffiths EA, van Goor H, Ten Broek RPG. Adhesion-related readmissions after open and laparoscopic surgery: a retrospective cohort study (SCAR update). Lancet. 2020 Jan 04;395(10217):33-41. [[PubMed: 31908284](https://pubmed.ncbi.nlm.nih.gov/31908284)]
+Krielen P, Stommel MWJ, Pargmae P, Bouvy ND, Bakkum EA, Ellis H, Parker MC, Griffiths EA, van Goor H, Ten Broek RPG. Adhesion-related readmissions after open and laparoscopic surgery: a retrospective cohort study (SCAR update). Lancet. 2020 Jan 04;395(10217):33-41. \[[PubMed: 31908284](https://pubmed.ncbi.nlm.nih.gov/31908284)\]
 
 12.
-    
 
-Zulqarnain M, Jaber F, Jahagirdar V, Alsakarneh S, Gomez J, Stanton A, Patel N, Beniwal-Patel P, Stein D, Otterson M, Yarur AJ. Predictive Factors of Non-Inflammatory Small Bowel Obstruction After Bowel Resection in Crohn's Patients. Gastroenterology Res. 2024 Apr;17(2):64-71. [[PMC free article: PMC11073459](/pmc/articles/PMC11073459/)] [[PubMed: 38716284](https://pubmed.ncbi.nlm.nih.gov/38716284)]
+Zulqarnain M, Jaber F, Jahagirdar V, Alsakarneh S, Gomez J, Stanton A, Patel N, Beniwal-Patel P, Stein D, Otterson M, Yarur AJ. Predictive Factors of Non-Inflammatory Small Bowel Obstruction After Bowel Resection in Crohn's Patients. Gastroenterology Res. 2024 Apr;17(2):64-71. \[[PMC free article: PMC11073459](/pmc/articles/PMC11073459/)\] \[[PubMed: 38716284](https://pubmed.ncbi.nlm.nih.gov/38716284)\]
 
 13.
-    
 
-Ikeuchi H, Uchino M, Bando T, Horio Y, Kuwahara R, Minagawa T, Goto Y, Kusunoki K, Ikeda M, Beppu N, Takesue Y. Localization of recurrent lesions following ileocolic resection for Crohn's disease. BMC Surg. 2021 Mar 20;21(1):145. [[PMC free article: PMC7980576](/pmc/articles/PMC7980576/)] [[PubMed: 33743665](https://pubmed.ncbi.nlm.nih.gov/33743665)]
+Ikeuchi H, Uchino M, Bando T, Horio Y, Kuwahara R, Minagawa T, Goto Y, Kusunoki K, Ikeda M, Beppu N, Takesue Y. Localization of recurrent lesions following ileocolic resection for Crohn's disease. BMC Surg. 2021 Mar 20;21(1):145. \[[PMC free article: PMC7980576](/pmc/articles/PMC7980576/)\] \[[PubMed: 33743665](https://pubmed.ncbi.nlm.nih.gov/33743665)\]
 
 14.
-    
 
-Ibrahim R, Fadel A, Dika Z. Postcesarean section abdominal wall endometriosis: a rare case report. Ann Med Surg (Lond). 2024 Oct;86(10):6186-6189. [[PMC free article: PMC11444599](/pmc/articles/PMC11444599/)] [[PubMed: 39359781](https://pubmed.ncbi.nlm.nih.gov/39359781)]
+Ibrahim R, Fadel A, Dika Z. Postcesarean section abdominal wall endometriosis: a rare case report. Ann Med Surg (Lond). 2024 Oct;86(10):6186-6189. \[[PMC free article: PMC11444599](/pmc/articles/PMC11444599/)\] \[[PubMed: 39359781](https://pubmed.ncbi.nlm.nih.gov/39359781)\]
 
 15.
-    
 
-Nightingale JMD, Paine P, McLaughlin J, Emmanuel A, Martin JE, Lal S., Small Bowel and Nutrition Committee and the Neurogastroenterology and Motility Committee of the British Society of Gastroenterology. The management of adult patients with severe chronic small intestinal dysmotility. Gut. 2020 Dec;69(12):2074-2092. [[PMC free article: PMC7677490](/pmc/articles/PMC7677490/)] [[PubMed: 32826308](https://pubmed.ncbi.nlm.nih.gov/32826308)]
+Nightingale JMD, Paine P, McLaughlin J, Emmanuel A, Martin JE, Lal S., Small Bowel and Nutrition Committee and the Neurogastroenterology and Motility Committee of the British Society of Gastroenterology. The management of adult patients with severe chronic small intestinal dysmotility. Gut. 2020 Dec;69(12):2074-2092. \[[PMC free article: PMC7677490](/pmc/articles/PMC7677490/)\] \[[PubMed: 32826308](https://pubmed.ncbi.nlm.nih.gov/32826308)\]
 
 16.
-    
 
-Hajimirzaei SH, Abbasi M, Alamdari NM, Besharat S, Farsi Y, Gharib A, Seyyedi MS. Chronic constipation and acute small bowel obstruction due to small bowel encapsulation: A case report. Clin Case Rep. 2023 Dec;11(12):e8144. [[PMC free article: PMC10689288](/pmc/articles/PMC10689288/)] [[PubMed: 38046806](https://pubmed.ncbi.nlm.nih.gov/38046806)]
+Hajimirzaei SH, Abbasi M, Alamdari NM, Besharat S, Farsi Y, Gharib A, Seyyedi MS. Chronic constipation and acute small bowel obstruction due to small bowel encapsulation: A case report. Clin Case Rep. 2023 Dec;11(12):e8144. \[[PMC free article: PMC10689288](/pmc/articles/PMC10689288/)\] \[[PubMed: 38046806](https://pubmed.ncbi.nlm.nih.gov/38046806)\]
 
 17.
-    
 
-Liu M, Cheng F, Liu X, Zheng B, Wang F, Qin C, Ding G, Fu T, Geng L. Diagnosis and surgical management strategy for pediatric small bowel obstruction: Experience from a single medical center. Front Surg. 2023;10:1043470. [[PMC free article: PMC9989272](/pmc/articles/PMC9989272/)] [[PubMed: 36896265](https://pubmed.ncbi.nlm.nih.gov/36896265)]
+Liu M, Cheng F, Liu X, Zheng B, Wang F, Qin C, Ding G, Fu T, Geng L. Diagnosis and surgical management strategy for pediatric small bowel obstruction: Experience from a single medical center. Front Surg. 2023;10:1043470. \[[PMC free article: PMC9989272](/pmc/articles/PMC9989272/)\] \[[PubMed: 36896265](https://pubmed.ncbi.nlm.nih.gov/36896265)\]
 
 18.
-    
 
-Coco D, Leanza S, Fiume I. Small bowel obstruction: a prognostic score index for surgery - a review. Prz Gastroenterol. 2022;17(3):177-182. [[PMC free article: PMC9475473](/pmc/articles/PMC9475473/)] [[PubMed: 36127935](https://pubmed.ncbi.nlm.nih.gov/36127935)]
+Coco D, Leanza S, Fiume I. Small bowel obstruction: a prognostic score index for surgery - a review. Prz Gastroenterol. 2022;17(3):177-182. \[[PMC free article: PMC9475473](/pmc/articles/PMC9475473/)\] \[[PubMed: 36127935](https://pubmed.ncbi.nlm.nih.gov/36127935)\]
 
 19.
-    
 
-Edwards MK, Kuppler CS, Croft CA, Eason-Bates HM. Adhesive Closed-loop Small Bowel Obstruction. Clin Pract Cases Emerg Med. 2018 Feb;2(1):31-34. [[PMC free article: PMC5965135](/pmc/articles/PMC5965135/)] [[PubMed: 29849259](https://pubmed.ncbi.nlm.nih.gov/29849259)]
+Edwards MK, Kuppler CS, Croft CA, Eason-Bates HM. Adhesive Closed-loop Small Bowel Obstruction. Clin Pract Cases Emerg Med. 2018 Feb;2(1):31-34. \[[PMC free article: PMC5965135](/pmc/articles/PMC5965135/)\] \[[PubMed: 29849259](https://pubmed.ncbi.nlm.nih.gov/29849259)\]
 
 20.
-    
 
-Kai Y. Intestinal villus structure contributes to even shedding of epithelial cells. Biophys J. 2021 Feb 16;120(4):699-710. [[PMC free article: PMC7896031](/pmc/articles/PMC7896031/)] [[PubMed: 33453270](https://pubmed.ncbi.nlm.nih.gov/33453270)]
+Kai Y. Intestinal villus structure contributes to even shedding of epithelial cells. Biophys J. 2021 Feb 16;120(4):699-710. \[[PMC free article: PMC7896031](/pmc/articles/PMC7896031/)\] \[[PubMed: 33453270](https://pubmed.ncbi.nlm.nih.gov/33453270)\]
 
 21.
-    
 
-Mayow AH, Singh J, Edah E, Tiesenga F. Management of Complex Small Bowel Obstructions of Various Etiologies: A Case Series and Literature Review. Cureus. 2024 Sep;16(9):e69487. [[PMC free article: PMC11480459](/pmc/articles/PMC11480459/)] [[PubMed: 39416546](https://pubmed.ncbi.nlm.nih.gov/39416546)]
+Mayow AH, Singh J, Edah E, Tiesenga F. Management of Complex Small Bowel Obstructions of Various Etiologies: A Case Series and Literature Review. Cureus. 2024 Sep;16(9):e69487. \[[PMC free article: PMC11480459](/pmc/articles/PMC11480459/)\] \[[PubMed: 39416546](https://pubmed.ncbi.nlm.nih.gov/39416546)\]
 
 22.
-    
 
-Long B, Robertson J, Koyfman A. Emergency Medicine Evaluation and Management of Small Bowel Obstruction: Evidence-Based Recommendations. J Emerg Med. 2019 Feb;56(2):166-176. [[PubMed: 30527563](https://pubmed.ncbi.nlm.nih.gov/30527563)]
+Long B, Robertson J, Koyfman A. Emergency Medicine Evaluation and Management of Small Bowel Obstruction: Evidence-Based Recommendations. J Emerg Med. 2019 Feb;56(2):166-176. \[[PubMed: 30527563](https://pubmed.ncbi.nlm.nih.gov/30527563)\]
 
 23.
-    
 
-Rami Reddy SR, Cappell MS. A Systematic Review of the Clinical Presentation, Diagnosis, and Treatment of Small Bowel Obstruction. Curr Gastroenterol Rep. 2017 Jun;19(6):28. [[PubMed: 28439845](https://pubmed.ncbi.nlm.nih.gov/28439845)]
+Rami Reddy SR, Cappell MS. A Systematic Review of the Clinical Presentation, Diagnosis, and Treatment of Small Bowel Obstruction. Curr Gastroenterol Rep. 2017 Jun;19(6):28. \[[PubMed: 28439845](https://pubmed.ncbi.nlm.nih.gov/28439845)\]
 
 24.
-    
 
-Linden AF, Raiji MT, Kohler JE, Carlisle EM, Pelayo JC, Feinstein K, Kandel JJ, Mak GZ. Evaluation of a water-soluble contrast protocol for nonoperative management of pediatric adhesive small bowel obstruction. J Pediatr Surg. 2019 Jan;54(1):184-188. [[PubMed: 30414689](https://pubmed.ncbi.nlm.nih.gov/30414689)]
+Linden AF, Raiji MT, Kohler JE, Carlisle EM, Pelayo JC, Feinstein K, Kandel JJ, Mak GZ. Evaluation of a water-soluble contrast protocol for nonoperative management of pediatric adhesive small bowel obstruction. J Pediatr Surg. 2019 Jan;54(1):184-188. \[[PubMed: 30414689](https://pubmed.ncbi.nlm.nih.gov/30414689)\]
 
 25.
-    
 
-Behman R, Nathens AB, Look Hong N, Pechlivanoglou P, Karanicolas PJ. Evolving Management Strategies in Patients with Adhesive Small Bowel Obstruction: a Population-Based Analysis. J Gastrointest Surg. 2018 Dec;22(12):2133-2141. [[PubMed: 30051307](https://pubmed.ncbi.nlm.nih.gov/30051307)]
+Behman R, Nathens AB, Look Hong N, Pechlivanoglou P, Karanicolas PJ. Evolving Management Strategies in Patients with Adhesive Small Bowel Obstruction: a Population-Based Analysis. J Gastrointest Surg. 2018 Dec;22(12):2133-2141. \[[PubMed: 30051307](https://pubmed.ncbi.nlm.nih.gov/30051307)\]
 
 26.
-    
 
-Shokoohi H, Boniface KS, Loesche MA, Duggan NM, King JB. Development of a nomogram to predict small bowel obstruction using point-of-care ultrasound in the emergency department. Am J Emerg Med. 2020 Nov;38(11):2356-2360. [[PubMed: 31864865](https://pubmed.ncbi.nlm.nih.gov/31864865)]
+Shokoohi H, Boniface KS, Loesche MA, Duggan NM, King JB. Development of a nomogram to predict small bowel obstruction using point-of-care ultrasound in the emergency department. Am J Emerg Med. 2020 Nov;38(11):2356-2360. \[[PubMed: 31864865](https://pubmed.ncbi.nlm.nih.gov/31864865)\]
 
 27.
-    
 
-Al Ali M, Jabbour S, Alrajaby S. ACUTE ABDOMEN systemic sonographic approach to acute abdomen in emergency department: a case series. Ultrasound J. 2019 Sep 23;11(1):22. [[PMC free article: PMC6755127](/pmc/articles/PMC6755127/)] [[PubMed: 31544223](https://pubmed.ncbi.nlm.nih.gov/31544223)]
+Al Ali M, Jabbour S, Alrajaby S. ACUTE ABDOMEN systemic sonographic approach to acute abdomen in emergency department: a case series. Ultrasound J. 2019 Sep 23;11(1):22. \[[PMC free article: PMC6755127](/pmc/articles/PMC6755127/)\] \[[PubMed: 31544223](https://pubmed.ncbi.nlm.nih.gov/31544223)\]
 
 28.
-    
 
-Ozturk E, van Iersel M, Stommel MM, Schoon Y, Ten Broek RR, van Goor H. Small bowel obstruction in the elderly: a plea for comprehensive acute geriatric care. World J Emerg Surg. 2018;13:48. [[PMC free article: PMC6196030](/pmc/articles/PMC6196030/)] [[PubMed: 30377439](https://pubmed.ncbi.nlm.nih.gov/30377439)]
+Ozturk E, van Iersel M, Stommel MM, Schoon Y, Ten Broek RR, van Goor H. Small bowel obstruction in the elderly: a plea for comprehensive acute geriatric care. World J Emerg Surg. 2018;13:48. \[[PMC free article: PMC6196030](/pmc/articles/PMC6196030/)\] \[[PubMed: 30377439](https://pubmed.ncbi.nlm.nih.gov/30377439)\]
 
 29.
-    
 
-Tang L, Zhao P, Kong D. The risk factors for benign small bowel obstruction following curative resection in patients with rectal cancer. World J Surg Oncol. 2018 Oct 22;16(1):212. [[PMC free article: PMC6198517](/pmc/articles/PMC6198517/)] [[PubMed: 30348158](https://pubmed.ncbi.nlm.nih.gov/30348158)]
+Tang L, Zhao P, Kong D. The risk factors for benign small bowel obstruction following curative resection in patients with rectal cancer. World J Surg Oncol. 2018 Oct 22;16(1):212. \[[PMC free article: PMC6198517](/pmc/articles/PMC6198517/)\] \[[PubMed: 30348158](https://pubmed.ncbi.nlm.nih.gov/30348158)\]
 
 30.
-    
 
-Bower KL, Lollar DI, Williams SL, Adkins FC, Luyimbazi DT, Bower CE. Small Bowel Obstruction. Surg Clin North Am. 2018 Oct;98(5):945-971. [[PubMed: 30243455](https://pubmed.ncbi.nlm.nih.gov/30243455)]
+Bower KL, Lollar DI, Williams SL, Adkins FC, Luyimbazi DT, Bower CE. Small Bowel Obstruction. Surg Clin North Am. 2018 Oct;98(5):945-971. \[[PubMed: 30243455](https://pubmed.ncbi.nlm.nih.gov/30243455)\]
 
 31.
-    
 
-Behman R, Nathens AB, Karanicolas PJ. Laparoscopic Surgery for Small Bowel Obstruction: Is It Safe? Adv Surg. 2018 Sep;52(1):15-27. [[PubMed: 30098610](https://pubmed.ncbi.nlm.nih.gov/30098610)]
+Behman R, Nathens AB, Karanicolas PJ. Laparoscopic Surgery for Small Bowel Obstruction: Is It Safe? Adv Surg. 2018 Sep;52(1):15-27. \[[PubMed: 30098610](https://pubmed.ncbi.nlm.nih.gov/30098610)\]
 
 32.
-    
 
-Iryivuze O, Mohamed YA, Haile YM. Band adhesions in a virgin abdomen: A case report. Int J Surg Case Rep. 2024 Nov;124:110427. [[PMC free article: PMC11563158](/pmc/articles/PMC11563158/)] [[PubMed: 39405762](https://pubmed.ncbi.nlm.nih.gov/39405762)]
+Iryivuze O, Mohamed YA, Haile YM. Band adhesions in a virgin abdomen: A case report. Int J Surg Case Rep. 2024 Nov;124:110427. \[[PMC free article: PMC11563158](/pmc/articles/PMC11563158/)\] \[[PubMed: 39405762](https://pubmed.ncbi.nlm.nih.gov/39405762)\]
 
 33.
-    
 
-Bala M, Catena F, Kashuk J, De Simone B, Gomes CA, Weber D, Sartelli M, Coccolini F, Kluger Y, Abu-Zidan FM, Picetti E, Ansaloni L, Augustin G, Biffl WL, Ceresoli M, Chiara O, Chiarugi M, Coimbra R, Cui Y, Damaskos D, Di Saverio S, Galante JM, Khokha V, Kirkpatrick AW, Inaba K, Leppäniemi A, Litvin A, Peitzman AB, Shelat VG, Sugrue M, Tolonen M, Rizoli S, Sall I, Beka SG, Di Carlo I, Ten Broek R, Mircea C, Tebala G, Pisano M, van Goor H, Maier RV, Jeekel H, Civil I, Hecker A, Tan E, Soreide K, Lee MJ, Wani I, Bonavina L, Malangoni MA, Koike K, Velmahos GC, Fraga GP, Fette A, de'Angelis N, Balogh ZJ, Scalea TM, Sganga G, Kelly MD, Khan J, Stahel PF, Moore EE. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg. 2022 Oct 19;17(1):54. [[PMC free article: PMC9580452](/pmc/articles/PMC9580452/)] [[PubMed: 36261857](https://pubmed.ncbi.nlm.nih.gov/36261857)]
+Bala M, Catena F, Kashuk J, De Simone B, Gomes CA, Weber D, Sartelli M, Coccolini F, Kluger Y, Abu-Zidan FM, Picetti E, Ansaloni L, Augustin G, Biffl WL, Ceresoli M, Chiara O, Chiarugi M, Coimbra R, Cui Y, Damaskos D, Di Saverio S, Galante JM, Khokha V, Kirkpatrick AW, Inaba K, Leppäniemi A, Litvin A, Peitzman AB, Shelat VG, Sugrue M, Tolonen M, Rizoli S, Sall I, Beka SG, Di Carlo I, Ten Broek R, Mircea C, Tebala G, Pisano M, van Goor H, Maier RV, Jeekel H, Civil I, Hecker A, Tan E, Soreide K, Lee MJ, Wani I, Bonavina L, Malangoni MA, Koike K, Velmahos GC, Fraga GP, Fette A, de'Angelis N, Balogh ZJ, Scalea TM, Sganga G, Kelly MD, Khan J, Stahel PF, Moore EE. Acute mesenteric ischemia: updated guidelines of the World Society of Emergency Surgery. World J Emerg Surg. 2022 Oct 19;17(1):54. \[[PMC free article: PMC9580452](/pmc/articles/PMC9580452/)\] \[[PubMed: 36261857](https://pubmed.ncbi.nlm.nih.gov/36261857)\]
 
 34.
-    
 
-Pearl JP, Rosen MJ. Second-look laparoscopy after laparoscopic relief of strangulated small bowel obstruction. Surg Laparosc Endosc Percutan Tech. 2009 Jun;19(3):241-3. [[PubMed: 19542854](https://pubmed.ncbi.nlm.nih.gov/19542854)]
+Pearl JP, Rosen MJ. Second-look laparoscopy after laparoscopic relief of strangulated small bowel obstruction. Surg Laparosc Endosc Percutan Tech. 2009 Jun;19(3):241-3. \[[PubMed: 19542854](https://pubmed.ncbi.nlm.nih.gov/19542854)\]
 
 35.
-    
 
-Mercadante S. Management of malignant bowel obstruction. Lancet Gastroenterol Hepatol. 2024 Jan;9(1):14. [[PubMed: 38070515](https://pubmed.ncbi.nlm.nih.gov/38070515)]
+Mercadante S. Management of malignant bowel obstruction. Lancet Gastroenterol Hepatol. 2024 Jan;9(1):14. \[[PubMed: 38070515](https://pubmed.ncbi.nlm.nih.gov/38070515)\]
 
 36.
-    
 
-Tuca A, Guell E, Martinez-Losada E, Codorniu N. Malignant bowel obstruction in advanced cancer patients: epidemiology, management, and factors influencing spontaneous resolution. Cancer Manag Res. 2012;4:159-69. [[PMC free article: PMC3421464](/pmc/articles/PMC3421464/)] [[PubMed: 22904637](https://pubmed.ncbi.nlm.nih.gov/22904637)]
+Tuca A, Guell E, Martinez-Losada E, Codorniu N. Malignant bowel obstruction in advanced cancer patients: epidemiology, management, and factors influencing spontaneous resolution. Cancer Manag Res. 2012;4:159-69. \[[PMC free article: PMC3421464](/pmc/articles/PMC3421464/)\] \[[PubMed: 22904637](https://pubmed.ncbi.nlm.nih.gov/22904637)\]
 
 37.
-    
 
-Behman R, Nathens AB, Mason S, Byrne JP, Hong NL, Pechlivanoglou P, Karanicolas P. Association of Surgical Intervention for Adhesive Small-Bowel Obstruction With the Risk of Recurrence. JAMA Surg. 2019 May 01;154(5):413-420. [[PMC free article: PMC6537786](/pmc/articles/PMC6537786/)] [[PubMed: 30698610](https://pubmed.ncbi.nlm.nih.gov/30698610)]
+Behman R, Nathens AB, Mason S, Byrne JP, Hong NL, Pechlivanoglou P, Karanicolas P. Association of Surgical Intervention for Adhesive Small-Bowel Obstruction With the Risk of Recurrence. JAMA Surg. 2019 May 01;154(5):413-420. \[[PMC free article: PMC6537786](/pmc/articles/PMC6537786/)\] \[[PubMed: 30698610](https://pubmed.ncbi.nlm.nih.gov/30698610)\]
 
 38.
-    
 
-Baiu I, Hawn MT. Small Bowel Obstruction. JAMA. 2018 May 22;319(20):2146. [[PubMed: 29800183](https://pubmed.ncbi.nlm.nih.gov/29800183)]
+Baiu I, Hawn MT. Small Bowel Obstruction. JAMA. 2018 May 22;319(20):2146. \[[PubMed: 29800183](https://pubmed.ncbi.nlm.nih.gov/29800183)\]
 
 39.
-    
 
-Burneikis D, Stocchi L, Steiger E, Jezerski D, Shawki S. Parenteral Nutrition Instead of Early Reoperation in the Management of Early Postoperative Small Bowel Obstruction. J Gastrointest Surg. 2020 Jan;24(1):109-114. [[PubMed: 31452077](https://pubmed.ncbi.nlm.nih.gov/31452077)]
+Burneikis D, Stocchi L, Steiger E, Jezerski D, Shawki S. Parenteral Nutrition Instead of Early Reoperation in the Management of Early Postoperative Small Bowel Obstruction. J Gastrointest Surg. 2020 Jan;24(1):109-114. \[[PubMed: 31452077](https://pubmed.ncbi.nlm.nih.gov/31452077)\]
 
 40.
-    
 
-Muff JL, Sokolovski F, Walsh-Korb Z, Choudhury RA, Dunn JCY, Holland-Cunz SG, Vuille-Dit-Bille RN. Surgical Treatment of Short Bowel Syndrome-The Past, the Present and the Future, a Descriptive Review of the Literature. Children (Basel). 2022 Jul 10;9(7) [[PMC free article: PMC9322125](/pmc/articles/PMC9322125/)] [[PubMed: 35884008](https://pubmed.ncbi.nlm.nih.gov/35884008)]
+Muff JL, Sokolovski F, Walsh-Korb Z, Choudhury RA, Dunn JCY, Holland-Cunz SG, Vuille-Dit-Bille RN. Surgical Treatment of Short Bowel Syndrome-The Past, the Present and the Future, a Descriptive Review of the Literature. Children (Basel). 2022 Jul 10;9(7) \[[PMC free article: PMC9322125](/pmc/articles/PMC9322125/)\] \[[PubMed: 35884008](https://pubmed.ncbi.nlm.nih.gov/35884008)\]
 
 41.
-    
 
-Dong XW, Huang SL, Jiang ZH, Song YF, Zhang XS. Nasointestinal tubes versus nasogastric tubes in the management of small-bowel obstruction: A meta-analysis. Medicine (Baltimore). 2018 Sep;97(36):e12175. [[PMC free article: PMC6133588](/pmc/articles/PMC6133588/)] [[PubMed: 30200119](https://pubmed.ncbi.nlm.nih.gov/30200119)]
+Dong XW, Huang SL, Jiang ZH, Song YF, Zhang XS. Nasointestinal tubes versus nasogastric tubes in the management of small-bowel obstruction: A meta-analysis. Medicine (Baltimore). 2018 Sep;97(36):e12175. \[[PMC free article: PMC6133588](/pmc/articles/PMC6133588/)\] \[[PubMed: 30200119](https://pubmed.ncbi.nlm.nih.gov/30200119)\]
 
 42.
-    
 
-Trevino CM, VandeWater T, Webb TP. Implementation of an adhesive small bowel obstruction protocol using low-osmolar water soluble contrast and the impact on patient outcomes. Am J Surg. 2019 Apr;217(4):689-693. [[PubMed: 30213382](https://pubmed.ncbi.nlm.nih.gov/30213382)]
-
-    
+Trevino CM, VandeWater T, Webb TP. Implementation of an adhesive small bowel obstruction protocol using low-osmolar water soluble contrast and the impact on patient outcomes. Am J Surg. 2019 Apr;217(4):689-693. \[[PubMed: 30213382](https://pubmed.ncbi.nlm.nih.gov/30213382)\]
 
 **Disclosure:** Michael Schick declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Sarang Kashyap declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Sara Collier declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Marcelle Meseeha declares no relevant financial relationships with ineligible companies.

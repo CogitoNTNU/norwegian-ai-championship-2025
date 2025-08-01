@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18093/
-scraped_date: 2025-07-22 12:50:29 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18093/ scraped_date: 2025-07-22 12:50:29 UTC
 
 # Bacteremia
 
@@ -27,13 +26,13 @@ Bacteremia, in the strictest sense, refers to viable bacteria in the blood. Asym
 
 **Objectives:**
 
-  * Identify the etiology of bacteremia.
+- Identify the etiology of bacteremia.
 
-  * Outline the workup of a patient with bacteremia.
+- Outline the workup of a patient with bacteremia.
 
-  * Review the treatment and management options available for bacteremia.
+- Review the treatment and management options available for bacteremia.
 
-  * Explain the interprofessional team strategies for improving care coordination and communication regarding the management of patients with bacteremia.
+- Explain the interprofessional team strategies for improving care coordination and communication regarding the management of patients with bacteremia.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18093&utm_source=pubmed&utm_campaign=reviews&utm_content=18093)
 
@@ -67,49 +66,49 @@ Bacteremia requires urgent and appropriate antibiotics. Delay in the administrat
 
 ## Differential Diagnosis
 
-  * Acute prostatitis / abscess
+- Acute prostatitis / abscess
 
-  * Community-acquired pneumonia (with asplenia)
+- Community-acquired pneumonia (with asplenia)
 
-  * Deep neck space infection abscess
+- Deep neck space infection abscess
 
-  * Empyema
+- Empyema
 
-  * Instrumentation in patients with bacteriuria
+- Instrumentation in patients with bacteriuria
 
-  * Intra- or perinephric abscess
+- Intra- or perinephric abscess
 
-  * Lung abscess
+- Lung abscess
 
-  * Peritonitis abscess
+- Peritonitis abscess
 
-  * Pyelonephritis
+- Pyelonephritis
 
-  * Renal calculi
+- Renal calculi
 
-  * Renal insufficiency
+- Renal insufficiency
 
-  * Urinary tract obstruction
+- Urinary tract obstruction
 
 ## Complications
 
-  * Meningitis
+- Meningitis
 
-  * Endocarditis
+- Endocarditis
 
-  * Osteomyelitis
+- Osteomyelitis
 
-  * Sepsis
+- Sepsis
 
-  * Cellulitis
+- Cellulitis
 
-  * Peritonitis
+- Peritonitis
 
 ## Consultations
 
 Infectious disease consultation is usually indicated.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 As with most infectious diseases, preventive practice is critical in the outpatient and inpatient setting. All healthcare workers play an important role in the prevention of bacterial infections in the workplace. At the most rudimentary level, basic hand hygiene and the adherence to clean and sterile techniques are critical in preventing and decreasing the prevalence of bloodstream infections. Preventative practice starts not only at the beginning of a procedure but also throughout daily maintenance of line care. Even with strict adherence to infection control, many patients will succumb to a bloodstream infection. Recognizing the predominant organisms associated with each clinical setting can prevent mortality as bloodstream pathogens such as _S. aureus_ , _Pseudomonas aeruginosa_ , and _Enterobacter_ species are associated with a higher mortality rate. Prevention also includes the judicious use of antibiotics, which must take into effect the risk and reward of antibiotic use. The rising prevalence of multi-drug-resistant bacteria has complicated treatment over the years and will continue to do so. This rise makes education, prevention, and adherence to protocol a necessity to counter the debilitating effects of bloodstream infections. Patient isolation, preventing airborne, and contact infections are also key factors that must be controlled. Today, all healthcare facilities have an infectious disease committee that oversees the use of antibiotics, prescribing habits of healthcare providers, and ensures that invasive and other bedside procedures are done under sterile conditions. The key to lowering the morbidity of bacteremia is the education of the healthcare provider. an interprofessional team consisting of physicians, nurse practitioners, specialty care nurses, and pharmacists will improve outcomes. Pharmacists evaluate drug selection, doses, and interactions. Critical care and medical-surgical nurses administer treatments, monitor patients, and are crucial in the notification of the team as to changes in status. Infection control nurses often follow up to ensure the quality of care. [3][14][15][Level V]
 
@@ -119,108 +118,86 @@ Patients with bacteremia who are treated with antibiotics or observed have good 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18093&utm_source=pubmed&utm_campaign=reviews&utm_content=18093)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18093&utm_source=pubmed&utm_campaign=reviews&utm_content=18093)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/health/bacteremia-bloodstream-bacteria/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18093)
+- [Click here for a simplified version.](https://mdsearchlight.com/health/bacteremia-bloodstream-bacteria/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18093)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18093/?utm_source=pubmed&utm_campaign=comments&utm_content=18093)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18093/?utm_source=pubmed&utm_campaign=comments&utm_content=18093)
 
 ## References
 
 1.
-    
 
-Butler-Laporte G, De L'Étoile-Morel S, Cheng MP, McDonald EG, Lee TC. MRSA colonization status as a predictor of clinical infection: A systematic review and meta-analysis. J Infect. 2018 Dec;77(6):489-495. [[PubMed: 30102944](https://pubmed.ncbi.nlm.nih.gov/30102944)]
+Butler-Laporte G, De L'Étoile-Morel S, Cheng MP, McDonald EG, Lee TC. MRSA colonization status as a predictor of clinical infection: A systematic review and meta-analysis. J Infect. 2018 Dec;77(6):489-495. \[[PubMed: 30102944](https://pubmed.ncbi.nlm.nih.gov/30102944)\]
 
 2.
-    
 
-Dagasso G, Conley J, Parfitt E, Pasquill K, Steele L, Laupland K. Risk factors associated with bloodstream infections in end-stage renal disease patients: a population-based study. Infect Dis (Lond). 2018 Nov-Dec;50(11-12):831-836. [[PubMed: 30156131](https://pubmed.ncbi.nlm.nih.gov/30156131)]
+Dagasso G, Conley J, Parfitt E, Pasquill K, Steele L, Laupland K. Risk factors associated with bloodstream infections in end-stage renal disease patients: a population-based study. Infect Dis (Lond). 2018 Nov-Dec;50(11-12):831-836. \[[PubMed: 30156131](https://pubmed.ncbi.nlm.nih.gov/30156131)\]
 
 3.
-    
 
-Arcens M, Stirnemann J, Mayor G, John G. [Epidemiology and strategy to prevent urinary catheters related complications]. Rev Med Suisse. 2018 Aug 29;14(616):1518-1521. [[PubMed: 30156786](https://pubmed.ncbi.nlm.nih.gov/30156786)]
+Arcens M, Stirnemann J, Mayor G, John G. [Epidemiology and strategy to prevent urinary catheters related complications]. Rev Med Suisse. 2018 Aug 29;14(616):1518-1521. \[[PubMed: 30156786](https://pubmed.ncbi.nlm.nih.gov/30156786)\]
 
 4.
-    
 
-Munro APS, Blyth CC, Campbell AJ, Bowen AC. Infection characteristics and treatment of Staphylococcus aureus bacteraemia at a tertiary children's hospital. BMC Infect Dis. 2018 Aug 10;18(1):387. [[PMC free article: PMC6086073](/pmc/articles/PMC6086073/)] [[PubMed: 30097020](https://pubmed.ncbi.nlm.nih.gov/30097020)]
+Munro APS, Blyth CC, Campbell AJ, Bowen AC. Infection characteristics and treatment of Staphylococcus aureus bacteraemia at a tertiary children's hospital. BMC Infect Dis. 2018 Aug 10;18(1):387. \[[PMC free article: PMC6086073](/pmc/articles/PMC6086073/)\] \[[PubMed: 30097020](https://pubmed.ncbi.nlm.nih.gov/30097020)\]
 
 5.
-    
 
-Antonio M, Gudiol C, Royo-Cebrecos C, Grillo S, Ardanuy C, Carratalà J. Current etiology, clinical features and outcomes of bacteremia in older patients with solid tumors. J Geriatr Oncol. 2019 Mar;10(2):246-251. [[PubMed: 30005979](https://pubmed.ncbi.nlm.nih.gov/30005979)]
+Antonio M, Gudiol C, Royo-Cebrecos C, Grillo S, Ardanuy C, Carratalà J. Current etiology, clinical features and outcomes of bacteremia in older patients with solid tumors. J Geriatr Oncol. 2019 Mar;10(2):246-251. \[[PubMed: 30005979](https://pubmed.ncbi.nlm.nih.gov/30005979)\]
 
 6.
-    
 
-Woll C, Neuman MI, Pruitt CM, Wang ME, Shapiro ED, Shah SS, McCulloh RJ, Nigrovic LE, Desai S, DePorre AG, Leazer RC, Marble RD, Balamuth F, Feldman EA, Sartori LF, Browning WL, Aronson PL., Febrile Young Infant Research Collaborative. Epidemiology and Etiology of Invasive Bacterial Infection in Infants ≤60 Days Old Treated in Emergency Departments. J Pediatr. 2018 Sep;200:210-217.e1. [[PMC free article: PMC6109608](/pmc/articles/PMC6109608/)] [[PubMed: 29784512](https://pubmed.ncbi.nlm.nih.gov/29784512)]
+Woll C, Neuman MI, Pruitt CM, Wang ME, Shapiro ED, Shah SS, McCulloh RJ, Nigrovic LE, Desai S, DePorre AG, Leazer RC, Marble RD, Balamuth F, Feldman EA, Sartori LF, Browning WL, Aronson PL., Febrile Young Infant Research Collaborative. Epidemiology and Etiology of Invasive Bacterial Infection in Infants ≤60 Days Old Treated in Emergency Departments. J Pediatr. 2018 Sep;200:210-217.e1. \[[PMC free article: PMC6109608](/pmc/articles/PMC6109608/)\] \[[PubMed: 29784512](https://pubmed.ncbi.nlm.nih.gov/29784512)\]
 
 7.
-    
 
-Lishman H, Costelloe C, Hopkins S, Johnson AP, Hope R, Guy R, Muller-Pebody B, Holmes A, Aylin P. Exploring the relationship between primary care antibiotic prescribing for urinary tract infections, Escherichia coli bacteraemia incidence and antimicrobial resistance: an ecological study. Int J Antimicrob Agents. 2018 Dec;52(6):790-798. [[PubMed: 30145249](https://pubmed.ncbi.nlm.nih.gov/30145249)]
+Lishman H, Costelloe C, Hopkins S, Johnson AP, Hope R, Guy R, Muller-Pebody B, Holmes A, Aylin P. Exploring the relationship between primary care antibiotic prescribing for urinary tract infections, Escherichia coli bacteraemia incidence and antimicrobial resistance: an ecological study. Int J Antimicrob Agents. 2018 Dec;52(6):790-798. \[[PubMed: 30145249](https://pubmed.ncbi.nlm.nih.gov/30145249)\]
 
 8.
-    
 
-Dierig A, Berger C, Agyeman PKA, Bernhard-Stirnemann S, Giannoni E, Stocker M, Posfay-Barbe KM, Niederer-Loher A, Kahlert CR, Donas A, Hasters P, Relly C, Riedel T, Aebi C, Schlapbach LJ, Heininger U., Swiss Pediatric Sepsis Study. Time-to-Positivity of Blood Cultures in Children With Sepsis. Front Pediatr. 2018;6:222. [[PMC free article: PMC6092514](/pmc/articles/PMC6092514/)] [[PubMed: 30135859](https://pubmed.ncbi.nlm.nih.gov/30135859)]
+Dierig A, Berger C, Agyeman PKA, Bernhard-Stirnemann S, Giannoni E, Stocker M, Posfay-Barbe KM, Niederer-Loher A, Kahlert CR, Donas A, Hasters P, Relly C, Riedel T, Aebi C, Schlapbach LJ, Heininger U., Swiss Pediatric Sepsis Study. Time-to-Positivity of Blood Cultures in Children With Sepsis. Front Pediatr. 2018;6:222. \[[PMC free article: PMC6092514](/pmc/articles/PMC6092514/)\] \[[PubMed: 30135859](https://pubmed.ncbi.nlm.nih.gov/30135859)\]
 
 9.
-    
 
-Libertin CR, Sacco KA, Peterson JH. Education and coaching to optimise blood culture volumes: continuous quality improvement in microbiology. BMJ Open Qual. 2018;7(3):e000228. [[PMC free article: PMC6059330](/pmc/articles/PMC6059330/)] [[PubMed: 30057953](https://pubmed.ncbi.nlm.nih.gov/30057953)]
+Libertin CR, Sacco KA, Peterson JH. Education and coaching to optimise blood culture volumes: continuous quality improvement in microbiology. BMJ Open Qual. 2018;7(3):e000228. \[[PMC free article: PMC6059330](/pmc/articles/PMC6059330/)\] \[[PubMed: 30057953](https://pubmed.ncbi.nlm.nih.gov/30057953)\]
 
 10.
-    
 
-Kelly RS, Lasky-Su J, Yeung SJ, Stone RM, Caterino JM, Hagan SC, Lyman GH, Baden LR, Glotzbecker BE, Coyne CJ, Baugh CW, Pallin DJ. Integrative omics to detect bacteremia in patients with febrile neutropenia. PLoS One. 2018;13(5):e0197049. [[PMC free article: PMC5955575](/pmc/articles/PMC5955575/)] [[PubMed: 29768470](https://pubmed.ncbi.nlm.nih.gov/29768470)]
+Kelly RS, Lasky-Su J, Yeung SJ, Stone RM, Caterino JM, Hagan SC, Lyman GH, Baden LR, Glotzbecker BE, Coyne CJ, Baugh CW, Pallin DJ. Integrative omics to detect bacteremia in patients with febrile neutropenia. PLoS One. 2018;13(5):e0197049. \[[PMC free article: PMC5955575](/pmc/articles/PMC5955575/)\] \[[PubMed: 29768470](https://pubmed.ncbi.nlm.nih.gov/29768470)\]
 
 11.
-    
 
-Arientová S, Beran O, Štefan M, Čurdová M, Holub M. Bacteremia due to Staphylococcus aureus - the importance of appropriate management. Epidemiol Mikrobiol Imunol. 2018 Spring;67(2):88-91. [[PubMed: 30126286](https://pubmed.ncbi.nlm.nih.gov/30126286)]
+Arientová S, Beran O, Štefan M, Čurdová M, Holub M. Bacteremia due to Staphylococcus aureus - the importance of appropriate management. Epidemiol Mikrobiol Imunol. 2018 Spring;67(2):88-91. \[[PubMed: 30126286](https://pubmed.ncbi.nlm.nih.gov/30126286)\]
 
 12.
-    
 
-Banik A, Bhat SH, Kumar A, Palit A, Snehaa K. Bloodstream infections and trends of antimicrobial sensitivity patterns at Port Blair. J Lab Physicians. 2018 Jul-Sep;10(3):332-337. [[PMC free article: PMC6052817](/pmc/articles/PMC6052817/)] [[PubMed: 30078972](https://pubmed.ncbi.nlm.nih.gov/30078972)]
+Banik A, Bhat SH, Kumar A, Palit A, Snehaa K. Bloodstream infections and trends of antimicrobial sensitivity patterns at Port Blair. J Lab Physicians. 2018 Jul-Sep;10(3):332-337. \[[PMC free article: PMC6052817](/pmc/articles/PMC6052817/)\] \[[PubMed: 30078972](https://pubmed.ncbi.nlm.nih.gov/30078972)\]
 
 13.
-    
 
-Rapoport AB, Fischer LS, Santibanez S, Beekmann SE, Polgreen PM, Rowley CF. Infectious Diseases Physicians' Perspectives Regarding Injection Drug Use and Related Infections, United States, 2017. Open Forum Infect Dis. 2018 Jul;5(7):ofy132. [[PMC free article: PMC6041812](/pmc/articles/PMC6041812/)] [[PubMed: 30018999](https://pubmed.ncbi.nlm.nih.gov/30018999)]
+Rapoport AB, Fischer LS, Santibanez S, Beekmann SE, Polgreen PM, Rowley CF. Infectious Diseases Physicians' Perspectives Regarding Injection Drug Use and Related Infections, United States, 2017. Open Forum Infect Dis. 2018 Jul;5(7):ofy132. \[[PMC free article: PMC6041812](/pmc/articles/PMC6041812/)\] \[[PubMed: 30018999](https://pubmed.ncbi.nlm.nih.gov/30018999)\]
 
 14.
-    
 
-Beeler C, Dbeibo L, Kelley K, Thatcher L, Webb D, Bah A, Monahan P, Fowler NR, Nicol S, Judy-Malcolm A, Azar J. Assessing patient risk of central line-associated bacteremia via machine learning. Am J Infect Control. 2018 Sep;46(9):986-991. [[PubMed: 29661634](https://pubmed.ncbi.nlm.nih.gov/29661634)]
+Beeler C, Dbeibo L, Kelley K, Thatcher L, Webb D, Bah A, Monahan P, Fowler NR, Nicol S, Judy-Malcolm A, Azar J. Assessing patient risk of central line-associated bacteremia via machine learning. Am J Infect Control. 2018 Sep;46(9):986-991. \[[PubMed: 29661634](https://pubmed.ncbi.nlm.nih.gov/29661634)\]
 
 15.
-    
 
-Morrison T. eNews Tool to Prevent Central Line-Associated Bloodstream Infection. Comput Inform Nurs. 2018 Apr;36(4):161-165. [[PubMed: 29620619](https://pubmed.ncbi.nlm.nih.gov/29620619)]
+Morrison T. eNews Tool to Prevent Central Line-Associated Bloodstream Infection. Comput Inform Nurs. 2018 Apr;36(4):161-165. \[[PubMed: 29620619](https://pubmed.ncbi.nlm.nih.gov/29620619)\]
 
 16.
-    
 
-Mogle BT, Steele JM, Seabury RW, Dang UJ, Kufel WD. Implementation of a two-point pharmacokinetic AUC-based vancomycin therapeutic drug monitoring approach in patients with methicillin-resistant Staphylococcus aureus bacteraemia. Int J Antimicrob Agents. 2018 Dec;52(6):805-810. [[PubMed: 30176357](https://pubmed.ncbi.nlm.nih.gov/30176357)]
+Mogle BT, Steele JM, Seabury RW, Dang UJ, Kufel WD. Implementation of a two-point pharmacokinetic AUC-based vancomycin therapeutic drug monitoring approach in patients with methicillin-resistant Staphylococcus aureus bacteraemia. Int J Antimicrob Agents. 2018 Dec;52(6):805-810. \[[PubMed: 30176357](https://pubmed.ncbi.nlm.nih.gov/30176357)\]
 
 17.
-    
 
-Chen SY, Lee H, Wang XM, Lee TF, Liao CH, Teng LJ, Hsueh PR. High mortality impact of Staphylococcus argenteus on patients with community-onset staphylococcal bacteraemia. Int J Antimicrob Agents. 2018 Dec;52(6):747-753. [[PubMed: 30149137](https://pubmed.ncbi.nlm.nih.gov/30149137)]
+Chen SY, Lee H, Wang XM, Lee TF, Liao CH, Teng LJ, Hsueh PR. High mortality impact of Staphylococcus argenteus on patients with community-onset staphylococcal bacteraemia. Int J Antimicrob Agents. 2018 Dec;52(6):747-753. \[[PubMed: 30149137](https://pubmed.ncbi.nlm.nih.gov/30149137)\]
 
 18.
-    
 
-Bidell MR, Patel N, O'Donnell JN. Optimal treatment of MSSA bacteraemias: a meta-analysis of cefazolin versus antistaphylococcal penicillins. J Antimicrob Chemother. 2018 Oct 01;73(10):2643-2651. [[PubMed: 30085140](https://pubmed.ncbi.nlm.nih.gov/30085140)]
-
-    
+Bidell MR, Patel N, O'Donnell JN. Optimal treatment of MSSA bacteraemias: a meta-analysis of cefazolin versus antistaphylococcal penicillins. J Antimicrob Chemother. 2018 Oct 01;73(10):2643-2651. \[[PubMed: 30085140](https://pubmed.ncbi.nlm.nih.gov/30085140)\]
 
 **Disclosure:** David Smith declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Sara Nehring declares no relevant financial relationships with ineligible companies.

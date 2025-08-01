@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-95361/
-scraped_date: 2025-07-22 12:48:47 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-95361/ scraped_date: 2025-07-22 12:48:47 UTC
 
 # Ovarian Torsion
 
@@ -27,11 +26,11 @@ Ovarian torsion is caused by twisting of the ligaments that support the adnexa, 
 
 **Objectives:**
 
-  * Describe the etiology of ovarian torsion.
+- Describe the etiology of ovarian torsion.
 
-  * Summarize the evaluation steps for ovarian torsion.
+- Summarize the evaluation steps for ovarian torsion.
 
-  * Outline the management options available for ovarian torsion.
+- Outline the management options available for ovarian torsion.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=95361&utm_source=pubmed&utm_campaign=reviews&utm_content=95361)
 
@@ -107,7 +106,7 @@ The most important thing for patients to keep in mind is seeking care immediatel
 
 Ovarian torsion is a difficult diagnosis due to vague symptoms and nonspecific labs and imaging. It is important to keep this diagnosis in the differential and maintain clinical suspicion for torsion when another pathology has been ruled out. The dual blood supply to the ovary can also be deceiving, so the presence of blood supply on ultrasound does not rule out a torsion when clinical suspicion is high. Ultrasound also cannot rule out torsion due to the possibility that the patient can have intermittent torsion. Remember that gynecologic consultation may be necessary, and direct visualization by surgical evaluation is the only way to make a definitive diagnosis.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The diagnosis and management of ovarian torsion are complex and involve many different healthcare professionals. A female presenting with non-specific symptoms of abdominal pain, nausea, and vomiting may represent a gynecological, obstetrical, gastrointestinal, or genitourinary process. Nursing plays a vital role in getting accurate vitals, drawing labs, and giving medications to help the patient feel better. The emergency room provider needs to take an accurate history, do a good physical exam, and order the appropriate tests. They also need to coordinate care with the interprofessional team. It is also very important for the ultrasound technician to get good images to send to the radiologist.
 
@@ -115,93 +114,74 @@ The radiologist is also necessary to read both ultrasound and CT findings to eva
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=95361&utm_source=pubmed&utm_campaign=reviews&utm_content=95361)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=95361&utm_source=pubmed&utm_campaign=reviews&utm_content=95361)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/womens-health/ovarian-torsion/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=95361)
+- [Click here for a simplified version.](https://mdsearchlight.com/womens-health/ovarian-torsion/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=95361)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/95361/?utm_source=pubmed&utm_campaign=comments&utm_content=95361)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/95361/?utm_source=pubmed&utm_campaign=comments&utm_content=95361)
 
 ## References
 
 1.
-    
 
-Mahonski S, Hu KM. Female Nonobstetric Genitourinary Emergencies. Emerg Med Clin North Am. 2019 Nov;37(4):771-784. [[PubMed: 31563207](https://pubmed.ncbi.nlm.nih.gov/31563207)]
+Mahonski S, Hu KM. Female Nonobstetric Genitourinary Emergencies. Emerg Med Clin North Am. 2019 Nov;37(4):771-784. \[[PubMed: 31563207](https://pubmed.ncbi.nlm.nih.gov/31563207)\]
 
 2.
-    
 
-Varras M, Tsikini A, Polyzos D, Samara Ch, Hadjopoulos G, Akrivis Ch. Uterine adnexal torsion: pathologic and gray-scale ultrasonographic findings. Clin Exp Obstet Gynecol. 2004;31(1):34-8. [[PubMed: 14998184](https://pubmed.ncbi.nlm.nih.gov/14998184)]
+Varras M, Tsikini A, Polyzos D, Samara Ch, Hadjopoulos G, Akrivis Ch. Uterine adnexal torsion: pathologic and gray-scale ultrasonographic findings. Clin Exp Obstet Gynecol. 2004;31(1):34-8. \[[PubMed: 14998184](https://pubmed.ncbi.nlm.nih.gov/14998184)\]
 
 3.
-    
 
-Bouguizane S, Bibi H, Farhat Y, Dhifallah S, Darraji F, Hidar S, Lassoued L, Chaieb A, Khairi H. [Adnexal torsion: a report of 135 cases]. J Gynecol Obstet Biol Reprod (Paris). 2003 Oct;32(6):535-40. [[PubMed: 14593299](https://pubmed.ncbi.nlm.nih.gov/14593299)]
+Bouguizane S, Bibi H, Farhat Y, Dhifallah S, Darraji F, Hidar S, Lassoued L, Chaieb A, Khairi H. [Adnexal torsion: a report of 135 cases]. J Gynecol Obstet Biol Reprod (Paris). 2003 Oct;32(6):535-40. \[[PubMed: 14593299](https://pubmed.ncbi.nlm.nih.gov/14593299)\]
 
 4.
-    
 
-Albayram F, Hamper UM. Ovarian and adnexal torsion: spectrum of sonographic findings with pathologic correlation. J Ultrasound Med. 2001 Oct;20(10):1083-9. [[PubMed: 11587015](https://pubmed.ncbi.nlm.nih.gov/11587015)]
+Albayram F, Hamper UM. Ovarian and adnexal torsion: spectrum of sonographic findings with pathologic correlation. J Ultrasound Med. 2001 Oct;20(10):1083-9. \[[PubMed: 11587015](https://pubmed.ncbi.nlm.nih.gov/11587015)\]
 
 5.
-    
 
-Cohen A, Solomon N, Almog B, Cohen Y, Tsafrir Z, Rimon E, Levin I. Adnexal Torsion in Postmenopausal Women: Clinical Presentation and Risk of Ovarian Malignancy. J Minim Invasive Gynecol. 2017 Jan 01;24(1):94-97. [[PubMed: 27702703](https://pubmed.ncbi.nlm.nih.gov/27702703)]
+Cohen A, Solomon N, Almog B, Cohen Y, Tsafrir Z, Rimon E, Levin I. Adnexal Torsion in Postmenopausal Women: Clinical Presentation and Risk of Ovarian Malignancy. J Minim Invasive Gynecol. 2017 Jan 01;24(1):94-97. \[[PubMed: 27702703](https://pubmed.ncbi.nlm.nih.gov/27702703)\]
 
 6.
-    
 
-Schwartz BI, Huppert JS, Chen C, Huang B, Reed JL. Creation of a Composite Score to Predict Adnexal Torsion in Children and Adolescents. J Pediatr Adolesc Gynecol. 2018 Apr;31(2):132-137. [[PubMed: 28847757](https://pubmed.ncbi.nlm.nih.gov/28847757)]
+Schwartz BI, Huppert JS, Chen C, Huang B, Reed JL. Creation of a Composite Score to Predict Adnexal Torsion in Children and Adolescents. J Pediatr Adolesc Gynecol. 2018 Apr;31(2):132-137. \[[PubMed: 28847757](https://pubmed.ncbi.nlm.nih.gov/28847757)\]
 
 7.
-    
 
-Bardin R, Perl N, Mashiach R, Ram E, Orbach-Zinger S, Shmueli A, Wiznitzer A, Hadar E. Prediction of Adnexal Torsion by Ultrasound in Women with Acute Abdominal Pain. Ultraschall Med. 2020 Dec;41(6):688-694. [[PubMed: 31703238](https://pubmed.ncbi.nlm.nih.gov/31703238)]
+Bardin R, Perl N, Mashiach R, Ram E, Orbach-Zinger S, Shmueli A, Wiznitzer A, Hadar E. Prediction of Adnexal Torsion by Ultrasound in Women with Acute Abdominal Pain. Ultraschall Med. 2020 Dec;41(6):688-694. \[[PubMed: 31703238](https://pubmed.ncbi.nlm.nih.gov/31703238)\]
 
 8.
-    
 
-Mashiach R, Melamed N, Gilad N, Ben-Shitrit G, Meizner I. Sonographic diagnosis of ovarian torsion: accuracy and predictive factors. J Ultrasound Med. 2011 Sep;30(9):1205-10. [[PubMed: 21876091](https://pubmed.ncbi.nlm.nih.gov/21876091)]
+Mashiach R, Melamed N, Gilad N, Ben-Shitrit G, Meizner I. Sonographic diagnosis of ovarian torsion: accuracy and predictive factors. J Ultrasound Med. 2011 Sep;30(9):1205-10. \[[PubMed: 21876091](https://pubmed.ncbi.nlm.nih.gov/21876091)\]
 
 9.
-    
 
-Valsky DV, Esh-Broder E, Cohen SM, Lipschuetz M, Yagel S. Added value of the gray-scale whirlpool sign in the diagnosis of adnexal torsion. Ultrasound Obstet Gynecol. 2010 Nov;36(5):630-4. [[PubMed: 20586041](https://pubmed.ncbi.nlm.nih.gov/20586041)]
+Valsky DV, Esh-Broder E, Cohen SM, Lipschuetz M, Yagel S. Added value of the gray-scale whirlpool sign in the diagnosis of adnexal torsion. Ultrasound Obstet Gynecol. 2010 Nov;36(5):630-4. \[[PubMed: 20586041](https://pubmed.ncbi.nlm.nih.gov/20586041)\]
 
 10.
-    
 
-Bider D, Mashiach S, Dulitzky M, Kokia E, Lipitz S, Ben-Rafael Z. Clinical, surgical and pathologic findings of adnexal torsion in pregnant and nonpregnant women. Surg Gynecol Obstet. 1991 Nov;173(5):363-6. [[PubMed: 1948585](https://pubmed.ncbi.nlm.nih.gov/1948585)]
+Bider D, Mashiach S, Dulitzky M, Kokia E, Lipitz S, Ben-Rafael Z. Clinical, surgical and pathologic findings of adnexal torsion in pregnant and nonpregnant women. Surg Gynecol Obstet. 1991 Nov;173(5):363-6. \[[PubMed: 1948585](https://pubmed.ncbi.nlm.nih.gov/1948585)\]
 
 11.
-    
 
-Oelsner G, Cohen SB, Soriano D, Admon D, Mashiach S, Carp H. Minimal surgery for the twisted ischaemic adnexa can preserve ovarian function. Hum Reprod. 2003 Dec;18(12):2599-602. [[PubMed: 14645177](https://pubmed.ncbi.nlm.nih.gov/14645177)]
+Oelsner G, Cohen SB, Soriano D, Admon D, Mashiach S, Carp H. Minimal surgery for the twisted ischaemic adnexa can preserve ovarian function. Hum Reprod. 2003 Dec;18(12):2599-602. \[[PubMed: 14645177](https://pubmed.ncbi.nlm.nih.gov/14645177)\]
 
 12.
-    
 
-Wilkinson C, Sanderson A. Adnexal torsion -- a multimodality imaging review. Clin Radiol. 2012 May;67(5):476-83. [[PubMed: 22137723](https://pubmed.ncbi.nlm.nih.gov/22137723)]
+Wilkinson C, Sanderson A. Adnexal torsion -- a multimodality imaging review. Clin Radiol. 2012 May;67(5):476-83. \[[PubMed: 22137723](https://pubmed.ncbi.nlm.nih.gov/22137723)\]
 
 13.
-    
 
-Oelsner G, Bider D, Goldenberg M, Admon D, Mashiach S. Long-term follow-up of the twisted ischemic adnexa managed by detorsion. Fertil Steril. 1993 Dec;60(6):976-9. [[PubMed: 8243702](https://pubmed.ncbi.nlm.nih.gov/8243702)]
+Oelsner G, Bider D, Goldenberg M, Admon D, Mashiach S. Long-term follow-up of the twisted ischemic adnexa managed by detorsion. Fertil Steril. 1993 Dec;60(6):976-9. \[[PubMed: 8243702](https://pubmed.ncbi.nlm.nih.gov/8243702)\]
 
 14.
-    
 
-Wang JH, Wu DH, Jin H, Wu YZ. Predominant etiology of adnexal torsion and ovarian outcome after detorsion in premenarchal girls. Eur J Pediatr Surg. 2010 Sep;20(5):298-301. [[PubMed: 20533130](https://pubmed.ncbi.nlm.nih.gov/20533130)]
+Wang JH, Wu DH, Jin H, Wu YZ. Predominant etiology of adnexal torsion and ovarian outcome after detorsion in premenarchal girls. Eur J Pediatr Surg. 2010 Sep;20(5):298-301. \[[PubMed: 20533130](https://pubmed.ncbi.nlm.nih.gov/20533130)\]
 
 15.
-    
 
-Pryor RA, Wiczyk HP, O'Shea DL. Adnexal infarction after conservative surgical management of torsion of a hyperstimulated ovary. Fertil Steril. 1995 Jun;63(6):1344-6. [[PubMed: 7750613](https://pubmed.ncbi.nlm.nih.gov/7750613)]
-
-    
+Pryor RA, Wiczyk HP, O'Shea DL. Adnexal infarction after conservative surgical management of torsion of a hyperstimulated ovary. Fertil Steril. 1995 Jun;63(6):1344-6. \[[PubMed: 7750613](https://pubmed.ncbi.nlm.nih.gov/7750613)\]
 
 **Disclosure:** Shelby Baron declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Josephin Mathai declares no relevant financial relationships with ineligible companies.

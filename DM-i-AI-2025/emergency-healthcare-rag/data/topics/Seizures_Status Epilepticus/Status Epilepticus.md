@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-64969/
-scraped_date: 2025-07-22 12:43:24 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-64969/ scraped_date: 2025-07-22 12:43:24 UTC
 
 # Electrical Status Epilepticus in Sleep
 
@@ -29,13 +28,13 @@ Participants in this activity gain a comprehensive understanding of the evaluati
 
 **Objectives:**
 
-  * Identify the early signs and symptoms of electrical status epilepticus in sleep in patients to facilitate prompt diagnosis and treatment.
+- Identify the early signs and symptoms of electrical status epilepticus in sleep in patients to facilitate prompt diagnosis and treatment.
 
-  * Assess the effectiveness of treatment plans for patients with electrical status epilepticus in sleep, and adjust them as necessary to optimize patient outcomes.
+- Assess the effectiveness of treatment plans for patients with electrical status epilepticus in sleep, and adjust them as necessary to optimize patient outcomes.
 
-  * Implement evidence-based treatment strategies, including pharmacologic and non-pharmacologic options, for managing electrical status epilepticus in sleep.
+- Implement evidence-based treatment strategies, including pharmacologic and non-pharmacologic options, for managing electrical status epilepticus in sleep.
 
-  * Collaborate with an interprofessional team to create and execute individualized treatment plans for children with electrical status epilepticus in sleep.
+- Collaborate with an interprofessional team to create and execute individualized treatment plans for children with electrical status epilepticus in sleep.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=64969&utm_source=pubmed&utm_campaign=reviews&utm_content=64969)
 
@@ -47,7 +46,7 @@ Electrical status epilepticus in sleep (ESES) is a childhood-onset epileptic enc
 
 Different etiologies, both with or without structural abnormalities of the brain, have been associated with ESES. An early developmental lesion, such as a perinatal infarct involving the thalamus, has been particularly correlated with the development of ESES. In a case-control study, results showed that 14% of the patients with epilepsy and sleep-activated EEG had early developmental lesions involving thalami, such as stroke, periventricular leukomalacia, and cortical malformation. However, only 2% of the patients in the control group had a thalamic lesion (patients with epilepsy but not with sleep-activated EEG).[5]
 
-Recently, several genetic etiologies, including monogenic mutations or copy number variants, have been correlated with the development of ESES. Among monogenic mutations, including those in  _SCN2A, SLC9A6, DRPLA/ ATN1, n_ euroserpin _/SRPX2, OPA3, KCNQ2, KCNA2, GRIN2A, CNKSR2, SLC6A1,_ and _KCNB1_ , _GRIN2A_ mutations, with possible dysfunction of N-methyl-D-aspartate receptor-mediated signaling, have most frequently linked with ESES.[6][7] Recurrent copy number variants were reported in association with ESES, such as Xp22.12 deletion, 16p13 deletion, 15q11.2-13.1 duplication, 3q29 duplication, 11p13 duplication, 10q21.3 deletion, 3q25 deletion, and 8p23.3 deletion.[8][9]
+Recently, several genetic etiologies, including monogenic mutations or copy number variants, have been correlated with the development of ESES. Among monogenic mutations, including those in _SCN2A, SLC9A6, DRPLA/ ATN1, n_ euroserpin _/SRPX2, OPA3, KCNQ2, KCNA2, GRIN2A, CNKSR2, SLC6A1,_ and _KCNB1_ , _GRIN2A_ mutations, with possible dysfunction of N-methyl-D-aspartate receptor-mediated signaling, have most frequently linked with ESES.[6][7] Recurrent copy number variants were reported in association with ESES, such as Xp22.12 deletion, 16p13 deletion, 15q11.2-13.1 duplication, 3q29 duplication, 11p13 duplication, 10q21.3 deletion, 3q25 deletion, and 8p23.3 deletion.[8][9]
 
 The exact reason for the sleep activation of the EEG abnormality is unknown. Some researchers correlated abnormal EEG with the abnormal hyperactivation of the thalamic oscillatory circuit: an interplay between inhibitory gamma-aminobutyric acidergic (GABA) reticular thalamic neurons and excitatory glutaminergic dorsal thalamic neurons. Researchers also hypothesized that the change in the thalamic oscillatory circuit might be due to a substitution from GABAa- to GABAb-mediated postsynaptic inhibition.[10] Sleep potentiation of epileptiform discharges may disrupt cortical information processing and trigger learning and memory impairments.[11]
 
@@ -93,199 +92,160 @@ Inadequate treatment and delayed diagnosis may lead to a worse cognitive outcome
 
 Antiepileptic drugs (AEDs), particularly levetiracetam, clobazam, and ethosuximide, can be used early after diagnosis. A few specific AEDs such as phenytoin, phenobarbital, carbamazepine, and oxcarbazepine are relatively contraindicated and should be discontinued. If there is no improvement in the EEG or cognition after 3 months of AED therapy, a corticosteroid regimen should merit consideration after carefully reviewing potential adverse events.[35] Polytherapy has been noted as effective in most patients. A select subgroup of patients with structural brain lesions may need evaluation for epilepsy surgery.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The diagnosis and management of ESES are very complex and best conducted by an interprofessional team. The diagnosis usually requires an EEG capturing NREM sleep.[3] The treatment approach is promptly initiating appropriate AEDs and escalating to a corticosteroid regimen if needed. Because all patients have neuropsychiatric features, a mental health nurse should be involved in the care, assisting in evaluating patients, monitoring treatment progress, counseling patients and families about the condition, and reporting any concerns to the treating clinician. The pharmacist should educate the patient and caregivers about the drugs, their adverse effects, and potential benefits, check for drug interactions, and verify all dosing. Recovery is slow, so social workers should be involved to ensure that the patient has adequate support services. Long-term monitoring by the interprofessional team is vital to prevent instances of morbidity.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=64969&utm_source=pubmed&utm_campaign=reviews&utm_content=64969)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=64969&utm_source=pubmed&utm_campaign=reviews&utm_content=64969)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/neurology/electrical-status-epilepticus-in-sleep/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=64969)
+- [Click here for a simplified version.](https://mdsearchlight.com/neurology/electrical-status-epilepticus-in-sleep/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=64969)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/64969/?utm_source=pubmed&utm_campaign=comments&utm_content=64969)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/64969/?utm_source=pubmed&utm_campaign=comments&utm_content=64969)
 
 ## References
 
 1.
-    
 
-Tassinari CA, Rubboli G. Cognition and paroxysmal EEG activities: from a single spike to electrical status epilepticus during sleep. Epilepsia. 2006;47 Suppl 2:40-3. [[PubMed: 17105458](https://pubmed.ncbi.nlm.nih.gov/17105458)]
+Tassinari CA, Rubboli G. Cognition and paroxysmal EEG activities: from a single spike to electrical status epilepticus during sleep. Epilepsia. 2006;47 Suppl 2:40-3. \[[PubMed: 17105458](https://pubmed.ncbi.nlm.nih.gov/17105458)\]
 
 2.
-    
 
-Arican P, Gencpinar P, Olgac Dundar N, Tekgul H. Electrical Status Epilepticus During Slow-wave Sleep (ESES): Current Perspectives. J Pediatr Neurosci. 2021 Apr-Jun;16(2):91-96. [[PMC free article: PMC8706590](/pmc/articles/PMC8706590/)] [[PubMed: 35018175](https://pubmed.ncbi.nlm.nih.gov/35018175)]
+Arican P, Gencpinar P, Olgac Dundar N, Tekgul H. Electrical Status Epilepticus During Slow-wave Sleep (ESES): Current Perspectives. J Pediatr Neurosci. 2021 Apr-Jun;16(2):91-96. \[[PMC free article: PMC8706590](/pmc/articles/PMC8706590/)\] \[[PubMed: 35018175](https://pubmed.ncbi.nlm.nih.gov/35018175)\]
 
 3.
-    
 
-Scheltens-de Boer M. Guidelines for EEG in encephalopathy related to ESES/CSWS in children. Epilepsia. 2009 Aug;50 Suppl 7:13-7. [[PubMed: 19682043](https://pubmed.ncbi.nlm.nih.gov/19682043)]
+Scheltens-de Boer M. Guidelines for EEG in encephalopathy related to ESES/CSWS in children. Epilepsia. 2009 Aug;50 Suppl 7:13-7. \[[PubMed: 19682043](https://pubmed.ncbi.nlm.nih.gov/19682043)\]
 
 4.
-    
 
-Singhal NS, Sullivan JE. Continuous Spike-Wave during Slow Wave Sleep and Related Conditions. ISRN Neurol. 2014;2014:619079. [[PMC free article: PMC3929187](/pmc/articles/PMC3929187/)] [[PubMed: 24634784](https://pubmed.ncbi.nlm.nih.gov/24634784)]
+Singhal NS, Sullivan JE. Continuous Spike-Wave during Slow Wave Sleep and Related Conditions. ISRN Neurol. 2014;2014:619079. \[[PMC free article: PMC3929187](/pmc/articles/PMC3929187/)\] \[[PubMed: 24634784](https://pubmed.ncbi.nlm.nih.gov/24634784)\]
 
 5.
-    
 
-Sánchez Fernández I, Takeoka M, Tas E, Peters JM, Prabhu SP, Stannard KM, Gregas M, Eksioglu Y, Rotenberg A, Riviello JJ, Kothare SV, Loddenkemper T. Early thalamic lesions in patients with sleep-potentiated epileptiform activity. Neurology. 2012 May 29;78(22):1721-7. [[PMC free article: PMC3359583](/pmc/articles/PMC3359583/)] [[PubMed: 22539569](https://pubmed.ncbi.nlm.nih.gov/22539569)]
+Sánchez Fernández I, Takeoka M, Tas E, Peters JM, Prabhu SP, Stannard KM, Gregas M, Eksioglu Y, Rotenberg A, Riviello JJ, Kothare SV, Loddenkemper T. Early thalamic lesions in patients with sleep-potentiated epileptiform activity. Neurology. 2012 May 29;78(22):1721-7. \[[PMC free article: PMC3359583](/pmc/articles/PMC3359583/)\] \[[PubMed: 22539569](https://pubmed.ncbi.nlm.nih.gov/22539569)\]
 
 6.
-    
 
-Gong P, Xue J, Jiao X, Zhang Y, Yang Z. Genetic Etiologies in Developmental and/or Epileptic Encephalopathy With Electrical Status Epilepticus During Sleep: Cohort Study. Front Genet. 2021;12:607965. [[PMC free article: PMC8060571](/pmc/articles/PMC8060571/)] [[PubMed: 33897753](https://pubmed.ncbi.nlm.nih.gov/33897753)]
+Gong P, Xue J, Jiao X, Zhang Y, Yang Z. Genetic Etiologies in Developmental and/or Epileptic Encephalopathy With Electrical Status Epilepticus During Sleep: Cohort Study. Front Genet. 2021;12:607965. \[[PMC free article: PMC8060571](/pmc/articles/PMC8060571/)\] \[[PubMed: 33897753](https://pubmed.ncbi.nlm.nih.gov/33897753)\]
 
 7.
-    
 
-Mir A, Amer F, Ali M, Alotaibi W, Alotaibi M, Hedaithy A, Aldurayhim F, Hussain F, Bashir S, Housawi Y. Continuous Spikes and Waves During Sleep (CSWS), Severe Epileptic Encephalopathy, and Choreoathetosis due to Mutations in _FRRS1L_. Clin EEG Neurosci. 2023 Sep;54(5):526-533. [[PubMed: 35815844](https://pubmed.ncbi.nlm.nih.gov/35815844)]
+Mir A, Amer F, Ali M, Alotaibi W, Alotaibi M, Hedaithy A, Aldurayhim F, Hussain F, Bashir S, Housawi Y. Continuous Spikes and Waves During Sleep (CSWS), Severe Epileptic Encephalopathy, and Choreoathetosis due to Mutations in _FRRS1L_. Clin EEG Neurosci. 2023 Sep;54(5):526-533. \[[PubMed: 35815844](https://pubmed.ncbi.nlm.nih.gov/35815844)\]
 
 8.
-    
 
-Mathieu ML, de Bellescize J, Till M, Flurin V, Labalme A, Chatron N, Sanlaville D, Chemaly N, des Portes V, Ostrowsky K, Arzimanoglou A, Lesca G. Electrical status epilepticus in sleep, a constitutive feature of Christianson syndrome? Eur J Paediatr Neurol. 2018 Nov;22(6):1124-1132. [[PubMed: 30126759](https://pubmed.ncbi.nlm.nih.gov/30126759)]
+Mathieu ML, de Bellescize J, Till M, Flurin V, Labalme A, Chatron N, Sanlaville D, Chemaly N, des Portes V, Ostrowsky K, Arzimanoglou A, Lesca G. Electrical status epilepticus in sleep, a constitutive feature of Christianson syndrome? Eur J Paediatr Neurol. 2018 Nov;22(6):1124-1132. \[[PubMed: 30126759](https://pubmed.ncbi.nlm.nih.gov/30126759)\]
 
 9.
-    
 
-Bonanni P, Negrin S, Volzone A, Zanotta N, Epifanio R, Zucca C, Osanni E, Petacchi E, Fabbro F. Electrical status epilepticus during sleep in Mowat-Wilson syndrome. Brain Dev. 2017 Oct;39(9):727-734. [[PubMed: 28501473](https://pubmed.ncbi.nlm.nih.gov/28501473)]
+Bonanni P, Negrin S, Volzone A, Zanotta N, Epifanio R, Zucca C, Osanni E, Petacchi E, Fabbro F. Electrical status epilepticus during sleep in Mowat-Wilson syndrome. Brain Dev. 2017 Oct;39(9):727-734. \[[PubMed: 28501473](https://pubmed.ncbi.nlm.nih.gov/28501473)\]
 
 10.
-    
 
-Parrella NF, Hill AT, Dipnall LM, Loke YJ, Enticott PG, Ford TC. Inhibitory dysfunction and social processing difficulties in autism: A comprehensive narrative review. J Psychiatr Res. 2024 Jan;169:113-125. [[PubMed: 38016393](https://pubmed.ncbi.nlm.nih.gov/38016393)]
+Parrella NF, Hill AT, Dipnall LM, Loke YJ, Enticott PG, Ford TC. Inhibitory dysfunction and social processing difficulties in autism: A comprehensive narrative review. J Psychiatr Res. 2024 Jan;169:113-125. \[[PubMed: 38016393](https://pubmed.ncbi.nlm.nih.gov/38016393)\]
 
 11.
-    
 
-Das R, Luczak A. Epileptic seizures and link to memory processes. AIMS Neurosci. 2022;9(1):114-127. [[PMC free article: PMC8941196](/pmc/articles/PMC8941196/)] [[PubMed: 35434278](https://pubmed.ncbi.nlm.nih.gov/35434278)]
+Das R, Luczak A. Epileptic seizures and link to memory processes. AIMS Neurosci. 2022;9(1):114-127. \[[PMC free article: PMC8941196](/pmc/articles/PMC8941196/)\] \[[PubMed: 35434278](https://pubmed.ncbi.nlm.nih.gov/35434278)\]
 
 12.
-    
 
-Kramer U, Nevo Y, Neufeld MY, Fatal A, Leitner Y, Harel S. Epidemiology of epilepsy in childhood: a cohort of 440 consecutive patients. Pediatr Neurol. 1998 Jan;18(1):46-50. [[PubMed: 9492091](https://pubmed.ncbi.nlm.nih.gov/9492091)]
+Kramer U, Nevo Y, Neufeld MY, Fatal A, Leitner Y, Harel S. Epidemiology of epilepsy in childhood: a cohort of 440 consecutive patients. Pediatr Neurol. 1998 Jan;18(1):46-50. \[[PubMed: 9492091](https://pubmed.ncbi.nlm.nih.gov/9492091)\]
 
 13.
-    
 
-Van Hirtum-Das M, Licht EA, Koh S, Wu JY, Shields WD, Sankar R. Children with ESES: variability in the syndrome. Epilepsy Res. 2006 Aug;70 Suppl 1:S248-58. [[PubMed: 16806829](https://pubmed.ncbi.nlm.nih.gov/16806829)]
+Van Hirtum-Das M, Licht EA, Koh S, Wu JY, Shields WD, Sankar R. Children with ESES: variability in the syndrome. Epilepsy Res. 2006 Aug;70 Suppl 1:S248-58. \[[PubMed: 16806829](https://pubmed.ncbi.nlm.nih.gov/16806829)\]
 
 14.
-    
 
-Lappay JI, Sanchez-Gan BC, Abadingo ME. Electrical Status Epilepticus during Sleep in a Male Filipino with Rare Nonsense Mutation Variant of Sotos Syndrome on Carbamazepine Monotherapy. Acta Med Philipp. 2024;58(4):83-87. [[PMC free article: PMC11219534](/pmc/articles/PMC11219534/)] [[PubMed: 38966610](https://pubmed.ncbi.nlm.nih.gov/38966610)]
+Lappay JI, Sanchez-Gan BC, Abadingo ME. Electrical Status Epilepticus during Sleep in a Male Filipino with Rare Nonsense Mutation Variant of Sotos Syndrome on Carbamazepine Monotherapy. Acta Med Philipp. 2024;58(4):83-87. \[[PMC free article: PMC11219534](/pmc/articles/PMC11219534/)\] \[[PubMed: 38966610](https://pubmed.ncbi.nlm.nih.gov/38966610)\]
 
 15.
-    
 
-Raha S, Shah U, Udani V. Neurocognitive and neurobehavioral disabilities in Epilepsy with Electrical Status Epilepticus in slow sleep (ESES) and related syndromes. Epilepsy Behav. 2012 Nov;25(3):381-5. [[PubMed: 23103314](https://pubmed.ncbi.nlm.nih.gov/23103314)]
+Raha S, Shah U, Udani V. Neurocognitive and neurobehavioral disabilities in Epilepsy with Electrical Status Epilepticus in slow sleep (ESES) and related syndromes. Epilepsy Behav. 2012 Nov;25(3):381-5. \[[PubMed: 23103314](https://pubmed.ncbi.nlm.nih.gov/23103314)\]
 
 16.
-    
 
-Veggiotti P, Pera MC, Teutonico F, Brazzo D, Balottin U, Tassinari CA. Therapy of encephalopathy with status epilepticus during sleep (ESES/CSWS syndrome): an update. Epileptic Disord. 2012 Mar;14(1):1-11. [[PubMed: 22426353](https://pubmed.ncbi.nlm.nih.gov/22426353)]
+Veggiotti P, Pera MC, Teutonico F, Brazzo D, Balottin U, Tassinari CA. Therapy of encephalopathy with status epilepticus during sleep (ESES/CSWS syndrome): an update. Epileptic Disord. 2012 Mar;14(1):1-11. \[[PubMed: 22426353](https://pubmed.ncbi.nlm.nih.gov/22426353)\]
 
 17.
-    
 
-Larsson PG, Bakke KA, Bjørnæs H, Heminghyt E, Rytter E, Brager-Larsen L, Eriksson AS. The effect of levetiracetam on focal nocturnal epileptiform activity during sleep--a placebo-controlled double-blind cross-over study. Epilepsy Behav. 2012 May;24(1):44-8. [[PubMed: 22494796](https://pubmed.ncbi.nlm.nih.gov/22494796)]
+Larsson PG, Bakke KA, Bjørnæs H, Heminghyt E, Rytter E, Brager-Larsen L, Eriksson AS. The effect of levetiracetam on focal nocturnal epileptiform activity during sleep--a placebo-controlled double-blind cross-over study. Epilepsy Behav. 2012 May;24(1):44-8. \[[PubMed: 22494796](https://pubmed.ncbi.nlm.nih.gov/22494796)\]
 
 18.
-    
 
-Kramer U, Sagi L, Goldberg-Stern H, Zelnik N, Nissenkorn A, Ben-Zeev B. Clinical spectrum and medical treatment of children with electrical status epilepticus in sleep (ESES). Epilepsia. 2009 Jun;50(6):1517-24. [[PubMed: 19054417](https://pubmed.ncbi.nlm.nih.gov/19054417)]
+Kramer U, Sagi L, Goldberg-Stern H, Zelnik N, Nissenkorn A, Ben-Zeev B. Clinical spectrum and medical treatment of children with electrical status epilepticus in sleep (ESES). Epilepsia. 2009 Jun;50(6):1517-24. \[[PubMed: 19054417](https://pubmed.ncbi.nlm.nih.gov/19054417)\]
 
 19.
-    
 
-Sánchez Fernández I, Hadjiloizou S, Eksioglu Y, Peters JM, Takeoka M, Tas E, Abdelmoumen I, Rotenberg A, Kothare SV, Riviello JJ, Loddenkemper T. Short-term response of sleep-potentiated spiking to high-dose diazepam in electric status epilepticus during sleep. Pediatr Neurol. 2012 May;46(5):312-8. [[PubMed: 22520353](https://pubmed.ncbi.nlm.nih.gov/22520353)]
+Sánchez Fernández I, Hadjiloizou S, Eksioglu Y, Peters JM, Takeoka M, Tas E, Abdelmoumen I, Rotenberg A, Kothare SV, Riviello JJ, Loddenkemper T. Short-term response of sleep-potentiated spiking to high-dose diazepam in electric status epilepticus during sleep. Pediatr Neurol. 2012 May;46(5):312-8. \[[PubMed: 22520353](https://pubmed.ncbi.nlm.nih.gov/22520353)\]
 
 20.
-    
 
-Larrieu JL, Lagueny A, Ferrer X, Julien J. [Epilepsy with continuous discharges during slow-wave sleep. Treatment with clobazam]. Rev Electroencephalogr Neurophysiol Clin. 1986 Dec;16(4):383-94. [[PubMed: 3103177](https://pubmed.ncbi.nlm.nih.gov/3103177)]
+Larrieu JL, Lagueny A, Ferrer X, Julien J. [Epilepsy with continuous discharges during slow-wave sleep. Treatment with clobazam]. Rev Electroencephalogr Neurophysiol Clin. 1986 Dec;16(4):383-94. \[[PubMed: 3103177](https://pubmed.ncbi.nlm.nih.gov/3103177)\]
 
 21.
-    
 
-Samanta D, Willis E, Sharp GB. Absence status after starting clobazam in a patient with syndrome of continuous spike and wave during slow sleep (CSWS). Neurol India. 2014 Nov-Dec;62(6):685-7. [[PubMed: 25591691](https://pubmed.ncbi.nlm.nih.gov/25591691)]
+Samanta D, Willis E, Sharp GB. Absence status after starting clobazam in a patient with syndrome of continuous spike and wave during slow sleep (CSWS). Neurol India. 2014 Nov-Dec;62(6):685-7. \[[PubMed: 25591691](https://pubmed.ncbi.nlm.nih.gov/25591691)\]
 
 22.
-    
 
-Caraballo RH, Veggiotti P, Kaltenmeier MC, Piazza E, Gamboni B, Lopez Avaria MF, Noli D, Adi J, Cersosimo R. Encephalopathy with status epilepticus during sleep or continuous spikes and waves during slow sleep syndrome: a multicenter, long-term follow-up study of 117 patients. Epilepsy Res. 2013 Jul;105(1-2):164-73. [[PubMed: 23507330](https://pubmed.ncbi.nlm.nih.gov/23507330)]
+Caraballo RH, Veggiotti P, Kaltenmeier MC, Piazza E, Gamboni B, Lopez Avaria MF, Noli D, Adi J, Cersosimo R. Encephalopathy with status epilepticus during sleep or continuous spikes and waves during slow sleep syndrome: a multicenter, long-term follow-up study of 117 patients. Epilepsy Res. 2013 Jul;105(1-2):164-73. \[[PubMed: 23507330](https://pubmed.ncbi.nlm.nih.gov/23507330)\]
 
 23.
-    
 
-Lerman P. Seizures induced or aggravated by anticonvulsants. Epilepsia. 1986 Nov-Dec;27(6):706-10. [[PubMed: 3780607](https://pubmed.ncbi.nlm.nih.gov/3780607)]
+Lerman P. Seizures induced or aggravated by anticonvulsants. Epilepsia. 1986 Nov-Dec;27(6):706-10. \[[PubMed: 3780607](https://pubmed.ncbi.nlm.nih.gov/3780607)\]
 
 24.
-    
 
-Snead OC, Hosey LC. Exacerbation of seizures in children by carbamazepine. N Engl J Med. 1985 Oct 10;313(15):916-21. [[PubMed: 3929090](https://pubmed.ncbi.nlm.nih.gov/3929090)]
+Snead OC, Hosey LC. Exacerbation of seizures in children by carbamazepine. N Engl J Med. 1985 Oct 10;313(15):916-21. \[[PubMed: 3929090](https://pubmed.ncbi.nlm.nih.gov/3929090)\]
 
 25.
-    
 
-Buzatu M, Bulteau C, Altuzarra C, Dulac O, Van Bogaert P. Corticosteroids as treatment of epileptic syndromes with continuous spike-waves during slow-wave sleep. Epilepsia. 2009 Aug;50 Suppl 7:68-72. [[PubMed: 19682056](https://pubmed.ncbi.nlm.nih.gov/19682056)]
+Buzatu M, Bulteau C, Altuzarra C, Dulac O, Van Bogaert P. Corticosteroids as treatment of epileptic syndromes with continuous spike-waves during slow-wave sleep. Epilepsia. 2009 Aug;50 Suppl 7:68-72. \[[PubMed: 19682056](https://pubmed.ncbi.nlm.nih.gov/19682056)\]
 
 26.
-    
 
-Chen J, Yang Z, Liu X, Ji T, Fu N, Wu Y, Xiong H, Wang S, Chang X, Zhang Y, Bao X, Jiang Y, Qin J. [Efficacy of methylprednisolone therapy for electrical status epilepticus during sleep in children]. Zhonghua Er Ke Za Zhi. 2014 Sep;52(9):678-82. [[PubMed: 25476430](https://pubmed.ncbi.nlm.nih.gov/25476430)]
+Chen J, Yang Z, Liu X, Ji T, Fu N, Wu Y, Xiong H, Wang S, Chang X, Zhang Y, Bao X, Jiang Y, Qin J. [Efficacy of methylprednisolone therapy for electrical status epilepticus during sleep in children]. Zhonghua Er Ke Za Zhi. 2014 Sep;52(9):678-82. \[[PubMed: 25476430](https://pubmed.ncbi.nlm.nih.gov/25476430)\]
 
 27.
-    
 
-Pera MC, Randazzo G, Masnada S, Dontin SD, De Giorgis V, Balottin U, Veggiotti P. Intravenous methylprednisolone pulse therapy for children with epileptic encephalopathy. Funct Neurol. 2015 Jul-Sep;30(3):173-9. [[PMC free article: PMC4610752](/pmc/articles/PMC4610752/)] [[PubMed: 26910177](https://pubmed.ncbi.nlm.nih.gov/26910177)]
+Pera MC, Randazzo G, Masnada S, Dontin SD, De Giorgis V, Balottin U, Veggiotti P. Intravenous methylprednisolone pulse therapy for children with epileptic encephalopathy. Funct Neurol. 2015 Jul-Sep;30(3):173-9. \[[PMC free article: PMC4610752](/pmc/articles/PMC4610752/)\] \[[PubMed: 26910177](https://pubmed.ncbi.nlm.nih.gov/26910177)\]
 
 28.
-    
 
-van den Munckhof B, van Dee V, Sagi L, Caraballo RH, Veggiotti P, Liukkonen E, Loddenkemper T, Sánchez Fernández I, Buzatu M, Bulteau C, Braun KP, Jansen FE. Treatment of electrical status epilepticus in sleep: A pooled analysis of 575 cases. Epilepsia. 2015 Nov;56(11):1738-46. [[PubMed: 26337159](https://pubmed.ncbi.nlm.nih.gov/26337159)]
+van den Munckhof B, van Dee V, Sagi L, Caraballo RH, Veggiotti P, Liukkonen E, Loddenkemper T, Sánchez Fernández I, Buzatu M, Bulteau C, Braun KP, Jansen FE. Treatment of electrical status epilepticus in sleep: A pooled analysis of 575 cases. Epilepsia. 2015 Nov;56(11):1738-46. \[[PubMed: 26337159](https://pubmed.ncbi.nlm.nih.gov/26337159)\]
 
 29.
-    
 
-Loddenkemper T, Cosmo G, Kotagal P, Haut J, Klaas P, Gupta A, Lachhwani DK, Bingaman W, Wyllie E. Epilepsy surgery in children with electrical status epilepticus in sleep. Neurosurgery. 2009 Feb;64(2):328-37; discussion 337. [[PubMed: 19190460](https://pubmed.ncbi.nlm.nih.gov/19190460)]
+Loddenkemper T, Cosmo G, Kotagal P, Haut J, Klaas P, Gupta A, Lachhwani DK, Bingaman W, Wyllie E. Epilepsy surgery in children with electrical status epilepticus in sleep. Neurosurgery. 2009 Feb;64(2):328-37; discussion 337. \[[PubMed: 19190460](https://pubmed.ncbi.nlm.nih.gov/19190460)\]
 
 30.
-    
 
-Posar A, Visconti P. Continuous Spike-Waves during Slow Sleep Today: An Update. Children (Basel). 2024 Jan 28;11(2) [[PMC free article: PMC10887038](/pmc/articles/PMC10887038/)] [[PubMed: 38397281](https://pubmed.ncbi.nlm.nih.gov/38397281)]
+Posar A, Visconti P. Continuous Spike-Waves during Slow Sleep Today: An Update. Children (Basel). 2024 Jan 28;11(2) \[[PMC free article: PMC10887038](/pmc/articles/PMC10887038/)\] \[[PubMed: 38397281](https://pubmed.ncbi.nlm.nih.gov/38397281)\]
 
 31.
-    
 
-Chapman KE, Haubenberger D, Jen E, Tishchenko A, Nguyen T, McMicken C. Unmet needs in epileptic encephalopathy with spike-and-wave activation in sleep: A systematic review. Epilepsy Res. 2024 Jan;199:107278. [[PubMed: 38157757](https://pubmed.ncbi.nlm.nih.gov/38157757)]
+Chapman KE, Haubenberger D, Jen E, Tishchenko A, Nguyen T, McMicken C. Unmet needs in epileptic encephalopathy with spike-and-wave activation in sleep: A systematic review. Epilepsy Res. 2024 Jan;199:107278. \[[PubMed: 38157757](https://pubmed.ncbi.nlm.nih.gov/38157757)\]
 
 32.
-    
 
-Fateh AA, Smahi A, Hassan M, Mo T, Hu Z, Mohammed AAQ, Hu Y, Massé CC, Chen L, Chen Y, Liao J, Zeng H. From brain connectivity to cognitive function: Dissecting the salience network in pediatric BECTS-ESES. Prog Neuropsychopharmacol Biol Psychiatry. 2024 Dec 20;135:111110. [[PubMed: 39069247](https://pubmed.ncbi.nlm.nih.gov/39069247)]
+Fateh AA, Smahi A, Hassan M, Mo T, Hu Z, Mohammed AAQ, Hu Y, Massé CC, Chen L, Chen Y, Liao J, Zeng H. From brain connectivity to cognitive function: Dissecting the salience network in pediatric BECTS-ESES. Prog Neuropsychopharmacol Biol Psychiatry. 2024 Dec 20;135:111110. \[[PubMed: 39069247](https://pubmed.ncbi.nlm.nih.gov/39069247)\]
 
 33.
-    
 
-Sánchez Fernández I, Loddenkemper T, Peters JM, Kothare SV. Electrical status epilepticus in sleep: clinical presentation and pathophysiology. Pediatr Neurol. 2012 Dec;47(6):390-410. [[PubMed: 23127259](https://pubmed.ncbi.nlm.nih.gov/23127259)]
+Sánchez Fernández I, Loddenkemper T, Peters JM, Kothare SV. Electrical status epilepticus in sleep: clinical presentation and pathophysiology. Pediatr Neurol. 2012 Dec;47(6):390-410. \[[PubMed: 23127259](https://pubmed.ncbi.nlm.nih.gov/23127259)\]
 
 34.
-    
 
-Caraballo R, Pavlidis E, Nikanorova M, Loddenkemper T. Encephalopathy with continuous spike-waves during slow-wave sleep: evolution and prognosis. Epileptic Disord. 2019 Jun 01;21(S1):15-21. [[PubMed: 31262717](https://pubmed.ncbi.nlm.nih.gov/31262717)]
+Caraballo R, Pavlidis E, Nikanorova M, Loddenkemper T. Encephalopathy with continuous spike-waves during slow-wave sleep: evolution and prognosis. Epileptic Disord. 2019 Jun 01;21(S1):15-21. \[[PubMed: 31262717](https://pubmed.ncbi.nlm.nih.gov/31262717)\]
 
 35.
-    
 
-Veggiotti P, Pera MC, Olivotto S, De Giorgis V. How to Manage Electrical Status Epilepticus in Sleep. J Clin Neurophysiol. 2016 Feb;33(1):3-9. [[PubMed: 26840869](https://pubmed.ncbi.nlm.nih.gov/26840869)]
-
-    
+Veggiotti P, Pera MC, Olivotto S, De Giorgis V. How to Manage Electrical Status Epilepticus in Sleep. J Clin Neurophysiol. 2016 Feb;33(1):3-9. \[[PubMed: 26840869](https://pubmed.ncbi.nlm.nih.gov/26840869)\]
 
 **Disclosure:** Debopam Samanta declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Yasir Al Khalili declares no relevant financial relationships with ineligible companies.

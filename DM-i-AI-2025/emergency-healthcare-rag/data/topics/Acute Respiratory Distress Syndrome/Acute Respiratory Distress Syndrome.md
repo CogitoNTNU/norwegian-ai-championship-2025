@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17172/
-scraped_date: 2025-07-22 12:38:31 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17172/ scraped_date: 2025-07-22 12:38:31 UTC
 
 # Acute Respiratory Distress Syndrome
 
@@ -31,13 +30,13 @@ Acute respiratory distress syndrome (ARDS) is a life-threatening condition chara
 
 **Objectives:**
 
-  * Identify the etiologies of acute respiratory distress syndrome.
+- Identify the etiologies of acute respiratory distress syndrome.
 
-  * Differentiate a patient presentation consistent with acute respiratory distress syndrome from similar conditions.
+- Differentiate a patient presentation consistent with acute respiratory distress syndrome from similar conditions.
 
-  * Select correct ventilatory parameters utilizing the NIH-NHLBI ARDS Clinical Network Mechanical Ventilation Protocol.
+- Select correct ventilatory parameters utilizing the NIH-NHLBI ARDS Clinical Network Mechanical Ventilation Protocol.
 
-  * Explain the critical role of well-coordinated, interprofessional teamwork when caring for patients with acute respiratory distress syndrome.
+- Explain the critical role of well-coordinated, interprofessional teamwork when caring for patients with acute respiratory distress syndrome.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17172&utm_source=pubmed&utm_campaign=reviews&utm_content=17172)
 
@@ -45,7 +44,7 @@ Acute respiratory distress syndrome (ARDS) is a life-threatening condition chara
 
 ARDS is an acute, diffuse, inflammatory form of lung injury and life-threatening condition in seriously ill patients, characterized by poor oxygenation, pulmonary infiltrates, and acute onset. On a microscopic level, the disorder is associated with capillary endothelial injury and diffuse alveolar damage.
 
-ARDS is an acute disorder that starts within seven days of the inciting event and is characterized by bilateral lung infiltrates and severe progressive hypoxemia in the absence of any evidence of cardiogenic pulmonary edema. According to the Berlin definition, ARDS is defined by acute onset, bilateral lung infiltrates on chest radiography or CT scan of a non-cardiac origin, and a PaO2/FiO2 ratio of less than 300 mm Hg. The Berlin definition differs from the previous American-European Consensus definition by excluding the term acute lung injury; it also removed the requirement for wedge pressure <18 mm Hg and included the requirement of positive end-expiratory pressure (PEEP) or continuous positive airway pressure (CPAP) of greater than or equal to 5 cm H20.
+ARDS is an acute disorder that starts within seven days of the inciting event and is characterized by bilateral lung infiltrates and severe progressive hypoxemia in the absence of any evidence of cardiogenic pulmonary edema. According to the Berlin definition, ARDS is defined by acute onset, bilateral lung infiltrates on chest radiography or CT scan of a non-cardiac origin, and a PaO2/FiO2 ratio of less than 300 mm Hg. The Berlin definition differs from the previous American-European Consensus definition by excluding the term acute lung injury; it also removed the requirement for wedge pressure \<18 mm Hg and included the requirement of positive end-expiratory pressure (PEEP) or continuous positive airway pressure (CPAP) of greater than or equal to 5 cm H20.
 
 Once ARDS develops, patients usually have varying degrees of pulmonary artery vasoconstriction and may subsequently develop pulmonary hypertension. ARDS carries a high mortality, and few effective therapeutic modalities exist to combat this condition.[1][2]
 
@@ -57,27 +56,27 @@ A lung injury prevention score helps identify low-risk patients, but a high scor
 
 Some risk factors for ARDS include:
 
-  * Advanced age
+- Advanced age
 
-  * Female gender
+- Female gender
 
-  * Smoking
+- Smoking
 
-  * Alcohol use
+- Alcohol use
 
-  * Aortic vascular surgery
+- Aortic vascular surgery
 
-  * Cardiovascular surgery
+- Cardiovascular surgery
 
-  * Traumatic brain injury [2]
+- Traumatic brain injury [2]
 
-  * Pancreatitis
+- Pancreatitis
 
-  * Pulmonary contusion
+- Pulmonary contusion
 
-  * Infectious pneumonia
+- Infectious pneumonia
 
-  * Drugs (radiation, chemotherapeutic agents, amiodarone)
+- Drugs (radiation, chemotherapeutic agents, amiodarone)
 
 ## Epidemiology
 
@@ -113,7 +112,7 @@ A lung-protective ventilatory strategy is advocated to reduce lung injury. The N
 
 Novel invasive ventilation strategies have been developed to improve oxygenation. These include airway pressure release ventilation (APRV) and high-frequency oscillation ventilation (children). Recruitment maneuvers and APRV have not been shown to improve mortality but may improve oxygenation. Patients with mild and some with moderate ARDS may benefit from non-invasive ventilation to avoid endotracheal intubation and invasive mechanical ventilation. These modalities include continuous positive airway pressure (CPAP), bi-level airway pressure (BiPAP), proportional-assist ventilation, and a high-flow nasal cannula. Adequate care should be taken to intubate and mechanically ventilate these patients if they get worse on the above non-invasive ventilation.
 
-Several strategies can be employed to reduce the risk of barotrauma in ARDS management to achieve Pp less than 30 cm H2O. One effective approach involves maintaining TV and minimizing PEEP as much as possible. Additionally, increasing the rise or inspiration time can aid in meeting the Pp target. Decreasing the flow rate can also serve as a supplementary method to lower Pp. 
+Several strategies can be employed to reduce the risk of barotrauma in ARDS management to achieve Pp less than 30 cm H2O. One effective approach involves maintaining TV and minimizing PEEP as much as possible. Additionally, increasing the rise or inspiration time can aid in meeting the Pp target. Decreasing the flow rate can also serve as a supplementary method to lower Pp.
 
 Improving lung compliance will improve Pp and oxygenation goal attainment. Neuromuscular blockade has been used as an aid to improving compliance. Neuromuscular blockers instituted during the first 48 hours of ARDS improved 90-day survival and increased time off the ventilator.[13] However, the most recent trial published in 2019 showed no significant difference in mortality with continuous infusion of people with paralysis compared to lighter sedation goals.[14]
 
@@ -121,7 +120,7 @@ Other causes of decreased lung compliance should be sought and addressed. These 
 
 Nonventilatory strategies have included prone positioning and conservative fluid management once resuscitation has been achieved.[15][16] Extracorporeal membrane oxygenation (ECMO) has recently been advocated as salvage therapy in refractory hypoxemic ARDS.[17] However, two major trials that compared venovenous ECMO to standard care showed no difference in mortality between the two groups.[18] Nutritional support via enteral feeding is recommended. A high-fat, low-carbohydrate diet containing gamma-linolenic acid and eicosapentaenoic acid has been shown in some studies to improve oxygenation. A moderately permissive hyperglycemic strategy, blood glucose 140 to 180 mg/dL, is recommended for most hyperglycemic critically ill patients, rather than intensive insulin therapy targeting blood glucose 80 to 110 mg/dL. Critically ill patients are more prone to deep venous thrombosis, so some form of prophylaxis is recommended. Likewise, prophylaxis against stress ulcers is advised for increased risk of gastrointestinal bleeding.
 
-Glucocorticoids can be administered in patients in whom ARDS has been precipitated by a steroid-responsive process (eg, acute eosinophilic pneumonia) and to those with refractory sepsis or community-acquired pneumonia. Most patients who have persistent or refractory moderate to severe ARDS are relatively early in the disease course (within 14 days of onset with a PaO2/FiO2 ratio <200 mm Hg) despite initial management with standard therapies, including low tidal volume ventilation, can also be managed with glucocorticoids.[19] However, glucocorticoids are generally avoided in patients with less severe ARDS or those with persistent ARDS beyond 14 days. Moreover, their use is associated with worse outcomes in patients with certain viral infections, including influenza.[20]
+Glucocorticoids can be administered in patients in whom ARDS has been precipitated by a steroid-responsive process (eg, acute eosinophilic pneumonia) and to those with refractory sepsis or community-acquired pneumonia. Most patients who have persistent or refractory moderate to severe ARDS are relatively early in the disease course (within 14 days of onset with a PaO2/FiO2 ratio \<200 mm Hg) despite initial management with standard therapies, including low tidal volume ventilation, can also be managed with glucocorticoids.[19] However, glucocorticoids are generally avoided in patients with less severe ARDS or those with persistent ARDS beyond 14 days. Moreover, their use is associated with worse outcomes in patients with certain viral infections, including influenza.[20]
 
 Central venous catheters may be helpful for frequent blood draws, administration of vasopressors, and measurement of central venous pressure.
 
@@ -131,25 +130,25 @@ Care must also be taken to prevent pressure sores. Frequent patient repositionin
 
 Differential diagnoses for ARDS include the following:
 
-  * Cardiogenic edema
+- Cardiogenic edema
 
-  * Exacerbation of interstitial lung disease
+- Exacerbation of interstitial lung disease
 
-  * Acute interstitial pneumonia
+- Acute interstitial pneumonia
 
-  * Diffuse alveolar hemorrhage
+- Diffuse alveolar hemorrhage
 
-  * Acute eosinophilic lung disease
+- Acute eosinophilic lung disease
 
-  * Organizing pneumonia
+- Organizing pneumonia
 
-  * Bilateral pneumonia
+- Bilateral pneumonia
 
-  * Pulmonary vasculitis
+- Pulmonary vasculitis
 
-  * Cryptogenic organizing pneumonia
+- Cryptogenic organizing pneumonia
 
-  * Disseminated malignancy
+- Disseminated malignancy
 
 ## Prognosis
 
@@ -159,33 +158,33 @@ The prognosis for ARDS was abysmal until very recently. There are reports of 30%
 
 Complications of ARDS include the following:
 
-  * Barotrauma from high PEEP
+- Barotrauma from high PEEP
 
-  * Prolonged mechanical ventilation (necessitating tracheostomy)
+- Prolonged mechanical ventilation (necessitating tracheostomy)
 
-  * Post-extubation laryngeal edema and subglottic stenosis
+- Post-extubation laryngeal edema and subglottic stenosis
 
-  * Nosocomial infections
+- Nosocomial infections
 
-  * Pneumonia
+- Pneumonia
 
-  * Line sepsis
+- Line sepsis
 
-  * Urinary tract infection
+- Urinary tract infection
 
-  * Deep venous thrombosis
+- Deep venous thrombosis
 
-  * Antibiotic resistance
+- Antibiotic resistance
 
-  * Muscle weakness
+- Muscle weakness
 
-  * Renal failure
+- Renal failure
 
-  * Post-traumatic stress disorder
+- Post-traumatic stress disorder
 
 ## Postoperative and Rehabilitation Care
 
-**Tracheostomy and**Percutaneous Endoscopic Gastrostomy****
+**Tracheostomy and**Percutaneous Endoscopic Gastrostomy\*\*\*\*
 
 Many patients with ARDS require a tracheostomy and a percutaneous feeding tube (PEG) in the recovery phase. The tracheostomy facilitates weaning from the ventilator, making it easy to clear the secretions and more comfortable. The tracheostomy is usually performed at 2 to 3 weeks, followed by a PEG.
 
@@ -201,47 +200,47 @@ Since patients with ARDS are bed-bound, frequent position changes are highly rec
 
 Care of patients with ARDS requires an interprofessional team of healthcare workers that includes the following:
 
-  * Pulmonologist
+- Pulmonologist
 
-  * Respiratory therapist
+- Respiratory therapist
 
-  * Intensivist
+- Intensivist
 
-  * Infectious disease specialist
+- Infectious disease specialist
 
-  * Dietitian
+- Dietitian
 
 ## Deterrence and Patient Education
 
 Even though many risk factors for ARDS are known, there is no way to prevent ARDS proactively. However, careful management of fluids in high-risk patients can be helpful. Steps should be taken to avoid aspiration by keeping the head of the bed elevated before feeding. Employing a lung-protective mechanical ventilation strategy in patients at high risk for ARDS could aid in preventing the onset of this condition.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 ARDS is a severe disorder of the lungs with the potential to cause death. Patients with ARDS may require mechanical ventilation because of hypoxia.[24] The management is usually in the ICU with an interprofessional healthcare team. ARDS has effects beyond the lung. Prolonged mechanical ventilation often leads to bedsores, deep venous thrombosis, multisystem organ failure, weight loss, and poor overall functioning. It is essential to have an integrated approach to ARDS management because it usually affects many organs in the body. These patients need nutritional support, chest physiotherapy, treatment for sepsis if present, and potentially hemodialysis. Many of these patients remain in the hospital for months, and even those who survive face severe challenges due to a loss of muscle mass and cognitive changes (due to hypoxia). Evidence shows that an interprofessional team approach improves outcomes by facilitating communication and ensuring timely intervention.[25] The team and responsibilities should consist of the following:
 
-  * Intensivist: Manages ventilator use and ICU issues like pneumonia prevention and DVT prophylaxis.
+- Intensivist: Manages ventilator use and ICU issues like pneumonia prevention and DVT prophylaxis.
 
-  * Dietitian and Nutritionist: Provide nutritional support.
+- Dietitian and Nutritionist: Provide nutritional support.
 
-  * Respiratory Therapist: Oversees ventilator settings.
+- Respiratory Therapist: Oversees ventilator settings.
 
-  * Pharmacist: Manages medications, including antibiotics, anticoagulants, and diuretics.
+- Pharmacist: Manages medications, including antibiotics, anticoagulants, and diuretics.
 
-  * Pulmonologist: Addresses lung diseases.
+- Pulmonologist: Addresses lung diseases.
 
-  * Nephrologist: Manages kidney health and renal replacement therapy.
+- Nephrologist: Manages kidney health and renal replacement therapy.
 
-  * Nurses: Monitor patient health, assist with movement, and educate families.
+- Nurses: Monitor patient health, assist with movement, and educate families.
 
-  * Physical Therapist: Aids in regaining muscle function.
+- Physical Therapist: Aids in regaining muscle function.
 
-  * Tracheostomy Nurse: Helps with tracheostomy maintenance and weaning.
+- Tracheostomy Nurse: Helps with tracheostomy maintenance and weaning.
 
-  * Mental Health Nurse: Assesses psychological well-being.
+- Mental Health Nurse: Assesses psychological well-being.
 
-  * Social Worker: Manages rehabilitation transfers, follow-up care, and any financial issues the patient may have.
+- Social Worker: Manages rehabilitation transfers, follow-up care, and any financial issues the patient may have.
 
-  * Chaplain: Provides spiritual support.
+- Chaplain: Provides spiritual support.
 
 **Outcomes**
 
@@ -249,163 +248,130 @@ Despite advances in critical care, ARDS still has high morbidity and mortality. 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17172&utm_source=pubmed&utm_campaign=reviews&utm_content=17172)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17172&utm_source=pubmed&utm_campaign=reviews&utm_content=17172)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/acute-respiratory-distress-syndrome/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17172)
+- [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/acute-respiratory-distress-syndrome/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17172)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17172/?utm_source=pubmed&utm_campaign=comments&utm_content=17172)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17172/?utm_source=pubmed&utm_campaign=comments&utm_content=17172)
 
 [![Image ](/books/NBK436002/bin/ARDS1.gif)](/books/NBK436002/figure/article-17172.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK436002/figure/article-17172.image.f1/?report=objectonly)
 
-Acute Respiratory Distress Syndrome Image courtesy S Bhimji MD 
+Acute Respiratory Distress Syndrome Image courtesy S Bhimji MD
 
 [![This is a chest radiograph of a preterm neonate with respiratory distress syndrome showing diffuse ground glass haziness bilaterally with air bronchograms](/books/NBK436002/bin/RDS-xray__statpearls.gif)](/books/NBK436002/figure/article-17172.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK436002/figure/article-17172.image.f2/?report=objectonly)
 
-This is a chest radiograph of a preterm neonate with respiratory distress syndrome showing diffuse ground glass haziness bilaterally with air bronchograms. Contributed by Ranjith Kamity, MD 
+This is a chest radiograph of a preterm neonate with respiratory distress syndrome showing diffuse ground glass haziness bilaterally with air bronchograms. Contributed by Ranjith Kamity, MD
 
 ## References
 
 1.
-    
 
-Gajic O, Dabbagh O, Park PK, Adesanya A, Chang SY, Hou P, Anderson H, Hoth JJ, Mikkelsen ME, Gentile NT, Gong MN, Talmor D, Bajwa E, Watkins TR, Festic E, Yilmaz M, Iscimen R, Kaufman DA, Esper AM, Sadikot R, Douglas I, Sevransky J, Malinchoc M., U.S. Critical Illness and Injury Trials Group: Lung Injury Prevention Study Investigators (USCIITG-LIPS). Early identification of patients at risk of acute lung injury: evaluation of lung injury prediction score in a multicenter cohort study. Am J Respir Crit Care Med. 2011 Feb 15;183(4):462-70. [[PMC free article: PMC3056224](/pmc/articles/PMC3056224/)] [[PubMed: 20802164](https://pubmed.ncbi.nlm.nih.gov/20802164)]
+Gajic O, Dabbagh O, Park PK, Adesanya A, Chang SY, Hou P, Anderson H, Hoth JJ, Mikkelsen ME, Gentile NT, Gong MN, Talmor D, Bajwa E, Watkins TR, Festic E, Yilmaz M, Iscimen R, Kaufman DA, Esper AM, Sadikot R, Douglas I, Sevransky J, Malinchoc M., U.S. Critical Illness and Injury Trials Group: Lung Injury Prevention Study Investigators (USCIITG-LIPS). Early identification of patients at risk of acute lung injury: evaluation of lung injury prediction score in a multicenter cohort study. Am J Respir Crit Care Med. 2011 Feb 15;183(4):462-70. \[[PMC free article: PMC3056224](/pmc/articles/PMC3056224/)\] \[[PubMed: 20802164](https://pubmed.ncbi.nlm.nih.gov/20802164)\]
 
 2.
-    
 
-Wang Y, Zhang L, Xi X, Zhou JX., China Critical Care Sepsis Trial (CCCST) Workgroup. The Association Between Etiologies and Mortality in Acute Respiratory Distress Syndrome: A Multicenter Observational Cohort Study. Front Med (Lausanne). 2021;8:739596. [[PMC free article: PMC8558376](/pmc/articles/PMC8558376/)] [[PubMed: 34733862](https://pubmed.ncbi.nlm.nih.gov/34733862)]
+Wang Y, Zhang L, Xi X, Zhou JX., China Critical Care Sepsis Trial (CCCST) Workgroup. The Association Between Etiologies and Mortality in Acute Respiratory Distress Syndrome: A Multicenter Observational Cohort Study. Front Med (Lausanne). 2021;8:739596. \[[PMC free article: PMC8558376](/pmc/articles/PMC8558376/)\] \[[PubMed: 34733862](https://pubmed.ncbi.nlm.nih.gov/34733862)\]
 
 3.
-    
 
-Zambon M, Vincent JL. Mortality rates for patients with acute lung injury/ARDS have decreased over time. Chest. 2008 May;133(5):1120-7. [[PubMed: 18263687](https://pubmed.ncbi.nlm.nih.gov/18263687)]
+Zambon M, Vincent JL. Mortality rates for patients with acute lung injury/ARDS have decreased over time. Chest. 2008 May;133(5):1120-7. \[[PubMed: 18263687](https://pubmed.ncbi.nlm.nih.gov/18263687)\]
 
 4.
-    
 
-Shrestha GS, Khanal S, Sharma S, Nepal G. COVID-19: Current Understanding of Pathophysiology. J Nepal Health Res Counc. 2020 Nov 13;18(3):351-359. [[PubMed: 33210623](https://pubmed.ncbi.nlm.nih.gov/33210623)]
+Shrestha GS, Khanal S, Sharma S, Nepal G. COVID-19: Current Understanding of Pathophysiology. J Nepal Health Res Counc. 2020 Nov 13;18(3):351-359. \[[PubMed: 33210623](https://pubmed.ncbi.nlm.nih.gov/33210623)\]
 
 5.
-    
 
-Bellani G, Laffey JG, Pham T, Fan E, Brochard L, Esteban A, Gattinoni L, van Haren F, Larsson A, McAuley DF, Ranieri M, Rubenfeld G, Thompson BT, Wrigge H, Slutsky AS, Pesenti A., LUNG SAFE Investigators. ESICM Trials Group. Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries. JAMA. 2016 Feb 23;315(8):788-800. [[PubMed: 26903337](https://pubmed.ncbi.nlm.nih.gov/26903337)]
+Bellani G, Laffey JG, Pham T, Fan E, Brochard L, Esteban A, Gattinoni L, van Haren F, Larsson A, McAuley DF, Ranieri M, Rubenfeld G, Thompson BT, Wrigge H, Slutsky AS, Pesenti A., LUNG SAFE Investigators. ESICM Trials Group. Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries. JAMA. 2016 Feb 23;315(8):788-800. \[[PubMed: 26903337](https://pubmed.ncbi.nlm.nih.gov/26903337)\]
 
 6.
-    
 
-Sedhai YR, Yuan M, Ketcham SW, Co I, Claar DD, McSparron JI, Prescott HC, Sjoding MW. Validating Measures of Disease Severity in Acute Respiratory Distress Syndrome. Ann Am Thorac Soc. 2021 Jul;18(7):1211-1218. [[PMC free article: PMC8328371](/pmc/articles/PMC8328371/)] [[PubMed: 33347379](https://pubmed.ncbi.nlm.nih.gov/33347379)]
+Sedhai YR, Yuan M, Ketcham SW, Co I, Claar DD, McSparron JI, Prescott HC, Sjoding MW. Validating Measures of Disease Severity in Acute Respiratory Distress Syndrome. Ann Am Thorac Soc. 2021 Jul;18(7):1211-1218. \[[PMC free article: PMC8328371](/pmc/articles/PMC8328371/)\] \[[PubMed: 33347379](https://pubmed.ncbi.nlm.nih.gov/33347379)\]
 
 7.
-    
 
-Sharma NS, Lal CV, Li JD, Lou XY, Viera L, Abdallah T, King RW, Sethi J, Kanagarajah P, Restrepo-Jaramillo R, Sales-Conniff A, Wei S, Jackson PL, Blalock JE, Gaggar A, Xu X. The neutrophil chemoattractant peptide proline-glycine-proline is associated with acute respiratory distress syndrome. Am J Physiol Lung Cell Mol Physiol. 2018 Nov 01;315(5):L653-L661. [[PMC free article: PMC6295514](/pmc/articles/PMC6295514/)] [[PubMed: 30091378](https://pubmed.ncbi.nlm.nih.gov/30091378)]
+Sharma NS, Lal CV, Li JD, Lou XY, Viera L, Abdallah T, King RW, Sethi J, Kanagarajah P, Restrepo-Jaramillo R, Sales-Conniff A, Wei S, Jackson PL, Blalock JE, Gaggar A, Xu X. The neutrophil chemoattractant peptide proline-glycine-proline is associated with acute respiratory distress syndrome. Am J Physiol Lung Cell Mol Physiol. 2018 Nov 01;315(5):L653-L661. \[[PMC free article: PMC6295514](/pmc/articles/PMC6295514/)\] \[[PubMed: 30091378](https://pubmed.ncbi.nlm.nih.gov/30091378)\]
 
 8.
-    
 
-Huang D, Ma H, Xiao Z, Blaivas M, Chen Y, Wen J, Guo W, Liang J, Liao X, Wang Z, Li H, Li J, Chao Y, Wang XT, Wu Y, Qin T, Su K, Wang S, Tan N. Diagnostic value of cardiopulmonary ultrasound in elderly patients with acute respiratory distress syndrome. BMC Pulm Med. 2018 Aug 13;18(1):136. [[PMC free article: PMC6090678](/pmc/articles/PMC6090678/)] [[PubMed: 30103730](https://pubmed.ncbi.nlm.nih.gov/30103730)]
+Huang D, Ma H, Xiao Z, Blaivas M, Chen Y, Wen J, Guo W, Liang J, Liao X, Wang Z, Li H, Li J, Chao Y, Wang XT, Wu Y, Qin T, Su K, Wang S, Tan N. Diagnostic value of cardiopulmonary ultrasound in elderly patients with acute respiratory distress syndrome. BMC Pulm Med. 2018 Aug 13;18(1):136. \[[PMC free article: PMC6090678](/pmc/articles/PMC6090678/)\] \[[PubMed: 30103730](https://pubmed.ncbi.nlm.nih.gov/30103730)\]
 
 9.
-    
 
-Vieillard-Baron A, Schmitt JM, Augarde R, Fellahi JL, Prin S, Page B, Beauchet A, Jardin F. Acute cor pulmonale in acute respiratory distress syndrome submitted to protective ventilation: incidence, clinical implications, and prognosis. Crit Care Med. 2001 Aug;29(8):1551-5. [[PubMed: 11505125](https://pubmed.ncbi.nlm.nih.gov/11505125)]
+Vieillard-Baron A, Schmitt JM, Augarde R, Fellahi JL, Prin S, Page B, Beauchet A, Jardin F. Acute cor pulmonale in acute respiratory distress syndrome submitted to protective ventilation: incidence, clinical implications, and prognosis. Crit Care Med. 2001 Aug;29(8):1551-5. \[[PubMed: 11505125](https://pubmed.ncbi.nlm.nih.gov/11505125)\]
 
 10.
-    
 
-Chen WL, Lin WT, Kung SC, Lai CC, Chao CM. The Value of Oxygenation Saturation Index in Predicting the Outcomes of Patients with Acute Respiratory Distress Syndrome. J Clin Med. 2018 Aug 08;7(8) [[PMC free article: PMC6111712](/pmc/articles/PMC6111712/)] [[PubMed: 30096809](https://pubmed.ncbi.nlm.nih.gov/30096809)]
+Chen WL, Lin WT, Kung SC, Lai CC, Chao CM. The Value of Oxygenation Saturation Index in Predicting the Outcomes of Patients with Acute Respiratory Distress Syndrome. J Clin Med. 2018 Aug 08;7(8) \[[PMC free article: PMC6111712](/pmc/articles/PMC6111712/)\] \[[PubMed: 30096809](https://pubmed.ncbi.nlm.nih.gov/30096809)\]
 
 11.
-    
 
-Rawal G, Yadav S, Kumar R. Acute Respiratory Distress Syndrome: An Update and Review. J Transl Int Med. 2018 Jun;6(2):74-77. [[PMC free article: PMC6032183](/pmc/articles/PMC6032183/)] [[PubMed: 29984201](https://pubmed.ncbi.nlm.nih.gov/29984201)]
+Rawal G, Yadav S, Kumar R. Acute Respiratory Distress Syndrome: An Update and Review. J Transl Int Med. 2018 Jun;6(2):74-77. \[[PMC free article: PMC6032183](/pmc/articles/PMC6032183/)\] \[[PubMed: 29984201](https://pubmed.ncbi.nlm.nih.gov/29984201)\]
 
 12.
-    
 
-Cherian SV, Kumar A, Akasapu K, Ashton RW, Aparnath M, Malhotra A. Salvage therapies for refractory hypoxemia in ARDS. Respir Med. 2018 Aug;141:150-158. [[PMC free article: PMC6186150](/pmc/articles/PMC6186150/)] [[PubMed: 30053961](https://pubmed.ncbi.nlm.nih.gov/30053961)]
+Cherian SV, Kumar A, Akasapu K, Ashton RW, Aparnath M, Malhotra A. Salvage therapies for refractory hypoxemia in ARDS. Respir Med. 2018 Aug;141:150-158. \[[PMC free article: PMC6186150](/pmc/articles/PMC6186150/)\] \[[PubMed: 30053961](https://pubmed.ncbi.nlm.nih.gov/30053961)\]
 
 13.
-    
 
-Guérin C, Reignier J, Richard JC, Beuret P, Gacouin A, Boulain T, Mercier E, Badet M, Mercat A, Baudin O, Clavel M, Chatellier D, Jaber S, Rosselli S, Mancebo J, Sirodot M, Hilbert G, Bengler C, Richecoeur J, Gainnier M, Bayle F, Bourdin G, Leray V, Girard R, Baboi L, Ayzac L., PROSEVA Study Group. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med. 2013 Jun 06;368(23):2159-68. [[PubMed: 23688302](https://pubmed.ncbi.nlm.nih.gov/23688302)]
+Guérin C, Reignier J, Richard JC, Beuret P, Gacouin A, Boulain T, Mercier E, Badet M, Mercat A, Baudin O, Clavel M, Chatellier D, Jaber S, Rosselli S, Mancebo J, Sirodot M, Hilbert G, Bengler C, Richecoeur J, Gainnier M, Bayle F, Bourdin G, Leray V, Girard R, Baboi L, Ayzac L., PROSEVA Study Group. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med. 2013 Jun 06;368(23):2159-68. \[[PubMed: 23688302](https://pubmed.ncbi.nlm.nih.gov/23688302)\]
 
 14.
-    
 
-National Heart, Lung, and Blood Institute PETAL Clinical Trials Network. Moss M, Huang DT, Brower RG, Ferguson ND, Ginde AA, Gong MN, Grissom CK, Gundel S, Hayden D, Hite RD, Hou PC, Hough CL, Iwashyna TJ, Khan A, Liu KD, Talmor D, Thompson BT, Ulysse CA, Yealy DM, Angus DC. Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome. N Engl J Med. 2019 May 23;380(21):1997-2008. [[PMC free article: PMC6741345](/pmc/articles/PMC6741345/)] [[PubMed: 31112383](https://pubmed.ncbi.nlm.nih.gov/31112383)]
+National Heart, Lung, and Blood Institute PETAL Clinical Trials Network. Moss M, Huang DT, Brower RG, Ferguson ND, Ginde AA, Gong MN, Grissom CK, Gundel S, Hayden D, Hite RD, Hou PC, Hough CL, Iwashyna TJ, Khan A, Liu KD, Talmor D, Thompson BT, Ulysse CA, Yealy DM, Angus DC. Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome. N Engl J Med. 2019 May 23;380(21):1997-2008. \[[PMC free article: PMC6741345](/pmc/articles/PMC6741345/)\] \[[PubMed: 31112383](https://pubmed.ncbi.nlm.nih.gov/31112383)\]
 
 15.
-    
 
-National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network. Wiedemann HP, Wheeler AP, Bernard GR, Thompson BT, Hayden D, deBoisblanc B, Connors AF, Hite RD, Harabin AL. Comparison of two fluid-management strategies in acute lung injury. N Engl J Med. 2006 Jun 15;354(24):2564-75. [[PubMed: 16714767](https://pubmed.ncbi.nlm.nih.gov/16714767)]
+National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome (ARDS) Clinical Trials Network. Wiedemann HP, Wheeler AP, Bernard GR, Thompson BT, Hayden D, deBoisblanc B, Connors AF, Hite RD, Harabin AL. Comparison of two fluid-management strategies in acute lung injury. N Engl J Med. 2006 Jun 15;354(24):2564-75. \[[PubMed: 16714767](https://pubmed.ncbi.nlm.nih.gov/16714767)\]
 
 16.
-    
 
-Brodie D, Bacchetta M. Extracorporeal membrane oxygenation for ARDS in adults. N Engl J Med. 2011 Nov 17;365(20):1905-14. [[PubMed: 22087681](https://pubmed.ncbi.nlm.nih.gov/22087681)]
+Brodie D, Bacchetta M. Extracorporeal membrane oxygenation for ARDS in adults. N Engl J Med. 2011 Nov 17;365(20):1905-14. \[[PubMed: 22087681](https://pubmed.ncbi.nlm.nih.gov/22087681)\]
 
 17.
-    
 
-Combes A, Hajage D, Capellier G, Demoule A, Lavoué S, Guervilly C, Da Silva D, Zafrani L, Tirot P, Veber B, Maury E, Levy B, Cohen Y, Richard C, Kalfon P, Bouadma L, Mehdaoui H, Beduneau G, Lebreton G, Brochard L, Ferguson ND, Fan E, Slutsky AS, Brodie D, Mercat A., EOLIA Trial Group, REVA, and ECMONet. Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome. N Engl J Med. 2018 May 24;378(21):1965-1975. [[PubMed: 29791822](https://pubmed.ncbi.nlm.nih.gov/29791822)]
+Combes A, Hajage D, Capellier G, Demoule A, Lavoué S, Guervilly C, Da Silva D, Zafrani L, Tirot P, Veber B, Maury E, Levy B, Cohen Y, Richard C, Kalfon P, Bouadma L, Mehdaoui H, Beduneau G, Lebreton G, Brochard L, Ferguson ND, Fan E, Slutsky AS, Brodie D, Mercat A., EOLIA Trial Group, REVA, and ECMONet. Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome. N Engl J Med. 2018 May 24;378(21):1965-1975. \[[PubMed: 29791822](https://pubmed.ncbi.nlm.nih.gov/29791822)\]
 
 18.
-    
 
-Yang P, Formanek P, Scaglione S, Afshar M. Risk factors and outcomes of acute respiratory distress syndrome in critically ill patients with cirrhosis. Hepatol Res. 2019 Mar;49(3):335-343. [[PMC free article: PMC6560637](/pmc/articles/PMC6560637/)] [[PubMed: 30084205](https://pubmed.ncbi.nlm.nih.gov/30084205)]
+Yang P, Formanek P, Scaglione S, Afshar M. Risk factors and outcomes of acute respiratory distress syndrome in critically ill patients with cirrhosis. Hepatol Res. 2019 Mar;49(3):335-343. \[[PMC free article: PMC6560637](/pmc/articles/PMC6560637/)\] \[[PubMed: 30084205](https://pubmed.ncbi.nlm.nih.gov/30084205)\]
 
 19.
-    
 
-Annane D, Pastores SM, Rochwerg B, Arlt W, Balk RA, Beishuizen A, Briegel J, Carcillo J, Christ-Crain M, Cooper MS, Marik PE, Umberto Meduri G, Olsen KM, Rodgers S, Russell JA, Van den Berghe G. Correction to: Guidelines for the diagnosis and management of critical illness-related corticosteroid insufficiency (CIRCI) in critically ill patients (Part I): Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM) 2017. Intensive Care Med. 2018 Mar;44(3):401-402. [[PubMed: 29476199](https://pubmed.ncbi.nlm.nih.gov/29476199)]
+Annane D, Pastores SM, Rochwerg B, Arlt W, Balk RA, Beishuizen A, Briegel J, Carcillo J, Christ-Crain M, Cooper MS, Marik PE, Umberto Meduri G, Olsen KM, Rodgers S, Russell JA, Van den Berghe G. Correction to: Guidelines for the diagnosis and management of critical illness-related corticosteroid insufficiency (CIRCI) in critically ill patients (Part I): Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM) 2017. Intensive Care Med. 2018 Mar;44(3):401-402. \[[PubMed: 29476199](https://pubmed.ncbi.nlm.nih.gov/29476199)\]
 
 20.
-    
 
-Rodrigo C, Leonardi-Bee J, Nguyen-Van-Tam J, Lim WS. Corticosteroids as adjunctive therapy in the treatment of influenza. Cochrane Database Syst Rev. 2016 Mar 07;3:CD010406. [[PubMed: 26950335](https://pubmed.ncbi.nlm.nih.gov/26950335)]
+Rodrigo C, Leonardi-Bee J, Nguyen-Van-Tam J, Lim WS. Corticosteroids as adjunctive therapy in the treatment of influenza. Cochrane Database Syst Rev. 2016 Mar 07;3:CD010406. \[[PubMed: 26950335](https://pubmed.ncbi.nlm.nih.gov/26950335)\]
 
 21.
-    
 
-Anand R, McAuley DF, Blackwood B, Yap C, ONeill B, Connolly B, Borthwick M, Shyamsundar M, Warburton J, Meenen DV, Paulus F, Schultz MJ, Dark P, Bradley JM. Mucoactive agents for acute respiratory failure in the critically ill: a systematic review and meta-analysis. Thorax. 2020 Aug;75(8):623-631. [[PMC free article: PMC7402561](/pmc/articles/PMC7402561/)] [[PubMed: 32513777](https://pubmed.ncbi.nlm.nih.gov/32513777)]
+Anand R, McAuley DF, Blackwood B, Yap C, ONeill B, Connolly B, Borthwick M, Shyamsundar M, Warburton J, Meenen DV, Paulus F, Schultz MJ, Dark P, Bradley JM. Mucoactive agents for acute respiratory failure in the critically ill: a systematic review and meta-analysis. Thorax. 2020 Aug;75(8):623-631. \[[PMC free article: PMC7402561](/pmc/articles/PMC7402561/)\] \[[PubMed: 32513777](https://pubmed.ncbi.nlm.nih.gov/32513777)\]
 
 22.
-    
 
-Gadre SK, Duggal A, Mireles-Cabodevila E, Krishnan S, Wang XF, Zell K, Guzman J. Acute respiratory failure requiring mechanical ventilation in severe chronic obstructive pulmonary disease (COPD). Medicine (Baltimore). 2018 Apr;97(17):e0487. [[PMC free article: PMC5944543](/pmc/articles/PMC5944543/)] [[PubMed: 29703009](https://pubmed.ncbi.nlm.nih.gov/29703009)]
+Gadre SK, Duggal A, Mireles-Cabodevila E, Krishnan S, Wang XF, Zell K, Guzman J. Acute respiratory failure requiring mechanical ventilation in severe chronic obstructive pulmonary disease (COPD). Medicine (Baltimore). 2018 Apr;97(17):e0487. \[[PMC free article: PMC5944543](/pmc/articles/PMC5944543/)\] \[[PubMed: 29703009](https://pubmed.ncbi.nlm.nih.gov/29703009)\]
 
 23.
-    
 
-Chiumello D, Coppola S, Froio S, Gotti M. What's Next After ARDS: Long-Term Outcomes. Respir Care. 2016 May;61(5):689-99. [[PubMed: 27121623](https://pubmed.ncbi.nlm.nih.gov/27121623)]
+Chiumello D, Coppola S, Froio S, Gotti M. What's Next After ARDS: Long-Term Outcomes. Respir Care. 2016 May;61(5):689-99. \[[PubMed: 27121623](https://pubmed.ncbi.nlm.nih.gov/27121623)\]
 
 24.
-    
 
-Villar J, Schultz MJ, Kacmarek RM. The LUNG SAFE: a biased presentation of the prevalence of ARDS! Crit Care. 2016 Apr 25;20(1):108. [[PMC free article: PMC4843206](/pmc/articles/PMC4843206/)] [[PubMed: 27109238](https://pubmed.ncbi.nlm.nih.gov/27109238)]
+Villar J, Schultz MJ, Kacmarek RM. The LUNG SAFE: a biased presentation of the prevalence of ARDS! Crit Care. 2016 Apr 25;20(1):108. \[[PMC free article: PMC4843206](/pmc/articles/PMC4843206/)\] \[[PubMed: 27109238](https://pubmed.ncbi.nlm.nih.gov/27109238)\]
 
 25.
-    
 
-Bos LD, Cremer OL, Ong DS, Caser EB, Barbas CS, Villar J, Kacmarek RM, Schultz MJ., MARS consortium. External validation confirms the legitimacy of a new clinical classification of ARDS for predicting outcome. Intensive Care Med. 2015 Nov;41(11):2004-5. [[PubMed: 26202043](https://pubmed.ncbi.nlm.nih.gov/26202043)]
-
-    
+Bos LD, Cremer OL, Ong DS, Caser EB, Barbas CS, Villar J, Kacmarek RM, Schultz MJ., MARS consortium. External validation confirms the legitimacy of a new clinical classification of ARDS for predicting outcome. Intensive Care Med. 2015 Nov;41(11):2004-5. \[[PubMed: 26202043](https://pubmed.ncbi.nlm.nih.gov/26202043)\]
 
 **Disclosure:** Matthew Diamond declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Hector Peniston declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Devang Sanghavi declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Sidharth Mahapatra declares no relevant financial relationships with ineligible companies.

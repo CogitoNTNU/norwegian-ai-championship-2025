@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19771/
-scraped_date: 2025-07-22 12:41:26 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19771/ scraped_date: 2025-07-22 12:41:26 UTC
 
 # Abdominal Compartment Syndrome
 
@@ -29,13 +28,13 @@ Abdominal compartment syndrome (ACS) is a serious condition that occurs when the
 
 **Objectives:**
 
-  * Evaluate patients with significant fluid shifts, especially those with associated clinical instability, for abdominal compartment syndrome by routinely measuring intra-abdominal pressure and utilizing established criteria from the World Society of Abdominal Compartment Syndrome (WSACS) guidelines.
+- Evaluate patients with significant fluid shifts, especially those with associated clinical instability, for abdominal compartment syndrome by routinely measuring intra-abdominal pressure and utilizing established criteria from the World Society of Abdominal Compartment Syndrome (WSACS) guidelines.
 
-  * Assess and evaluate the impact of elevated intra-abdominal pressure on surrounding organ systems, recognizing the potential for multi-organ dysfunction, and incorporate this holistic perspective into abdominal compartment syndrome management decisions.
+- Assess and evaluate the impact of elevated intra-abdominal pressure on surrounding organ systems, recognizing the potential for multi-organ dysfunction, and incorporate this holistic perspective into abdominal compartment syndrome management decisions.
 
-  * Select appropriate interventions, whether medical or surgical, based on the patient's clinical presentation and IAP measurements, aiming for timely and effective abdominal compartment syndrome management.
+- Select appropriate interventions, whether medical or surgical, based on the patient's clinical presentation and IAP measurements, aiming for timely and effective abdominal compartment syndrome management.
 
-  * Communicate effectively with interdisciplinary healthcare teams to ensure coordinated care and timely interventions for patients at risk or diagnosed with abdominal compartment syndrome.
+- Communicate effectively with interdisciplinary healthcare teams to ensure coordinated care and timely interventions for patients at risk or diagnosed with abdominal compartment syndrome.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19771&utm_source=pubmed&utm_campaign=reviews&utm_content=19771)
 
@@ -53,13 +52,13 @@ Abdominal compliance is primarily determined by the elasticity of the abdominal 
 
 As IAH is viewed as a physiologic continuum. The WSACS recommended that IAH be divided into four grades as follows:[5]
 
-  * Grade I: IAP 12-15 mm Hg
+- Grade I: IAP 12-15 mm Hg
 
-  * Grade II: IAP 16-20 mm Hg
+- Grade II: IAP 16-20 mm Hg
 
-  * Grade III: IAP 21-25 mm Hg
+- Grade III: IAP 21-25 mm Hg
 
-  * Grade IV: IAP >25 mm Hg
+- Grade IV: IAP >25 mm Hg
 
 Intra-abdominal hypertension in the presence of organ dysfunction raises suspicion for ACS. Surgical procedures that carry an especially high risk of developing IAH include liver transplantation, damage control surgery, repair of abdominal aortic aneurysm, and large abdominal hernia repairs.[9] Other etiologies must be considered in addition to surgery as potential causes of ACS, which can be classified as primary or secondary. Primary ACS causes include blunt or penetrating trauma, intra-abdominal hemorrhage, abdominal aortic aneurysm rupture, abdominal adhesions, intestinal obstruction, tumor formation, and retroperitoneal hematoma. Secondary causes do not originate from intra-abdominal disease, including pregnancy, ascites, ileus, intra-abdominal sepsis, and large-volume fluid resuscitation.[10] Intra-abdominal pressures can be chronically elevated in pregnancy, cirrhosis, obesity, intra-abdominal malignancy, and peritoneal dialysis.[6][11][12][13] Those with higher body mass index can be expected to have higher baseline IAP between 9 to 14 mm Hg due to the restrictive effect of adipose tissue.[14]
 
@@ -87,15 +86,15 @@ The cardiovascular system can be affected in multiple ways due to elevated IAP. 
 
 **Pulmonary System**
 
-Elevated intrathoracic pressures limit pulmonary compliance, thus decreasing tidal volume and functional residual capacity and increasing pulmonary vascular resistance. Airway pressures increase, and patients can have difficulties ventilating. Alveoli exhibit atelectasis, increasing the dead space. Thus, gas exchange is adversely affected as less oxygen is transported and more carbon dioxide is retained, leading to hypoxemia and hypercarbia. 
+Elevated intrathoracic pressures limit pulmonary compliance, thus decreasing tidal volume and functional residual capacity and increasing pulmonary vascular resistance. Airway pressures increase, and patients can have difficulties ventilating. Alveoli exhibit atelectasis, increasing the dead space. Thus, gas exchange is adversely affected as less oxygen is transported and more carbon dioxide is retained, leading to hypoxemia and hypercarbia.
 
 **Renal System**
 
-IAH can compromise the renal system by decreasing renal arterial and venous blood flow, affecting the glomerular filtration rate and ultimately causing acute kidney injury and subsequent reduction in urine output. Blood is diverted from the renal cortex, further impairing renal function. The renin-angiotensin-aldosterone system is activated, leading to increased systemic vascular resistance through angiotensin II and increased reabsorption of water and sodium mediated by aldosterone. Studies indicate that oliguria can occur at an IAP of 15 mm Hg and anuria at pressures of 30 mm Hg. 
+IAH can compromise the renal system by decreasing renal arterial and venous blood flow, affecting the glomerular filtration rate and ultimately causing acute kidney injury and subsequent reduction in urine output. Blood is diverted from the renal cortex, further impairing renal function. The renin-angiotensin-aldosterone system is activated, leading to increased systemic vascular resistance through angiotensin II and increased reabsorption of water and sodium mediated by aldosterone. Studies indicate that oliguria can occur at an IAP of 15 mm Hg and anuria at pressures of 30 mm Hg.
 
 **Gastrointestinal System**
 
-Decreased abdominal compliance with increased IAP leads to decreased splanchnic blood flow, causing tissue hypoxia, increased capillary permeability, and edema. Further insult propagates the body's inflammatory response, exacerbates intestine malperfusion, and increases the risk of bacterial translocation and infection. The hepatic system is also affected as decreased hepatic flow leads to impaired metabolism and clearance, contributing to metabolic acidosis. 
+Decreased abdominal compliance with increased IAP leads to decreased splanchnic blood flow, causing tissue hypoxia, increased capillary permeability, and edema. Further insult propagates the body's inflammatory response, exacerbates intestine malperfusion, and increases the risk of bacterial translocation and infection. The hepatic system is also affected as decreased hepatic flow leads to impaired metabolism and clearance, contributing to metabolic acidosis.
 
 **Nervous System**
 
@@ -107,7 +106,7 @@ ACS is usually only observed in critically ill patients and is more frequently d
 
 ## Evaluation
 
-Imaging modalities are not standard practice for the diagnosis of ACS. However, imaging can show early indicators of IAH that may ultimately lead to ACS, such as peritoneal-to-abdominal height ratio >0.52, a maximal anteroposterior to transverse abdominal diameter ratio of >0.8, bowel wall thickening, elevation of the diaphragm, narrowing of the vena cava <3 mm, and a large amount of intra-abdominal fluid.[9]
+Imaging modalities are not standard practice for the diagnosis of ACS. However, imaging can show early indicators of IAH that may ultimately lead to ACS, such as peritoneal-to-abdominal height ratio >0.52, a maximal anteroposterior to transverse abdominal diameter ratio of >0.8, bowel wall thickening, elevation of the diaphragm, narrowing of the vena cava \<3 mm, and a large amount of intra-abdominal fluid.[9]
 
 The most accurate method to confirm the diagnosis is measuring the intra-abdominal pressure. The IAP should be measured anytime there is a known IAH risk. IAP measurement can be achieved using both direct and indirect methods. Direct methods include using pressure transducers (eg, Veress needle during laparoscopic surgery) or intraperitoneal catheters (eg, peritoneal dialysis catheter). These methods are highly accurate but are invasive.
 
@@ -139,198 +138,162 @@ If left untreated, abdominal compartment syndrome can be fatal, and delayed trea
 
 ACS complications include the following:
 
-  * Renal failure
+- Renal failure
 
-  * Bowel ischemia
+- Bowel ischemia
 
-  * Respiratory distress or failure
+- Respiratory distress or failure
 
-  * Increased cranial pressure
+- Increased cranial pressure
 
-  * Cardiac failure
+- Cardiac failure
 
-  * Potential death
+- Potential death
 
 ## Deterrence and Patient Education
 
-The keys to preventing ACS development are, first and foremost, to measure IAP in any patient with risk factors, especially ICU patients. Other practices to minimize IAH are judicious use of IV fluids and blood products; avoiding a significantly positive fluid balance; using low tidal volumes in mechanical ventilation; using intestinal prokinetic medications to avoid ileus or constipation; and minimizing enteral feedings. 
+The keys to preventing ACS development are, first and foremost, to measure IAP in any patient with risk factors, especially ICU patients. Other practices to minimize IAH are judicious use of IV fluids and blood products; avoiding a significantly positive fluid balance; using low tidal volumes in mechanical ventilation; using intestinal prokinetic medications to avoid ileus or constipation; and minimizing enteral feedings.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The diagnosis and management of ACS require an interprofessional team approach. The condition can present subtly, and the diagnosis can easily be missed. ACS is very common in medical and surgical ICUs, with many studies showing an IAH prevalence of 30% to 40%. One survey of specialists found that non-surgical specialists were comparatively less familiar with recognizing, diagnosing, and managing ACS than surgical specialists.[21][30] Ideally, monitoring all critically ill patients for ACS should be established as a routine practice among institutions; however, monitoring may be limited due to a lack of understanding or limited resources.[14]
 
 Overall, the outcomes for some patients with ACS can be poor due to effects on multiple organ systems and underlying comorbidities. However, those diagnosed and treated promptly with the involvement of the appropriate specialties have improved outcomes, and early treatment of ACS minimizes end-organ damage.[17] Thus, it is essential to involve general surgeons in caring for patients at high risk of developing or currently having an acute abdomen. Surgeons can assist with the workup management and monitor the patient in case the patient requires surgery.
 
-Patients with ACS should be closely monitored in the ICU with intensivists familiar with the disease process. Pharmacists play a crucial role in enhancing pain management and sedation by identifying suitable medications for patients. Nurses must monitor vital signs, abdominal girth, wound care, and urine output. Critical team members include nutritionists, physical and occupational therapists, and respiratory therapists. Patients who develop ACS and need surgical intervention have a prolonged recovery and require long-term care. This further emphasizes the importance of a multidisciplinary approach to patient treatment in ACS. 
+Patients with ACS should be closely monitored in the ICU with intensivists familiar with the disease process. Pharmacists play a crucial role in enhancing pain management and sedation by identifying suitable medications for patients. Nurses must monitor vital signs, abdominal girth, wound care, and urine output. Critical team members include nutritionists, physical and occupational therapists, and respiratory therapists. Patients who develop ACS and need surgical intervention have a prolonged recovery and require long-term care. This further emphasizes the importance of a multidisciplinary approach to patient treatment in ACS.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19771&utm_source=pubmed&utm_campaign=reviews&utm_content=19771)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19771&utm_source=pubmed&utm_campaign=reviews&utm_content=19771)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/procedures/abdominal-compartment-syndrome/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=19771)
+- [Click here for a simplified version.](https://mdsearchlight.com/procedures/abdominal-compartment-syndrome/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=19771)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19771/?utm_source=pubmed&utm_campaign=comments&utm_content=19771)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19771/?utm_source=pubmed&utm_campaign=comments&utm_content=19771)
 
 ## References
 
 1.
-    
 
-Ali M. Abdominal compartment syndrome: the importance of urinary catheter placement in measuring intra-abdominal pressure. BMJ Case Rep. 2018 Oct 21;2018 [[PMC free article: PMC6203075](/pmc/articles/PMC6203075/)] [[PubMed: 30344152](https://pubmed.ncbi.nlm.nih.gov/30344152)]
+Ali M. Abdominal compartment syndrome: the importance of urinary catheter placement in measuring intra-abdominal pressure. BMJ Case Rep. 2018 Oct 21;2018 \[[PMC free article: PMC6203075](/pmc/articles/PMC6203075/)\] \[[PubMed: 30344152](https://pubmed.ncbi.nlm.nih.gov/30344152)\]
 
 2.
-    
 
-Ampatzidou F, Madesis A, Kechagioglou G, Drossos G. Abdominal compartment syndrome after surgical repair of Type A aortic dissection. Ann Card Anaesth. 2018 Oct-Dec;21(4):444-445. [[PMC free article: PMC6206795](/pmc/articles/PMC6206795/)] [[PubMed: 30333346](https://pubmed.ncbi.nlm.nih.gov/30333346)]
+Ampatzidou F, Madesis A, Kechagioglou G, Drossos G. Abdominal compartment syndrome after surgical repair of Type A aortic dissection. Ann Card Anaesth. 2018 Oct-Dec;21(4):444-445. \[[PMC free article: PMC6206795](/pmc/articles/PMC6206795/)\] \[[PubMed: 30333346](https://pubmed.ncbi.nlm.nih.gov/30333346)\]
 
 3.
-    
 
-Chandra R, Jacobson RA, Poirier J, Millikan K, Robinson E, Siparsky N. Successful non-operative management of intraabdominal hypertension and abdominal compartment syndrome after complex ventral hernia repair: a case series. Am J Surg. 2018 Oct;216(4):819-823. [[PubMed: 30243791](https://pubmed.ncbi.nlm.nih.gov/30243791)]
+Chandra R, Jacobson RA, Poirier J, Millikan K, Robinson E, Siparsky N. Successful non-operative management of intraabdominal hypertension and abdominal compartment syndrome after complex ventral hernia repair: a case series. Am J Surg. 2018 Oct;216(4):819-823. \[[PubMed: 30243791](https://pubmed.ncbi.nlm.nih.gov/30243791)\]
 
 4.
-    
 
-Sosa G, Gandham N, Landeras V, Calimag AP, Lerma E. Abdominal compartment syndrome. Dis Mon. 2019 Jan;65(1):5-19. [[PubMed: 30454823](https://pubmed.ncbi.nlm.nih.gov/30454823)]
+Sosa G, Gandham N, Landeras V, Calimag AP, Lerma E. Abdominal compartment syndrome. Dis Mon. 2019 Jan;65(1):5-19. \[[PubMed: 30454823](https://pubmed.ncbi.nlm.nih.gov/30454823)\]
 
 5.
-    
 
-Kirkpatrick AW, Roberts DJ, De Waele J, Jaeschke R, Malbrain ML, De Keulenaer B, Duchesne J, Bjorck M, Leppaniemi A, Ejike JC, Sugrue M, Cheatham M, Ivatury R, Ball CG, Reintam Blaser A, Regli A, Balogh ZJ, D'Amours S, Debergh D, Kaplan M, Kimball E, Olvera C., Pediatric Guidelines Sub-Committee for the World Society of the Abdominal Compartment Syndrome. Intra-abdominal hypertension and the abdominal compartment syndrome: updated consensus definitions and clinical practice guidelines from the World Society of the Abdominal Compartment Syndrome. Intensive Care Med. 2013 Jul;39(7):1190-206. [[PMC free article: PMC3680657](/pmc/articles/PMC3680657/)] [[PubMed: 23673399](https://pubmed.ncbi.nlm.nih.gov/23673399)]
+Kirkpatrick AW, Roberts DJ, De Waele J, Jaeschke R, Malbrain ML, De Keulenaer B, Duchesne J, Bjorck M, Leppaniemi A, Ejike JC, Sugrue M, Cheatham M, Ivatury R, Ball CG, Reintam Blaser A, Regli A, Balogh ZJ, D'Amours S, Debergh D, Kaplan M, Kimball E, Olvera C., Pediatric Guidelines Sub-Committee for the World Society of the Abdominal Compartment Syndrome. Intra-abdominal hypertension and the abdominal compartment syndrome: updated consensus definitions and clinical practice guidelines from the World Society of the Abdominal Compartment Syndrome. Intensive Care Med. 2013 Jul;39(7):1190-206. \[[PMC free article: PMC3680657](/pmc/articles/PMC3680657/)\] \[[PubMed: 23673399](https://pubmed.ncbi.nlm.nih.gov/23673399)\]
 
 6.
-    
 
-Zarnescu NO, Dumitrascu I, Zarnescu EC, Costea R. Abdominal Compartment Syndrome in Acute Pancreatitis: A Narrative Review. Diagnostics (Basel). 2022 Dec 20;13(1) [[PMC free article: PMC9818265](/pmc/articles/PMC9818265/)] [[PubMed: 36611293](https://pubmed.ncbi.nlm.nih.gov/36611293)]
+Zarnescu NO, Dumitrascu I, Zarnescu EC, Costea R. Abdominal Compartment Syndrome in Acute Pancreatitis: A Narrative Review. Diagnostics (Basel). 2022 Dec 20;13(1) \[[PMC free article: PMC9818265](/pmc/articles/PMC9818265/)\] \[[PubMed: 36611293](https://pubmed.ncbi.nlm.nih.gov/36611293)\]
 
 7.
-    
 
-Păduraru DN, Andronic O, Mușat F, Bolocan A, Dumitrașcu MC, Ion D. Abdominal Compartment Syndrome-When Is Surgical Decompression Needed? Diagnostics (Basel). 2021 Dec 07;11(12) [[PMC free article: PMC8700353](/pmc/articles/PMC8700353/)] [[PubMed: 34943530](https://pubmed.ncbi.nlm.nih.gov/34943530)]
+Păduraru DN, Andronic O, Mușat F, Bolocan A, Dumitrașcu MC, Ion D. Abdominal Compartment Syndrome-When Is Surgical Decompression Needed? Diagnostics (Basel). 2021 Dec 07;11(12) \[[PMC free article: PMC8700353](/pmc/articles/PMC8700353/)\] \[[PubMed: 34943530](https://pubmed.ncbi.nlm.nih.gov/34943530)\]
 
 8.
-    
 
-Jacobs R, Wise RD, Myatchin I, Vanhonacker D, Minini A, Mekeirele M, Kirkpatrick AW, Pereira BM, Sugrue M, De Keulenaer B, Bodnar Z, Acosta S, Ejike J, Tayebi S, Stiens J, Cordemans C, Van Regenmortel N, Elbers PWG, Monnet X, Wong A, Dabrowski W, Jorens PG, De Waele JJ, Roberts DJ, Kimball E, Reintam Blaser A, Malbrain MLNG. Fluid Management, Intra-Abdominal Hypertension and the Abdominal Compartment Syndrome: A Narrative Review. Life (Basel). 2022 Sep 06;12(9) [[PMC free article: PMC9502789](/pmc/articles/PMC9502789/)] [[PubMed: 36143427](https://pubmed.ncbi.nlm.nih.gov/36143427)]
+Jacobs R, Wise RD, Myatchin I, Vanhonacker D, Minini A, Mekeirele M, Kirkpatrick AW, Pereira BM, Sugrue M, De Keulenaer B, Bodnar Z, Acosta S, Ejike J, Tayebi S, Stiens J, Cordemans C, Van Regenmortel N, Elbers PWG, Monnet X, Wong A, Dabrowski W, Jorens PG, De Waele JJ, Roberts DJ, Kimball E, Reintam Blaser A, Malbrain MLNG. Fluid Management, Intra-Abdominal Hypertension and the Abdominal Compartment Syndrome: A Narrative Review. Life (Basel). 2022 Sep 06;12(9) \[[PMC free article: PMC9502789](/pmc/articles/PMC9502789/)\] \[[PubMed: 36143427](https://pubmed.ncbi.nlm.nih.gov/36143427)\]
 
 9.
-    
 
-Leon M, Chavez L, Surani S. Abdominal compartment syndrome among surgical patients. World J Gastrointest Surg. 2021 Apr 27;13(4):330-339. [[PMC free article: PMC8069070](/pmc/articles/PMC8069070/)] [[PubMed: 33968300](https://pubmed.ncbi.nlm.nih.gov/33968300)]
+Leon M, Chavez L, Surani S. Abdominal compartment syndrome among surgical patients. World J Gastrointest Surg. 2021 Apr 27;13(4):330-339. \[[PMC free article: PMC8069070](/pmc/articles/PMC8069070/)\] \[[PubMed: 33968300](https://pubmed.ncbi.nlm.nih.gov/33968300)\]
 
 10.
-    
 
-Pereira BM. Abdominal compartment syndrome and intra-abdominal hypertension. Curr Opin Crit Care. 2019 Dec;25(6):688-696. [[PubMed: 31524716](https://pubmed.ncbi.nlm.nih.gov/31524716)]
+Pereira BM. Abdominal compartment syndrome and intra-abdominal hypertension. Curr Opin Crit Care. 2019 Dec;25(6):688-696. \[[PubMed: 31524716](https://pubmed.ncbi.nlm.nih.gov/31524716)\]
 
 11.
-    
 
-Vatankhah S, Sheikhi RA, Heidari M, Moradimajd P. The relationship between fluid resuscitation and intra-abdominal hypertension in patients with blunt abdominal trauma. Int J Crit Illn Inj Sci. 2018 Jul-Sep;8(3):149-153. [[PMC free article: PMC6116304](/pmc/articles/PMC6116304/)] [[PubMed: 30181972](https://pubmed.ncbi.nlm.nih.gov/30181972)]
+Vatankhah S, Sheikhi RA, Heidari M, Moradimajd P. The relationship between fluid resuscitation and intra-abdominal hypertension in patients with blunt abdominal trauma. Int J Crit Illn Inj Sci. 2018 Jul-Sep;8(3):149-153. \[[PMC free article: PMC6116304](/pmc/articles/PMC6116304/)\] \[[PubMed: 30181972](https://pubmed.ncbi.nlm.nih.gov/30181972)\]
 
 12.
-    
 
-Gray S, Christensen M, Craft J. The gastro-renal effects of intra-abdominal hypertension: Implications for critical care nurses. Intensive Crit Care Nurs. 2018 Oct;48:69-74. [[PubMed: 29937073](https://pubmed.ncbi.nlm.nih.gov/29937073)]
+Gray S, Christensen M, Craft J. The gastro-renal effects of intra-abdominal hypertension: Implications for critical care nurses. Intensive Crit Care Nurs. 2018 Oct;48:69-74. \[[PubMed: 29937073](https://pubmed.ncbi.nlm.nih.gov/29937073)\]
 
 13.
-    
 
-Miranda E, Manzur M, Han S, Ham SW, Weaver FA, Rowe VL. Postoperative Development of Abdominal Compartment Syndrome among Patients Undergoing Endovascular Aortic Repair for Ruptured Abdominal Aortic Aneurysms. Ann Vasc Surg. 2018 May;49:289-294. [[PubMed: 29477687](https://pubmed.ncbi.nlm.nih.gov/29477687)]
+Miranda E, Manzur M, Han S, Ham SW, Weaver FA, Rowe VL. Postoperative Development of Abdominal Compartment Syndrome among Patients Undergoing Endovascular Aortic Repair for Ruptured Abdominal Aortic Aneurysms. Ann Vasc Surg. 2018 May;49:289-294. \[[PubMed: 29477687](https://pubmed.ncbi.nlm.nih.gov/29477687)\]
 
 14.
-    
 
-Smit M, van Meurs M, Zijlstra JG. Intra-abdominal hypertension and abdominal compartment syndrome in critically ill patients: A narrative review of past, present, and future steps. Scand J Surg. 2022 Jan-Mar;111(1):14574969211030128. [[PubMed: 34605332](https://pubmed.ncbi.nlm.nih.gov/34605332)]
+Smit M, van Meurs M, Zijlstra JG. Intra-abdominal hypertension and abdominal compartment syndrome in critically ill patients: A narrative review of past, present, and future steps. Scand J Surg. 2022 Jan-Mar;111(1):14574969211030128. \[[PubMed: 34605332](https://pubmed.ncbi.nlm.nih.gov/34605332)\]
 
 15.
-    
 
-Kılıç E, Uğur M, Yetim İ, Temiz M. Effects of temporary abdominal closure methods on mortality and morbidity in patients with open abdomen. Ulus Travma Acil Cerrahi Derg. 2018 Jul;24(4):321-326. [[PubMed: 30028489](https://pubmed.ncbi.nlm.nih.gov/30028489)]
+Kılıç E, Uğur M, Yetim İ, Temiz M. Effects of temporary abdominal closure methods on mortality and morbidity in patients with open abdomen. Ulus Travma Acil Cerrahi Derg. 2018 Jul;24(4):321-326. \[[PubMed: 30028489](https://pubmed.ncbi.nlm.nih.gov/30028489)\]
 
 16.
-    
 
-Sheldon R, Eckert M. Surgical Critical Care: Gastrointestinal Complications. Surg Clin North Am. 2017 Dec;97(6):1425-1447. [[PubMed: 29132517](https://pubmed.ncbi.nlm.nih.gov/29132517)]
+Sheldon R, Eckert M. Surgical Critical Care: Gastrointestinal Complications. Surg Clin North Am. 2017 Dec;97(6):1425-1447. \[[PubMed: 29132517](https://pubmed.ncbi.nlm.nih.gov/29132517)\]
 
 17.
-    
 
-Padar M, Reintam Blaser A, Talving P, Lipping E, Starkopf J. Abdominal Compartment Syndrome: Improving Outcomes With A Multidisciplinary Approach - A Narrative Review. J Multidiscip Healthc. 2019;12:1061-1074. [[PMC free article: PMC6927564](/pmc/articles/PMC6927564/)] [[PubMed: 31908470](https://pubmed.ncbi.nlm.nih.gov/31908470)]
+Padar M, Reintam Blaser A, Talving P, Lipping E, Starkopf J. Abdominal Compartment Syndrome: Improving Outcomes With A Multidisciplinary Approach - A Narrative Review. J Multidiscip Healthc. 2019;12:1061-1074. \[[PMC free article: PMC6927564](/pmc/articles/PMC6927564/)\] \[[PubMed: 31908470](https://pubmed.ncbi.nlm.nih.gov/31908470)\]
 
 18.
-    
 
-Reintam Blaser A, Regli A, De Keulenaer B, Kimball EJ, Starkopf L, Davis WA, Greiffenstein P, Starkopf J., Incidence, Risk Factors, and Outcomes of Intra-Abdominal (IROI) Study Investigators. Incidence, Risk Factors, and Outcomes of Intra-Abdominal Hypertension in Critically Ill Patients-A Prospective Multicenter Study (IROI Study). Crit Care Med. 2019 Apr;47(4):535-542. [[PMC free article: PMC6426342](/pmc/articles/PMC6426342/)] [[PubMed: 30608280](https://pubmed.ncbi.nlm.nih.gov/30608280)]
+Reintam Blaser A, Regli A, De Keulenaer B, Kimball EJ, Starkopf L, Davis WA, Greiffenstein P, Starkopf J., Incidence, Risk Factors, and Outcomes of Intra-Abdominal (IROI) Study Investigators. Incidence, Risk Factors, and Outcomes of Intra-Abdominal Hypertension in Critically Ill Patients-A Prospective Multicenter Study (IROI Study). Crit Care Med. 2019 Apr;47(4):535-542. \[[PMC free article: PMC6426342](/pmc/articles/PMC6426342/)\] \[[PubMed: 30608280](https://pubmed.ncbi.nlm.nih.gov/30608280)\]
 
 19.
-    
 
-Milanesi R, Caregnato RC. Intra-abdominal pressure: an integrative review. Einstein (Sao Paulo). 2016 Jul-Sep;14(3):423-430. [[PMC free article: PMC5234758](/pmc/articles/PMC5234758/)] [[PubMed: 26958978](https://pubmed.ncbi.nlm.nih.gov/26958978)]
+Milanesi R, Caregnato RC. Intra-abdominal pressure: an integrative review. Einstein (Sao Paulo). 2016 Jul-Sep;14(3):423-430. \[[PMC free article: PMC5234758](/pmc/articles/PMC5234758/)\] \[[PubMed: 26958978](https://pubmed.ncbi.nlm.nih.gov/26958978)\]
 
 20.
-    
 
-De Laet IE, Malbrain MLNG, De Waele JJ. A Clinician's Guide to Management of Intra-abdominal Hypertension and Abdominal Compartment Syndrome in Critically Ill Patients. Crit Care. 2020 Mar 24;24(1):97. [[PMC free article: PMC7092484](/pmc/articles/PMC7092484/)] [[PubMed: 32204721](https://pubmed.ncbi.nlm.nih.gov/32204721)]
+De Laet IE, Malbrain MLNG, De Waele JJ. A Clinician's Guide to Management of Intra-abdominal Hypertension and Abdominal Compartment Syndrome in Critically Ill Patients. Crit Care. 2020 Mar 24;24(1):97. \[[PMC free article: PMC7092484](/pmc/articles/PMC7092484/)\] \[[PubMed: 32204721](https://pubmed.ncbi.nlm.nih.gov/32204721)\]
 
 21.
-    
 
-Rajasurya V, Surani S. Abdominal compartment syndrome: Often overlooked conditions in medical intensive care units. World J Gastroenterol. 2020 Jan 21;26(3):266-278. [[PMC free article: PMC6969886](/pmc/articles/PMC6969886/)] [[PubMed: 31988588](https://pubmed.ncbi.nlm.nih.gov/31988588)]
+Rajasurya V, Surani S. Abdominal compartment syndrome: Often overlooked conditions in medical intensive care units. World J Gastroenterol. 2020 Jan 21;26(3):266-278. \[[PMC free article: PMC6969886](/pmc/articles/PMC6969886/)\] \[[PubMed: 31988588](https://pubmed.ncbi.nlm.nih.gov/31988588)\]
 
 22.
-    
 
-Patel DM, Connor MJ. Intra-Abdominal Hypertension and Abdominal Compartment Syndrome: An Underappreciated Cause of Acute Kidney Injury. Adv Chronic Kidney Dis. 2016 May;23(3):160-6. [[PubMed: 27113692](https://pubmed.ncbi.nlm.nih.gov/27113692)]
+Patel DM, Connor MJ. Intra-Abdominal Hypertension and Abdominal Compartment Syndrome: An Underappreciated Cause of Acute Kidney Injury. Adv Chronic Kidney Dis. 2016 May;23(3):160-6. \[[PubMed: 27113692](https://pubmed.ncbi.nlm.nih.gov/27113692)\]
 
 23.
-    
 
-Rogers WK, Garcia L. Intraabdominal Hypertension, Abdominal Compartment Syndrome, and the Open Abdomen. Chest. 2018 Jan;153(1):238-250. [[PubMed: 28780148](https://pubmed.ncbi.nlm.nih.gov/28780148)]
+Rogers WK, Garcia L. Intraabdominal Hypertension, Abdominal Compartment Syndrome, and the Open Abdomen. Chest. 2018 Jan;153(1):238-250. \[[PubMed: 28780148](https://pubmed.ncbi.nlm.nih.gov/28780148)\]
 
 24.
-    
 
-Izmaylov SG, Ryabkov MG, Baleyev MS, Mokeyev OA. [Comparative diagnostic value of various methods of intracavitary pressure measurement in abdominal compartment syndrome]. Khirurgiia (Mosk). 2018;(8):31-35. [[PubMed: 30113590](https://pubmed.ncbi.nlm.nih.gov/30113590)]
+Izmaylov SG, Ryabkov MG, Baleyev MS, Mokeyev OA. [Comparative diagnostic value of various methods of intracavitary pressure measurement in abdominal compartment syndrome]. Khirurgiia (Mosk). 2018;(8):31-35. \[[PubMed: 30113590](https://pubmed.ncbi.nlm.nih.gov/30113590)\]
 
 25.
-    
 
-Leclerc B, Salomon Du Mont L, Parmentier AL, Besch G, Rinckenbach S. Abdominal compartment syndrome and ruptured aortic aneurysm: Validation of a predictive test (SCA-AAR). Medicine (Baltimore). 2018 Jun;97(25):e11066. [[PMC free article: PMC6024481](/pmc/articles/PMC6024481/)] [[PubMed: 29923999](https://pubmed.ncbi.nlm.nih.gov/29923999)]
+Leclerc B, Salomon Du Mont L, Parmentier AL, Besch G, Rinckenbach S. Abdominal compartment syndrome and ruptured aortic aneurysm: Validation of a predictive test (SCA-AAR). Medicine (Baltimore). 2018 Jun;97(25):e11066. \[[PMC free article: PMC6024481](/pmc/articles/PMC6024481/)\] \[[PubMed: 29923999](https://pubmed.ncbi.nlm.nih.gov/29923999)\]
 
 26.
-    
 
-Solórzano Rodríguez E, López Almaraz R, Mendiola Arza J, Astigarraga Aguirre I, Bilbao Salcines N, Álvarez Martínez L. [Paracentesis as abdominal decompression therapy in neuroblastoma MS with massive hepatomegaly]. Cir Pediatr. 2018 Oct 17;31(4):196-199. [[PubMed: 30371033](https://pubmed.ncbi.nlm.nih.gov/30371033)]
+Solórzano Rodríguez E, López Almaraz R, Mendiola Arza J, Astigarraga Aguirre I, Bilbao Salcines N, Álvarez Martínez L. [Paracentesis as abdominal decompression therapy in neuroblastoma MS with massive hepatomegaly]. Cir Pediatr. 2018 Oct 17;31(4):196-199. \[[PubMed: 30371033](https://pubmed.ncbi.nlm.nih.gov/30371033)\]
 
 27.
-    
 
-Chabot E, Nirula R. Open abdomen critical care management principles: resuscitation, fluid balance, nutrition, and ventilator management. Trauma Surg Acute Care Open. 2017;2(1):e000063. [[PMC free article: PMC5877893](/pmc/articles/PMC5877893/)] [[PubMed: 29766080](https://pubmed.ncbi.nlm.nih.gov/29766080)]
+Chabot E, Nirula R. Open abdomen critical care management principles: resuscitation, fluid balance, nutrition, and ventilator management. Trauma Surg Acute Care Open. 2017;2(1):e000063. \[[PMC free article: PMC5877893](/pmc/articles/PMC5877893/)\] \[[PubMed: 29766080](https://pubmed.ncbi.nlm.nih.gov/29766080)\]
 
 28.
-    
 
-Coccolini F, Roberts D, Ansaloni L, Ivatury R, Gamberini E, Kluger Y, Moore EE, Coimbra R, Kirkpatrick AW, Pereira BM, Montori G, Ceresoli M, Abu-Zidan FM, Sartelli M, Velmahos G, Fraga GP, Leppaniemi A, Tolonen M, Galante J, Razek T, Maier R, Bala M, Sakakushev B, Khokha V, Malbrain M, Agnoletti V, Peitzman A, Demetrashvili Z, Sugrue M, Di Saverio S, Martzi I, Soreide K, Biffl W, Ferrada P, Parry N, Montravers P, Melotti RM, Salvetti F, Valetti TM, Scalea T, Chiara O, Cimbanassi S, Kashuk JL, Larrea M, Hernandez JAM, Lin HF, Chirica M, Arvieux C, Bing C, Horer T, De Simone B, Masiakos P, Reva V, DeAngelis N, Kike K, Balogh ZJ, Fugazzola P, Tomasoni M, Latifi R, Naidoo N, Weber D, Handolin L, Inaba K, Hecker A, Kuo-Ching Y, Ordoñez CA, Rizoli S, Gomes CA, De Moya M, Wani I, Mefire AC, Boffard K, Napolitano L, Catena F. The open abdomen in trauma and non-trauma patients: WSES guidelines. World J Emerg Surg. 2018;13:7. [[PMC free article: PMC5797335](/pmc/articles/PMC5797335/)] [[PubMed: 29434652](https://pubmed.ncbi.nlm.nih.gov/29434652)]
+Coccolini F, Roberts D, Ansaloni L, Ivatury R, Gamberini E, Kluger Y, Moore EE, Coimbra R, Kirkpatrick AW, Pereira BM, Montori G, Ceresoli M, Abu-Zidan FM, Sartelli M, Velmahos G, Fraga GP, Leppaniemi A, Tolonen M, Galante J, Razek T, Maier R, Bala M, Sakakushev B, Khokha V, Malbrain M, Agnoletti V, Peitzman A, Demetrashvili Z, Sugrue M, Di Saverio S, Martzi I, Soreide K, Biffl W, Ferrada P, Parry N, Montravers P, Melotti RM, Salvetti F, Valetti TM, Scalea T, Chiara O, Cimbanassi S, Kashuk JL, Larrea M, Hernandez JAM, Lin HF, Chirica M, Arvieux C, Bing C, Horer T, De Simone B, Masiakos P, Reva V, DeAngelis N, Kike K, Balogh ZJ, Fugazzola P, Tomasoni M, Latifi R, Naidoo N, Weber D, Handolin L, Inaba K, Hecker A, Kuo-Ching Y, Ordoñez CA, Rizoli S, Gomes CA, De Moya M, Wani I, Mefire AC, Boffard K, Napolitano L, Catena F. The open abdomen in trauma and non-trauma patients: WSES guidelines. World J Emerg Surg. 2018;13:7. \[[PMC free article: PMC5797335](/pmc/articles/PMC5797335/)\] \[[PubMed: 29434652](https://pubmed.ncbi.nlm.nih.gov/29434652)\]
 
 29.
-    
 
-De Waele JJ. Intra-abdominal hypertension and abdominal compartment syndrome. Curr Opin Crit Care. 2022 Dec 01;28(6):695-701. [[PubMed: 36194128](https://pubmed.ncbi.nlm.nih.gov/36194128)]
+De Waele JJ. Intra-abdominal hypertension and abdominal compartment syndrome. Curr Opin Crit Care. 2022 Dec 01;28(6):695-701. \[[PubMed: 36194128](https://pubmed.ncbi.nlm.nih.gov/36194128)\]
 
 30.
-    
 
-Kimball EJ, Rollins MD, Mone MC, Hansen HJ, Baraghoshi GK, Johnston C, Day ES, Jackson PR, Payne M, Barton RG. Survey of intensive care physicians on the recognition and management of intra-abdominal hypertension and abdominal compartment syndrome. Crit Care Med. 2006 Sep;34(9):2340-8. [[PubMed: 16878034](https://pubmed.ncbi.nlm.nih.gov/16878034)]
-
-    
+Kimball EJ, Rollins MD, Mone MC, Hansen HJ, Baraghoshi GK, Johnston C, Day ES, Jackson PR, Payne M, Barton RG. Survey of intensive care physicians on the recognition and management of intra-abdominal hypertension and abdominal compartment syndrome. Crit Care Med. 2006 Sep;34(9):2340-8. \[[PubMed: 16878034](https://pubmed.ncbi.nlm.nih.gov/16878034)\]
 
 **Disclosure:** Patrycja Popowicz declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Richard Newman declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Elvita Dominique declares no relevant financial relationships with ineligible companies.

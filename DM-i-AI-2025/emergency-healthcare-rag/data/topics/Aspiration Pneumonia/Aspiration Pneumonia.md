@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17897/
-scraped_date: 2025-07-22 12:40:37 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17897/ scraped_date: 2025-07-22 12:40:37 UTC
 
 # Aspiration Pneumonia
 
@@ -29,13 +28,13 @@ This activity comprehensively reviews the pathophysiology, risk factors, clinica
 
 **Objectives:**
 
-  * Identify the clinical factors that increase the risk of aspiration pneumonia in adult patients. 
+- Identify the clinical factors that increase the risk of aspiration pneumonia in adult patients.
 
-  * Develop a diagnostic algorithm for identifying aspiration pneumonia in adult patients with community-acquired pneumonia. 
+- Develop a diagnostic algorithm for identifying aspiration pneumonia in adult patients with community-acquired pneumonia.
 
-  * Implement current guidelines in selecting antimicrobial therapy for adult patients with aspiration pneumonia. 
+- Implement current guidelines in selecting antimicrobial therapy for adult patients with aspiration pneumonia.
 
-  * Collaborate with an interprofessional team of clinicians to implement strategies to minimize the risks associated with aspiration pneumonia. 
+- Collaborate with an interprofessional team of clinicians to implement strategies to minimize the risks associated with aspiration pneumonia.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17897&utm_source=pubmed&utm_campaign=reviews&utm_content=17897)
 
@@ -53,63 +52,65 @@ Clinicians and healthcare institutions must maintain a high suspicion of aspirat
 
 Natural physiologic defense mechanisms such as the glottis closure and the cough reflex usually prevent aspiration pneumonia. Nevertheless, their failure increases the risk of aspiration and aspiration pneumonia. Various factors contribute to this risk, including altered mental status, neurological disorders, esophageal motility issues, persistent vomiting, and gastric outlet obstruction. Conditions that increase the risk of aspiration in adults include the following:[1][2][3]
 
-  * Advanced age
+- Advanced age
 
-  * Cerebrovascular disease, known as post-stroke pneumonia
+- Cerebrovascular disease, known as post-stroke pneumonia
 
-  * Drug overdose
+- Drug overdose
 
-  * Alcohol use disorder
+- Alcohol use disorder
 
-  * Seizures
+- Seizures
 
-  * Sedative medication use 
+- Sedative medication use
 
-  * Central nervous system disorders 
-    * Head trauma
+- Central nervous system disorders
 
-    * Intracranial masses
+  - Head trauma
 
-    * Dementia
+  - Intracranial masses
 
-    * Amyotrophic lateral sclerosis
+  - Dementia
 
-    * Multiple sclerosis
+  - Amyotrophic lateral sclerosis
 
-    * Parkinson disease
+  - Multiple sclerosis
 
-    * Pseudobulbar palsy
+  - Parkinson disease
 
-  * Poor mobility and debility (eg, bedridden status)
+  - Pseudobulbar palsy
 
-  * Esophageal strictures, motility disorders, and cancers
+- Poor mobility and debility (eg, bedridden status)
 
-  * Gastroesophageal reflux disease
+- Esophageal strictures, motility disorders, and cancers
 
-  * Tracheostomy
+- Gastroesophageal reflux disease
 
-  * Nasogastric tube placement
+- Tracheostomy
 
-  * Muscular diseases 
-    * Inflammatory myopathies
+- Nasogastric tube placement
 
-    * Bulbospinal muscular atrophy
+- Muscular diseases
 
-    * Oculopharyngeal muscular dystrophy
+  - Inflammatory myopathies
+
+  - Bulbospinal muscular atrophy
+
+  - Oculopharyngeal muscular dystrophy
 
 Advanced age correlates strongly with aspiration pneumonia, as many older adults experience silent microaspirations that may not be clinically apparent.[1] Among patients aged 70 or older hospitalized with pneumonia, dysphagia prevalence was reported at 91.7%, with silent aspirations occurring in over 50% of cases. However, advanced age does not directly predict the risk of aspiration pneumonia. Frailty, poor nutritional status, and limited mobility are considered more reliable indicators of aspiration risk in older patients.[3]
 
 According to various estimates, the prevalence of aspiration pneumonia in specific patient populations is as follows:
 
-  * Acute stroke patients: between 3% and 50% [1]
+- Acute stroke patients: between 3% and 50% [1]
 
-  * Post-cerebrovascular event silent aspiration: Occurs in 40% to 70% of cases [3]
+- Post-cerebrovascular event silent aspiration: Occurs in 40% to 70% of cases [3]
 
-  * Hospitalized patients with Parkinson disease or dementia: up to 11% over 3 months [1]
+- Hospitalized patients with Parkinson disease or dementia: up to 11% over 3 months [1]
 
-  * Aspiration pneumonia is a common complication of multiple sclerosis, motor neuron diseases, Huntington disease, Down syndrome, and cerebral palsy.[1]
+- Aspiration pneumonia is a common complication of multiple sclerosis, motor neuron diseases, Huntington disease, Down syndrome, and cerebral palsy.[1]
 
-  * Head and neck cancer and its treatment increase the aspiration pneumonia risk, with up to 70% of patients developing aspiration pneumonia during their lifetime. This risk in survivors further increases with time.[1]
+- Head and neck cancer and its treatment increase the aspiration pneumonia risk, with up to 70% of patients developing aspiration pneumonia during their lifetime. This risk in survivors further increases with time.[1]
 
 In addition to the above predisposing factors, a crucial risk factor for aspiration pneumonia is the degree of bacterial colonization in oral secretions. Even minimal aspiration can lead to infection if there's a high density of bacterial colonization in oropharyngeal secretions, providing ample "bacterial load" for inoculation. A population-based case-control study of patients with community-acquired pneumonia (CAP) noted poor oral health as a risk factor for infection. Similarly, poor oral health has been established as a significant risk factor for aspiration pneumonia among hospitalized patients.[3]
 
@@ -151,26 +152,27 @@ During the physical examination, cognitive assessment should be conducted in old
 
 The diagnostic workup recommended by the British Thoracic Society for evaluating patients with suspected aspiration pneumonia includes:[1]
 
-  * Plain chest radiograph (CXR) 
+- Plain chest radiograph (CXR)
 
-  * Computed tomography (CT) of the chest if CXR is inconclusive or if a CT is required to rule out other diagnoses (such as pulmonary embolism)
+- Computed tomography (CT) of the chest if CXR is inconclusive or if a CT is required to rule out other diagnoses (such as pulmonary embolism)
 
-  * Microbiological evaluation of sputum and blood
+- Microbiological evaluation of sputum and blood
 
-  * Serum electrolytes, albumin, liver enzymes, and complete blood count 
-    * These tests are not diagnostic on their own but are recommended to aid in assessing the severity of the systemic response.
+- Serum electrolytes, albumin, liver enzymes, and complete blood count
 
-    * Additionally, some tests, such as albumin levels, can help evaluate nutritional status and predict prognosis. 
+  - These tests are not diagnostic on their own but are recommended to aid in assessing the severity of the systemic response.
+
+  - Additionally, some tests, such as albumin levels, can help evaluate nutritional status and predict prognosis.
 
 A definitive diagnosis of aspiration requires a videofluoroscopy swallowing study (VFSS), also known as a modified barium swallowing study. Aspiration is confirmed if barium is visible beneath the true vocal cords, a phenomenon termed "silent aspiration" if it occurs without throat clearing or coughing. It's important to recognize that aspiration, particularly microaspiration, is an episodic event that cannot be reliably excluded through a single VFSS study.[1]
 
 Other diagnostic studies used to detect aspiration include:[1]
 
-  * Fiber optic endoscopic evaluation of swallowing (FEES): This study directly visualizes varying consistencies of food boluses during a swallow. 
+- Fiber optic endoscopic evaluation of swallowing (FEES): This study directly visualizes varying consistencies of food boluses during a swallow.
 
-  * Scintigraphy: They are primarily used in research settings, not a useful clinical test at this time.
+- Scintigraphy: They are primarily used in research settings, not a useful clinical test at this time.
 
-  * Dual-axis accelerometry: Available in specialist centers only 
+- Dual-axis accelerometry: Available in specialist centers only
 
 **Radiologic Studies**
 
@@ -214,58 +216,63 @@ Current guidelines recommend empiric treatment for CAP and maintaining high oxyg
 
 Current guidelines for treating aspiration pneumonia follow recommendations outlined in 2019 by the American Thoracic Society (ATS) and IDSA for managing CAP. The initial step in determining a treatment regimen is to assess the severity of the pneumonia. As per 2019 ATS/IDSA, severe CAP is diagnosed when 1 major criterion or 3 or minor criteria from the following list are present:[8]
 
-  * Minor criteria 
-    * Respiratory rate is >30 breaths/min.
+- Minor criteria
 
-    * Ratio of PaO2/FIO2 <250
+  - Respiratory rate is >30 breaths/min.
 
-    * Multilobar infiltrates are present
+  - Ratio of PaO2/FIO2 \<250
 
-    * The patient is confused or disoriented
+  - Multilobar infiltrates are present
 
-    * Serum urea nitrogen level is >20 mg/dL
+  - The patient is confused or disoriented
 
-    * WBC <4,000 cells/mL due to the severity of the infection (not due to other causes such as malignancy or chemotherapy)
+  - Serum urea nitrogen level is >20 mg/dL
 
-    * Platelet count <100,000/mL
+  - WBC \<4,000 cells/mL due to the severity of the infection (not due to other causes such as malignancy or chemotherapy)
 
-    * Core temperature <36 °C
+  - Platelet count \<100,000/mL
 
-    * The patient is hypotensive and requires aggressive fluid resuscitation
+  - Core temperature \<36 °C
 
-  * Major criteria 
-    * Patient is in septic shock, requiring vasopressors to maintain adequate mean arterial blood pressure
+  - The patient is hypotensive and requires aggressive fluid resuscitation
 
-    * Patient is in respiratory failure and requires mechanical ventilation
+- Major criteria
+
+  - Patient is in septic shock, requiring vasopressors to maintain adequate mean arterial blood pressure
+
+  - Patient is in respiratory failure and requires mechanical ventilation
 
 Ampicillin/sulbactam, carbapenems, or respiratory fluoroquinolones (such as levofloxacin or moxifloxacin) are effective for most patients with community-acquired aspiration pneumonia.[6] According to the 2019 ATS/IDSA guidelines, for adults without severe pneumonia, significant comorbidities, or risk factors for antibiotic-resistant pathogens in the outpatient setting, any 1 of the following regimens is appropriate:[8]
 
-  * Amoxicillin 1 g 3 times daily
+- Amoxicillin 1 g 3 times daily
 
-  * Doxycycline 100 mg twice daily
+- Doxycycline 100 mg twice daily
 
-  * A macrolide, such as azithromycin 500 mg on the first day, followed by 250 mg daily or clarithromycin 500 mg twice daily, or clarithromycin extended-release 1,000 mg daily) 
-    * Macrolides should only be used in areas where regional pneumococcal resistance to macrolides is <25%.
+- A macrolide, such as azithromycin 500 mg on the first day, followed by 250 mg daily or clarithromycin 500 mg twice daily, or clarithromycin extended-release 1,000 mg daily)
+
+  - Macrolides should only be used in areas where regional pneumococcal resistance to macrolides is \<25%.
 
 Patients with comorbidities such as chronic heart disease, chronic liver disease, renal failure, diabetes, chronic lung disease, alcoholism, asplenia, or malignancy with nonsevere pneumonia who are being treated on an outpatient basis the following treatment options are recommended:[8]
 
-  * Amoxicillin/clavulanate 500 mg/125 mg 3 times daily, 875 mg/125 mg twice daily, or 2,000 mg/125 mg twice daily
+- Amoxicillin/clavulanate 500 mg/125 mg 3 times daily, 875 mg/125 mg twice daily, or 2,000 mg/125 mg twice daily
 
-  * A cephalosporin such as cefpodoxime 200 mg twice daily or cefuroxime 500 mg twice daily, combined with a macrolide (as described previously) or doxycycline 
-    * A cephalosporin and macrolide combination is preferred.
+- A cephalosporin such as cefpodoxime 200 mg twice daily or cefuroxime 500 mg twice daily, combined with a macrolide (as described previously) or doxycycline
 
-  * A respiratory fluoroquinolone such as levofloxacin 750 mg daily, moxifloxacin 400 mg daily, or gemifloxacin 320 mg daily
+  - A cephalosporin and macrolide combination is preferred.
 
-Hospitalized patients with nonsevere CAP, without risk factors for methicillin-resistant _Staphylococcus aureus_ (MRSA) infection or  _Pseudomonas aeruginosa_ , may be treated with 1 of the following regimens:[8]
+- A respiratory fluoroquinolone such as levofloxacin 750 mg daily, moxifloxacin 400 mg daily, or gemifloxacin 320 mg daily
 
-  * Ampicillin/sulbactam 1.5 to 3 g every 6 hours or cefotaxime 1 to 2 g every 8 hours or ceftriaxone 1 to 2 g daily or ceftaroline 600 mg every 12 hours plus a macrolide (azithromycin 500 mg daily or clarithromycin 500 mg twice daily)
+Hospitalized patients with nonsevere CAP, without risk factors for methicillin-resistant _Staphylococcus aureus_ (MRSA) infection or _Pseudomonas aeruginosa_ , may be treated with 1 of the following regimens:[8]
 
-  * Ampicillin/sulbactam 1.5 to 3 g every 6 hours or cefotaxime 1 to 2 g every 8 hours or ceftriaxone 1 to 2 g daily or ceftaroline 600 mg every 12 hours plus doxycycline 100 mg twice daily 
-    * This option is considered third-line therapy in patients with contraindications to fluoroquinolones and macrolides.
+- Ampicillin/sulbactam 1.5 to 3 g every 6 hours or cefotaxime 1 to 2 g every 8 hours or ceftriaxone 1 to 2 g daily or ceftaroline 600 mg every 12 hours plus a macrolide (azithromycin 500 mg daily or clarithromycin 500 mg twice daily)
 
-  * Levofloxacin 750 mg daily
+- Ampicillin/sulbactam 1.5 to 3 g every 6 hours or cefotaxime 1 to 2 g every 8 hours or ceftriaxone 1 to 2 g daily or ceftaroline 600 mg every 12 hours plus doxycycline 100 mg twice daily
 
-  * Moxifloxacin 400 mg daily
+  - This option is considered third-line therapy in patients with contraindications to fluoroquinolones and macrolides.
+
+- Levofloxacin 750 mg daily
+
+- Moxifloxacin 400 mg daily
 
 The only difference in the management of inpatient adults with severe CAP without risk factors for MRSA or _P aeruginosa,_ compared to hospitalized patients with nonsevere CAP without these risk factors, is that the former cannot be treated with fluoroquinolone monotherapy or beta-lactam plus doxycycline combination therapy. These regimens have not been studied extensively in this population and are therefore not recommended as empiric therapy for adults with severe CAP.[8]
 
@@ -279,7 +286,7 @@ Dedicated anaerobic coverage is not advised in patients with suspected aspiratio
 
 Of particular concern is the use of clindamycin to cover for anaerobes, as it increases the risk for _Clostridium difficile_ colitis. Clinical data shows no significant difference between ampicillin/sulbactam, clindamycin, and carbapenems for treating suspected aspiration pneumonia. Additionally, moxifloxacin has demonstrated similar efficacy in treating aspiration pneumonia compared to ampicillin/sulbactam, with a clinical response rate of 66.7%.[6]
 
-Clindamycin is recommended only as additional therapy to provide better anaerobic coverage in patients with a high risk of predominantly anaerobic infection, such as those with severe periodontal disease coupled with necrotizing pneumonia or lung abscesses.[6] However, its use should be carefully considered due to the associated risk of  _C_ _difficile_ colitis.
+Clindamycin is recommended only as additional therapy to provide better anaerobic coverage in patients with a high risk of predominantly anaerobic infection, such as those with severe periodontal disease coupled with necrotizing pneumonia or lung abscesses.[6] However, its use should be carefully considered due to the associated risk of _C_ _difficile_ colitis.
 
 Therapy with glucocorticoids has been extensively studied in patients with aspiration syndromes, but their use has not shown consistent clinical benefit in patients with aspiration-associated pleuropulmonary disease. According to current recommendations, glucocorticoid therapy does not manage aspiration pneumonia or aspiration pneumonitis.[6][8]
 
@@ -291,15 +298,15 @@ Adequate oxygenation is another essential component of treatment in patients wit
 
 In the differential diagnosis of aspiration pneumonia, several conditions warrant consideration, and it is crucial to differentiate aspiration pneumonia from these entities:[4]
 
-  * Aspiration pneumonitis
+- Aspiration pneumonitis
 
-  * CAP
+- CAP
 
-  * Acute respiratory distress syndrome
+- Acute respiratory distress syndrome
 
-  * Viral Pneumonia
+- Viral Pneumonia
 
-  * Negative-pressure pulmonary edema: Presents with bilateral symmetric lung infiltrates and occurs due to breathing against a closed airway. It can happen during events such as general anesthesia, choking, or near drowning.[6]
+- Negative-pressure pulmonary edema: Presents with bilateral symmetric lung infiltrates and occurs due to breathing against a closed airway. It can happen during events such as general anesthesia, choking, or near drowning.[6]
 
 ## Prognosis
 
@@ -315,11 +322,11 @@ As expected, the severity of aspiration pneumonia is a significant predictor of 
 
 ## Complications
 
-The most prevalent complications of aspiration pneumonia include lung abscesses and empyema. Clinical reports have been published documenting lung abscesses and empyema in patients with aspiration pneumonia attributed to anaerobes and gram-negative bacteria.[13][14] Prompt antibiotic initiation with appropriate regimens tailored to the patient's risk of drug-resistant infections is recommended to decrease the risk of these complications. 
+The most prevalent complications of aspiration pneumonia include lung abscesses and empyema. Clinical reports have been published documenting lung abscesses and empyema in patients with aspiration pneumonia attributed to anaerobes and gram-negative bacteria.[13][14] Prompt antibiotic initiation with appropriate regimens tailored to the patient's risk of drug-resistant infections is recommended to decrease the risk of these complications.
 
-Moreover, patients with aspiration pneumonia face risks of malnutrition and dehydration, often linked to the underlying condition predisposing them to aspiration. However, there is an additional risk for malnutrition and dehydration in patients with aspiration pneumonia placed on modified diets, especially if thickened liquids are utilized. Patients may restrict their oral intake to avoid thickened liquids, leading to significantly reduced intake levels (as low as 22% of the daily recommended amount in some cases).[15] Diligent monitoring and community follow-up are imperative to ensure patients maintain sufficient levels of hydration and nutrition on modified diets to prevent these complications. 
+Moreover, patients with aspiration pneumonia face risks of malnutrition and dehydration, often linked to the underlying condition predisposing them to aspiration. However, there is an additional risk for malnutrition and dehydration in patients with aspiration pneumonia placed on modified diets, especially if thickened liquids are utilized. Patients may restrict their oral intake to avoid thickened liquids, leading to significantly reduced intake levels (as low as 22% of the daily recommended amount in some cases).[15] Diligent monitoring and community follow-up are imperative to ensure patients maintain sufficient levels of hydration and nutrition on modified diets to prevent these complications.
 
-Recurrent hospitalizations and reduced quality of life, particularly among older frail individuals, are common occurrences with aspiration pneumonia. Patients with dysphagia have a higher hospital readmission rate for pneumonia, reaching 6.7 per 100 person-years compared to 3.67 per 100 person-years for those without dysphagia or aspiration history.[15] Multilevel clinical support from nutritionists, speech-language pathologists, physical therapists, and nurses is indispensable to enhance the quality of life for these individuals and decrease their risk of hospital readmissions. 
+Recurrent hospitalizations and reduced quality of life, particularly among older frail individuals, are common occurrences with aspiration pneumonia. Patients with dysphagia have a higher hospital readmission rate for pneumonia, reaching 6.7 per 100 person-years compared to 3.67 per 100 person-years for those without dysphagia or aspiration history.[15] Multilevel clinical support from nutritionists, speech-language pathologists, physical therapists, and nurses is indispensable to enhance the quality of life for these individuals and decrease their risk of hospital readmissions.
 
 ## Deterrence and Patient Education
 
@@ -331,13 +338,13 @@ Preventive strategies for aspiration pneumonia should adopt a comprehensive appr
 
 Patients at risk for aspiration syndromes should undergo evaluation before experiencing an overt aspiration event or aspiration pneumonia. Clinical assessment by nurses and triage staff is paramount in identifying patients with a high aspiration risk. Many different screening tools are available, with no clear evidence identifying the superiority of one screening tool over another. In frail older patients who do not have identifiable risks of aspiration, such as an acute stroke, simple screening tools should be implemented during initial medical contact to detect aspiration risk. One recent study identified the following 4 questions to screen for aspiration risk:[18]
 
-  * Do you cough and choke when you eat and drink?
+- Do you cough and choke when you eat and drink?
 
-  * Does it take longer to eat your meals than it used to?
+- Does it take longer to eat your meals than it used to?
 
-  * Have you changed the type of food that you eat?
+- Have you changed the type of food that you eat?
 
-  * Does your voice change after eating or drinking?
+- Does your voice change after eating or drinking?
 
 An affirmative answer to any of the above questions implies impaired swallowing. The pilot study for this screen reported very high sensitivity with a specificity of 80.4%. The advantage of this screening tool is that it is easy to use and consists of very few items that may be administered by any individual in the healthcare setting without any specific training.[18]
 
@@ -357,21 +364,21 @@ Balancing adequate nutrition while minimizing the risk of aspiration is of prime
 
 Key points to keep in mind about aspiration pneumonia include the following:
 
-  * Aspiration pneumonia occurs when oral or gastric contents are aspirated into the lungs, leading to infection. It often results from impaired swallowing or protective airway reflexes.
+- Aspiration pneumonia occurs when oral or gastric contents are aspirated into the lungs, leading to infection. It often results from impaired swallowing or protective airway reflexes.
 
-  * The common risk factors associated with aspiration pneumonia include advanced age, dysphagia, altered mental status, neurological disorders, and conditions that affect the gag reflex or esophageal motility.
+- The common risk factors associated with aspiration pneumonia include advanced age, dysphagia, altered mental status, neurological disorders, and conditions that affect the gag reflex or esophageal motility.
 
-  * Symptoms may be similar to those of CAP but with a higher risk of recurrent episodes.
+- Symptoms may be similar to those of CAP but with a higher risk of recurrent episodes.
 
-  * CXR findings typically include infiltrates in the dependent lung segments.
+- CXR findings typically include infiltrates in the dependent lung segments.
 
-  * Potential complications of aspiration pneumonia are lung abscesses, empyema, and respiratory failure.
+- Potential complications of aspiration pneumonia are lung abscesses, empyema, and respiratory failure.
 
-  * Preventive measures to reduce the risk of aspiration pneumonia include proper positioning during feeding, swallowing assessments, and addressing underlying conditions contributing to dysphagia.
+- Preventive measures to reduce the risk of aspiration pneumonia include proper positioning during feeding, swallowing assessments, and addressing underlying conditions contributing to dysphagia.
 
-  * Certain patient populations, such as the older individuals and those with neurological conditions like Parkinson disease or stroke, are at higher risk for aspiration pneumonia and may require tailored management approaches.
+- Certain patient populations, such as the older individuals and those with neurological conditions like Parkinson disease or stroke, are at higher risk for aspiration pneumonia and may require tailored management approaches.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Aspiration pneumonia presents a significant health challenge, particularly for vulnerable populations such as older individuals and those with compromised mobility. Contrary to historical beliefs, aspiration pneumonia is not solely caused by overt aspiration events leading to anaerobic infections. Instead, most of the population experiences silent microaspirations, especially during sleep. These microaspirations and certain risk factors contribute to recurrent polymicrobial aspiration pneumonia, which is rarely anaerobic. Recognizing these nuances is crucial for accurately identifying aspiration pneumonia and implementing effective management strategies for affected patients.
 
@@ -385,129 +392,104 @@ Through collaborative efforts across these disciplines, the interprofessional te
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17897&utm_source=pubmed&utm_campaign=reviews&utm_content=17897)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17897&utm_source=pubmed&utm_campaign=reviews&utm_content=17897)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/aspiration-pneumonia/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17897)
+- [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/aspiration-pneumonia/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17897)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17897/?utm_source=pubmed&utm_campaign=comments&utm_content=17897)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17897/?utm_source=pubmed&utm_campaign=comments&utm_content=17897)
 
 [![Ventilator-Associated Aspiration Pneumonia](/books/NBK470459/bin/00108310_cw_image_wi_f1a58a6fbd23d0a3c4be9236cf5c38f8.gif)](/books/NBK470459/figure/article-17897.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470459/figure/article-17897.image.f1/?report=objectonly)
 
-Ventilator-Associated Aspiration Pneumonia. Chest radiograph showing ventilator-associated aspiration pneumonia. Melvil, Public Domain, via Wikimedia Commons. 
+Ventilator-Associated Aspiration Pneumonia. Chest radiograph showing ventilator-associated aspiration pneumonia. Melvil, Public Domain, via Wikimedia Commons.
 
 [![Aspiration Pneumonia](/books/NBK470459/bin/aspiration__pneumonia.gif)](/books/NBK470459/figure/article-17897.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470459/figure/article-17897.image.f2/?report=objectonly)
 
-Aspiration Pneumonia. Chest radiograph demonstrating alveolar infiltrates in the superior segments of the right lower lobe in aspiration pneumonia. Contributed by O Chaigasame 
+Aspiration Pneumonia. Chest radiograph demonstrating alveolar infiltrates in the superior segments of the right lower lobe in aspiration pneumonia. Contributed by O Chaigasame
 
 ## References
 
 1.
-    
 
-Simpson AJ, Allen JL, Chatwin M, Crawford H, Elverson J, Ewan V, Forton J, McMullan R, Plevris J, Renton K, Tedd H, Thomas R, Legg J. BTS clinical statement on aspiration pneumonia. Thorax. 2023 Feb;78(Suppl 1):s3-s21. [[PubMed: 36863772](https://pubmed.ncbi.nlm.nih.gov/36863772)]
+Simpson AJ, Allen JL, Chatwin M, Crawford H, Elverson J, Ewan V, Forton J, McMullan R, Plevris J, Renton K, Tedd H, Thomas R, Legg J. BTS clinical statement on aspiration pneumonia. Thorax. 2023 Feb;78(Suppl 1):s3-s21. \[[PubMed: 36863772](https://pubmed.ncbi.nlm.nih.gov/36863772)\]
 
 2.
-    
 
-Teramoto S. The current definition, epidemiology, animal models and a novel therapeutic strategy for aspiration pneumonia. Respir Investig. 2022 Jan;60(1):45-55. [[PubMed: 34782300](https://pubmed.ncbi.nlm.nih.gov/34782300)]
+Teramoto S. The current definition, epidemiology, animal models and a novel therapeutic strategy for aspiration pneumonia. Respir Investig. 2022 Jan;60(1):45-55. \[[PubMed: 34782300](https://pubmed.ncbi.nlm.nih.gov/34782300)\]
 
 3.
-    
 
-Almirall J, Boixeda R, de la Torre MC, Torres A. Aspiration pneumonia: A renewed perspective and practical approach. Respir Med. 2021 Aug-Sep;185:106485. [[PubMed: 34087609](https://pubmed.ncbi.nlm.nih.gov/34087609)]
+Almirall J, Boixeda R, de la Torre MC, Torres A. Aspiration pneumonia: A renewed perspective and practical approach. Respir Med. 2021 Aug-Sep;185:106485. \[[PubMed: 34087609](https://pubmed.ncbi.nlm.nih.gov/34087609)\]
 
 4.
-    
 
-Košutova P, Mikolka P. Aspiration syndromes and associated lung injury: incidence, pathophysiology and management. Physiol Res. 2021 Dec 30;70(Suppl4):S567-S583. [[PMC free article: PMC9054185](/pmc/articles/PMC9054185/)] [[PubMed: 35199544](https://pubmed.ncbi.nlm.nih.gov/35199544)]
+Košutova P, Mikolka P. Aspiration syndromes and associated lung injury: incidence, pathophysiology and management. Physiol Res. 2021 Dec 30;70(Suppl4):S567-S583. \[[PMC free article: PMC9054185](/pmc/articles/PMC9054185/)\] \[[PubMed: 35199544](https://pubmed.ncbi.nlm.nih.gov/35199544)\]
 
 5.
-    
 
-Yoshimatsu Y, Melgaard D, Westergren A, Skrubbeltrang C, Smithard DG. The diagnosis of aspiration pneumonia in older persons: a systematic review. Eur Geriatr Med. 2022 Oct;13(5):1071-1080. [[PMC free article: PMC9409622](/pmc/articles/PMC9409622/)] [[PubMed: 36008745](https://pubmed.ncbi.nlm.nih.gov/36008745)]
+Yoshimatsu Y, Melgaard D, Westergren A, Skrubbeltrang C, Smithard DG. The diagnosis of aspiration pneumonia in older persons: a systematic review. Eur Geriatr Med. 2022 Oct;13(5):1071-1080. \[[PMC free article: PMC9409622](/pmc/articles/PMC9409622/)\] \[[PubMed: 36008745](https://pubmed.ncbi.nlm.nih.gov/36008745)\]
 
 6.
-    
 
-Mandell LA, Niederman MS. Aspiration Pneumonia. N Engl J Med. 2019 Feb 14;380(7):651-663. [[PubMed: 30763196](https://pubmed.ncbi.nlm.nih.gov/30763196)]
+Mandell LA, Niederman MS. Aspiration Pneumonia. N Engl J Med. 2019 Feb 14;380(7):651-663. \[[PubMed: 30763196](https://pubmed.ncbi.nlm.nih.gov/30763196)\]
 
 7.
-    
 
-Mandell LA, Wunderink RG, Anzueto A, Bartlett JG, Campbell GD, Dean NC, Dowell SF, File TM, Musher DM, Niederman MS, Torres A, Whitney CG., Infectious Diseases Society of America. American Thoracic Society. Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults. Clin Infect Dis. 2007 Mar 01;44 Suppl 2(Suppl 2):S27-72. [[PMC free article: PMC7107997](/pmc/articles/PMC7107997/)] [[PubMed: 17278083](https://pubmed.ncbi.nlm.nih.gov/17278083)]
+Mandell LA, Wunderink RG, Anzueto A, Bartlett JG, Campbell GD, Dean NC, Dowell SF, File TM, Musher DM, Niederman MS, Torres A, Whitney CG., Infectious Diseases Society of America. American Thoracic Society. Infectious Diseases Society of America/American Thoracic Society consensus guidelines on the management of community-acquired pneumonia in adults. Clin Infect Dis. 2007 Mar 01;44 Suppl 2(Suppl 2):S27-72. \[[PMC free article: PMC7107997](/pmc/articles/PMC7107997/)\] \[[PubMed: 17278083](https://pubmed.ncbi.nlm.nih.gov/17278083)\]
 
 8.
-    
 
-Metlay JP, Waterer GW, Long AC, Anzueto A, Brozek J, Crothers K, Cooley LA, Dean NC, Fine MJ, Flanders SA, Griffin MR, Metersky ML, Musher DM, Restrepo MI, Whitney CG. Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019 Oct 01;200(7):e45-e67. [[PMC free article: PMC6812437](/pmc/articles/PMC6812437/)] [[PubMed: 31573350](https://pubmed.ncbi.nlm.nih.gov/31573350)]
+Metlay JP, Waterer GW, Long AC, Anzueto A, Brozek J, Crothers K, Cooley LA, Dean NC, Fine MJ, Flanders SA, Griffin MR, Metersky ML, Musher DM, Restrepo MI, Whitney CG. Diagnosis and Treatment of Adults with Community-acquired Pneumonia. An Official Clinical Practice Guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019 Oct 01;200(7):e45-e67. \[[PMC free article: PMC6812437](/pmc/articles/PMC6812437/)\] \[[PubMed: 31573350](https://pubmed.ncbi.nlm.nih.gov/31573350)\]
 
 9.
-    
 
-Komiya K, Rubin BK, Kadota JI, Mukae H, Akaba T, Moro H, Aoki N, Tsukada H, Noguchi S, Shime N, Takahashi O, Kohno S. Prognostic implications of aspiration pneumonia in patients with community acquired pneumonia: A systematic review with meta-analysis. Sci Rep. 2016 Dec 07;6:38097. [[PMC free article: PMC5141412](/pmc/articles/PMC5141412/)] [[PubMed: 27924871](https://pubmed.ncbi.nlm.nih.gov/27924871)]
+Komiya K, Rubin BK, Kadota JI, Mukae H, Akaba T, Moro H, Aoki N, Tsukada H, Noguchi S, Shime N, Takahashi O, Kohno S. Prognostic implications of aspiration pneumonia in patients with community acquired pneumonia: A systematic review with meta-analysis. Sci Rep. 2016 Dec 07;6:38097. \[[PMC free article: PMC5141412](/pmc/articles/PMC5141412/)\] \[[PubMed: 27924871](https://pubmed.ncbi.nlm.nih.gov/27924871)\]
 
 10.
-    
 
-Gupte T, Knack A, Cramer JD. Mortality from Aspiration Pneumonia: Incidence, Trends, and Risk Factors. Dysphagia. 2022 Dec;37(6):1493-1500. [[PubMed: 35099619](https://pubmed.ncbi.nlm.nih.gov/35099619)]
+Gupte T, Knack A, Cramer JD. Mortality from Aspiration Pneumonia: Incidence, Trends, and Risk Factors. Dysphagia. 2022 Dec;37(6):1493-1500. \[[PubMed: 35099619](https://pubmed.ncbi.nlm.nih.gov/35099619)\]
 
 11.
-    
 
-Won JH, Byun SJ, Oh BM, Park SJ, Seo HG. Risk and mortality of aspiration pneumonia in Parkinson's disease: a nationwide database study. Sci Rep. 2021 Mar 23;11(1):6597. [[PMC free article: PMC7988066](/pmc/articles/PMC7988066/)] [[PubMed: 33758213](https://pubmed.ncbi.nlm.nih.gov/33758213)]
+Won JH, Byun SJ, Oh BM, Park SJ, Seo HG. Risk and mortality of aspiration pneumonia in Parkinson's disease: a nationwide database study. Sci Rep. 2021 Mar 23;11(1):6597. \[[PMC free article: PMC7988066](/pmc/articles/PMC7988066/)\] \[[PubMed: 33758213](https://pubmed.ncbi.nlm.nih.gov/33758213)\]
 
 12.
-    
 
-Yanagita Y, Arizono S, Tawara Y, Oomagari M, Machiguchi H, Yokomura K, Katagiri N, Iida Y. The severity of nutrition and pneumonia predicts survival in patients with aspiration pneumonia: A retrospective observational study. Clin Respir J. 2022 Jul;16(7):522-532. [[PMC free article: PMC9329015](/pmc/articles/PMC9329015/)] [[PubMed: 35789107](https://pubmed.ncbi.nlm.nih.gov/35789107)]
+Yanagita Y, Arizono S, Tawara Y, Oomagari M, Machiguchi H, Yokomura K, Katagiri N, Iida Y. The severity of nutrition and pneumonia predicts survival in patients with aspiration pneumonia: A retrospective observational study. Clin Respir J. 2022 Jul;16(7):522-532. \[[PMC free article: PMC9329015](/pmc/articles/PMC9329015/)\] \[[PubMed: 35789107](https://pubmed.ncbi.nlm.nih.gov/35789107)\]
 
 13.
-    
 
-Kumar NR, Norwood BS. Sphingomonas Paucimobilis Pneumonia Complicated by Empyema in an Immunocompetent Patient: A Case Report and Concise Review of Literature. Cureus. 2022 May;14(5):e24820. [[PMC free article: PMC9172810](/pmc/articles/PMC9172810/)] [[PubMed: 35693369](https://pubmed.ncbi.nlm.nih.gov/35693369)]
+Kumar NR, Norwood BS. Sphingomonas Paucimobilis Pneumonia Complicated by Empyema in an Immunocompetent Patient: A Case Report and Concise Review of Literature. Cureus. 2022 May;14(5):e24820. \[[PMC free article: PMC9172810](/pmc/articles/PMC9172810/)\] \[[PubMed: 35693369](https://pubmed.ncbi.nlm.nih.gov/35693369)\]
 
 14.
-    
 
-Martinez K, Mangat GK, Sherwani N, Glover DO M, Silver Md M. Veillonella Intrapulmonary Abscess With Empyema. Cureus. 2023 Sep;15(9):e45210. [[PMC free article: PMC10576213](/pmc/articles/PMC10576213/)] [[PubMed: 37842426](https://pubmed.ncbi.nlm.nih.gov/37842426)]
+Martinez K, Mangat GK, Sherwani N, Glover DO M, Silver Md M. Veillonella Intrapulmonary Abscess With Empyema. Cureus. 2023 Sep;15(9):e45210. \[[PMC free article: PMC10576213](/pmc/articles/PMC10576213/)\] \[[PubMed: 37842426](https://pubmed.ncbi.nlm.nih.gov/37842426)\]
 
 15.
-    
 
-Baijens LW, Clavé P, Cras P, Ekberg O, Forster A, Kolb GF, Leners JC, Masiero S, Mateos-Nozal J, Ortega O, Smithard DG, Speyer R, Walshe M. European Society for Swallowing Disorders - European Union Geriatric Medicine Society white paper: oropharyngeal dysphagia as a geriatric syndrome. Clin Interv Aging. 2016;11:1403-1428. [[PMC free article: PMC5063605](/pmc/articles/PMC5063605/)] [[PubMed: 27785002](https://pubmed.ncbi.nlm.nih.gov/27785002)]
+Baijens LW, Clavé P, Cras P, Ekberg O, Forster A, Kolb GF, Leners JC, Masiero S, Mateos-Nozal J, Ortega O, Smithard DG, Speyer R, Walshe M. European Society for Swallowing Disorders - European Union Geriatric Medicine Society white paper: oropharyngeal dysphagia as a geriatric syndrome. Clin Interv Aging. 2016;11:1403-1428. \[[PMC free article: PMC5063605](/pmc/articles/PMC5063605/)\] \[[PubMed: 27785002](https://pubmed.ncbi.nlm.nih.gov/27785002)\]
 
 16.
-    
 
-Dziewas R, Michou E, Trapl-Grundschober M, Lal A, Arsava EM, Bath PM, Clavé P, Glahn J, Hamdy S, Pownall S, Schindler A, Walshe M, Wirth R, Wright D, Verin E. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. Eur Stroke J. 2021 Sep;6(3):LXXXIX-CXV. [[PMC free article: PMC8564153](/pmc/articles/PMC8564153/)] [[PubMed: 34746431](https://pubmed.ncbi.nlm.nih.gov/34746431)]
+Dziewas R, Michou E, Trapl-Grundschober M, Lal A, Arsava EM, Bath PM, Clavé P, Glahn J, Hamdy S, Pownall S, Schindler A, Walshe M, Wirth R, Wright D, Verin E. European Stroke Organisation and European Society for Swallowing Disorders guideline for the diagnosis and treatment of post-stroke dysphagia. Eur Stroke J. 2021 Sep;6(3):LXXXIX-CXV. \[[PMC free article: PMC8564153](/pmc/articles/PMC8564153/)\] \[[PubMed: 34746431](https://pubmed.ncbi.nlm.nih.gov/34746431)\]
 
 17.
-    
 
-Cosentino G, Avenali M, Schindler A, Pizzorni N, Montomoli C, Abbruzzese G, Antonini A, Barbiera F, Benazzo M, Benarroch EE, Bertino G, Cereda E, Clavè P, Cortelli P, Eleopra R, Ferrari C, Hamdy S, Huckabee ML, Lopiano L, Marchese Ragona R, Masiero S, Michou E, Occhini A, Pacchetti C, Pfeiffer RF, Restivo DA, Rondanelli M, Ruoppolo G, Sandrini G, Schapira AHV, Stocchi F, Tolosa E, Valentino F, Zamboni M, Zangaglia R, Zappia M, Tassorelli C, Alfonsi E. A multinational consensus on dysphagia in Parkinson's disease: screening, diagnosis and prognostic value. J Neurol. 2022 Mar;269(3):1335-1352. [[PMC free article: PMC8857094](/pmc/articles/PMC8857094/)] [[PubMed: 34417870](https://pubmed.ncbi.nlm.nih.gov/34417870)]
+Cosentino G, Avenali M, Schindler A, Pizzorni N, Montomoli C, Abbruzzese G, Antonini A, Barbiera F, Benazzo M, Benarroch EE, Bertino G, Cereda E, Clavè P, Cortelli P, Eleopra R, Ferrari C, Hamdy S, Huckabee ML, Lopiano L, Marchese Ragona R, Masiero S, Michou E, Occhini A, Pacchetti C, Pfeiffer RF, Restivo DA, Rondanelli M, Ruoppolo G, Sandrini G, Schapira AHV, Stocchi F, Tolosa E, Valentino F, Zamboni M, Zangaglia R, Zappia M, Tassorelli C, Alfonsi E. A multinational consensus on dysphagia in Parkinson's disease: screening, diagnosis and prognostic value. J Neurol. 2022 Mar;269(3):1335-1352. \[[PMC free article: PMC8857094](/pmc/articles/PMC8857094/)\] \[[PubMed: 34417870](https://pubmed.ncbi.nlm.nih.gov/34417870)\]
 
 18.
-    
 
-Tsang K, Lau ES, Shazra M, Eyres R, Hansjee D, Smithard DG. A New Simple Screening Tool-4QT: Can It Identify Those with Swallowing Problems? A Pilot Study. Geriatrics (Basel). 2020 Feb 27;5(1) [[PMC free article: PMC7151188](/pmc/articles/PMC7151188/)] [[PubMed: 32120993](https://pubmed.ncbi.nlm.nih.gov/32120993)]
+Tsang K, Lau ES, Shazra M, Eyres R, Hansjee D, Smithard DG. A New Simple Screening Tool-4QT: Can It Identify Those with Swallowing Problems? A Pilot Study. Geriatrics (Basel). 2020 Feb 27;5(1) \[[PMC free article: PMC7151188](/pmc/articles/PMC7151188/)\] \[[PubMed: 32120993](https://pubmed.ncbi.nlm.nih.gov/32120993)\]
 
 19.
-    
 
-O'Keeffe ST. Use of modified diets to prevent aspiration in oropharyngeal dysphagia: is current practice justified? BMC Geriatr. 2018 Jul 20;18(1):167. [[PMC free article: PMC6053717](/pmc/articles/PMC6053717/)] [[PubMed: 30029632](https://pubmed.ncbi.nlm.nih.gov/30029632)]
-
-    
+O'Keeffe ST. Use of modified diets to prevent aspiration in oropharyngeal dysphagia: is current practice justified? BMC Geriatr. 2018 Jul 20;18(1):167. \[[PMC free article: PMC6053717](/pmc/articles/PMC6053717/)\] \[[PubMed: 30029632](https://pubmed.ncbi.nlm.nih.gov/30029632)\]
 
 **Disclosure:** Raghavendra Sanivarapu declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Sarosh Vaqar declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Joshua Gibson declares no relevant financial relationships with ineligible companies.

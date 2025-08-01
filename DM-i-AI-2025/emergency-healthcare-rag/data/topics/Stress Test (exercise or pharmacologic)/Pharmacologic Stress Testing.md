@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27092/
-scraped_date: 2025-07-22 12:52:36 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27092/ scraped_date: 2025-07-22 12:52:36 UTC
 
 # Pharmacologic Stress Testing
 
@@ -29,21 +28,21 @@ Cardiac stress testing is the most commonly used modality for diagnostic purpose
 
 Stress testing is most clinically useful in intermediate-risk patients for CAD that will help further reclassify these patients into low risk and high-risk depending on the stress test result. Stress testing can also be used to obtain prognostic information to determine the patient's response to optical medical therapy, measure exercise capacity, evaluate ischemia who are already started on medical therapy for known CAD. In general exercise, stress is preferred because it provides a gauge of functional capacity, exercise tolerance, and symptom provocation.[1] Pharmacologic stress testing is an alternative modality in patients who are unable to exercise and with the following conditions:
 
-  1. Patients presenting with unstable angina.
+1. Patients presenting with unstable angina.
 
-  2. History of heart failure which is not well controlled, and there is a concern for deterioration.
+1. History of heart failure which is not well controlled, and there is a concern for deterioration.
 
-  3. Poorly controlled blood pressure with systolic blood pressure significantly higher (>200 mmHg at rest).
+1. Poorly controlled blood pressure with systolic blood pressure significantly higher (>200 mmHg at rest).
 
-  4. Patients with a history of aortic stenosis which is significantly worse on echocardiogram (aortic valve area <1.0 cm2 and mean gradient >40 mmHg) and have ongoing symptoms.[2]
+1. Patients with a history of aortic stenosis which is significantly worse on echocardiogram (aortic valve area \<1.0 cm2 and mean gradient >40 mmHg) and have ongoing symptoms.[2]
 
-  5. Myocardial infarction in the last week.
+1. Myocardial infarction in the last week.
 
-  6. Acute pulmonary embolism
+1. Acute pulmonary embolism
 
-  7. Acute inflammation of pericardium or myocardium
+1. Acute inflammation of pericardium or myocardium
 
-  8. Severe pulmonary hypertension
+1. Severe pulmonary hypertension
 
 Exercise stress testing is also not very helpful in patients with an insufficient hemodynamic response to exercise due to abnormalities involving the respiratory system, and having ongoing issues involving muscles, bones, and vessels in the peripheral system. Also, the exercise stress test is not useful when baseline EKG is abnormal such as with left ventricular hypertrophy (LVH), left bundle branch block (LBBB), paced rhythm, Wolff Parkinson White (WPW) syndrome, or greater than 1 mm ST-segment depression. These patients are suitable candidates for testing involving pharmacologic agents. Pharmacologic stress testing is used in combination with imaging modalities such as radionuclide imaging and echocardiography.
 
@@ -55,11 +54,11 @@ Pharmacological stress testing is a highly supervised procedure conducted under 
 
 Vasodilator agents currently approved by the Food and Drug Administration (FDA) include:[1][3]
 
-  1. Adenosine
+1. Adenosine
 
-  2. Dipyridamole
+1. Dipyridamole
 
-  3. Regadenoson
+1. Regadenoson
 
 Vasodilators do not really stress the heart and create a coronary steal phenomenon by temporarily increasing blood flow to non-diseased vessels of the coronary vasculature at the expense of diseased vessels that can be visualized on nuclear imaging.
 
@@ -69,11 +68,11 @@ Dobutamine is an alternative drug that acts as an inotrope and can be used in ph
 
 ## Indications
 
-  1. Patients who are unable to tolerate exercise stress test due to abnormalities involving the respiratory system (severe chronic obstructive pulmonary disease (COPD)), provoked angina, hypotension during exercise, chronotropic incompetence. These patients are suitable candidates for testing involving pharmacologic agents.[4]
+1. Patients who are unable to tolerate exercise stress test due to abnormalities involving the respiratory system (severe chronic obstructive pulmonary disease (COPD)), provoked angina, hypotension during exercise, chronotropic incompetence. These patients are suitable candidates for testing involving pharmacologic agents.[4]
 
-  2. Patients who have baseline abnormal electrocardiogram which include the presence of left bundle branch block at baseline, left ventricular hypertrophy, paced rhythm, Wolf Parkinson White syndrome, and greater than 1 mm ST-segment depression. These patients can have false-positive results on an exercise stress test.
+1. Patients who have baseline abnormal electrocardiogram which include the presence of left bundle branch block at baseline, left ventricular hypertrophy, paced rhythm, Wolf Parkinson White syndrome, and greater than 1 mm ST-segment depression. These patients can have false-positive results on an exercise stress test.
 
-  3. Symptomatic aortic stenosis.[4]
+1. Symptomatic aortic stenosis.[4]
 
 ## Potential Diagnosis
 
@@ -83,11 +82,11 @@ Dobutamine is an alternative drug that acts as an inotrope and can be used in ph
 
 Adenosine acts on the coronary arteries through specific activation of the A2A receptor and causes them to dilate.[5][6] There are 4 types of adenosine receptors: A1, A2A, A2B, and A3.
 
-  * Activation of the A1 receptor results in decreased atrioventricular conduction and reduces heart rate.
+- Activation of the A1 receptor results in decreased atrioventricular conduction and reduces heart rate.
 
-  * Activation of A2A receptors in vascular smooth muscles in blood vessels such as in coronary arteries causing vasodilation
+- Activation of A2A receptors in vascular smooth muscles in blood vessels such as in coronary arteries causing vasodilation
 
-  * Activation of the A2B and A3 receptors in bronchial beds can also result in bronchospasm.
+- Activation of the A2B and A3 receptors in bronchial beds can also result in bronchospasm.
 
 Dose:
 
@@ -99,21 +98,21 @@ Methylxanthines such as theophylline or caffeine, block adenosine binding due to
 
 Contraindications:
 
-  1. Adenosine is contraindicated in patients with reactive airway disease with significant wheezing
+1. Adenosine is contraindicated in patients with reactive airway disease with significant wheezing
 
-  2. Patients with a history of advanced conduction abnormalities, including 2nd or 3rd-degree atrioventricular block in the absence of a permanent pacemaker.
+1. Patients with a history of advanced conduction abnormalities, including 2nd or 3rd-degree atrioventricular block in the absence of a permanent pacemaker.
 
-  3. Patients with a history of abnormalities in the sinus node in the absence of a permanent pacemaker
+1. Patients with a history of abnormalities in the sinus node in the absence of a permanent pacemaker
 
-  4. Systolic blood pressure of less than 90 mmHg
+1. Systolic blood pressure of less than 90 mmHg
 
-  5. Poorly controlled blood pressure with systolic blood pressure significantly higher (over 200 mmHg at rest).
+1. Poorly controlled blood pressure with systolic blood pressure significantly higher (over 200 mmHg at rest).
 
-  6. Caffeine intake in the previous 12 hours
+1. Caffeine intake in the previous 12 hours
 
-  7. Known hypersensitivity to adenosine
+1. Known hypersensitivity to adenosine
 
-  8. Patients with acute coronary syndrome or unstable angina or who experienced a myocardial infarction less than 1 week ago.
+1. Patients with acute coronary syndrome or unstable angina or who experienced a myocardial infarction less than 1 week ago.
 
 **Dipyridamole**
 
@@ -123,29 +122,29 @@ Dipyridamole increases coronary blood flow to 3.8 to 7 times than baseline. The 
 
 Dipyridamole dose:
 
-The dose of dipyridamole is 0.142 mcg/kg/min, or 0.57 mcg/kg.[9] Dipyridamole is infused over 4 min, with the radiotracer being injected 3 to 5 min after the completion of the dipyridamole infusion. Symptoms may last for a longer time than other vasodilators (15 to 25 minutes). 
+The dose of dipyridamole is 0.142 mcg/kg/min, or 0.57 mcg/kg.[9] Dipyridamole is infused over 4 min, with the radiotracer being injected 3 to 5 min after the completion of the dipyridamole infusion. Symptoms may last for a longer time than other vasodilators (15 to 25 minutes).
 
 Side effects of dipyridamole:
 
-  1. The incidence of atrioventricular (AV) block with dipyridamole is less than that observed with adenosine (2%).
+1. The incidence of atrioventricular (AV) block with dipyridamole is less than that observed with adenosine (2%).
 
-  2. Chest pain is seen in 20% but is nonspecific and not necessarily indicative of the presence of CAD.
+1. Chest pain is seen in 20% but is nonspecific and not necessarily indicative of the presence of CAD.
 
-  3. Minor side effects include headache, dizziness, nausea, hypotension, and flushing.
+1. Minor side effects include headache, dizziness, nausea, hypotension, and flushing.
 
 Contraindications:
 
-  1. Patients with bronchospastic lung disease with ongoing wheezing or history of significant reactive airway disease should not undergo dipyridamole stress testing.
+1. Patients with bronchospastic lung disease with ongoing wheezing or history of significant reactive airway disease should not undergo dipyridamole stress testing.
 
-  2. Uncontrolled hypertension (systolic pressure of over 200 mmHg or a diastolic pressure of over 110 mmHg)
+1. Uncontrolled hypertension (systolic pressure of over 200 mmHg or a diastolic pressure of over 110 mmHg)
 
-  3. A systolic blood pressure of less than 90 mmHg.
+1. A systolic blood pressure of less than 90 mmHg.
 
-  4. Known hypersensitivity to dipyridamole.
+1. Known hypersensitivity to dipyridamole.
 
-  5. Caffeine intake in the previous 12 hours
+1. Caffeine intake in the previous 12 hours
 
-  6. Second- or third-degree atrioventricular block without a functioning pacemaker.
+1. Second- or third-degree atrioventricular block without a functioning pacemaker.
 
 **Regadenoson**
 
@@ -157,19 +156,19 @@ As mentioned earlier, the dosing of regadenoson is not weight-based like other v
 
 Contraindications:
 
-  1. Regadenoson is considered contraindicated for patients with second- or third-degree AV block or sick sinus syndrome.
+1. Regadenoson is considered contraindicated for patients with second- or third-degree AV block or sick sinus syndrome.
 
-  2. Allergic response in the past to the agent
+1. Allergic response in the past to the agent
 
-  3. Hypotension with systolic blood pressure <90 mmHg.
+1. Hypotension with systolic blood pressure \<90 mmHg.
 
-  4. Poorly controlled blood pressure with systolic blood pressure significantly higher (greater than 200 mmHg at rest)
+1. Poorly controlled blood pressure with systolic blood pressure significantly higher (greater than 200 mmHg at rest)
 
-  5. Patients who received dipyridamole in the last 2 days should also avoid regadenoson stress testing.
+1. Patients who received dipyridamole in the last 2 days should also avoid regadenoson stress testing.
 
-  6. Patients with acute coronary syndrome or unstable angina or who experienced a myocardial infarction less than 1 week ago
+1. Patients with acute coronary syndrome or unstable angina or who experienced a myocardial infarction less than 1 week ago
 
-  7. Caution is advised in patients with reactive airway disease with wheezing
+1. Caution is advised in patients with reactive airway disease with wheezing
 
 Reversal of vasodilator effects:
 
@@ -185,29 +184,29 @@ Beta-blockers should be held 24 hours before the dobutamine stress test due to t
 
 Dobutamine dose:
 
-Dobutamine is given as an infusion as an incremental dose beginning at 5 or 10 mcg/kg/min for 3 minutes. It is increased to 20, 30, and then 40 mcg/kg/min, also for 3-min intervals, for a maximum of 12 minutes or until the target heart rate is achieved. Radiotracer is injected at peak heart rate with dobutamine infusion continuing for one minute following tracer injection. The half-life of dobutamine is 2 to 3 min. 
+Dobutamine is given as an infusion as an incremental dose beginning at 5 or 10 mcg/kg/min for 3 minutes. It is increased to 20, 30, and then 40 mcg/kg/min, also for 3-min intervals, for a maximum of 12 minutes or until the target heart rate is achieved. Radiotracer is injected at peak heart rate with dobutamine infusion continuing for one minute following tracer injection. The half-life of dobutamine is 2 to 3 min.
 
 Indications:
 
-  1. Dobutamine is a secondary pharmacologic stress agent that is recommended only in patients who cannot undergo an exercise stress test and also have contraindications to pharmacologic vasodilator stress agents such as high degree AV block or reactive airway disease (if regadenoson is not available).
+1. Dobutamine is a secondary pharmacologic stress agent that is recommended only in patients who cannot undergo an exercise stress test and also have contraindications to pharmacologic vasodilator stress agents such as high degree AV block or reactive airway disease (if regadenoson is not available).
 
 Contraindications:
 
-  1. Patients with acute coronary syndrome or unstable angina or who experienced a myocardial infarction less than 1 week ago
+1. Patients with acute coronary syndrome or unstable angina or who experienced a myocardial infarction less than 1 week ago
 
-  2. Hemodynamically significant left ventricular outflow obstruction.
+1. Hemodynamically significant left ventricular outflow obstruction.
 
-  3. Atrial tachyarrhythmias with an uncontrolled ventricular response
+1. Atrial tachyarrhythmias with an uncontrolled ventricular response
 
-  4. Hypertension (systolic blood pressure over 200 mmHg or diastolic blood pressure exceeding 110 mmHg)
+1. Hypertension (systolic blood pressure over 200 mmHg or diastolic blood pressure exceeding 110 mmHg)
 
-  5. Aortic dissection
+1. Aortic dissection
 
-  6. Known hypersensitivity to dobutamine
+1. Known hypersensitivity to dobutamine
 
 ## Normal and Critical Findings
 
-Pharmacological stress testing with myocardial perfusion imaging can help to detect perfusion or wall motion abnormalities that indicate either infarction (seen on stress and rest images) or ischemia (seen on stress images only). The utility of cardiac stress testing is determined in part by pretest disease probability; false-positive results may lead to potential downstream testing and treatment. Conversely, in patients with high CAD pretest probability, false-negative studies lead to a missed diagnosis. Therefore, the greatest use is in patients with intermediate CAD probability, in whom a positive test significantly increases disease likelihood, and negative test significantly decreases the likelihood. Depending on that, further testing, such as coronary angiography, can be considered. 
+Pharmacological stress testing with myocardial perfusion imaging can help to detect perfusion or wall motion abnormalities that indicate either infarction (seen on stress and rest images) or ischemia (seen on stress images only). The utility of cardiac stress testing is determined in part by pretest disease probability; false-positive results may lead to potential downstream testing and treatment. Conversely, in patients with high CAD pretest probability, false-negative studies lead to a missed diagnosis. Therefore, the greatest use is in patients with intermediate CAD probability, in whom a positive test significantly increases disease likelihood, and negative test significantly decreases the likelihood. Depending on that, further testing, such as coronary angiography, can be considered.
 
 ## Interfering Factors
 
@@ -229,95 +228,74 @@ In the majority of patients with an inability to exercise, pharmacologic stress 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27092&utm_source=pubmed&utm_campaign=reviews&utm_content=27092)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27092&utm_source=pubmed&utm_campaign=reviews&utm_content=27092)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27092/?utm_source=pubmed&utm_campaign=comments&utm_content=27092)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27092/?utm_source=pubmed&utm_campaign=comments&utm_content=27092)
 
 ## References
 
 1.
-    
 
-Henzlova MJ, Duvall WL, Einstein AJ, Travin MI, Verberne HJ. Erratum to: ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers. J Nucl Cardiol. 2016 Jun;23(3):640-642. [[PubMed: 26961077](https://pubmed.ncbi.nlm.nih.gov/26961077)]
+Henzlova MJ, Duvall WL, Einstein AJ, Travin MI, Verberne HJ. Erratum to: ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers. J Nucl Cardiol. 2016 Jun;23(3):640-642. \[[PubMed: 26961077](https://pubmed.ncbi.nlm.nih.gov/26961077)\]
 
 2.
-    
 
-Baumgartner H, Hung J, Bermejo J, Chambers JB, Evangelista A, Griffin BP, Iung B, Otto CM, Pellikka PA, Quiñones M., American Society of Echocardiography. European Association of Echocardiography. Echocardiographic assessment of valve stenosis: EAE/ASE recommendations for clinical practice. J Am Soc Echocardiogr. 2009 Jan;22(1):1-23; quiz 101-2. [[PubMed: 19130998](https://pubmed.ncbi.nlm.nih.gov/19130998)]
+Baumgartner H, Hung J, Bermejo J, Chambers JB, Evangelista A, Griffin BP, Iung B, Otto CM, Pellikka PA, Quiñones M., American Society of Echocardiography. European Association of Echocardiography. Echocardiographic assessment of valve stenosis: EAE/ASE recommendations for clinical practice. J Am Soc Echocardiogr. 2009 Jan;22(1):1-23; quiz 101-2. \[[PubMed: 19130998](https://pubmed.ncbi.nlm.nih.gov/19130998)\]
 
 3.
-    
 
-Brink HL, Dickerson JA, Stephens JA, Pickworth KK. Comparison of the Safety of Adenosine and Regadenoson in Patients Undergoing Outpatient Cardiac Stress Testing. Pharmacotherapy. 2015 Dec;35(12):1117-23. [[PubMed: 26684552](https://pubmed.ncbi.nlm.nih.gov/26684552)]
+Brink HL, Dickerson JA, Stephens JA, Pickworth KK. Comparison of the Safety of Adenosine and Regadenoson in Patients Undergoing Outpatient Cardiac Stress Testing. Pharmacotherapy. 2015 Dec;35(12):1117-23. \[[PubMed: 26684552](https://pubmed.ncbi.nlm.nih.gov/26684552)\]
 
 4.
-    
 
-Wolk MJ, Bailey SR, Doherty JU, Douglas PS, Hendel RC, Kramer CM, Min JK, Patel MR, Rosenbaum L, Shaw LJ, Stainback RF, Allen JM., American College of Cardiology Foundation Appropriate Use Criteria Task Force. ACCF/AHA/ASE/ASNC/HFSA/HRS/SCAI/SCCT/SCMR/STS 2013 multimodality appropriate use criteria for the detection and risk assessment of stable ischemic heart disease: a report of the American College of Cardiology Foundation Appropriate Use Criteria Task Force, American Heart Association, American Society of Echocardiography, American Society of Nuclear Cardiology, Heart Failure Society of America, Heart Rhythm Society, Society for Cardiovascular Angiography and Interventions, Society of Cardiovascular Computed Tomography, Society for Cardiovascular Magnetic Resonance, and Society of Thoracic Surgeons. J Am Coll Cardiol. 2014 Feb 04;63(4):380-406. [[PubMed: 24355759](https://pubmed.ncbi.nlm.nih.gov/24355759)]
+Wolk MJ, Bailey SR, Doherty JU, Douglas PS, Hendel RC, Kramer CM, Min JK, Patel MR, Rosenbaum L, Shaw LJ, Stainback RF, Allen JM., American College of Cardiology Foundation Appropriate Use Criteria Task Force. ACCF/AHA/ASE/ASNC/HFSA/HRS/SCAI/SCCT/SCMR/STS 2013 multimodality appropriate use criteria for the detection and risk assessment of stable ischemic heart disease: a report of the American College of Cardiology Foundation Appropriate Use Criteria Task Force, American Heart Association, American Society of Echocardiography, American Society of Nuclear Cardiology, Heart Failure Society of America, Heart Rhythm Society, Society for Cardiovascular Angiography and Interventions, Society of Cardiovascular Computed Tomography, Society for Cardiovascular Magnetic Resonance, and Society of Thoracic Surgeons. J Am Coll Cardiol. 2014 Feb 04;63(4):380-406. \[[PubMed: 24355759](https://pubmed.ncbi.nlm.nih.gov/24355759)\]
 
 5.
-    
 
-Gulsin GS, Abdelaty AMSEK, Shetye A, Lai FY, Bajaj A, Das I, Deshpande A, Rao PPG, Khoo J, McCann GP, Arnold JR. Haemodynamic effects of pharmacologic stress with adenosine in patients with left ventricular systolic dysfunction. Int J Cardiol. 2019 Mar 01;278:157-161. [[PubMed: 30528627](https://pubmed.ncbi.nlm.nih.gov/30528627)]
+Gulsin GS, Abdelaty AMSEK, Shetye A, Lai FY, Bajaj A, Das I, Deshpande A, Rao PPG, Khoo J, McCann GP, Arnold JR. Haemodynamic effects of pharmacologic stress with adenosine in patients with left ventricular systolic dysfunction. Int J Cardiol. 2019 Mar 01;278:157-161. \[[PubMed: 30528627](https://pubmed.ncbi.nlm.nih.gov/30528627)\]
 
 6.
-    
 
-Alzahrani T, Khiyani N, Zeltser R. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Dec 11, 2024. Adenosine SPECT Thallium Imaging. [[PubMed: 30725755](https://pubmed.ncbi.nlm.nih.gov/30725755)]
+Alzahrani T, Khiyani N, Zeltser R. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Dec 11, 2024. Adenosine SPECT Thallium Imaging. \[[PubMed: 30725755](https://pubmed.ncbi.nlm.nih.gov/30725755)\]
 
 7.
-    
 
-Bokhari S, Ficaro EP, McCallister BD. Adenosine stress protocols for myocardial perfusion imaging. J Nucl Cardiol. 2007 May-Jun;14(3):415-6. [[PubMed: 17556176](https://pubmed.ncbi.nlm.nih.gov/17556176)]
+Bokhari S, Ficaro EP, McCallister BD. Adenosine stress protocols for myocardial perfusion imaging. J Nucl Cardiol. 2007 May-Jun;14(3):415-6. \[[PubMed: 17556176](https://pubmed.ncbi.nlm.nih.gov/17556176)\]
 
 8.
-    
 
-Klocke FJ, Baird MG, Lorell BH, Bateman TM, Messer JV, Berman DS, O'Gara PT, Carabello BA, Russell RO, Cerqueira MD, St John Sutton MG, DeMaria AN, Udelson JE, Kennedy JW, Verani MS, Williams KA, Antman EM, Smith SC, Alpert JS, Gregoratos G, Anderson JL, Hiratzka LF, Faxon DP, Hunt SA, Fuster V, Jacobs AK, Gibbons RJ, Russell RO., American College of Cardiology. American Heart Association. American Society for Nuclear Cardiology. ACC/AHA/ASNC guidelines for the clinical use of cardiac radionuclide imaging--executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (ACC/AHA/ASNC Committee to Revise the 1995 Guidelines for the Clinical Use of Cardiac Radionuclide Imaging). J Am Coll Cardiol. 2003 Oct 01;42(7):1318-33. [[PubMed: 14522503](https://pubmed.ncbi.nlm.nih.gov/14522503)]
+Klocke FJ, Baird MG, Lorell BH, Bateman TM, Messer JV, Berman DS, O'Gara PT, Carabello BA, Russell RO, Cerqueira MD, St John Sutton MG, DeMaria AN, Udelson JE, Kennedy JW, Verani MS, Williams KA, Antman EM, Smith SC, Alpert JS, Gregoratos G, Anderson JL, Hiratzka LF, Faxon DP, Hunt SA, Fuster V, Jacobs AK, Gibbons RJ, Russell RO., American College of Cardiology. American Heart Association. American Society for Nuclear Cardiology. ACC/AHA/ASNC guidelines for the clinical use of cardiac radionuclide imaging--executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (ACC/AHA/ASNC Committee to Revise the 1995 Guidelines for the Clinical Use of Cardiac Radionuclide Imaging). J Am Coll Cardiol. 2003 Oct 01;42(7):1318-33. \[[PubMed: 14522503](https://pubmed.ncbi.nlm.nih.gov/14522503)\]
 
 9.
-    
 
-Lette J, Tatum JL, Fraser S, Miller DD, Waters DD, Heller G, Stanton EB, Bom HS, Leppo J, Nattel S. Safety of dipyridamole testing in 73,806 patients: the Multicenter Dipyridamole Safety Study. J Nucl Cardiol. 1995 Jan-Feb;2(1):3-17. [[PubMed: 9420757](https://pubmed.ncbi.nlm.nih.gov/9420757)]
+Lette J, Tatum JL, Fraser S, Miller DD, Waters DD, Heller G, Stanton EB, Bom HS, Leppo J, Nattel S. Safety of dipyridamole testing in 73,806 patients: the Multicenter Dipyridamole Safety Study. J Nucl Cardiol. 1995 Jan-Feb;2(1):3-17. \[[PubMed: 9420757](https://pubmed.ncbi.nlm.nih.gov/9420757)\]
 
 10.
-    
 
-Gupta A, Samarany S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 10, 2023. Dipyridamole Nuclear Stress Test. [[PubMed: 31335041](https://pubmed.ncbi.nlm.nih.gov/31335041)]
+Gupta A, Samarany S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 10, 2023. Dipyridamole Nuclear Stress Test. \[[PubMed: 31335041](https://pubmed.ncbi.nlm.nih.gov/31335041)\]
 
 11.
-    
 
-Moles VM, Cascino T, Saleh A, Mikhova K, Lazarus JJ, Ghannam M, Yun HJ, Konerman M, Weinberg RL, Ficaro EP, Corbett JR, McLaughlin VV, Murthy VL. Safety of regadenoson stress testing in patients with pulmonary hypertension. J Nucl Cardiol. 2018 Jun;25(3):820-827. [[PubMed: 27896702](https://pubmed.ncbi.nlm.nih.gov/27896702)]
+Moles VM, Cascino T, Saleh A, Mikhova K, Lazarus JJ, Ghannam M, Yun HJ, Konerman M, Weinberg RL, Ficaro EP, Corbett JR, McLaughlin VV, Murthy VL. Safety of regadenoson stress testing in patients with pulmonary hypertension. J Nucl Cardiol. 2018 Jun;25(3):820-827. \[[PubMed: 27896702](https://pubmed.ncbi.nlm.nih.gov/27896702)\]
 
 12.
-    
 
-Cerqueira MD, Nguyen P, Staehr P, Underwood SR, Iskandrian AE., ADVANCE-MPI Trial Investigators. Effects of age, gender, obesity, and diabetes on the efficacy and safety of the selective A2A agonist regadenoson versus adenosine in myocardial perfusion imaging integrated ADVANCE-MPI trial results. JACC Cardiovasc Imaging. 2008 May;1(3):307-16. [[PubMed: 19356442](https://pubmed.ncbi.nlm.nih.gov/19356442)]
+Cerqueira MD, Nguyen P, Staehr P, Underwood SR, Iskandrian AE., ADVANCE-MPI Trial Investigators. Effects of age, gender, obesity, and diabetes on the efficacy and safety of the selective A2A agonist regadenoson versus adenosine in myocardial perfusion imaging integrated ADVANCE-MPI trial results. JACC Cardiovasc Imaging. 2008 May;1(3):307-16. \[[PubMed: 19356442](https://pubmed.ncbi.nlm.nih.gov/19356442)\]
 
 13.
-    
 
-Iskandrian AE, Bateman TM, Belardinelli L, Blackburn B, Cerqueira MD, Hendel RC, Lieu H, Mahmarian JJ, Olmsted A, Underwood SR, Vitola J, Wang W., ADVANCE MPI Investigators. Adenosine versus regadenoson comparative evaluation in myocardial perfusion imaging: results of the ADVANCE phase 3 multicenter international trial. J Nucl Cardiol. 2007 Sep-Oct;14(5):645-58. [[PubMed: 17826318](https://pubmed.ncbi.nlm.nih.gov/17826318)]
+Iskandrian AE, Bateman TM, Belardinelli L, Blackburn B, Cerqueira MD, Hendel RC, Lieu H, Mahmarian JJ, Olmsted A, Underwood SR, Vitola J, Wang W., ADVANCE MPI Investigators. Adenosine versus regadenoson comparative evaluation in myocardial perfusion imaging: results of the ADVANCE phase 3 multicenter international trial. J Nucl Cardiol. 2007 Sep-Oct;14(5):645-58. \[[PubMed: 17826318](https://pubmed.ncbi.nlm.nih.gov/17826318)\]
 
 14.
-    
 
-Ruffolo RR. The pharmacology of dobutamine. Am J Med Sci. 1987 Oct;294(4):244-8. [[PubMed: 3310640](https://pubmed.ncbi.nlm.nih.gov/3310640)]
+Ruffolo RR. The pharmacology of dobutamine. Am J Med Sci. 1987 Oct;294(4):244-8. \[[PubMed: 3310640](https://pubmed.ncbi.nlm.nih.gov/3310640)\]
 
 15.
-    
 
-Gajulapalli RD, Aneja A, Rovner A. Cardiac stress testing for the diagnosis and management of coronary artery disease: a reference for the primary care physician. South Med J. 2012 Feb;105(2):93-9. [[PubMed: 22267098](https://pubmed.ncbi.nlm.nih.gov/22267098)]
-
-    
+Gajulapalli RD, Aneja A, Rovner A. Cardiac stress testing for the diagnosis and management of coronary artery disease: a reference for the primary care physician. South Med J. 2012 Feb;105(2):93-9. \[[PubMed: 22267098](https://pubmed.ncbi.nlm.nih.gov/22267098)\]
 
 **Disclosure:** Hassan Mehmood Lak declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Sagar Ranka declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Amandeep Goyal declares no relevant financial relationships with ineligible companies.

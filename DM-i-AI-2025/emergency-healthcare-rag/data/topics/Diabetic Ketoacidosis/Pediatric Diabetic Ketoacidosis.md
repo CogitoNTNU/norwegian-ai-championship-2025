@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23877/
-scraped_date: 2025-07-22 12:42:35 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23877/ scraped_date: 2025-07-22 12:42:35 UTC
 
 # Ketoacidosis
 
@@ -25,13 +24,13 @@ Ketoacidosis is a metabolic state associated with pathologically high serum and 
 
 **Objectives:**
 
-  * Review and contrast the typical presentations of diabetic ketoacidosis, alcoholic ketoacidosis, and starvation ketoacidosis.
+- Review and contrast the typical presentations of diabetic ketoacidosis, alcoholic ketoacidosis, and starvation ketoacidosis.
 
-  * Outline the typical evaluation done in diabetic ketoacidosis, alcoholic ketoacidosis, and starvation ketoacidosis.
+- Outline the typical evaluation done in diabetic ketoacidosis, alcoholic ketoacidosis, and starvation ketoacidosis.
 
-  * Review the management strategies for diabetic ketoacidosis, alcoholic ketoacidosis, and starvation ketoacidosis.
+- Review the management strategies for diabetic ketoacidosis, alcoholic ketoacidosis, and starvation ketoacidosis.
 
-  * Explain the importance of improving coordination among the interprofessional team to enhance the delivery of care for patients affected by ketoacidosis.
+- Explain the importance of improving coordination among the interprofessional team to enhance the delivery of care for patients affected by ketoacidosis.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23877&utm_source=pubmed&utm_campaign=reviews&utm_content=23877)
 
@@ -107,7 +106,7 @@ The American Association of Clinical Endocrinologists and the American College o
 
 In May 2015, the US Food and Drug Administration (FDA) issued a warning [B] that treatment with sodium-glucose transporter-2 (SGLT2) inhibitors, which include canagliflozin, dapagliflozin, and empagliflozin, may increase the risk of diabetic ketoacidosis (DKA) in patients with diabetes mellitus. The FDA Adverse Event Reporting System database identified 20 cases of DKA in patients treated with SGLT2 inhibitors from March 2013 to June 2014.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Diabetes, once diagnosed, is mostly managed with changes in diet, lifestyle, and medication adherence. The goal is to prevent high glucose levels, which helps prevent diabetic complications. To prevent the complications of diabetes like ketoacidosis, the condition is best managed by an interprofessional team that includes the diabetic nurse educator, dietician, nurse practitioner, pharmacist, primary care provider, and an endocrinologist; all these clinicians should educate the patient on glucose control at every opportunity.
 
@@ -121,79 +120,64 @@ Improved outcomes and reduced costs have been associated with DSME and DSMS.[10]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23877&utm_source=pubmed&utm_campaign=reviews&utm_content=23877)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23877&utm_source=pubmed&utm_campaign=reviews&utm_content=23877)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/health/ketoacidosis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=23877)
+- [Click here for a simplified version.](https://mdsearchlight.com/health/ketoacidosis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=23877)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/23877/?utm_source=pubmed&utm_campaign=comments&utm_content=23877)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/23877/?utm_source=pubmed&utm_campaign=comments&utm_content=23877)
 
 [![Image ](/books/NBK534848/bin/ketogenesis.gif)](/books/NBK534848/figure/article-23877.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK534848/figure/article-23877.image.f1/?report=objectonly)
 
-Ketoacidosis Image courtesy Orawan 
+Ketoacidosis Image courtesy Orawan
 
 ## References
 
 1.
-    
 
-Newcomer JW. Second-generation (atypical) antipsychotics and metabolic effects: a comprehensive literature review. CNS Drugs. 2005;19 Suppl 1:1-93. [[PubMed: 15998156](https://pubmed.ncbi.nlm.nih.gov/15998156)]
+Newcomer JW. Second-generation (atypical) antipsychotics and metabolic effects: a comprehensive literature review. CNS Drugs. 2005;19 Suppl 1:1-93. \[[PubMed: 15998156](https://pubmed.ncbi.nlm.nih.gov/15998156)\]
 
 2.
-    
 
-Nyenwe EA, Kitabchi AE. The evolution of diabetic ketoacidosis: An update of its etiology, pathogenesis and management. Metabolism. 2016 Apr;65(4):507-21. [[PubMed: 26975543](https://pubmed.ncbi.nlm.nih.gov/26975543)]
+Nyenwe EA, Kitabchi AE. The evolution of diabetic ketoacidosis: An update of its etiology, pathogenesis and management. Metabolism. 2016 Apr;65(4):507-21. \[[PubMed: 26975543](https://pubmed.ncbi.nlm.nih.gov/26975543)\]
 
 3.
-    
 
-Benoit SR, Zhang Y, Geiss LS, Gregg EW, Albright A. Trends in Diabetic Ketoacidosis Hospitalizations and In-Hospital Mortality - United States, 2000-2014. MMWR Morb Mortal Wkly Rep. 2018 Mar 30;67(12):362-365. [[PMC free article: PMC5877353](/pmc/articles/PMC5877353/)] [[PubMed: 29596400](https://pubmed.ncbi.nlm.nih.gov/29596400)]
+Benoit SR, Zhang Y, Geiss LS, Gregg EW, Albright A. Trends in Diabetic Ketoacidosis Hospitalizations and In-Hospital Mortality - United States, 2000-2014. MMWR Morb Mortal Wkly Rep. 2018 Mar 30;67(12):362-365. \[[PMC free article: PMC5877353](/pmc/articles/PMC5877353/)\] \[[PubMed: 29596400](https://pubmed.ncbi.nlm.nih.gov/29596400)\]
 
 4.
-    
 
-Howard RD, Bokhari SRA. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 6, 2022. Alcoholic Ketoacidosis. [[PubMed: 28613672](https://pubmed.ncbi.nlm.nih.gov/28613672)]
+Howard RD, Bokhari SRA. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 6, 2022. Alcoholic Ketoacidosis. \[[PubMed: 28613672](https://pubmed.ncbi.nlm.nih.gov/28613672)\]
 
 5.
-    
 
-Allison MG, McCurdy MT. Alcoholic metabolic emergencies. Emerg Med Clin North Am. 2014 May;32(2):293-301. [[PubMed: 24766933](https://pubmed.ncbi.nlm.nih.gov/24766933)]
+Allison MG, McCurdy MT. Alcoholic metabolic emergencies. Emerg Med Clin North Am. 2014 May;32(2):293-301. \[[PubMed: 24766933](https://pubmed.ncbi.nlm.nih.gov/24766933)\]
 
 6.
-    
 
-Krebs HA, Freedland RA, Hems R, Stubbs M. Inhibition of hepatic gluconeogenesis by ethanol. Biochem J. 1969 Mar;112(1):117-24. [[PMC free article: PMC1187647](/pmc/articles/PMC1187647/)] [[PubMed: 5774487](https://pubmed.ncbi.nlm.nih.gov/5774487)]
+Krebs HA, Freedland RA, Hems R, Stubbs M. Inhibition of hepatic gluconeogenesis by ethanol. Biochem J. 1969 Mar;112(1):117-24. \[[PMC free article: PMC1187647](/pmc/articles/PMC1187647/)\] \[[PubMed: 5774487](https://pubmed.ncbi.nlm.nih.gov/5774487)\]
 
 7.
-    
 
-Chua HR, Schneider A, Bellomo R. Bicarbonate in diabetic ketoacidosis - a systematic review. Ann Intensive Care. 2011 Jul 06;1(1):23. [[PMC free article: PMC3224469](/pmc/articles/PMC3224469/)] [[PubMed: 21906367](https://pubmed.ncbi.nlm.nih.gov/21906367)]
+Chua HR, Schneider A, Bellomo R. Bicarbonate in diabetic ketoacidosis - a systematic review. Ann Intensive Care. 2011 Jul 06;1(1):23. \[[PMC free article: PMC3224469](/pmc/articles/PMC3224469/)\] \[[PubMed: 21906367](https://pubmed.ncbi.nlm.nih.gov/21906367)\]
 
 8.
-    
 
-Wilson JF. In clinic. Diabetic ketoacidosis. Ann Intern Med. 2010 Jan 05;152(1):ITC1-1, ITC1-2, ITC1-3,ITC1-4, ITC1-5, ITC1-6, ITC1-7, ITC1-8, ITC1-9, ITC1-10, ITC1-11, ITC1-12, ITC1-13, ITC1-14, ITC1-15, table of contents; quiz ITC1-16. [[PubMed: 20048266](https://pubmed.ncbi.nlm.nih.gov/20048266)]
+Wilson JF. In clinic. Diabetic ketoacidosis. Ann Intern Med. 2010 Jan 05;152(1):ITC1-1, ITC1-2, ITC1-3,ITC1-4, ITC1-5, ITC1-6, ITC1-7, ITC1-8, ITC1-9, ITC1-10, ITC1-11, ITC1-12, ITC1-13, ITC1-14, ITC1-15, table of contents; quiz ITC1-16. \[[PubMed: 20048266](https://pubmed.ncbi.nlm.nih.gov/20048266)\]
 
 9.
-    
 
-Handelsman Y, Henry RR, Bloomgarden ZT, Dagogo-Jack S, DeFronzo RA, Einhorn D, Ferrannini E, Fonseca VA, Garber AJ, Grunberger G, LeRoith D, Umpierrez GE, Weir MR. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERICAN COLLEGE OF ENDOCRINOLOGY POSITION STATEMENT ON THE ASSOCIATION OF SGLT-2 INHIBITORS AND DIABETIC KETOACIDOSIS. Endocr Pract. 2016 Jun;22(6):753-62. [[PubMed: 27082665](https://pubmed.ncbi.nlm.nih.gov/27082665)]
+Handelsman Y, Henry RR, Bloomgarden ZT, Dagogo-Jack S, DeFronzo RA, Einhorn D, Ferrannini E, Fonseca VA, Garber AJ, Grunberger G, LeRoith D, Umpierrez GE, Weir MR. AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERICAN COLLEGE OF ENDOCRINOLOGY POSITION STATEMENT ON THE ASSOCIATION OF SGLT-2 INHIBITORS AND DIABETIC KETOACIDOSIS. Endocr Pract. 2016 Jun;22(6):753-62. \[[PubMed: 27082665](https://pubmed.ncbi.nlm.nih.gov/27082665)\]
 
 10.
-    
 
-Seckold R, Fisher E, de Bock M, King BR, Smart CE. The ups and downs of low-carbohydrate diets in the management of Type 1 diabetes: a review of clinical outcomes. Diabet Med. 2019 Mar;36(3):326-334. [[PubMed: 30362180](https://pubmed.ncbi.nlm.nih.gov/30362180)]
+Seckold R, Fisher E, de Bock M, King BR, Smart CE. The ups and downs of low-carbohydrate diets in the management of Type 1 diabetes: a review of clinical outcomes. Diabet Med. 2019 Mar;36(3):326-334. \[[PubMed: 30362180](https://pubmed.ncbi.nlm.nih.gov/30362180)\]
 
 11.
-    
 
-George JT, Mishra AK, Iyadurai R. Correlation between the outcomes and severity of diabetic ketoacidosis: A retrospective pilot study. J Family Med Prim Care. 2018 Jul-Aug;7(4):787-790. [[PMC free article: PMC6132019](/pmc/articles/PMC6132019/)] [[PubMed: 30234054](https://pubmed.ncbi.nlm.nih.gov/30234054)]
-
-    
+George JT, Mishra AK, Iyadurai R. Correlation between the outcomes and severity of diabetic ketoacidosis: A retrospective pilot study. J Family Med Prim Care. 2018 Jul-Aug;7(4):787-790. \[[PMC free article: PMC6132019](/pmc/articles/PMC6132019/)\] \[[PubMed: 30234054](https://pubmed.ncbi.nlm.nih.gov/30234054)\]
 
 **Disclosure:** Pranita Ghimire declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Amit Dhamoon declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-89527/
-scraped_date: 2025-07-22 12:37:51 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-89527/ scraped_date: 2025-07-22 12:37:51 UTC
 
 # Mid-Ventricular Takotsubo Cardiomyopathy
 
@@ -27,13 +26,13 @@ Mid-ventricular Takotsubo cardiomyopathy is a rare, reversible myocardial injury
 
 **Objectives:**
 
-  * Describe the pathophysiology of mid-ventricular Takotsubo cardiomyopathy.
+- Describe the pathophysiology of mid-ventricular Takotsubo cardiomyopathy.
 
-  * Review the risk factors for developing mid-ventricular Takotsubo cardiomyopathy.
+- Review the risk factors for developing mid-ventricular Takotsubo cardiomyopathy.
 
-  * Outline the typical presentation of a patient with suspected mid-ventricular Takotsubo cardiomyopathy.
+- Outline the typical presentation of a patient with suspected mid-ventricular Takotsubo cardiomyopathy.
 
-  * Summarize the typical imaging findings associated with mid-ventricular Takotsubo cardiomyopathy.
+- Summarize the typical imaging findings associated with mid-ventricular Takotsubo cardiomyopathy.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=89527&utm_source=pubmed&utm_campaign=reviews&utm_content=89527)
 
@@ -57,23 +56,23 @@ Some of these triggers are listed below:[2]
 
 Emotional triggers:
 
-  * Death of a family member
+- Death of a family member
 
-  * Sudden bankruptcy
+- Sudden bankruptcy
 
-  * Divorce
+- Divorce
 
-  * Loss of employment
+- Loss of employment
 
 Physical triggers:
 
-  * Stroke
+- Stroke
 
-  * Sepsis
+- Sepsis
 
-  * Vaginal delivery
+- Vaginal delivery
 
-  * Chemotherapy
+- Chemotherapy
 
 ## Epidemiology
 
@@ -87,13 +86,13 @@ The pathophysiology behind this disorder is not truly well understood; however, 
 
 Limited data does suggest histopathologic signs of catecholamine toxicity which include but are not limited to:[6][7][8][9]
 
-  * Interstitial fibrosis with evidence of cellular infiltration
+- Interstitial fibrosis with evidence of cellular infiltration
 
-  * Interstitial fibrosis without evidence of cellular infiltration
+- Interstitial fibrosis without evidence of cellular infiltration
 
-  * Mononuclear infiltrates and contraction band necrosis
+- Mononuclear infiltrates and contraction band necrosis
 
-  * No histopathologic evidence of myocarditis
+- No histopathologic evidence of myocarditis
 
 ## History and Physical
 
@@ -115,11 +114,11 @@ Patients suspected of having mid-ventricular Takotsubo cardiomyopathy should hav
 
 Other medical conditions to consider in patients with suspected mid-ventricular Takotsubo cardiomyopathy are as follows:
 
-  * An acute coronary syndrome due to cocaine abuse
+- An acute coronary syndrome due to cocaine abuse
 
-  * Myocarditis
+- Myocarditis
 
-  * Acute brain injury in patients with pheochromocytoma
+- Acute brain injury in patients with pheochromocytoma
 
 Detailed history, physical exam, and toxicology assays can help narrow our differential diagnoses. Myocarditis is diagnosed with cardiac magnetic resonance imaging, which will show myocardial inflammation and scar. Patients with pheochromocytoma will have clinical findings and symptoms of tachycardia, hypertension, diaphoresis, and headache.[14][15][16]
 
@@ -135,144 +134,122 @@ The risk of in-hospital complications in patients with mid-ventricular Takotsubo
 
 If available, patient education should be provided using resources familiar to the patient, such as online resources and pamphlets.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Educating patients at risk for this type of cardiomyopathy (for example, post-menopausal females) and making a closed-loop communication between them and their providers, can help further improve the management of this syndrome in both the acute phase and long term phase of this syndrome.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=89527&utm_source=pubmed&utm_campaign=reviews&utm_content=89527)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=89527&utm_source=pubmed&utm_campaign=reviews&utm_content=89527)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/mid-ventricular-takotsubo-cardiomyopathy-broken-heart-syndrome/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=89527)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/mid-ventricular-takotsubo-cardiomyopathy-broken-heart-syndrome/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=89527)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/89527/?utm_source=pubmed&utm_campaign=comments&utm_content=89527)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/89527/?utm_source=pubmed&utm_campaign=comments&utm_content=89527)
 
 [![Image ](/books/NBK557506/bin/Mid-Ventricular__Cardiomyopathy__1.gif)](/books/NBK557506/figure/article-89527.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK557506/figure/article-89527.image.f1/?report=objectonly)
 
-Mid-Ventricular Cardiomyopathy Contributed by Yamama Hafeez, DO 
+Mid-Ventricular Cardiomyopathy Contributed by Yamama Hafeez, DO
 
 [![Mid-Ventricular Cardiomyopathy](/books/NBK557506/bin/Mid-Ventricular__Cardiomyopathy__2.gif)](/books/NBK557506/figure/article-89527.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK557506/figure/article-89527.image.f2/?report=objectonly)
 
-Mid-Ventricular Cardiomyopathy. The picture shows the Left Ventricle in Diastole. Contributed by Yamama Hafeez, DO 
+Mid-Ventricular Cardiomyopathy. The picture shows the Left Ventricle in Diastole. Contributed by Yamama Hafeez, DO
 
 [![Mid-Ventricular Cardiomyopathy The picture shows the Left Ventricle in Systole with mid ventricular dilation](/books/NBK557506/bin/Mid-Ventricular__Cardiomyopathy__3.gif)](/books/NBK557506/figure/article-89527.image.f3/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK557506/figure/article-89527.image.f3/?report=objectonly)
 
-Mid-Ventricular Cardiomyopathy The picture shows the Left Ventricle in Systole with mid ventricular dilation. Contributed by Yamama Hafeez, DO 
+Mid-Ventricular Cardiomyopathy The picture shows the Left Ventricle in Systole with mid ventricular dilation. Contributed by Yamama Hafeez, DO
 
 [![Mid-Ventricular Cardiomyopathy Left Heart Catheterization showing normal coronaries in the patient with shown transthoracic echocardiographic findings](/books/NBK557506/bin/Mid-Ventricular__Cardiomyopathy__4.gif)](/books/NBK557506/figure/article-89527.image.f4/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK557506/figure/article-89527.image.f4/?report=objectonly)
 
-Mid-Ventricular Cardiomyopathy Left Heart Catheterization showing normal coronaries in the patient with shown transthoracic echocardiographic findings. Contributed by Yamama Hafeez, DO 
+Mid-Ventricular Cardiomyopathy Left Heart Catheterization showing normal coronaries in the patient with shown transthoracic echocardiographic findings. Contributed by Yamama Hafeez, DO
 
 [![Mid-Ventricular Cardiomyopathy Left Heart Catheterization showing normal coronaries in the patient with shown transthoracic echocardiographic findings](/books/NBK557506/bin/Mid-Ventricular__Cardiomyopathy__6.gif)](/books/NBK557506/figure/article-89527.image.f5/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK557506/figure/article-89527.image.f5/?report=objectonly)
 
-Mid-Ventricular Cardiomyopathy Left Heart Catheterization showing normal coronaries in the patient with shown transthoracic echocardiographic findings. Contributed by Yamama Hafeez, DO 
+Mid-Ventricular Cardiomyopathy Left Heart Catheterization showing normal coronaries in the patient with shown transthoracic echocardiographic findings. Contributed by Yamama Hafeez, DO
 
 ## References
 
 1.
-    
 
-Roshanzamir S, Showkathali R. Takotsubo cardiomyopathy a short review. Curr Cardiol Rev. 2013 Aug;9(3):191-6. [[PMC free article: PMC3780344](/pmc/articles/PMC3780344/)] [[PubMed: 23642025](https://pubmed.ncbi.nlm.nih.gov/23642025)]
+Roshanzamir S, Showkathali R. Takotsubo cardiomyopathy a short review. Curr Cardiol Rev. 2013 Aug;9(3):191-6. \[[PMC free article: PMC3780344](/pmc/articles/PMC3780344/)\] \[[PubMed: 23642025](https://pubmed.ncbi.nlm.nih.gov/23642025)\]
 
 2.
-    
 
-Ghadri JR, Wittstein IS, Prasad A, Sharkey S, Dote K, Akashi YJ, Cammann VL, Crea F, Galiuto L, Desmet W, Yoshida T, Manfredini R, Eitel I, Kosuge M, Nef HM, Deshmukh A, Lerman A, Bossone E, Citro R, Ueyama T, Corrado D, Kurisu S, Ruschitzka F, Winchester D, Lyon AR, Omerovic E, Bax JJ, Meimoun P, Tarantini G, Rihal C, Y-Hassan S, Migliore F, Horowitz JD, Shimokawa H, Lüscher TF, Templin C. International Expert Consensus Document on Takotsubo Syndrome (Part I): Clinical Characteristics, Diagnostic Criteria, and Pathophysiology. Eur Heart J. 2018 Jun 07;39(22):2032-2046. [[PMC free article: PMC5991216](/pmc/articles/PMC5991216/)] [[PubMed: 29850871](https://pubmed.ncbi.nlm.nih.gov/29850871)]
+Ghadri JR, Wittstein IS, Prasad A, Sharkey S, Dote K, Akashi YJ, Cammann VL, Crea F, Galiuto L, Desmet W, Yoshida T, Manfredini R, Eitel I, Kosuge M, Nef HM, Deshmukh A, Lerman A, Bossone E, Citro R, Ueyama T, Corrado D, Kurisu S, Ruschitzka F, Winchester D, Lyon AR, Omerovic E, Bax JJ, Meimoun P, Tarantini G, Rihal C, Y-Hassan S, Migliore F, Horowitz JD, Shimokawa H, Lüscher TF, Templin C. International Expert Consensus Document on Takotsubo Syndrome (Part I): Clinical Characteristics, Diagnostic Criteria, and Pathophysiology. Eur Heart J. 2018 Jun 07;39(22):2032-2046. \[[PMC free article: PMC5991216](/pmc/articles/PMC5991216/)\] \[[PubMed: 29850871](https://pubmed.ncbi.nlm.nih.gov/29850871)\]
 
 3.
-    
 
-Gianni M, Dentali F, Grandi AM, Sumner G, Hiralal R, Lonn E. Apical ballooning syndrome or takotsubo cardiomyopathy: a systematic review. Eur Heart J. 2006 Jul;27(13):1523-9. [[PubMed: 16720686](https://pubmed.ncbi.nlm.nih.gov/16720686)]
+Gianni M, Dentali F, Grandi AM, Sumner G, Hiralal R, Lonn E. Apical ballooning syndrome or takotsubo cardiomyopathy: a systematic review. Eur Heart J. 2006 Jul;27(13):1523-9. \[[PubMed: 16720686](https://pubmed.ncbi.nlm.nih.gov/16720686)\]
 
 4.
-    
 
-Templin C, Ghadri JR, Diekmann J, Napp LC, Bataiosu DR, Jaguszewski M, Cammann VL, Sarcon A, Geyer V, Neumann CA, Seifert B, Hellermann J, Schwyzer M, Eisenhardt K, Jenewein J, Franke J, Katus HA, Burgdorf C, Schunkert H, Moeller C, Thiele H, Bauersachs J, Tschöpe C, Schultheiss HP, Laney CA, Rajan L, Michels G, Pfister R, Ukena C, Böhm M, Erbel R, Cuneo A, Kuck KH, Jacobshagen C, Hasenfuss G, Karakas M, Koenig W, Rottbauer W, Said SM, Braun-Dullaeus RC, Cuculi F, Banning A, Fischer TA, Vasankari T, Airaksinen KE, Fijalkowski M, Rynkiewicz A, Pawlak M, Opolski G, Dworakowski R, MacCarthy P, Kaiser C, Osswald S, Galiuto L, Crea F, Dichtl W, Franz WM, Empen K, Felix SB, Delmas C, Lairez O, Erne P, Bax JJ, Ford I, Ruschitzka F, Prasad A, Lüscher TF. Clinical Features and Outcomes of Takotsubo (Stress) Cardiomyopathy. N Engl J Med. 2015 Sep 03;373(10):929-38. [[PubMed: 26332547](https://pubmed.ncbi.nlm.nih.gov/26332547)]
+Templin C, Ghadri JR, Diekmann J, Napp LC, Bataiosu DR, Jaguszewski M, Cammann VL, Sarcon A, Geyer V, Neumann CA, Seifert B, Hellermann J, Schwyzer M, Eisenhardt K, Jenewein J, Franke J, Katus HA, Burgdorf C, Schunkert H, Moeller C, Thiele H, Bauersachs J, Tschöpe C, Schultheiss HP, Laney CA, Rajan L, Michels G, Pfister R, Ukena C, Böhm M, Erbel R, Cuneo A, Kuck KH, Jacobshagen C, Hasenfuss G, Karakas M, Koenig W, Rottbauer W, Said SM, Braun-Dullaeus RC, Cuculi F, Banning A, Fischer TA, Vasankari T, Airaksinen KE, Fijalkowski M, Rynkiewicz A, Pawlak M, Opolski G, Dworakowski R, MacCarthy P, Kaiser C, Osswald S, Galiuto L, Crea F, Dichtl W, Franz WM, Empen K, Felix SB, Delmas C, Lairez O, Erne P, Bax JJ, Ford I, Ruschitzka F, Prasad A, Lüscher TF. Clinical Features and Outcomes of Takotsubo (Stress) Cardiomyopathy. N Engl J Med. 2015 Sep 03;373(10):929-38. \[[PubMed: 26332547](https://pubmed.ncbi.nlm.nih.gov/26332547)\]
 
 5.
-    
 
-Nef HM, Möllmann H, Kostin S, Troidl C, Voss S, Weber M, Dill T, Rolf A, Brandt R, Hamm CW, Elsässer A. Tako-Tsubo cardiomyopathy: intraindividual structural analysis in the acute phase and after functional recovery. Eur Heart J. 2007 Oct;28(20):2456-64. [[PubMed: 17395683](https://pubmed.ncbi.nlm.nih.gov/17395683)]
+Nef HM, Möllmann H, Kostin S, Troidl C, Voss S, Weber M, Dill T, Rolf A, Brandt R, Hamm CW, Elsässer A. Tako-Tsubo cardiomyopathy: intraindividual structural analysis in the acute phase and after functional recovery. Eur Heart J. 2007 Oct;28(20):2456-64. \[[PubMed: 17395683](https://pubmed.ncbi.nlm.nih.gov/17395683)\]
 
 6.
-    
 
-Karch SB, Billingham ME. Myocardial contraction bands revisited. Hum Pathol. 1986 Jan;17(1):9-13. [[PubMed: 2417934](https://pubmed.ncbi.nlm.nih.gov/2417934)]
+Karch SB, Billingham ME. Myocardial contraction bands revisited. Hum Pathol. 1986 Jan;17(1):9-13. \[[PubMed: 2417934](https://pubmed.ncbi.nlm.nih.gov/2417934)\]
 
 7.
-    
 
-Fineschi V, Silver MD, Karch SB, Parolini M, Turillazzi E, Pomara C, Baroldi G. Myocardial disarray: an architectural disorganization linked with adrenergic stress? Int J Cardiol. 2005 Mar 18;99(2):277-82. [[PubMed: 15749187](https://pubmed.ncbi.nlm.nih.gov/15749187)]
+Fineschi V, Silver MD, Karch SB, Parolini M, Turillazzi E, Pomara C, Baroldi G. Myocardial disarray: an architectural disorganization linked with adrenergic stress? Int J Cardiol. 2005 Mar 18;99(2):277-82. \[[PubMed: 15749187](https://pubmed.ncbi.nlm.nih.gov/15749187)\]
 
 8.
-    
 
-Kurisu S, Sato H, Kawagoe T, Ishihara M, Shimatani Y, Nishioka K, Kono Y, Umemura T, Nakamura S. Tako-tsubo-like left ventricular dysfunction with ST-segment elevation: a novel cardiac syndrome mimicking acute myocardial infarction. Am Heart J. 2002 Mar;143(3):448-55. [[PubMed: 11868050](https://pubmed.ncbi.nlm.nih.gov/11868050)]
+Kurisu S, Sato H, Kawagoe T, Ishihara M, Shimatani Y, Nishioka K, Kono Y, Umemura T, Nakamura S. Tako-tsubo-like left ventricular dysfunction with ST-segment elevation: a novel cardiac syndrome mimicking acute myocardial infarction. Am Heart J. 2002 Mar;143(3):448-55. \[[PubMed: 11868050](https://pubmed.ncbi.nlm.nih.gov/11868050)\]
 
 9.
-    
 
-Wittstein IS, Thiemann DR, Lima JA, Baughman KL, Schulman SP, Gerstenblith G, Wu KC, Rade JJ, Bivalacqua TJ, Champion HC. Neurohumoral features of myocardial stunning due to sudden emotional stress. N Engl J Med. 2005 Feb 10;352(6):539-48. [[PubMed: 15703419](https://pubmed.ncbi.nlm.nih.gov/15703419)]
+Wittstein IS, Thiemann DR, Lima JA, Baughman KL, Schulman SP, Gerstenblith G, Wu KC, Rade JJ, Bivalacqua TJ, Champion HC. Neurohumoral features of myocardial stunning due to sudden emotional stress. N Engl J Med. 2005 Feb 10;352(6):539-48. \[[PubMed: 15703419](https://pubmed.ncbi.nlm.nih.gov/15703419)\]
 
 10.
-    
 
-Parkkonen O, Allonen J, Vaara S, Viitasalo M, Nieminen MS, Sinisalo J. Differences in ST-elevation and T-wave amplitudes do not reliably differentiate takotsubo cardiomyopathy from acute anterior myocardial infarction. J Electrocardiol. 2014 Sep-Oct;47(5):692-9. [[PubMed: 25022798](https://pubmed.ncbi.nlm.nih.gov/25022798)]
+Parkkonen O, Allonen J, Vaara S, Viitasalo M, Nieminen MS, Sinisalo J. Differences in ST-elevation and T-wave amplitudes do not reliably differentiate takotsubo cardiomyopathy from acute anterior myocardial infarction. J Electrocardiol. 2014 Sep-Oct;47(5):692-9. \[[PubMed: 25022798](https://pubmed.ncbi.nlm.nih.gov/25022798)\]
 
 11.
-    
 
-Tsuchihashi K, Ueshima K, Uchida T, Oh-mura N, Kimura K, Owa M, Yoshiyama M, Miyazaki S, Haze K, Ogawa H, Honda T, Hase M, Kai R, Morii I., Angina Pectoris-Myocardial Infarction Investigations in Japan. Transient left ventricular apical ballooning without coronary artery stenosis: a novel heart syndrome mimicking acute myocardial infarction. Angina Pectoris-Myocardial Infarction Investigations in Japan. J Am Coll Cardiol. 2001 Jul;38(1):11-8. [[PubMed: 11451258](https://pubmed.ncbi.nlm.nih.gov/11451258)]
+Tsuchihashi K, Ueshima K, Uchida T, Oh-mura N, Kimura K, Owa M, Yoshiyama M, Miyazaki S, Haze K, Ogawa H, Honda T, Hase M, Kai R, Morii I., Angina Pectoris-Myocardial Infarction Investigations in Japan. Transient left ventricular apical ballooning without coronary artery stenosis: a novel heart syndrome mimicking acute myocardial infarction. Angina Pectoris-Myocardial Infarction Investigations in Japan. J Am Coll Cardiol. 2001 Jul;38(1):11-8. \[[PubMed: 11451258](https://pubmed.ncbi.nlm.nih.gov/11451258)\]
 
 12.
-    
 
-Ogura R, Hiasa Y, Takahashi T, Yamaguchi K, Fujiwara K, Ohara Y, Nada T, Ogata T, Kusunoki K, Yuba K, Hosokawa S, Kishi K, Ohtani R. Specific findings of the standard 12-lead ECG in patients with 'Takotsubo' cardiomyopathy: comparison with the findings of acute anterior myocardial infarction. Circ J. 2003 Aug;67(8):687-90. [[PubMed: 12890911](https://pubmed.ncbi.nlm.nih.gov/12890911)]
+Ogura R, Hiasa Y, Takahashi T, Yamaguchi K, Fujiwara K, Ohara Y, Nada T, Ogata T, Kusunoki K, Yuba K, Hosokawa S, Kishi K, Ohtani R. Specific findings of the standard 12-lead ECG in patients with 'Takotsubo' cardiomyopathy: comparison with the findings of acute anterior myocardial infarction. Circ J. 2003 Aug;67(8):687-90. \[[PubMed: 12890911](https://pubmed.ncbi.nlm.nih.gov/12890911)\]
 
 13.
-    
 
-Hurtado Rendón IS, Alcivar D, Rodriguez-Escudero JP, Silver K. Acute Myocardial Infarction and Stress Cardiomyopathy Are Not Mutually Exclusive. Am J Med. 2018 Feb;131(2):202-205. [[PubMed: 28860031](https://pubmed.ncbi.nlm.nih.gov/28860031)]
+Hurtado Rendón IS, Alcivar D, Rodriguez-Escudero JP, Silver K. Acute Myocardial Infarction and Stress Cardiomyopathy Are Not Mutually Exclusive. Am J Med. 2018 Feb;131(2):202-205. \[[PubMed: 28860031](https://pubmed.ncbi.nlm.nih.gov/28860031)\]
 
 14.
-    
 
-Kassim TA, Clarke DD, Mai VQ, Clyde PW, Mohamed Shakir KM. Catecholamine-induced cardiomyopathy. Endocr Pract. 2008 Dec;14(9):1137-49. [[PubMed: 19158054](https://pubmed.ncbi.nlm.nih.gov/19158054)]
+Kassim TA, Clarke DD, Mai VQ, Clyde PW, Mohamed Shakir KM. Catecholamine-induced cardiomyopathy. Endocr Pract. 2008 Dec;14(9):1137-49. \[[PubMed: 19158054](https://pubmed.ncbi.nlm.nih.gov/19158054)\]
 
 15.
-    
 
-Ako J, Sudhir K, Farouque HM, Honda Y, Fitzgerald PJ. Transient left ventricular dysfunction under severe stress: brain-heart relationship revisited. Am J Med. 2006 Jan;119(1):10-7. [[PubMed: 16431176](https://pubmed.ncbi.nlm.nih.gov/16431176)]
+Ako J, Sudhir K, Farouque HM, Honda Y, Fitzgerald PJ. Transient left ventricular dysfunction under severe stress: brain-heart relationship revisited. Am J Med. 2006 Jan;119(1):10-7. \[[PubMed: 16431176](https://pubmed.ncbi.nlm.nih.gov/16431176)\]
 
 16.
-    
 
-Dastidar AG, Frontera A, Palazzuoli A, Bucciarelli-Ducci C. TakoTsubo cardiomyopathy: unravelling the malignant consequences of a benign disease with cardiac magnetic resonance. Heart Fail Rev. 2015 Jul;20(4):415-21. [[PMC free article: PMC4464602](/pmc/articles/PMC4464602/)] [[PubMed: 25896529](https://pubmed.ncbi.nlm.nih.gov/25896529)]
+Dastidar AG, Frontera A, Palazzuoli A, Bucciarelli-Ducci C. TakoTsubo cardiomyopathy: unravelling the malignant consequences of a benign disease with cardiac magnetic resonance. Heart Fail Rev. 2015 Jul;20(4):415-21. \[[PMC free article: PMC4464602](/pmc/articles/PMC4464602/)\] \[[PubMed: 25896529](https://pubmed.ncbi.nlm.nih.gov/25896529)\]
 
 17.
-    
 
-Sharkey SW, Lesser JR, Zenovich AG, Maron MS, Lindberg J, Longe TF, Maron BJ. Acute and reversible cardiomyopathy provoked by stress in women from the United States. Circulation. 2005 Feb 01;111(4):472-9. [[PubMed: 15687136](https://pubmed.ncbi.nlm.nih.gov/15687136)]
+Sharkey SW, Lesser JR, Zenovich AG, Maron MS, Lindberg J, Longe TF, Maron BJ. Acute and reversible cardiomyopathy provoked by stress in women from the United States. Circulation. 2005 Feb 01;111(4):472-9. \[[PubMed: 15687136](https://pubmed.ncbi.nlm.nih.gov/15687136)\]
 
 18.
-    
 
-Desmet WJ, Adriaenssens BF, Dens JA. Apical ballooning of the left ventricle: first series in white patients. Heart. 2003 Sep;89(9):1027-31. [[PMC free article: PMC1767823](/pmc/articles/PMC1767823/)] [[PubMed: 12923018](https://pubmed.ncbi.nlm.nih.gov/12923018)]
-
-    
+Desmet WJ, Adriaenssens BF, Dens JA. Apical ballooning of the left ventricle: first series in white patients. Heart. 2003 Sep;89(9):1027-31. \[[PMC free article: PMC1767823](/pmc/articles/PMC1767823/)\] \[[PubMed: 12923018](https://pubmed.ncbi.nlm.nih.gov/12923018)\]
 
 **Disclosure:** Yamama Hafeez declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Ketan Gala declares no relevant financial relationships with ineligible companies.

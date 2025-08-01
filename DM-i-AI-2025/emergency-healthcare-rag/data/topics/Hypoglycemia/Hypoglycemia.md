@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-37214/
-scraped_date: 2025-07-22 12:42:47 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-37214/ scraped_date: 2025-07-22 12:42:47 UTC
 
 # Factitious Hypoglycemia
 
@@ -27,13 +26,13 @@ Factitious hypoglycemia is the intentional attempt to induce low blood glucose l
 
 **Objectives:**
 
-  * Identify the etiology of factitious hypoglycemia.
+- Identify the etiology of factitious hypoglycemia.
 
-  * Describe the appropriate evaluation of factitious hypoglycemia.
+- Describe the appropriate evaluation of factitious hypoglycemia.
 
-  * Outline treatment and management options available for factitious hypoglycemia.
+- Outline treatment and management options available for factitious hypoglycemia.
 
-  * Discuss interprofessional team strategies for improving care coordination and communication to advance factitious hypoglycemia and improve outcomes.
+- Discuss interprofessional team strategies for improving care coordination and communication to advance factitious hypoglycemia and improve outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=37214&utm_source=pubmed&utm_campaign=reviews&utm_content=37214)
 
@@ -65,13 +64,13 @@ Physical examination is usually nonspecific. Vital signs may show tachycardia an
 
 ## Evaluation
 
-Fulfillment of the Whipple triad is necessary before establishing any diagnosis of a hypoglycemic disorder. The triad consists of[8]:
+Fulfillment of the Whipple triad is necessary before establishing any diagnosis of a hypoglycemic disorder. The triad consists of\[8\]:
 
-  1. The presence of hypoglycemic signs and symptoms
+1. The presence of hypoglycemic signs and symptoms
 
-  2. Low blood glucose levels lower than 70 mg/dl
+1. Low blood glucose levels lower than 70 mg/dl
 
-  3. Resolution of symptoms after glucose administration and correction of hypoglycemia
+1. Resolution of symptoms after glucose administration and correction of hypoglycemia
 
 After confirming that a hypoglycemic disorder is present, and after excluding other potential causes, the following laboratory tests should be sent during hypoglycemia when the blood glucose level is less than 70mg/dl, including plasma insulin, C peptide, proinsulin, and insulin secretagogues blood levels.
 
@@ -91,17 +90,17 @@ Long term treatment is best achieved by collaboration with a psychiatrist, and p
 
 Differential diagnosis of hypoglycemia includes but is not limited to the following:
 
-  * Alcohol intake
+- Alcohol intake
 
-  * Hormonal deficiency, e.g., cortisol
+- Hormonal deficiency, e.g., cortisol
 
-  * Non-islet cell tumors
+- Non-islet cell tumors
 
-  * Insulinoma
+- Insulinoma
 
-  * Insulin autoimmune hypoglycemia
+- Insulin autoimmune hypoglycemia
 
-  * Accidental or factitious hypoglycemia
+- Accidental or factitious hypoglycemia
 
 Other acute, secondary causes of hypoglycemia should also be considered, especially in people with known diabetes mellitus, such as infection, sepsis, and transient ischemic attacks. These disorders require exclusion before starting the extensive hypoglycemia work up.[16]
 
@@ -121,7 +120,7 @@ Patients usually tend to underestimate the consequences of low blood sugar. Many
 
 Autoimmune insulin hypoglycemia is a rare disease in which patients would still be continuously present with hypoglycemia and elevated endogenous plasma insulin. It can be differentiated from insulinoma and factitious hypoglycemia by detecting insulin autoantibodies in the blood.[10]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Communication between healthcare providers can help in early detection of factitious hypoglycemia in patients who present with recurrent unexplained hypoglycemic episodes, as early recognition is associated with a better prognosis and can save a lot of time and effort.
 
@@ -131,112 +130,88 @@ Factitious hypoglycemia requires an interprofessional team approach, including p
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=37214&utm_source=pubmed&utm_campaign=reviews&utm_content=37214)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=37214&utm_source=pubmed&utm_campaign=reviews&utm_content=37214)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/mental-health/factitious-hypoglycemia/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=37214)
+- [Click here for a simplified version.](https://mdsearchlight.com/mental-health/factitious-hypoglycemia/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=37214)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/37214/?utm_source=pubmed&utm_campaign=comments&utm_content=37214)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/37214/?utm_source=pubmed&utm_campaign=comments&utm_content=37214)
 
 ## References
 
 1.
-    
 
-Murray BJ. Hypoglycemia secondary to factitious hyperinsulinism. Postgrad Med. 1981 Feb;69(2):237, 240-1. [[PubMed: 7005884](https://pubmed.ncbi.nlm.nih.gov/7005884)]
+Murray BJ. Hypoglycemia secondary to factitious hyperinsulinism. Postgrad Med. 1981 Feb;69(2):237, 240-1. \[[PubMed: 7005884](https://pubmed.ncbi.nlm.nih.gov/7005884)\]
 
 2.
-    
 
-Grunberger G, Weiner JL, Silverman R, Taylor S, Gorden P. Factitious hypoglycemia due to surreptitious administration of insulin. Diagnosis, treatment, and long-term follow-up. Ann Intern Med. 1988 Feb;108(2):252-7. [[PubMed: 3277509](https://pubmed.ncbi.nlm.nih.gov/3277509)]
+Grunberger G, Weiner JL, Silverman R, Taylor S, Gorden P. Factitious hypoglycemia due to surreptitious administration of insulin. Diagnosis, treatment, and long-term follow-up. Ann Intern Med. 1988 Feb;108(2):252-7. \[[PubMed: 3277509](https://pubmed.ncbi.nlm.nih.gov/3277509)\]
 
 3.
-    
 
-Bhatnagar D. Diagnosis of factitious hypoglycaemia. Br J Hosp Med. 1988 Aug;40(2):140-2. [[PubMed: 3048516](https://pubmed.ncbi.nlm.nih.gov/3048516)]
+Bhatnagar D. Diagnosis of factitious hypoglycaemia. Br J Hosp Med. 1988 Aug;40(2):140-2. \[[PubMed: 3048516](https://pubmed.ncbi.nlm.nih.gov/3048516)\]
 
 4.
-    
 
-Fu Z, Gilbert ER, Liu D. Regulation of insulin synthesis and secretion and pancreatic Beta-cell dysfunction in diabetes. Curr Diabetes Rev. 2013 Jan 01;9(1):25-53. [[PMC free article: PMC3934755](/pmc/articles/PMC3934755/)] [[PubMed: 22974359](https://pubmed.ncbi.nlm.nih.gov/22974359)]
+Fu Z, Gilbert ER, Liu D. Regulation of insulin synthesis and secretion and pancreatic Beta-cell dysfunction in diabetes. Curr Diabetes Rev. 2013 Jan 01;9(1):25-53. \[[PMC free article: PMC3934755](/pmc/articles/PMC3934755/)\] \[[PubMed: 22974359](https://pubmed.ncbi.nlm.nih.gov/22974359)\]
 
 5.
-    
 
-Tattersall R, Gregory R, Selby C, Kerr D, Heller S. Course of brittle diabetes: 12 year follow up. BMJ. 1991 May 25;302(6787):1240-3. [[PMC free article: PMC1669942](/pmc/articles/PMC1669942/)] [[PubMed: 1904287](https://pubmed.ncbi.nlm.nih.gov/1904287)]
+Tattersall R, Gregory R, Selby C, Kerr D, Heller S. Course of brittle diabetes: 12 year follow up. BMJ. 1991 May 25;302(6787):1240-3. \[[PMC free article: PMC1669942](/pmc/articles/PMC1669942/)\] \[[PubMed: 1904287](https://pubmed.ncbi.nlm.nih.gov/1904287)\]
 
 6.
-    
 
-Schade DS, Drumm DA, Eaton RP, Sterling WA. Factitious brittle diabetes mellitus. Am J Med. 1985 May;78(5):777-84. [[PubMed: 3922220](https://pubmed.ncbi.nlm.nih.gov/3922220)]
+Schade DS, Drumm DA, Eaton RP, Sterling WA. Factitious brittle diabetes mellitus. Am J Med. 1985 May;78(5):777-84. \[[PubMed: 3922220](https://pubmed.ncbi.nlm.nih.gov/3922220)\]
 
 7.
-    
 
-Schade DS, Burge MR. Brittle diabetes: etiology and treatment. Adv Endocrinol Metab. 1995;6:289-319. [[PubMed: 7671100](https://pubmed.ncbi.nlm.nih.gov/7671100)]
+Schade DS, Burge MR. Brittle diabetes: etiology and treatment. Adv Endocrinol Metab. 1995;6:289-319. \[[PubMed: 7671100](https://pubmed.ncbi.nlm.nih.gov/7671100)\]
 
 8.
-    
 
-Cryer PE, Axelrod L, Grossman AB, Heller SR, Montori VM, Seaquist ER, Service FJ., Endocrine Society. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2009 Mar;94(3):709-28. [[PubMed: 19088155](https://pubmed.ncbi.nlm.nih.gov/19088155)]
+Cryer PE, Axelrod L, Grossman AB, Heller SR, Montori VM, Seaquist ER, Service FJ., Endocrine Society. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2009 Mar;94(3):709-28. \[[PubMed: 19088155](https://pubmed.ncbi.nlm.nih.gov/19088155)\]
 
 9.
-    
 
-Biliotti GC, Vestrini G, Tonelli P, Salvietti A, Fucini C. Factitious hypoglycemia: an unusual clinical picture within Von Münchausen's syndrome. Ital J Surg Sci. 1983;13(1):41-4. [[PubMed: 6874318](https://pubmed.ncbi.nlm.nih.gov/6874318)]
+Biliotti GC, Vestrini G, Tonelli P, Salvietti A, Fucini C. Factitious hypoglycemia: an unusual clinical picture within Von Münchausen's syndrome. Ital J Surg Sci. 1983;13(1):41-4. \[[PubMed: 6874318](https://pubmed.ncbi.nlm.nih.gov/6874318)\]
 
 10.
-    
 
-Klein RF, Seino S, Sanz N, Nolte MS, Vinik AI, Karam JH. High performance liquid chromatography used to distinguish the autoimmune hypoglycemia syndrome from factitious hypoglycemia. J Clin Endocrinol Metab. 1985 Sep;61(3):571-4. [[PubMed: 3894407](https://pubmed.ncbi.nlm.nih.gov/3894407)]
+Klein RF, Seino S, Sanz N, Nolte MS, Vinik AI, Karam JH. High performance liquid chromatography used to distinguish the autoimmune hypoglycemia syndrome from factitious hypoglycemia. J Clin Endocrinol Metab. 1985 Sep;61(3):571-4. \[[PubMed: 3894407](https://pubmed.ncbi.nlm.nih.gov/3894407)\]
 
 11.
-    
 
-Perros P, Henderson AK, Carter DC, Toft AD. Lesson of the week. Are spontaneous hypoglycaemia, raised plasma insulin and C peptide concentrations, and abnormal pancreatic images enough to diagnose insulinoma? BMJ. 1997 Feb 15;314(7079):496-7. [[PMC free article: PMC2125998](/pmc/articles/PMC2125998/)] [[PubMed: 9056803](https://pubmed.ncbi.nlm.nih.gov/9056803)]
+Perros P, Henderson AK, Carter DC, Toft AD. Lesson of the week. Are spontaneous hypoglycaemia, raised plasma insulin and C peptide concentrations, and abnormal pancreatic images enough to diagnose insulinoma? BMJ. 1997 Feb 15;314(7079):496-7. \[[PMC free article: PMC2125998](/pmc/articles/PMC2125998/)\] \[[PubMed: 9056803](https://pubmed.ncbi.nlm.nih.gov/9056803)\]
 
 12.
-    
 
-Marks V, Teale JD. Hypoglycemia: factitious and felonious. Endocrinol Metab Clin North Am. 1999 Sep;28(3):579-601. [[PubMed: 10500932](https://pubmed.ncbi.nlm.nih.gov/10500932)]
+Marks V, Teale JD. Hypoglycemia: factitious and felonious. Endocrinol Metab Clin North Am. 1999 Sep;28(3):579-601. \[[PubMed: 10500932](https://pubmed.ncbi.nlm.nih.gov/10500932)\]
 
 13.
-    
 
-Marks V, Teale JD. Drug-induced hypoglycemia. Endocrinol Metab Clin North Am. 1999 Sep;28(3):555-77. [[PubMed: 10500931](https://pubmed.ncbi.nlm.nih.gov/10500931)]
+Marks V, Teale JD. Drug-induced hypoglycemia. Endocrinol Metab Clin North Am. 1999 Sep;28(3):555-77. \[[PubMed: 10500931](https://pubmed.ncbi.nlm.nih.gov/10500931)\]
 
 14.
-    
 
-Boyle PJ, Justice K, Krentz AJ, Nagy RJ, Schade DS. Octreotide reverses hyperinsulinemia and prevents hypoglycemia induced by sulfonylurea overdoses. J Clin Endocrinol Metab. 1993 Mar;76(3):752-6. [[PubMed: 8445035](https://pubmed.ncbi.nlm.nih.gov/8445035)]
+Boyle PJ, Justice K, Krentz AJ, Nagy RJ, Schade DS. Octreotide reverses hyperinsulinemia and prevents hypoglycemia induced by sulfonylurea overdoses. J Clin Endocrinol Metab. 1993 Mar;76(3):752-6. \[[PubMed: 8445035](https://pubmed.ncbi.nlm.nih.gov/8445035)\]
 
 15.
-    
 
-Altszuler N, Moraru E, Hampshire J. On the mechanism of diazoxide-induced hyperglycemia. Diabetes. 1977 Oct;26(10):931-5. [[PubMed: 908462](https://pubmed.ncbi.nlm.nih.gov/908462)]
+Altszuler N, Moraru E, Hampshire J. On the mechanism of diazoxide-induced hyperglycemia. Diabetes. 1977 Oct;26(10):931-5. \[[PubMed: 908462](https://pubmed.ncbi.nlm.nih.gov/908462)\]
 
 16.
-    
 
-Otto C, Richter WO. [Hypoglycemia. Symptoms, differential diagnosis, therapy]. Fortschr Med. 1997 Feb 28;115(6):37-9. [[PubMed: 9173011](https://pubmed.ncbi.nlm.nih.gov/9173011)]
+Otto C, Richter WO. [Hypoglycemia. Symptoms, differential diagnosis, therapy]. Fortschr Med. 1997 Feb 28;115(6):37-9. \[[PubMed: 9173011](https://pubmed.ncbi.nlm.nih.gov/9173011)\]
 
 17.
-    
 
-Huffman JC, Stern TA. The diagnosis and treatment of Munchausen's syndrome. Gen Hosp Psychiatry. 2003 Sep-Oct;25(5):358-63. [[PubMed: 12972228](https://pubmed.ncbi.nlm.nih.gov/12972228)]
+Huffman JC, Stern TA. The diagnosis and treatment of Munchausen's syndrome. Gen Hosp Psychiatry. 2003 Sep-Oct;25(5):358-63. \[[PubMed: 12972228](https://pubmed.ncbi.nlm.nih.gov/12972228)\]
 
 18.
-    
 
-Goto A, Arah OA, Goto M, Terauchi Y, Noda M. Severe hypoglycaemia and cardiovascular disease: systematic review and meta-analysis with bias analysis. BMJ. 2013 Jul 29;347:f4533. [[PubMed: 23900314](https://pubmed.ncbi.nlm.nih.gov/23900314)]
-
-    
+Goto A, Arah OA, Goto M, Terauchi Y, Noda M. Severe hypoglycaemia and cardiovascular disease: systematic review and meta-analysis with bias analysis. BMJ. 2013 Jul 29;347:f4533. \[[PubMed: 23900314](https://pubmed.ncbi.nlm.nih.gov/23900314)\]
 
 **Disclosure:** Dana Awad declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Srinivasa Gokarakonda declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Marium Ilahi declares no relevant financial relationships with ineligible companies.

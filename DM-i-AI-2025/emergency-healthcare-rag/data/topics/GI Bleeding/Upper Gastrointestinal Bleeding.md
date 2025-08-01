@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22101/
-scraped_date: 2025-07-22 12:45:25 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22101/ scraped_date: 2025-07-22 12:45:25 UTC
 
 # Gastrointestinal Bleeding
 
@@ -27,13 +26,13 @@ Gastrointestinal bleeding can fall into two broad categories: upper and lower so
 
 **Objectives:**
 
-  * Review the causes of gastrointestinal bleeding.
+- Review the causes of gastrointestinal bleeding.
 
-  * Describe the workup of a patient with upper and lower gastrointestinal bleeding.
+- Describe the workup of a patient with upper and lower gastrointestinal bleeding.
 
-  * Summarize the risk stratification tools to assess gastrointestinal bleeding.
+- Summarize the risk stratification tools to assess gastrointestinal bleeding.
 
-  * Identify interprofessional team strategies for improving care coordination and outcomes in patients with gastrointestinal bleeding.
+- Identify interprofessional team strategies for improving care coordination and outcomes in patients with gastrointestinal bleeding.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=22101&utm_source=pubmed&utm_campaign=reviews&utm_content=22101)
 
@@ -47,63 +46,63 @@ The etiology of gastrointestinal bleeding is divided into upper gastrointestinal
 
 **Upper GI Bleeding**
 
-  * Peptic ulcer disease (can be secondary to excess gastric acid, H. pylori infection, NSAID overuse, or physiologic stress)
+- Peptic ulcer disease (can be secondary to excess gastric acid, H. pylori infection, NSAID overuse, or physiologic stress)
 
-  * Esophagitis
+- Esophagitis
 
-  * Gastritis and Duodenitis
+- Gastritis and Duodenitis
 
-  * Varices
+- Varices
 
-  * Portal hypertensive gastropathy (PHG)
+- Portal hypertensive gastropathy (PHG)
 
-  * Angiodysplasia
+- Angiodysplasia
 
-  * Dieulafoy lesion (bleeding dilated vessel that erodes through the gastrointestinal epithelium but has no primary ulceration; can be at any location along the GI tract[1]
+- Dieulafoy lesion (bleeding dilated vessel that erodes through the gastrointestinal epithelium but has no primary ulceration; can be at any location along the GI tract[1]
 
-  * Gastric antral valvular ectasia (GAVE; also known as watermelon stomach)
+- Gastric antral valvular ectasia (GAVE; also known as watermelon stomach)
 
-  * Mallory-Weiss tears
+- Mallory-Weiss tears
 
-  * Cameron lesions (bleeding ulcers occurring at the site of a hiatal hernia[2]
+- Cameron lesions (bleeding ulcers occurring at the site of a hiatal hernia[2]
 
-  * Aortoenteric fistulas
+- Aortoenteric fistulas
 
-  * Foreign body ingestion
+- Foreign body ingestion
 
-  * Post-surgical bleeds (post-anastomotic bleeding, post-polypectomy bleeding, post-sphincterotomy bleeding)
+- Post-surgical bleeds (post-anastomotic bleeding, post-polypectomy bleeding, post-sphincterotomy bleeding)
 
-  * Upper GI tumors
+- Upper GI tumors
 
-  * Hemobilia (bleeding from the biliary tract)
+- Hemobilia (bleeding from the biliary tract)
 
-  * Hemosuccus pancreaticus (bleeding from the pancreatic duct)
+- Hemosuccus pancreaticus (bleeding from the pancreatic duct)
 
 **Lower GI Bleeding**
 
-  * Diverticulosis (colonic wall protrusion at the site of penetrating vessels; over time mucosa overlying the vessel can be injured and rupture leading to bleeding) [diverticulosis]
+- Diverticulosis (colonic wall protrusion at the site of penetrating vessels; over time mucosa overlying the vessel can be injured and rupture leading to bleeding) [diverticulosis]
 
-  * Angiodysplasia
+- Angiodysplasia
 
-  * Infectious colitis
+- Infectious colitis
 
-  * Ischemic colitis
+- Ischemic colitis
 
-  * Inflammatory bowel disease
+- Inflammatory bowel disease
 
-  * Colon cancer
+- Colon cancer
 
-  * Hemorrhoids
+- Hemorrhoids
 
-  * Anal fissures
+- Anal fissures
 
-  * Rectal varices
+- Rectal varices
 
-  * Dieulafoy lesion (more rarely found outside of the stomach, but can be found throughout GI tract)
+- Dieulafoy lesion (more rarely found outside of the stomach, but can be found throughout GI tract)
 
-  * Radiation-induced damage following treatment of abdominal or pelvic cancers
+- Radiation-induced damage following treatment of abdominal or pelvic cancers
 
-  * Post-surgical (post-polypectomy bleeding, post-biopsy bleeding)
+- Post-surgical (post-polypectomy bleeding, post-biopsy bleeding)
 
 ## Epidemiology
 
@@ -115,85 +114,95 @@ Upper gastrointestinal bleeding (UGIB) is more common than lower gastrointestina
 
 Question patient for potential clues regarding:
 
-  * Previous episodes of GI bleeding
+- Previous episodes of GI bleeding
 
-  * Past medical history relevant to potential bleeding sources (e.g., varices, portal hypertension, alcohol abuse, tobacco abuse, ulcers, H.pylori, diverticulitis, hemorrhoids, inflammatory bowel disease)
+- Past medical history relevant to potential bleeding sources (e.g., varices, portal hypertension, alcohol abuse, tobacco abuse, ulcers, H.pylori, diverticulitis, hemorrhoids, inflammatory bowel disease)
 
-  * Comorbid conditions that could affect management
+- Comorbid conditions that could affect management
 
-  * Contributory or confounding medications (non-steroidal anti-inflammatory drugs, anticoagulants, antiplatelet agents, bismuth, iron)
+- Contributory or confounding medications (non-steroidal anti-inflammatory drugs, anticoagulants, antiplatelet agents, bismuth, iron)
 
-  * Symptoms associated with bleeding (e.g., painless vs. painful, trouble swallowing, unintentional weight loss, preceding emesis or retching, change in bowel habits)
+- Symptoms associated with bleeding (e.g., painless vs. painful, trouble swallowing, unintentional weight loss, preceding emesis or retching, change in bowel habits)
 
 **Physical**
 
-  * Look for signs of hemodynamic instability: 
-    * Resting tachycardia — associated with the loss of less than 15% total blood volume
+- Look for signs of hemodynamic instability:
 
-    * Orthostatic hypotension — carries an association with the loss of approximately 15% total blood volume
+  - Resting tachycardia — associated with the loss of less than 15% total blood volume
 
-    * Supine hypotension — associated with the loss of approximately 40% total blood volume
+  - Orthostatic hypotension — carries an association with the loss of approximately 15% total blood volume
 
-  * Abdominal pain may raise suspicion for perforation or ischemia.
+  - Supine hypotension — associated with the loss of approximately 40% total blood volume
 
-  * A rectal exam is important for the evaluation of: 
-    * Anal fissures
+- Abdominal pain may raise suspicion for perforation or ischemia.
 
-    * Hemorrhoids
+- A rectal exam is important for the evaluation of:
 
-    * Anorectal mass
+  - Anal fissures
 
-    * Stool exam
+  - Hemorrhoids
+
+  - Anorectal mass
+
+  - Stool exam
 
 ## Evaluation
 
 The following laboratory tests are advised to assist in finding the cause of GI bleeding.
 
-  * Complete blood count
+- Complete blood count
 
-  * Hemoglobin/hematocrit
+- Hemoglobin/hematocrit
 
-  * International normalized ratio (INR), prothrombin time, activated partial thromboplastin time
+- International normalized ratio (INR), prothrombin time, activated partial thromboplastin time
 
-  * Lactate
+- Lactate
 
-  * Liver function tests
+- Liver function tests
 
 **Diagnostic Studies**
 
-  * Upper GI endoscopy 
-    * Can be diagnostic and therapeutic
+- Upper GI endoscopy
 
-    * Allows visualization of the upper GI tract (typically including from the oral cavity up to the duodenum) and treatment with injection therapy, thermal coagulation, or hemostatic clips/bands
+  - Can be diagnostic and therapeutic
 
-  * Lower GI endoscopy/colonoscopy 
-    * Can be diagnostic and therapeutic
+  - Allows visualization of the upper GI tract (typically including from the oral cavity up to the duodenum) and treatment with injection therapy, thermal coagulation, or hemostatic clips/bands
 
-    * Allows visualization of the lower GI tract (including the colon and terminal ileum) and treatment with injection therapy, thermal coagulation, or hemostatic clips/bands
+- Lower GI endoscopy/colonoscopy
 
-  * Push enteroscopy 
-    * Allows further visualization of the small bowel
+  - Can be diagnostic and therapeutic
 
-  * Deep small bowel enteroscopy 
-    * Allows further visualization of the small bowel
+  - Allows visualization of the lower GI tract (including the colon and terminal ileum) and treatment with injection therapy, thermal coagulation, or hemostatic clips/bands
 
-  * Nuclear scintigraphy 
-    * Tagged RBC scan
+- Push enteroscopy
 
-    * Detects bleeding occurring at a rate of 0.1 to 0.5 mL/min using technetium-99m (can only detect active bleeding[8]
+  - Allows further visualization of the small bowel
 
-    * Can be helpful to localize angiographic and surgical interventions
+- Deep small bowel enteroscopy
 
-  * CT angiography 
-    * Allows for identification of an actively bleeding vessel
+  - Allows further visualization of the small bowel
 
-  * Standard angiography 
-    * Allows for identification of a bleeding vessel and potential treatment via embolization or intra-arterial vasopressin[9]
+- Nuclear scintigraphy
 
-    * Requires the active bleeding be at a rate of 0.5 to 1.0 mL/min to visualize the site[10]
+  - Tagged RBC scan
 
-  * Meckel scan 
-    * Nuclear medicine scan to look for ectopic gastric mucosa
+  - Detects bleeding occurring at a rate of 0.1 to 0.5 mL/min using technetium-99m (can only detect active bleeding[8]
+
+  - Can be helpful to localize angiographic and surgical interventions
+
+- CT angiography
+
+  - Allows for identification of an actively bleeding vessel
+
+- Standard angiography
+
+  - Allows for identification of a bleeding vessel and potential treatment via embolization or intra-arterial vasopressin[9]
+
+  - Requires the active bleeding be at a rate of 0.5 to 1.0 mL/min to visualize the site[10]
+
+- Meckel scan
+
+  - Nuclear medicine scan to look for ectopic gastric mucosa
 
 ## Treatment / Management
 
@@ -205,65 +214,79 @@ Specific risk calculators attempt to help identify patients who would benefit fr
 
 **Setting**
 
-  * ICU 
-    * Patients with hemodynamic instability, continuous bleeding, or those with a significant risk of morbidity/mortality should undergo monitoring in an intensive care unit to facilitate more frequent observation of vital signs and more emergent therapeutic intervention.
+- ICU
 
-  * General Medical Ward 
-    * Most other patients can undergo monitoring on a general medical floor. However, they would likely benefit from continuous telemetry monitoring for earlier recognition of hemodynamic compromise.
+  - Patients with hemodynamic instability, continuous bleeding, or those with a significant risk of morbidity/mortality should undergo monitoring in an intensive care unit to facilitate more frequent observation of vital signs and more emergent therapeutic intervention.
 
-  * Outpatient 
-    * Most patients with GI bleeding will require hospitalization. However, some young, healthy patients with self-limited and asymptomatic bleeding may be safely discharged and evaluated on an outpatient basis.
+- General Medical Ward
+
+  - Most other patients can undergo monitoring on a general medical floor. However, they would likely benefit from continuous telemetry monitoring for earlier recognition of hemodynamic compromise.
+
+- Outpatient
+
+  - Most patients with GI bleeding will require hospitalization. However, some young, healthy patients with self-limited and asymptomatic bleeding may be safely discharged and evaluated on an outpatient basis.
 
 **Treatments**
 
-  * Nothing by mouth
+- Nothing by mouth
 
-  * Provide supplemental oxygen if the patient is hypoxic (typically via nasal cannula, but patients with ongoing hematemesis or altered mental status may require intubation). Avoid non-invasive positive pressure ventilation (NIPPV) due to the risk of aspiration with ongoing vomiting.
+- Provide supplemental oxygen if the patient is hypoxic (typically via nasal cannula, but patients with ongoing hematemesis or altered mental status may require intubation). Avoid non-invasive positive pressure ventilation (NIPPV) due to the risk of aspiration with ongoing vomiting.
 
-  * Adequate IV access - at least two large-bore peripheral IVs (18 gauge or larger) or a centrally placed cordis
+- Adequate IV access - at least two large-bore peripheral IVs (18 gauge or larger) or a centrally placed cordis
 
-  * IV fluid resuscitation (with normal saline or lactated Ringer solution)
+- IV fluid resuscitation (with normal saline or lactated Ringer solution)
 
-  * Blood grouping and cross match
+- Blood grouping and cross match
 
-  * Transfusions 
-    * RBC transfusion 
-      * Typically started if hemoglobin is less than 7 g/dL, including in patients with coronary heart disease[12][13]
+- Transfusions
 
-    * Platelet transfusion 
-      * started if the platelet count is less than 50,000/microL
+  - RBC transfusion
 
-    * Prothrombin complex concentrate 
-      * Transfuse if INR is more than 2
+    - Typically started if hemoglobin is less than 7 g/dL, including in patients with coronary heart disease[12][13]
 
-  * Medications 
-    * PPIs 
-      * Used empirically for upper GI bleeds and can be continued or discontinued upon identification of the bleeding source
+  - Platelet transfusion
 
-    * Prokinetic agents 
-      * Given to improve visualization at the time of endoscopy
+    - started if the platelet count is less than 50,000/microL
 
-    * Vasoactive medications 
-      * Somatostatin and its analog octreotide can be used to treat variceal bleeding by inhibiting vasodilatory hormone release[14]
+  - Prothrombin complex concentrate
 
-    * Antibiotics 
-      * Considered prophylactically in patients with cirrhosis to prevent translocation, especially from endoscopy
+    - Transfuse if INR is more than 2
 
-    * Anticoagulant/antiplatelet agents 
-      * Should be stopped if possible in acute bleeds
+- Medications
 
-      * Consider the reversal of agents on a case-by-case basis dependent on the severity of bleeding and risks of reversal
+  - PPIs
 
-  * Other 
-    * Consider NGT lavage if necessary to remove fresh blood or clots to facilitate endoscopy
+    - Used empirically for upper GI bleeds and can be continued or discontinued upon identification of the bleeding source
 
-    * Placement of a Blakemore or Minnesota tube should be considered in patients with hemodynamic instability/massive GI bleeds in the setting of known varices, which should be done only once the airway is secured. This procedure carries a significant complication risk (including arrhythmias, gastric or esophageal perforation) and should only be done by an experienced provider as a temporizing measure.
+  - Prokinetic agents
 
-    * Surgery should be consulted promptly in patients with massive bleeding or hemodynamic instability who have bleeding that is not amenable to any other treatment.
+    - Given to improve visualization at the time of endoscopy
 
-    * In case of diverticular bleeding colonoscopy with bipolar probe coagulation, epinephrine injection, or metallic clips are used.
+  - Vasoactive medications
 
-    * If angiodysplasia is the cause of lower GI bleed, thermal therapy (eg, electrocoagulation, argon plasma coagulation) is done.
+    - Somatostatin and its analog octreotide can be used to treat variceal bleeding by inhibiting vasodilatory hormone release[14]
+
+  - Antibiotics
+
+    - Considered prophylactically in patients with cirrhosis to prevent translocation, especially from endoscopy
+
+  - Anticoagulant/antiplatelet agents
+
+    - Should be stopped if possible in acute bleeds
+
+    - Consider the reversal of agents on a case-by-case basis dependent on the severity of bleeding and risks of reversal
+
+- Other
+
+  - Consider NGT lavage if necessary to remove fresh blood or clots to facilitate endoscopy
+
+  - Placement of a Blakemore or Minnesota tube should be considered in patients with hemodynamic instability/massive GI bleeds in the setting of known varices, which should be done only once the airway is secured. This procedure carries a significant complication risk (including arrhythmias, gastric or esophageal perforation) and should only be done by an experienced provider as a temporizing measure.
+
+  - Surgery should be consulted promptly in patients with massive bleeding or hemodynamic instability who have bleeding that is not amenable to any other treatment.
+
+  - In case of diverticular bleeding colonoscopy with bipolar probe coagulation, epinephrine injection, or metallic clips are used.
+
+  - If angiodysplasia is the cause of lower GI bleed, thermal therapy (eg, electrocoagulation, argon plasma coagulation) is done.
 
 ## Differential Diagnosis
 
@@ -271,59 +294,59 @@ Few diagnoses mimic GI bleeding. Occasionally, hemoptysis may be confused for he
 
 **Upper GI Bleeding**
 
-  * Peptic ulcer disease
+- Peptic ulcer disease
 
-  * Esophagitis
+- Esophagitis
 
-  * Gastritis and Duodenitis
+- Gastritis and Duodenitis
 
-  * Varices
+- Varices
 
-  * Portal hypertensive gastropathy
+- Portal hypertensive gastropathy
 
-  * Angiodysplasia
+- Angiodysplasia
 
-  * Dieulafoy lesion
+- Dieulafoy lesion
 
-  * Gastric antral valvular ectasia
+- Gastric antral valvular ectasia
 
-  * Mallory-Weiss tears
+- Mallory-Weiss tears
 
-  * Cameron lesion
+- Cameron lesion
 
-  * Aortoenteric fistulas
+- Aortoenteric fistulas
 
-  * Foreign body ingestion
+- Foreign body ingestion
 
-  * Upper GI tumors
+- Upper GI tumors
 
-  * Hemobilia
+- Hemobilia
 
-  * Hemosuccus pancreaticus
+- Hemosuccus pancreaticus
 
 **Lower GI Bleeding**
 
-  * Diverticulosis
+- Diverticulosis
 
-  * Angiodysplasia
+- Angiodysplasia
 
-  * Infectious colitis
+- Infectious colitis
 
-  * Ischemic colitis
+- Ischemic colitis
 
-  * Inflammatory bowel disease
+- Inflammatory bowel disease
 
-  * Colon cancer
+- Colon cancer
 
-  * Hemorrhoids
+- Hemorrhoids
 
-  * Anal fissures
+- Anal fissures
 
-  * Rectal varices
+- Rectal varices
 
-  * Dieulafoy lesion
+- Dieulafoy lesion
 
-  * Radiation-induced collitis
+- Radiation-induced collitis
 
 ## Prognosis
 
@@ -339,141 +362,120 @@ For lower GI bleeds, all-cause in-hospital mortality is low—less than 4%. Deat
 
 Gastrointestinal bleeding if not managed timely or properly can lead to serious consequences. Following complications can occur in a patient with upper or lower gastrointestinal bleeding:
 
-  * Respiratory Distress
+- Respiratory Distress
 
-  * Myocardial Infarction
+- Myocardial Infarction
 
-  * Infection
+- Infection
 
-  * Shock
+- Shock
 
-  * Death
+- Death
 
 ## Consultations
 
 Management of gastrointestinal bleeding is teamwork. Following specialties work hand in hand to improve outcomes.
 
-  * Gastroenterology
+- Gastroenterology
 
-  * Critical care
+- Critical care
 
-  * General surgery
+- General surgery
 
-  * Interventional radiology
+- Interventional radiology
 
 ## Deterrence and Patient Education
 
-_H pylori_ eradication regimen should be started if  _H pylori_ is present in case of peptic ulcer disease. Eradication of  _H pylori_ has shown to reduce the risk of recurrent ulcer hemorrhages. Nonsteroidal anti-inflammatory drugs (NSAIDs) should be avoided and use COX-2 inhibitors which have less risk of ulcer hemorrhage. If it is not possible to avoid NSAIDs, use the lowest dose and duration. Proton-pump inhibitors (PPIs) or misoprostol therapy should be used along with NSAIDs. Increased physical activity prevents the progression of diverticular disease. Aspirin and NSAID increase the risk of diverticulitis diverticular bleeding.[17]
+_H pylori_ eradication regimen should be started if _H pylori_ is present in case of peptic ulcer disease. Eradication of _H pylori_ has shown to reduce the risk of recurrent ulcer hemorrhages. Nonsteroidal anti-inflammatory drugs (NSAIDs) should be avoided and use COX-2 inhibitors which have less risk of ulcer hemorrhage. If it is not possible to avoid NSAIDs, use the lowest dose and duration. Proton-pump inhibitors (PPIs) or misoprostol therapy should be used along with NSAIDs. Increased physical activity prevents the progression of diverticular disease. Aspirin and NSAID increase the risk of diverticulitis diverticular bleeding.[17]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Care of patients with gastrointestinal bleeding requires coordinated and efficient interprofessional cooperation. Nurses manage the frequent monitoring of vital signs and more short-term interaction with and observation of patients. They must communicate their findings with the providers, who use their own and nursing observations to make decisions for treatment. Multiple providers may be necessary for treatment. General internists are typically responsible for the routine care of patients with GI bleeds. Critical care providers may be involved if the patient warrants ICU-level care for severe hemorrhages. Gastroenterologists perform endoscopic examinations and treatment if able during those procedures. Radiologists will interpret various imaging modalities and conveying those results to the providers. Interventional radiologists may perform diagnostic procedures, with the ability to also perform therapeutic modalities such as angiography-guided embolization. In some severe cases, general surgeons may be involved in intervention or exploratory procedures. Pharmacists are essential for providing oversight of medications used in the setting of bleeds and ensuring the use of proper dosages. A coordinated effort by all of these healthcare professionals functioning as an interprofessional team is necessary for early recognition and intervention in gastrointestinal bleeds to prevent further morbidity or mortalities.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=22101&utm_source=pubmed&utm_campaign=reviews&utm_content=22101)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=22101&utm_source=pubmed&utm_campaign=reviews&utm_content=22101)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/gut-health/gastrointestinal-bleeding-gi-bleed/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=22101)
+- [Click here for a simplified version.](https://mdsearchlight.com/gut-health/gastrointestinal-bleeding-gi-bleed/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=22101)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/22101/?utm_source=pubmed&utm_campaign=comments&utm_content=22101)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/22101/?utm_source=pubmed&utm_campaign=comments&utm_content=22101)
 
-[![Sengstaken–Blakemore tube Olek Remesz \(wiki-pl: Orem, commons: Orem\) \[CC BY-SA 3](/books/NBK537291/bin/Sengstaken-Blakemore_scheme_EN.svg.gif)](/books/NBK537291/figure/article-22101.image.f1/?report=objectonly "Figure")
+[![Sengstaken–Blakemore tube Olek Remesz wiki-pl: Orem, commons: Orem CC BY-SA 3](/books/NBK537291/bin/Sengstaken-Blakemore_scheme_EN.svg.gif)](/books/NBK537291/figure/article-22101.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK537291/figure/article-22101.image.f1/?report=objectonly)
 
-Sengstaken–Blakemore tube Olek Remesz (wiki-pl: Orem, commons: Orem) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons 
+Sengstaken–Blakemore tube Olek Remesz (wiki-pl: Orem, commons: Orem) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons
 
 ## References
 
 1.
-    
 
-Lee YT, Walmsley RS, Leong RW, Sung JJ. Dieulafoy's lesion. Gastrointest Endosc. 2003 Aug;58(2):236-43. [[PubMed: 12872092](https://pubmed.ncbi.nlm.nih.gov/12872092)]
+Lee YT, Walmsley RS, Leong RW, Sung JJ. Dieulafoy's lesion. Gastrointest Endosc. 2003 Aug;58(2):236-43. \[[PubMed: 12872092](https://pubmed.ncbi.nlm.nih.gov/12872092)\]
 
 2.
-    
 
-Weston AP. Hiatal hernia with cameron ulcers and erosions. Gastrointest Endosc Clin N Am. 1996 Oct;6(4):671-9. [[PubMed: 8899401](https://pubmed.ncbi.nlm.nih.gov/8899401)]
+Weston AP. Hiatal hernia with cameron ulcers and erosions. Gastrointest Endosc Clin N Am. 1996 Oct;6(4):671-9. \[[PubMed: 8899401](https://pubmed.ncbi.nlm.nih.gov/8899401)\]
 
 3.
-    
 
-Wuerth BA, Rockey DC. Changing Epidemiology of Upper Gastrointestinal Hemorrhage in the Last Decade: A Nationwide Analysis. Dig Dis Sci. 2018 May;63(5):1286-1293. [[PubMed: 29282637](https://pubmed.ncbi.nlm.nih.gov/29282637)]
+Wuerth BA, Rockey DC. Changing Epidemiology of Upper Gastrointestinal Hemorrhage in the Last Decade: A Nationwide Analysis. Dig Dis Sci. 2018 May;63(5):1286-1293. \[[PubMed: 29282637](https://pubmed.ncbi.nlm.nih.gov/29282637)\]
 
 4.
-    
 
-Ghassemi KA, Jensen DM. Lower GI bleeding: epidemiology and management. Curr Gastroenterol Rep. 2013 Jul;15(7):333. [[PMC free article: PMC3857214](/pmc/articles/PMC3857214/)] [[PubMed: 23737154](https://pubmed.ncbi.nlm.nih.gov/23737154)]
+Ghassemi KA, Jensen DM. Lower GI bleeding: epidemiology and management. Curr Gastroenterol Rep. 2013 Jul;15(7):333. \[[PMC free article: PMC3857214](/pmc/articles/PMC3857214/)\] \[[PubMed: 23737154](https://pubmed.ncbi.nlm.nih.gov/23737154)\]
 
 5.
-    
 
-Longstreth GF. Epidemiology of hospitalization for acute upper gastrointestinal hemorrhage: a population-based study. Am J Gastroenterol. 1995 Feb;90(2):206-10. [[PubMed: 7847286](https://pubmed.ncbi.nlm.nih.gov/7847286)]
+Longstreth GF. Epidemiology of hospitalization for acute upper gastrointestinal hemorrhage: a population-based study. Am J Gastroenterol. 1995 Feb;90(2):206-10. \[[PubMed: 7847286](https://pubmed.ncbi.nlm.nih.gov/7847286)\]
 
 6.
-    
 
-Lanas A, Perez-Aisa MA, Feu F, Ponce J, Saperas E, Santolaria S, Rodrigo L, Balanzo J, Bajador E, Almela P, Navarro JM, Carballo F, Castro M, Quintero E., Investigators of the Asociación Española de Gastroenterología (AEG). A nationwide study of mortality associated with hospital admission due to severe gastrointestinal events and those associated with nonsteroidal antiinflammatory drug use. Am J Gastroenterol. 2005 Aug;100(8):1685-93. [[PubMed: 16086703](https://pubmed.ncbi.nlm.nih.gov/16086703)]
+Lanas A, Perez-Aisa MA, Feu F, Ponce J, Saperas E, Santolaria S, Rodrigo L, Balanzo J, Bajador E, Almela P, Navarro JM, Carballo F, Castro M, Quintero E., Investigators of the Asociación Española de Gastroenterología (AEG). A nationwide study of mortality associated with hospital admission due to severe gastrointestinal events and those associated with nonsteroidal antiinflammatory drug use. Am J Gastroenterol. 2005 Aug;100(8):1685-93. \[[PubMed: 16086703](https://pubmed.ncbi.nlm.nih.gov/16086703)\]
 
 7.
-    
 
-Strate LL, Gralnek IM. ACG Clinical Guideline: Management of Patients With Acute Lower Gastrointestinal Bleeding. Am J Gastroenterol. 2016 May;111(5):755. [[PubMed: 27151132](https://pubmed.ncbi.nlm.nih.gov/27151132)]
+Strate LL, Gralnek IM. ACG Clinical Guideline: Management of Patients With Acute Lower Gastrointestinal Bleeding. Am J Gastroenterol. 2016 May;111(5):755. \[[PubMed: 27151132](https://pubmed.ncbi.nlm.nih.gov/27151132)\]
 
 8.
-    
 
-Dusold R, Burke K, Carpentier W, Dyck WP. The accuracy of technetium-99m-labeled red cell scintigraphy in localizing gastrointestinal bleeding. Am J Gastroenterol. 1994 Mar;89(3):345-8. [[PubMed: 8122642](https://pubmed.ncbi.nlm.nih.gov/8122642)]
+Dusold R, Burke K, Carpentier W, Dyck WP. The accuracy of technetium-99m-labeled red cell scintigraphy in localizing gastrointestinal bleeding. Am J Gastroenterol. 1994 Mar;89(3):345-8. \[[PubMed: 8122642](https://pubmed.ncbi.nlm.nih.gov/8122642)\]
 
 9.
-    
 
-Funaki B. Endovascular intervention for the treatment of acute arterial gastrointestinal hemorrhage. Gastroenterol Clin North Am. 2002 Sep;31(3):701-13. [[PubMed: 12481726](https://pubmed.ncbi.nlm.nih.gov/12481726)]
+Funaki B. Endovascular intervention for the treatment of acute arterial gastrointestinal hemorrhage. Gastroenterol Clin North Am. 2002 Sep;31(3):701-13. \[[PubMed: 12481726](https://pubmed.ncbi.nlm.nih.gov/12481726)\]
 
 10.
-    
 
-Walker TG. Acute gastrointestinal hemorrhage. Tech Vasc Interv Radiol. 2009 Jun;12(2):80-91. [[PubMed: 19853226](https://pubmed.ncbi.nlm.nih.gov/19853226)]
+Walker TG. Acute gastrointestinal hemorrhage. Tech Vasc Interv Radiol. 2009 Jun;12(2):80-91. \[[PubMed: 19853226](https://pubmed.ncbi.nlm.nih.gov/19853226)\]
 
 11.
-    
 
-Oakland K, Jairath V, Uberoi R, Guy R, Ayaru L, Mortensen N, Murphy MF, Collins GS. Derivation and validation of a novel risk score for safe discharge after acute lower gastrointestinal bleeding: a modelling study. Lancet Gastroenterol Hepatol. 2017 Sep;2(9):635-643. [[PubMed: 28651935](https://pubmed.ncbi.nlm.nih.gov/28651935)]
+Oakland K, Jairath V, Uberoi R, Guy R, Ayaru L, Mortensen N, Murphy MF, Collins GS. Derivation and validation of a novel risk score for safe discharge after acute lower gastrointestinal bleeding: a modelling study. Lancet Gastroenterol Hepatol. 2017 Sep;2(9):635-643. \[[PubMed: 28651935](https://pubmed.ncbi.nlm.nih.gov/28651935)\]
 
 12.
-    
 
-Qaseem A, Humphrey LL, Fitterman N, Starkey M, Shekelle P., Clinical Guidelines Committee of the American College of Physicians. Treatment of anemia in patients with heart disease: a clinical practice guideline from the American College of Physicians. Ann Intern Med. 2013 Dec 03;159(11):770-779. [[PubMed: 24297193](https://pubmed.ncbi.nlm.nih.gov/24297193)]
+Qaseem A, Humphrey LL, Fitterman N, Starkey M, Shekelle P., Clinical Guidelines Committee of the American College of Physicians. Treatment of anemia in patients with heart disease: a clinical practice guideline from the American College of Physicians. Ann Intern Med. 2013 Dec 03;159(11):770-779. \[[PubMed: 24297193](https://pubmed.ncbi.nlm.nih.gov/24297193)\]
 
 13.
-    
 
-Duggan JM. Gastrointestinal hemorrhage: should we transfuse less? Dig Dis Sci. 2009 Aug;54(8):1662-6. [[PubMed: 19034655](https://pubmed.ncbi.nlm.nih.gov/19034655)]
+Duggan JM. Gastrointestinal hemorrhage: should we transfuse less? Dig Dis Sci. 2009 Aug;54(8):1662-6. \[[PubMed: 19034655](https://pubmed.ncbi.nlm.nih.gov/19034655)\]
 
 14.
-    
 
-Wynick D, Polak JM, Bloom SR. Somatostatin and its analogues in the therapy of gastrointestinal disease. Pharmacol Ther. 1989;41(1-2):353-70. [[PubMed: 2565581](https://pubmed.ncbi.nlm.nih.gov/2565581)]
+Wynick D, Polak JM, Bloom SR. Somatostatin and its analogues in the therapy of gastrointestinal disease. Pharmacol Ther. 1989;41(1-2):353-70. \[[PubMed: 2565581](https://pubmed.ncbi.nlm.nih.gov/2565581)\]
 
 15.
-    
 
-Roberts SE, Button LA, Williams JG. Prognosis following upper gastrointestinal bleeding. PLoS One. 2012;7(12):e49507. [[PMC free article: PMC3520969](/pmc/articles/PMC3520969/)] [[PubMed: 23251344](https://pubmed.ncbi.nlm.nih.gov/23251344)]
+Roberts SE, Button LA, Williams JG. Prognosis following upper gastrointestinal bleeding. PLoS One. 2012;7(12):e49507. \[[PMC free article: PMC3520969](/pmc/articles/PMC3520969/)\] \[[PubMed: 23251344](https://pubmed.ncbi.nlm.nih.gov/23251344)\]
 
 16.
-    
 
-Strate LL, Ayanian JZ, Kotler G, Syngal S. Risk factors for mortality in lower intestinal bleeding. Clin Gastroenterol Hepatol. 2008 Sep;6(9):1004-10; quiz 955-. [[PMC free article: PMC2643270](/pmc/articles/PMC2643270/)] [[PubMed: 18558513](https://pubmed.ncbi.nlm.nih.gov/18558513)]
+Strate LL, Ayanian JZ, Kotler G, Syngal S. Risk factors for mortality in lower intestinal bleeding. Clin Gastroenterol Hepatol. 2008 Sep;6(9):1004-10; quiz 955-. \[[PMC free article: PMC2643270](/pmc/articles/PMC2643270/)\] \[[PubMed: 18558513](https://pubmed.ncbi.nlm.nih.gov/18558513)\]
 
 17.
-    
 
-Wilkins T, Embry K, George R. Diagnosis and management of acute diverticulitis. Am Fam Physician. 2013 May 01;87(9):612-20. [[PubMed: 23668524](https://pubmed.ncbi.nlm.nih.gov/23668524)]
-
-    
+Wilkins T, Embry K, George R. Diagnosis and management of acute diverticulitis. Am Fam Physician. 2013 May 01;87(9):612-20. \[[PubMed: 23668524](https://pubmed.ncbi.nlm.nih.gov/23668524)\]
 
 **Disclosure:** Alexander DiGregorio declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Heidi Alvey declares no relevant financial relationships with ineligible companies.

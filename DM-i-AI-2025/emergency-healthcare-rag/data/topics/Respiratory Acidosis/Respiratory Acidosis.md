@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17096/
-scraped_date: 2025-07-22 12:41:20 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17096/ scraped_date: 2025-07-22 12:41:20 UTC
 
 # Respiratory Acidosis
 
@@ -27,13 +26,13 @@ Respiratory acidosis typically occurs due to failure of ventilation and accumula
 
 **Objectives:**
 
-  * Identify the etiology of respiratory acidosis.
+- Identify the etiology of respiratory acidosis.
 
-  * Review the history and physical exam findings typically seen in patients with respiratory acidosis.
+- Review the history and physical exam findings typically seen in patients with respiratory acidosis.
 
-  * Explain the management strategies for respiratory acidosis.
+- Explain the management strategies for respiratory acidosis.
 
-  * Summarize modalities to improve care coordination among interprofessional team members in order to improve outcomes for patients affected by respiratory acidosis.
+- Summarize modalities to improve care coordination among interprofessional team members in order to improve outcomes for patients affected by respiratory acidosis.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17096&utm_source=pubmed&utm_campaign=reviews&utm_content=17096)
 
@@ -57,7 +56,7 @@ The frequency of respiratory acidosis in the United States and worldwide varies 
 
 Carbon dioxide plays a remarkable role in the human body mainly through pH regulation of the blood. The pH is the primary stimulus to initiate ventilation. In its normal state, the body maintains CO2 in a well-controlled range from 38 to 42 mm Hg by balancing its production and elimination. In a state of hypoventilation, the body produces more CO2 than it can eliminate, causing a net retention of CO2. The increased CO2 is what leads to an increase in hydrogen ions and a slight increase in bicarbonate, as seen by a right shift in the following equilibrium reaction of carbon dioxide:
 
-  * CO2 + H2O -> H2CO3- -> HCO3- + H+
+- CO2 + H2O -> H2CO3- -> HCO3- + H+
 
 The buffer system created by carbon dioxide consists of the following three molecules in equilibrium: CO2, H2CO3-, and HCO3-. When H+ is high, HCO3- buffers the low pH. When OH- is high, H2CO3 buffers the high pH. In respiratory acidosis, the slight increase in bicarbonate serves as a buffer for the increase in H+ ions, which helps minimize the drop in pH. The increase in hydrogen ions inevitably causes a decrease in pH, which is the mechanism behind respiratory acidosis.[4][5]
 
@@ -67,7 +66,7 @@ The clinical presentation of respiratory acidosis is usually a manifestation of 
 
 ## Evaluation
 
-An arterial blood gas (ABG) and serum bicarbonate level are necessary to evaluate patients with suspected respiratory acidosis. Other tests can be conducted to evaluate the underlying causes. In respiratory acidosis, the ABG will show an elevated PCO2 (>45 mmHg), elevated HCO3- (>30 mmHg), and decreased pH (<7.35). The respiratory acidosis can be further classified as acute or chronic based on the relative increase in HCO3- with respect to PCO2. In cases of acute respiratory acidosis, HCO3- will have increased by one mEq/L for every ten mmHg increase in PCO2 over a few minutes. In cases of chronic respiratory acidosis, HCO3- will have increased by four mEq/L for every ten mmHg increase in PCO2 over a time course of days. If the compensation does not occur in this pattern, a mixed respiratory-metabolic disorder may be present. In a patient who presents with unexplained respiratory acidosis, a drug screen may also be warranted.[7][8]
+An arterial blood gas (ABG) and serum bicarbonate level are necessary to evaluate patients with suspected respiratory acidosis. Other tests can be conducted to evaluate the underlying causes. In respiratory acidosis, the ABG will show an elevated PCO2 (>45 mmHg), elevated HCO3- (>30 mmHg), and decreased pH (\<7.35). The respiratory acidosis can be further classified as acute or chronic based on the relative increase in HCO3- with respect to PCO2. In cases of acute respiratory acidosis, HCO3- will have increased by one mEq/L for every ten mmHg increase in PCO2 over a few minutes. In cases of chronic respiratory acidosis, HCO3- will have increased by four mEq/L for every ten mmHg increase in PCO2 over a time course of days. If the compensation does not occur in this pattern, a mixed respiratory-metabolic disorder may be present. In a patient who presents with unexplained respiratory acidosis, a drug screen may also be warranted.[7][8]
 
 ## Treatment / Management
 
@@ -75,29 +74,29 @@ Once the diagnosis has been made, the underlying cause of respiratory acidosis h
 
 ## Differential Diagnosis
 
-  * Botulism
+- Botulism
 
-  * Bronchitis
+- Bronchitis
 
-  * Diaphragm disorders
+- Diaphragm disorders
 
-  * Diaphragmatic paralysis
+- Diaphragmatic paralysis
 
-  * Asthma
+- Asthma
 
-  * Opioid use
+- Opioid use
 
-  * Sedative, hypnotic, anxiolytic use disorder
+- Sedative, hypnotic, anxiolytic use disorder
 
-  * Chronic obstructive pulmonary disease (COPD)
+- Chronic obstructive pulmonary disease (COPD)
 
-  * Obesity
+- Obesity
 
 ## Pearls and Other Issues
 
 Patients who are moribund, lethargic, or confused need to be monitored in the intensive care unit (ICU). Those who exhibit hypoventilation will need endotracheal intubation and mechanical ventilation. The use of respiratory stimulants has not been shown to be effective in treating respiratory acidosis. Medroxyprogesterone has been used to stimulate the respiratory drive, but its benefits are questionable. Hypoxic patients, of course, need supplemental oxygen.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The diagnosis of respiratory acidosis is easily made from an arterial blood gas but its management is complex. All healthcare workers including the nurse practitioners must be familiar with the management of respiratory acidosis. Once the diagnosis has been made, the underlying cause of respiratory acidosis has to be treated. The hypercapnia should be corrected gradually because rapid alkalization of the cerebrospinal fluid (CSF) may lead to seizures. Pharmacologic therapy can also be used to help improve ventilation. Bronchodilators like beta-agonists, anticholinergic drugs, and methylxanthines can be used in treating patients with obstructive airway diseases. Naloxone can be used in patients who overdose on opioids.
 
@@ -105,68 +104,54 @@ Patients who are moribund, lethargic, or confused need to be monitored in the in
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17096&utm_source=pubmed&utm_campaign=reviews&utm_content=17096)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17096&utm_source=pubmed&utm_campaign=reviews&utm_content=17096)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/hormones-and-body-chemistry/respiratory-acidosis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17096)
+- [Click here for a simplified version.](https://mdsearchlight.com/hormones-and-body-chemistry/respiratory-acidosis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17096)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17096/?utm_source=pubmed&utm_campaign=comments&utm_content=17096)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17096/?utm_source=pubmed&utm_campaign=comments&utm_content=17096)
 
 ## References
 
 1.
-    
 
-Gallo de Moraes A, Surani S. Effects of diabetic ketoacidosis in the respiratory system. World J Diabetes. 2019 Jan 15;10(1):16-22. [[PMC free article: PMC6347653](/pmc/articles/PMC6347653/)] [[PubMed: 30697367](https://pubmed.ncbi.nlm.nih.gov/30697367)]
+Gallo de Moraes A, Surani S. Effects of diabetic ketoacidosis in the respiratory system. World J Diabetes. 2019 Jan 15;10(1):16-22. \[[PMC free article: PMC6347653](/pmc/articles/PMC6347653/)\] \[[PubMed: 30697367](https://pubmed.ncbi.nlm.nih.gov/30697367)\]
 
 2.
-    
 
-Castro D, Patil SM, Zubair M, Keenaghan M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jan 8, 2024. Arterial Blood Gas. [[PubMed: 30725604](https://pubmed.ncbi.nlm.nih.gov/30725604)]
+Castro D, Patil SM, Zubair M, Keenaghan M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jan 8, 2024. Arterial Blood Gas. \[[PubMed: 30725604](https://pubmed.ncbi.nlm.nih.gov/30725604)\]
 
 3.
-    
 
-Hopkins E, Sanvictores T, Sharma S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 12, 2022. Physiology, Acid Base Balance. [[PubMed: 29939584](https://pubmed.ncbi.nlm.nih.gov/29939584)]
+Hopkins E, Sanvictores T, Sharma S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 12, 2022. Physiology, Acid Base Balance. \[[PubMed: 29939584](https://pubmed.ncbi.nlm.nih.gov/29939584)\]
 
 4.
-    
 
-Brinkman JE, Toro F, Sharma S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jun 5, 2023. Physiology, Respiratory Drive. [[PubMed: 29494021](https://pubmed.ncbi.nlm.nih.gov/29494021)]
+Brinkman JE, Toro F, Sharma S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jun 5, 2023. Physiology, Respiratory Drive. \[[PubMed: 29494021](https://pubmed.ncbi.nlm.nih.gov/29494021)\]
 
 5.
-    
 
-Kisaka T, Cox TA, Dumitrescu D, Wasserman K. CO2 pulse and acid-base status during increasing work rate exercise in health and disease. Respir Physiol Neurobiol. 2015 Nov;218:46-56. [[PubMed: 26226561](https://pubmed.ncbi.nlm.nih.gov/26226561)]
+Kisaka T, Cox TA, Dumitrescu D, Wasserman K. CO2 pulse and acid-base status during increasing work rate exercise in health and disease. Respir Physiol Neurobiol. 2015 Nov;218:46-56. \[[PubMed: 26226561](https://pubmed.ncbi.nlm.nih.gov/26226561)\]
 
 6.
-    
 
-Contreras M, Masterson C, Laffey JG. Permissive hypercapnia: what to remember. Curr Opin Anaesthesiol. 2015 Feb;28(1):26-37. [[PubMed: 25500498](https://pubmed.ncbi.nlm.nih.gov/25500498)]
+Contreras M, Masterson C, Laffey JG. Permissive hypercapnia: what to remember. Curr Opin Anaesthesiol. 2015 Feb;28(1):26-37. \[[PubMed: 25500498](https://pubmed.ncbi.nlm.nih.gov/25500498)\]
 
 7.
-    
 
-Katalinić L, Blaslov K, Pasini E, Kes P, Bašić-Jukić N. [Acid-base status in patients treated with peritoneal dialysis]. Acta Med Croatica. 2014 Apr;68(2):85-90. [[PubMed: 26012143](https://pubmed.ncbi.nlm.nih.gov/26012143)]
+Katalinić L, Blaslov K, Pasini E, Kes P, Bašić-Jukić N. [Acid-base status in patients treated with peritoneal dialysis]. Acta Med Croatica. 2014 Apr;68(2):85-90. \[[PubMed: 26012143](https://pubmed.ncbi.nlm.nih.gov/26012143)\]
 
 8.
-    
 
-Marhong J, Fan E. Carbon dioxide in the critically ill: too much or too little of a good thing? Respir Care. 2014 Oct;59(10):1597-605. [[PubMed: 25261559](https://pubmed.ncbi.nlm.nih.gov/25261559)]
+Marhong J, Fan E. Carbon dioxide in the critically ill: too much or too little of a good thing? Respir Care. 2014 Oct;59(10):1597-605. \[[PubMed: 25261559](https://pubmed.ncbi.nlm.nih.gov/25261559)\]
 
 9.
-    
 
-Cove ME, Federspiel WJ. Veno-venous extracorporeal CO2 removal for the treatment of severe respiratory acidosis. Crit Care. 2015 Apr 17;19(1):176. [[PMC free article: PMC4403910](/pmc/articles/PMC4403910/)] [[PubMed: 25927222](https://pubmed.ncbi.nlm.nih.gov/25927222)]
+Cove ME, Federspiel WJ. Veno-venous extracorporeal CO2 removal for the treatment of severe respiratory acidosis. Crit Care. 2015 Apr 17;19(1):176. \[[PMC free article: PMC4403910](/pmc/articles/PMC4403910/)\] \[[PubMed: 25927222](https://pubmed.ncbi.nlm.nih.gov/25927222)\]
 
 10.
-    
 
-Sharma S, Hashmi MF, Hendrix JM, Burns B. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 11, 2024. Alveolar Gas Equation. [[PubMed: 29489223](https://pubmed.ncbi.nlm.nih.gov/29489223)]
-
-    
+Sharma S, Hashmi MF, Hendrix JM, Burns B. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 11, 2024. Alveolar Gas Equation. \[[PubMed: 29489223](https://pubmed.ncbi.nlm.nih.gov/29489223)\]
 
 **Disclosure:** Shivani Patel declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Sandeep Sharma declares no relevant financial relationships with ineligible companies.

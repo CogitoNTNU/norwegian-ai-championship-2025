@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-42055/
-scraped_date: 2025-07-22 12:52:59 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-42055/ scraped_date: 2025-07-22 12:52:59 UTC
 
 # Cardiac Catheterization Risks and Complications
 
@@ -27,13 +26,13 @@ Cardiac catheterization is one of the most widely performed cardiac procedures. 
 
 **Objectives:**
 
-  * Identify the technique of cardiac catheterization.
+- Identify the technique of cardiac catheterization.
 
-  * Describe the indications for cardiac catheterization.
+- Describe the indications for cardiac catheterization.
 
-  * Review the complications of cardiac catheterization.
+- Review the complications of cardiac catheterization.
 
-  * Outline the importance of improving care coordination among the interprofessional team to enhance the delivery of care for patients undergoing cardiac catheterization.
+- Outline the importance of improving care coordination among the interprofessional team to enhance the delivery of care for patients undergoing cardiac catheterization.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=42055&utm_source=pubmed&utm_campaign=reviews&utm_content=42055)
 
@@ -45,21 +44,21 @@ Cardiac catheterization is one of the most widely performed cardiac procedures. 
 
 Cardiac catheterization can be either a diagnostic or a therapeutic procedure. The procedure is done in the evaluation and the treatment of the following conditions.
 
-  * Coronary artery disease
+- Coronary artery disease
 
-  * Measuring the hemodynamics in the right and left side of the heart
+- Measuring the hemodynamics in the right and left side of the heart
 
-  * Evaluate the left ventricular function
+- Evaluate the left ventricular function
 
-  * Evaluation and treatment of cardiac arrhythmias
+- Evaluation and treatment of cardiac arrhythmias
 
-  * Evaluation and treatment of valvular heart disease
+- Evaluation and treatment of valvular heart disease
 
-  * Assessment pericardial and myocardial diseases
+- Assessment pericardial and myocardial diseases
 
-  * Assessment of the congenital heart diseases
+- Assessment of the congenital heart diseases
 
-  * Evaluation of heart failure
+- Evaluation of heart failure
 
 ## Contraindications
 
@@ -93,23 +92,23 @@ The risk of major complications during diagnostic cardiac catheterization proced
 
 **Local Vascular Complications**
 
-**_Hematoma/Retroperitoneal Bleeding_ **
+\*\*_Hematoma/Retroperitoneal Bleeding_ \*\*
 
 These are among the most common complications seen after cardiac catheterization procedures. Hematomas are usually formed following poorly controlled hemostasis post sheath removal. Most hematomas are self-limiting and benign, but large, rapidly expanding hematomas can cause hemodynamic instability requiring resuscitation with fluids and blood. The incidence of this complication is significantly reduced in transradial access. In patients with transfemoral access, retroperitoneal bleeding should be suspected if there is a sudden change in the patient's hemodynamic stability with or without back pain, as there may not be any visible swelling in the groin for some of these patients. The incidence of this complication is less than 0.2%.[6] Strong clinical suspicion along with immediate imaging, usually with a CT scan, helps make a diagnosis of this problem. Identification of the bleeding source is essential for patients with continued hemodynamic deterioration. These life-threatening bleeds are more frequent when the artery is punctured above the inguinal ligament. Most patients are managed with a reversal of anticoagulation, application of manual compression and volume resuscitation, and observation. Patients with continued deterioration with need coiling of the bleeding source vessel, or balloon angioplasty, or covered stents for bleeding from larger vessels.
 
-**_Pseudoaneurysm_ **
+\*\*_Pseudoaneurysm_ \*\*
 
 When the hematoma maintains continuity with the lumen of the artery, it results in the formation of a pulsatile mass locally, defined as a pseudoaneurysm. This will be associated with a bruit on examination. They happen following low access in the superficial femoral artery as opposed to the common femoral artery. These are usually diagnosed by ultrasound, Doppler imaging, or CT angiography. Small pseudoaneurysms of less than 2 to 3 cm in size may heal spontaneously and can be followed by serial Doppler examinations. Large symptomatic pseudoaneurysms can be treated by either ultrasound-guided compression of the neck of pseudoaneurysm or percutaneous injection of the thrombin using ultrasound guidance or may need surgical intervention.
 
-**_Arteriovenous Fistula_ **
+\*\*_Arteriovenous Fistula_ \*\*
 
 Direct communication between the arterial and venous puncture sites with ongoing bleeding from the arterial access site leads to the fistula formation and is associated with a thrill or continuous bruit on examination. These usually will require surgical exploration as they are unlikely to heal spontaneously and may expand with time.
 
-**_Dissection_ **
+\*\*_Dissection_ \*\*
 
 This infrequent complication occurs in patients with an increased atherosclerotic burden, tortuous arteries, or traumatic sheath placement. Non-flow limiting dissections usually heal spontaneously following sheath removal. A flow limiting large dissections could lead to acute limb ischemia and should be treated immediately with angioplasty and stenting. Vascular surgery is usually reserved for patients with failed percutaneous techniques.
 
-**_Thrombosis and Embolism_ **
+\*\*_Thrombosis and Embolism_ \*\*
 
 This complication is extremely rare with the use of low-profile catheters, and predisposing factors include small vessel lumen and associated peripheral arterial disease, diabetes mellitus, female sex, large-diameter sheath, and prolonged catheter dwell time. Treatment involves removal of the occlusive sheath, percutaneous thrombectomy in conjunction with vascular surgery consultation.
 
@@ -121,43 +120,43 @@ Radial artery spasm is another frequent complication, and this can be avoided by
 
 **Other Major Complications**
 
-_**Death** _
+\_**Death** \_
 
 The incidence of death with cardiac catheterization has decreased progressively and is less than 0.05% for diagnostic procedures. Patients with depressed left ventricular systolic function and those presenting with shock in the setting of acute myocardial infarction are at increased risk. In some subsets of patients, the risk of mortality can be more than 1%. Other factors that would increase the risk include old age, the presence of multivessel disease, left main coronary artery disease, or valvular heart disease like severe aortic stenosis.
 
-**_Myocardial Infarction_ **
+\*\*_Myocardial Infarction_ \*\*
 
 The reported incidence of periprocedural myocardial infarction for a diagnostic angiography is less than 0.1%. This is mostly influenced by patient-related factors like the extent and severity of underlying coronary artery disease, recent acute coronary syndrome, diabetes requiring insulin, and technique-related factors.
 
-_**Stroke** _
+\_**Stroke** \_
 
 The overall risk of stroke in recently reported series is low at 0.05% to 0.1% in diagnostic procedures and can increase to 0.18% to 0.4% in patients undergoing intervention.[7] This can be a very debilitating complication associated with a high rate of morbidity and mortality. The risk is higher in patients with extensive atherosclerotic plaque in the aorta and aortic arch, complex anatomy, procedures requiring multiple catheter exchanges or excessive catheter manipulation, or the need for large-bore catheters and stiff wires.
 
-**_Dissection and Perforation of the Great Vessels_ **
+\*\*_Dissection and Perforation of the Great Vessels_ \*\*
 
 Dissection of the aorta, perforation of the cardiac chambers, perforation of the coronary arteries is an extremely rare complication. The risk is higher in procedures with intervention as opposed to diagnostic procedures only. Patients with type A aortic dissection involving the ascending aorta will require surgical correction. Patients with a cardiac chamber or coronary perforation resulting in the accumulation of the blood in the pericardial space will need urgent pericardiocentesis to restore hemodynamic stability and immediate surgical consultation.
 
-_**Atheroembolism** _
+\_**Atheroembolism** \_
 
 Cholesterol emboli from friable vascular plaques can give rise to distal embolization in multiple vascular beds. These are usually recognized by digital discoloration (blue toes), livedo reticularis. This can also manifest as a neurological squeal or renal impairment. The risk of this complication is minimized by exchanging catheters over a long wire and minimizing the catheter exchanges. Retinal artery occlusion causes Hollenhorst plaque.
 
-**_Allergic Reactions_ **
+\*\*_Allergic Reactions_ \*\*
 
 Allergic reactions can be related to the use of local anesthetic, contrast agents, heparin, or other medications used during the procedure. Reactions to the contrast agents can occur in up to 1% of the patients, and people with prior reactions are pretreated with corticosteroids and antihistamines. The use of iso-osmolar agents decreases the risk compared to high osmolar agents. When severe reactions occur, they are treated similarly to anaphylaxis with intravenous (IV) epinephrine (initial dose 1 ml of 1:10000 epinephrine).
 
-**_Acute Renal Failure_ **
+\*\*_Acute Renal Failure_ \*\*
 
 The incidence of the reported contrast nephropathy is quite variable (range 3.3% to 16.5%) in the patients undergoing cardiac catheterization resulting in a transient increase in the serum creatinine levels after exposure to contrast material. In the National Cardiovascular Data Registry, the incidence of contrast-induced acute kidney injury was 7.1% among the patients undergoing elective and urgent coronary intervention.[8] The risk is higher in patients with underlying moderate to severe renal disease, people with diabetes, elderly, females, patients on diuretics, ACEI, and metformin. Adequate pre-hydration, use of iso-osmolar agents, and techniques to minimize the amount of dye used will help prevent this complication. Renal atheroemboli can also cause renal failure and are associated with other signs of embolization.
 
-**_Infection_ **
+\*\*_Infection_ \*\*
 
 Cardiac catheterization is performed using sterile technique, and local or systemic infection is extremely rare. Routine prophylaxis for endocarditis is not recommended during cardiac catheterization procedures.
 
-**_Radiation Injury_ **
+\*\*_Radiation Injury_ \*\*
 
 Radiation skin injury can occur if a patient is exposed to excessive doses of radiation to one particular area of the body, and manifestation could range from mild erythema to deep ulceration. Skin biopsies should be avoided for these lesions as they would make the underlying condition worse. This complication should be managed by a combined team of cardiologists, dermatologists, and plastic surgeons.
 
-**_Arrhythmias_ **
+\*\*_Arrhythmias_ \*\*
 
 The occurrence of ventricular fibrillation or ventricular tachycardia during the procedure could be related to irritation or ischemia of the myocardium by the catheter, contrast material, or occlusive balloons. These arrhythmias occur more frequently in people presenting with acute ST-elevation myocardial infarction. Treatment includes cardioversion and antiarrhythmic drugs and restoration of the flow to the occluded artery. Atrial tachyarrhythmias can occur following the irritation of the right atrium during right heart catheterization and is usually self-limiting.
 
@@ -167,7 +166,7 @@ Transient bradyarrhythmias are also a common occurrence in the cardiac cath lab.
 
 With the advent of the small catheters, increased use of the transradial approach, and improving technical skills of the operators, the risks and complications associated with cardiac catheterization have decreased significantly. Utmost care is necessary with each procedure to decrease the risk of complications of this commonly used life-saving procedure.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Cardiac catheterization is usually done by an interprofessional cardiac care team that includes an interventional cardiologist with assistance from nurses and radiologic technologists. During the procedure, a nurse is dedicated to the monitoring of the vital signs. After the procedure, the nurse is also responsible for ensuring that the access site is not bleeding and the distal extremity pulses are intact. In addition, the nurse will monitor the urine output to ensure that there has been no adverse reaction of the dye to the kidney. Interprofessional collaboration and open communication will provide significant benefits when performing cardiac catheterization. [Level 5]
 
@@ -175,58 +174,46 @@ There is increasing evidence that the transradial approach for cardiac catheteri
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=42055&utm_source=pubmed&utm_campaign=reviews&utm_content=42055)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=42055&utm_source=pubmed&utm_campaign=reviews&utm_content=42055)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/cardiac-catheterization-risks-and-complications-heart-catheterization/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=42055)
+- [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/cardiac-catheterization-risks-and-complications-heart-catheterization/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=42055)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/42055/?utm_source=pubmed&utm_campaign=comments&utm_content=42055)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/42055/?utm_source=pubmed&utm_campaign=comments&utm_content=42055)
 
 ## References
 
 1.
-    
 
-Writing Group Members. Mozaffarian D, Benjamin EJ, Go AS, Arnett DK, Blaha MJ, Cushman M, Das SR, de Ferranti S, Després JP, Fullerton HJ, Howard VJ, Huffman MD, Isasi CR, Jiménez MC, Judd SE, Kissela BM, Lichtman JH, Lisabeth LD, Liu S, Mackey RH, Magid DJ, McGuire DK, Mohler ER, Moy CS, Muntner P, Mussolino ME, Nasir K, Neumar RW, Nichol G, Palaniappan L, Pandey DK, Reeves MJ, Rodriguez CJ, Rosamond W, Sorlie PD, Stein J, Towfighi A, Turan TN, Virani SS, Woo D, Yeh RW, Turner MB., American Heart Association Statistics Committee. Stroke Statistics Subcommittee. Heart Disease and Stroke Statistics-2016 Update: A Report From the American Heart Association. Circulation. 2016 Jan 26;133(4):e38-360. [[PubMed: 26673558](https://pubmed.ncbi.nlm.nih.gov/26673558)]
+Writing Group Members. Mozaffarian D, Benjamin EJ, Go AS, Arnett DK, Blaha MJ, Cushman M, Das SR, de Ferranti S, Després JP, Fullerton HJ, Howard VJ, Huffman MD, Isasi CR, Jiménez MC, Judd SE, Kissela BM, Lichtman JH, Lisabeth LD, Liu S, Mackey RH, Magid DJ, McGuire DK, Mohler ER, Moy CS, Muntner P, Mussolino ME, Nasir K, Neumar RW, Nichol G, Palaniappan L, Pandey DK, Reeves MJ, Rodriguez CJ, Rosamond W, Sorlie PD, Stein J, Towfighi A, Turan TN, Virani SS, Woo D, Yeh RW, Turner MB., American Heart Association Statistics Committee. Stroke Statistics Subcommittee. Heart Disease and Stroke Statistics-2016 Update: A Report From the American Heart Association. Circulation. 2016 Jan 26;133(4):e38-360. \[[PubMed: 26673558](https://pubmed.ncbi.nlm.nih.gov/26673558)\]
 
 2.
-    
 
-Sobolev M, Slovut DP, Lee Chang A, Shiloh AL, Eisen LA. Ultrasound-Guided Catheterization of the Femoral Artery: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. J Invasive Cardiol. 2015 Jul;27(7):318-23. [[PubMed: 26136279](https://pubmed.ncbi.nlm.nih.gov/26136279)]
+Sobolev M, Slovut DP, Lee Chang A, Shiloh AL, Eisen LA. Ultrasound-Guided Catheterization of the Femoral Artery: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. J Invasive Cardiol. 2015 Jul;27(7):318-23. \[[PubMed: 26136279](https://pubmed.ncbi.nlm.nih.gov/26136279)\]
 
 3.
-    
 
-Rognoni A, Lupi A, Sansa M, Secco GG, Santagostino M, Bongo AS. Radial approach for percutaneous coronary intervention. Rev Recent Clin Trials. 2012 May;7(2):127-32. [[PubMed: 22353200](https://pubmed.ncbi.nlm.nih.gov/22353200)]
+Rognoni A, Lupi A, Sansa M, Secco GG, Santagostino M, Bongo AS. Radial approach for percutaneous coronary intervention. Rev Recent Clin Trials. 2012 May;7(2):127-32. \[[PubMed: 22353200](https://pubmed.ncbi.nlm.nih.gov/22353200)\]
 
 4.
-    
 
-Jolly SS, Amlani S, Hamon M, Yusuf S, Mehta SR. Radial versus femoral access for coronary angiography or intervention and the impact on major bleeding and ischemic events: a systematic review and meta-analysis of randomized trials. Am Heart J. 2009 Jan;157(1):132-40. [[PubMed: 19081409](https://pubmed.ncbi.nlm.nih.gov/19081409)]
+Jolly SS, Amlani S, Hamon M, Yusuf S, Mehta SR. Radial versus femoral access for coronary angiography or intervention and the impact on major bleeding and ischemic events: a systematic review and meta-analysis of randomized trials. Am Heart J. 2009 Jan;157(1):132-40. \[[PubMed: 19081409](https://pubmed.ncbi.nlm.nih.gov/19081409)\]
 
 5.
-    
 
-Tavakol M, Ashraf S, Brener SJ. Risks and complications of coronary angiography: a comprehensive review. Glob J Health Sci. 2012 Jan 01;4(1):65-93. [[PMC free article: PMC4777042](/pmc/articles/PMC4777042/)] [[PubMed: 22980117](https://pubmed.ncbi.nlm.nih.gov/22980117)]
+Tavakol M, Ashraf S, Brener SJ. Risks and complications of coronary angiography: a comprehensive review. Glob J Health Sci. 2012 Jan 01;4(1):65-93. \[[PMC free article: PMC4777042](/pmc/articles/PMC4777042/)\] \[[PubMed: 22980117](https://pubmed.ncbi.nlm.nih.gov/22980117)\]
 
 6.
-    
 
-Eisen A, Kornowski R, Vaduganathan M, Lev E, Vaknin-Assa H, Bental T, Orvin K, Brosh D, Rechavia E, Battler A, Assali A. Retroperitoneal bleeding after cardiac catheterization: a 7-year descriptive single-center experience. Cardiology. 2013;125(4):217-22. [[PubMed: 23797048](https://pubmed.ncbi.nlm.nih.gov/23797048)]
+Eisen A, Kornowski R, Vaduganathan M, Lev E, Vaknin-Assa H, Bental T, Orvin K, Brosh D, Rechavia E, Battler A, Assali A. Retroperitoneal bleeding after cardiac catheterization: a 7-year descriptive single-center experience. Cardiology. 2013;125(4):217-22. \[[PubMed: 23797048](https://pubmed.ncbi.nlm.nih.gov/23797048)\]
 
 7.
-    
 
-Werner N, Zahn R, Zeymer U. Stroke in patients undergoing coronary angiography and percutaneous coronary intervention: incidence, predictors, outcome and therapeutic options. Expert Rev Cardiovasc Ther. 2012 Oct;10(10):1297-305. [[PubMed: 23190068](https://pubmed.ncbi.nlm.nih.gov/23190068)]
+Werner N, Zahn R, Zeymer U. Stroke in patients undergoing coronary angiography and percutaneous coronary intervention: incidence, predictors, outcome and therapeutic options. Expert Rev Cardiovasc Ther. 2012 Oct;10(10):1297-305. \[[PubMed: 23190068](https://pubmed.ncbi.nlm.nih.gov/23190068)\]
 
 8.
-    
 
-Tsai TT, Patel UD, Chang TI, Kennedy KF, Masoudi FA, Matheny ME, Kosiborod M, Amin AP, Messenger JC, Rumsfeld JS, Spertus JA. Contemporary incidence, predictors, and outcomes of acute kidney injury in patients undergoing percutaneous coronary interventions: insights from the NCDR Cath-PCI registry. JACC Cardiovasc Interv. 2014 Jan;7(1):1-9. [[PMC free article: PMC4122507](/pmc/articles/PMC4122507/)] [[PubMed: 24456715](https://pubmed.ncbi.nlm.nih.gov/24456715)]
-
-    
+Tsai TT, Patel UD, Chang TI, Kennedy KF, Masoudi FA, Matheny ME, Kosiborod M, Amin AP, Messenger JC, Rumsfeld JS, Spertus JA. Contemporary incidence, predictors, and outcomes of acute kidney injury in patients undergoing percutaneous coronary interventions: insights from the NCDR Cath-PCI registry. JACC Cardiovasc Interv. 2014 Jan;7(1):1-9. \[[PMC free article: PMC4122507](/pmc/articles/PMC4122507/)\] \[[PubMed: 24456715](https://pubmed.ncbi.nlm.nih.gov/24456715)\]
 
 **Disclosure:** Yugandhar Manda declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Krishna Baradhi declares no relevant financial relationships with ineligible companies.

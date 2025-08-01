@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27370/
-scraped_date: 2025-07-22 12:39:15 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27370/ scraped_date: 2025-07-22 12:39:15 UTC
 
 # Pneumothorax
 
@@ -25,13 +24,13 @@ A pneumothorax is a collection of air outside the lung but within the pleural ca
 
 **Objectives:**
 
-  * Recall the presence of a pneumothorax.
+- Recall the presence of a pneumothorax.
 
-  * Describe the pathophysiology of a tension pneumothorax.
+- Describe the pathophysiology of a tension pneumothorax.
 
-  * Summarize the treatment options for pneumothorax.
+- Summarize the treatment options for pneumothorax.
 
-  * Review the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by pneumothorax.
+- Review the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by pneumothorax.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27370&utm_source=pubmed&utm_campaign=reviews&utm_content=27370)
 
@@ -43,99 +42,99 @@ A pneumothorax is a collection of air outside the lung but within the pleural ca
 
 Risk factors for primary spontaneous pneumothorax
 
-  * Smoking 
+- Smoking
 
-  * Tall thin body habitus in an otherwise healthy person
+- Tall thin body habitus in an otherwise healthy person
 
-  * Pregnancy 
+- Pregnancy
 
-  * Marfan syndrome 
+- Marfan syndrome
 
-  * Familial pneumothorax
+- Familial pneumothorax
 
 Diseases associated with secondary spontaneous pneumothorax
 
-  * COPD
+- COPD
 
-  * Asthma 
+- Asthma
 
-  * HIV with pneumocystis pneumonia
+- HIV with pneumocystis pneumonia
 
-  * Necrotizing pneumonia 
+- Necrotizing pneumonia
 
-  * Tuberculosis 
+- Tuberculosis
 
-  * Sarcoidosis
+- Sarcoidosis
 
-  * Cystic fibrosis 
+- Cystic fibrosis
 
-  * Bronchogenic carcinoma 
+- Bronchogenic carcinoma
 
-  * Idiopathic pulmonary fibrosis 
+- Idiopathic pulmonary fibrosis
 
-  * Severe ARDS
+- Severe ARDS
 
-  * Langerhans cell histiocytosis
+- Langerhans cell histiocytosis
 
-  * Lymphangioleiomyomatosis
+- Lymphangioleiomyomatosis
 
-  * Collagen vascular disease
+- Collagen vascular disease
 
-  * Inhalational drug use like cocaine or marijuana
+- Inhalational drug use like cocaine or marijuana
 
-  * Thoracic endometriosis 
+- Thoracic endometriosis
 
 Causes of iatrogenic pneumothorax
 
-  * Pleural biopsy
+- Pleural biopsy
 
-  * Transbronchial lung biopsy
+- Transbronchial lung biopsy
 
-  * Transthoracic pulmonary nodule biopsy
+- Transthoracic pulmonary nodule biopsy
 
-  * Central venous catheter insertion
+- Central venous catheter insertion
 
-  * Tracheostomy
+- Tracheostomy
 
-  * Intercostal nerve block
+- Intercostal nerve block
 
-  * Positive pressure ventilation
+- Positive pressure ventilation
 
 Causes of traumatic pneumothorax
 
-  * Penetrating or blunt trauma
+- Penetrating or blunt trauma
 
-  * Rib fracture (see **Image.** CT, Rib Fracture)
+- Rib fracture (see **Image.** CT, Rib Fracture)
 
-  * Diving or flying
+- Diving or flying
 
 Causes of tension pneumothorax
 
-  * Penetrating or blunt trauma
+- Penetrating or blunt trauma
 
-  * Barotrauma due to positive pressure ventilation
+- Barotrauma due to positive pressure ventilation
 
-  * Percutaneous tracheostomy
+- Percutaneous tracheostomy
 
-  * Conversion of spontaneous pneumothorax to tension
+- Conversion of spontaneous pneumothorax to tension
 
-  * Open pneumothorax when occlusive dressing work as one way valve
+- Open pneumothorax when occlusive dressing work as one way valve
 
 Causes of pneumomediastinum
 
-  * Asthma
+- Asthma
 
-  * Parturition
+- Parturition
 
-  * Emesis
+- Emesis
 
-  * Severe cough
+- Severe cough
 
-  * Traumatic disruption of oropharyngeal or esophageal mucosa
+- Traumatic disruption of oropharyngeal or esophageal mucosa
 
 ## Epidemiology
 
-Primary spontaneous pneumothorax mainly occurs at 20-30 years of age. The incidence of PSP in the United States is 7 per 100,000 men and 1 per 100,000 women per year[5]. Most recurrence occurs within the first year, and incidence ranges widely from 25% to 50%. The recurrence rate is highest over the first 30 days. 
+Primary spontaneous pneumothorax mainly occurs at 20-30 years of age. The incidence of PSP in the United States is 7 per 100,000 men and 1 per 100,000 women per year[5]. Most recurrence occurs within the first year, and incidence ranges widely from 25% to 50%. The recurrence rate is highest over the first 30 days.
 
 Secondary spontaneous pneumothorax is seen more in old-age patients 60-65 years. The incidence of SSP is 6.3 and 2 cases for men and women per 100,000 patients, respectively. The male-to-female ratio is 3:1. COPD has an incidence of 26 pneumothoraces per 100,000 patients.[6] The risk of spontaneous pneumothorax in heavy smokers is 102 times higher than in non-smokers.
 
@@ -159,37 +158,37 @@ Traumatic pneumothoraces can result from blunt or penetrating trauma; these ofte
 
 ## History and Physical
 
-In primary spontaneous pneumothorax, the patient is minimally symptomatic, as otherwise healthy individuals tolerate physiologic consequences well. The most common symptoms are chest pain and shortness of breath. The chest pain is pleuritic, sharp, severe, and radiates to the ipsilateral shoulder. In SSP, dyspnea is more potent because of decreased underlying lung reserve. 
+In primary spontaneous pneumothorax, the patient is minimally symptomatic, as otherwise healthy individuals tolerate physiologic consequences well. The most common symptoms are chest pain and shortness of breath. The chest pain is pleuritic, sharp, severe, and radiates to the ipsilateral shoulder. In SSP, dyspnea is more potent because of decreased underlying lung reserve.
 
 The history of pneumothorax in the past is essential as recurrence is seen in 15-40% of cases. Recurrence on the contralateral side can also occur.
 
 On examination, the following findings are noted
 
-  * Respiratory discomfort
+- Respiratory discomfort
 
-  * Increased respiratory rate
+- Increased respiratory rate
 
-  * Asymmetrical lung expansion
+- Asymmetrical lung expansion
 
-  * Decreased tactile fremitus 
+- Decreased tactile fremitus
 
-  * Hyperresonant percussion note
+- Hyperresonant percussion note
 
-  * Decreased intensity of breath sounds or absent breath sounds
+- Decreased intensity of breath sounds or absent breath sounds
 
 In tension pneumothorax following additional findings are seen
 
-  * Tachycardia of more than 134 beats per minute
+- Tachycardia of more than 134 beats per minute
 
-  * Hypotension
+- Hypotension
 
-  * Jugular venous distension
+- Jugular venous distension
 
-  * Cyanosis
+- Cyanosis
 
-  * Respiratory failure
+- Respiratory failure
 
-  * Cardiac arrest
+- Cardiac arrest
 
 Some traumatic pneumothoraces are associated with subcutaneous emphysema. Pneumothorax may be difficult to diagnose from a physical exam, especially in a noisy trauma bay. However, it is essential to make the diagnosis of tension pneumothorax on a physical exam.
 
@@ -213,41 +212,41 @@ Air can reabsorb from the pleural space at a rate of 1.5%/day. Using supplementa
 
 **Indications for surgical intervention(VATS vs. thoracotomy)**
 
-  * Continuous air leak for longer than seven days
+- Continuous air leak for longer than seven days
 
-  * Bilateral pneumothoraces
+- Bilateral pneumothoraces
 
-  * The first episode in high-risk profession patients, i.e., Divers, pilots
+- The first episode in high-risk profession patients, i.e., Divers, pilots
 
-  * Recurrent ipsilateral pneumothorax
+- Recurrent ipsilateral pneumothorax
 
-  * Contralateral pneumothorax
+- Contralateral pneumothorax
 
-  * Patients who have AIDS
+- Patients who have AIDS
 
-Patients undergoing video-assisted thoracic surgery (VATS) get pleurodesis to occlude pleural space. Mechanical pleurodesis with bleb/bullectomy decreases the recurrence rate of pneumothorax to <5%. Options for mechanical pleurodesis include stripping the parietal pleura versus using an abrasive "scratchpad" or dry gauze. A chemical pleurodesis is an option for patients who may not tolerate mechanical pleurodesis. Options for chemical pleurodesis include talc, tetracycline, doxycycline, or minocycline, all irritants to the pleural lining.
+Patients undergoing video-assisted thoracic surgery (VATS) get pleurodesis to occlude pleural space. Mechanical pleurodesis with bleb/bullectomy decreases the recurrence rate of pneumothorax to \<5%. Options for mechanical pleurodesis include stripping the parietal pleura versus using an abrasive "scratchpad" or dry gauze. A chemical pleurodesis is an option for patients who may not tolerate mechanical pleurodesis. Options for chemical pleurodesis include talc, tetracycline, doxycycline, or minocycline, all irritants to the pleural lining.
 
 ## Differential Diagnosis
 
 Differential diagnoses of pneumothorax include:
 
-  * Aspiration, bacterial or viral pneumonia
+- Aspiration, bacterial or viral pneumonia
 
-  * Acute aortic dissection
+- Acute aortic dissection
 
-  * Myocardial infarction
+- Myocardial infarction
 
-  * Pulmonary embolism
+- Pulmonary embolism
 
-  * Acute pericarditis
+- Acute pericarditis
 
-  * Esophageal spasm
+- Esophageal spasm
 
-  * Esophageal rupture
+- Esophageal rupture
 
-  * Rib fracture
+- Rib fracture
 
-  * Diaphragmatic injuries
+- Diaphragmatic injuries
 
 ## Prognosis
 
@@ -255,35 +254,35 @@ PSP is usually benign and mostly resolves independently without any significant 
 
 ## Complications
 
-  * Respiratory failure or arrest
+- Respiratory failure or arrest
 
-  * Cardiac arrest
+- Cardiac arrest
 
-  * Pyopneumothorax
+- Pyopneumothorax
 
-  * Empyema
+- Empyema
 
-  * Rexpansion pulmonary edema
+- Rexpansion pulmonary edema
 
-  * Pneumopericardium
+- Pneumopericardium
 
-  * Pneumoperitoneum
+- Pneumoperitoneum
 
-  * Pneumohemothorax
+- Pneumohemothorax
 
-  * Bronchopulmonary fistula
+- Bronchopulmonary fistula
 
-  * Damage to the neurovascular bundle during tube thoracostomy
+- Damage to the neurovascular bundle during tube thoracostomy
 
-  * Pain and skin infection at the site of tube thoracostomy
+- Pain and skin infection at the site of tube thoracostomy
 
 ## Consultations
 
-  * Interventional radiologist
+- Interventional radiologist
 
-  * Thoracic surgeon
+- Thoracic surgeon
 
-  * Pulmonology consultant
+- Pulmonology consultant
 
 ## Deterrence and Patient Education
 
@@ -297,29 +296,29 @@ Do not let a chest radiograph or CT scan delay treatment with needle decompressi
 
 Worsening subcutaneous emphysema can be associated with the malposition of a chest tube, and repositioning with a new chest tube is recommended. A chest tube should never be reinserted as this can increase the patient's risk for empyema.
 
-An untreated pneumothorax is a contraindication for flying or scuba diving. If air transport is required, a thoracostomy tube should be placed before transport. 
+An untreated pneumothorax is a contraindication for flying or scuba diving. If air transport is required, a thoracostomy tube should be placed before transport.
 
 If there is a persistent or recurrent pneumothorax despite treatment with a thoracostomy tube, these patients need specialty consultations for a possible video-assisted thoracoscopic surgery (VATS) with or without pleurodesis or thoracotomy.
 
 If the patient is discharged from the hospital after a resolved pneumothorax, recommendations should be made for no flying or scuba diving for a minimum of two weeks. Patients with a known history of spontaneous pneumothorax should not be medically cleared for occupations involving flying or scuba diving.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The emergency department physician often does the management of pneumothorax. In some cases, the disorder may be managed by the ICU staff and the thoracic surgeon. The nurse does the care of patients who have a chest tube. All nurses who manage patients with a chest tube should know how a chest drain functions. Patients need to be examined every shift and the patency of the chest tube is important. Patients with small pneumothorax can be observed if they have no symptoms. If discharged the patient should be seen within 24 hours.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27370&utm_source=pubmed&utm_campaign=reviews&utm_content=27370)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27370&utm_source=pubmed&utm_campaign=reviews&utm_content=27370)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/pneumothorax/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=27370)
+- [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/pneumothorax/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=27370)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27370/?utm_source=pubmed&utm_campaign=comments&utm_content=27370)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27370/?utm_source=pubmed&utm_campaign=comments&utm_content=27370)
 
 [![Image ](/books/NBK441885/bin/Deep_Sulcus_Sign.gif)](/books/NBK441885/figure/article-27370.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK441885/figure/article-27370.image.f1/?report=objectonly)
 
-Portable Chest Radiograph, Left Deep Sulcus Pneumothorax Contributed by S Dulebohn, MD 
+Portable Chest Radiograph, Left Deep Sulcus Pneumothorax Contributed by S Dulebohn, MD
 
 [![Right Tension Pneumothorax Radiograph](/books/NBK441885/bin/tension__ptx__x2x.gif)](/books/NBK441885/figure/article-27370.image.f2/?report=objectonly "Figure")
 
@@ -331,81 +330,66 @@ Right Tension Pneumothorax Radiograph. This image shows absent lung markings on 
 
 #### [Figure](/books/NBK441885/figure/article-27370.image.f3/?report=objectonly)
 
-Rib Fracture. Computed tomography of a patient who sustained a rib fracture (A) complicated by a pneumothorax and collapsed lung. Contributed by S Bhimji, MD 
+Rib Fracture. Computed tomography of a patient who sustained a rib fracture (A) complicated by a pneumothorax and collapsed lung. Contributed by S Bhimji, MD
 
 [![Image ](/books/NBK441885/bin/upper__lobe__ptx.gif)](/books/NBK441885/figure/article-27370.image.f4/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK441885/figure/article-27370.image.f4/?report=objectonly)
 
-Upper Lobe Pneumothorax Contributed by S Bhimji, MD 
+Upper Lobe Pneumothorax Contributed by S Bhimji, MD
 
 [![Left-Sided Tension Pneumothorax Radiograph](/books/NBK441885/bin/X-ray_of_pneumothorax_signs.gif)](/books/NBK441885/figure/article-27370.image.f5/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK441885/figure/article-27370.image.f5/?report=objectonly)
 
-Left-Sided Tension Pneumothorax Radiograph. This image shows a collapsed left lung and mediastinal contents shifting to the right. Karthik Easvur, Public Domain, via Wikimedia Commons 
+Left-Sided Tension Pneumothorax Radiograph. This image shows a collapsed left lung and mediastinal contents shifting to the right. Karthik Easvur, Public Domain, via Wikimedia Commons
 
 ## References
 
 1.
-    
 
-Tejero Aranguren J, Ruiz Ferrón F, Colmenero Ruiz M. Endobronchial treatment of persistent pneumothorax in acute respiratory distress syndrome. Med Intensiva (Engl Ed). 2019 Nov;43(8):516. [[PubMed: 30799041](https://pubmed.ncbi.nlm.nih.gov/30799041)]
+Tejero Aranguren J, Ruiz Ferrón F, Colmenero Ruiz M. Endobronchial treatment of persistent pneumothorax in acute respiratory distress syndrome. Med Intensiva (Engl Ed). 2019 Nov;43(8):516. \[[PubMed: 30799041](https://pubmed.ncbi.nlm.nih.gov/30799041)\]
 
 2.
-    
 
-Furuya T, Ii T, Yanada M, Toda S. Early chest tube removal after surgery for primary spontaneous pneumothorax. Gen Thorac Cardiovasc Surg. 2019 Sep;67(9):794-799. [[PubMed: 30798488](https://pubmed.ncbi.nlm.nih.gov/30798488)]
+Furuya T, Ii T, Yanada M, Toda S. Early chest tube removal after surgery for primary spontaneous pneumothorax. Gen Thorac Cardiovasc Surg. 2019 Sep;67(9):794-799. \[[PubMed: 30798488](https://pubmed.ncbi.nlm.nih.gov/30798488)\]
 
 3.
-    
 
-Singh SK, Tiwari KK. Analysis of clinical and radiological features of tuberculosis associated pneumothorax. Indian J Tuberc. 2019 Jan;66(1):34-38. [[PubMed: 30797280](https://pubmed.ncbi.nlm.nih.gov/30797280)]
+Singh SK, Tiwari KK. Analysis of clinical and radiological features of tuberculosis associated pneumothorax. Indian J Tuberc. 2019 Jan;66(1):34-38. \[[PubMed: 30797280](https://pubmed.ncbi.nlm.nih.gov/30797280)\]
 
 4.
-    
 
-Imperatori A, Fontana F, Dominioni L, Piacentino F, Macchi E, Castiglioni M, Desio M, Cattoni M, Nardecchia E, Rotolo N. Video-assisted thoracoscopic resection of lung nodules localized with a hydrogel plug. Interact Cardiovasc Thorac Surg. 2019 Jul 01;29(1):137-143. [[PubMed: 30793736](https://pubmed.ncbi.nlm.nih.gov/30793736)]
+Imperatori A, Fontana F, Dominioni L, Piacentino F, Macchi E, Castiglioni M, Desio M, Cattoni M, Nardecchia E, Rotolo N. Video-assisted thoracoscopic resection of lung nodules localized with a hydrogel plug. Interact Cardiovasc Thorac Surg. 2019 Jul 01;29(1):137-143. \[[PubMed: 30793736](https://pubmed.ncbi.nlm.nih.gov/30793736)\]
 
 5.
-    
 
-Melton LJ, Hepper NG, Offord KP. Incidence of spontaneous pneumothorax in Olmsted County, Minnesota: 1950 to 1974. Am Rev Respir Dis. 1979 Dec;120(6):1379-82. [[PubMed: 517861](https://pubmed.ncbi.nlm.nih.gov/517861)]
+Melton LJ, Hepper NG, Offord KP. Incidence of spontaneous pneumothorax in Olmsted County, Minnesota: 1950 to 1974. Am Rev Respir Dis. 1979 Dec;120(6):1379-82. \[[PubMed: 517861](https://pubmed.ncbi.nlm.nih.gov/517861)\]
 
 6.
-    
 
-Gupta D, Hansell A, Nichols T, Duong T, Ayres JG, Strachan D. Epidemiology of pneumothorax in England. Thorax. 2000 Aug;55(8):666-71. [[PMC free article: PMC1745823](/pmc/articles/PMC1745823/)] [[PubMed: 10899243](https://pubmed.ncbi.nlm.nih.gov/10899243)]
+Gupta D, Hansell A, Nichols T, Duong T, Ayres JG, Strachan D. Epidemiology of pneumothorax in England. Thorax. 2000 Aug;55(8):666-71. \[[PMC free article: PMC1745823](/pmc/articles/PMC1745823/)\] \[[PubMed: 10899243](https://pubmed.ncbi.nlm.nih.gov/10899243)\]
 
 7.
-    
 
-Mandt MJ, Hayes K, Severyn F, Adelgais K. Appropriate Needle Length for Emergent Pediatric Needle Thoracostomy Utilizing Computed Tomography. Prehosp Emerg Care. 2019 Sep-Oct;23(5):663-671. [[PubMed: 30624127](https://pubmed.ncbi.nlm.nih.gov/30624127)]
+Mandt MJ, Hayes K, Severyn F, Adelgais K. Appropriate Needle Length for Emergent Pediatric Needle Thoracostomy Utilizing Computed Tomography. Prehosp Emerg Care. 2019 Sep-Oct;23(5):663-671. \[[PubMed: 30624127](https://pubmed.ncbi.nlm.nih.gov/30624127)\]
 
 8.
-    
 
-Williams K, Baumann L, Grabowski J, Lautz TB. Current Practice in the Management of Spontaneous Pneumothorax in Children. J Laparoendosc Adv Surg Tech A. 2019 Apr;29(4):551-556. [[PubMed: 30592692](https://pubmed.ncbi.nlm.nih.gov/30592692)]
+Williams K, Baumann L, Grabowski J, Lautz TB. Current Practice in the Management of Spontaneous Pneumothorax in Children. J Laparoendosc Adv Surg Tech A. 2019 Apr;29(4):551-556. \[[PubMed: 30592692](https://pubmed.ncbi.nlm.nih.gov/30592692)\]
 
 9.
-    
 
-Schnell J, Beer M, Eggeling S, Gesierich W, Gottlieb J, Herth FJF, Hofmann HS, Jany B, Kreuter M, Ley-Zaporozhan J, Scheubel R, Walles T, Wiesemann S, Worth H, Stoelben E. Management of Spontaneous Pneumothorax and Post-Interventional Pneumothorax: German S3 Guideline. Respiration. 2019;97(4):370-402. [[PubMed: 30041191](https://pubmed.ncbi.nlm.nih.gov/30041191)]
+Schnell J, Beer M, Eggeling S, Gesierich W, Gottlieb J, Herth FJF, Hofmann HS, Jany B, Kreuter M, Ley-Zaporozhan J, Scheubel R, Walles T, Wiesemann S, Worth H, Stoelben E. Management of Spontaneous Pneumothorax and Post-Interventional Pneumothorax: German S3 Guideline. Respiration. 2019;97(4):370-402. \[[PubMed: 30041191](https://pubmed.ncbi.nlm.nih.gov/30041191)\]
 
 10.
-    
 
-Wong A, Galiabovitch E, Bhagwat K. Management of primary spontaneous pneumothorax: a review. ANZ J Surg. 2019 Apr;89(4):303-308. [[PubMed: 29974615](https://pubmed.ncbi.nlm.nih.gov/29974615)]
+Wong A, Galiabovitch E, Bhagwat K. Management of primary spontaneous pneumothorax: a review. ANZ J Surg. 2019 Apr;89(4):303-308. \[[PubMed: 29974615](https://pubmed.ncbi.nlm.nih.gov/29974615)\]
 
 11.
-    
 
-Bertolaccini L, Congedo MT, Bertani A, Solli P, Nosotti M. A project to assess the quality of the published guidelines for managing primary spontaneous pneumothorax from the Italian Society of Thoracic Surgeons. Eur J Cardiothorac Surg. 2018 Nov 01;54(5):920-925. [[PubMed: 29788194](https://pubmed.ncbi.nlm.nih.gov/29788194)]
-
-    
+Bertolaccini L, Congedo MT, Bertani A, Solli P, Nosotti M. A project to assess the quality of the published guidelines for managing primary spontaneous pneumothorax from the Italian Society of Thoracic Surgeons. Eur J Cardiothorac Surg. 2018 Nov 01;54(5):920-925. \[[PubMed: 29788194](https://pubmed.ncbi.nlm.nih.gov/29788194)\]
 
 **Disclosure:** Catherine McKnight declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Bracken Burns declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17041/
-scraped_date: 2025-07-22 12:48:57 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17041/ scraped_date: 2025-07-22 12:48:57 UTC
 
 # Placental Abruption
 
@@ -29,13 +28,13 @@ Placental abruption is the early separation of the placenta from the lining of t
 
 **Objectives:**
 
-  * Determine the etiology of placental abruption.
+- Determine the etiology of placental abruption.
 
-  * Identify the pathophysiology of placental abruption.
+- Identify the pathophysiology of placental abruption.
 
-  * Apply the presentation of a patient with placental abruption.
+- Apply the presentation of a patient with placental abruption.
 
-  * Communicate strategies for the interprofessional care team to employ for optimal management of patients with placental abruption.
+- Communicate strategies for the interprofessional care team to employ for optimal management of patients with placental abruption.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17041&utm_source=pubmed&utm_campaign=reviews&utm_content=17041)
 
@@ -63,43 +62,43 @@ The clinical implications of a placental abruption vary based on the extent and 
 
 **Class 0: Asymptomatic**
 
-  * Discovery of a blood clot on the maternal side of a delivered placenta
+- Discovery of a blood clot on the maternal side of a delivered placenta
 
-  * Diagnosis is made retrospectively
+- Diagnosis is made retrospectively
 
 **Class 1: Mild**
 
-  * No sign of vaginal bleeding or a small amount of vaginal bleeding.
+- No sign of vaginal bleeding or a small amount of vaginal bleeding.
 
-  * Slight uterine tenderness
+- Slight uterine tenderness
 
-  * Maternal blood pressure and heart rate WNL
+- Maternal blood pressure and heart rate WNL
 
-  * No signs of fetal distress
+- No signs of fetal distress
 
 **Class 2: Moderate**
 
-  * No sign of vaginal bleeding to a moderate amount of vaginal bleeding
+- No sign of vaginal bleeding to a moderate amount of vaginal bleeding
 
-  * Significant uterine tenderness with tetanic contractions
+- Significant uterine tenderness with tetanic contractions
 
-  * Change in vital signs: maternal tachycardia, orthostatic changes in blood pressure.
+- Change in vital signs: maternal tachycardia, orthostatic changes in blood pressure.
 
-  * Evidence of fetal distress
+- Evidence of fetal distress
 
-  * Clotting profile alteration: hypofibrinogenemia
+- Clotting profile alteration: hypofibrinogenemia
 
 **Class 3: Severe**
 
-  * No sign of vaginal bleeding to heavy vaginal bleeding
+- No sign of vaginal bleeding to heavy vaginal bleeding
 
-  * Tetanic uterus/ board-like consistency on palpation
+- Tetanic uterus/ board-like consistency on palpation
 
-  * Maternal shock
+- Maternal shock
 
-  * Clotting profile alteration: hypofibrinogenemia and coagulopathy
+- Clotting profile alteration: hypofibrinogenemia and coagulopathy
 
-  * Fetal death
+- Fetal death
 
 A classification of 0 or 1 is usually associated with partial, marginal separation, whereas a classification of 2 or 3 is associated with complete or central separation.
 
@@ -143,15 +142,15 @@ Delivery is necessary if the collected data results in class 2 (moderate) or cla
 
 Bleeding during the second half of pregnancy is usually due to either placental abruption or placenta previa. Differentiating these 2 conditions is important to the patient's care. The information below compares the presentation of placental abruption and placenta previa on common parameters included in an obstetrical examination.
 
-  * The onset of symptoms is sudden and intense for placental abruption but quiet and insidious for placenta previa
+- The onset of symptoms is sudden and intense for placental abruption but quiet and insidious for placenta previa
 
-  * Bleeding may be visible or concealed with placental abruption and is external and visible with placenta previa
+- Bleeding may be visible or concealed with placental abruption and is external and visible with placenta previa
 
-  * The degree of anemia or shock is greater than the visible blood loss in placental abruption and is equal to that in placenta previa.
+- The degree of anemia or shock is greater than the visible blood loss in placental abruption and is equal to that in placenta previa.
 
-  * Pain is intense and acute in placental abruption and is unrelated to placenta previa.
+- Pain is intense and acute in placental abruption and is unrelated to placenta previa.
 
-  * The uterine tone is firm and board-like in placental abruption and soft and relaxed in placenta previa.
+- The uterine tone is firm and board-like in placental abruption and soft and relaxed in placenta previa.
 
 ## Prognosis
 
@@ -161,27 +160,27 @@ The prognosis depends on when the patient presents to the hospital. If the bleed
 
 The complications that can manifest with placental abruption are as follows:
 
-  * Severe hemorrhage
+- Severe hemorrhage
 
-  * Fetal demise
+- Fetal demise
 
-  * Maternal death
+- Maternal death
 
-  * Delivering premature infant
+- Delivering premature infant
 
-  * Coagulopathy
+- Coagulopathy
 
-  * Transfusion-associated complications
+- Transfusion-associated complications
 
-  * Hysterectomy
+- Hysterectomy
 
-  * Cesarean section means future deliveries are all via cesarean section
+- Cesarean section means future deliveries are all via cesarean section
 
-  * Recurrence has been reported in 4% to 12% of cases
+- Recurrence has been reported in 4% to 12% of cases
 
-  * Increased risk of adverse cardiac events have been reported in women with placental abruption
+- Increased risk of adverse cardiac events have been reported in women with placental abruption
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Placental abruption is a serious pregnancy complication and is best managed by an interprofessional team of healthcare professionals, including an obstetrician, radiologist, hematologist, obstetric nurse, and intensivist. The triage nurse should know this condition and immediately admit and notify the emergency department physician. While the patient is being resuscitated, the obstetrician should be called ASAP. Immediate transfer to an ICU setting is highly recommended, and blood should be crossed and typed in case needed. Placental abruption is a true obstetric emergency and requires collaboration between the anesthesiologist and the radiologist. Operating room nurses should be informed of the patient so that the room can be prepared. In case the fetus is premature, the neonatal ICU team should be notified. Only with a team approach can the morbidity and mortality of this disorder be lowered.
 
@@ -193,103 +192,82 @@ Placental abruption is a life-threatening disorder for both the mother and the f
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17041&utm_source=pubmed&utm_campaign=reviews&utm_content=17041)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17041&utm_source=pubmed&utm_campaign=reviews&utm_content=17041)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/womens-health/placental-abruption/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17041)
+- [Click here for a simplified version.](https://mdsearchlight.com/womens-health/placental-abruption/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17041)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17041/?utm_source=pubmed&utm_campaign=comments&utm_content=17041)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17041/?utm_source=pubmed&utm_campaign=comments&utm_content=17041)
 
 [![Placental Abruption](/books/NBK482335/bin/Placental__Abruption.gif)](/books/NBK482335/figure/article-17041.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK482335/figure/article-17041.image.f1/?report=objectonly)
 
-Placental Abruption. The illustration depicts marginal separation, partial separation, complete separation with concealed hemorrhage, and cervical bleeding. Contributed by C Rowe 
+Placental Abruption. The illustration depicts marginal separation, partial separation, complete separation with concealed hemorrhage, and cervical bleeding. Contributed by C Rowe
 
 ## References
 
 1.
-    
 
-Workalemahu T, Enquobahrie DA, Gelaye B, Thornton TA, Tekola-Ayele F, Sanchez SE, Garcia PJ, Palomino HG, Hajat A, Romero R, Ananth CV, Williams MA. Abruptio placentae risk and genetic variations in mitochondrial biogenesis and oxidative phosphorylation: replication of a candidate gene association study. Am J Obstet Gynecol. 2018 Dec;219(6):617.e1-617.e17. [[PMC free article: PMC6497388](/pmc/articles/PMC6497388/)] [[PubMed: 30194050](https://pubmed.ncbi.nlm.nih.gov/30194050)]
+Workalemahu T, Enquobahrie DA, Gelaye B, Thornton TA, Tekola-Ayele F, Sanchez SE, Garcia PJ, Palomino HG, Hajat A, Romero R, Ananth CV, Williams MA. Abruptio placentae risk and genetic variations in mitochondrial biogenesis and oxidative phosphorylation: replication of a candidate gene association study. Am J Obstet Gynecol. 2018 Dec;219(6):617.e1-617.e17. \[[PMC free article: PMC6497388](/pmc/articles/PMC6497388/)\] \[[PubMed: 30194050](https://pubmed.ncbi.nlm.nih.gov/30194050)\]
 
 2.
-    
 
-Martinelli KG, Garcia ÉM, Santos Neto ETD, Gama SGND. Advanced maternal age and its association with placenta praevia and placental abruption: a meta-analysis. Cad Saude Publica. 2018 Feb 19;34(2):e00206116. [[PubMed: 29489954](https://pubmed.ncbi.nlm.nih.gov/29489954)]
+Martinelli KG, Garcia ÉM, Santos Neto ETD, Gama SGND. Advanced maternal age and its association with placenta praevia and placental abruption: a meta-analysis. Cad Saude Publica. 2018 Feb 19;34(2):e00206116. \[[PubMed: 29489954](https://pubmed.ncbi.nlm.nih.gov/29489954)\]
 
 3.
-    
 
-Workalemahu T, Enquobahrie DA, Gelaye B, Sanchez SE, Garcia PJ, Tekola-Ayele F, Hajat A, Thornton TA, Ananth CV, Williams MA. Genetic variations and risk of placental abruption: A genome-wide association study and meta-analysis of genome-wide association studies. Placenta. 2018 Jun;66:8-16. [[PMC free article: PMC5995331](/pmc/articles/PMC5995331/)] [[PubMed: 29884306](https://pubmed.ncbi.nlm.nih.gov/29884306)]
+Workalemahu T, Enquobahrie DA, Gelaye B, Sanchez SE, Garcia PJ, Tekola-Ayele F, Hajat A, Thornton TA, Ananth CV, Williams MA. Genetic variations and risk of placental abruption: A genome-wide association study and meta-analysis of genome-wide association studies. Placenta. 2018 Jun;66:8-16. \[[PMC free article: PMC5995331](/pmc/articles/PMC5995331/)\] \[[PubMed: 29884306](https://pubmed.ncbi.nlm.nih.gov/29884306)\]
 
 4.
-    
 
-Sylvester HC, Stringer M. Placental abruption leading to hysterectomy. BMJ Case Rep. 2017 Dec 11;2017 [[PMC free article: PMC5728244](/pmc/articles/PMC5728244/)] [[PubMed: 29233830](https://pubmed.ncbi.nlm.nih.gov/29233830)]
+Sylvester HC, Stringer M. Placental abruption leading to hysterectomy. BMJ Case Rep. 2017 Dec 11;2017 \[[PMC free article: PMC5728244](/pmc/articles/PMC5728244/)\] \[[PubMed: 29233830](https://pubmed.ncbi.nlm.nih.gov/29233830)\]
 
 5.
-    
 
-Miller C, Grynspan D, Gaudet L, Ferretti E, Lawrence S, Moretti F, Lafreniere A, McGee A, Lattuca S, Black A. Maternal and neonatal characteristics of a Canadian urban cohort receiving treatment for opioid use disorder during pregnancy. J Dev Orig Health Dis. 2019 Feb;10(1):132-137. [[PubMed: 30113278](https://pubmed.ncbi.nlm.nih.gov/30113278)]
+Miller C, Grynspan D, Gaudet L, Ferretti E, Lawrence S, Moretti F, Lafreniere A, McGee A, Lattuca S, Black A. Maternal and neonatal characteristics of a Canadian urban cohort receiving treatment for opioid use disorder during pregnancy. J Dev Orig Health Dis. 2019 Feb;10(1):132-137. \[[PubMed: 30113278](https://pubmed.ncbi.nlm.nih.gov/30113278)\]
 
 6.
-    
 
-Plowman RS, Javidan-Nejad C, Raptis CA, Katz DS, Mellnick VM, Bhalla S, Cornejo P, Menias CO. Imaging of Pregnancy-related Vascular Complications. Radiographics. 2017 Jul-Aug;37(4):1270-1289. [[PubMed: 28696852](https://pubmed.ncbi.nlm.nih.gov/28696852)]
+Plowman RS, Javidan-Nejad C, Raptis CA, Katz DS, Mellnick VM, Bhalla S, Cornejo P, Menias CO. Imaging of Pregnancy-related Vascular Complications. Radiographics. 2017 Jul-Aug;37(4):1270-1289. \[[PubMed: 28696852](https://pubmed.ncbi.nlm.nih.gov/28696852)\]
 
 7.
-    
 
-DeRoo L, Skjærven R, Wilcox A, Klungsøyr K, Wikström AK, Morken NH, Cnattingius S. Placental abruption and long-term maternal cardiovascular disease mortality: a population-based registry study in Norway and Sweden. Eur J Epidemiol. 2016 May;31(5):501-11. [[PMC free article: PMC4901083](/pmc/articles/PMC4901083/)] [[PubMed: 26177801](https://pubmed.ncbi.nlm.nih.gov/26177801)]
+DeRoo L, Skjærven R, Wilcox A, Klungsøyr K, Wikström AK, Morken NH, Cnattingius S. Placental abruption and long-term maternal cardiovascular disease mortality: a population-based registry study in Norway and Sweden. Eur J Epidemiol. 2016 May;31(5):501-11. \[[PMC free article: PMC4901083](/pmc/articles/PMC4901083/)\] \[[PubMed: 26177801](https://pubmed.ncbi.nlm.nih.gov/26177801)\]
 
 8.
-    
 
-Ananth CV, Wapner RJ, Ananth S, D'Alton ME, Vintzileos AM. First-Trimester and Second-Trimester Maternal Serum Biomarkers as Predictors of Placental Abruption. Obstet Gynecol. 2017 Mar;129(3):465-472. [[PMC free article: PMC5367463](/pmc/articles/PMC5367463/)] [[PubMed: 28178056](https://pubmed.ncbi.nlm.nih.gov/28178056)]
+Ananth CV, Wapner RJ, Ananth S, D'Alton ME, Vintzileos AM. First-Trimester and Second-Trimester Maternal Serum Biomarkers as Predictors of Placental Abruption. Obstet Gynecol. 2017 Mar;129(3):465-472. \[[PMC free article: PMC5367463](/pmc/articles/PMC5367463/)\] \[[PubMed: 28178056](https://pubmed.ncbi.nlm.nih.gov/28178056)\]
 
 9.
-    
 
-Arlier S, Adiguzel C, Yilmaz ES, Seyfettinoglu S, Helvacioglu C, Ekin GU, Nazik H, Yucel O. The role of mean platelet volume and platelet distribution width in the prediction of placental abruption. J Obstet Gynaecol. 2016 Oct;36(7):950-953. [[PubMed: 27184035](https://pubmed.ncbi.nlm.nih.gov/27184035)]
+Arlier S, Adiguzel C, Yilmaz ES, Seyfettinoglu S, Helvacioglu C, Ekin GU, Nazik H, Yucel O. The role of mean platelet volume and platelet distribution width in the prediction of placental abruption. J Obstet Gynaecol. 2016 Oct;36(7):950-953. \[[PubMed: 27184035](https://pubmed.ncbi.nlm.nih.gov/27184035)\]
 
 10.
-    
 
-Saphier NB, Kopelman TR. Traumatic Abruptio Placenta Scale (TAPS): a proposed grading system of computed tomography evaluation of placental abruption in the trauma patient. Emerg Radiol. 2014 Feb;21(1):17-22. [[PubMed: 24057218](https://pubmed.ncbi.nlm.nih.gov/24057218)]
+Saphier NB, Kopelman TR. Traumatic Abruptio Placenta Scale (TAPS): a proposed grading system of computed tomography evaluation of placental abruption in the trauma patient. Emerg Radiol. 2014 Feb;21(1):17-22. \[[PubMed: 24057218](https://pubmed.ncbi.nlm.nih.gov/24057218)\]
 
 11.
-    
 
-Society for Maternal-Fetal Medicine (SMFM). Electronic address: pubs@smfm.org. Gyamfi-Bannerman C. Society for Maternal-Fetal Medicine (SMFM) Consult Series #44: Management of bleeding in the late preterm period. Am J Obstet Gynecol. 2018 Jan;218(1):B2-B8. [[PubMed: 29079144](https://pubmed.ncbi.nlm.nih.gov/29079144)]
+Society for Maternal-Fetal Medicine (SMFM). Electronic address: pubs@smfm.org. Gyamfi-Bannerman C. Society for Maternal-Fetal Medicine (SMFM) Consult Series #44: Management of bleeding in the late preterm period. Am J Obstet Gynecol. 2018 Jan;218(1):B2-B8. \[[PubMed: 29079144](https://pubmed.ncbi.nlm.nih.gov/29079144)\]
 
 12.
-    
 
-Downes KL, Grantz KL, Shenassa ED. Maternal, Labor, Delivery, and Perinatal Outcomes Associated with Placental Abruption: A Systematic Review. Am J Perinatol. 2017 Aug;34(10):935-957. [[PMC free article: PMC5683164](/pmc/articles/PMC5683164/)] [[PubMed: 28329897](https://pubmed.ncbi.nlm.nih.gov/28329897)]
+Downes KL, Grantz KL, Shenassa ED. Maternal, Labor, Delivery, and Perinatal Outcomes Associated with Placental Abruption: A Systematic Review. Am J Perinatol. 2017 Aug;34(10):935-957. \[[PMC free article: PMC5683164](/pmc/articles/PMC5683164/)\] \[[PubMed: 28329897](https://pubmed.ncbi.nlm.nih.gov/28329897)\]
 
 13.
-    
 
-Boisramé T, Sananès N, Fritz G, Boudier E, Aissi G, Favre R, Langer B. Placental abruption: risk factors, management and maternal-fetal prognosis. Cohort study over 10 years. Eur J Obstet Gynecol Reprod Biol. 2014 Aug;179:100-4. [[PubMed: 24965988](https://pubmed.ncbi.nlm.nih.gov/24965988)]
+Boisramé T, Sananès N, Fritz G, Boudier E, Aissi G, Favre R, Langer B. Placental abruption: risk factors, management and maternal-fetal prognosis. Cohort study over 10 years. Eur J Obstet Gynecol Reprod Biol. 2014 Aug;179:100-4. \[[PubMed: 24965988](https://pubmed.ncbi.nlm.nih.gov/24965988)\]
 
 14.
-    
 
-Rhodes AM. Malpractice suits: implications for obstetric nurses. MCN Am J Matern Child Nurs. 1986 May-Jun;11(3):203. [[PubMed: 3088363](https://pubmed.ncbi.nlm.nih.gov/3088363)]
+Rhodes AM. Malpractice suits: implications for obstetric nurses. MCN Am J Matern Child Nurs. 1986 May-Jun;11(3):203. \[[PubMed: 3088363](https://pubmed.ncbi.nlm.nih.gov/3088363)\]
 
 15.
-    
 
-Downes KL, Shenassa ED, Grantz KL. Neonatal Outcomes Associated With Placental Abruption. Am J Epidemiol. 2017 Dec 15;186(12):1319-1328. [[PMC free article: PMC5860509](/pmc/articles/PMC5860509/)] [[PubMed: 28595292](https://pubmed.ncbi.nlm.nih.gov/28595292)]
-
-    
+Downes KL, Shenassa ED, Grantz KL. Neonatal Outcomes Associated With Placental Abruption. Am J Epidemiol. 2017 Dec 15;186(12):1319-1328. \[[PMC free article: PMC5860509](/pmc/articles/PMC5860509/)\] \[[PubMed: 28595292](https://pubmed.ncbi.nlm.nih.gov/28595292)\]
 
 **Disclosure:** Pamela Schmidt declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Christy Skelly declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Deborah Raines declares no relevant financial relationships with ineligible companies.

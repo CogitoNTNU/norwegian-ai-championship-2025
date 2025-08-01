@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26226/
-scraped_date: 2025-07-22 12:44:35 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26226/ scraped_date: 2025-07-22 12:44:35 UTC
 
 # Opioid Toxicity
 
@@ -33,13 +32,13 @@ This activity for healthcare professionals is designed to enhance learners' prof
 
 **Objectives:**
 
-  * Apply toxicokinetic data when evaluating the progression of opioid overdose and toxicity.
+- Apply toxicokinetic data when evaluating the progression of opioid overdose and toxicity.
 
-  * Select the appropriate diagnostic tests to differentiate opioid overdose from conditions that can present with similar signs and symptoms.
+- Select the appropriate diagnostic tests to differentiate opioid overdose from conditions that can present with similar signs and symptoms.
 
-  * Implement individualized combinations of pharmacological and nonpharmacological treatments for managing opioid toxicity.
+- Implement individualized combinations of pharmacological and nonpharmacological treatments for managing opioid toxicity.
 
-  * Collaborate with the interprofessional team to educate, treat, and monitor patients with opioid toxicity to improve health outcomes.
+- Collaborate with the interprofessional team to educate, treat, and monitor patients with opioid toxicity to improve health outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26226&utm_source=pubmed&utm_campaign=reviews&utm_content=26226)
 
@@ -73,19 +72,19 @@ Both opioids and opiates act on 3 major classes of opioid receptors: μ, κ, δ,
 
 The risk of opioid overdose increases in the following situations:
 
-  * Taking escalating doses
+- Taking escalating doses
 
-  * Returning to use after cessation
+- Returning to use after cessation
 
-  * Having severe medical and psychiatric conditions, such as depression, HIV infection, and lung or liver disease
+- Having severe medical and psychiatric conditions, such as depression, HIV infection, and lung or liver disease
 
-  * Combining opioids with sedative medications
+- Combining opioids with sedative medications
 
-  * Being male
+- Being male
 
-  * Being younger (20 to 40 years)
+- Being younger (20 to 40 years)
 
-  * Being of White non-Hispanic race [11][12]
+- Being of White non-Hispanic race [11][12]
 
 More than 1.5 million emergency department visits are related to opioid analgesic use. Opioid overdose is a common cause of death.
 
@@ -95,17 +94,17 @@ More than 1.5 million emergency department visits are related to opioid analgesi
 
 Opiates are frequently prescribed for moderate to severe pain in the United States. These drugs may be prescribed alone or combined with nonsteroidal anti-inflammatory drugs or muscle relaxants. Based on data from the Automation of Reports and Consolidated Orders Systems, the percentage increases in opiate use from 2004 through 2011 were as follows:
 
-  * Buprenorphine 2318%
+- Buprenorphine 2318%
 
-  * Fentanyl 35%
+- Fentanyl 35%
 
-  * Hydromorphone 140%
+- Hydromorphone 140%
 
-  * Methadone 37%
+- Methadone 37%
 
-  * Morphine 64%
+- Morphine 64%
 
-  * Oxycodone 117%
+- Oxycodone 117%
 
 Meanwhile, the use of codeine decreased by 20%.
 
@@ -209,21 +208,21 @@ Opiate overdose or toxicity must always be considered in patients presenting wit
 
 Laboratory studies are often conducted for patients with drug overdoses. Drug screens are widely available but may not significantly affect initial management due to the high potential for false positives and negatives. In patients with opiate toxicity or overdose, the following blood work is usually performed:
 
-  * Complete blood cell count
+- Complete blood cell count
 
-  * Comprehensive metabolic panel
+- Comprehensive metabolic panel
 
-  * Creatine kinase level
+- Creatine kinase level
 
-  * Arterial blood gas determinations
+- Arterial blood gas determinations
 
-  * Pregnancy testing
+- Pregnancy testing
 
-  * Acetaminophen and salicylate testing
+- Acetaminophen and salicylate testing
 
 **Imaging Studies**
 
-A chest x-ray should be obtained if lung injury is suspected. An abdominal x-ray or computed tomography should be obtained if the patient is possibly a body packer. 
+A chest x-ray should be obtained if lung injury is suspected. An abdominal x-ray or computed tomography should be obtained if the patient is possibly a body packer.
 
 **Electrocardiography**
 
@@ -327,39 +326,39 @@ Pharmacy staff can now fill buprenorphine prescriptions using the prescriber's D
 
 The differential diagnosis of opioid poisoning includes conditions presenting with sudden-onset respiratory or CNS depression, as follows:
 
-  * Barbiturate toxicity 
+- Barbiturate toxicity
 
-  * Benzodiazepine toxicity
+- Benzodiazepine toxicity
 
-  * Carbon monoxide toxicity 
+- Carbon monoxide toxicity
 
-  * Clonidine toxicity 
+- Clonidine toxicity
 
-  * Cyanide toxicity
+- Cyanide toxicity
 
-  * Diabetic ketoacidosis
+- Diabetic ketoacidosis
 
-  * Ethanol toxicity 
+- Ethanol toxicity
 
-  * Ethylene glycol toxicity 
+- Ethylene glycol toxicity
 
-  * γ-Hydroxybutyrate toxicity
+- γ-Hydroxybutyrate toxicity
 
-  * Hypercalcemia
+- Hypercalcemia
 
-  * Hypernatremia
+- Hypernatremia
 
-  * Hypothermia
+- Hypothermia
 
-  * Hypoglycemia 
+- Hypoglycemia
 
-  * Meningitis/encephalitis 
+- Meningitis/encephalitis
 
-  * Neuroleptic agent toxicity
+- Neuroleptic agent toxicity
 
-  * Traumatic brain injury
+- Traumatic brain injury
 
-  * Valproic acid toxicity
+- Valproic acid toxicity
 
 Efficient and thorough evaluation of these alternative diagnoses ensures timely intervention and better outcomes.
 
@@ -393,9 +392,9 @@ Some individuals who inject drugs directly into the neck risk developing jugular
 
 Endocarditis is a serious complication of intravenous drug use, often resulting from injecting illicit drug mixtures with contaminated needles. Diagnosing infectious endocarditis can be challenging due to the initially vague symptoms. While right-sided heart valves are most commonly affected, left-sided valves may also be involved in some cases. The tricuspid valve is the valve most frequently affected in individuals who use intravenous drugs. Endocarditis often presents with fever, malaise, and a new murmur. In some patients, recurrent septic pulmonary embolism may be the only presenting feature.
 
-The organism most commonly involved in right-sided endocarditis is _Staphylococcus aureus_. In contrast, left-sided endocarditis may be polymicrobial, involving organisms such as _Streptococcus_ , _E. coli_ , _Pseudomonas_ , and  _Klebsiella_. Symptoms and signs tend to be more pronounced in left-sided endocarditis compared to right-sided cases.
+The organism most commonly involved in right-sided endocarditis is _Staphylococcus aureus_. In contrast, left-sided endocarditis may be polymicrobial, involving organisms such as _Streptococcus_ , _E. coli_ , _Pseudomonas_ , and _Klebsiella_. Symptoms and signs tend to be more pronounced in left-sided endocarditis compared to right-sided cases.
 
-Other infectious manifestations of opioid abuse include recurrent pneumonia, with aspiration pneumonia occurring in some unconscious individuals. Necrotizing fasciitis, another life-threatening complication, often presents with severe pain, fever, and dark, dusky skin with crepitus. The individual may show signs of septic shock. Aggressive resuscitation and immediate surgical debridement can be life-saving. 
+Other infectious manifestations of opioid abuse include recurrent pneumonia, with aspiration pneumonia occurring in some unconscious individuals. Necrotizing fasciitis, another life-threatening complication, often presents with severe pain, fever, and dark, dusky skin with crepitus. The individual may show signs of septic shock. Aggressive resuscitation and immediate surgical debridement can be life-saving.
 
 **Musculoskeletal and Neurologic Sequelae**
 
@@ -419,7 +418,7 @@ In early 2015, the U.S. Department of Health and Human Services acknowledged the
 
 Recently, the U.S. Food and Drug Administration approved the use of a handheld autoinjector that can be prescribed to caregivers or family members for managing suspected opiate overdoses. Additionally, numerous naloxone organizations have emerged across the country to fight the opiate overdose epidemic, including efforts to involve nonmedical professionals like law enforcement officers.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 With the drastic increase in opioid abuse and overdose-related deaths, much attention has focused on this so-called "opioid epidemic." All healthcare workers, including nurse practitioners who prescribe controlled substances, have a role in reducing the opioid epidemic and should be equipped to identify and treat those experiencing toxicity and overdose.
 
@@ -431,242 +430,192 @@ An interprofessional approach should involve physicians, nurses, and substance a
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26226&utm_source=pubmed&utm_campaign=reviews&utm_content=26226)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26226&utm_source=pubmed&utm_campaign=reviews&utm_content=26226)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/addiction/opioid-overdose/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26226)
+- [Click here for a simplified version.](https://mdsearchlight.com/addiction/opioid-overdose/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26226)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26226/?utm_source=pubmed&utm_campaign=comments&utm_content=26226)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26226/?utm_source=pubmed&utm_campaign=comments&utm_content=26226)
 
 ## References
 
 1.
-    
 
-Brownstein MJ. A brief history of opiates, opioid peptides, and opioid receptors. Proc Natl Acad Sci U S A. 1993 Jun 15;90(12):5391-3. [[PMC free article: PMC46725](/pmc/articles/PMC46725/)] [[PubMed: 8390660](https://pubmed.ncbi.nlm.nih.gov/8390660)]
+Brownstein MJ. A brief history of opiates, opioid peptides, and opioid receptors. Proc Natl Acad Sci U S A. 1993 Jun 15;90(12):5391-3. \[[PMC free article: PMC46725](/pmc/articles/PMC46725/)\] \[[PubMed: 8390660](https://pubmed.ncbi.nlm.nih.gov/8390660)\]
 
 2.
-    
 
-Leung PTM, Macdonald EM, Stanbrook MB, Dhalla IA, Juurlink DN. A 1980 Letter on the Risk of Opioid Addiction. N Engl J Med. 2017 Jun 01;376(22):2194-2195. [[PubMed: 28564561](https://pubmed.ncbi.nlm.nih.gov/28564561)]
+Leung PTM, Macdonald EM, Stanbrook MB, Dhalla IA, Juurlink DN. A 1980 Letter on the Risk of Opioid Addiction. N Engl J Med. 2017 Jun 01;376(22):2194-2195. \[[PubMed: 28564561](https://pubmed.ncbi.nlm.nih.gov/28564561)\]
 
 3.
-    
 
-Morone NE, Weiner DK. Pain as the fifth vital sign: exposing the vital need for pain education. Clin Ther. 2013 Nov;35(11):1728-32. [[PMC free article: PMC3888154](/pmc/articles/PMC3888154/)] [[PubMed: 24145043](https://pubmed.ncbi.nlm.nih.gov/24145043)]
+Morone NE, Weiner DK. Pain as the fifth vital sign: exposing the vital need for pain education. Clin Ther. 2013 Nov;35(11):1728-32. \[[PMC free article: PMC3888154](/pmc/articles/PMC3888154/)\] \[[PubMed: 24145043](https://pubmed.ncbi.nlm.nih.gov/24145043)\]
 
 4.
-    
 
-Choi NG, DiNitto DM, Marti CN, Choi BY. Adults who misuse opioids: Substance abuse treatment use and perceived treatment need. Subst Abus. 2019;40(2):247-255. [[PubMed: 30810503](https://pubmed.ncbi.nlm.nih.gov/30810503)]
+Choi NG, DiNitto DM, Marti CN, Choi BY. Adults who misuse opioids: Substance abuse treatment use and perceived treatment need. Subst Abus. 2019;40(2):247-255. \[[PubMed: 30810503](https://pubmed.ncbi.nlm.nih.gov/30810503)\]
 
 5.
-    
 
-Emery MA, Eitan S. Members of the same pharmacological family are not alike: Different opioids, different consequences, hope for the opioid crisis? Prog Neuropsychopharmacol Biol Psychiatry. 2019 Jun 08;92:428-449. [[PubMed: 30790677](https://pubmed.ncbi.nlm.nih.gov/30790677)]
+Emery MA, Eitan S. Members of the same pharmacological family are not alike: Different opioids, different consequences, hope for the opioid crisis? Prog Neuropsychopharmacol Biol Psychiatry. 2019 Jun 08;92:428-449. \[[PubMed: 30790677](https://pubmed.ncbi.nlm.nih.gov/30790677)\]
 
 6.
-    
 
-Park K, Otte A. Prevention of Opioid Abuse and Treatment of Opioid Addiction: Current Status and Future Possibilities. Annu Rev Biomed Eng. 2019 Jun 04;21:61-84. [[PubMed: 30786212](https://pubmed.ncbi.nlm.nih.gov/30786212)]
+Park K, Otte A. Prevention of Opioid Abuse and Treatment of Opioid Addiction: Current Status and Future Possibilities. Annu Rev Biomed Eng. 2019 Jun 04;21:61-84. \[[PubMed: 30786212](https://pubmed.ncbi.nlm.nih.gov/30786212)\]
 
 7.
-    
 
-Rollman JE, Heyward J, Olson L, Lurie P, Sharfstein J, Alexander GC. Assessment of the FDA Risk Evaluation and Mitigation Strategy for Transmucosal Immediate-Release Fentanyl Products. JAMA. 2019 Feb 19;321(7):676-685. [[PMC free article: PMC6439622](/pmc/articles/PMC6439622/)] [[PubMed: 30778596](https://pubmed.ncbi.nlm.nih.gov/30778596)]
+Rollman JE, Heyward J, Olson L, Lurie P, Sharfstein J, Alexander GC. Assessment of the FDA Risk Evaluation and Mitigation Strategy for Transmucosal Immediate-Release Fentanyl Products. JAMA. 2019 Feb 19;321(7):676-685. \[[PMC free article: PMC6439622](/pmc/articles/PMC6439622/)\] \[[PubMed: 30778596](https://pubmed.ncbi.nlm.nih.gov/30778596)\]
 
 8.
-    
 
-Reisman RM, Shenoy PJ, Atherly AJ, Flowers CR. Prescription opioid usage and abuse relationships: an evaluation of state prescription drug monitoring program efficacy. Subst Abuse. 2009;3:41-51. [[PMC free article: PMC3865068](/pmc/articles/PMC3865068/)] [[PubMed: 24357929](https://pubmed.ncbi.nlm.nih.gov/24357929)]
+Reisman RM, Shenoy PJ, Atherly AJ, Flowers CR. Prescription opioid usage and abuse relationships: an evaluation of state prescription drug monitoring program efficacy. Subst Abuse. 2009;3:41-51. \[[PMC free article: PMC3865068](/pmc/articles/PMC3865068/)\] \[[PubMed: 24357929](https://pubmed.ncbi.nlm.nih.gov/24357929)\]
 
 9.
-    
 
-LaForge KS, Yuferov V, Kreek MJ. Opioid receptor and peptide gene polymorphisms: potential implications for addictions. Eur J Pharmacol. 2000 Dec 27;410(2-3):249-268. [[PubMed: 11134674](https://pubmed.ncbi.nlm.nih.gov/11134674)]
+LaForge KS, Yuferov V, Kreek MJ. Opioid receptor and peptide gene polymorphisms: potential implications for addictions. Eur J Pharmacol. 2000 Dec 27;410(2-3):249-268. \[[PubMed: 11134674](https://pubmed.ncbi.nlm.nih.gov/11134674)\]
 
 10.
-    
 
-Kreek MJ, Bart G, Lilly C, LaForge KS, Nielsen DA. Pharmacogenetics and human molecular genetics of opiate and cocaine addictions and their treatments. Pharmacol Rev. 2005 Mar;57(1):1-26. [[PubMed: 15734726](https://pubmed.ncbi.nlm.nih.gov/15734726)]
+Kreek MJ, Bart G, Lilly C, LaForge KS, Nielsen DA. Pharmacogenetics and human molecular genetics of opiate and cocaine addictions and their treatments. Pharmacol Rev. 2005 Mar;57(1):1-26. \[[PubMed: 15734726](https://pubmed.ncbi.nlm.nih.gov/15734726)\]
 
 11.
-    
 
-Webster LR. Risk Factors for Opioid-Use Disorder and Overdose. Anesth Analg. 2017 Nov;125(5):1741-1748. [[PubMed: 29049118](https://pubmed.ncbi.nlm.nih.gov/29049118)]
+Webster LR. Risk Factors for Opioid-Use Disorder and Overdose. Anesth Analg. 2017 Nov;125(5):1741-1748. \[[PubMed: 29049118](https://pubmed.ncbi.nlm.nih.gov/29049118)\]
 
 12.
-    
 
-Park TW, Lin LA, Hosanagar A, Kogowski A, Paige K, Bohnert AS. Understanding Risk Factors for Opioid Overdose in Clinical Populations to Inform Treatment and Policy. J Addict Med. 2016 Nov/Dec;10(6):369-381. [[PubMed: 27525471](https://pubmed.ncbi.nlm.nih.gov/27525471)]
+Park TW, Lin LA, Hosanagar A, Kogowski A, Paige K, Bohnert AS. Understanding Risk Factors for Opioid Overdose in Clinical Populations to Inform Treatment and Policy. J Addict Med. 2016 Nov/Dec;10(6):369-381. \[[PubMed: 27525471](https://pubmed.ncbi.nlm.nih.gov/27525471)\]
 
 13.
-    
 
-Foglia R, Kline A, Cooperman NA. New and Emerging Opioid Overdose Risk Factors. Curr Addict Rep. 2021;8(2):319-329. [[PMC free article: PMC8061156](/pmc/articles/PMC8061156/)] [[PubMed: 33907663](https://pubmed.ncbi.nlm.nih.gov/33907663)]
+Foglia R, Kline A, Cooperman NA. New and Emerging Opioid Overdose Risk Factors. Curr Addict Rep. 2021;8(2):319-329. \[[PMC free article: PMC8061156](/pmc/articles/PMC8061156/)\] \[[PubMed: 33907663](https://pubmed.ncbi.nlm.nih.gov/33907663)\]
 
 14.
-    
 
-Katselou M, Papoutsis I, Nikolaou P, Spiliopoulou C, Athanaselis S. A "krokodil" emerges from the murky waters of addiction. Abuse trends of an old drug. Life Sci. 2014 May 02;102(2):81-7. [[PubMed: 24650492](https://pubmed.ncbi.nlm.nih.gov/24650492)]
+Katselou M, Papoutsis I, Nikolaou P, Spiliopoulou C, Athanaselis S. A "krokodil" emerges from the murky waters of addiction. Abuse trends of an old drug. Life Sci. 2014 May 02;102(2):81-7. \[[PubMed: 24650492](https://pubmed.ncbi.nlm.nih.gov/24650492)\]
 
 15.
-    
 
-Stein C. Opioid Receptors. Annu Rev Med. 2016;67:433-51. [[PubMed: 26332001](https://pubmed.ncbi.nlm.nih.gov/26332001)]
+Stein C. Opioid Receptors. Annu Rev Med. 2016;67:433-51. \[[PubMed: 26332001](https://pubmed.ncbi.nlm.nih.gov/26332001)\]
 
 16.
-    
 
-Millan MJ, Członkowski A, Lipkowski A, Herz A. Kappa-opioid receptor-mediated antinociception in the rat. II. Supraspinal in addition to spinal sites of action. J Pharmacol Exp Ther. 1989 Oct;251(1):342-50. [[PubMed: 2571723](https://pubmed.ncbi.nlm.nih.gov/2571723)]
+Millan MJ, Członkowski A, Lipkowski A, Herz A. Kappa-opioid receptor-mediated antinociception in the rat. II. Supraspinal in addition to spinal sites of action. J Pharmacol Exp Ther. 1989 Oct;251(1):342-50. \[[PubMed: 2571723](https://pubmed.ncbi.nlm.nih.gov/2571723)\]
 
 17.
-    
 
-Priest KC, Gorfinkel L, Klimas J, Jones AA, Fairbairn N, McCarty D. Comparing Canadian and United States opioid agonist therapy policies. Int J Drug Policy. 2019 Dec;74:257-265. [[PMC free article: PMC6689455](/pmc/articles/PMC6689455/)] [[PubMed: 30765118](https://pubmed.ncbi.nlm.nih.gov/30765118)]
+Priest KC, Gorfinkel L, Klimas J, Jones AA, Fairbairn N, McCarty D. Comparing Canadian and United States opioid agonist therapy policies. Int J Drug Policy. 2019 Dec;74:257-265. \[[PMC free article: PMC6689455](/pmc/articles/PMC6689455/)\] \[[PubMed: 30765118](https://pubmed.ncbi.nlm.nih.gov/30765118)\]
 
 18.
-    
 
-Ellis RJ, Wang Z, Genes N, Ma'ayan A. Predicting opioid dependence from electronic health records with machine learning. BioData Min. 2019;12:3. [[PMC free article: PMC6352440](/pmc/articles/PMC6352440/)] [[PubMed: 30728857](https://pubmed.ncbi.nlm.nih.gov/30728857)]
+Ellis RJ, Wang Z, Genes N, Ma'ayan A. Predicting opioid dependence from electronic health records with machine learning. BioData Min. 2019;12:3. \[[PMC free article: PMC6352440](/pmc/articles/PMC6352440/)\] \[[PubMed: 30728857](https://pubmed.ncbi.nlm.nih.gov/30728857)\]
 
 19.
-    
 
-Preuss CV, Kalava A, King KC. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Apr 29, 2023. Prescription of Controlled Substances: Benefits and Risks. [[PubMed: 30726003](https://pubmed.ncbi.nlm.nih.gov/30726003)]
+Preuss CV, Kalava A, King KC. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Apr 29, 2023. Prescription of Controlled Substances: Benefits and Risks. \[[PubMed: 30726003](https://pubmed.ncbi.nlm.nih.gov/30726003)\]
 
 20.
-    
 
-Gross JL, Perate AR, Elkassabany NM. Pain Management in Trauma in the Age of the Opioid Crisis. Anesthesiol Clin. 2019 Mar;37(1):79-91. [[PubMed: 30711235](https://pubmed.ncbi.nlm.nih.gov/30711235)]
+Gross JL, Perate AR, Elkassabany NM. Pain Management in Trauma in the Age of the Opioid Crisis. Anesthesiol Clin. 2019 Mar;37(1):79-91. \[[PubMed: 30711235](https://pubmed.ncbi.nlm.nih.gov/30711235)\]
 
 21.
-    
 
-Lyden J, Binswanger IA. The United States opioid epidemic. Semin Perinatol. 2019 Apr;43(3):123-131. [[PMC free article: PMC6578581](/pmc/articles/PMC6578581/)] [[PubMed: 30711195](https://pubmed.ncbi.nlm.nih.gov/30711195)]
+Lyden J, Binswanger IA. The United States opioid epidemic. Semin Perinatol. 2019 Apr;43(3):123-131. \[[PMC free article: PMC6578581](/pmc/articles/PMC6578581/)\] \[[PubMed: 30711195](https://pubmed.ncbi.nlm.nih.gov/30711195)\]
 
 22.
-    
 
-Freedman-Weiss MR, Chiu AS, Solomon DG, Christison-Lagay ER, Ozgediz DE, Cowles RA, Caty MG, Stitelman DH. Opioid Prescribing Habits of General Versus Pediatric Surgeons After Uncomplicated Laparoscopic Appendectomy. J Surg Res. 2019 Mar;235:404-409. [[PubMed: 30691822](https://pubmed.ncbi.nlm.nih.gov/30691822)]
+Freedman-Weiss MR, Chiu AS, Solomon DG, Christison-Lagay ER, Ozgediz DE, Cowles RA, Caty MG, Stitelman DH. Opioid Prescribing Habits of General Versus Pediatric Surgeons After Uncomplicated Laparoscopic Appendectomy. J Surg Res. 2019 Mar;235:404-409. \[[PubMed: 30691822](https://pubmed.ncbi.nlm.nih.gov/30691822)\]
 
 23.
-    
 
-Chinman M, Gellad WF, McCarthy S, Gordon AJ, Rogal S, Mor MK, Hausmann LRM. Protocol for evaluating the nationwide implementation of the VA Stratification Tool for Opioid Risk Management (STORM). Implement Sci. 2019 Jan 18;14(1):5. [[PMC free article: PMC6339438](/pmc/articles/PMC6339438/)] [[PubMed: 30658658](https://pubmed.ncbi.nlm.nih.gov/30658658)]
+Chinman M, Gellad WF, McCarthy S, Gordon AJ, Rogal S, Mor MK, Hausmann LRM. Protocol for evaluating the nationwide implementation of the VA Stratification Tool for Opioid Risk Management (STORM). Implement Sci. 2019 Jan 18;14(1):5. \[[PMC free article: PMC6339438](/pmc/articles/PMC6339438/)\] \[[PubMed: 30658658](https://pubmed.ncbi.nlm.nih.gov/30658658)\]
 
 24.
-    
 
-Delargy I, Crowley D, Van Hout MC. Twenty years of the methadone treatment protocol in Ireland: reflections on the role of general practice. Harm Reduct J. 2019 Jan 17;16(1):5. [[PMC free article: PMC6337760](/pmc/articles/PMC6337760/)] [[PubMed: 30654803](https://pubmed.ncbi.nlm.nih.gov/30654803)]
+Delargy I, Crowley D, Van Hout MC. Twenty years of the methadone treatment protocol in Ireland: reflections on the role of general practice. Harm Reduct J. 2019 Jan 17;16(1):5. \[[PMC free article: PMC6337760](/pmc/articles/PMC6337760/)\] \[[PubMed: 30654803](https://pubmed.ncbi.nlm.nih.gov/30654803)\]
 
 25.
-    
 
-Lovrecic B, Lovrecic M, Gabrovec B, Carli M, Pacini M, Maremmani AGI, Maremmani I. Non-Medical Use of Novel Synthetic Opioids: A New Challenge to Public Health. Int J Environ Res Public Health. 2019 Jan 09;16(2) [[PMC free article: PMC6352208](/pmc/articles/PMC6352208/)] [[PubMed: 30634521](https://pubmed.ncbi.nlm.nih.gov/30634521)]
+Lovrecic B, Lovrecic M, Gabrovec B, Carli M, Pacini M, Maremmani AGI, Maremmani I. Non-Medical Use of Novel Synthetic Opioids: A New Challenge to Public Health. Int J Environ Res Public Health. 2019 Jan 09;16(2) \[[PMC free article: PMC6352208](/pmc/articles/PMC6352208/)\] \[[PubMed: 30634521](https://pubmed.ncbi.nlm.nih.gov/30634521)\]
 
 26.
-    
 
-White ND. Increasing Naloxone Access and Use to Prevent Opioid Overdose Death and Disability. Am J Lifestyle Med. 2019 Jan-Feb;13(1):33-35. [[PMC free article: PMC6311609](/pmc/articles/PMC6311609/)] [[PubMed: 30627074](https://pubmed.ncbi.nlm.nih.gov/30627074)]
+White ND. Increasing Naloxone Access and Use to Prevent Opioid Overdose Death and Disability. Am J Lifestyle Med. 2019 Jan-Feb;13(1):33-35. \[[PMC free article: PMC6311609](/pmc/articles/PMC6311609/)\] \[[PubMed: 30627074](https://pubmed.ncbi.nlm.nih.gov/30627074)\]
 
 27.
-    
 
-Greene JA, Deveau BJ, Dol JS, Butler MB. Incidence of mortality due to rebound toxicity after 'treat and release' practices in prehospital opioid overdose care: a systematic review. Emerg Med J. 2019 Apr;36(4):219-224. [[PubMed: 30580317](https://pubmed.ncbi.nlm.nih.gov/30580317)]
+Greene JA, Deveau BJ, Dol JS, Butler MB. Incidence of mortality due to rebound toxicity after 'treat and release' practices in prehospital opioid overdose care: a systematic review. Emerg Med J. 2019 Apr;36(4):219-224. \[[PubMed: 30580317](https://pubmed.ncbi.nlm.nih.gov/30580317)\]
 
 28.
-    
 
-Dahlem CHG, King L, Anderson G, Marr A, Waddell JE, Scalera M. Beyond rescue: Implementation and evaluation of revised naloxone training for law enforcement officers. Public Health Nurs. 2017 Nov;34(6):516-521. [[PubMed: 28983963](https://pubmed.ncbi.nlm.nih.gov/28983963)]
+Dahlem CHG, King L, Anderson G, Marr A, Waddell JE, Scalera M. Beyond rescue: Implementation and evaluation of revised naloxone training for law enforcement officers. Public Health Nurs. 2017 Nov;34(6):516-521. \[[PubMed: 28983963](https://pubmed.ncbi.nlm.nih.gov/28983963)\]
 
 29.
-    
 
-Wampler DA, Molina DK, McManus J, Laws P, Manifold CA. No deaths associated with patient refusal of transport after naloxone-reversed opioid overdose. Prehosp Emerg Care. 2011 Jul-Sep;15(3):320-4. [[PubMed: 21612385](https://pubmed.ncbi.nlm.nih.gov/21612385)]
+Wampler DA, Molina DK, McManus J, Laws P, Manifold CA. No deaths associated with patient refusal of transport after naloxone-reversed opioid overdose. Prehosp Emerg Care. 2011 Jul-Sep;15(3):320-4. \[[PubMed: 21612385](https://pubmed.ncbi.nlm.nih.gov/21612385)\]
 
 30.
-    
 
-Levine M, Sanko S, Eckstein M. Assessing the Risk of Prehospital Administration of Naloxone with Subsequent Refusal of Care. Prehosp Emerg Care. 2016 Sep-Oct;20(5):566-9. [[PubMed: 27018626](https://pubmed.ncbi.nlm.nih.gov/27018626)]
+Levine M, Sanko S, Eckstein M. Assessing the Risk of Prehospital Administration of Naloxone with Subsequent Refusal of Care. Prehosp Emerg Care. 2016 Sep-Oct;20(5):566-9. \[[PubMed: 27018626](https://pubmed.ncbi.nlm.nih.gov/27018626)\]
 
 31.
-    
 
-Clark AK, Wilder CM, Winstanley EL. A systematic review of community opioid overdose prevention and naloxone distribution programs. J Addict Med. 2014 May-Jun;8(3):153-63. [[PubMed: 24874759](https://pubmed.ncbi.nlm.nih.gov/24874759)]
+Clark AK, Wilder CM, Winstanley EL. A systematic review of community opioid overdose prevention and naloxone distribution programs. J Addict Med. 2014 May-Jun;8(3):153-63. \[[PubMed: 24874759](https://pubmed.ncbi.nlm.nih.gov/24874759)\]
 
 32.
-    
 
-Kim HK, Nelson LS. Reducing the harm of opioid overdose with the safe use of naloxone : a pharmacologic review. Expert Opin Drug Saf. 2015 Jul;14(7):1137-46. [[PubMed: 25865597](https://pubmed.ncbi.nlm.nih.gov/25865597)]
+Kim HK, Nelson LS. Reducing the harm of opioid overdose with the safe use of naloxone : a pharmacologic review. Expert Opin Drug Saf. 2015 Jul;14(7):1137-46. \[[PubMed: 25865597](https://pubmed.ncbi.nlm.nih.gov/25865597)\]
 
 33.
-    
 
-Rzasa Lynn R, Galinkin JL. Naloxone dosage for opioid reversal: current evidence and clinical implications. Ther Adv Drug Saf. 2018 Jan;9(1):63-88. [[PMC free article: PMC5753997](/pmc/articles/PMC5753997/)] [[PubMed: 29318006](https://pubmed.ncbi.nlm.nih.gov/29318006)]
+Rzasa Lynn R, Galinkin JL. Naloxone dosage for opioid reversal: current evidence and clinical implications. Ther Adv Drug Saf. 2018 Jan;9(1):63-88. \[[PMC free article: PMC5753997](/pmc/articles/PMC5753997/)\] \[[PubMed: 29318006](https://pubmed.ncbi.nlm.nih.gov/29318006)\]
 
 34.
-    
 
-Volkow ND, Jones EB, Einstein EB, Wargo EM. Prevention and Treatment of Opioid Misuse and Addiction: A Review. JAMA Psychiatry. 2019 Feb 01;76(2):208-216. [[PubMed: 30516809](https://pubmed.ncbi.nlm.nih.gov/30516809)]
+Volkow ND, Jones EB, Einstein EB, Wargo EM. Prevention and Treatment of Opioid Misuse and Addiction: A Review. JAMA Psychiatry. 2019 Feb 01;76(2):208-216. \[[PubMed: 30516809](https://pubmed.ncbi.nlm.nih.gov/30516809)\]
 
 35.
-    
 
-Davis CS, Lieberman AJ, Hernandez-Delgado H, Suba C. Laws limiting the prescribing or dispensing of opioids for acute pain in the United States: A national systematic legal review. Drug Alcohol Depend. 2019 Jan 01;194:166-172. [[PubMed: 30445274](https://pubmed.ncbi.nlm.nih.gov/30445274)]
+Davis CS, Lieberman AJ, Hernandez-Delgado H, Suba C. Laws limiting the prescribing or dispensing of opioids for acute pain in the United States: A national systematic legal review. Drug Alcohol Depend. 2019 Jan 01;194:166-172. \[[PubMed: 30445274](https://pubmed.ncbi.nlm.nih.gov/30445274)\]
 
 36.
-    
 
-Gunn AH, Smothers ZPW, Schramm-Sapyta N, Freiermuth CE, MacEachern M, Muzyk AJ. The Emergency Department as an Opportunity for Naloxone Distribution. West J Emerg Med. 2018 Nov;19(6):1036-1042. [[PMC free article: PMC6225944](/pmc/articles/PMC6225944/)] [[PubMed: 30429939](https://pubmed.ncbi.nlm.nih.gov/30429939)]
+Gunn AH, Smothers ZPW, Schramm-Sapyta N, Freiermuth CE, MacEachern M, Muzyk AJ. The Emergency Department as an Opportunity for Naloxone Distribution. West J Emerg Med. 2018 Nov;19(6):1036-1042. \[[PMC free article: PMC6225944](/pmc/articles/PMC6225944/)\] \[[PubMed: 30429939](https://pubmed.ncbi.nlm.nih.gov/30429939)\]
 
 37.
-    
 
-Elkattawy S, Alyacoub R, Ejikeme C, Noori MAM, Remolina C. Naloxone induced pulmonary edema. J Community Hosp Intern Med Perspect. 2021 Jan 26;11(1):139-142. [[PMC free article: PMC7850343](/pmc/articles/PMC7850343/)] [[PubMed: 33552437](https://pubmed.ncbi.nlm.nih.gov/33552437)]
+Elkattawy S, Alyacoub R, Ejikeme C, Noori MAM, Remolina C. Naloxone induced pulmonary edema. J Community Hosp Intern Med Perspect. 2021 Jan 26;11(1):139-142. \[[PMC free article: PMC7850343](/pmc/articles/PMC7850343/)\] \[[PubMed: 33552437](https://pubmed.ncbi.nlm.nih.gov/33552437)\]
 
 38.
-    
 
-Brinzo PN, Martins SS. Racial/ethnic trends in opioid and polysubstance opioid overdose mortality in adolescents and young adults, 1999-2020. Addict Behav. 2024 Sep;156:108065. [[PMC free article: PMC11179956](/pmc/articles/PMC11179956/)] [[PubMed: 38772226](https://pubmed.ncbi.nlm.nih.gov/38772226)]
+Brinzo PN, Martins SS. Racial/ethnic trends in opioid and polysubstance opioid overdose mortality in adolescents and young adults, 1999-2020. Addict Behav. 2024 Sep;156:108065. \[[PMC free article: PMC11179956](/pmc/articles/PMC11179956/)\] \[[PubMed: 38772226](https://pubmed.ncbi.nlm.nih.gov/38772226)\]
 
 39.
-    
 
-Wang S. Historical Review: Opiate Addiction and Opioid Receptors. Cell Transplant. 2019 Mar;28(3):233-238. [[PMC free article: PMC6425114](/pmc/articles/PMC6425114/)] [[PubMed: 30419763](https://pubmed.ncbi.nlm.nih.gov/30419763)]
+Wang S. Historical Review: Opiate Addiction and Opioid Receptors. Cell Transplant. 2019 Mar;28(3):233-238. \[[PMC free article: PMC6425114](/pmc/articles/PMC6425114/)\] \[[PubMed: 30419763](https://pubmed.ncbi.nlm.nih.gov/30419763)\]
 
 40.
-    
 
-Concheiro M, Chesser R, Pardi J, Cooper G. Postmortem Toxicology of New Synthetic Opioids. Front Pharmacol. 2018;9:1210. [[PMC free article: PMC6212520](/pmc/articles/PMC6212520/)] [[PubMed: 30416445](https://pubmed.ncbi.nlm.nih.gov/30416445)]
+Concheiro M, Chesser R, Pardi J, Cooper G. Postmortem Toxicology of New Synthetic Opioids. Front Pharmacol. 2018;9:1210. \[[PMC free article: PMC6212520](/pmc/articles/PMC6212520/)\] \[[PubMed: 30416445](https://pubmed.ncbi.nlm.nih.gov/30416445)\]
 
 41.
-    
 
-Miller GE, Moriya AS. Statistical Brief (Medical Expenditure Panel Survey (US)) [Internet]. Agency for Healthcare Research and Quality (US); Rockville (MD): Sep, 2018. Any Use and Frequent Use of Opioids among Non-Elderly Adults in 2015-2016, by Socioeconomic Characteristics. [[PubMed: 30395425](https://pubmed.ncbi.nlm.nih.gov/30395425)]
+Miller GE, Moriya AS. Statistical Brief (Medical Expenditure Panel Survey (US)) [Internet]. Agency for Healthcare Research and Quality (US); Rockville (MD): Sep, 2018. Any Use and Frequent Use of Opioids among Non-Elderly Adults in 2015-2016, by Socioeconomic Characteristics. \[[PubMed: 30395425](https://pubmed.ncbi.nlm.nih.gov/30395425)\]
 
 42.
-    
 
-Radke JB, Owen KP, Sutter ME, Ford JB, Albertson TE. The effects of opioids on the lung. Clin Rev Allergy Immunol. 2014 Feb;46(1):54-64. [[PubMed: 23636734](https://pubmed.ncbi.nlm.nih.gov/23636734)]
+Radke JB, Owen KP, Sutter ME, Ford JB, Albertson TE. The effects of opioids on the lung. Clin Rev Allergy Immunol. 2014 Feb;46(1):54-64. \[[PubMed: 23636734](https://pubmed.ncbi.nlm.nih.gov/23636734)\]
 
 43.
-    
 
-Klapheke M, Pasarica M. Opioid Risk Mitigation Strategies and Overdose Resuscitation. MedEdPORTAL. 2017 Aug 16;13:10621. [[PMC free article: PMC6338191](/pmc/articles/PMC6338191/)] [[PubMed: 30800822](https://pubmed.ncbi.nlm.nih.gov/30800822)]
+Klapheke M, Pasarica M. Opioid Risk Mitigation Strategies and Overdose Resuscitation. MedEdPORTAL. 2017 Aug 16;13:10621. \[[PMC free article: PMC6338191](/pmc/articles/PMC6338191/)\] \[[PubMed: 30800822](https://pubmed.ncbi.nlm.nih.gov/30800822)\]
 
 44.
-    
 
-Mercadante S. Potential strategies to combat the opioid crisis. Expert Opin Drug Saf. 2019 Mar;18(3):211-217. [[PubMed: 30722706](https://pubmed.ncbi.nlm.nih.gov/30722706)]
-
-    
+Mercadante S. Potential strategies to combat the opioid crisis. Expert Opin Drug Saf. 2019 Mar;18(3):211-217. \[[PubMed: 30722706](https://pubmed.ncbi.nlm.nih.gov/30722706)\]
 
 **Disclosure:** Angela Regina declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Amandeep Goyal declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Oren Mechanic declares no relevant financial relationships with ineligible companies.

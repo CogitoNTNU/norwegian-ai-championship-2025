@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19150/
-scraped_date: 2025-07-22 12:53:05 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19150/ scraped_date: 2025-07-22 12:53:05 UTC
 
 # Physiology, Central Venous Pressure
 
@@ -29,7 +28,7 @@ Central venous pressure, which is a measure of pressure in the vena cava, can be
 
 New evidence suggests no absolute direct correlation between central venous pressure (CVP) and the total blood volume present in the circulation. With the emergence of the concept of _fluid responsiveness_ and its impact on patient outcome, CVP was found to be a poor predictor of fluid responsiveness. Accurate measurements of the central venous pressure were also challenged. A survey revealed that approximately 75% of the respondents made an error in their measurement of CVP. It also showed that many younger clinicians still use central venous pressure for the management of cardiovascular cases despite the doubted accuracy of CVP; this emphasizes the need for proper education regarding central venous pressure [4][5][6]
 
-A systematic review from 2008 has indicated insufficient data to support that central venous pressure should be monitored in intensive care units, operating rooms, and emergency departments. The review also suggested that central venous pressure should only be used as a measure of right ventricular function but not as a measure of volume status in certain patient populations i.e., heart transplant patients, patients with right ventricular infarct, or acute pulmonary embolism. Of note, the  _Surviving Sepsis Campaign_ no longer targets a central venous pressure of 8 to 12 mmHg as a gauge of fluid resuscitation. Due to the limitation of the central venous pressure as a static measure, the _critical care society_ realized that parameters such as lactate clearance would more dynamically and accurately attest to the adequacy of end-organ perfusion.
+A systematic review from 2008 has indicated insufficient data to support that central venous pressure should be monitored in intensive care units, operating rooms, and emergency departments. The review also suggested that central venous pressure should only be used as a measure of right ventricular function but not as a measure of volume status in certain patient populations i.e., heart transplant patients, patients with right ventricular infarct, or acute pulmonary embolism. Of note, the _Surviving Sepsis Campaign_ no longer targets a central venous pressure of 8 to 12 mmHg as a gauge of fluid resuscitation. Due to the limitation of the central venous pressure as a static measure, the _critical care society_ realized that parameters such as lactate clearance would more dynamically and accurately attest to the adequacy of end-organ perfusion.
 
 ## Organ Systems Involved
 
@@ -37,13 +36,13 @@ Several organ systems regulate central venous pressure. The central venous press
 
 ## Mechanism
 
-Early experimental studies explored various hemodynamic parameters, including central venous pressure (CVP), venous return (VR), and cardiac output (CO) - their relationship is described by  _Starling's_ flow equation Q = delta P/R, where Q represents flow, ΔP represents the pressure gradient, and R represents resistance. Guyton's law further explores this relationship with regard to cardiac performance.[7]
+Early experimental studies explored various hemodynamic parameters, including central venous pressure (CVP), venous return (VR), and cardiac output (CO) - their relationship is described by _Starling's_ flow equation Q = delta P/R, where Q represents flow, ΔP represents the pressure gradient, and R represents resistance. Guyton's law further explores this relationship with regard to cardiac performance.[7]
 
 In vivo, the CVP is a functional measure of right atrial and juxta-cardiac pressures (derived from pericardial and thoracic compartments) [7]
 
 Theoretically, when the mean systemic filling pressure equals the central venous pressure, there will be no venous return. The CVP is inversely related to venous return. However, another factor to consider is intrathoracic pressure. If the central venous pressure were to fall below the intrathoracic pressure, the central veins become compressed and limit venous return. The peripheral venous pressure can be affected by a change in volume, and because of their compliant nature, a change in total volume would have a greater effect on the amount of blood present in the veins. The venous tone is regulated by the sympathetic nervous system as well as external compression forces. Under normal physiologic conditions, the right and left ventricular output are equal.
 
-The central venous pressure influences cardiac (left ventricle) output - this is driven by changes in central venous pressure which lead to changes in the filling pressures of the left heart. 
+The central venous pressure influences cardiac (left ventricle) output - this is driven by changes in central venous pressure which lead to changes in the filling pressures of the left heart.
 
 ## Related Testing
 
@@ -71,67 +70,54 @@ In addition, CVP has been found to be inversely correlated with the tricuspid an
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19150&utm_source=pubmed&utm_campaign=reviews&utm_content=19150)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19150&utm_source=pubmed&utm_campaign=reviews&utm_content=19150)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19150/?utm_source=pubmed&utm_campaign=comments&utm_content=19150)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19150/?utm_source=pubmed&utm_campaign=comments&utm_content=19150)
 
 [![Central venous pressure Image courtesy O](/books/NBK519493/bin/CVPa.gif)](/books/NBK519493/figure/article-19150.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK519493/figure/article-19150.image.f1/?report=objectonly)
 
-Central venous pressure Image courtesy O.Chaigasame 
+Central venous pressure Image courtesy O.Chaigasame
 
 ## References
 
 1.
-    
 
-Russell PS, Hong J, Windsor JA, Itkin M, Phillips ARJ. Renal Lymphatics: Anatomy, Physiology, and Clinical Implications. Front Physiol. 2019;10:251. [[PMC free article: PMC6426795](/pmc/articles/PMC6426795/)] [[PubMed: 30923503](https://pubmed.ncbi.nlm.nih.gov/30923503)]
+Russell PS, Hong J, Windsor JA, Itkin M, Phillips ARJ. Renal Lymphatics: Anatomy, Physiology, and Clinical Implications. Front Physiol. 2019;10:251. \[[PMC free article: PMC6426795](/pmc/articles/PMC6426795/)\] \[[PubMed: 30923503](https://pubmed.ncbi.nlm.nih.gov/30923503)\]
 
 2.
-    
 
-Hariri G, Joffre J, Leblanc G, Bonsey M, Lavillegrand JR, Urbina T, Guidet B, Maury E, Bakker J, Ait-Oufella H. Narrative review: clinical assessment of peripheral tissue perfusion in septic shock. Ann Intensive Care. 2019 Mar 13;9(1):37. [[PMC free article: PMC6419794](/pmc/articles/PMC6419794/)] [[PubMed: 30868286](https://pubmed.ncbi.nlm.nih.gov/30868286)]
+Hariri G, Joffre J, Leblanc G, Bonsey M, Lavillegrand JR, Urbina T, Guidet B, Maury E, Bakker J, Ait-Oufella H. Narrative review: clinical assessment of peripheral tissue perfusion in septic shock. Ann Intensive Care. 2019 Mar 13;9(1):37. \[[PMC free article: PMC6419794](/pmc/articles/PMC6419794/)\] \[[PubMed: 30868286](https://pubmed.ncbi.nlm.nih.gov/30868286)\]
 
 3.
-    
 
-Martin GS, Bassett P. Crystalloids vs. colloids for fluid resuscitation in the Intensive Care Unit: A systematic review and meta-analysis. J Crit Care. 2019 Apr;50:144-154. [[PubMed: 30540968](https://pubmed.ncbi.nlm.nih.gov/30540968)]
+Martin GS, Bassett P. Crystalloids vs. colloids for fluid resuscitation in the Intensive Care Unit: A systematic review and meta-analysis. J Crit Care. 2019 Apr;50:144-154. \[[PubMed: 30540968](https://pubmed.ncbi.nlm.nih.gov/30540968)\]
 
 4.
-    
 
-Senthelal S, Maingi M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jan 30, 2023. Physiology, Jugular Venous Pulsation. [[PubMed: 30480931](https://pubmed.ncbi.nlm.nih.gov/30480931)]
+Senthelal S, Maingi M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jan 30, 2023. Physiology, Jugular Venous Pulsation. \[[PubMed: 30480931](https://pubmed.ncbi.nlm.nih.gov/30480931)\]
 
 5.
-    
 
-Wolfe HA, Mack EH. Making care better in the pediatric intensive care unit. Transl Pediatr. 2018 Oct;7(4):267-274. [[PMC free article: PMC6212389](/pmc/articles/PMC6212389/)] [[PubMed: 30460178](https://pubmed.ncbi.nlm.nih.gov/30460178)]
+Wolfe HA, Mack EH. Making care better in the pediatric intensive care unit. Transl Pediatr. 2018 Oct;7(4):267-274. \[[PMC free article: PMC6212389](/pmc/articles/PMC6212389/)\] \[[PubMed: 30460178](https://pubmed.ncbi.nlm.nih.gov/30460178)\]
 
 6.
-    
 
-Campos Munoz A, Vohra S, Gupta M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 17, 2023. Orthostasis (Archived) [[PubMed: 30422533](https://pubmed.ncbi.nlm.nih.gov/30422533)]
+Campos Munoz A, Vohra S, Gupta M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 17, 2023. Orthostasis (Archived) \[[PubMed: 30422533](https://pubmed.ncbi.nlm.nih.gov/30422533)\]
 
 7.
-    
 
-Berlin DA, Bakker J. Starling curves and central venous pressure. Crit Care. 2015 Feb 16;19(1):55. [[PMC free article: PMC4329649](/pmc/articles/PMC4329649/)] [[PubMed: 25880040](https://pubmed.ncbi.nlm.nih.gov/25880040)]
+Berlin DA, Bakker J. Starling curves and central venous pressure. Crit Care. 2015 Feb 16;19(1):55. \[[PMC free article: PMC4329649](/pmc/articles/PMC4329649/)\] \[[PubMed: 25880040](https://pubmed.ncbi.nlm.nih.gov/25880040)\]
 
 8.
-    
 
-Govender J, Postma I, Wood D, Sibanda W. Is there an association between central venous pressure measurement and ultrasound assessment of the inferior vena cava? Afr J Emerg Med. 2018 Sep;8(3):106-109. [[PMC free article: PMC6223593](/pmc/articles/PMC6223593/)] [[PubMed: 30456158](https://pubmed.ncbi.nlm.nih.gov/30456158)]
+Govender J, Postma I, Wood D, Sibanda W. Is there an association between central venous pressure measurement and ultrasound assessment of the inferior vena cava? Afr J Emerg Med. 2018 Sep;8(3):106-109. \[[PMC free article: PMC6223593](/pmc/articles/PMC6223593/)\] \[[PubMed: 30456158](https://pubmed.ncbi.nlm.nih.gov/30456158)\]
 
 9.
-    
 
-Zhang H, Wang X, Chen X, Zhang Q, Liu D. Tricuspid annular plane systolic excursion and central venous pressure in mechanically ventilated critically ill patients. Cardiovasc Ultrasound. 2018 Aug 07;16(1):11. [[PMC free article: PMC6091201](/pmc/articles/PMC6091201/)] [[PubMed: 30081914](https://pubmed.ncbi.nlm.nih.gov/30081914)]
-
-    
+Zhang H, Wang X, Chen X, Zhang Q, Liu D. Tricuspid annular plane systolic excursion and central venous pressure in mechanically ventilated critically ill patients. Cardiovasc Ultrasound. 2018 Aug 07;16(1):11. \[[PMC free article: PMC6091201](/pmc/articles/PMC6091201/)\] \[[PubMed: 30081914](https://pubmed.ncbi.nlm.nih.gov/30081914)\]
 
 **Disclosure:** Parth Shah declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Martine Louis declares no relevant financial relationships with ineligible companies.

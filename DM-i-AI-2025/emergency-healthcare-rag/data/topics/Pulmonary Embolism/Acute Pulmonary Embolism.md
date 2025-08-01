@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-42576/
-scraped_date: 2025-07-22 12:35:49 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-42576/ scraped_date: 2025-07-22 12:35:49 UTC
 
 # Acute Pulmonary Embolism
 
@@ -31,13 +30,13 @@ Management of PE includes supportive measures, anticoagulation as the mainstay o
 
 **Objectives:**
 
-  * Identify the clinical features of acute pulmonary embolism.
+- Identify the clinical features of acute pulmonary embolism.
 
-  * Select the most appropriate diagnostic imaging modality for a patient with a suspected acute pulmonary embolism.
+- Select the most appropriate diagnostic imaging modality for a patient with a suspected acute pulmonary embolism.
 
-  * Differentiate between acute pulmonary embolism and other cardiopulmonary conditions.
+- Differentiate between acute pulmonary embolism and other cardiopulmonary conditions.
 
-  * Apply interprofessional team strategies to improve care coordination and outcomes in patients with acute pulmonary embolism.
+- Apply interprofessional team strategies to improve care coordination and outcomes in patients with acute pulmonary embolism.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=42576&utm_source=pubmed&utm_campaign=reviews&utm_content=42576)
 
@@ -57,45 +56,45 @@ Risk factors can be classified as genetic and acquired. Genetic risk factors inc
 
 Other predisposing factors for VTE include:
 
-  * Fracture of lower limb
+- Fracture of lower limb
 
-  * Hospitalization for heart failure or atrial fibrillation/flutter within the previous 3 months
+- Hospitalization for heart failure or atrial fibrillation/flutter within the previous 3 months
 
-  * Hip or knee replacement
+- Hip or knee replacement
 
-  * Major trauma
+- Major trauma
 
-  * History of previous venous thromboembolism 
+- History of previous venous thromboembolism
 
-  * Central venous lines
+- Central venous lines
 
-  * Chemotherapy
+- Chemotherapy
 
-  * Congestive heart failure or respiratory failure
+- Congestive heart failure or respiratory failure
 
-  * Hormone replacement therapy 
+- Hormone replacement therapy
 
-  * Oral contraceptive therapy
+- Oral contraceptive therapy
 
-  * Postpartum period
+- Postpartum period
 
-  * Infection (specifically pneumonia, urinary tract infection, and HIV)
+- Infection (specifically pneumonia, urinary tract infection, and HIV)
 
-  * Cancer (highest risk in metastatic disease)
+- Cancer (highest risk in metastatic disease)
 
-  * Thrombophilia
+- Thrombophilia
 
-  * Bed rest longer than 3 days
+- Bed rest longer than 3 days
 
-  * Obesity
+- Obesity
 
-  * Pregnancy
+- Pregnancy
 
 Cancer carries a high risk for thrombus formation and, hence, PE. Pancreatic cancer, hematological malignancies, lung cancer, gastric cancer, and brain cancer carry the highest risk for VTE.[8] Infection anywhere in the body is a common trigger for VTE.[9] Myocardial infarction and congestive heart failure increase the risk of PE. Patients with VTE have an increased risk of subsequent stroke and myocardial infarction.[10][11]
 
 **Types of Pulmonary Embolism**
 
-Categorizing PE based on the presence or absence of hemodynamic stability is crucial. Hemodynamically unstable PE, previously called massive or high-risk**** PE, is PE that results in hypotension as defined by systolic blood pressure <90 mm Hg or a drop in systolic blood pressure of ≥40 mm Hg from baseline or hypotension that requires vasopressors or inotropes), the old term "massive" PE does not describe the size of the PE but rather the hemodynamic effect. Patients with a hemodynamically unstable PE are more likely to die from obstructive shock (ie, severe right ventricular failure).
+Categorizing PE based on the presence or absence of hemodynamic stability is crucial. Hemodynamically unstable PE, previously called massive or high-risk\*\*\*\* PE, is PE that results in hypotension as defined by systolic blood pressure \<90 mm Hg or a drop in systolic blood pressure of ≥40 mm Hg from baseline or hypotension that requires vasopressors or inotropes), the old term "massive" PE does not describe the size of the PE but rather the hemodynamic effect. Patients with a hemodynamically unstable PE are more likely to die from obstructive shock (ie, severe right ventricular failure).
 
 Hemodynamically stable PE is a spectrum ranging from small, mildly symptomatic, or asymptomatic PE (low-risk PE or small PE) to PEs that cause mild hypotension that stabilizes in response to fluid therapy or those that present with right ventricular dysfunction (submassive or intermediate-risk PE) but are hemodynamically stable.
 
@@ -153,15 +152,15 @@ Serum troponin I is beneficial prognostically but not diagnostically.[32][33] As
 
 **D-dimer**
 
-D-dimer levels are elevated in plasma whenever an acute thrombotic process occurs in the body because the coagulation and fibrinolysis pathways are activated simultaneously. D-dimer testing has a high negative predictive value; hence, a normal D-dimer level makes acute PE or DVT unlikely.[35] However, since the positive predictive value of elevated D-dimer levels is low, D-dimer testing is not used to confirm PE. 
+D-dimer levels are elevated in plasma whenever an acute thrombotic process occurs in the body because the coagulation and fibrinolysis pathways are activated simultaneously. D-dimer testing has a high negative predictive value; hence, a normal D-dimer level makes acute PE or DVT unlikely.[35] However, since the positive predictive value of elevated D-dimer levels is low, D-dimer testing is not used to confirm PE.
 
-As many D-dimer assays are available, clinicians should become aware of the diagnostic performance of the test used in their clinical setting. The quantitative enzyme-linked immunosorbent assay (ELISA) has a diagnostic sensitivity of at least 95%. ELISA can exclude the diagnosis of PE in patients with either low or intermediate pretest probability. A negative ELISA D-dimer and low clinical probability can exclude PE in approximately 30% of suspected patients without further testing. 
+As many D-dimer assays are available, clinicians should become aware of the diagnostic performance of the test used in their clinical setting. The quantitative enzyme-linked immunosorbent assay (ELISA) has a diagnostic sensitivity of at least 95%. ELISA can exclude the diagnosis of PE in patients with either low or intermediate pretest probability. A negative ELISA D-dimer and low clinical probability can exclude PE in approximately 30% of suspected patients without further testing.
 
 The specificity of D-dimer decreases steadily with age to approximately 10% in patients older than 80. Using age-adjusted cut-offs for patients older than 50 may improve the performance of D-dimer testing in older adults. In one study, using the age-adjusted cut-off instead of the standard D-dimer cut-off of 500 ng/mL or more increased the number of patients in whom the possibility of PE could be ruled out from 6.4% to 30%, without additional false-negative findings.[36] The formula is age (years) x 10 ng/mL for patients older than 50. For example, patient age 75 = age-adjusted d-dimer of 750 ng/mL.
 
 **Electrocardiography**
 
-Electrocardiography (ECG) abnormalities in patients with suspected PE are nonspecific.[37] The most common ECG findings in PE are tachycardia and nonspecific ST-segment, T-wave changes, S1Q3T3 pattern, right ventricular strain, and new incomplete right bundle branch block, which are uncommon (see **Image**.**** Electrocardiogram, Pulmonary Embolism).
+Electrocardiography (ECG) abnormalities in patients with suspected PE are nonspecific.[37] The most common ECG findings in PE are tachycardia and nonspecific ST-segment, T-wave changes, S1Q3T3 pattern, right ventricular strain, and new incomplete right bundle branch block, which are uncommon (see **Image**.\*\*\*\* Electrocardiogram, Pulmonary Embolism).
 
 **Chest radiograph**
 
@@ -173,7 +172,7 @@ Multidetector computed tomographic pulmonary angiography (CTPA) is the diagnosti
 
 PIOPED II also highlighted the influence of pretest clinical probability on the predictive value of CTPA. A normal CTPA had a high negative predictive value for PE at 96% and 89% in patients with a low or intermediate clinical probability, respectively, but its negative predictive value was only 60% if the pretest probability was high. Contrarily, the positive predictive value of a positive CTPA was high (92% to 96%) in patients with an intermediate or high clinical probability but much lower (58%) in patients with a low pretest likelihood of PE.[41] Therefore, clinicians should consider further testing in case of discordance between clinical judgment and the CTPA result. The present data suggest that a negative CTPA result is adequate for excluding PE in patients with a low or intermediate clinical probability. Whether patients with a negative CTPA and a high clinical probability should be further investigated remains controversial.
 
-CTPA may be relatively contraindicated in moderate to severe iodinated contrast allergy or renal insufficiency (eGFR <30 mL/min per 1.73 m2). The risk of these contraindications must be measured against the clinical significance of performing the CTPA examination and the availability of other imaging modalities, eg, ventilation/perfusion scan (V/Q scan). If clinically feasible, CTPA should be postponed for premedication for a history of allergy or IV hydration for renal insufficiency.
+CTPA may be relatively contraindicated in moderate to severe iodinated contrast allergy or renal insufficiency (eGFR \<30 mL/min per 1.73 m2). The risk of these contraindications must be measured against the clinical significance of performing the CTPA examination and the availability of other imaging modalities, eg, ventilation/perfusion scan (V/Q scan). If clinically feasible, CTPA should be postponed for premedication for a history of allergy or IV hydration for renal insufficiency.
 
 CTPA can detect right ventricular enlargement and other indicators of right ventricular dysfunction. Enlarged right ventricular has predictive value, supported by the results of a prospective multicentre cohort study in 457 patients.[43] In that study, right ventricular enlargement (right ventricular/left ventricular ratio ≥0.9) was a strong and independent predictor of a severe in-hospital outcome in the overall population and hemodynamically stable patients.
 
@@ -183,7 +182,7 @@ The planar V/Q scan is an established diagnostic test for suspected PE, mainly p
 
 V/Q scanning remains the test of choice for diagnosing PE in pregnancy for those with a normal chest radiograph. Other patients include those with a history of contrast medium-induced anaphylaxis and those with severe renal failure.[44] Planar lung scan results are frequently classified into 3 tiers: normal scan (excluding PE), high-probability scan (considered diagnostic of PE in most patients), and nondiagnostic scan.[44][45] Multiple studies have suggested that it is safe to withhold anticoagulant therapy in patients with a normal perfusion scan.[46]
 
-An analysis from the PIOPED II study advocated that a high-probability V/Q scan can confirm PE. However, the positive predictive value of a high-probability V/Q scan is not enough to confirm the PE diagnosis in patients with a low clinical probability.[47] The high frequency of nondiagnostic scans is a limitation because they require further diagnostic testing. 
+An analysis from the PIOPED II study advocated that a high-probability V/Q scan can confirm PE. However, the positive predictive value of a high-probability V/Q scan is not enough to confirm the PE diagnosis in patients with a low clinical probability.[47] The high frequency of nondiagnostic scans is a limitation because they require further diagnostic testing.
 
 **Pulmonary angiography**
 
@@ -203,7 +202,7 @@ Transthoracic echocardiography can rarely definitively diagnose PE when the thro
 
 Significant considerations are apparent when using echocardiography to establish a diagnosis of PE. Given the right ventricular's peculiar shape, no single echocardiographic parameter gives quick and accurate right ventricular size or function information. That is why echocardiographic criteria for diagnosing PE have varied between different studies. Because of the negative predictive value of 40% to 50%, a negative result cannot exclude PE.[51][52] On the other hand, signs of right ventricular overload or dysfunction may also be present without acute PE and may be due to coexisting cardiac or respiratory disease.[53]
 
-Right ventricular dilation is seen in ≥25% of patients with PE on echo and is helpful for risk stratification of the disease.[54] More specific echocardiography findings confer a high positive predictive value for PE with preexisting cardiorespiratory illness. This includes the combination of a pulmonary ejection acceleration time (measured in the right ventricular outflow tract) <60 milliseconds with a peak systolic tricuspid valve gradient less than 60 mm Hg ('60/60' sign) or McConnell sign (with depressed contractility of the right ventricular free wall compared to the right ventricular apex), is suggestive of PE.[55] A right ventricular/left ventricular diameter ratio of ≥1 and tricuspid annular plane systolic excursion (TAPSE) <16 mm are the findings for which an association with unfavorable prognosis has most frequently been reported.[56]
+Right ventricular dilation is seen in ≥25% of patients with PE on echo and is helpful for risk stratification of the disease.[54] More specific echocardiography findings confer a high positive predictive value for PE with preexisting cardiorespiratory illness. This includes the combination of a pulmonary ejection acceleration time (measured in the right ventricular outflow tract) \<60 milliseconds with a peak systolic tricuspid valve gradient less than 60 mm Hg ('60/60' sign) or McConnell sign (with depressed contractility of the right ventricular free wall compared to the right ventricular apex), is suggestive of PE.[55] A right ventricular/left ventricular diameter ratio of ≥1 and tricuspid annular plane systolic excursion (TAPSE) \<16 mm are the findings for which an association with unfavorable prognosis has most frequently been reported.[56]
 
 **Compression ultrasonography**
 
@@ -217,92 +216,97 @@ Wells criteria and Geneva score are scoring systems most commonly used to estima
 
 The following clinical decision rule points are used in the Geneva scoring system (original version)/(simplified version):
 
-  * Previous PE or DVT: 3/1
+- Previous PE or DVT: 3/1
 
-  * Heart rate 
-    * 75 to 94 bpm: 3/1
+- Heart rate
 
-    * ≥95 bpm: 5/2
+  - 75 to 94 bpm: 3/1
 
-  * Surgery or fracture within the past month: 2/1
+  - ≥95 bpm: 5/2
 
-  * Hemoptysis: 2/1
+- Surgery or fracture within the past month: 2/1
 
-  * Active cancer: 2/1
+- Hemoptysis: 2/1
 
-  * Unilateral lower-limb pain: 3/1
+- Active cancer: 2/1
 
-  * Pain on lower-limb deep palpation and unilateral edema: 4/1
+- Unilateral lower-limb pain: 3/1
 
-  * Age >65 years: 1/1
+- Pain on lower-limb deep palpation and unilateral edema: 4/1
+
+- Age >65 years: 1/1
 
 Using the Geneva criteria, the clinical probability of PE in a patient can be calculated using the following 3- or 2-level scoring systems:
 
-  * Three-level score 
-    * Low: 0 to 3/0 to 1
+- Three-level score
 
-    * Intermediate: 4 to 10/2 to 4
+  - Low: 0 to 3/0 to 1
 
-    * High: ≥11/≥5
+  - Intermediate: 4 to 10/2 to 4
 
-  * Two-level score 
-    * PE unlikely: 0 to 5/0 to 2
+  - High: ≥11/≥5
 
-    * PE likely: ≥6/≥3
+- Two-level score
+
+  - PE unlikely: 0 to 5/0 to 2
+
+  - PE likely: ≥6/≥3
 
 **Wells criteria and modified Wells criteria**
 
-The Wells scoring system uses the following criteria: 
+The Wells scoring system uses the following criteria:
 
-  * Clinical symptoms of DVT: 3
+- Clinical symptoms of DVT: 3
 
-  * Other diagnoses less likely than pulmonary embolism: 3
+- Other diagnoses less likely than pulmonary embolism: 3
 
-  * Heart rate >100 bpm: 1.5
+- Heart rate >100 bpm: 1.5
 
-  * Immobilization for ≥3 days or surgery in the previous 4 weeks: 1.5
+- Immobilization for ≥3 days or surgery in the previous 4 weeks: 1.5
 
-  * Previous history of DVT or PE: 1.5
+- Previous history of DVT or PE: 1.5
 
-  * Hemoptysis: 1
+- Hemoptysis: 1
 
-  * Malignancy: 1 [61]
+- Malignancy: 1 [61]
 
 Using the traditional or modified Wells criteria, the clinical probability of PE in a patient can be calculated using the following scores:
 
-  * Traditional Wells criteria 
-    * High: >6
+- Traditional Wells criteria
 
-    * Moderate: 2 to 6
+  - High: >6
 
-    * Low: <2
+  - Moderate: 2 to 6
 
-  * Modified Wells criteria 
-    * PE likely: >4
+  - Low: \<2
 
-    * PE unlikely: ≤4
+- Modified Wells criteria
+
+  - PE likely: >4
+
+  - PE unlikely: ≤4
 
 **Pulmonary Embolism Exclusion Criteria**
 
 Since PE symptoms are very nonspecific, the Pulmonary Embolism Rule-Out Criteria (PERC) was developed for emergency department patients to select patients with a low likelihood of having PE that diagnostic workup should not be initiated.[62] They constitute variables significantly associated with the absence of PE. The PERC rule contains the following 8 criteria:
 
-  * Age <50 years
+- Age \<50 years
 
-  * Heart rate <100 bpm
+- Heart rate \<100 bpm
 
-  * Oxyhemoglobin saturation ≥95%
+- Oxyhemoglobin saturation ≥95%
 
-  * No hemoptysis
+- No hemoptysis
 
-  * No estrogen use
+- No estrogen use
 
-  * No prior DVT or PE
+- No prior DVT or PE
 
-  * No unilateral leg swelling
+- No unilateral leg swelling
 
-  * No surgery/trauma requiring hospitalization within the preceding 4 weeks
+- No surgery/trauma requiring hospitalization within the preceding 4 weeks
 
-For patients who fulfill all 8 criteria having a low probability of PE, the likelihood of PE is sufficiently low that further testing is not indicated. PERC is only valid in clinical settings with a low prevalence of PE (<15%).[63] In hospital settings with a higher prevalence of PE (>15%), the PERC-based approach has substantially weaker predictive value.[64] Therefore, PERC criteria should not be used in patients with an intermediate or high suspicion of PE or inpatients suspected of having PE. 
+For patients who fulfill all 8 criteria having a low probability of PE, the likelihood of PE is sufficiently low that further testing is not indicated. PERC is only valid in clinical settings with a low prevalence of PE (\<15%).[63] In hospital settings with a higher prevalence of PE (>15%), the PERC-based approach has substantially weaker predictive value.[64] Therefore, PERC criteria should not be used in patients with an intermediate or high suspicion of PE or inpatients suspected of having PE.
 
 **Pulmonary Embolism Diagnostic Evaluation Approach in Hemodynamically Stable Patients**
 
@@ -310,7 +314,7 @@ An approach that combines clinical and pretest probability assessment, D-dimer t
 
 **Low probability of pulmonary embolus (Wells score** **< 2)**
 
-If PERC criteria are fulfilled, further testing is unneeded, and PE can be excluded. If PERC criteria are not met, then a D-dimer should be obtained. If D-dimer is negative, PE can be ruled out (<500 ng/mL). CT pulmonary angiography should be performed if the D-dimer is positive (>500 ng/mL) in patients aged <50 or higher after the age-adjusted D-dimer value. If CTPA is inconclusive or contraindicated, a V/Q scan should be performed. For a patient with an intermediate probability of PE (Wells score 2 to 6), measure D-dimer levels; if negative, PE can be excluded. If positive, then CTPA is done. If CTPA is inconclusive or contraindicated, a V/Q scan should be performed.[51]
+If PERC criteria are fulfilled, further testing is unneeded, and PE can be excluded. If PERC criteria are not met, then a D-dimer should be obtained. If D-dimer is negative, PE can be ruled out (\<500 ng/mL). CT pulmonary angiography should be performed if the D-dimer is positive (>500 ng/mL) in patients aged \<50 or higher after the age-adjusted D-dimer value. If CTPA is inconclusive or contraindicated, a V/Q scan should be performed. For a patient with an intermediate probability of PE (Wells score 2 to 6), measure D-dimer levels; if negative, PE can be excluded. If positive, then CTPA is done. If CTPA is inconclusive or contraindicated, a V/Q scan should be performed.[51]
 
 **High probability of pulmonary embolus (Wells score >6)**
 
@@ -324,7 +328,7 @@ A normal V/Q scan excludes PE. A PE may be diagnosed in patients with a V/Q scan
 
 **Supportive measures**
 
-The initial approach to patients with PE should focus on supportive measures. Supplemental oxygen is indicated in patients with oxygen saturation <90%. Mechanical ventilation (noninvasive or invasive) should be utilized in unstable patients, but clinicians should be mindful of the adverse hemodynamic effects of mechanical ventilation.
+The initial approach to patients with PE should focus on supportive measures. Supplemental oxygen is indicated in patients with oxygen saturation \<90%. Mechanical ventilation (noninvasive or invasive) should be utilized in unstable patients, but clinicians should be mindful of the adverse hemodynamic effects of mechanical ventilation.
 
 Acute right ventricular failure is the leading cause of death in patients with hemodynamically unstable PE. Aggressive volume resuscitation in such patients can over-distend the right ventricular, worsen ventricular interdependence, and reduce cardiac output. Hence, in patients with massive PE, intravenous fluid resuscitation should be tried only in patients with collapsible inferior vena cava (IVC)/intravascular depletion. Vasopressors may be needed for hemodynamic support. Mechanical cardiopulmonary support devices, such as extracorporeal membrane oxygenation, may be used in hemodynamically unstable patients with PEs.
 
@@ -356,7 +360,7 @@ Catheter-directed treatment involves the insertion of a catheter into the pulmon
 
 **Surgical embolectomy**
 
-Surgical embolectomy is usually indicated in a patient with**** hemodynamically unstable PE in whom thrombolysis (systemic or catheter-directed) is contraindicated or in patients with failed thrombolysis.[75][76][77] For thrombolysis or surgical embolectomy, no difference in mortality is evident, but the thrombolysis group had a higher risk of stroke and repeated intervention.
+Surgical embolectomy is usually indicated in a patient with\*\*\*\* hemodynamically unstable PE in whom thrombolysis (systemic or catheter-directed) is contraindicated or in patients with failed thrombolysis.[75][76][77] For thrombolysis or surgical embolectomy, no difference in mortality is evident, but the thrombolysis group had a higher risk of stroke and repeated intervention.
 
 **Vena cava filters**
 
@@ -376,25 +380,25 @@ Consequently, the optimal duration of anticoagulation remains uncertain and shou
 
 Since PE has a very heterogeneous clinical presentation ranging from dyspnea to sudden cardiac arrest.[85] The differential diagnosis of PE is extensive and includes:
 
-  * Acute coronary syndrome
+- Acute coronary syndrome
 
-  * Stable angina
+- Stable angina
 
-  * Acute pericarditis
+- Acute pericarditis
 
-  * Congestive heart failure
+- Congestive heart failure
 
-  * Malignancy
+- Malignancy
 
-  * Cardiac arrhythmias
+- Cardiac arrhythmias
 
-  * Pneumonia
+- Pneumonia
 
-  * Pneumonitis
+- Pneumonitis
 
-  * Pneumothorax
+- Pneumothorax
 
-  * Vasovagal syncope
+- Vasovagal syncope
 
 ## Prognosis
 
@@ -406,63 +410,63 @@ Several prognostic models have been designed, but the PE Severity Index (PESI) a
 
 The following parameters are utilized in each version of the PESI (original version [87]/simplified version [88]):
 
-  * Age: 1 point (if age older than 80 years)
+- Age: 1 point (if age older than 80 years)
 
-  * Male sex: +10 points/–
+- Male sex: +10 points/–
 
-  * Cancer: +30 points/1 point
+- Cancer: +30 points/1 point
 
-  * Chronic heart failure: +10 points/1 point
+- Chronic heart failure: +10 points/1 point
 
-  * Chronic pulmonary disease: +10 points/1 point
+- Chronic pulmonary disease: +10 points/1 point
 
-  * Pulse rate ≥110 bpm: +20 points/1 point
+- Pulse rate ≥110 bpm: +20 points/1 point
 
-  * Systolic BP <100 mm Hg: +30 points/1 point
+- Systolic BP \<100 mm Hg: +30 points/1 point
 
-  * Respiratory rate >30 breaths/min: +20 points/–
+- Respiratory rate >30 breaths/min: +20 points/–
 
-  * Temperature <36 °C: +20 points/–
+- Temperature \<36 °C: +20 points/–
 
-  * Altered mental status: +60 points/–
+- Altered mental status: +60 points/–
 
-  * Arterial oxyhemoglobin saturation <90%: +20 points/1 point 
+- Arterial oxyhemoglobin saturation \<90%: +20 points/1 point
 
 Risk Stratification in PESI includes the following classes:
 
-  * Class I: Points ≤65; low 30-day mortality risk from 1% to 6%.
+- Class I: Points ≤65; low 30-day mortality risk from 1% to 6%.
 
-  * Class II: Points 66 to 85; low mortality risk from 1.7% to 3.5%
+- Class II: Points 66 to 85; low mortality risk from 1.7% to 3.5%
 
-  * Class III: Points 86 to 105; moderate mortality risk from 3.2% to 7.1%
+- Class III: Points 86 to 105; moderate mortality risk from 3.2% to 7.1%
 
-  * Class IV: Points 106 to 125; high mortality risk from 4% to 11.4%
+- Class IV: Points 106 to 125; high mortality risk from 4% to 11.4%
 
-  * Class V: Points >125; high mortality risk from 10% to 24.5%
+- Class V: Points >125; high mortality risk from 10% to 24.5%
 
 Risk Stratification in sPESI includes the following classes:
 
-  * If 0 points: 1.0% 30-day mortality risk 
+- If 0 points: 1.0% 30-day mortality risk
 
-  * If ≥1 points: 10.9% 30-day mortality risk 
+- If ≥1 points: 10.9% 30-day mortality risk
 
 ## Complications
 
 The primary complications associated with PE include:
 
-  * Recurrent thromboembolism
+- Recurrent thromboembolism
 
-  * Chronic thromboembolic pulmonary hypertension
+- Chronic thromboembolic pulmonary hypertension
 
-  * Right heart failure
+- Right heart failure
 
-  * Cardiogenic shock
+- Cardiogenic shock
 
 PE, if left untreated, is associated with mortality of up to 30%. Studies have also suggested an increased risk of stroke, thought to be due to paradoxical embolism via a patent foramen ovale in patients with acute PE.[89]
 
 **Recurrent Thromboembolism**
 
-In the 1 to 2 weeks following diagnosis, patients may deteriorate and experience recurrence. Inadequate anticoagulation is the most common reason for recurrent venous thromboembolism while on therapy. 
+In the 1 to 2 weeks following diagnosis, patients may deteriorate and experience recurrence. Inadequate anticoagulation is the most common reason for recurrent venous thromboembolism while on therapy.
 
 **Chronic Thromboembolic Pulmonary Hypertension**
 
@@ -480,7 +484,7 @@ The results of various studies have demonstrated different parameters for rehabi
 
 A timely diagnosis of PE is crucial because of the high associated mortality and morbidity, which may be prevented with early treatment. Patients should be aware of the signs and symptoms of VTE and PE since the incidence of recurrent thromboembolism is high. Notably, 30% of untreated patients with PEs die, while only 8% die after timely therapy.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Effective management of acute PE requires seamless interprofessional collaboration to enhance patient-centered care, improve outcomes, and ensure patient safety. Pulmonary embolism response teams (PERTs) have emerged as an innovative approach to addressing the complexities of PE treatment. Composed of specialists in pulmonary medicine, critical care, cardiology, and cardiothoracic surgery, PERTs facilitate prompt diagnosis and timely intervention, ensuring that patients benefit from the collective expertise of diverse disciplines. Studies demonstrate that PERTs improve communication, streamline treatment efforts, and lead to more coordinated and effective care.
 
@@ -490,11 +494,11 @@ By fostering a collaborative environment, PERTs and interprofessional teams opti
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=42576&utm_source=pubmed&utm_campaign=reviews&utm_content=42576)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=42576&utm_source=pubmed&utm_campaign=reviews&utm_content=42576)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/acute-pulmonary-embolism-pulmonary-embolism/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=42576)
+- [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/acute-pulmonary-embolism-pulmonary-embolism/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=42576)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/42576/?utm_source=pubmed&utm_campaign=comments&utm_content=42576)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/42576/?utm_source=pubmed&utm_campaign=comments&utm_content=42576)
 
 [![Electrocardiogram, Pulmonary Embolism](/books/NBK560551/bin/800px-Pulmonary_embolism_ECG.gif)](/books/NBK560551/figure/article-42576.image.f1/?report=objectonly "Figure")
 
@@ -506,491 +510,394 @@ Electrocardiogram, Pulmonary Embolism. The ECG of a patient with pulmonary embol
 
 #### [Figure](/books/NBK560551/figure/article-42576.image.f2/?report=objectonly)
 
-Transesophageal Echocardiography, Pulmonary Embolism. Acute ECG segment elevation mimicking myocardial infarction in a patient with pulmonary embolism. T Goslar, M Podbregar, Public Domain, via Wikimedia Commons 
+Transesophageal Echocardiography, Pulmonary Embolism. Acute ECG segment elevation mimicking myocardial infarction in a patient with pulmonary embolism. T Goslar, M Podbregar, Public Domain, via Wikimedia Commons
 
 [![Hampton Hump](/books/NBK560551/bin/Hampton__Hump.gif)](/books/NBK560551/figure/article-42576.image.f3/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK560551/figure/article-42576.image.f3/?report=objectonly)
 
-Hampton Hump. A shallow, hump-shaped opacity on CXR in the periphery of the lung is characteristic of Hampton Hump, indicating pulmonary embolism. Hellerhof, Public Domain, via Wikimedia Commons 
+Hampton Hump. A shallow, hump-shaped opacity on CXR in the periphery of the lung is characteristic of Hampton Hump, indicating pulmonary embolism. Hellerhof, Public Domain, via Wikimedia Commons
 
 [![Wedge-Shaped Pulmonary Infarction](/books/NBK560551/bin/pulinfarct.gif)](/books/NBK560551/figure/article-42576.image.f4/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK560551/figure/article-42576.image.f4/?report=objectonly)
 
-Wedge-Shaped Pulmonary Infarction. A wedge-shaped pulmonary infarction is seen on an anteroposterior chest x-ray. Contributed by S Bhimji, MD 
+Wedge-Shaped Pulmonary Infarction. A wedge-shaped pulmonary infarction is seen on an anteroposterior chest x-ray. Contributed by S Bhimji, MD
 
 [![Pulmonary Embolism](/books/NBK560551/bin/CTlunginfarct.gif)](/books/NBK560551/figure/article-42576.image.f5/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK560551/figure/article-42576.image.f5/?report=objectonly)
 
-Pulmonary Embolism. A pulmonary embolism causes a pulmonary infarction after a hip fracture. Contributed by S Bhimji, MD 
+Pulmonary Embolism. A pulmonary embolism causes a pulmonary infarction after a hip fracture. Contributed by S Bhimji, MD
 
 ## References
 
 1.
-    
 
-COON WW, WILLIS PW. Deep venous thrombosis and pulmonary embolism: prediction, prevention and treatment. Am J Cardiol. 1959 Nov;4:611-21. [[PubMed: 13811755](https://pubmed.ncbi.nlm.nih.gov/13811755)]
+COON WW, WILLIS PW. Deep venous thrombosis and pulmonary embolism: prediction, prevention and treatment. Am J Cardiol. 1959 Nov;4:611-21. \[[PubMed: 13811755](https://pubmed.ncbi.nlm.nih.gov/13811755)\]
 
 2.
-    
 
-Goldhaber SZ, Grodstein F, Stampfer MJ, Manson JE, Colditz GA, Speizer FE, Willett WC, Hennekens CH. A prospective study of risk factors for pulmonary embolism in women. JAMA. 1997 Feb 26;277(8):642-5. [[PubMed: 9039882](https://pubmed.ncbi.nlm.nih.gov/9039882)]
+Goldhaber SZ, Grodstein F, Stampfer MJ, Manson JE, Colditz GA, Speizer FE, Willett WC, Hennekens CH. A prospective study of risk factors for pulmonary embolism in women. JAMA. 1997 Feb 26;277(8):642-5. \[[PubMed: 9039882](https://pubmed.ncbi.nlm.nih.gov/9039882)\]
 
 3.
-    
 
-Gohil R, Peck G, Sharma P. The genetics of venous thromboembolism. A meta-analysis involving approximately 120,000 cases and 180,000 controls. Thromb Haemost. 2009 Aug;102(2):360-70. [[PubMed: 19652888](https://pubmed.ncbi.nlm.nih.gov/19652888)]
+Gohil R, Peck G, Sharma P. The genetics of venous thromboembolism. A meta-analysis involving approximately 120,000 cases and 180,000 controls. Thromb Haemost. 2009 Aug;102(2):360-70. \[[PubMed: 19652888](https://pubmed.ncbi.nlm.nih.gov/19652888)\]
 
 4.
-    
 
-Rogers MA, Levine DA, Blumberg N, Flanders SA, Chopra V, Langa KM. Triggers of hospitalization for venous thromboembolism. Circulation. 2012 May 01;125(17):2092-9. [[PMC free article: PMC3342773](/pmc/articles/PMC3342773/)] [[PubMed: 22474264](https://pubmed.ncbi.nlm.nih.gov/22474264)]
+Rogers MA, Levine DA, Blumberg N, Flanders SA, Chopra V, Langa KM. Triggers of hospitalization for venous thromboembolism. Circulation. 2012 May 01;125(17):2092-9. \[[PMC free article: PMC3342773](/pmc/articles/PMC3342773/)\] \[[PubMed: 22474264](https://pubmed.ncbi.nlm.nih.gov/22474264)\]
 
 5.
-    
 
-Anderson FA, Spencer FA. Risk factors for venous thromboembolism. Circulation. 2003 Jun 17;107(23 Suppl 1):I9-16. [[PubMed: 12814980](https://pubmed.ncbi.nlm.nih.gov/12814980)]
+Anderson FA, Spencer FA. Risk factors for venous thromboembolism. Circulation. 2003 Jun 17;107(23 Suppl 1):I9-16. \[[PubMed: 12814980](https://pubmed.ncbi.nlm.nih.gov/12814980)\]
 
 6.
-    
 
-Kaptein FHJ, Kroft LJM, Hammerschlag G, Ninaber MK, Bauer MP, Huisman MV, Klok FA. Pulmonary infarction in acute pulmonary embolism. Thromb Res. 2021 Jun;202:162-169. [[PubMed: 33862471](https://pubmed.ncbi.nlm.nih.gov/33862471)]
+Kaptein FHJ, Kroft LJM, Hammerschlag G, Ninaber MK, Bauer MP, Huisman MV, Klok FA. Pulmonary infarction in acute pulmonary embolism. Thromb Res. 2021 Jun;202:162-169. \[[PubMed: 33862471](https://pubmed.ncbi.nlm.nih.gov/33862471)\]
 
 7.
-    
 
-Islam M, Filopei J, Frank M, Ramesh N, Verzosa S, Ehrlich M, Bondarsky E, Miller A, Steiger D. Pulmonary infarction secondary to pulmonary embolism: An evolving paradigm. Respirology. 2018 Mar 25; [[PubMed: 29577524](https://pubmed.ncbi.nlm.nih.gov/29577524)]
+Islam M, Filopei J, Frank M, Ramesh N, Verzosa S, Ehrlich M, Bondarsky E, Miller A, Steiger D. Pulmonary infarction secondary to pulmonary embolism: An evolving paradigm. Respirology. 2018 Mar 25; \[[PubMed: 29577524](https://pubmed.ncbi.nlm.nih.gov/29577524)\]
 
 8.
-    
 
-Blom JW, Doggen CJ, Osanto S, Rosendaal FR. Malignancies, prothrombotic mutations, and the risk of venous thrombosis. JAMA. 2005 Feb 09;293(6):715-22. [[PubMed: 15701913](https://pubmed.ncbi.nlm.nih.gov/15701913)]
+Blom JW, Doggen CJ, Osanto S, Rosendaal FR. Malignancies, prothrombotic mutations, and the risk of venous thrombosis. JAMA. 2005 Feb 09;293(6):715-22. \[[PubMed: 15701913](https://pubmed.ncbi.nlm.nih.gov/15701913)\]
 
 9.
-    
 
-Clayton TC, Gaskin M, Meade TW. Recent respiratory infection and risk of venous thromboembolism: case-control study through a general practice database. Int J Epidemiol. 2011 Jun;40(3):819-27. [[PMC free article: PMC3147071](/pmc/articles/PMC3147071/)] [[PubMed: 21324940](https://pubmed.ncbi.nlm.nih.gov/21324940)]
+Clayton TC, Gaskin M, Meade TW. Recent respiratory infection and risk of venous thromboembolism: case-control study through a general practice database. Int J Epidemiol. 2011 Jun;40(3):819-27. \[[PMC free article: PMC3147071](/pmc/articles/PMC3147071/)\] \[[PubMed: 21324940](https://pubmed.ncbi.nlm.nih.gov/21324940)\]
 
 10.
-    
 
-Prandoni P, Pesavento R, Sørensen HT, Gennaro N, Dalla Valle F, Minotto I, Perina F, Pengo V, Pagnan A. Prevalence of heart diseases in patients with pulmonary embolism with and without peripheral venous thrombosis: findings from a cross-sectional survey. Eur J Intern Med. 2009 Sep;20(5):470-3. [[PubMed: 19712846](https://pubmed.ncbi.nlm.nih.gov/19712846)]
+Prandoni P, Pesavento R, Sørensen HT, Gennaro N, Dalla Valle F, Minotto I, Perina F, Pengo V, Pagnan A. Prevalence of heart diseases in patients with pulmonary embolism with and without peripheral venous thrombosis: findings from a cross-sectional survey. Eur J Intern Med. 2009 Sep;20(5):470-3. \[[PubMed: 19712846](https://pubmed.ncbi.nlm.nih.gov/19712846)\]
 
 11.
-    
 
-Sørensen HT, Horvath-Puho E, Pedersen L, Baron JA, Prandoni P. Venous thromboembolism and subsequent hospitalisation due to acute arterial cardiovascular events: a 20-year cohort study. Lancet. 2007 Nov 24;370(9601):1773-9. [[PubMed: 18037081](https://pubmed.ncbi.nlm.nih.gov/18037081)]
+Sørensen HT, Horvath-Puho E, Pedersen L, Baron JA, Prandoni P. Venous thromboembolism and subsequent hospitalisation due to acute arterial cardiovascular events: a 20-year cohort study. Lancet. 2007 Nov 24;370(9601):1773-9. \[[PubMed: 18037081](https://pubmed.ncbi.nlm.nih.gov/18037081)\]
 
 12.
-    
 
-Wendelboe AM, Raskob GE. Global Burden of Thrombosis: Epidemiologic Aspects. Circ Res. 2016 Apr 29;118(9):1340-7. [[PubMed: 27126645](https://pubmed.ncbi.nlm.nih.gov/27126645)]
+Wendelboe AM, Raskob GE. Global Burden of Thrombosis: Epidemiologic Aspects. Circ Res. 2016 Apr 29;118(9):1340-7. \[[PubMed: 27126645](https://pubmed.ncbi.nlm.nih.gov/27126645)\]
 
 13.
-    
 
-Raskob GE, Angchaisuksiri P, Blanco AN, Buller H, Gallus A, Hunt BJ, Hylek EM, Kakkar A, Konstantinides SV, McCumber M, Ozaki Y, Wendelboe A, Weitz JI., ISTH Steering Committee for World Thrombosis Day. Thrombosis: a major contributor to global disease burden. Arterioscler Thromb Vasc Biol. 2014 Nov;34(11):2363-71. [[PubMed: 25304324](https://pubmed.ncbi.nlm.nih.gov/25304324)]
+Raskob GE, Angchaisuksiri P, Blanco AN, Buller H, Gallus A, Hunt BJ, Hylek EM, Kakkar A, Konstantinides SV, McCumber M, Ozaki Y, Wendelboe A, Weitz JI., ISTH Steering Committee for World Thrombosis Day. Thrombosis: a major contributor to global disease burden. Arterioscler Thromb Vasc Biol. 2014 Nov;34(11):2363-71. \[[PubMed: 25304324](https://pubmed.ncbi.nlm.nih.gov/25304324)\]
 
 14.
-    
 
-Horlander KT, Mannino DM, Leeper KV. Pulmonary embolism mortality in the United States, 1979-1998: an analysis using multiple-cause mortality data. Arch Intern Med. 2003 Jul 28;163(14):1711-7. [[PubMed: 12885687](https://pubmed.ncbi.nlm.nih.gov/12885687)]
+Horlander KT, Mannino DM, Leeper KV. Pulmonary embolism mortality in the United States, 1979-1998: an analysis using multiple-cause mortality data. Arch Intern Med. 2003 Jul 28;163(14):1711-7. \[[PubMed: 12885687](https://pubmed.ncbi.nlm.nih.gov/12885687)\]
 
 15.
-    
 
-Moser KM. Venous thromboembolism. Am Rev Respir Dis. 1990 Jan;141(1):235-49. [[PubMed: 2404439](https://pubmed.ncbi.nlm.nih.gov/2404439)]
+Moser KM. Venous thromboembolism. Am Rev Respir Dis. 1990 Jan;141(1):235-49. \[[PubMed: 2404439](https://pubmed.ncbi.nlm.nih.gov/2404439)\]
 
 16.
-    
 
-Nakos G, Kitsiouli EI, Lekka ME. Bronchoalveolar lavage alterations in pulmonary embolism. Am J Respir Crit Care Med. 1998 Nov;158(5 Pt 1):1504-10. [[PubMed: 9817700](https://pubmed.ncbi.nlm.nih.gov/9817700)]
+Nakos G, Kitsiouli EI, Lekka ME. Bronchoalveolar lavage alterations in pulmonary embolism. Am J Respir Crit Care Med. 1998 Nov;158(5 Pt 1):1504-10. \[[PubMed: 9817700](https://pubmed.ncbi.nlm.nih.gov/9817700)\]
 
 17.
-    
 
-Morrone D, Morrone V. Acute Pulmonary Embolism: Focus on the Clinical Picture. Korean Circ J. 2018 May;48(5):365-381. [[PMC free article: PMC5940642](/pmc/articles/PMC5940642/)] [[PubMed: 29737640](https://pubmed.ncbi.nlm.nih.gov/29737640)]
+Morrone D, Morrone V. Acute Pulmonary Embolism: Focus on the Clinical Picture. Korean Circ J. 2018 May;48(5):365-381. \[[PMC free article: PMC5940642](/pmc/articles/PMC5940642/)\] \[[PubMed: 29737640](https://pubmed.ncbi.nlm.nih.gov/29737640)\]
 
 18.
-    
 
-Miniati M. Pulmonary Infarction: An Often Unrecognized Clinical Entity. Semin Thromb Hemost. 2016 Nov;42(8):865-869. [[PubMed: 27743556](https://pubmed.ncbi.nlm.nih.gov/27743556)]
+Miniati M. Pulmonary Infarction: An Often Unrecognized Clinical Entity. Semin Thromb Hemost. 2016 Nov;42(8):865-869. \[[PubMed: 27743556](https://pubmed.ncbi.nlm.nih.gov/27743556)\]
 
 19.
-    
 
-Tsao MS, Schraufnagel D, Wang NS. Pathogenesis of pulmonary infarction. Am J Med. 1982 Apr;72(4):599-606. [[PubMed: 6462058](https://pubmed.ncbi.nlm.nih.gov/6462058)]
+Tsao MS, Schraufnagel D, Wang NS. Pathogenesis of pulmonary infarction. Am J Med. 1982 Apr;72(4):599-606. \[[PubMed: 6462058](https://pubmed.ncbi.nlm.nih.gov/6462058)\]
 
 20.
-    
 
-Kroegel C, Reissig A. Principle mechanisms underlying venous thromboembolism: epidemiology, risk factors, pathophysiology and pathogenesis. Respiration. 2003 Jan-Feb;70(1):7-30. [[PubMed: 12584387](https://pubmed.ncbi.nlm.nih.gov/12584387)]
+Kroegel C, Reissig A. Principle mechanisms underlying venous thromboembolism: epidemiology, risk factors, pathophysiology and pathogenesis. Respiration. 2003 Jan-Feb;70(1):7-30. \[[PubMed: 12584387](https://pubmed.ncbi.nlm.nih.gov/12584387)\]
 
 21.
-    
 
-Choi SH, Cha SI, Shin KM, Lim JK, Yoo SS, Lee SY, Lee J, Kim CH, Park JY, Lee DH. Clinical Relevance of Pleural Effusion in Patients with Pulmonary Embolism. Respiration. 2017;93(4):271-278. [[PubMed: 28196360](https://pubmed.ncbi.nlm.nih.gov/28196360)]
+Choi SH, Cha SI, Shin KM, Lim JK, Yoo SS, Lee SY, Lee J, Kim CH, Park JY, Lee DH. Clinical Relevance of Pleural Effusion in Patients with Pulmonary Embolism. Respiration. 2017;93(4):271-278. \[[PubMed: 28196360](https://pubmed.ncbi.nlm.nih.gov/28196360)\]
 
 22.
-    
 
-Carson JL, Kelley MA, Duff A, Weg JG, Fulkerson WJ, Palevsky HI, Schwartz JS, Thompson BT, Popovich J, Hobbins TE. The clinical course of pulmonary embolism. N Engl J Med. 1992 May 07;326(19):1240-5. [[PubMed: 1560799](https://pubmed.ncbi.nlm.nih.gov/1560799)]
+Carson JL, Kelley MA, Duff A, Weg JG, Fulkerson WJ, Palevsky HI, Schwartz JS, Thompson BT, Popovich J, Hobbins TE. The clinical course of pulmonary embolism. N Engl J Med. 1992 May 07;326(19):1240-5. \[[PubMed: 1560799](https://pubmed.ncbi.nlm.nih.gov/1560799)\]
 
 23.
-    
 
-Nijkeuter M, Söhne M, Tick LW, Kamphuisen PW, Kramer MH, Laterveer L, van Houten AA, Kruip MJ, Leebeek FW, Büller HR, Huisman MV., Christopher Study Investigators. The natural course of hemodynamically stable pulmonary embolism: Clinical outcome and risk factors in a large prospective cohort study. Chest. 2007 Feb;131(2):517-23. [[PubMed: 17296656](https://pubmed.ncbi.nlm.nih.gov/17296656)]
+Nijkeuter M, Söhne M, Tick LW, Kamphuisen PW, Kramer MH, Laterveer L, van Houten AA, Kruip MJ, Leebeek FW, Büller HR, Huisman MV., Christopher Study Investigators. The natural course of hemodynamically stable pulmonary embolism: Clinical outcome and risk factors in a large prospective cohort study. Chest. 2007 Feb;131(2):517-23. \[[PubMed: 17296656](https://pubmed.ncbi.nlm.nih.gov/17296656)\]
 
 24.
-    
 
-Stein PD, Henry JW. Clinical characteristics of patients with acute pulmonary embolism stratified according to their presenting syndromes. Chest. 1997 Oct;112(4):974-9. [[PubMed: 9377961](https://pubmed.ncbi.nlm.nih.gov/9377961)]
+Stein PD, Henry JW. Clinical characteristics of patients with acute pulmonary embolism stratified according to their presenting syndromes. Chest. 1997 Oct;112(4):974-9. \[[PubMed: 9377961](https://pubmed.ncbi.nlm.nih.gov/9377961)\]
 
 25.
-    
 
-Stein PD, Beemath A, Matta F, Weg JG, Yusen RD, Hales CA, Hull RD, Leeper KV, Sostman HD, Tapson VF, Buckley JD, Gottschalk A, Goodman LR, Wakefied TW, Woodard PK. Clinical characteristics of patients with acute pulmonary embolism: data from PIOPED II. Am J Med. 2007 Oct;120(10):871-9. [[PMC free article: PMC2071924](/pmc/articles/PMC2071924/)] [[PubMed: 17904458](https://pubmed.ncbi.nlm.nih.gov/17904458)]
+Stein PD, Beemath A, Matta F, Weg JG, Yusen RD, Hales CA, Hull RD, Leeper KV, Sostman HD, Tapson VF, Buckley JD, Gottschalk A, Goodman LR, Wakefied TW, Woodard PK. Clinical characteristics of patients with acute pulmonary embolism: data from PIOPED II. Am J Med. 2007 Oct;120(10):871-9. \[[PMC free article: PMC2071924](/pmc/articles/PMC2071924/)\] \[[PubMed: 17904458](https://pubmed.ncbi.nlm.nih.gov/17904458)\]
 
 26.
-    
 
-Barco S, Ende-Verhaar YM, Becattini C, Jimenez D, Lankeit M, Huisman MV, Konstantinides SV, Klok FA. Differential impact of syncope on the prognosis of patients with acute pulmonary embolism: a systematic review and meta-analysis. Eur Heart J. 2018 Dec 14;39(47):4186-4195. [[PubMed: 30339253](https://pubmed.ncbi.nlm.nih.gov/30339253)]
+Barco S, Ende-Verhaar YM, Becattini C, Jimenez D, Lankeit M, Huisman MV, Konstantinides SV, Klok FA. Differential impact of syncope on the prognosis of patients with acute pulmonary embolism: a systematic review and meta-analysis. Eur Heart J. 2018 Dec 14;39(47):4186-4195. \[[PubMed: 30339253](https://pubmed.ncbi.nlm.nih.gov/30339253)\]
 
 27.
-    
 
-Courtney DM, Sasser HC, Pincus CL, Kline JA. Pulseless electrical activity with witnessed arrest as a predictor of sudden death from massive pulmonary embolism in outpatients. Resuscitation. 2001 Jun;49(3):265-72. [[PubMed: 11719120](https://pubmed.ncbi.nlm.nih.gov/11719120)]
+Courtney DM, Sasser HC, Pincus CL, Kline JA. Pulseless electrical activity with witnessed arrest as a predictor of sudden death from massive pulmonary embolism in outpatients. Resuscitation. 2001 Jun;49(3):265-72. \[[PubMed: 11719120](https://pubmed.ncbi.nlm.nih.gov/11719120)\]
 
 28.
-    
 
-Kucher N, Goldhaber SZ. Management of massive pulmonary embolism. Circulation. 2005 Jul 12;112(2):e28-32. [[PubMed: 16009801](https://pubmed.ncbi.nlm.nih.gov/16009801)]
+Kucher N, Goldhaber SZ. Management of massive pulmonary embolism. Circulation. 2005 Jul 12;112(2):e28-32. \[[PubMed: 16009801](https://pubmed.ncbi.nlm.nih.gov/16009801)\]
 
 29.
-    
 
-Wood KE. Major pulmonary embolism: review of a pathophysiologic approach to the golden hour of hemodynamically significant pulmonary embolism. Chest. 2002 Mar;121(3):877-905. [[PubMed: 11888976](https://pubmed.ncbi.nlm.nih.gov/11888976)]
+Wood KE. Major pulmonary embolism: review of a pathophysiologic approach to the golden hour of hemodynamically significant pulmonary embolism. Chest. 2002 Mar;121(3):877-905. \[[PubMed: 11888976](https://pubmed.ncbi.nlm.nih.gov/11888976)\]
 
 30.
-    
 
-Kiely DG, Kennedy NS, Pirzada O, Batchelor SA, Struthers AD, Lipworth BJ. Elevated levels of natriuretic peptides in patients with pulmonary thromboembolism. Respir Med. 2005 Oct;99(10):1286-91. [[PubMed: 16099151](https://pubmed.ncbi.nlm.nih.gov/16099151)]
+Kiely DG, Kennedy NS, Pirzada O, Batchelor SA, Struthers AD, Lipworth BJ. Elevated levels of natriuretic peptides in patients with pulmonary thromboembolism. Respir Med. 2005 Oct;99(10):1286-91. \[[PubMed: 16099151](https://pubmed.ncbi.nlm.nih.gov/16099151)\]
 
 31.
-    
 
-Henzler T, Roeger S, Meyer M, Schoepf UJ, Nance JW, Haghi D, Kaminski WE, Neumaier M, Schoenberg SO, Fink C. Pulmonary embolism: CT signs and cardiac biomarkers for predicting right ventricular dysfunction. Eur Respir J. 2012 Apr;39(4):919-26. [[PubMed: 21965223](https://pubmed.ncbi.nlm.nih.gov/21965223)]
+Henzler T, Roeger S, Meyer M, Schoepf UJ, Nance JW, Haghi D, Kaminski WE, Neumaier M, Schoenberg SO, Fink C. Pulmonary embolism: CT signs and cardiac biomarkers for predicting right ventricular dysfunction. Eur Respir J. 2012 Apr;39(4):919-26. \[[PubMed: 21965223](https://pubmed.ncbi.nlm.nih.gov/21965223)\]
 
 32.
-    
 
-Meyer T, Binder L, Hruska N, Luthe H, Buchwald AB. Cardiac troponin I elevation in acute pulmonary embolism is associated with right ventricular dysfunction. J Am Coll Cardiol. 2000 Nov 01;36(5):1632-6. [[PubMed: 11079669](https://pubmed.ncbi.nlm.nih.gov/11079669)]
+Meyer T, Binder L, Hruska N, Luthe H, Buchwald AB. Cardiac troponin I elevation in acute pulmonary embolism is associated with right ventricular dysfunction. J Am Coll Cardiol. 2000 Nov 01;36(5):1632-6. \[[PubMed: 11079669](https://pubmed.ncbi.nlm.nih.gov/11079669)\]
 
 33.
-    
 
-Konstantinides S, Geibel A, Olschewski M, Kasper W, Hruska N, Jäckle S, Binder L. Importance of cardiac troponins I and T in risk stratification of patients with acute pulmonary embolism. Circulation. 2002 Sep 03;106(10):1263-8. [[PubMed: 12208803](https://pubmed.ncbi.nlm.nih.gov/12208803)]
+Konstantinides S, Geibel A, Olschewski M, Kasper W, Hruska N, Jäckle S, Binder L. Importance of cardiac troponins I and T in risk stratification of patients with acute pulmonary embolism. Circulation. 2002 Sep 03;106(10):1263-8. \[[PubMed: 12208803](https://pubmed.ncbi.nlm.nih.gov/12208803)\]
 
 34.
-    
 
-Horlander KT, Leeper KV. Troponin levels as a guide to treatment of pulmonary embolism. Curr Opin Pulm Med. 2003 Sep;9(5):374-7. [[PubMed: 12904706](https://pubmed.ncbi.nlm.nih.gov/12904706)]
+Horlander KT, Leeper KV. Troponin levels as a guide to treatment of pulmonary embolism. Curr Opin Pulm Med. 2003 Sep;9(5):374-7. \[[PubMed: 12904706](https://pubmed.ncbi.nlm.nih.gov/12904706)\]
 
 35.
-    
 
-Stein PD, Hull RD, Patel KC, Olson RE, Ghali WA, Brant R, Biel RK, Bharadia V, Kalra NK. D-dimer for the exclusion of acute venous thrombosis and pulmonary embolism: a systematic review. Ann Intern Med. 2004 Apr 20;140(8):589-602. [[PubMed: 15096330](https://pubmed.ncbi.nlm.nih.gov/15096330)]
+Stein PD, Hull RD, Patel KC, Olson RE, Ghali WA, Brant R, Biel RK, Bharadia V, Kalra NK. D-dimer for the exclusion of acute venous thrombosis and pulmonary embolism: a systematic review. Ann Intern Med. 2004 Apr 20;140(8):589-602. \[[PubMed: 15096330](https://pubmed.ncbi.nlm.nih.gov/15096330)\]
 
 36.
-    
 
-Righini M, Van Es J, Den Exter PL, Roy PM, Verschuren F, Ghuysen A, Rutschmann OT, Sanchez O, Jaffrelot M, Trinh-Duc A, Le Gall C, Moustafa F, Principe A, Van Houten AA, Ten Wolde M, Douma RA, Hazelaar G, Erkens PM, Van Kralingen KW, Grootenboers MJ, Durian MF, Cheung YW, Meyer G, Bounameaux H, Huisman MV, Kamphuisen PW, Le Gal G. Age-adjusted D-dimer cutoff levels to rule out pulmonary embolism: the ADJUST-PE study. JAMA. 2014 Mar 19;311(11):1117-24. [[PubMed: 24643601](https://pubmed.ncbi.nlm.nih.gov/24643601)]
+Righini M, Van Es J, Den Exter PL, Roy PM, Verschuren F, Ghuysen A, Rutschmann OT, Sanchez O, Jaffrelot M, Trinh-Duc A, Le Gall C, Moustafa F, Principe A, Van Houten AA, Ten Wolde M, Douma RA, Hazelaar G, Erkens PM, Van Kralingen KW, Grootenboers MJ, Durian MF, Cheung YW, Meyer G, Bounameaux H, Huisman MV, Kamphuisen PW, Le Gal G. Age-adjusted D-dimer cutoff levels to rule out pulmonary embolism: the ADJUST-PE study. JAMA. 2014 Mar 19;311(11):1117-24. \[[PubMed: 24643601](https://pubmed.ncbi.nlm.nih.gov/24643601)\]
 
 37.
-    
 
-Rodger M, Makropoulos D, Turek M, Quevillon J, Raymond F, Rasuli P, Wells PS. Diagnostic value of the electrocardiogram in suspected pulmonary embolism. Am J Cardiol. 2000 Oct 01;86(7):807-9, A10. [[PubMed: 11018210](https://pubmed.ncbi.nlm.nih.gov/11018210)]
+Rodger M, Makropoulos D, Turek M, Quevillon J, Raymond F, Rasuli P, Wells PS. Diagnostic value of the electrocardiogram in suspected pulmonary embolism. Am J Cardiol. 2000 Oct 01;86(7):807-9, A10. \[[PubMed: 11018210](https://pubmed.ncbi.nlm.nih.gov/11018210)\]
 
 38.
-    
 
-Bird SH, Leng RA. Further studies on the effects of the presence or absence of protozoa in the rumen on live-weight gain and wool growth of sheep. Br J Nutr. 1984 Nov;52(3):607-11. [[PubMed: 6498151](https://pubmed.ncbi.nlm.nih.gov/6498151)]
+Bird SH, Leng RA. Further studies on the effects of the presence or absence of protozoa in the rumen on live-weight gain and wool growth of sheep. Br J Nutr. 1984 Nov;52(3):607-11. \[[PubMed: 6498151](https://pubmed.ncbi.nlm.nih.gov/6498151)\]
 
 39.
-    
 
-Worsley DF, Alavi A, Aronchick JM, Chen JT, Greenspan RH, Ravin CE. Chest radiographic findings in patients with acute pulmonary embolism: observations from the PIOPED Study. Radiology. 1993 Oct;189(1):133-6. [[PubMed: 8372182](https://pubmed.ncbi.nlm.nih.gov/8372182)]
+Worsley DF, Alavi A, Aronchick JM, Chen JT, Greenspan RH, Ravin CE. Chest radiographic findings in patients with acute pulmonary embolism: observations from the PIOPED Study. Radiology. 1993 Oct;189(1):133-6. \[[PubMed: 8372182](https://pubmed.ncbi.nlm.nih.gov/8372182)\]
 
 40.
-    
 
-Ghaye B, Szapiro D, Mastora I, Delannoy V, Duhamel A, Remy J, Remy-Jardin M. Peripheral pulmonary arteries: how far in the lung does multi-detector row spiral CT allow analysis? Radiology. 2001 Jun;219(3):629-36. [[PubMed: 11376246](https://pubmed.ncbi.nlm.nih.gov/11376246)]
+Ghaye B, Szapiro D, Mastora I, Delannoy V, Duhamel A, Remy J, Remy-Jardin M. Peripheral pulmonary arteries: how far in the lung does multi-detector row spiral CT allow analysis? Radiology. 2001 Jun;219(3):629-36. \[[PubMed: 11376246](https://pubmed.ncbi.nlm.nih.gov/11376246)\]
 
 41.
-    
 
-Stein PD, Fowler SE, Goodman LR, Gottschalk A, Hales CA, Hull RD, Leeper KV, Popovich J, Quinn DA, Sos TA, Sostman HD, Tapson VF, Wakefield TW, Weg JG, Woodard PK., PIOPED II Investigators. Multidetector computed tomography for acute pulmonary embolism. N Engl J Med. 2006 Jun 01;354(22):2317-27. [[PubMed: 16738268](https://pubmed.ncbi.nlm.nih.gov/16738268)]
+Stein PD, Fowler SE, Goodman LR, Gottschalk A, Hales CA, Hull RD, Leeper KV, Popovich J, Quinn DA, Sos TA, Sostman HD, Tapson VF, Wakefield TW, Weg JG, Woodard PK., PIOPED II Investigators. Multidetector computed tomography for acute pulmonary embolism. N Engl J Med. 2006 Jun 01;354(22):2317-27. \[[PubMed: 16738268](https://pubmed.ncbi.nlm.nih.gov/16738268)\]
 
 42.
-    
 
-Revel MP, Triki R, Chatellier G, Couchon S, Haddad N, Hernigou A, Danel C, Frija G. Is It possible to recognize pulmonary infarction on multisection CT images? Radiology. 2007 Sep;244(3):875-82. [[PubMed: 17709834](https://pubmed.ncbi.nlm.nih.gov/17709834)]
+Revel MP, Triki R, Chatellier G, Couchon S, Haddad N, Hernigou A, Danel C, Frija G. Is It possible to recognize pulmonary infarction on multisection CT images? Radiology. 2007 Sep;244(3):875-82. \[[PubMed: 17709834](https://pubmed.ncbi.nlm.nih.gov/17709834)\]
 
 43.
-    
 
-Becattini C, Agnelli G, Vedovati MC, Pruszczyk P, Casazza F, Grifoni S, Salvi A, Bianchi M, Douma R, Konstantinides S, Lankeit M, Duranti M. Multidetector computed tomography for acute pulmonary embolism: diagnosis and risk stratification in a single test. Eur Heart J. 2011 Jul;32(13):1657-63. [[PubMed: 21504936](https://pubmed.ncbi.nlm.nih.gov/21504936)]
+Becattini C, Agnelli G, Vedovati MC, Pruszczyk P, Casazza F, Grifoni S, Salvi A, Bianchi M, Douma R, Konstantinides S, Lankeit M, Duranti M. Multidetector computed tomography for acute pulmonary embolism: diagnosis and risk stratification in a single test. Eur Heart J. 2011 Jul;32(13):1657-63. \[[PubMed: 21504936](https://pubmed.ncbi.nlm.nih.gov/21504936)\]
 
 44.
-    
 
-Reid JH, Coche EE, Inoue T, Kim EE, Dondi M, Watanabe N, Mariani G., International Atomic Energy Agency Consultants' Group. Is the lung scan alive and well? Facts and controversies in defining the role of lung scintigraphy for the diagnosis of pulmonary embolism in the era of MDCT. Eur J Nucl Med Mol Imaging. 2009 Mar;36(3):505-21. [[PubMed: 19172269](https://pubmed.ncbi.nlm.nih.gov/19172269)]
+Reid JH, Coche EE, Inoue T, Kim EE, Dondi M, Watanabe N, Mariani G., International Atomic Energy Agency Consultants' Group. Is the lung scan alive and well? Facts and controversies in defining the role of lung scintigraphy for the diagnosis of pulmonary embolism in the era of MDCT. Eur J Nucl Med Mol Imaging. 2009 Mar;36(3):505-21. \[[PubMed: 19172269](https://pubmed.ncbi.nlm.nih.gov/19172269)\]
 
 45.
-    
 
-Glaser JE, Chamarthy M, Haramati LB, Esses D, Freeman LM. Successful and safe implementation of a trinary interpretation and reporting strategy for V/Q lung scintigraphy. J Nucl Med. 2011 Oct;52(10):1508-12. [[PubMed: 21803837](https://pubmed.ncbi.nlm.nih.gov/21803837)]
+Glaser JE, Chamarthy M, Haramati LB, Esses D, Freeman LM. Successful and safe implementation of a trinary interpretation and reporting strategy for V/Q lung scintigraphy. J Nucl Med. 2011 Oct;52(10):1508-12. \[[PubMed: 21803837](https://pubmed.ncbi.nlm.nih.gov/21803837)\]
 
 46.
-    
 
-Anderson DR, Kahn SR, Rodger MA, Kovacs MJ, Morris T, Hirsch A, Lang E, Stiell I, Kovacs G, Dreyer J, Dennie C, Cartier Y, Barnes D, Burton E, Pleasance S, Skedgel C, O'Rouke K, Wells PS. Computed tomographic pulmonary angiography vs ventilation-perfusion lung scanning in patients with suspected pulmonary embolism: a randomized controlled trial. JAMA. 2007 Dec 19;298(23):2743-53. [[PubMed: 18165667](https://pubmed.ncbi.nlm.nih.gov/18165667)]
+Anderson DR, Kahn SR, Rodger MA, Kovacs MJ, Morris T, Hirsch A, Lang E, Stiell I, Kovacs G, Dreyer J, Dennie C, Cartier Y, Barnes D, Burton E, Pleasance S, Skedgel C, O'Rouke K, Wells PS. Computed tomographic pulmonary angiography vs ventilation-perfusion lung scanning in patients with suspected pulmonary embolism: a randomized controlled trial. JAMA. 2007 Dec 19;298(23):2743-53. \[[PubMed: 18165667](https://pubmed.ncbi.nlm.nih.gov/18165667)\]
 
 47.
-    
 
-Sostman HD, Stein PD, Gottschalk A, Matta F, Hull R, Goodman L. Acute pulmonary embolism: sensitivity and specificity of ventilation-perfusion scintigraphy in PIOPED II study. Radiology. 2008 Mar;246(3):941-6. [[PubMed: 18195380](https://pubmed.ncbi.nlm.nih.gov/18195380)]
+Sostman HD, Stein PD, Gottschalk A, Matta F, Hull R, Goodman L. Acute pulmonary embolism: sensitivity and specificity of ventilation-perfusion scintigraphy in PIOPED II study. Radiology. 2008 Mar;246(3):941-6. \[[PubMed: 18195380](https://pubmed.ncbi.nlm.nih.gov/18195380)\]
 
 48.
-    
 
-PIOPED Investigators. Value of the ventilation/perfusion scan in acute pulmonary embolism. Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED). JAMA. 1990 May 23-30;263(20):2753-9. [[PubMed: 2332918](https://pubmed.ncbi.nlm.nih.gov/2332918)]
+PIOPED Investigators. Value of the ventilation/perfusion scan in acute pulmonary embolism. Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED). JAMA. 1990 May 23-30;263(20):2753-9. \[[PubMed: 2332918](https://pubmed.ncbi.nlm.nih.gov/2332918)\]
 
 49.
-    
 
-Wittram C, Waltman AC, Shepard JA, Halpern E, Goodman LR. Discordance between CT and angiography in the PIOPED II study. Radiology. 2007 Sep;244(3):883-9. [[PubMed: 17664436](https://pubmed.ncbi.nlm.nih.gov/17664436)]
+Wittram C, Waltman AC, Shepard JA, Halpern E, Goodman LR. Discordance between CT and angiography in the PIOPED II study. Radiology. 2007 Sep;244(3):883-9. \[[PubMed: 17664436](https://pubmed.ncbi.nlm.nih.gov/17664436)\]
 
 50.
-    
 
-Stein PD, Chenevert TL, Fowler SE, Goodman LR, Gottschalk A, Hales CA, Hull RD, Jablonski KA, Leeper KV, Naidich DP, Sak DJ, Sostman HD, Tapson VF, Weg JG, Woodard PK., PIOPED III (Prospective Investigation of Pulmonary Embolism Diagnosis III) Investigators. Gadolinium-enhanced magnetic resonance angiography for pulmonary embolism: a multicenter prospective study (PIOPED III). Ann Intern Med. 2010 Apr 06;152(7):434-43, W142-3. [[PMC free article: PMC3138428](/pmc/articles/PMC3138428/)] [[PubMed: 20368649](https://pubmed.ncbi.nlm.nih.gov/20368649)]
+Stein PD, Chenevert TL, Fowler SE, Goodman LR, Gottschalk A, Hales CA, Hull RD, Jablonski KA, Leeper KV, Naidich DP, Sak DJ, Sostman HD, Tapson VF, Weg JG, Woodard PK., PIOPED III (Prospective Investigation of Pulmonary Embolism Diagnosis III) Investigators. Gadolinium-enhanced magnetic resonance angiography for pulmonary embolism: a multicenter prospective study (PIOPED III). Ann Intern Med. 2010 Apr 06;152(7):434-43, W142-3. \[[PMC free article: PMC3138428](/pmc/articles/PMC3138428/)\] \[[PubMed: 20368649](https://pubmed.ncbi.nlm.nih.gov/20368649)\]
 
 51.
-    
 
-Grifoni S, Olivotto I, Cecchini P, Pieralli F, Camaiti A, Santoro G, Conti A, Agnelli G, Berni G. Short-term clinical outcome of patients with acute pulmonary embolism, normal blood pressure, and echocardiographic right ventricular dysfunction. Circulation. 2000 Jun 20;101(24):2817-22. [[PubMed: 10859287](https://pubmed.ncbi.nlm.nih.gov/10859287)]
+Grifoni S, Olivotto I, Cecchini P, Pieralli F, Camaiti A, Santoro G, Conti A, Agnelli G, Berni G. Short-term clinical outcome of patients with acute pulmonary embolism, normal blood pressure, and echocardiographic right ventricular dysfunction. Circulation. 2000 Jun 20;101(24):2817-22. \[[PubMed: 10859287](https://pubmed.ncbi.nlm.nih.gov/10859287)\]
 
 52.
-    
 
-Torbicki A, Kurzyna M, Ciurzynski M, Pruszczyk P, Pacho R, Kuch-Wocial A, Szulc M. Proximal pulmonary emboli modify right ventricular ejection pattern. Eur Respir J. 1999 Mar;13(3):616-21. [[PubMed: 10232436](https://pubmed.ncbi.nlm.nih.gov/10232436)]
+Torbicki A, Kurzyna M, Ciurzynski M, Pruszczyk P, Pacho R, Kuch-Wocial A, Szulc M. Proximal pulmonary emboli modify right ventricular ejection pattern. Eur Respir J. 1999 Mar;13(3):616-21. \[[PubMed: 10232436](https://pubmed.ncbi.nlm.nih.gov/10232436)\]
 
 53.
-    
 
-Bova C, Greco F, Misuraca G, Serafini O, Crocco F, Greco A, Noto A. Diagnostic utility of echocardiography in patients with suspected pulmonary embolism. Am J Emerg Med. 2003 May;21(3):180-3. [[PubMed: 12811708](https://pubmed.ncbi.nlm.nih.gov/12811708)]
+Bova C, Greco F, Misuraca G, Serafini O, Crocco F, Greco A, Noto A. Diagnostic utility of echocardiography in patients with suspected pulmonary embolism. Am J Emerg Med. 2003 May;21(3):180-3. \[[PubMed: 12811708](https://pubmed.ncbi.nlm.nih.gov/12811708)\]
 
 54.
-    
 
-Wolfe MW, Lee RT, Feldstein ML, Parker JA, Come PC, Goldhaber SZ. Prognostic significance of right ventricular hypokinesis and perfusion lung scan defects in pulmonary embolism. Am Heart J. 1994 May;127(5):1371-5. [[PubMed: 8172067](https://pubmed.ncbi.nlm.nih.gov/8172067)]
+Wolfe MW, Lee RT, Feldstein ML, Parker JA, Come PC, Goldhaber SZ. Prognostic significance of right ventricular hypokinesis and perfusion lung scan defects in pulmonary embolism. Am Heart J. 1994 May;127(5):1371-5. \[[PubMed: 8172067](https://pubmed.ncbi.nlm.nih.gov/8172067)\]
 
 55.
-    
 
-Kurzyna M, Torbicki A, Pruszczyk P, Burakowska B, Fijałkowska A, Kober J, Oniszh K, Kuca P, Tomkowski W, Burakowski J, Wawrzyńska L. Disturbed right ventricular ejection pattern as a new Doppler echocardiographic sign of acute pulmonary embolism. Am J Cardiol. 2002 Sep 01;90(5):507-11. [[PubMed: 12208411](https://pubmed.ncbi.nlm.nih.gov/12208411)]
+Kurzyna M, Torbicki A, Pruszczyk P, Burakowska B, Fijałkowska A, Kober J, Oniszh K, Kuca P, Tomkowski W, Burakowski J, Wawrzyńska L. Disturbed right ventricular ejection pattern as a new Doppler echocardiographic sign of acute pulmonary embolism. Am J Cardiol. 2002 Sep 01;90(5):507-11. \[[PubMed: 12208411](https://pubmed.ncbi.nlm.nih.gov/12208411)\]
 
 56.
-    
 
-Pruszczyk P, Goliszek S, Lichodziejewska B, Kostrubiec M, Ciurzyński M, Kurnicka K, Dzikowska-Diduch O, Palczewski P, Wyzgal A. Prognostic value of echocardiography in normotensive patients with acute pulmonary embolism. JACC Cardiovasc Imaging. 2014 Jun;7(6):553-60. [[PubMed: 24412192](https://pubmed.ncbi.nlm.nih.gov/24412192)]
+Pruszczyk P, Goliszek S, Lichodziejewska B, Kostrubiec M, Ciurzyński M, Kurnicka K, Dzikowska-Diduch O, Palczewski P, Wyzgal A. Prognostic value of echocardiography in normotensive patients with acute pulmonary embolism. JACC Cardiovasc Imaging. 2014 Jun;7(6):553-60. \[[PubMed: 24412192](https://pubmed.ncbi.nlm.nih.gov/24412192)\]
 
 57.
-    
 
-Hull RD, Hirsh J, Carter CJ, Jay RM, Dodd PE, Ockelford PA, Coates G, Gill GJ, Turpie AG, Doyle DJ, Buller HR, Raskob GE. Pulmonary angiography, ventilation lung scanning, and venography for clinically suspected pulmonary embolism with abnormal perfusion lung scan. Ann Intern Med. 1983 Jun;98(6):891-9. [[PubMed: 6859705](https://pubmed.ncbi.nlm.nih.gov/6859705)]
+Hull RD, Hirsh J, Carter CJ, Jay RM, Dodd PE, Ockelford PA, Coates G, Gill GJ, Turpie AG, Doyle DJ, Buller HR, Raskob GE. Pulmonary angiography, ventilation lung scanning, and venography for clinically suspected pulmonary embolism with abnormal perfusion lung scan. Ann Intern Med. 1983 Jun;98(6):891-9. \[[PubMed: 6859705](https://pubmed.ncbi.nlm.nih.gov/6859705)\]
 
 58.
-    
 
-Kearon C, Ginsberg JS, Hirsh J. The role of venous ultrasonography in the diagnosis of suspected deep venous thrombosis and pulmonary embolism. Ann Intern Med. 1998 Dec 15;129(12):1044-9. [[PubMed: 9867760](https://pubmed.ncbi.nlm.nih.gov/9867760)]
+Kearon C, Ginsberg JS, Hirsh J. The role of venous ultrasonography in the diagnosis of suspected deep venous thrombosis and pulmonary embolism. Ann Intern Med. 1998 Dec 15;129(12):1044-9. \[[PubMed: 9867760](https://pubmed.ncbi.nlm.nih.gov/9867760)\]
 
 59.
-    
 
-Le Gal G, Righini M, Sanchez O, Roy PM, Baba-Ahmed M, Perrier A, Bounameaux H. A positive compression ultrasonography of the lower limb veins is highly predictive of pulmonary embolism on computed tomography in suspected patients. Thromb Haemost. 2006 Jun;95(6):963-6. [[PubMed: 16732375](https://pubmed.ncbi.nlm.nih.gov/16732375)]
+Le Gal G, Righini M, Sanchez O, Roy PM, Baba-Ahmed M, Perrier A, Bounameaux H. A positive compression ultrasonography of the lower limb veins is highly predictive of pulmonary embolism on computed tomography in suspected patients. Thromb Haemost. 2006 Jun;95(6):963-6. \[[PubMed: 16732375](https://pubmed.ncbi.nlm.nih.gov/16732375)\]
 
 60.
-    
 
-van Rossum AB, van Houwelingen HC, Kieft GJ, Pattynama PM. Prevalence of deep vein thrombosis in suspected and proven pulmonary embolism: a meta-analysis. Br J Radiol. 1998 Dec;71(852):1260-5. [[PubMed: 10318998](https://pubmed.ncbi.nlm.nih.gov/10318998)]
+van Rossum AB, van Houwelingen HC, Kieft GJ, Pattynama PM. Prevalence of deep vein thrombosis in suspected and proven pulmonary embolism: a meta-analysis. Br J Radiol. 1998 Dec;71(852):1260-5. \[[PubMed: 10318998](https://pubmed.ncbi.nlm.nih.gov/10318998)\]
 
 61.
-    
 
-Wells PS, Ginsberg JS, Anderson DR, Kearon C, Gent M, Turpie AG, Bormanis J, Weitz J, Chamberlain M, Bowie D, Barnes D, Hirsh J. Use of a clinical model for safe management of patients with suspected pulmonary embolism. Ann Intern Med. 1998 Dec 15;129(12):997-1005. [[PubMed: 9867786](https://pubmed.ncbi.nlm.nih.gov/9867786)]
+Wells PS, Ginsberg JS, Anderson DR, Kearon C, Gent M, Turpie AG, Bormanis J, Weitz J, Chamberlain M, Bowie D, Barnes D, Hirsh J. Use of a clinical model for safe management of patients with suspected pulmonary embolism. Ann Intern Med. 1998 Dec 15;129(12):997-1005. \[[PubMed: 9867786](https://pubmed.ncbi.nlm.nih.gov/9867786)\]
 
 62.
-    
 
-Kline JA, Mitchell AM, Kabrhel C, Richman PB, Courtney DM. Clinical criteria to prevent unnecessary diagnostic testing in emergency department patients with suspected pulmonary embolism. J Thromb Haemost. 2004 Aug;2(8):1247-55. [[PubMed: 15304025](https://pubmed.ncbi.nlm.nih.gov/15304025)]
+Kline JA, Mitchell AM, Kabrhel C, Richman PB, Courtney DM. Clinical criteria to prevent unnecessary diagnostic testing in emergency department patients with suspected pulmonary embolism. J Thromb Haemost. 2004 Aug;2(8):1247-55. \[[PubMed: 15304025](https://pubmed.ncbi.nlm.nih.gov/15304025)\]
 
 63.
-    
 
-Coutance G, Cauderlier E, Ehtisham J, Hamon M, Hamon M. The prognostic value of markers of right ventricular dysfunction in pulmonary embolism: a meta-analysis. Crit Care. 2011;15(2):R103. [[PMC free article: PMC3219376](/pmc/articles/PMC3219376/)] [[PubMed: 21443777](https://pubmed.ncbi.nlm.nih.gov/21443777)]
+Coutance G, Cauderlier E, Ehtisham J, Hamon M, Hamon M. The prognostic value of markers of right ventricular dysfunction in pulmonary embolism: a meta-analysis. Crit Care. 2011;15(2):R103. \[[PMC free article: PMC3219376](/pmc/articles/PMC3219376/)\] \[[PubMed: 21443777](https://pubmed.ncbi.nlm.nih.gov/21443777)\]
 
 64.
-    
 
-Hugli O, Righini M, Le Gal G, Roy PM, Sanchez O, Verschuren F, Meyer G, Bounameaux H, Aujesky D. The pulmonary embolism rule-out criteria (PERC) rule does not safely exclude pulmonary embolism. J Thromb Haemost. 2011 Feb;9(2):300-4. [[PubMed: 21091866](https://pubmed.ncbi.nlm.nih.gov/21091866)]
+Hugli O, Righini M, Le Gal G, Roy PM, Sanchez O, Verschuren F, Meyer G, Bounameaux H, Aujesky D. The pulmonary embolism rule-out criteria (PERC) rule does not safely exclude pulmonary embolism. J Thromb Haemost. 2011 Feb;9(2):300-4. \[[PubMed: 21091866](https://pubmed.ncbi.nlm.nih.gov/21091866)\]
 
 65.
-    
 
-Stein PD, Hull RD, Matta F, Yaekoub AY, Liang J. Incidence of thrombocytopenia in hospitalized patients with venous thromboembolism. Am J Med. 2009 Oct;122(10):919-30. [[PubMed: 19682670](https://pubmed.ncbi.nlm.nih.gov/19682670)]
+Stein PD, Hull RD, Matta F, Yaekoub AY, Liang J. Incidence of thrombocytopenia in hospitalized patients with venous thromboembolism. Am J Med. 2009 Oct;122(10):919-30. \[[PubMed: 19682670](https://pubmed.ncbi.nlm.nih.gov/19682670)\]
 
 66.
-    
 
-Cossette B, Pelletier ME, Carrier N, Turgeon M, Leclair C, Charron P, Echenberg D, Fayad T, Farand P. Evaluation of bleeding risk in patients exposed to therapeutic unfractionated or low-molecular-weight heparin: a cohort study in the context of a quality improvement initiative. Ann Pharmacother. 2010 Jun;44(6):994-1002. [[PubMed: 20442353](https://pubmed.ncbi.nlm.nih.gov/20442353)]
+Cossette B, Pelletier ME, Carrier N, Turgeon M, Leclair C, Charron P, Echenberg D, Fayad T, Farand P. Evaluation of bleeding risk in patients exposed to therapeutic unfractionated or low-molecular-weight heparin: a cohort study in the context of a quality improvement initiative. Ann Pharmacother. 2010 Jun;44(6):994-1002. \[[PubMed: 20442353](https://pubmed.ncbi.nlm.nih.gov/20442353)\]
 
 67.
-    
 
-Goldhaber SZ, Haire WD, Feldstein ML, Miller M, Toltzis R, Smith JL, Taveira da Silva AM, Come PC, Lee RT, Parker JA. Alteplase versus heparin in acute pulmonary embolism: randomised trial assessing right-ventricular function and pulmonary perfusion. Lancet. 1993 Feb 27;341(8844):507-11. [[PubMed: 8094768](https://pubmed.ncbi.nlm.nih.gov/8094768)]
+Goldhaber SZ, Haire WD, Feldstein ML, Miller M, Toltzis R, Smith JL, Taveira da Silva AM, Come PC, Lee RT, Parker JA. Alteplase versus heparin in acute pulmonary embolism: randomised trial assessing right-ventricular function and pulmonary perfusion. Lancet. 1993 Feb 27;341(8844):507-11. \[[PubMed: 8094768](https://pubmed.ncbi.nlm.nih.gov/8094768)\]
 
 68.
-    
 
-Dalla-Volta S, Palla A, Santolicandro A, Giuntini C, Pengo V, Visioli O, Zonzin P, Zanuttini D, Barbaresi F, Agnelli G. PAIMS 2: alteplase combined with heparin versus heparin in the treatment of acute pulmonary embolism. Plasminogen activator Italian multicenter study 2. J Am Coll Cardiol. 1992 Sep;20(3):520-6. [[PubMed: 1512328](https://pubmed.ncbi.nlm.nih.gov/1512328)]
+Dalla-Volta S, Palla A, Santolicandro A, Giuntini C, Pengo V, Visioli O, Zonzin P, Zanuttini D, Barbaresi F, Agnelli G. PAIMS 2: alteplase combined with heparin versus heparin in the treatment of acute pulmonary embolism. Plasminogen activator Italian multicenter study 2. J Am Coll Cardiol. 1992 Sep;20(3):520-6. \[[PubMed: 1512328](https://pubmed.ncbi.nlm.nih.gov/1512328)\]
 
 69.
-    
 
-Daniels LB, Parker JA, Patel SR, Grodstein F, Goldhaber SZ. Relation of duration of symptoms with response to thrombolytic therapy in pulmonary embolism. Am J Cardiol. 1997 Jul 15;80(2):184-8. [[PubMed: 9230156](https://pubmed.ncbi.nlm.nih.gov/9230156)]
+Daniels LB, Parker JA, Patel SR, Grodstein F, Goldhaber SZ. Relation of duration of symptoms with response to thrombolytic therapy in pulmonary embolism. Am J Cardiol. 1997 Jul 15;80(2):184-8. \[[PubMed: 9230156](https://pubmed.ncbi.nlm.nih.gov/9230156)\]
 
 70.
-    
 
-Marti C, John G, Konstantinides S, Combescure C, Sanchez O, Lankeit M, Meyer G, Perrier A. Systemic thrombolytic therapy for acute pulmonary embolism: a systematic review and meta-analysis. Eur Heart J. 2015 Mar 07;36(10):605-14. [[PMC free article: PMC4352209](/pmc/articles/PMC4352209/)] [[PubMed: 24917641](https://pubmed.ncbi.nlm.nih.gov/24917641)]
+Marti C, John G, Konstantinides S, Combescure C, Sanchez O, Lankeit M, Meyer G, Perrier A. Systemic thrombolytic therapy for acute pulmonary embolism: a systematic review and meta-analysis. Eur Heart J. 2015 Mar 07;36(10):605-14. \[[PMC free article: PMC4352209](/pmc/articles/PMC4352209/)\] \[[PubMed: 24917641](https://pubmed.ncbi.nlm.nih.gov/24917641)\]
 
 71.
-    
 
-Meyer G, Vicaut E, Danays T, Agnelli G, Becattini C, Beyer-Westendorf J, Bluhmki E, Bouvaist H, Brenner B, Couturaud F, Dellas C, Empen K, Franca A, Galiè N, Geibel A, Goldhaber SZ, Jimenez D, Kozak M, Kupatt C, Kucher N, Lang IM, Lankeit M, Meneveau N, Pacouret G, Palazzini M, Petris A, Pruszczyk P, Rugolotto M, Salvi A, Schellong S, Sebbane M, Sobkowicz B, Stefanovic BS, Thiele H, Torbicki A, Verschuren F, Konstantinides SV., PEITHO Investigators. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med. 2014 Apr 10;370(15):1402-11. [[PubMed: 24716681](https://pubmed.ncbi.nlm.nih.gov/24716681)]
+Meyer G, Vicaut E, Danays T, Agnelli G, Becattini C, Beyer-Westendorf J, Bluhmki E, Bouvaist H, Brenner B, Couturaud F, Dellas C, Empen K, Franca A, Galiè N, Geibel A, Goldhaber SZ, Jimenez D, Kozak M, Kupatt C, Kucher N, Lang IM, Lankeit M, Meneveau N, Pacouret G, Palazzini M, Petris A, Pruszczyk P, Rugolotto M, Salvi A, Schellong S, Sebbane M, Sobkowicz B, Stefanovic BS, Thiele H, Torbicki A, Verschuren F, Konstantinides SV., PEITHO Investigators. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med. 2014 Apr 10;370(15):1402-11. \[[PubMed: 24716681](https://pubmed.ncbi.nlm.nih.gov/24716681)\]
 
 72.
-    
 
-Konstantinides SV, Meyer G, Becattini C, Bueno H, Geersing GJ, Harjola VP, Huisman MV, Humbert M, Jennings CS, Jiménez D, Kucher N, Lang IM, Lankeit M, Lorusso R, Mazzolai L, Meneveau N, Áinle FN, Prandoni P, Pruszczyk P, Righini M, Torbicki A, Van Belle E, Zamorano JL., The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). Eur Respir J. 2019 Sep;54(3) [[PubMed: 31473594](https://pubmed.ncbi.nlm.nih.gov/31473594)]
+Konstantinides SV, Meyer G, Becattini C, Bueno H, Geersing GJ, Harjola VP, Huisman MV, Humbert M, Jennings CS, Jiménez D, Kucher N, Lang IM, Lankeit M, Lorusso R, Mazzolai L, Meneveau N, Áinle FN, Prandoni P, Pruszczyk P, Righini M, Torbicki A, Van Belle E, Zamorano JL., The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). Eur Respir J. 2019 Sep;54(3) \[[PubMed: 31473594](https://pubmed.ncbi.nlm.nih.gov/31473594)\]
 
 73.
-    
 
-Tafur AJ, Shamoun FE, Patel SI, Tafur D, Donna F, Murad MH. Catheter-Directed Treatment of Pulmonary Embolism: A Systematic Review and Meta-Analysis of Modern Literature. Clin Appl Thromb Hemost. 2017 Oct;23(7):821-829. [[PubMed: 27481877](https://pubmed.ncbi.nlm.nih.gov/27481877)]
+Tafur AJ, Shamoun FE, Patel SI, Tafur D, Donna F, Murad MH. Catheter-Directed Treatment of Pulmonary Embolism: A Systematic Review and Meta-Analysis of Modern Literature. Clin Appl Thromb Hemost. 2017 Oct;23(7):821-829. \[[PubMed: 27481877](https://pubmed.ncbi.nlm.nih.gov/27481877)\]
 
 74.
-    
 
-Bajaj NS, Kalra R, Arora P, Ather S, Guichard JL, Lancaster WJ, Patel N, Raman F, Arora G, Al Solaiman F, Clark DT, Dell'Italia LJ, Leesar MA, Davies JE, McGiffin DC, Ahmed MI. Catheter-directed treatment for acute pulmonary embolism: Systematic review and single-arm meta-analyses. Int J Cardiol. 2016 Dec 15;225:128-139. [[PubMed: 27718446](https://pubmed.ncbi.nlm.nih.gov/27718446)]
+Bajaj NS, Kalra R, Arora P, Ather S, Guichard JL, Lancaster WJ, Patel N, Raman F, Arora G, Al Solaiman F, Clark DT, Dell'Italia LJ, Leesar MA, Davies JE, McGiffin DC, Ahmed MI. Catheter-directed treatment for acute pulmonary embolism: Systematic review and single-arm meta-analyses. Int J Cardiol. 2016 Dec 15;225:128-139. \[[PubMed: 27718446](https://pubmed.ncbi.nlm.nih.gov/27718446)\]
 
 75.
-    
 
-Lee T, Itagaki S, Chiang YP, Egorova NN, Adams DH, Chikwe J. Survival and recurrence after acute pulmonary embolism treated with pulmonary embolectomy or thrombolysis in New York State, 1999 to 2013. J Thorac Cardiovasc Surg. 2018 Mar;155(3):1084-1090.e12. [[PubMed: 28942971](https://pubmed.ncbi.nlm.nih.gov/28942971)]
+Lee T, Itagaki S, Chiang YP, Egorova NN, Adams DH, Chikwe J. Survival and recurrence after acute pulmonary embolism treated with pulmonary embolectomy or thrombolysis in New York State, 1999 to 2013. J Thorac Cardiovasc Surg. 2018 Mar;155(3):1084-1090.e12. \[[PubMed: 28942971](https://pubmed.ncbi.nlm.nih.gov/28942971)\]
 
 76.
-    
 
-Keeling WB, Sundt T, Leacche M, Okita Y, Binongo J, Lasajanak Y, Aklog L, Lattouf OM., SPEAR Working Group. Outcomes After Surgical Pulmonary Embolectomy for Acute Pulmonary Embolus: A Multi-Institutional Study. Ann Thorac Surg. 2016 Nov;102(5):1498-1502. [[PubMed: 27373187](https://pubmed.ncbi.nlm.nih.gov/27373187)]
+Keeling WB, Sundt T, Leacche M, Okita Y, Binongo J, Lasajanak Y, Aklog L, Lattouf OM., SPEAR Working Group. Outcomes After Surgical Pulmonary Embolectomy for Acute Pulmonary Embolus: A Multi-Institutional Study. Ann Thorac Surg. 2016 Nov;102(5):1498-1502. \[[PubMed: 27373187](https://pubmed.ncbi.nlm.nih.gov/27373187)\]
 
 77.
-    
 
-Pasrija C, Kronfli A, Rouse M, Raithel M, Bittle GJ, Pousatis S, Ghoreishi M, Gammie JS, Griffith BP, Sanchez PG, Kon ZN. Outcomes after surgical pulmonary embolectomy for acute submassive and massive pulmonary embolism: A single-center experience. J Thorac Cardiovasc Surg. 2018 Mar;155(3):1095-1106.e2. [[PubMed: 29452460](https://pubmed.ncbi.nlm.nih.gov/29452460)]
+Pasrija C, Kronfli A, Rouse M, Raithel M, Bittle GJ, Pousatis S, Ghoreishi M, Gammie JS, Griffith BP, Sanchez PG, Kon ZN. Outcomes after surgical pulmonary embolectomy for acute submassive and massive pulmonary embolism: A single-center experience. J Thorac Cardiovasc Surg. 2018 Mar;155(3):1095-1106.e2. \[[PubMed: 29452460](https://pubmed.ncbi.nlm.nih.gov/29452460)\]
 
 78.
-    
 
-PREPIC Study Group. Eight-year follow-up of patients with permanent vena cava filters in the prevention of pulmonary embolism: the PREPIC (Prevention du Risque d'Embolie Pulmonaire par Interruption Cave) randomized study. Circulation. 2005 Jul 19;112(3):416-22. [[PubMed: 16009794](https://pubmed.ncbi.nlm.nih.gov/16009794)]
+PREPIC Study Group. Eight-year follow-up of patients with permanent vena cava filters in the prevention of pulmonary embolism: the PREPIC (Prevention du Risque d'Embolie Pulmonaire par Interruption Cave) randomized study. Circulation. 2005 Jul 19;112(3):416-22. \[[PubMed: 16009794](https://pubmed.ncbi.nlm.nih.gov/16009794)\]
 
 79.
-    
 
-Agnelli G, Prandoni P, Becattini C, Silingardi M, Taliani MR, Miccio M, Imberti D, Poggio R, Ageno W, Pogliani E, Porro F, Zonzin P., Warfarin Optimal Duration Italian Trial Investigators. Extended oral anticoagulant therapy after a first episode of pulmonary embolism. Ann Intern Med. 2003 Jul 01;139(1):19-25. [[PubMed: 12834314](https://pubmed.ncbi.nlm.nih.gov/12834314)]
+Agnelli G, Prandoni P, Becattini C, Silingardi M, Taliani MR, Miccio M, Imberti D, Poggio R, Ageno W, Pogliani E, Porro F, Zonzin P., Warfarin Optimal Duration Italian Trial Investigators. Extended oral anticoagulant therapy after a first episode of pulmonary embolism. Ann Intern Med. 2003 Jul 01;139(1):19-25. \[[PubMed: 12834314](https://pubmed.ncbi.nlm.nih.gov/12834314)\]
 
 80.
-    
 
-Campbell IA, Bentley DP, Prescott RJ, Routledge PA, Shetty HG, Williamson IJ. Anticoagulation for three versus six months in patients with deep vein thrombosis or pulmonary embolism, or both: randomised trial. BMJ. 2007 Mar 31;334(7595):674. [[PMC free article: PMC1839169](/pmc/articles/PMC1839169/)] [[PubMed: 17289685](https://pubmed.ncbi.nlm.nih.gov/17289685)]
+Campbell IA, Bentley DP, Prescott RJ, Routledge PA, Shetty HG, Williamson IJ. Anticoagulation for three versus six months in patients with deep vein thrombosis or pulmonary embolism, or both: randomised trial. BMJ. 2007 Mar 31;334(7595):674. \[[PMC free article: PMC1839169](/pmc/articles/PMC1839169/)\] \[[PubMed: 17289685](https://pubmed.ncbi.nlm.nih.gov/17289685)\]
 
 81.
-    
 
-Schulman S, Rhedin AS, Lindmarker P, Carlsson A, Lärfars G, Nicol P, Loogna E, Svensson E, Ljungberg B, Walter H. A comparison of six weeks with six months of oral anticoagulant therapy after a first episode of venous thromboembolism. Duration of Anticoagulation Trial Study Group. N Engl J Med. 1995 Jun 22;332(25):1661-5. [[PubMed: 7760866](https://pubmed.ncbi.nlm.nih.gov/7760866)]
+Schulman S, Rhedin AS, Lindmarker P, Carlsson A, Lärfars G, Nicol P, Loogna E, Svensson E, Ljungberg B, Walter H. A comparison of six weeks with six months of oral anticoagulant therapy after a first episode of venous thromboembolism. Duration of Anticoagulation Trial Study Group. N Engl J Med. 1995 Jun 22;332(25):1661-5. \[[PubMed: 7760866](https://pubmed.ncbi.nlm.nih.gov/7760866)\]
 
 82.
-    
 
-Boutitie F, Pinede L, Schulman S, Agnelli G, Raskob G, Julian J, Hirsh J, Kearon C. Influence of preceding length of anticoagulant treatment and initial presentation of venous thromboembolism on risk of recurrence after stopping treatment: analysis of individual participants' data from seven trials. BMJ. 2011 May 24;342:d3036. [[PMC free article: PMC3100759](/pmc/articles/PMC3100759/)] [[PubMed: 21610040](https://pubmed.ncbi.nlm.nih.gov/21610040)]
+Boutitie F, Pinede L, Schulman S, Agnelli G, Raskob G, Julian J, Hirsh J, Kearon C. Influence of preceding length of anticoagulant treatment and initial presentation of venous thromboembolism on risk of recurrence after stopping treatment: analysis of individual participants' data from seven trials. BMJ. 2011 May 24;342:d3036. \[[PMC free article: PMC3100759](/pmc/articles/PMC3100759/)\] \[[PubMed: 21610040](https://pubmed.ncbi.nlm.nih.gov/21610040)\]
 
 83.
-    
 
-Poli D, Miniati M. The incidence of recurrent venous thromboembolism and chronic thromboembolic pulmonary hypertension following a first episode of pulmonary embolism. Curr Opin Pulm Med. 2011 Sep;17(5):392-7. [[PubMed: 21743331](https://pubmed.ncbi.nlm.nih.gov/21743331)]
+Poli D, Miniati M. The incidence of recurrent venous thromboembolism and chronic thromboembolic pulmonary hypertension following a first episode of pulmonary embolism. Curr Opin Pulm Med. 2011 Sep;17(5):392-7. \[[PubMed: 21743331](https://pubmed.ncbi.nlm.nih.gov/21743331)\]
 
 84.
-    
 
-Young AM, Marshall A, Thirlwall J, Chapman O, Lokare A, Hill C, Hale D, Dunn JA, Lyman GH, Hutchinson C, MacCallum P, Kakkar A, Hobbs FDR, Petrou S, Dale J, Poole CJ, Maraveyas A, Levine M. Comparison of an Oral Factor Xa Inhibitor With Low Molecular Weight Heparin in Patients With Cancer With Venous Thromboembolism: Results of a Randomized Trial (SELECT-D). J Clin Oncol. 2018 Jul 10;36(20):2017-2023. [[PubMed: 29746227](https://pubmed.ncbi.nlm.nih.gov/29746227)]
+Young AM, Marshall A, Thirlwall J, Chapman O, Lokare A, Hill C, Hale D, Dunn JA, Lyman GH, Hutchinson C, MacCallum P, Kakkar A, Hobbs FDR, Petrou S, Dale J, Poole CJ, Maraveyas A, Levine M. Comparison of an Oral Factor Xa Inhibitor With Low Molecular Weight Heparin in Patients With Cancer With Venous Thromboembolism: Results of a Randomized Trial (SELECT-D). J Clin Oncol. 2018 Jul 10;36(20):2017-2023. \[[PubMed: 29746227](https://pubmed.ncbi.nlm.nih.gov/29746227)\]
 
 85.
-    
 
-Rezende SM. Barriers in the diagnosis of pulmonary embolism. Lancet Haematol. 2023 Jan;10(1):e11. [[PubMed: 36566044](https://pubmed.ncbi.nlm.nih.gov/36566044)]
+Rezende SM. Barriers in the diagnosis of pulmonary embolism. Lancet Haematol. 2023 Jan;10(1):e11. \[[PubMed: 36566044](https://pubmed.ncbi.nlm.nih.gov/36566044)\]
 
 86.
-    
 
-Chengsupanimit T, Sundaram B, Lau WB, Keith SW, Kane GC. Clinical characteristics of patients with pulmonary infarction - A retrospective review. Respir Med. 2018 Jun;139:13-18. [[PubMed: 29857996](https://pubmed.ncbi.nlm.nih.gov/29857996)]
+Chengsupanimit T, Sundaram B, Lau WB, Keith SW, Kane GC. Clinical characteristics of patients with pulmonary infarction - A retrospective review. Respir Med. 2018 Jun;139:13-18. \[[PubMed: 29857996](https://pubmed.ncbi.nlm.nih.gov/29857996)\]
 
 87.
-    
 
-Aujesky D, Obrosky DS, Stone RA, Auble TE, Perrier A, Cornuz J, Roy PM, Fine MJ. Derivation and validation of a prognostic model for pulmonary embolism. Am J Respir Crit Care Med. 2005 Oct 15;172(8):1041-6. [[PMC free article: PMC2718410](/pmc/articles/PMC2718410/)] [[PubMed: 16020800](https://pubmed.ncbi.nlm.nih.gov/16020800)]
+Aujesky D, Obrosky DS, Stone RA, Auble TE, Perrier A, Cornuz J, Roy PM, Fine MJ. Derivation and validation of a prognostic model for pulmonary embolism. Am J Respir Crit Care Med. 2005 Oct 15;172(8):1041-6. \[[PMC free article: PMC2718410](/pmc/articles/PMC2718410/)\] \[[PubMed: 16020800](https://pubmed.ncbi.nlm.nih.gov/16020800)\]
 
 88.
-    
 
-Jiménez D, Aujesky D, Moores L, Gómez V, Lobo JL, Uresandi F, Otero R, Monreal M, Muriel A, Yusen RD., RIETE Investigators. Simplification of the pulmonary embolism severity index for prognostication in patients with acute symptomatic pulmonary embolism. Arch Intern Med. 2010 Aug 09;170(15):1383-9. [[PubMed: 20696966](https://pubmed.ncbi.nlm.nih.gov/20696966)]
+Jiménez D, Aujesky D, Moores L, Gómez V, Lobo JL, Uresandi F, Otero R, Monreal M, Muriel A, Yusen RD., RIETE Investigators. Simplification of the pulmonary embolism severity index for prognostication in patients with acute symptomatic pulmonary embolism. Arch Intern Med. 2010 Aug 09;170(15):1383-9. \[[PubMed: 20696966](https://pubmed.ncbi.nlm.nih.gov/20696966)\]
 
 89.
-    
 
-Goliszek S, Wiśniewska M, Kurnicka K, Lichodziejewska B, Ciurzyński M, Kostrubiec M, Gołębiowski M, Babiuch M, Paczynska M, Koć M, Palczewski P, Wyzgał A, Pruszczyk P. Patent foramen ovale increases the risk of acute ischemic stroke in patients with acute pulmonary embolism leading to right ventricular dysfunction. Thromb Res. 2014 Nov;134(5):1052-6. [[PubMed: 25282541](https://pubmed.ncbi.nlm.nih.gov/25282541)]
+Goliszek S, Wiśniewska M, Kurnicka K, Lichodziejewska B, Ciurzyński M, Kostrubiec M, Gołębiowski M, Babiuch M, Paczynska M, Koć M, Palczewski P, Wyzgał A, Pruszczyk P. Patent foramen ovale increases the risk of acute ischemic stroke in patients with acute pulmonary embolism leading to right ventricular dysfunction. Thromb Res. 2014 Nov;134(5):1052-6. \[[PubMed: 25282541](https://pubmed.ncbi.nlm.nih.gov/25282541)\]
 
 90.
-    
 
-Sista AK, Miller LE, Kahn SR, Kline JA. Persistent right ventricular dysfunction, functional capacity limitation, exercise intolerance, and quality of life impairment following pulmonary embolism: Systematic review with meta-analysis. Vasc Med. 2017 Feb;22(1):37-43. [[PubMed: 27707980](https://pubmed.ncbi.nlm.nih.gov/27707980)]
+Sista AK, Miller LE, Kahn SR, Kline JA. Persistent right ventricular dysfunction, functional capacity limitation, exercise intolerance, and quality of life impairment following pulmonary embolism: Systematic review with meta-analysis. Vasc Med. 2017 Feb;22(1):37-43. \[[PubMed: 27707980](https://pubmed.ncbi.nlm.nih.gov/27707980)\]
 
 91.
-    
 
-Højen AA, Nielsen PB, Overvad TF, Albertsen IE, Klok FA, Rolving N, Søgaard M, Ording AG. Long-Term Management of Pulmonary Embolism: A Review of Consequences, Treatment, and Rehabilitation. J Clin Med. 2022 Oct 10;11(19) [[PMC free article: PMC9571065](/pmc/articles/PMC9571065/)] [[PubMed: 36233833](https://pubmed.ncbi.nlm.nih.gov/36233833)]
-
-    
+Højen AA, Nielsen PB, Overvad TF, Albertsen IE, Klok FA, Rolving N, Søgaard M, Ording AG. Long-Term Management of Pulmonary Embolism: A Review of Consequences, Treatment, and Rehabilitation. J Clin Med. 2022 Oct 10;11(19) \[[PMC free article: PMC9571065](/pmc/articles/PMC9571065/)\] \[[PubMed: 36233833](https://pubmed.ncbi.nlm.nih.gov/36233833)\]
 
 **Disclosure:** Vrinda Vyas declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Abdulghani Sankari declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Amandeep Goyal declares no relevant financial relationships with ineligible companies.

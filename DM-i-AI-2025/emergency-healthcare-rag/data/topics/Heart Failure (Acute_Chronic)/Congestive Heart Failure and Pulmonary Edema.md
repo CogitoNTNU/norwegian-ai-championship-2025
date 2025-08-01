@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19880/
-scraped_date: 2025-07-22 12:34:55 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19880/ scraped_date: 2025-07-22 12:34:55 UTC
 
 # Congestive Heart Failure and Pulmonary Edema
 
@@ -29,13 +28,13 @@ In this course, healthcare professionals enhance their competence in recognizing
 
 **Objectives:**
 
-  * Identify the early signs and symptoms of heart failure, including dyspnea, fatigue, and fluid retention.
+- Identify the early signs and symptoms of heart failure, including dyspnea, fatigue, and fluid retention.
 
-  * Differentiate between heart failure with reduced ejection fraction and heart failure with preserved ejection fraction based on clinical and echocardiographic findings.
+- Differentiate between heart failure with reduced ejection fraction and heart failure with preserved ejection fraction based on clinical and echocardiographic findings.
 
-  * Screen high-risk individuals, such as those with hypertension or coronary artery disease, for the potential development of heart failure.
+- Screen high-risk individuals, such as those with hypertension or coronary artery disease, for the potential development of heart failure.
 
-  * Communicate interprofessional team strategies for improving care coordination and communication to advance the treatment and management of heart failure to improve patient outcomes.
+- Communicate interprofessional team strategies for improving care coordination and communication to advance the treatment and management of heart failure to improve patient outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19880&utm_source=pubmed&utm_campaign=reviews&utm_content=19880)
 
@@ -53,61 +52,61 @@ In the United States, there are many causes of heart failure—the most common o
 
 **Risk Factors for Heart Failure**
 
-  * Coronary artery disease (CAD)
+- Coronary artery disease (CAD)
 
-  * Connective tissue disorders (ie, rheumatoid arthritis, scleroderma, systemic lupus erythematosus)
+- Connective tissue disorders (ie, rheumatoid arthritis, scleroderma, systemic lupus erythematosus)
 
-  * Endocrine disorders (ie, diabetes mellitus, thyroid function disorders, growth hormone deficiency)
+- Endocrine disorders (ie, diabetes mellitus, thyroid function disorders, growth hormone deficiency)
 
-  * Hypertension
+- Hypertension
 
-  * High-output conditions (ie, anemia, Paget disease)
+- High-output conditions (ie, anemia, Paget disease)
 
-  * Valvular heart disease
+- Valvular heart disease
 
-  * Metabolic causes (ie, obesity)
+- Metabolic causes (ie, obesity)
 
-  * Myocarditis (ie, secondary to human immunodeficiency virus and acquired immunodeficiency syndrome, medications, or viruses)
+- Myocarditis (ie, secondary to human immunodeficiency virus and acquired immunodeficiency syndrome, medications, or viruses)
 
-  * Infiltrative disorders (ie, amyloidosis, sarcoidosis)
+- Infiltrative disorders (ie, amyloidosis, sarcoidosis)
 
-  * Peripartum cardiomyopathy
+- Peripartum cardiomyopathy
 
-  * Stress cardiomyopathy (Takotsubo)
+- Stress cardiomyopathy (Takotsubo)
 
-  * Valvular heart disease
+- Valvular heart disease
 
-  * Medications (ie, amphetamines, anabolic steroids)
+- Medications (ie, amphetamines, anabolic steroids)
 
-  * Tachycardia induced cardiomyopathy
+- Tachycardia induced cardiomyopathy
 
-  * Toxins (ie, cocaine, alcohol)
+- Toxins (ie, cocaine, alcohol)
 
-  * Nutritional deficiency (ie, L-carnitine deficiency, thiamine) [1]
+- Nutritional deficiency (ie, L-carnitine deficiency, thiamine) [1]
 
 **Risk Factors for Acute Heart Failure and Flash Pulmonary Edema**
 
-Acute heart**** failure is the worsening of heart failure symptoms to the point that the patient requires intensification of therapy and intravenous treatment. Acute heart failure can be dramatic and rapid in onset, such as flash pulmonary edema, or more gradual with the worsening of symptoms over time until a critical point of decompensation is reached. For those with a history of preexisting heart failure, there is often a clear trigger for decompensation.[3][4]
+Acute heart\*\*\*\* failure is the worsening of heart failure symptoms to the point that the patient requires intensification of therapy and intravenous treatment. Acute heart failure can be dramatic and rapid in onset, such as flash pulmonary edema, or more gradual with the worsening of symptoms over time until a critical point of decompensation is reached. For those with a history of preexisting heart failure, there is often a clear trigger for decompensation.[3][4]
 
 **Potential Triggers of Acute Decompensated Heart Failure and Flash Pulmonary Edema**
 
-  * Arrhythmia
+- Arrhythmia
 
-  * CAD
+- CAD
 
-  * Infection
+- Infection
 
-  * Worsening hypertension (ie, hypertensive crisis)
+- Worsening hypertension (ie, hypertensive crisis)
 
-  * Medication non-adherence
+- Medication non-adherence
 
-  * Acute renal artery stenosis
+- Acute renal artery stenosis
 
-  * Left ventricular diastolic dysfunction
+- Left ventricular diastolic dysfunction
 
-  * Obstructive sleep apnea
+- Obstructive sleep apnea
 
-  * Stress (Takotsubo) cardiomyopathy [3][4]
+- Stress (Takotsubo) cardiomyopathy [3][4]
 
 ## Epidemiology
 
@@ -117,11 +116,11 @@ The lifetime risk of developing heart failure for those 40 and older residing in
 
 **Heart Failure Statistics**
 
-  * Heart failure survival has improved over time, yet the absolute 5-year mortality rates from diagnosis for heart failure have remained at 50%
+- Heart failure survival has improved over time, yet the absolute 5-year mortality rates from diagnosis for heart failure have remained at 50%
 
-  * Heart failure is the number 1 diagnosis among all hospitalizations, and the cost of annual heart failure care exceeds $30 billion every year.
+- Heart failure is the number 1 diagnosis among all hospitalizations, and the cost of annual heart failure care exceeds $30 billion every year.
 
-  * Most of the cost spent on heart failure patients is for hospitalizations and readmissions.[1]
+- Most of the cost spent on heart failure patients is for hospitalizations and readmissions.[1]
 
 **Acute Heart Failure**
 
@@ -135,57 +134,59 @@ Heart failure can arise from various cardiovascular or metabolic abnormalities. 
 
 Heart failure is predominately a clinical diagnosis. The presentation of heart failure may vary based on each patient; therefore, it is essential to consider the following during the history and physical:
 
-  * **History:** If the patient has a history of past heart failure, ask if this is the same presentation as when they had previous episodes of heart failure or an acute decompensation.
+- **History:** If the patient has a history of past heart failure, ask if this is the same presentation as when they had previous episodes of heart failure or an acute decompensation.
 
-  * **Symptom Causes:** Consider noncardiac and other causes of the patient's symptoms, as it is important to ensure a broad differential diagnosis and avoid anchoring bias, premature closer, and diagnostic inertia.
+- **Symptom Causes:** Consider noncardiac and other causes of the patient's symptoms, as it is important to ensure a broad differential diagnosis and avoid anchoring bias, premature closer, and diagnostic inertia.
 
-  * **Heart failure symptoms:**
-    * Increasing dyspnea (on exertion, on lying flat or at rest, exercise intolerance)
+- **Heart failure symptoms:**
 
-    * Increasing leg swelling, ascites, edema
+  - Increasing dyspnea (on exertion, on lying flat or at rest, exercise intolerance)
 
-    * Increased body weight
+  - Increasing leg swelling, ascites, edema
 
-    * Palpitations, automatic implantable cardioverter-defibrillator shocks (associated with worse prognosis)
+  - Increased body weight
 
-    * Chest pain, fatigue
+  - Palpitations, automatic implantable cardioverter-defibrillator shocks (associated with worse prognosis)
 
-    * Duration of Illness, recent or frequent hospitalizations for heart failure
+  - Chest pain, fatigue
 
-    * Medications or diet changes
+  - Duration of Illness, recent or frequent hospitalizations for heart failure
 
-    * Anorexia, cachexia, or early satiety (associated with worse prognosis)
+  - Medications or diet changes
 
-    * Symptoms of transient ischemic attack or thromboembolism (indicate a possible need for anticoagulation)
+  - Anorexia, cachexia, or early satiety (associated with worse prognosis)
 
-    * Social history and family history (to assess for possible familial cardiomyopathy, alcohol, or other cause
+  - Symptoms of transient ischemic attack or thromboembolism (indicate a possible need for anticoagulation)
 
-    * Travel history (exposure risk to some tropical diseases)****[1][6]
+  - Social history and family history (to assess for possible familial cardiomyopathy, alcohol, or other cause
+
+  - Travel history (exposure risk to some tropical diseases)\*\*\*\*[1][6]
 
 **Physical Examination**
 
 The physical examination should include the following:
 
-  * **Vital signs:** Assess blood pressure, heart rate, temperature, oxygen saturation, and respiratory rate. Vital signs are important in helping develop and refine the differential diagnosis and help the healthcare professional tailor the physical examination better.
+- **Vital signs:** Assess blood pressure, heart rate, temperature, oxygen saturation, and respiratory rate. Vital signs are important in helping develop and refine the differential diagnosis and help the healthcare professional tailor the physical examination better.
 
-  * **Check patient weight:** The patient's weight and body mass index should be checked during each office visit. The information can be used to track response to treatment and the potential progression of heart failure or acute decompensated heart failure. Losing weight can also be a warning sign of worsening heart failure.
+- **Check patient weight:** The patient's weight and body mass index should be checked during each office visit. The information can be used to track response to treatment and the potential progression of heart failure or acute decompensated heart failure. Losing weight can also be a warning sign of worsening heart failure.
 
-  * **Assessment of jugulovenous distension:** Jugulovenous distension can be a marker for fluid overload. The patient should lie at a 45-degree angle in bed to get an accurate assessment.
+- **Assessment of jugulovenous distension:** Jugulovenous distension can be a marker for fluid overload. The patient should lie at a 45-degree angle in bed to get an accurate assessment.
 
-  * **Pulse:** Assess the regularity and strength of the pulse.
+- **Pulse:** Assess the regularity and strength of the pulse.
 
-  * **Cardiac Examination**
-    * Extra heart sounds (ie, S3 is associated with a worse prognosis), murmurs
+- **Cardiac Examination**
 
-    * Size and location of maximal cardiac impulse (can suggest ventricular enlargement if displaced)
+  - Extra heart sounds (ie, S3 is associated with a worse prognosis), murmurs
 
-    * Presence of right ventricular heave
+  - Size and location of maximal cardiac impulse (can suggest ventricular enlargement if displaced)
 
-  * **Pulmonary Examination:** Check respiratory rate, rhonchi, and rales (note: pleural effusions can mask and reduce breath sounds, and rhonchi or rales may be less prominent).
+  - Presence of right ventricular heave
 
-  * **Abdominal examination:** Check for ascites, hepatomegaly, hepatojugular reflux.
+- **Pulmonary Examination:** Check respiratory rate, rhonchi, and rales (note: pleural effusions can mask and reduce breath sounds, and rhonchi or rales may be less prominent).
 
-  * **Lower extremity examination:** Assess for peripheral edema and skin temperature (cool lower extremities may suggest worse cardiac output).[1][6]
+- **Abdominal examination:** Check for ascites, hepatomegaly, hepatojugular reflux.
+
+- **Lower extremity examination:** Assess for peripheral edema and skin temperature (cool lower extremities may suggest worse cardiac output).[1][6]
 
 ## Evaluation
 
@@ -193,25 +194,25 @@ The physical examination should include the following:
 
 Classification is one of the key determinants of evaluating and treating heart failure. When a patient is in acute or decompensated heart failure, our focus is on expeditious identification and treatment of life threats. Different classification schemes are available when evaluating chronic heart failure. The classification scheme used to categorize the type and degree of heart failure is based on the presentation and affects the treatment and prognosis of the condition. Heart failure classification schemes are generally based on 1 of the following:
 
-  * Anatomic findings (ie, heart failure with different degrees of ejection fraction)
+- Anatomic findings (ie, heart failure with different degrees of ejection fraction)
 
-  * The chamber of the heart involved (including functional)
+- The chamber of the heart involved (including functional)
 
-  * Symptoms of the patient
+- Symptoms of the patient
 
 All heart failure patients should also be classified based on the American College Cardiology Foundation (ACCF)/American Heart Association (AHA) stages of heart failure, a New York Heart Association (NYHA) functional classification.[1][6]
 
 **ACCF/AHA Stages of Heart Failure**
 
-The risk of heart failure defines the ACC/AHA stages of heart failure, the presence of active heart failure, and whether structural heart disease is present. The higher the classification, the greater the treatment and interventions the patient may require. 
+The risk of heart failure defines the ACC/AHA stages of heart failure, the presence of active heart failure, and whether structural heart disease is present. The higher the classification, the greater the treatment and interventions the patient may require.
 
-  * A: No structural heart disease present, high risk for heart failure, and asymptomatic
+- A: No structural heart disease present, high risk for heart failure, and asymptomatic
 
-  * B: Structural heart disease present, asymptomatic
+- B: Structural heart disease present, asymptomatic
 
-  * C: Structural heart disease present and current or previous symptoms of heart failure
+- C: Structural heart disease present and current or previous symptoms of heart failure
 
-  * D: Heart failure that is refractory and requires specialized interventions [6]
+- D: Heart failure that is refractory and requires specialized interventions [6]
 
 **NYHA Functional Classification of Heart Failure**
 
@@ -221,25 +222,25 @@ The NYHA classification is a functional classification of heart failure and is b
 
 Testing for heart failure in patients should be focused on the patient's symptoms, clinical suspicion, and pre-existing or current stage of heart failure. Ordering multiple routine tests should be avoided in all patients with heart failure. Basic tests that should merit consideration for all patients evaluated for heart failure are the following:
 
-  * Serum electrolytes and kidney function
+- Serum electrolytes and kidney function
 
-  * Complete blood count
+- Complete blood count
 
-  * Lipid level
+- Lipid level
 
-  * Liver function tests
+- Liver function tests
 
-  * Troponin level if there is concern that myocardial injury is the cause of symptoms
+- Troponin level if there is concern that myocardial injury is the cause of symptoms
 
-  * Thyroid-stimulating hormone
+- Thyroid-stimulating hormone
 
-  * An electrocardiogram 
+- An electrocardiogram
 
 Other tests that may be considered based on the severity and classification of the patient's condition are:
 
-  * **Chest x-rays** assess for signs of pulmonary congestion or edema in acute decompensated heart failure (see Image. Congestive Heart Failure, Radiograph).
+- **Chest x-rays** assess for signs of pulmonary congestion or edema in acute decompensated heart failure (see Image. Congestive Heart Failure, Radiograph).
 
-  * **Biomarkers** are used to assess patients with more complex symptoms than acute heart failure (ie, B-type natriuretic peptide and N-terminal pro-B-type natriuretic peptide).
+- **Biomarkers** are used to assess patients with more complex symptoms than acute heart failure (ie, B-type natriuretic peptide and N-terminal pro-B-type natriuretic peptide).
 
 For further information on the recommendations for evaluating heart failure, please see the American Heart Association and New York Heart Association classification-based heart failure guidelines.[1][2][6]
 
@@ -249,38 +250,41 @@ For further information on the recommendations for evaluating heart failure, ple
 
 The focus of treatment for patients with heart failure is dependent on the severity of the symptoms and the stage of heart failure. When patients are in acute decompensated heart failure or flash pulmonary edema, the most important focus for therapeutic interventions is the enhancement of hemodynamic status through the reduction of vascular congestion and improving preload, afterload, and myocardial contractility.[2] In flash pulmonary edema, where there is a rapid onset of heart failure, the initial management and treatment goals are very similar to acute decompensated heart failure. Treatment options for acute decompensated heart failure and flash pulmonary edema are as follows:
 
-  * **ABCs:** As with all patients, it is crucial to assess airway, breathing, and circulation in the initial evaluation and initiate appropriate management based on patient status. In decompensated heart failure, patients should be hooked up to cardiorespiratory monitoring, have IV access and oxygen administered if hypoxic or tachypnoeic, have an electrocardiogram performed, and have labs drawn based on clinical suspicion and patient condition.
+- **ABCs:** As with all patients, it is crucial to assess airway, breathing, and circulation in the initial evaluation and initiate appropriate management based on patient status. In decompensated heart failure, patients should be hooked up to cardiorespiratory monitoring, have IV access and oxygen administered if hypoxic or tachypnoeic, have an electrocardiogram performed, and have labs drawn based on clinical suspicion and patient condition.
 
-  * **Diuretics:** Most patients presenting with heart failure have a form of volume overload. AHA and ACC guidelines recommend intravenous loop diuretic administration to treat fluid overload. Intravenous administration is preferred over oral diuretics to maximize the bioavailability of the medication and clinical effects. Furosemide is a common treatment for acute decompensated heart failure and flash-pulmonary edema because of its anti-vasoconstrictor and diuretic effects.[2][6]
+- **Diuretics:** Most patients presenting with heart failure have a form of volume overload. AHA and ACC guidelines recommend intravenous loop diuretic administration to treat fluid overload. Intravenous administration is preferred over oral diuretics to maximize the bioavailability of the medication and clinical effects. Furosemide is a common treatment for acute decompensated heart failure and flash-pulmonary edema because of its anti-vasoconstrictor and diuretic effects.[2][6]
 
-  * **Vasodilators:** Patients with acute decompensated heart failure with hypertension and acute pulmonary edema can benefit from treatment with vasodilators. Most vasodilators promote smooth muscle relaxation and vasodilatation to reduce preload and afterload through the cyclic guanine monophosphate pathway. Vasodilation relieves pulmonary vascular congestion and improves left ventricular preload and afterload. The common vasodilator medications used are nitroglycerin and sodium nitroprusside.[2][6]
+- **Vasodilators:** Patients with acute decompensated heart failure with hypertension and acute pulmonary edema can benefit from treatment with vasodilators. Most vasodilators promote smooth muscle relaxation and vasodilatation to reduce preload and afterload through the cyclic guanine monophosphate pathway. Vasodilation relieves pulmonary vascular congestion and improves left ventricular preload and afterload. The common vasodilator medications used are nitroglycerin and sodium nitroprusside.[2][6]
 
-  *     * Nitroglycerin can be given transdermally, sublingually, or intravenously, depending on the patient's condition. In acute decompensation or flash pulmonary edema, nitroglycerin is best given sublingually or intravenously to allow for titration of effect.[2][6]
+- ```
+  * Nitroglycerin can be given transdermally, sublingually, or intravenously, depending on the patient's condition. In acute decompensation or flash pulmonary edema, nitroglycerin is best given sublingually or intravenously to allow for titration of effect.[2][6]
+  ```
 
-    * Sodium nitroprusside is only given intravenously. Patients with renal dysfunction treated with sodium nitroprusside may need to have their cyanide levels monitored. Check with your pharmacist about guidelines for monitoring cyanide levels.[2][6]
+  - Sodium nitroprusside is only given intravenously. Patients with renal dysfunction treated with sodium nitroprusside may need to have their cyanide levels monitored. Check with your pharmacist about guidelines for monitoring cyanide levels.[2][6]
 
-  * **Ionotropic Medications:** Additional treatment options for patients in cardiogenic shock or who have signs of end-organ dysfunction secondary to hypoperfusion. Inotropes should only be used as a treatment adjunct in acute decompensated heart failure since data from the ADHERE registry suggest increased mortality with use. Dobutamine and mllrinone are 2 inotropes that are more commonly used. Dobutamine is preferable for patients who are beta-blocker-naive, while milrinone is preferred for patients previously taking oral beta blockers who experience acute decompensation.[2][6]
+- **Ionotropic Medications:** Additional treatment options for patients in cardiogenic shock or who have signs of end-organ dysfunction secondary to hypoperfusion. Inotropes should only be used as a treatment adjunct in acute decompensated heart failure since data from the ADHERE registry suggest increased mortality with use. Dobutamine and mllrinone are 2 inotropes that are more commonly used. Dobutamine is preferable for patients who are beta-blocker-naive, while milrinone is preferred for patients previously taking oral beta blockers who experience acute decompensation.[2][6]
 
-  * **Continuous Positive Airway Pressure (CPAP) and Bilevel Positive Airway Pressure (BIPAP):** These are noninvasive methods of respiratory support to treat respiratory insufficiency secondary to pulmonary vascular congestion and pulmonary edema. The use of CPAP and BIPAP has reduced the need for intubation and mechanical ventilation in heart failure patients with acute respiratory decompensation. In situations where CPAP and BIPAP are ineffective in improving the patient's respiratory status, early intubation and mechanical ventilation should be considered to help prevent further decompensation and progression of symptoms.[7][8]
+- **Continuous Positive Airway Pressure (CPAP) and Bilevel Positive Airway Pressure (BIPAP):** These are noninvasive methods of respiratory support to treat respiratory insufficiency secondary to pulmonary vascular congestion and pulmonary edema. The use of CPAP and BIPAP has reduced the need for intubation and mechanical ventilation in heart failure patients with acute respiratory decompensation. In situations where CPAP and BIPAP are ineffective in improving the patient's respiratory status, early intubation and mechanical ventilation should be considered to help prevent further decompensation and progression of symptoms.[7][8]
 
-  * **Coronary revascularization:** When performed in appropriately selected patients, revascularization can reduce mortality and morbidity by improving diastolic and systolic dysfunction. According to the AHAs 2013 congestive heart failure guidelines, coronary artery revascularization may be indicated as an intervention for heart failure patients with angina, left ventricle dysfunction, and CAD. Interventional cardiology should be consulted early for patients according to AHA recommendations.[2][6]
+- **Coronary revascularization:** When performed in appropriately selected patients, revascularization can reduce mortality and morbidity by improving diastolic and systolic dysfunction. According to the AHAs 2013 congestive heart failure guidelines, coronary artery revascularization may be indicated as an intervention for heart failure patients with angina, left ventricle dysfunction, and CAD. Interventional cardiology should be consulted early for patients according to AHA recommendations.[2][6]
 
-  * **Admission to inpatient service for further treatment and evaluation:** Patients being treated for flash pulmonary edema should be admitted to the hospital with the level of monitoring and care appropriate for each case. For select patients with acute decompensated heart failure, it may be possible to treat them at home, depending on the severity of symptoms.[9]
+- **Admission to inpatient service for further treatment and evaluation:** Patients being treated for flash pulmonary edema should be admitted to the hospital with the level of monitoring and care appropriate for each case. For select patients with acute decompensated heart failure, it may be possible to treat them at home, depending on the severity of symptoms.[9]
 
 **The Medical Management of Heart Failure–Risk Factor Modification and Prevention of Acute Decompensation**
 
 While acute decompensated heart failure and flash pulmonary edema can be dramatic and require intensive care and aggressive therapy, the main focus of heart failure management is on helping prevent the progression of the disease and mitigate episodes of acute exacerbation. Medical practitioners often use the American Heart Association and the New York Heart Association stages of heart failure to guide the evidence-based treatment of heart failure. Treatment of early stages of chronic heart failure usually focuses on risk factor modification, and as the disease process progresses, it starts to include more aggressive interventions.
 
-  * Risk factor modification 
-    * Dietary and lifestyle changes, such as decreased salt intake, reduced obesity, and smoking cessation
+- Risk factor modification
 
-    * Tighter control and management of hypertension, diabetes dyslipidemia, and other chronic diseases that can exacerbate CHF
+  - Dietary and lifestyle changes, such as decreased salt intake, reduced obesity, and smoking cessation
 
-  * More aggressive intervention for those with a higher degree of CHF
+  - Tighter control and management of hypertension, diabetes dyslipidemia, and other chronic diseases that can exacerbate CHF
 
-  * Echocardiography for patients with a higher risk of left ventricular ejection fraction reduction
+- More aggressive intervention for those with a higher degree of CHF
 
-  * Implantable cardiac defibrillator placement, when indicated in patients with ischemic cardiomyopathy at high risk of sudden death
+- Echocardiography for patients with a higher risk of left ventricular ejection fraction reduction
+
+- Implantable cardiac defibrillator placement, when indicated in patients with ischemic cardiomyopathy at high risk of sudden death
 
 For further information on the medical management of chronic heart failure, please refer to the American Heart Association and New York Heart Association guidelines.[1][2][1][6]
 
@@ -288,17 +292,17 @@ For further information on the medical management of chronic heart failure, plea
 
 ## Differential Diagnosis
 
-When patients present with acute decompensated heart failure or flash pulmonary edema, there are many different diagnoses to consider based on the risk factors for heart failure alone. Also important to consider are other potentially life-threatening causes of heart failure. 
+When patients present with acute decompensated heart failure or flash pulmonary edema, there are many different diagnoses to consider based on the risk factors for heart failure alone. Also important to consider are other potentially life-threatening causes of heart failure.
 
-  * **Sepsis:** Patients with sepsis are at risk of multiorgan system failure. Approximately 1 out of 3 patients with sepsis present with reversible left ventricular systolic dysfunction reduced ejection fracture, and 1 out of 2 patients with sepsis have left ventricular or right ventricular diastolic dysfunction. The cardiac dysfunction associated with sepsis can result in significantly increased mortality. Left ventricular diastolic dysfunction is associated with an increased mortality risk of 80%, and right ventricular diastolic dysfunction is associated with a 60% increased mortality.[11]
+- **Sepsis:** Patients with sepsis are at risk of multiorgan system failure. Approximately 1 out of 3 patients with sepsis present with reversible left ventricular systolic dysfunction reduced ejection fracture, and 1 out of 2 patients with sepsis have left ventricular or right ventricular diastolic dysfunction. The cardiac dysfunction associated with sepsis can result in significantly increased mortality. Left ventricular diastolic dysfunction is associated with an increased mortality risk of 80%, and right ventricular diastolic dysfunction is associated with a 60% increased mortality.[11]
 
-  * **Acute respiratory distress syndrome:** This condition is characterized by acute respiratory failure and diffuse pulmonary infiltrates, which could potentially mimic flash pulmonary edema.[11]
+- **Acute respiratory distress syndrome:** This condition is characterized by acute respiratory failure and diffuse pulmonary infiltrates, which could potentially mimic flash pulmonary edema.[11]
 
-  * **Neurological causes:** Hemispheric and hippocampal brain infarcts are associated with heart failure and sudden cardiac death. Infarct of certain areas of the brain tissue can result in a sympathetic storm, and loss of vasomotor homeostasis precipitates neurogenic pulmonary edema (see **Image.** Key Features in the Pathophysiology of Neurogenic Pulmonary Edema).[12]
+- **Neurological causes:** Hemispheric and hippocampal brain infarcts are associated with heart failure and sudden cardiac death. Infarct of certain areas of the brain tissue can result in a sympathetic storm, and loss of vasomotor homeostasis precipitates neurogenic pulmonary edema (see **Image.** Key Features in the Pathophysiology of Neurogenic Pulmonary Edema).[12]
 
-  * **Pulmonary embolism:** While a massive pulmonary embolism can cause acute cardiac dysfunction secondary to obstruction of blood flow, post-pulmonary embolism syndrome may also present with heart failure-type symptoms. Postpulmonary embolism syndrome and reduced exercise tolerance have been associated with reduced left ventricular ejection fraction, arrhythmia, valvular dysfunction, and left ventricular diastolic dysfunction.[13]
+- **Pulmonary embolism:** While a massive pulmonary embolism can cause acute cardiac dysfunction secondary to obstruction of blood flow, post-pulmonary embolism syndrome may also present with heart failure-type symptoms. Postpulmonary embolism syndrome and reduced exercise tolerance have been associated with reduced left ventricular ejection fraction, arrhythmia, valvular dysfunction, and left ventricular diastolic dysfunction.[13]
 
-  * **Acute coronary syndrome:** Acute coronary syndrome or myocardial infarction is a common cause of acute decompensated heart failure. 
+- **Acute coronary syndrome:** Acute coronary syndrome or myocardial infarction is a common cause of acute decompensated heart failure.
 
 ## Prognosis
 
@@ -310,130 +314,112 @@ The prognosis is worse for those with heart failure who are hospitalized; those 
 
 **Potential Complications of Heart Failure**
 
-  * Worsening clinical status despite aggressive therapy
+- Worsening clinical status despite aggressive therapy
 
-  * Associated renal impairment and organ dysfunction can compromise heart failure treatment efforts
+- Associated renal impairment and organ dysfunction can compromise heart failure treatment efforts
 
-  * Recurrent hospitalizations for heart failure or, most commonly, associated co-morbidities, with resultant financial and personal costs to patients and families
+- Recurrent hospitalizations for heart failure or, most commonly, associated co-morbidities, with resultant financial and personal costs to patients and families
 
-  * The progressive loss of ability to carry out activities of daily life
+- The progressive loss of ability to carry out activities of daily life
 
-  * Increased morbidity and mortality from the date of the patient's initial diagnosis of heart failure [1][5]
+- Increased morbidity and mortality from the date of the patient's initial diagnosis of heart failure [1][5]
 
 ## Deterrence and Patient Education
 
 Effective treatment of comorbidities and risk factor reduction can decrease the chance of developing heart failure. Patient education should be focused on ensuring compliance with prescribed evidence-based treatments.
 
-  * **Hypertension:** Effective treatment of systolic and diastolic hypertension can reduce the risk of heart failure by approximately 50%
+- **Hypertension:** Effective treatment of systolic and diastolic hypertension can reduce the risk of heart failure by approximately 50%
 
-  * **Diabetes:** This condition**** is directly associated with the development of heart failure, independent of other associated clinical conditions.
+- **Diabetes:** This condition\*\*\*\* is directly associated with the development of heart failure, independent of other associated clinical conditions.
 
-  * **Alcohol:** Heavy alcohol use is associated with heart failure.
+- **Alcohol:** Heavy alcohol use is associated with heart failure.
 
-  * **Metabolic syndromes:** Following treatments based on evidence-based guidelines to decrease the risk of heart failure (ie, lipid disorders) is vital.
+- **Metabolic syndromes:** Following treatments based on evidence-based guidelines to decrease the risk of heart failure (ie, lipid disorders) is vital.
 
-  * **Patient education:** Education regarding dietary salt restriction and fluid restriction is imperative.[1]
+- **Patient education:** Education regarding dietary salt restriction and fluid restriction is imperative.[1]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Treating heart failure and acute decompensated heart failure is challenging despite the use of maximal evidence-based therapy based on the stage of heart failure. Given the limited effect of current treatment strategies on the progression of heart failure, it is important to identify ways to maximize patient outcomes and quality of care by the interprofessional team. Patients at potential risk for heart failure based on comorbidities or other identified risk factors should receive appropriate evidence-based preventative counseling and treatments. When applicable, the primary care clinician who may be the most involved in managing the patient's risk factors should consult other specialists, including cardiologists, endocrinologists, pharmacists, cardiology nurses, and nutritionists, to ensure they provide the best advice and treatment for their patients. Nurses monitor patients, provide education, and collaborate with clinicians and the healthcare team to improve outcomes. Pharmacists review medications, inform patients and their families about potential adverse events, and monitor compliance. Given the propensity of patients with heart failure to require recurrent admissions, often because of non heart failure-related conditions, the collaboration between inpatient and outpatient services can be of benefit in the continuity of care and help promote improved outcomes.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19880&utm_source=pubmed&utm_campaign=reviews&utm_content=19880)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19880&utm_source=pubmed&utm_campaign=reviews&utm_content=19880)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/congestive-heart-failure-and-pulmonary-edema-chf/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=19880)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/congestive-heart-failure-and-pulmonary-edema-chf/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=19880)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19880/?utm_source=pubmed&utm_campaign=comments&utm_content=19880)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19880/?utm_source=pubmed&utm_campaign=comments&utm_content=19880)
 
 [![Congestive Heart Failure, Radiograph](/books/NBK554557/bin/cHF.gif)](/books/NBK554557/figure/article-19880.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK554557/figure/article-19880.image.f1/?report=objectonly)
 
-Congestive Heart Failure, Radiograph. Chest radiographs help assess for signs of pulmonary congestion or edema in acute decompensated heart failure. Contributed by S Bhimji, MD 
+Congestive Heart Failure, Radiograph. Chest radiographs help assess for signs of pulmonary congestion or edema in acute decompensated heart failure. Contributed by S Bhimji, MD
 
 [![Pathophysiology of Neurogenic Pulmonary Edema](/books/NBK554557/bin/Pulmonary__Edema__2.gif)](/books/NBK554557/figure/article-19880.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK554557/figure/article-19880.image.f2/?report=objectonly)
 
-Pathophysiology of Neurogenic Pulmonary Edema. This table details the key features seen in the pathophysiology of neurogenic pulmonary edema. Contributed by M Al-Dhahir, MD 
+Pathophysiology of Neurogenic Pulmonary Edema. This table details the key features seen in the pathophysiology of neurogenic pulmonary edema. Contributed by M Al-Dhahir, MD
 
 ## References
 
 1.
-    
 
-Gedela M, Khan M, Jonsson O. Heart Failure. S D Med. 2015 Sep;68(9):403-5, 407-9. [[PubMed: 26489162](https://pubmed.ncbi.nlm.nih.gov/26489162)]
+Gedela M, Khan M, Jonsson O. Heart Failure. S D Med. 2015 Sep;68(9):403-5, 407-9. \[[PubMed: 26489162](https://pubmed.ncbi.nlm.nih.gov/26489162)\]
 
 2.
-    
 
-Hsiao R, Greenberg B. Contemporary Treatment of Acute Heart Failure. Prog Cardiovasc Dis. 2016 Jan-Feb;58(4):367-78. [[PubMed: 26764279](https://pubmed.ncbi.nlm.nih.gov/26764279)]
+Hsiao R, Greenberg B. Contemporary Treatment of Acute Heart Failure. Prog Cardiovasc Dis. 2016 Jan-Feb;58(4):367-78. \[[PubMed: 26764279](https://pubmed.ncbi.nlm.nih.gov/26764279)\]
 
 3.
-    
 
-Kurmani S, Squire I. Acute Heart Failure: Definition, Classification and Epidemiology. Curr Heart Fail Rep. 2017 Oct;14(5):385-392. [[PMC free article: PMC5597697](/pmc/articles/PMC5597697/)] [[PubMed: 28785969](https://pubmed.ncbi.nlm.nih.gov/28785969)]
+Kurmani S, Squire I. Acute Heart Failure: Definition, Classification and Epidemiology. Curr Heart Fail Rep. 2017 Oct;14(5):385-392. \[[PMC free article: PMC5597697](/pmc/articles/PMC5597697/)\] \[[PubMed: 28785969](https://pubmed.ncbi.nlm.nih.gov/28785969)\]
 
 4.
-    
 
-Rimoldi SF, Yuzefpolskaya M, Allemann Y, Messerli F. Flash pulmonary edema. Prog Cardiovasc Dis. 2009 Nov-Dec;52(3):249-59. [[PubMed: 19917337](https://pubmed.ncbi.nlm.nih.gov/19917337)]
+Rimoldi SF, Yuzefpolskaya M, Allemann Y, Messerli F. Flash pulmonary edema. Prog Cardiovasc Dis. 2009 Nov-Dec;52(3):249-59. \[[PubMed: 19917337](https://pubmed.ncbi.nlm.nih.gov/19917337)\]
 
 5.
-    
 
-Dharmarajan K, Rich MW. Epidemiology, Pathophysiology, and Prognosis of Heart Failure in Older Adults. Heart Fail Clin. 2017 Jul;13(3):417-426. [[PubMed: 28602363](https://pubmed.ncbi.nlm.nih.gov/28602363)]
+Dharmarajan K, Rich MW. Epidemiology, Pathophysiology, and Prognosis of Heart Failure in Older Adults. Heart Fail Clin. 2017 Jul;13(3):417-426. \[[PubMed: 28602363](https://pubmed.ncbi.nlm.nih.gov/28602363)\]
 
 6.
-    
 
-Yancy CW, Jessup M, Bozkurt B, Butler J, Casey DE, Drazner MH, Fonarow GC, Geraci SA, Horwich T, Januzzi JL, Johnson MR, Kasper EK, Levy WC, Masoudi FA, McBride PE, McMurray JJ, Mitchell JE, Peterson PN, Riegel B, Sam F, Stevenson LW, Tang WH, Tsai EJ, Wilkoff BL. 2013 ACCF/AHA guideline for the management of heart failure: executive summary: a report of the American College of Cardiology Foundation/American Heart Association Task Force on practice guidelines. Circulation. 2013 Oct 15;128(16):1810-52. [[PubMed: 23741057](https://pubmed.ncbi.nlm.nih.gov/23741057)]
+Yancy CW, Jessup M, Bozkurt B, Butler J, Casey DE, Drazner MH, Fonarow GC, Geraci SA, Horwich T, Januzzi JL, Johnson MR, Kasper EK, Levy WC, Masoudi FA, McBride PE, McMurray JJ, Mitchell JE, Peterson PN, Riegel B, Sam F, Stevenson LW, Tang WH, Tsai EJ, Wilkoff BL. 2013 ACCF/AHA guideline for the management of heart failure: executive summary: a report of the American College of Cardiology Foundation/American Heart Association Task Force on practice guidelines. Circulation. 2013 Oct 15;128(16):1810-52. \[[PubMed: 23741057](https://pubmed.ncbi.nlm.nih.gov/23741057)\]
 
 7.
-    
 
-Stoltzfus S. The role of noninvasive ventilation: CPAP and BiPAP in the treatment of congestive heart failure. Dimens Crit Care Nurs. 2006 Mar-Apr;25(2):66-70. [[PubMed: 16552275](https://pubmed.ncbi.nlm.nih.gov/16552275)]
+Stoltzfus S. The role of noninvasive ventilation: CPAP and BiPAP in the treatment of congestive heart failure. Dimens Crit Care Nurs. 2006 Mar-Apr;25(2):66-70. \[[PubMed: 16552275](https://pubmed.ncbi.nlm.nih.gov/16552275)\]
 
 8.
-    
 
-Bello G, De Santis P, Antonelli M. Non-invasive ventilation in cardiogenic pulmonary edema. Ann Transl Med. 2018 Sep;6(18):355. [[PMC free article: PMC6186545](/pmc/articles/PMC6186545/)] [[PubMed: 30370282](https://pubmed.ncbi.nlm.nih.gov/30370282)]
+Bello G, De Santis P, Antonelli M. Non-invasive ventilation in cardiogenic pulmonary edema. Ann Transl Med. 2018 Sep;6(18):355. \[[PMC free article: PMC6186545](/pmc/articles/PMC6186545/)\] \[[PubMed: 30370282](https://pubmed.ncbi.nlm.nih.gov/30370282)\]
 
 9.
-    
 
-Yu JJ, Sunderland Y. Outcomes of hospital in the home treatment of acute decompensated congestive cardiac failure compared to traditional in-hospital treatment in older patients. Australas J Ageing. 2020 Mar;39(1):e77-e85. [[PubMed: 31325230](https://pubmed.ncbi.nlm.nih.gov/31325230)]
+Yu JJ, Sunderland Y. Outcomes of hospital in the home treatment of acute decompensated congestive cardiac failure compared to traditional in-hospital treatment in older patients. Australas J Ageing. 2020 Mar;39(1):e77-e85. \[[PubMed: 31325230](https://pubmed.ncbi.nlm.nih.gov/31325230)\]
 
 10.
-    
 
-Habal MV, Garan AR. Long-term management of end-stage heart failure. Best Pract Res Clin Anaesthesiol. 2017 Jun;31(2):153-166. [[PMC free article: PMC5726453](/pmc/articles/PMC5726453/)] [[PubMed: 29110789](https://pubmed.ncbi.nlm.nih.gov/29110789)]
+Habal MV, Garan AR. Long-term management of end-stage heart failure. Best Pract Res Clin Anaesthesiol. 2017 Jun;31(2):153-166. \[[PMC free article: PMC5726453](/pmc/articles/PMC5726453/)\] \[[PubMed: 29110789](https://pubmed.ncbi.nlm.nih.gov/29110789)\]
 
 11.
-    
 
-Caraballo C, Jaimes F. Organ Dysfunction in Sepsis: An Ominous Trajectory From Infection To Death. Yale J Biol Med. 2019 Dec;92(4):629-640. [[PMC free article: PMC6913810](/pmc/articles/PMC6913810/)] [[PubMed: 31866778](https://pubmed.ncbi.nlm.nih.gov/31866778)]
+Caraballo C, Jaimes F. Organ Dysfunction in Sepsis: An Ominous Trajectory From Infection To Death. Yale J Biol Med. 2019 Dec;92(4):629-640. \[[PMC free article: PMC6913810](/pmc/articles/PMC6913810/)\] \[[PubMed: 31866778](https://pubmed.ncbi.nlm.nih.gov/31866778)\]
 
 12.
-    
 
-Prasad Hrishi A, Ruby Lionel K, Prathapadas U. Head Rules Over the Heart: Cardiac Manifestations of Cerebral Disorders. Indian J Crit Care Med. 2019 Jul;23(7):329-335. [[PMC free article: PMC6686577](/pmc/articles/PMC6686577/)] [[PubMed: 31406441](https://pubmed.ncbi.nlm.nih.gov/31406441)]
+Prasad Hrishi A, Ruby Lionel K, Prathapadas U. Head Rules Over the Heart: Cardiac Manifestations of Cerebral Disorders. Indian J Crit Care Med. 2019 Jul;23(7):329-335. \[[PMC free article: PMC6686577](/pmc/articles/PMC6686577/)\] \[[PubMed: 31406441](https://pubmed.ncbi.nlm.nih.gov/31406441)\]
 
 13.
-    
 
-Dzikowska-Diduch O, Kostrubiec M, Kurnicka K, Lichodziejewska B, Pacho S, Miroszewska A, Bródka K, Skowrońska M, Łabyk A, Roik M, Gołębiowski M, Pruszczyk P. "The post-pulmonary syndrome - results of echocardiographic driven follow up after acute pulmonary embolism". Thromb Res. 2020 Feb;186:30-35. [[PubMed: 31862573](https://pubmed.ncbi.nlm.nih.gov/31862573)]
+Dzikowska-Diduch O, Kostrubiec M, Kurnicka K, Lichodziejewska B, Pacho S, Miroszewska A, Bródka K, Skowrońska M, Łabyk A, Roik M, Gołębiowski M, Pruszczyk P. "The post-pulmonary syndrome - results of echocardiographic driven follow up after acute pulmonary embolism". Thromb Res. 2020 Feb;186:30-35. \[[PubMed: 31862573](https://pubmed.ncbi.nlm.nih.gov/31862573)\]
 
 14.
-    
 
-McMurray JJ, Pfeffer MA. Heart failure. 2005 May 28-Jun 3Lancet. 365(9474):1877-89. [[PubMed: 15924986](https://pubmed.ncbi.nlm.nih.gov/15924986)]
-
-    
+McMurray JJ, Pfeffer MA. Heart failure. 2005 May 28-Jun 3Lancet. 365(9474):1877-89. \[[PubMed: 15924986](https://pubmed.ncbi.nlm.nih.gov/15924986)\]
 
 **Disclosure:** Kevin King declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Samuel Goldstein declares no relevant financial relationships with ineligible companies.

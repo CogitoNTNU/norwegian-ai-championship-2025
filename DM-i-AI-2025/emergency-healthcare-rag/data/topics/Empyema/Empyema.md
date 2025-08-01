@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21052/
-scraped_date: 2025-07-22 12:40:25 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21052/ scraped_date: 2025-07-22 12:40:25 UTC
 
 # Gallbladder Empyema
 
@@ -29,13 +28,13 @@ Empyema of the gallbladder is the most severe complication of acute cholecystiti
 
 **Objectives:**
 
-  * Review the risk factors for developing gallbladder empyema.
+- Review the risk factors for developing gallbladder empyema.
 
-  * Describe the typical imaging findings associated with gallbladder empyema.
+- Describe the typical imaging findings associated with gallbladder empyema.
 
-  * Outline the management considerations for patients with gallbladder empyema.
+- Outline the management considerations for patients with gallbladder empyema.
 
-  * Explain the importance of enhancing care coordination amongst interprofessional team members to improve outcomes for patients affected by gallbladder empyema.
+- Explain the importance of enhancing care coordination amongst interprofessional team members to improve outcomes for patients affected by gallbladder empyema.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=21052&utm_source=pubmed&utm_campaign=reviews&utm_content=21052)
 
@@ -55,7 +54,7 @@ Empyema of the gallbladder is estimated to occur in 5 to 15% of cases diagnosed 
 
 ## Pathophysiology
 
-The stagnant bile due to cystic duct obstruction in the background of gallstone disease can become infected. Severe infection is caused by pathogenic  _Escherichia coli_ , _Klebsiella_ ,  _Streptococcus faecalis,_ and anaerobes such as _Bacteroids_ and _Clostridia_. Pus formation follows this infection, tightly filling the lumen of the gallbladder. In a tense and edematous gallbladder, necrosis of the wall and perforation may ensue if drainage or removal of the gallbladder is not performed promptly. If not treated rapidly, patients can develop generalized sepsis or gangrene of the gallbladder resulting in perforation of the gallbladder. Rarely a fistula between the gallbladder and duodenum can occur as a sequela of inadequately treated empyema of the gallbladder. Untreated cases develop symptoms of localized sepsis due to micro-perforation or generalized sepsis due to macro perforation.[7]
+The stagnant bile due to cystic duct obstruction in the background of gallstone disease can become infected. Severe infection is caused by pathogenic _Escherichia coli_ , _Klebsiella_ , _Streptococcus faecalis,_ and anaerobes such as _Bacteroids_ and _Clostridia_. Pus formation follows this infection, tightly filling the lumen of the gallbladder. In a tense and edematous gallbladder, necrosis of the wall and perforation may ensue if drainage or removal of the gallbladder is not performed promptly. If not treated rapidly, patients can develop generalized sepsis or gangrene of the gallbladder resulting in perforation of the gallbladder. Rarely a fistula between the gallbladder and duodenum can occur as a sequela of inadequately treated empyema of the gallbladder. Untreated cases develop symptoms of localized sepsis due to micro-perforation or generalized sepsis due to macro perforation.[7]
 
 ## Histopathology
 
@@ -101,19 +100,19 @@ The rates of conversion from laparoscopic to open cholecystectomy are much highe
 
 ## Complications
 
-  * Wound infections
+- Wound infections
 
-  * Bleeding
+- Bleeding
 
-  * Bile duct injury
+- Bile duct injury
 
-  * Subphrenic abscess
+- Subphrenic abscess
 
-  * Acute renal failure
+- Acute renal failure
 
-  * Cystic stump leak
+- Cystic stump leak
 
-  * Sepsis
+- Sepsis
 
 ## Postoperative and Rehabilitation Care
 
@@ -123,7 +122,7 @@ Following surgery and removal of the gallbladder, IV antibiotics are required un
 
 Empyema of the gallbladder may present with symptoms indistinguishable from acute cholecystitis. A high index of suspicion and a combination of clinical, radiological, and laboratory parameters helps in early diagnosis. Early and prompt surgical intervention in the form of cholecystectomy, if not feasible, cholecystostomy prevents high morbidity and rare mortality.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Empyema of the gallbladder is a serious disorder that requires prompt diagnosis and treatment. The infection can quickly become systemic and cause multiple organ failure. The condition is best managed by an interprofessional team.
 
@@ -133,82 +132,66 @@ The pharmacist should also manage the medications and ensure that polypharmacy d
 
 **Outcomes**
 
-When the condition is diagnosed and treated early, the prognosis is excellent. However, in patients who are immunocompromised, old, or those with diabetes, empyema of the gallbladder can be unpredictable and cause severe sepsis. Further, the rate of conversion of a laparoscopic procedure into an open procedure is also higher in gallbladder empyema. [9](Level III)
+When the condition is diagnosed and treated early, the prognosis is excellent. However, in patients who are immunocompromised, old, or those with diabetes, empyema of the gallbladder can be unpredictable and cause severe sepsis. Further, the rate of conversion of a laparoscopic procedure into an open procedure is also higher in gallbladder empyema. \[9\](Level III)
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=21052&utm_source=pubmed&utm_campaign=reviews&utm_content=21052)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=21052&utm_source=pubmed&utm_campaign=reviews&utm_content=21052)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/infectious-disease/gallbladder-empyema/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=21052)
+- [Click here for a simplified version.](https://mdsearchlight.com/infectious-disease/gallbladder-empyema/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=21052)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/21052/?utm_source=pubmed&utm_campaign=comments&utm_content=21052)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/21052/?utm_source=pubmed&utm_campaign=comments&utm_content=21052)
 
 [![Image ](/books/NBK459333/bin/empyema__GB.gif)](/books/NBK459333/figure/article-21052.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK459333/figure/article-21052.image.f1/?report=objectonly)
 
-GB empyema Image courtesy O Chaigasame 
+GB empyema Image courtesy O Chaigasame
 
 ## References
 
 1.
-    
 
-Supit C, Supit T, Mazni Y, Basir I. The outcome of laparoscopic subtotal cholecystectomy in difficult cases - A case series. Int J Surg Case Rep. 2017;41:311-314. [[PMC free article: PMC5684444](/pmc/articles/PMC5684444/)] [[PubMed: 29132116](https://pubmed.ncbi.nlm.nih.gov/29132116)]
+Supit C, Supit T, Mazni Y, Basir I. The outcome of laparoscopic subtotal cholecystectomy in difficult cases - A case series. Int J Surg Case Rep. 2017;41:311-314. \[[PMC free article: PMC5684444](/pmc/articles/PMC5684444/)\] \[[PubMed: 29132116](https://pubmed.ncbi.nlm.nih.gov/29132116)\]
 
 2.
-    
 
-Pant G, Kumar A, Verma N, Sharma A. Gallbladder empyema complicating acute myeloid leukaemia in an adolescent boy. BMJ Case Rep. 2018 Aug 14;2018 [[PMC free article: PMC6101304](/pmc/articles/PMC6101304/)] [[PubMed: 30108115](https://pubmed.ncbi.nlm.nih.gov/30108115)]
+Pant G, Kumar A, Verma N, Sharma A. Gallbladder empyema complicating acute myeloid leukaemia in an adolescent boy. BMJ Case Rep. 2018 Aug 14;2018 \[[PMC free article: PMC6101304](/pmc/articles/PMC6101304/)\] \[[PubMed: 30108115](https://pubmed.ncbi.nlm.nih.gov/30108115)\]
 
 3.
-    
 
-Mehta V, Yarmish G, Greenstein J, Hahn B. Gallbladder Empyema. J Emerg Med. 2016 Jun;50(6):893-4. [[PubMed: 27221014](https://pubmed.ncbi.nlm.nih.gov/27221014)]
+Mehta V, Yarmish G, Greenstein J, Hahn B. Gallbladder Empyema. J Emerg Med. 2016 Jun;50(6):893-4. \[[PubMed: 27221014](https://pubmed.ncbi.nlm.nih.gov/27221014)\]
 
 4.
-    
 
-Elshaer M, Gravante G, Thomas K, Sorge R, Al-Hamali S, Ebdewi H. Subtotal cholecystectomy for "difficult gallbladders": systematic review and meta-analysis. JAMA Surg. 2015 Feb;150(2):159-68. [[PubMed: 25548894](https://pubmed.ncbi.nlm.nih.gov/25548894)]
+Elshaer M, Gravante G, Thomas K, Sorge R, Al-Hamali S, Ebdewi H. Subtotal cholecystectomy for "difficult gallbladders": systematic review and meta-analysis. JAMA Surg. 2015 Feb;150(2):159-68. \[[PubMed: 25548894](https://pubmed.ncbi.nlm.nih.gov/25548894)\]
 
 5.
-    
 
-Abraham S, Rivero HG, Erlikh IV, Griffith LF, Kondamudi VK. Surgical and nonsurgical management of gallstones. Am Fam Physician. 2014 May 15;89(10):795-802. [[PubMed: 24866215](https://pubmed.ncbi.nlm.nih.gov/24866215)]
+Abraham S, Rivero HG, Erlikh IV, Griffith LF, Kondamudi VK. Surgical and nonsurgical management of gallstones. Am Fam Physician. 2014 May 15;89(10):795-802. \[[PubMed: 24866215](https://pubmed.ncbi.nlm.nih.gov/24866215)\]
 
 6.
-    
 
-Ambe PC, Jansen S, Macher-Heidrich S, Zirngibl H. Surgical management of empyematous cholecystitis: a register study of over 12,000 cases from a regional quality control database in Germany. Surg Endosc. 2016 Dec;30(12):5319-5324. [[PubMed: 27177953](https://pubmed.ncbi.nlm.nih.gov/27177953)]
+Ambe PC, Jansen S, Macher-Heidrich S, Zirngibl H. Surgical management of empyematous cholecystitis: a register study of over 12,000 cases from a regional quality control database in Germany. Surg Endosc. 2016 Dec;30(12):5319-5324. \[[PubMed: 27177953](https://pubmed.ncbi.nlm.nih.gov/27177953)\]
 
 7.
-    
 
-Khan ML, Abbassi MR, Jawed M, Shaikh U. Male gender and sonographic gall bladder wall thickness: important predictable factors for empyema and gangrene in acute cholecystitis. J Pak Med Assoc. 2014 Feb;64(2):159-62. [[PubMed: 24640804](https://pubmed.ncbi.nlm.nih.gov/24640804)]
+Khan ML, Abbassi MR, Jawed M, Shaikh U. Male gender and sonographic gall bladder wall thickness: important predictable factors for empyema and gangrene in acute cholecystitis. J Pak Med Assoc. 2014 Feb;64(2):159-62. \[[PubMed: 24640804](https://pubmed.ncbi.nlm.nih.gov/24640804)\]
 
 8.
-    
 
-Watanabe Y, Nagayama M, Okumura A, Amoh Y, Katsube T, Suga T, Koyama S, Nakatani K, Dodo Y. MR imaging of acute biliary disorders. Radiographics. 2007 Mar-Apr;27(2):477-95. [[PubMed: 17374864](https://pubmed.ncbi.nlm.nih.gov/17374864)]
+Watanabe Y, Nagayama M, Okumura A, Amoh Y, Katsube T, Suga T, Koyama S, Nakatani K, Dodo Y. MR imaging of acute biliary disorders. Radiographics. 2007 Mar-Apr;27(2):477-95. \[[PubMed: 17374864](https://pubmed.ncbi.nlm.nih.gov/17374864)\]
 
 9.
-    
 
-Aksoy F, Demiral G, Ekinci Ö. Can the timing of laparoscopic cholecystectomy after biliary pancreatitis change the conversion rate to open surgery? Asian J Surg. 2018 Jul;41(4):307-312. [[PubMed: 28284749](https://pubmed.ncbi.nlm.nih.gov/28284749)]
+Aksoy F, Demiral G, Ekinci Ö. Can the timing of laparoscopic cholecystectomy after biliary pancreatitis change the conversion rate to open surgery? Asian J Surg. 2018 Jul;41(4):307-312. \[[PubMed: 28284749](https://pubmed.ncbi.nlm.nih.gov/28284749)\]
 
 10.
-    
 
-Limbosch JM, Druart ML, Puttemans T, Melot C. Guidelines to laparoscopic management of acute cholecystitis. Acta Chir Belg. 2000 Sep-Oct;100(5):198-204. [[PubMed: 11143321](https://pubmed.ncbi.nlm.nih.gov/11143321)]
-
-    
+Limbosch JM, Druart ML, Puttemans T, Melot C. Guidelines to laparoscopic management of acute cholecystitis. Acta Chir Belg. 2000 Sep-Oct;100(5):198-204. \[[PubMed: 11143321](https://pubmed.ncbi.nlm.nih.gov/11143321)\]
 
 **Disclosure:** Sarang Kashyap declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** George Mathew declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Kevin King declares no relevant financial relationships with ineligible companies.

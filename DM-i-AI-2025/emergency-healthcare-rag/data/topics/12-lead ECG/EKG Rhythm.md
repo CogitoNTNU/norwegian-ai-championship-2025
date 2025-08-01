@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20938/
-scraped_date: 2025-07-22 12:52:02 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20938/ scraped_date: 2025-07-22 12:52:02 UTC
 
 # EKG Rhythm
 
@@ -27,13 +26,13 @@ Successful EKG interpretation requires the same stepwise method with each attemp
 
 **Objectives:**
 
-  * Identify the fundamental concepts of EKG rhythm interpretation.
+- Identify the fundamental concepts of EKG rhythm interpretation.
 
-  * Evaluate the issues of concern in regard to EKG rhythm interpretation.
+- Evaluate the issues of concern in regard to EKG rhythm interpretation.
 
-  * Interpret the appropriate evaluation of the clinical significance of EKG rhythm.
+- Interpret the appropriate evaluation of the clinical significance of EKG rhythm.
 
-  * Strategize how the interprofessional team can improve care coordination and communication to advance EKG rhythm interpretation and improve outcomes.
+- Strategize how the interprofessional team can improve care coordination and communication to advance EKG rhythm interpretation and improve outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20938&utm_source=pubmed&utm_campaign=reviews&utm_content=20938)
 
@@ -53,7 +52,7 @@ Abnormal rhythms involving the atrium include atrial fibrillation, atrial flutte
 
 In atrial fibrillation, the atria have no organized rhythm and no synchronized depolarization or repolarization. Instead, electricity is passed from 1 atrial myocyte to any surrounding repolarized myocyte, causing the atria to quiver rather than contract as a unit. The isoelectric line is lost; no discernible P waves are seen on EKG. QRS complexes are narrow unless there is an underlying right or left bundle branch block or if the ventricular rate is so fast that there is a rate-related bundle branch block (typically the right bundle). The ventricular rate is variable. This rhythm is classically described as irregularly irregular. Risk factors for developing atrial fibrillation include prolonged uncontrolled hypertension, obstructive sleep apnea, advanced age, a history of congestive heart failure, and hyperthyroidism.[4]
 
-In atrial flutter, regular, rapid atrial contractions usually have a distinctive "saw-tooth" pattern on EKG. As with atrial fibrillation, the QRS complexes are narrow unless an underlying right or left bundle branch block exists. The ventricular rate is so fast that there is a rate-related bundle branch block (typically the right bundle). The atrial rate of atrial flutter is typically about 300 beats per minute, and the ventricular response can be variable but often presents initially as a 2:1 AV block, resulting in a ventricular response of about 150 BPM. Any time there is a regular rhythm with a narrow QRS complex at 130 to 170 BPM, atrial flutter should be considered. 
+In atrial flutter, regular, rapid atrial contractions usually have a distinctive "saw-tooth" pattern on EKG. As with atrial fibrillation, the QRS complexes are narrow unless an underlying right or left bundle branch block exists. The ventricular rate is so fast that there is a rate-related bundle branch block (typically the right bundle). The atrial rate of atrial flutter is typically about 300 beats per minute, and the ventricular response can be variable but often presents initially as a 2:1 AV block, resulting in a ventricular response of about 150 BPM. Any time there is a regular rhythm with a narrow QRS complex at 130 to 170 BPM, atrial flutter should be considered.
 
 Atrial tachycardia is a rhythm that originates in a single micro reentry focus in the atria. This is seen on EKG with a P wave of different morphology than the sinus P wave. The rhythm is regular, and the QRS complex is narrow. The P axis can also differ, resulting in inverted P waves in inferior leads. Since this is from a single focus, the P waves are uniform throughout this rhythm, and it can be paroxysmal (comes and goes) or sustained.[5] The rate is typically 130 to 170 BPM.
 
@@ -67,7 +66,7 @@ PACs are commonly found on EKGs. They are due to an ectopic focus within the atr
 
 Premature ventricular contractions (PVCs) occur when an ectopic focus in the ventricles fires. Since the impulse originates in a ventricle, it is slowly conducted through the ventricles, resulting in a wide QRS complex. Like other premature contractions, these occur during other rhythms. There is no P wave before the ectopic beat, and there is typically a compensatory pause such that the length of 2 normal R-R intervals is preserved. This is because the PVC does not depolarize the SA node, and the SA node continues to fire at its regular intervals. PVCs are typically benign and occur in healthy and unhealthy individuals. When PVCs occur every other beat, it is referred to as ventricular bigeminy; when they occur every third beat, it is referred to as ventricular trigeminy.[8]
 
-Junctional escape rhythms occur either when there is sinus node disease with a very slow or nonexistent atrial rhythm (sick sinus syndrome) or when there is a complete heart block high in the AV node. The AV node has its automaticity (typically 40-50 bpm) and can become the heart's primary pacemaker. Not uncommonly, in junctional escape rhythms, particularly when they are present due to sinus node disease, there is a retrograde P wave seen just before or during the QRS, as the AV node depolarizes the ventricle and atrium simultaneously. 
+Junctional escape rhythms occur either when there is sinus node disease with a very slow or nonexistent atrial rhythm (sick sinus syndrome) or when there is a complete heart block high in the AV node. The AV node has its automaticity (typically 40-50 bpm) and can become the heart's primary pacemaker. Not uncommonly, in junctional escape rhythms, particularly when they are present due to sinus node disease, there is a retrograde P wave seen just before or during the QRS, as the AV node depolarizes the ventricle and atrium simultaneously.
 
 Ventricular escape rhythms typically occur when there is a disease in the AV node (ie, complete heart block). The intrinsic rate of the ventricles is 30 to 40 bpm. The QRS is wide because the complexes initiate in the ventricle. If there is concomitant SA node disease, there may not be P waves, but most often, there are P waves at a faster rate than the ventricular escape with no discernible relationship between the P waves and QRS complexes.
 
@@ -79,78 +78,64 @@ The rhythm of the EKG is usually clinically significant because it affects the r
 
 Accurate rhythm identification is important because treatment directly depends on what type of rhythm the patient has. Recognizing the underlying cause of an arrhythmia is always indicated, and sometimes it is the only treatment necessary for the patient.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Fast and accurate rhythm identification is an important skill for medical professionals in many disciplines. EKGs are performed in the prehospital setting, physicians' offices, emergency department, surgery, and hospital. The healthcare team is responsible for recognizing potentially dangerous rhythms to ensure proper patient care before it becomes life-threatening. Quick and accurate rhythm identification by anybody in the healthcare team can improve morbidity and mortality in any of these patients. It is important to look at the patient as a whole when interpreting EKG rhythms since the knowledge of an individual patient on whom an EKG is ordered may result in a more critical rhythm assessment and might account for the higher accuracy of rhythm interpretation.[10]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20938&utm_source=pubmed&utm_campaign=reviews&utm_content=20938)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20938&utm_source=pubmed&utm_campaign=reviews&utm_content=20938)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20938/?utm_source=pubmed&utm_campaign=comments&utm_content=20938)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20938/?utm_source=pubmed&utm_campaign=comments&utm_content=20938)
 
 [![Image ](/books/NBK555952/bin/EKG__Rhythm__flowchart.gif)](/books/NBK555952/figure/article-20938.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK555952/figure/article-20938.image.f1/?report=objectonly)
 
-EKG Rhythm Flowchart Contributed by Bryan Rogoff, DO 
+EKG Rhythm Flowchart Contributed by Bryan Rogoff, DO
 
 ## References
 
 1.
-    
 
-Hutchisson B, Cossey S, Wheeler RM. Basic electrocardiogram interpretation for perioperative nurses. AORN J. 2003 Oct;78(4):572-81, 585-90; quiz 591-4. [[PubMed: 14575183](https://pubmed.ncbi.nlm.nih.gov/14575183)]
+Hutchisson B, Cossey S, Wheeler RM. Basic electrocardiogram interpretation for perioperative nurses. AORN J. 2003 Oct;78(4):572-81, 585-90; quiz 591-4. \[[PubMed: 14575183](https://pubmed.ncbi.nlm.nih.gov/14575183)\]
 
 2.
-    
 
-Baladi IH, Rai AA, Ahmed SM. ECG changes in patients with primary hyperthyroidism. Pan Afr Med J. 2018;30:246. [[PMC free article: PMC6307920](/pmc/articles/PMC6307920/)] [[PubMed: 30627307](https://pubmed.ncbi.nlm.nih.gov/30627307)]
+Baladi IH, Rai AA, Ahmed SM. ECG changes in patients with primary hyperthyroidism. Pan Afr Med J. 2018;30:246. \[[PMC free article: PMC6307920](/pmc/articles/PMC6307920/)\] \[[PubMed: 30627307](https://pubmed.ncbi.nlm.nih.gov/30627307)\]
 
 3.
-    
 
-Miranda-Bacallado J, Izquierdo-Gómez MM, García-Niebla J, Jiménez JJ, Iribarren JL, Laynez-Cerdeña I, Lacalzada-Almeida J. Role of echocardiography in a patient with suspected acute pulmonary embolism: a case report. J Med Case Rep. 2019 Feb 19;13(1):37. [[PMC free article: PMC6379930](/pmc/articles/PMC6379930/)] [[PubMed: 30777120](https://pubmed.ncbi.nlm.nih.gov/30777120)]
+Miranda-Bacallado J, Izquierdo-Gómez MM, García-Niebla J, Jiménez JJ, Iribarren JL, Laynez-Cerdeña I, Lacalzada-Almeida J. Role of echocardiography in a patient with suspected acute pulmonary embolism: a case report. J Med Case Rep. 2019 Feb 19;13(1):37. \[[PMC free article: PMC6379930](/pmc/articles/PMC6379930/)\] \[[PubMed: 30777120](https://pubmed.ncbi.nlm.nih.gov/30777120)\]
 
 4.
-    
 
-Ruperti Repilado FJ, Doerig L, Blum S, Aeschbacher S, Krisai P, Ammann P, Erne P, Moschovitis G, di Valentino M, Shah D, Schläpfer J, Stempfel S, Kühne M, Sticherling C, Osswald S, Conen D. Prevalence and predictors of atrial fibrillation type among individuals with recent onset of atrial fibrillation. Swiss Med Wkly. 2018 Sep 10;148:w14652. [[PubMed: 30378644](https://pubmed.ncbi.nlm.nih.gov/30378644)]
+Ruperti Repilado FJ, Doerig L, Blum S, Aeschbacher S, Krisai P, Ammann P, Erne P, Moschovitis G, di Valentino M, Shah D, Schläpfer J, Stempfel S, Kühne M, Sticherling C, Osswald S, Conen D. Prevalence and predictors of atrial fibrillation type among individuals with recent onset of atrial fibrillation. Swiss Med Wkly. 2018 Sep 10;148:w14652. \[[PubMed: 30378644](https://pubmed.ncbi.nlm.nih.gov/30378644)\]
 
 5.
-    
 
-Kotadia ID, Williams SE, O'Neill M. Supraventricular tachycardia: An overview of diagnosis and management. Clin Med (Lond). 2020 Jan;20(1):43-47. [[PMC free article: PMC6964177](/pmc/articles/PMC6964177/)] [[PubMed: 31941731](https://pubmed.ncbi.nlm.nih.gov/31941731)]
+Kotadia ID, Williams SE, O'Neill M. Supraventricular tachycardia: An overview of diagnosis and management. Clin Med (Lond). 2020 Jan;20(1):43-47. \[[PMC free article: PMC6964177](/pmc/articles/PMC6964177/)\] \[[PubMed: 31941731](https://pubmed.ncbi.nlm.nih.gov/31941731)\]
 
 6.
-    
 
-Di Biase L, Gianni C, Bagliani G, Padeletti L. Arrhythmias Involving the Atrioventricular Junction. Card Electrophysiol Clin. 2017 Sep;9(3):435-452. [[PubMed: 28838549](https://pubmed.ncbi.nlm.nih.gov/28838549)]
+Di Biase L, Gianni C, Bagliani G, Padeletti L. Arrhythmias Involving the Atrioventricular Junction. Card Electrophysiol Clin. 2017 Sep;9(3):435-452. \[[PubMed: 28838549](https://pubmed.ncbi.nlm.nih.gov/28838549)\]
 
 7.
-    
 
-Letsas KP, Weber R, Siklody CH, Mihas CC, Stockinger J, Blum T, Kalusche D, Arentz T. Electrocardiographic differentiation of common type atrioventricular nodal reentrant tachycardia from atrioventricular reciprocating tachycardia via a concealed accessory pathway. Acta Cardiol. 2010 Apr;65(2):171-6. [[PubMed: 20458824](https://pubmed.ncbi.nlm.nih.gov/20458824)]
+Letsas KP, Weber R, Siklody CH, Mihas CC, Stockinger J, Blum T, Kalusche D, Arentz T. Electrocardiographic differentiation of common type atrioventricular nodal reentrant tachycardia from atrioventricular reciprocating tachycardia via a concealed accessory pathway. Acta Cardiol. 2010 Apr;65(2):171-6. \[[PubMed: 20458824](https://pubmed.ncbi.nlm.nih.gov/20458824)\]
 
 8.
-    
 
-Mond HG, Haqqani HM. The Electrocardiographic Footprints of Ventricular Ectopy. Heart Lung Circ. 2020 Jul;29(7):988-999. [[PubMed: 32063472](https://pubmed.ncbi.nlm.nih.gov/32063472)]
+Mond HG, Haqqani HM. The Electrocardiographic Footprints of Ventricular Ectopy. Heart Lung Circ. 2020 Jul;29(7):988-999. \[[PubMed: 32063472](https://pubmed.ncbi.nlm.nih.gov/32063472)\]
 
 9.
-    
 
-Fu DG. Cardiac Arrhythmias: Diagnosis, Symptoms, and Treatments. Cell Biochem Biophys. 2015 Nov;73(2):291-296. [[PubMed: 25737133](https://pubmed.ncbi.nlm.nih.gov/25737133)]
+Fu DG. Cardiac Arrhythmias: Diagnosis, Symptoms, and Treatments. Cell Biochem Biophys. 2015 Nov;73(2):291-296. \[[PubMed: 25737133](https://pubmed.ncbi.nlm.nih.gov/25737133)\]
 
 10.
-    
 
-Anh D, Krishnan S, Bogun F. Accuracy of electrocardiogram interpretation by cardiologists in the setting of incorrect computer analysis. J Electrocardiol. 2006 Jul;39(3):343-5. [[PubMed: 16777525](https://pubmed.ncbi.nlm.nih.gov/16777525)]
-
-    
+Anh D, Krishnan S, Bogun F. Accuracy of electrocardiogram interpretation by cardiologists in the setting of incorrect computer analysis. J Electrocardiol. 2006 Jul;39(3):343-5. \[[PubMed: 16777525](https://pubmed.ncbi.nlm.nih.gov/16777525)\]
 
 **Disclosure:** Bryan Rogoff declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Yuri Pride declares no relevant financial relationships with ineligible companies.

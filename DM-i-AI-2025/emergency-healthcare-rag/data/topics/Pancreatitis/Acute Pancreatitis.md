@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26578/
-scraped_date: 2025-07-22 12:48:22 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26578/ scraped_date: 2025-07-22 12:48:22 UTC
 
 # Acute Pancreatitis
 
@@ -29,13 +28,13 @@ Acute pancreatitis is the leading cause of gastrointestinal-related hospitalizat
 
 **Objectives:**
 
-  * Identify a patient presentation consistent with acute pancreatitis.
+- Identify a patient presentation consistent with acute pancreatitis.
 
-  * Assess how to use the Revised Atlanta Classification to diagnose pancreatitis.
+- Assess how to use the Revised Atlanta Classification to diagnose pancreatitis.
 
-  * Evaluate the treatment strategy for acute pancreatitis.
+- Evaluate the treatment strategy for acute pancreatitis.
 
-  * Communicate the roles of interprofessional team members in both the prevention of and management of patients with acute pancreatitis.
+- Communicate the roles of interprofessional team members in both the prevention of and management of patients with acute pancreatitis.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26578&utm_source=pubmed&utm_campaign=reviews&utm_content=26578)
 
@@ -45,17 +44,17 @@ Acute pancreatitis is a common disease and is the leading cause of hospitalizati
 
 The Atlanta classification broadly classifies acute pancreatitis into 2 categories:
 
-  * Interstitial edematous acute pancreatitis is characterized by the acute inflammation of the pancreatic parenchyma and surrounding peri-pancreatic tissue. 
+- Interstitial edematous acute pancreatitis is characterized by the acute inflammation of the pancreatic parenchyma and surrounding peri-pancreatic tissue.
 
-  * Necrotizing acute pancreatitis is characterized by necrosis of pancreatic parenchyma and peri-pancreatic tissue.[5]
+- Necrotizing acute pancreatitis is characterized by necrosis of pancreatic parenchyma and peri-pancreatic tissue.[5]
 
 Based on the severity of the disease, acute pancreatitis is divided into the following types;
 
-  * In mild acute pancreatitis, local or systemic complications and organ failure are absent.
+- In mild acute pancreatitis, local or systemic complications and organ failure are absent.
 
-  * In moderately severe acute pancreatitis, there are local complications with or without organic failure for less than 48 hours.
+- In moderately severe acute pancreatitis, there are local complications with or without organic failure for less than 48 hours.
 
-  * In severe acute pancreatitis, there is persistent organ failure for more than 48 hours with the involvement of 1 or more than 1 organ.
+- In severe acute pancreatitis, there is persistent organ failure for more than 48 hours with the involvement of 1 or more than 1 organ.
 
 The pancreas is a digestive gland organ found in front of vertebrae L1 and L2 bodies on the posterior abdominal wall. The pancreas lies transversely between the duodenum on the right and the spleen on the left. It is divided into 4 parts: the head, neck, body, and tail. The head of the pancreas lies on the inferior vena cava and the right renal vein and is surrounded by the loop of the duodenum. The tail of the pancreas extends up to the splenic hilum. The primary function of the pancreas can be divided into exocrine and endocrine secretions. The exocrine secretion (pancreatic juice from the acinar cells) enters the duodenum through the main and accessory pancreatic ducts, and endocrine secretions (glucagon and insulin from the pancreatic islets of Langerhans) enter the blood.[6]
 
@@ -63,43 +62,43 @@ The pancreas is a digestive gland organ found in front of vertebrae L1 and L2 bo
 
 The most common causes of acute pancreatitis include gallstones, alcohol use, and hypertriglyceridemia (see **Image.** Acute Pancreatitis, Gallstones). The occurrence rate of each acute pancreatitis etiology varies across geographic regions and socioeconomic strata. Common etiologies of acute pancreatitis are listed below.[4][7][8]
 
-  * Gallstones
+- Gallstones
 
-  * Alcohol use 
+- Alcohol use
 
-  * Hypertriglyceridemia
+- Hypertriglyceridemia
 
-  * Drug-induced pancreatitis
+- Drug-induced pancreatitis
 
-  * Idiopathic
+- Idiopathic
 
-  * Post-procedural, eg, endoscopic retrograde cholangiopancreatography or abdominal surgery
+- Post-procedural, eg, endoscopic retrograde cholangiopancreatography or abdominal surgery
 
-  * Ampullary stenosis, which is formerly known as sphincter of Oddi dysfunction type I
+- Ampullary stenosis, which is formerly known as sphincter of Oddi dysfunction type I
 
-  * Autoimmune pancreatitis, type I (systemic IgG4 disease-related), and type II
+- Autoimmune pancreatitis, type I (systemic IgG4 disease-related), and type II
 
-  * Viral infections like Coxsackie, Cytomegalovirus, Echovirus, Epstein-Barr virus, Hepatitis A/B/C, HIV, Mumps, Rubella, and Varicella
+- Viral infections like Coxsackie, Cytomegalovirus, Echovirus, Epstein-Barr virus, Hepatitis A/B/C, HIV, Mumps, Rubella, and Varicella
 
-  * Bacterial infections like  _Campylobacter jejuni, Legionella, Leptospirosis, Mycobacterium avium, Mycobacterium tuberculosis, and Mycoplasma_
+- Bacterial infections like _Campylobacter jejuni, Legionella, Leptospirosis, Mycobacterium avium, Mycobacterium tuberculosis, and Mycoplasma_
 
-  * Smoking
+- Smoking
 
-  * Trauma
+- Trauma
 
-  * Congenital anomalies, eg, annular pancreas
+- Congenital anomalies, eg, annular pancreas
 
-  * Genetic disorders like hereditary pancreatitis, cystic fibrosis, and alpha 1-antitrypsin deficiency
+- Genetic disorders like hereditary pancreatitis, cystic fibrosis, and alpha 1-antitrypsin deficiency
 
-  * Hypercalcemia
+- Hypercalcemia
 
-  * Parasitic infections _(Ascaris lumbricoides, Cryptosporidium, Clonorchis Sinensis, Microsporidia_)
+- Parasitic infections _(Ascaris lumbricoides, Cryptosporidium, Clonorchis Sinensis, Microsporidia_)
 
-  * Renal disease (Hemodialysis)
+- Renal disease (Hemodialysis)
 
-  * Toxins (Scorpion bites, organophosphate poisoning)
+- Toxins (Scorpion bites, organophosphate poisoning)
 
-  * Vasculitis (Polyarteritis nodosa, Systemic lupus erythematosus)
+- Vasculitis (Polyarteritis nodosa, Systemic lupus erythematosus)
 
 The causes of acute pancreatitis can be summarized into the following categories in the table below. See **Image**. Causes of Pancreatitis.
 
@@ -129,15 +128,15 @@ Family history should be reviewed, mainly when more common etiologies appear les
 
 According to the Revised Atlanta Classification, the diagnosis of acute pancreatitis requires meeting at least 2 of 3 criteria:
 
-  1. A lipase or amylase level is 3 times the normal's upper limit.
+1. A lipase or amylase level is 3 times the normal's upper limit.
 
-  2. Abdominal pain is consistent with pancreatitis.
+1. Abdominal pain is consistent with pancreatitis.
 
-  3. Abdominal imaging is consistent with acute pancreatitis. 
+1. Abdominal imaging is consistent with acute pancreatitis.
 
 Establishing the underlying etiology of acute pancreatitis includes initial evaluation followed by laboratory evaluation. The critical element of the first assessment of suspected acute pancreatitis involves a detailed history, which includes symptoms of gallstone disease or evidence of gallstone disease on imaging, unexplained weight loss or new onset of diabetes, history of alcohol abuse, medication use, prior surgical procedure or trauma, history of hypertriglyceridemia or hypercalcemia, history of autoimmune disease or family history of recurrent acute pancreatitis. See **Image.** Acute Pancreatitis, Signs and Symptoms.
 
-Laboratory evaluation of patients with acute pancreatitis should include routine tests, eg, serum triglyceride, serum calcium, liver biochemical tests, additional genetic testing in patients with strong family history, and imaging studies, including abdominal ultrasound for assessment of choledocholithiasis and bile duct dilatation. A chest radiograph is usually obtained in moderate to severe cases to evaluate for pleural effusions, indicating the higher severity of the disease with higher mortality. In some instances where the diagnosis is equivocal, but pancreatitis is still suspected, performing computed tomography (CT) with intravenous contrast is recommended to establish or rule out the diagnosis. CT is also performed in cases where the patient has failed to improve or worsen despite adequate fluid resuscitation over 48 hours to determine the presence of necrosis (see **Image.** Peripancreatic Necrotic Fluid Shown on CT). The table below summarizes the detailed evaluation of a patient with suspected acute pancreatitis. 
+Laboratory evaluation of patients with acute pancreatitis should include routine tests, eg, serum triglyceride, serum calcium, liver biochemical tests, additional genetic testing in patients with strong family history, and imaging studies, including abdominal ultrasound for assessment of choledocholithiasis and bile duct dilatation. A chest radiograph is usually obtained in moderate to severe cases to evaluate for pleural effusions, indicating the higher severity of the disease with higher mortality. In some instances where the diagnosis is equivocal, but pancreatitis is still suspected, performing computed tomography (CT) with intravenous contrast is recommended to establish or rule out the diagnosis. CT is also performed in cases where the patient has failed to improve or worsen despite adequate fluid resuscitation over 48 hours to determine the presence of necrosis (see **Image.** Peripancreatic Necrotic Fluid Shown on CT). The table below summarizes the detailed evaluation of a patient with suspected acute pancreatitis.
 
 [![Table Icon](/corehtml/pmc/css/bookshelf/2.26/img/table-icon.gif)](/books/NBK482468/table/article-26578.table1/?report=objectonly "Table")
 
@@ -171,29 +170,29 @@ Necrotic collection management remains challenging. The sterile collection is in
 
 The overall differential for abdominal pain constitutes the differential for acute pancreatitis. It can be significantly narrowed down to a specific diagnosis with a good history and physical examination described above. Differential diagnoses for acute pancreatitis include but are not limited to the following:
 
-  * Peptic ulcer disease
+- Peptic ulcer disease
 
-  * Cholangitis
+- Cholangitis
 
-  * Cholecystitis
+- Cholecystitis
 
-  * Bowel obstruction
+- Bowel obstruction
 
-  * Bowel perforation
+- Bowel perforation
 
-  * Mesenteric ischemia
+- Mesenteric ischemia
 
-  * Acute hepatitis
+- Acute hepatitis
 
-  * Diabetic ketoacidosis
+- Diabetic ketoacidosis
 
-  * Basilar pneumonia
+- Basilar pneumonia
 
-  * Myocardial infarction
+- Myocardial infarction
 
-  * Aortic dissection
+- Aortic dissection
 
-  * Renal colic
+- Renal colic
 
 In many cases of abdominal pain, a lipase level 3 times the upper limit of normal allows for the diagnosis of pancreatitis as the source of abdominal pain due to its high specificity. An abdominal ultrasound helps to differentiate cholecystitis, whereas high suspicion of mesenteric ischemia warrants a CT angiogram. In high-risk patients, the cardiac source should be concurrently ruled out as it can present atypical epigastric pain. Though the pain of a progressing aortic dissection is more severe and tearing in nature, it should be considered due to its particularly urgent nature.
 
@@ -211,7 +210,7 @@ The overall mortality of acute pancreatitis is approximately 1 to 2%; however, s
 
 #### [Table](/books/NBK482468/table/article-26578.table3/?report=objectonly)
 
-The modified CT Severity Index (CTSI) is a sum of scores retrieved from the Balthazar score and those from the evaluation of pancreatic necrosis. It can aid in predicting mortality and detecting any necrosis on CT imaging as a predictor of high mortality.[35] Total points are out of ten, which helps determine the grade of pancreatitis and aid in treatment; 0 to 2 is mild, 4 to 6 is moderate, and 8 to 10 is severe. 
+The modified CT Severity Index (CTSI) is a sum of scores retrieved from the Balthazar score and those from the evaluation of pancreatic necrosis. It can aid in predicting mortality and detecting any necrosis on CT imaging as a predictor of high mortality.[35] Total points are out of ten, which helps determine the grade of pancreatitis and aid in treatment; 0 to 2 is mild, 4 to 6 is moderate, and 8 to 10 is severe.
 
 [![Table Icon](/corehtml/pmc/css/bookshelf/2.26/img/table-icon.gif)](/books/NBK482468/table/article-26578.table4/?report=objectonly "Table")
 
@@ -231,48 +230,49 @@ The table summarizes the complications of acute pancreatitis.
 
 Consultations that are typically requestioned for patients with acute pancreatitis include the following:
 
-  * General surgeon
+- General surgeon
 
-  * Radiologist
+- Radiologist
 
-  * Gastroenterologist
+- Gastroenterologist
 
-  * Intensivist
+- Intensivist
 
-  * Pulmonologist
+- Pulmonologist
 
-  * Endocrinologist
+- Endocrinologist
 
 ## Deterrence and Patient Education
 
 Patients require education regarding exacerbating factors for their condition, including:
 
-  * If they experience an attack, they should not attempt to drive themselves to a medical facility.
+- If they experience an attack, they should not attempt to drive themselves to a medical facility.
 
-  * If alcohol plays a role in their pancreatitis, they need help to stop drinking.
+- If alcohol plays a role in their pancreatitis, they need help to stop drinking.
 
-  * Follow all medication instructions carefully.
+- Follow all medication instructions carefully.
 
-  * Consume a low-fat diet; a dietician can assist them with menu suggestions and meal planning.
+- Consume a low-fat diet; a dietician can assist them with menu suggestions and meal planning.
 
-  * If possible, they should learn to take and record their pulse and understand which readings mean they should obtain medical help.
+- If possible, they should learn to take and record their pulse and understand which readings mean they should obtain medical help.
 
-  * Contact the clinician if they experience any of the following: 
-    * Fever
+- Contact the clinician if they experience any of the following:
 
-    * Severe abdominal pain
+  - Fever
 
-    * Nausea and vomiting
+  - Severe abdominal pain
 
-    * Dizziness or lightheadedness
+  - Nausea and vomiting
 
-    * Yellowing of skin or eyes, which could be a sign of jaundice
+  - Dizziness or lightheadedness
 
-    * Rapid pulse
+  - Yellowing of skin or eyes, which could be a sign of jaundice
 
-    * Shallow, rapid breathing
+  - Rapid pulse
 
-    * Abdominal swelling or tenderness
+  - Shallow, rapid breathing
+
+  - Abdominal swelling or tenderness
 
 ## Pearls and Other Issues
 
@@ -282,7 +282,7 @@ The Bedside Index Severity in Acute Pancreatitis (BISAP) score can aid in triagi
 
 The incidence of idiopathic pancreatitis remains as high as 10 to 20% of acute pancreatitis cases and causes a particular diagnostic and management dilemma. Recent studies continue to address the best use of EUS and ERCP in evaluating these cases with a more tempered approach to ERCP due to its relatively high rate of inducing post-procedural pancreatitis. A recent randomized control trial (RCT), published in The New English journal of Medicine, was conducted at 18 centers in which patients diagnosed with acute pancreatitis were randomly assigned to either goal-directed aggressive or moderate fluid resuscitation with lactated ringers solution. The trial concluded with the development of a higher incidence of fluid overload in patients who received aggressive fluid resuscitation without improvement in clinical outcomes.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Acute pancreatitis is a severe disorder. The most effective way to manage the condition is with an interprofessional team of healthcare professionals, including a surgeon, radiologist, endocrinologist, pulmonologist, intensivist, gastroenterologist, pharmacist, nurse, and addiction specialist. The 3 major causes of acute pancreatitis are gallstones, alcohol, and medications. The emphasis should be on prevention. The nurse and pharmacist are in the prime position to educate the patient on lowering their risks of acute pancreatitis by abstaining from alcohol, losing weight, eating a low-fat diet, and reducing their lipid profile. In addition, the pharmacist can re-evaluate all the medications and recommend discontinuing those associated with pancreatitis.[36][37][38] It is incumbent on all team members to exercise open communication with the rest of the team and to keep meticulous records of every interaction or intervention with the patient so that everyone involved in care can access the same accurate, updated patient data. This interprofessional approach yields the best possible patient results.
 
@@ -292,29 +292,29 @@ Acute pancreatitis is a severe disorder that still carries a mortality of 5 to 1
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26578&utm_source=pubmed&utm_campaign=reviews&utm_content=26578)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26578&utm_source=pubmed&utm_campaign=reviews&utm_content=26578)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/health/acute-pancreatitis-pancreatitis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26578)
+- [Click here for a simplified version.](https://mdsearchlight.com/health/acute-pancreatitis-pancreatitis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26578)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26578/?utm_source=pubmed&utm_campaign=comments&utm_content=26578)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26578/?utm_source=pubmed&utm_campaign=comments&utm_content=26578)
 
 [![Signs and Symptoms of Acute Pancreatitis](/books/NBK482468/bin/medical1-01.gif)](/books/NBK482468/figure/article-26578.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK482468/figure/article-26578.image.f1/?report=objectonly)
 
-Signs and Symptoms of Acute Pancreatitis. The illustration highlights classic features of this condition. Contributed by A Tariq, MD 
+Signs and Symptoms of Acute Pancreatitis. The illustration highlights classic features of this condition. Contributed by A Tariq, MD
 
 [![Causes of Pancreatitis](/books/NBK482468/bin/Cause__Pancreatitis.gif)](/books/NBK482468/figure/article-26578.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK482468/figure/article-26578.image.f2/?report=objectonly)
 
-Causes of Pancreatitis. The illustration presents common etiologies of acute pancreatitis. Contributed by A Tariq, MD 
+Causes of Pancreatitis. The illustration presents common etiologies of acute pancreatitis. Contributed by A Tariq, MD
 
 [![Gallstone-Induced Acute Pancreatitis](/books/NBK482468/bin/Acute__Pancreatitis__Gallstones.gif)](/books/NBK482468/figure/article-26578.image.f3/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK482468/figure/article-26578.image.f3/?report=objectonly)
 
-Gallstone-Induced Acute Pancreatitis. This image shows the mechanism by which gallstones cause pancreatic injury. Contributed by A Tariq, MD 
+Gallstone-Induced Acute Pancreatitis. This image shows the mechanism by which gallstones cause pancreatic injury. Contributed by A Tariq, MD
 
 [![Necrotizing Pancreatitis with Extensive Peripancreatic Nodularity](/books/NBK482468/bin/1740123E-1A29-4437-8B3A-965B2795B063.gif)](/books/NBK482468/figure/article-26578.image.f4/?report=objectonly "Figure")
 
@@ -331,218 +331,171 @@ Peripancreatic Necrotic Fluid on Computed Tomography. This image demonstrates ac
 ## References
 
 1.
-    
 
-Werge M, Novovic S, Schmidt PN, Gluud LL. Infection increases mortality in necrotizing pancreatitis: A systematic review and meta-analysis. Pancreatology. 2016 Sep-Oct;16(5):698-707. [[PubMed: 27449605](https://pubmed.ncbi.nlm.nih.gov/27449605)]
+Werge M, Novovic S, Schmidt PN, Gluud LL. Infection increases mortality in necrotizing pancreatitis: A systematic review and meta-analysis. Pancreatology. 2016 Sep-Oct;16(5):698-707. \[[PubMed: 27449605](https://pubmed.ncbi.nlm.nih.gov/27449605)\]
 
 2.
-    
 
-Valverde-López F, Wilcox CM, Redondo-Cerezo E. Evaluation and management of acute pancreatitis in Spain. Gastroenterol Hepatol. 2018 Dec;41(10):618-628. [[PubMed: 30149943](https://pubmed.ncbi.nlm.nih.gov/30149943)]
+Valverde-López F, Wilcox CM, Redondo-Cerezo E. Evaluation and management of acute pancreatitis in Spain. Gastroenterol Hepatol. 2018 Dec;41(10):618-628. \[[PubMed: 30149943](https://pubmed.ncbi.nlm.nih.gov/30149943)\]
 
 3.
-    
 
-Kahaleh M. Management of pancreatitis and pancreatic: fluid collections. Rev Gastroenterol Peru. 2018 Apr-Jun;38(2):169-182. [[PubMed: 30118464](https://pubmed.ncbi.nlm.nih.gov/30118464)]
+Kahaleh M. Management of pancreatitis and pancreatic: fluid collections. Rev Gastroenterol Peru. 2018 Apr-Jun;38(2):169-182. \[[PubMed: 30118464](https://pubmed.ncbi.nlm.nih.gov/30118464)\]
 
 4.
-    
 
-Bazerbachi F, Haffar S, Hussain MT, Vargas EJ, Watt KD, Murad MH, Chari S, Abu Dayyeh BK. Systematic review of acute pancreatitis associated with interferon-α or pegylated interferon-α: Possible or definitive causation? Pancreatology. 2018 Oct;18(7):691-699. [[PubMed: 30061072](https://pubmed.ncbi.nlm.nih.gov/30061072)]
+Bazerbachi F, Haffar S, Hussain MT, Vargas EJ, Watt KD, Murad MH, Chari S, Abu Dayyeh BK. Systematic review of acute pancreatitis associated with interferon-α or pegylated interferon-α: Possible or definitive causation? Pancreatology. 2018 Oct;18(7):691-699. \[[PubMed: 30061072](https://pubmed.ncbi.nlm.nih.gov/30061072)\]
 
 5.
-    
 
-Ortiz Morales CM, Girela Baena EL, Olalla Muñoz JR, Parlorio de Andrés E, López Corbalán JA. Radiology of acute pancreatitis today: the Atlanta classification and the current role of imaging in its diagnosis and treatment. Radiologia (Engl Ed). 2019 Nov-Dec;61(6):453-466. [[PubMed: 31153603](https://pubmed.ncbi.nlm.nih.gov/31153603)]
+Ortiz Morales CM, Girela Baena EL, Olalla Muñoz JR, Parlorio de Andrés E, López Corbalán JA. Radiology of acute pancreatitis today: the Atlanta classification and the current role of imaging in its diagnosis and treatment. Radiologia (Engl Ed). 2019 Nov-Dec;61(6):453-466. \[[PubMed: 31153603](https://pubmed.ncbi.nlm.nih.gov/31153603)\]
 
 6.
-    
 
-Talathi SS, Zimmerman R, Young M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Apr 5, 2023. Anatomy, Abdomen and Pelvis, Pancreas. [[PubMed: 30422507](https://pubmed.ncbi.nlm.nih.gov/30422507)]
+Talathi SS, Zimmerman R, Young M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Apr 5, 2023. Anatomy, Abdomen and Pelvis, Pancreas. \[[PubMed: 30422507](https://pubmed.ncbi.nlm.nih.gov/30422507)\]
 
 7.
-    
 
-Fonseca Sepúlveda EV, Guerrero-Lozano R. Acute pancreatitis and recurrent acute pancreatitis: an exploration of clinical and etiologic factors and outcomes. J Pediatr (Rio J). 2019 Nov-Dec;95(6):713-719. [[PubMed: 30075118](https://pubmed.ncbi.nlm.nih.gov/30075118)]
+Fonseca Sepúlveda EV, Guerrero-Lozano R. Acute pancreatitis and recurrent acute pancreatitis: an exploration of clinical and etiologic factors and outcomes. J Pediatr (Rio J). 2019 Nov-Dec;95(6):713-719. \[[PubMed: 30075118](https://pubmed.ncbi.nlm.nih.gov/30075118)\]
 
 8.
-    
 
-Barbara M, Tsen A, Rosenkranz L. Acute Pancreatitis in Chronic Dialysis Patients. Pancreas. 2018 Sep;47(8):946-951. [[PubMed: 30113429](https://pubmed.ncbi.nlm.nih.gov/30113429)]
+Barbara M, Tsen A, Rosenkranz L. Acute Pancreatitis in Chronic Dialysis Patients. Pancreas. 2018 Sep;47(8):946-951. \[[PubMed: 30113429](https://pubmed.ncbi.nlm.nih.gov/30113429)\]
 
 9.
-    
 
-de Pretis N, Amodio A, Frulloni L. Hypertriglyceridemic pancreatitis: Epidemiology, pathophysiology and clinical management. United European Gastroenterol J. 2018 Jun;6(5):649-655. [[PMC free article: PMC6068776](/pmc/articles/PMC6068776/)] [[PubMed: 30083325](https://pubmed.ncbi.nlm.nih.gov/30083325)]
+de Pretis N, Amodio A, Frulloni L. Hypertriglyceridemic pancreatitis: Epidemiology, pathophysiology and clinical management. United European Gastroenterol J. 2018 Jun;6(5):649-655. \[[PMC free article: PMC6068776](/pmc/articles/PMC6068776/)\] \[[PubMed: 30083325](https://pubmed.ncbi.nlm.nih.gov/30083325)\]
 
 10.
-    
 
-Kirkegård J, Cronin-Fenton D, Heide-Jørgensen U, Mortensen FV. Acute Pancreatitis and Pancreatic Cancer Risk: A Nationwide Matched-Cohort Study in Denmark. Gastroenterology. 2018 May;154(6):1729-1736. [[PubMed: 29432727](https://pubmed.ncbi.nlm.nih.gov/29432727)]
+Kirkegård J, Cronin-Fenton D, Heide-Jørgensen U, Mortensen FV. Acute Pancreatitis and Pancreatic Cancer Risk: A Nationwide Matched-Cohort Study in Denmark. Gastroenterology. 2018 May;154(6):1729-1736. \[[PubMed: 29432727](https://pubmed.ncbi.nlm.nih.gov/29432727)\]
 
 11.
-    
 
-Johnstone C. Pathophysiology and nursing management of acute pancreatitis. Nurs Stand. 2018 Jun 28; [[PubMed: 29952150](https://pubmed.ncbi.nlm.nih.gov/29952150)]
+Johnstone C. Pathophysiology and nursing management of acute pancreatitis. Nurs Stand. 2018 Jun 28; \[[PubMed: 29952150](https://pubmed.ncbi.nlm.nih.gov/29952150)\]
 
 12.
-    
 
-Constantinoiu S, Cochior D. Severe Acute Pancreatitis - Determinant Factors and Current Therapeutic Conduct. Chirurgia (Bucur). 2018 May-Jun;113(3):385-390. [[PubMed: 29981669](https://pubmed.ncbi.nlm.nih.gov/29981669)]
+Constantinoiu S, Cochior D. Severe Acute Pancreatitis - Determinant Factors and Current Therapeutic Conduct. Chirurgia (Bucur). 2018 May-Jun;113(3):385-390. \[[PubMed: 29981669](https://pubmed.ncbi.nlm.nih.gov/29981669)\]
 
 13.
-    
 
-Choi HW, Park HJ, Choi SY, Do JH, Yoon NY, Ko A, Lee ES. Early Prediction of the Severity of Acute Pancreatitis Using Radiologic and Clinical Scoring Systems With Classification Tree Analysis. AJR Am J Roentgenol. 2018 Nov;211(5):1035-1043. [[PubMed: 30160978](https://pubmed.ncbi.nlm.nih.gov/30160978)]
+Choi HW, Park HJ, Choi SY, Do JH, Yoon NY, Ko A, Lee ES. Early Prediction of the Severity of Acute Pancreatitis Using Radiologic and Clinical Scoring Systems With Classification Tree Analysis. AJR Am J Roentgenol. 2018 Nov;211(5):1035-1043. \[[PubMed: 30160978](https://pubmed.ncbi.nlm.nih.gov/30160978)\]
 
 14.
-    
 
-Mandalia A, Wamsteker EJ, DiMagno MJ. Recent advances in understanding and managing acute pancreatitis. F1000Res. 2018;7 [[PMC free article: PMC6039949](/pmc/articles/PMC6039949/)] [[PubMed: 30026919](https://pubmed.ncbi.nlm.nih.gov/30026919)]
+Mandalia A, Wamsteker EJ, DiMagno MJ. Recent advances in understanding and managing acute pancreatitis. F1000Res. 2018;7 \[[PMC free article: PMC6039949](/pmc/articles/PMC6039949/)\] \[[PubMed: 30026919](https://pubmed.ncbi.nlm.nih.gov/30026919)\]
 
 15.
-    
 
-Smeets XJNM, Litjens G, Gijsbers K, Prokop M, Drenth JPH, Hermans J, van Geenen EJM. The Accuracy of Pancreatic Perfusion Computed Tomography and Angiography in Predicting Necrotizing Pancreatitis: A Systematic Review. Pancreas. 2018 Jul;47(6):667-674. [[PubMed: 29894416](https://pubmed.ncbi.nlm.nih.gov/29894416)]
+Smeets XJNM, Litjens G, Gijsbers K, Prokop M, Drenth JPH, Hermans J, van Geenen EJM. The Accuracy of Pancreatic Perfusion Computed Tomography and Angiography in Predicting Necrotizing Pancreatitis: A Systematic Review. Pancreas. 2018 Jul;47(6):667-674. \[[PubMed: 29894416](https://pubmed.ncbi.nlm.nih.gov/29894416)\]
 
 16.
-    
 
-Barrie J, Jamdar S, Smith N, McPherson SJ, Siriwardena AK, O'Reilly DA. Mis-use of antibiotics in acute pancreatitis: Insights from the United Kingdom's National Confidential Enquiry into patient outcome and death (NCEPOD) survey of acute pancreatitis. Pancreatology. 2018 Oct;18(7):721-726. [[PubMed: 30075909](https://pubmed.ncbi.nlm.nih.gov/30075909)]
+Barrie J, Jamdar S, Smith N, McPherson SJ, Siriwardena AK, O'Reilly DA. Mis-use of antibiotics in acute pancreatitis: Insights from the United Kingdom's National Confidential Enquiry into patient outcome and death (NCEPOD) survey of acute pancreatitis. Pancreatology. 2018 Oct;18(7):721-726. \[[PubMed: 30075909](https://pubmed.ncbi.nlm.nih.gov/30075909)\]
 
 17.
-    
 
-Reynolds PT, Brady EK, Chawla S. The utility of early cross-sectional imaging to evaluate suspected acute mild pancreatitis. Ann Gastroenterol. 2018 Sep-Oct;31(5):628-632. [[PMC free article: PMC6102458](/pmc/articles/PMC6102458/)] [[PubMed: 30174401](https://pubmed.ncbi.nlm.nih.gov/30174401)]
+Reynolds PT, Brady EK, Chawla S. The utility of early cross-sectional imaging to evaluate suspected acute mild pancreatitis. Ann Gastroenterol. 2018 Sep-Oct;31(5):628-632. \[[PMC free article: PMC6102458](/pmc/articles/PMC6102458/)\] \[[PubMed: 30174401](https://pubmed.ncbi.nlm.nih.gov/30174401)\]
 
 18.
-    
 
-Sellers ZM, Abu-El-Haija M, Husain SZ, Morinville V. New Management Guidelines for Both Children and Adults With Acute Pancreatitis. Gastroenterology. 2018 Jul;155(1):234-235. [[PubMed: 29890113](https://pubmed.ncbi.nlm.nih.gov/29890113)]
+Sellers ZM, Abu-El-Haija M, Husain SZ, Morinville V. New Management Guidelines for Both Children and Adults With Acute Pancreatitis. Gastroenterology. 2018 Jul;155(1):234-235. \[[PubMed: 29890113](https://pubmed.ncbi.nlm.nih.gov/29890113)\]
 
 19.
-    
 
-de-Madaria E, Buxbaum JL, Maisonneuve P, García García de Paredes A, Zapater P, Guilabert L, Vaillo-Rocamora A, Rodríguez-Gandía MÁ, Donate-Ortega J, Lozada-Hernández EE, Collazo Moreno AJR, Lira-Aguilar A, Llovet LP, Mehta R, Tandel R, Navarro P, Sánchez-Pardo AM, Sánchez-Marin C, Cobreros M, Fernández-Cabrera I, Casals-Seoane F, Casas Deza D, Lauret-Braña E, Martí-Marqués E, Camacho-Montaño LM, Ubieto V, Ganuza M, Bolado F., ERICA Consortium. Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis. N Engl J Med. 2022 Sep 15;387(11):989-1000. [[PubMed: 36103415](https://pubmed.ncbi.nlm.nih.gov/36103415)]
+de-Madaria E, Buxbaum JL, Maisonneuve P, García García de Paredes A, Zapater P, Guilabert L, Vaillo-Rocamora A, Rodríguez-Gandía MÁ, Donate-Ortega J, Lozada-Hernández EE, Collazo Moreno AJR, Lira-Aguilar A, Llovet LP, Mehta R, Tandel R, Navarro P, Sánchez-Pardo AM, Sánchez-Marin C, Cobreros M, Fernández-Cabrera I, Casals-Seoane F, Casas Deza D, Lauret-Braña E, Martí-Marqués E, Camacho-Montaño LM, Ubieto V, Ganuza M, Bolado F., ERICA Consortium. Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis. N Engl J Med. 2022 Sep 15;387(11):989-1000. \[[PubMed: 36103415](https://pubmed.ncbi.nlm.nih.gov/36103415)\]
 
 20.
-    
 
-Gardner TB. Fluid Resuscitation in Acute Pancreatitis - Going over the WATERFALL. N Engl J Med. 2022 Sep 15;387(11):1038-1039. [[PubMed: 36103418](https://pubmed.ncbi.nlm.nih.gov/36103418)]
+Gardner TB. Fluid Resuscitation in Acute Pancreatitis - Going over the WATERFALL. N Engl J Med. 2022 Sep 15;387(11):1038-1039. \[[PubMed: 36103418](https://pubmed.ncbi.nlm.nih.gov/36103418)\]
 
 21.
-    
 
-Petrov MS, Yadav D. Global epidemiology and holistic prevention of pancreatitis. Nat Rev Gastroenterol Hepatol. 2019 Mar;16(3):175-184. [[PMC free article: PMC6597260](/pmc/articles/PMC6597260/)] [[PubMed: 30482911](https://pubmed.ncbi.nlm.nih.gov/30482911)]
+Petrov MS, Yadav D. Global epidemiology and holistic prevention of pancreatitis. Nat Rev Gastroenterol Hepatol. 2019 Mar;16(3):175-184. \[[PMC free article: PMC6597260](/pmc/articles/PMC6597260/)\] \[[PubMed: 30482911](https://pubmed.ncbi.nlm.nih.gov/30482911)\]
 
 22.
-    
 
-Samarasekera E, Mahammed S, Carlisle S, Charnley R., Guideline Committee. Pancreatitis: summary of NICE guidance. BMJ. 2018 Sep 05;362:k3443. [[PubMed: 30185473](https://pubmed.ncbi.nlm.nih.gov/30185473)]
+Samarasekera E, Mahammed S, Carlisle S, Charnley R., Guideline Committee. Pancreatitis: summary of NICE guidance. BMJ. 2018 Sep 05;362:k3443. \[[PubMed: 30185473](https://pubmed.ncbi.nlm.nih.gov/30185473)\]
 
 23.
-    
 
-Crockett SD, Wani S, Gardner TB, Falck-Ytter Y, Barkun AN., American Gastroenterological Association Institute Clinical Guidelines Committee. American Gastroenterological Association Institute Guideline on Initial Management of Acute Pancreatitis. Gastroenterology. 2018 Mar;154(4):1096-1101. [[PubMed: 29409760](https://pubmed.ncbi.nlm.nih.gov/29409760)]
+Crockett SD, Wani S, Gardner TB, Falck-Ytter Y, Barkun AN., American Gastroenterological Association Institute Clinical Guidelines Committee. American Gastroenterological Association Institute Guideline on Initial Management of Acute Pancreatitis. Gastroenterology. 2018 Mar;154(4):1096-1101. \[[PubMed: 29409760](https://pubmed.ncbi.nlm.nih.gov/29409760)\]
 
 24.
-    
 
-Leppäniemi A, Tolonen M, Tarasconi A, Segovia-Lohse H, Gamberini E, Kirkpatrick AW, Ball CG, Parry N, Sartelli M, Wolbrink D, van Goor H, Baiocchi G, Ansaloni L, Biffl W, Coccolini F, Di Saverio S, Kluger Y, Moore E, Catena F. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27. [[PMC free article: PMC6567462](/pmc/articles/PMC6567462/)] [[PubMed: 31210778](https://pubmed.ncbi.nlm.nih.gov/31210778)]
+Leppäniemi A, Tolonen M, Tarasconi A, Segovia-Lohse H, Gamberini E, Kirkpatrick AW, Ball CG, Parry N, Sartelli M, Wolbrink D, van Goor H, Baiocchi G, Ansaloni L, Biffl W, Coccolini F, Di Saverio S, Kluger Y, Moore E, Catena F. 2019 WSES guidelines for the management of severe acute pancreatitis. World J Emerg Surg. 2019;14:27. \[[PMC free article: PMC6567462](/pmc/articles/PMC6567462/)\] \[[PubMed: 31210778](https://pubmed.ncbi.nlm.nih.gov/31210778)\]
 
 25.
-    
 
-Cai W, Liu F, Wen Y, Han C, Prasad M, Xia Q, Singh VK, Sutton R, Huang W. Pain Management in Acute Pancreatitis: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. Front Med (Lausanne). 2021;8:782151. [[PMC free article: PMC8718672](/pmc/articles/PMC8718672/)] [[PubMed: 34977084](https://pubmed.ncbi.nlm.nih.gov/34977084)]
+Cai W, Liu F, Wen Y, Han C, Prasad M, Xia Q, Singh VK, Sutton R, Huang W. Pain Management in Acute Pancreatitis: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. Front Med (Lausanne). 2021;8:782151. \[[PMC free article: PMC8718672](/pmc/articles/PMC8718672/)\] \[[PubMed: 34977084](https://pubmed.ncbi.nlm.nih.gov/34977084)\]
 
 26.
-    
 
-Basurto Ona X, Rigau Comas D, Urrútia G. Opioids for acute pancreatitis pain. Cochrane Database Syst Rev. 2013 Jul 26;2013(7):CD009179. [[PMC free article: PMC11841764](/pmc/articles/PMC11841764/)] [[PubMed: 23888429](https://pubmed.ncbi.nlm.nih.gov/23888429)]
+Basurto Ona X, Rigau Comas D, Urrútia G. Opioids for acute pancreatitis pain. Cochrane Database Syst Rev. 2013 Jul 26;2013(7):CD009179. \[[PMC free article: PMC11841764](/pmc/articles/PMC11841764/)\] \[[PubMed: 23888429](https://pubmed.ncbi.nlm.nih.gov/23888429)\]
 
 27.
-    
 
-Stigliano S, Sternby H, de Madaria E, Capurso G, Petrov MS. Early management of acute pancreatitis: A review of the best evidence. Dig Liver Dis. 2017 Jun;49(6):585-594. [[PubMed: 28262458](https://pubmed.ncbi.nlm.nih.gov/28262458)]
+Stigliano S, Sternby H, de Madaria E, Capurso G, Petrov MS. Early management of acute pancreatitis: A review of the best evidence. Dig Liver Dis. 2017 Jun;49(6):585-594. \[[PubMed: 28262458](https://pubmed.ncbi.nlm.nih.gov/28262458)\]
 
 28.
-    
 
-Arvanitakis M, Dumonceau JM, Albert J, Badaoui A, Bali MA, Barthet M, Besselink M, Deviere J, Oliveira Ferreira A, Gyökeres T, Hritz I, Hucl T, Milashka M, Papanikolaou IS, Poley JW, Seewald S, Vanbiervliet G, van Lienden K, van Santvoort H, Voermans R, Delhaye M, van Hooft J. Endoscopic management of acute necrotizing pancreatitis: European Society of Gastrointestinal Endoscopy (ESGE) evidence-based multidisciplinary guidelines. Endoscopy. 2018 May;50(5):524-546. [[PubMed: 29631305](https://pubmed.ncbi.nlm.nih.gov/29631305)]
+Arvanitakis M, Dumonceau JM, Albert J, Badaoui A, Bali MA, Barthet M, Besselink M, Deviere J, Oliveira Ferreira A, Gyökeres T, Hritz I, Hucl T, Milashka M, Papanikolaou IS, Poley JW, Seewald S, Vanbiervliet G, van Lienden K, van Santvoort H, Voermans R, Delhaye M, van Hooft J. Endoscopic management of acute necrotizing pancreatitis: European Society of Gastrointestinal Endoscopy (ESGE) evidence-based multidisciplinary guidelines. Endoscopy. 2018 May;50(5):524-546. \[[PubMed: 29631305](https://pubmed.ncbi.nlm.nih.gov/29631305)\]
 
 29.
-    
 
-Abu-El-Haija M, Kumar S, Quiros JA, Balakrishnan K, Barth B, Bitton S, Eisses JF, Foglio EJ, Fox V, Francis D, Freeman AJ, Gonska T, Grover AS, Husain SZ, Kumar R, Lapsia S, Lin T, Liu QY, Maqbool A, Sellers ZM, Szabo F, Uc A, Werlin SL, Morinville VD. Management of Acute Pancreatitis in the Pediatric Population: A Clinical Report From the North American Society for Pediatric Gastroenterology, Hepatology and Nutrition Pancreas Committee. J Pediatr Gastroenterol Nutr. 2018 Jan;66(1):159-176. [[PMC free article: PMC5755713](/pmc/articles/PMC5755713/)] [[PubMed: 29280782](https://pubmed.ncbi.nlm.nih.gov/29280782)]
+Abu-El-Haija M, Kumar S, Quiros JA, Balakrishnan K, Barth B, Bitton S, Eisses JF, Foglio EJ, Fox V, Francis D, Freeman AJ, Gonska T, Grover AS, Husain SZ, Kumar R, Lapsia S, Lin T, Liu QY, Maqbool A, Sellers ZM, Szabo F, Uc A, Werlin SL, Morinville VD. Management of Acute Pancreatitis in the Pediatric Population: A Clinical Report From the North American Society for Pediatric Gastroenterology, Hepatology and Nutrition Pancreas Committee. J Pediatr Gastroenterol Nutr. 2018 Jan;66(1):159-176. \[[PMC free article: PMC5755713](/pmc/articles/PMC5755713/)\] \[[PubMed: 29280782](https://pubmed.ncbi.nlm.nih.gov/29280782)\]
 
 30.
-    
 
-Working Group IAP/APA Acute Pancreatitis Guidelines. IAP/APA evidence-based guidelines for the management of acute pancreatitis. Pancreatology. 2013 Jul-Aug;13(4 Suppl 2):e1-15. [[PubMed: 24054878](https://pubmed.ncbi.nlm.nih.gov/24054878)]
+Working Group IAP/APA Acute Pancreatitis Guidelines. IAP/APA evidence-based guidelines for the management of acute pancreatitis. Pancreatology. 2013 Jul-Aug;13(4 Suppl 2):e1-15. \[[PubMed: 24054878](https://pubmed.ncbi.nlm.nih.gov/24054878)\]
 
 31.
-    
 
-Mofidi R, Duff MD, Wigmore SJ, Madhavan KK, Garden OJ, Parks RW. Association between early systemic inflammatory response, severity of multiorgan dysfunction and death in acute pancreatitis. Br J Surg. 2006 Jun;93(6):738-44. [[PubMed: 16671062](https://pubmed.ncbi.nlm.nih.gov/16671062)]
+Mofidi R, Duff MD, Wigmore SJ, Madhavan KK, Garden OJ, Parks RW. Association between early systemic inflammatory response, severity of multiorgan dysfunction and death in acute pancreatitis. Br J Surg. 2006 Jun;93(6):738-44. \[[PubMed: 16671062](https://pubmed.ncbi.nlm.nih.gov/16671062)\]
 
 32.
-    
 
-Buter A, Imrie CW, Carter CR, Evans S, McKay CJ. Dynamic nature of early organ dysfunction determines outcome in acute pancreatitis. Br J Surg. 2002 Mar;89(3):298-302. [[PubMed: 11872053](https://pubmed.ncbi.nlm.nih.gov/11872053)]
+Buter A, Imrie CW, Carter CR, Evans S, McKay CJ. Dynamic nature of early organ dysfunction determines outcome in acute pancreatitis. Br J Surg. 2002 Mar;89(3):298-302. \[[PubMed: 11872053](https://pubmed.ncbi.nlm.nih.gov/11872053)\]
 
 33.
-    
 
-Singh VK, Wu BU, Bollen TL, Repas K, Maurer R, Mortele KJ, Banks PA. Early systemic inflammatory response syndrome is associated with severe acute pancreatitis. Clin Gastroenterol Hepatol. 2009 Nov;7(11):1247-51. [[PubMed: 19686869](https://pubmed.ncbi.nlm.nih.gov/19686869)]
+Singh VK, Wu BU, Bollen TL, Repas K, Maurer R, Mortele KJ, Banks PA. Early systemic inflammatory response syndrome is associated with severe acute pancreatitis. Clin Gastroenterol Hepatol. 2009 Nov;7(11):1247-51. \[[PubMed: 19686869](https://pubmed.ncbi.nlm.nih.gov/19686869)\]
 
 34.
-    
 
-Gao W, Yang HX, Ma CE. The Value of BISAP Score for Predicting Mortality and Severity in Acute Pancreatitis: A Systematic Review and Meta-Analysis. PLoS One. 2015;10(6):e0130412. [[PMC free article: PMC4474919](/pmc/articles/PMC4474919/)] [[PubMed: 26091293](https://pubmed.ncbi.nlm.nih.gov/26091293)]
+Gao W, Yang HX, Ma CE. The Value of BISAP Score for Predicting Mortality and Severity in Acute Pancreatitis: A Systematic Review and Meta-Analysis. PLoS One. 2015;10(6):e0130412. \[[PMC free article: PMC4474919](/pmc/articles/PMC4474919/)\] \[[PubMed: 26091293](https://pubmed.ncbi.nlm.nih.gov/26091293)\]
 
 35.
-    
 
-Mortele KJ, Wiesner W, Intriere L, Shankar S, Zou KH, Kalantari BN, Perez A, vanSonnenberg E, Ros PR, Banks PA, Silverman SG. A modified CT severity index for evaluating acute pancreatitis: improved correlation with patient outcome. AJR Am J Roentgenol. 2004 Nov;183(5):1261-5. [[PubMed: 15505289](https://pubmed.ncbi.nlm.nih.gov/15505289)]
+Mortele KJ, Wiesner W, Intriere L, Shankar S, Zou KH, Kalantari BN, Perez A, vanSonnenberg E, Ros PR, Banks PA, Silverman SG. A modified CT severity index for evaluating acute pancreatitis: improved correlation with patient outcome. AJR Am J Roentgenol. 2004 Nov;183(5):1261-5. \[[PubMed: 15505289](https://pubmed.ncbi.nlm.nih.gov/15505289)\]
 
 36.
-    
 
-Gódi S, Erőss B, Gyömbér Z, Szentesi A, Farkas N, Párniczky A, Sarlós P, Bajor J, Czimmer J, Mikó A, Márta K, Hágendorn R, Márton Z, Verzár Z, Czakó L, Szepes Z, Vincze Á, Hegyi P. Centralized care for acute pancreatitis significantly improves outcomes. J Gastrointestin Liver Dis. 2018 Jun;27(2):151-157. [[PubMed: 29922760](https://pubmed.ncbi.nlm.nih.gov/29922760)]
+Gódi S, Erőss B, Gyömbér Z, Szentesi A, Farkas N, Párniczky A, Sarlós P, Bajor J, Czimmer J, Mikó A, Márta K, Hágendorn R, Márton Z, Verzár Z, Czakó L, Szepes Z, Vincze Á, Hegyi P. Centralized care for acute pancreatitis significantly improves outcomes. J Gastrointestin Liver Dis. 2018 Jun;27(2):151-157. \[[PubMed: 29922760](https://pubmed.ncbi.nlm.nih.gov/29922760)\]
 
 37.
-    
 
-Branquinho D, Ramos-Andrade D, Elvas L, Amaro P, Ferreira M, Sofia C. Drug-Induced Acute Pancreatitis and Pseudoaneurysms: An Ominous Combination. GE Port J Gastroenterol. 2016 Nov-Dec;23(6):309-313. [[PMC free article: PMC5580098](/pmc/articles/PMC5580098/)] [[PubMed: 28868485](https://pubmed.ncbi.nlm.nih.gov/28868485)]
+Branquinho D, Ramos-Andrade D, Elvas L, Amaro P, Ferreira M, Sofia C. Drug-Induced Acute Pancreatitis and Pseudoaneurysms: An Ominous Combination. GE Port J Gastroenterol. 2016 Nov-Dec;23(6):309-313. \[[PMC free article: PMC5580098](/pmc/articles/PMC5580098/)\] \[[PubMed: 28868485](https://pubmed.ncbi.nlm.nih.gov/28868485)\]
 
 38.
-    
 
-Srinivasan G, Venkatakrishnan L, Sambandam S, Singh G, Kaur M, Janarthan K, John BJ. Current concepts in the management of acute pancreatitis. J Family Med Prim Care. 2016 Oct-Dec;5(4):752-758. [[PMC free article: PMC5353808](/pmc/articles/PMC5353808/)] [[PubMed: 28348985](https://pubmed.ncbi.nlm.nih.gov/28348985)]
+Srinivasan G, Venkatakrishnan L, Sambandam S, Singh G, Kaur M, Janarthan K, John BJ. Current concepts in the management of acute pancreatitis. J Family Med Prim Care. 2016 Oct-Dec;5(4):752-758. \[[PMC free article: PMC5353808](/pmc/articles/PMC5353808/)\] \[[PubMed: 28348985](https://pubmed.ncbi.nlm.nih.gov/28348985)\]
 
 39.
-    
 
-Jin T, Jiang K, Deng L, Guo J, Wu Y, Wang Z, Shi N, Zhang X, Lin Z, Asrani V, Jones P, Mittal A, Phillips A, Sutton R, Huang W, Yang X, Xia Q, Windsor JA. Response and outcome from fluid resuscitation in acute pancreatitis: a prospective cohort study. HPB (Oxford). 2018 Nov;20(11):1082-1091. [[PubMed: 30170979](https://pubmed.ncbi.nlm.nih.gov/30170979)]
+Jin T, Jiang K, Deng L, Guo J, Wu Y, Wang Z, Shi N, Zhang X, Lin Z, Asrani V, Jones P, Mittal A, Phillips A, Sutton R, Huang W, Yang X, Xia Q, Windsor JA. Response and outcome from fluid resuscitation in acute pancreatitis: a prospective cohort study. HPB (Oxford). 2018 Nov;20(11):1082-1091. \[[PubMed: 30170979](https://pubmed.ncbi.nlm.nih.gov/30170979)\]
 
 40.
-    
 
-Amas Gómez L, Zubia Olaskoaga F. Results of the modification of an acute pancreatitis management protocol in Intensive Care medicine. Med Intensiva (Engl Ed). 2019 Dec;43(9):546-555. [[PubMed: 30072142](https://pubmed.ncbi.nlm.nih.gov/30072142)]
+Amas Gómez L, Zubia Olaskoaga F. Results of the modification of an acute pancreatitis management protocol in Intensive Care medicine. Med Intensiva (Engl Ed). 2019 Dec;43(9):546-555. \[[PubMed: 30072142](https://pubmed.ncbi.nlm.nih.gov/30072142)\]
 
 41.
-    
 
-Garret C, Péron M, Reignier J, Le Thuaut A, Lascarrou JB, Douane F, Lerhun M, Archambeaud I, Brulé N, Bretonnière C, Zambon O, Nicolet L, Regenet N, Guitton C, Coron E. Risk factors and outcomes of infected pancreatic necrosis: Retrospective cohort of 148 patients admitted to the ICU for acute pancreatitis. United European Gastroenterol J. 2018 Jul;6(6):910-918. [[PMC free article: PMC6047289](/pmc/articles/PMC6047289/)] [[PubMed: 30023069](https://pubmed.ncbi.nlm.nih.gov/30023069)]
-
-    
+Garret C, Péron M, Reignier J, Le Thuaut A, Lascarrou JB, Douane F, Lerhun M, Archambeaud I, Brulé N, Bretonnière C, Zambon O, Nicolet L, Regenet N, Guitton C, Coron E. Risk factors and outcomes of infected pancreatic necrosis: Retrospective cohort of 148 patients admitted to the ICU for acute pancreatitis. United European Gastroenterol J. 2018 Jul;6(6):910-918. \[[PMC free article: PMC6047289](/pmc/articles/PMC6047289/)\] \[[PubMed: 30023069](https://pubmed.ncbi.nlm.nih.gov/30023069)\]
 
 **Disclosure:** Jonathan Gapp declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Amina Tariq declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Subhash Chandra declares no relevant financial relationships with ineligible companies.

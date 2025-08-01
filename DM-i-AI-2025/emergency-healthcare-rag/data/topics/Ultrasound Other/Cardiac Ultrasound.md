@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18908/
-scraped_date: 2025-07-22 12:54:49 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18908/ scraped_date: 2025-07-22 12:54:49 UTC
 
 # Cardiac Ultrasound
 
@@ -31,13 +30,13 @@ Cardiac ultrasound, or echocardiography, is a noninvasive diagnostic modality th
 
 **Objectives:**
 
-  * Identify the indications for the cardiac ultrasound.
+- Identify the indications for the cardiac ultrasound.
 
-  * Evaluate the technique involved in cardiac ultrasound.
+- Evaluate the technique involved in cardiac ultrasound.
 
-  * Assess the equipment used for the cardiac ultrasound.
+- Assess the equipment used for the cardiac ultrasound.
 
-  * Communicate interprofessional team strategies for enhancing care coordination to advance the use of cardiac ultrasound and improve patient outcomes.
+- Communicate interprofessional team strategies for enhancing care coordination to advance the use of cardiac ultrasound and improve patient outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18908&utm_source=pubmed&utm_campaign=reviews&utm_content=18908)
 
@@ -55,51 +54,51 @@ Following are some important indications of doing a cardiac ultrasound:
 
 1\. Chest pain
 
-  * Left ventricle wall motion abnormalities, or failure of certain parts of the left ventricle wall to contract, suggest acute coronary syndrome in the appropriate clinical setting.
+- Left ventricle wall motion abnormalities, or failure of certain parts of the left ventricle wall to contract, suggest acute coronary syndrome in the appropriate clinical setting.
 
-  * Right ventricle dilation (the right ventricle as large or larger than the left ventricle) suggests right heart strain. If there is associated right ventricle free wall thickness greater than 5 mm or tricuspid regurgitation with velocities higher than 4 m/s, this supports chronic right heart strain. However, a right ventricle or right atrial thrombus (the echogenic mass that has movement independent of the ventricle/atrium) and or a McConnell sign (right ventricle hypokinesis with apical sparing) in the setting of chest pain or shortness of breath suggests a pulmonary embolism.
+- Right ventricle dilation (the right ventricle as large or larger than the left ventricle) suggests right heart strain. If there is associated right ventricle free wall thickness greater than 5 mm or tricuspid regurgitation with velocities higher than 4 m/s, this supports chronic right heart strain. However, a right ventricle or right atrial thrombus (the echogenic mass that has movement independent of the ventricle/atrium) and or a McConnell sign (right ventricle hypokinesis with apical sparing) in the setting of chest pain or shortness of breath suggests a pulmonary embolism.
 
-  * Visualization of an intimal flap in the ascending aorta (highly specific) or dilation of the aortic outflow tract greater than 4 cm (leading edge to leading edge) with or without a pericardial effusion suggests a Stanford type A aortic dissection.[1][2][3]
+- Visualization of an intimal flap in the ascending aorta (highly specific) or dilation of the aortic outflow tract greater than 4 cm (leading edge to leading edge) with or without a pericardial effusion suggests a Stanford type A aortic dissection.[1][2][3]
 
 2\. Shortness of breath
 
-  * A pericardial effusion explains undifferentiated dyspnea in up to 13% of cases.[4]
+- A pericardial effusion explains undifferentiated dyspnea in up to 13% of cases.[4]
 
-  * A depressed left ventricle ejection fraction of less than 50% (less than 30% fractional shortening or an E-point septal separation of greater than 7 mm) supports congestive heart failure or myocarditis.[5]
+- A depressed left ventricle ejection fraction of less than 50% (less than 30% fractional shortening or an E-point septal separation of greater than 7 mm) supports congestive heart failure or myocarditis.[5]
 
-  * Acute coronary syndrome
+- Acute coronary syndrome
 
-  * Pulmonary embolism
+- Pulmonary embolism
 
-  * Endocarditis[6]
+- Endocarditis[6]
 
-  * Valvular heart disease[7][8][7]
+- Valvular heart disease[7][8][7]
 
 3\. Hypotension
 
-  * Massive or submassive pulmonary embolism[9]
+- Massive or submassive pulmonary embolism[9]
 
-  * Cardiogenic shock
+- Cardiogenic shock
 
-  * Pericardial effusion with tamponade physiology
+- Pericardial effusion with tamponade physiology
 
-  * Aortic dissection
+- Aortic dissection
 
-  * Hyperdynamic squeeze may suggest sepsis or hemorrhagic shock
+- Hyperdynamic squeeze may suggest sepsis or hemorrhagic shock
 
 4\. Penetrating trauma or significant blunt trauma to the chest
 
-  * Pericardial effusion with or without tamponade physiology
+- Pericardial effusion with or without tamponade physiology
 
-  * Left ventricular wall motion abnormalities may be appreciated in the setting of a cardiac contusion[10][11]
+- Left ventricular wall motion abnormalities may be appreciated in the setting of a cardiac contusion[10][11]
 
 5\. Cardiac arrest
 
-  * Organized cardiac activity seen on ultrasound following PEA arrest is associated with survival compared to disorganized activity.
+- Organized cardiac activity seen on ultrasound following PEA arrest is associated with survival compared to disorganized activity.
 
-  * Detection of reversible causes such as pericardial effusion or pulmonary embolism can be identified.
+- Detection of reversible causes such as pericardial effusion or pulmonary embolism can be identified.
 
-  * Cardiac ultrasound may offer guidance/feedback to medical providers delivering chest compressions regarding the quality of compressions. Transesophageal echocardiography is preferred for this indication as it can better visualize the heart during cardiopulmonary resuscitation (CPR) to see if the ventricles are adequately compressed.[12]
+- Cardiac ultrasound may offer guidance/feedback to medical providers delivering chest compressions regarding the quality of compressions. Transesophageal echocardiography is preferred for this indication as it can better visualize the heart during cardiopulmonary resuscitation (CPR) to see if the ventricles are adequately compressed.[12]
 
 ## Contraindications
 
@@ -145,122 +144,96 @@ Cardiac ultrasound, like most diagnostic ultrasound applications, is associated 
 
 Cardiac ultrasound is a non-invasive, rapid, inexpensive application that expedites the diagnosis and management of imminently life-threatening diseases, including pericardial tamponade, acute coronary syndrome, cardiomyopathy, pulmonary embolism, and Stanford type A aortic dissection. Cardiac ultrasound can also differentiate shock states and guide resuscitative measures.[18]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The interprofessional team should perform cardiac ultrasound or echocardiography as needed to evaluate patients. This noninvasive diagnostic modality can quickly provide detailed hemodynamic information at the patient's bedside. Nurses should be prepared to assist the provider in point-of-care ultrasound applications from head to toe.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18908&utm_source=pubmed&utm_campaign=reviews&utm_content=18908)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18908&utm_source=pubmed&utm_campaign=reviews&utm_content=18908)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/cardiac-ultrasound-echocardiogram/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18908)
+- [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/cardiac-ultrasound-echocardiogram/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18908)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18908/?utm_source=pubmed&utm_campaign=comments&utm_content=18908)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18908/?utm_source=pubmed&utm_campaign=comments&utm_content=18908)
 
 ## References
 
 1.
-    
 
-Arntfield R, Pace J, Hewak M, Thompson D. Focused Transesophageal Echocardiography by Emergency Physicians is Feasible and Clinically Influential: Observational Results from a Novel Ultrasound Program. J Emerg Med. 2016 Feb;50(2):286-94. [[PubMed: 26508495](https://pubmed.ncbi.nlm.nih.gov/26508495)]
+Arntfield R, Pace J, Hewak M, Thompson D. Focused Transesophageal Echocardiography by Emergency Physicians is Feasible and Clinically Influential: Observational Results from a Novel Ultrasound Program. J Emerg Med. 2016 Feb;50(2):286-94. \[[PubMed: 26508495](https://pubmed.ncbi.nlm.nih.gov/26508495)\]
 
 2.
-    
 
-Nazerian P, Vanni S, Castelli M, Morello F, Tozzetti C, Zagli G, Giannazzo G, Vergara R, Grifoni S. Diagnostic performance of emergency transthoracic focus cardiac ultrasound in suspected acute type A aortic dissection. Intern Emerg Med. 2014 Sep;9(6):665-70. [[PubMed: 24871637](https://pubmed.ncbi.nlm.nih.gov/24871637)]
+Nazerian P, Vanni S, Castelli M, Morello F, Tozzetti C, Zagli G, Giannazzo G, Vergara R, Grifoni S. Diagnostic performance of emergency transthoracic focus cardiac ultrasound in suspected acute type A aortic dissection. Intern Emerg Med. 2014 Sep;9(6):665-70. \[[PubMed: 24871637](https://pubmed.ncbi.nlm.nih.gov/24871637)\]
 
 3.
-    
 
-Lang RM, Badano LP, Mor-Avi V, Afilalo J, Armstrong A, Ernande L, Flachskampf FA, Foster E, Goldstein SA, Kuznetsova T, Lancellotti P, Muraru D, Picard MH, Rietzschel ER, Rudski L, Spencer KT, Tsang W, Voigt JU. Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging. Eur Heart J Cardiovasc Imaging. 2015 Mar;16(3):233-70. [[PubMed: 25712077](https://pubmed.ncbi.nlm.nih.gov/25712077)]
+Lang RM, Badano LP, Mor-Avi V, Afilalo J, Armstrong A, Ernande L, Flachskampf FA, Foster E, Goldstein SA, Kuznetsova T, Lancellotti P, Muraru D, Picard MH, Rietzschel ER, Rudski L, Spencer KT, Tsang W, Voigt JU. Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging. Eur Heart J Cardiovasc Imaging. 2015 Mar;16(3):233-70. \[[PubMed: 25712077](https://pubmed.ncbi.nlm.nih.gov/25712077)\]
 
 4.
-    
 
-Blaivas M. Incidence of pericardial effusion in patients presenting to the emergency department with unexplained dyspnea. Acad Emerg Med. 2001 Dec;8(12):1143-6. [[PubMed: 11733291](https://pubmed.ncbi.nlm.nih.gov/11733291)]
+Blaivas M. Incidence of pericardial effusion in patients presenting to the emergency department with unexplained dyspnea. Acad Emerg Med. 2001 Dec;8(12):1143-6. \[[PubMed: 11733291](https://pubmed.ncbi.nlm.nih.gov/11733291)\]
 
 5.
-    
 
-Secko MA, Lazar JM, Salciccioli LA, Stone MB. Can junior emergency physicians use E-point septal separation to accurately estimate left ventricular function in acutely dyspneic patients? Acad Emerg Med. 2011 Nov;18(11):1223-6. [[PubMed: 22044429](https://pubmed.ncbi.nlm.nih.gov/22044429)]
+Secko MA, Lazar JM, Salciccioli LA, Stone MB. Can junior emergency physicians use E-point septal separation to accurately estimate left ventricular function in acutely dyspneic patients? Acad Emerg Med. 2011 Nov;18(11):1223-6. \[[PubMed: 22044429](https://pubmed.ncbi.nlm.nih.gov/22044429)\]
 
 6.
-    
 
-Iung B, Rouzet F, Brochet E, Duval X. Cardiac Imaging of Infective Endocarditis, Echo and Beyond. Curr Infect Dis Rep. 2017 Feb;19(2):8. [[PubMed: 28233189](https://pubmed.ncbi.nlm.nih.gov/28233189)]
+Iung B, Rouzet F, Brochet E, Duval X. Cardiac Imaging of Infective Endocarditis, Echo and Beyond. Curr Infect Dis Rep. 2017 Feb;19(2):8. \[[PubMed: 28233189](https://pubmed.ncbi.nlm.nih.gov/28233189)\]
 
 7.
-    
 
-Buck T, Bösche L, Plicht B. [Real-time 3D echocardiography for estimation of severity in valvular heart disease : Impact on current guidelines]. Herz. 2017 May;42(3):241-254. [[PubMed: 28229203](https://pubmed.ncbi.nlm.nih.gov/28229203)]
+Buck T, Bösche L, Plicht B. [Real-time 3D echocardiography for estimation of severity in valvular heart disease : Impact on current guidelines]. Herz. 2017 May;42(3):241-254. \[[PubMed: 28229203](https://pubmed.ncbi.nlm.nih.gov/28229203)\]
 
 8.
-    
 
-Kennedy Hall M, Coffey EC, Herbst M, Liu R, Pare JR, Andrew Taylor R, Thomas S, Moore CL. The "5Es" of emergency physician-performed focused cardiac ultrasound: a protocol for rapid identification of effusion, ejection, equality, exit, and entrance. Acad Emerg Med. 2015 May;22(5):583-93. [[PubMed: 25903585](https://pubmed.ncbi.nlm.nih.gov/25903585)]
+Kennedy Hall M, Coffey EC, Herbst M, Liu R, Pare JR, Andrew Taylor R, Thomas S, Moore CL. The "5Es" of emergency physician-performed focused cardiac ultrasound: a protocol for rapid identification of effusion, ejection, equality, exit, and entrance. Acad Emerg Med. 2015 May;22(5):583-93. \[[PubMed: 25903585](https://pubmed.ncbi.nlm.nih.gov/25903585)\]
 
 9.
-    
 
-Abbasi OZ, Doan TT, Duggal S, Nair SU, Quinn SM. Utilization of bedside ultrasound in the diagnosis and management of massive pulmonary embolism: a case report. Radiol Case Rep. 2016 Dec;11(4):447-449. [[PMC free article: PMC5128386](/pmc/articles/PMC5128386/)] [[PubMed: 27920878](https://pubmed.ncbi.nlm.nih.gov/27920878)]
+Abbasi OZ, Doan TT, Duggal S, Nair SU, Quinn SM. Utilization of bedside ultrasound in the diagnosis and management of massive pulmonary embolism: a case report. Radiol Case Rep. 2016 Dec;11(4):447-449. \[[PMC free article: PMC5128386](/pmc/articles/PMC5128386/)\] \[[PubMed: 27920878](https://pubmed.ncbi.nlm.nih.gov/27920878)\]
 
 10.
-    
 
-Saranteas T, Mavrogenis AF, Mandila C, Poularas J, Panou F. Ultrasound in cardiac trauma. J Crit Care. 2017 Apr;38:144-151. [[PubMed: 27907878](https://pubmed.ncbi.nlm.nih.gov/27907878)]
+Saranteas T, Mavrogenis AF, Mandila C, Poularas J, Panou F. Ultrasound in cardiac trauma. J Crit Care. 2017 Apr;38:144-151. \[[PubMed: 27907878](https://pubmed.ncbi.nlm.nih.gov/27907878)\]
 
 11.
-    
 
-Gautam PL, Luthra N, Kaur M, Singh J, Wander GS, Tandon R, Namrata, Gautam N. Evaluation of Myocardial Injury using Standard Diagnostic Tools and Tissue Doppler Imaging in Blunt Trauma Chest. J Clin Diagn Res. 2017 Jun;11(6):OC33-OC36. [[PMC free article: PMC5535414](/pmc/articles/PMC5535414/)] [[PubMed: 28764222](https://pubmed.ncbi.nlm.nih.gov/28764222)]
+Gautam PL, Luthra N, Kaur M, Singh J, Wander GS, Tandon R, Namrata, Gautam N. Evaluation of Myocardial Injury using Standard Diagnostic Tools and Tissue Doppler Imaging in Blunt Trauma Chest. J Clin Diagn Res. 2017 Jun;11(6):OC33-OC36. \[[PMC free article: PMC5535414](/pmc/articles/PMC5535414/)\] \[[PubMed: 28764222](https://pubmed.ncbi.nlm.nih.gov/28764222)\]
 
 12.
-    
 
-Gaspari R, Weekes A, Adhikari S, Noble VE, Nomura JT, Theodoro D, Woo M, Atkinson P, Blehar D, Brown SM, Caffery T, Douglass E, Fraser J, Haines C, Lam S, Lanspa M, Lewis M, Liebmann O, Limkakeng A, Lopez F, Platz E, Mendoza M, Minnigan H, Moore C, Novik J, Rang L, Scruggs W, Raio C. Emergency department point-of-care ultrasound in out-of-hospital and in-ED cardiac arrest. Resuscitation. 2016 Dec;109:33-39. [[PubMed: 27693280](https://pubmed.ncbi.nlm.nih.gov/27693280)]
+Gaspari R, Weekes A, Adhikari S, Noble VE, Nomura JT, Theodoro D, Woo M, Atkinson P, Blehar D, Brown SM, Caffery T, Douglass E, Fraser J, Haines C, Lam S, Lanspa M, Lewis M, Liebmann O, Limkakeng A, Lopez F, Platz E, Mendoza M, Minnigan H, Moore C, Novik J, Rang L, Scruggs W, Raio C. Emergency department point-of-care ultrasound in out-of-hospital and in-ED cardiac arrest. Resuscitation. 2016 Dec;109:33-39. \[[PubMed: 27693280](https://pubmed.ncbi.nlm.nih.gov/27693280)\]
 
 13.
-    
 
-Blanco P, Volpicelli G. Common pitfalls in point-of-care ultrasound: a practical guide for emergency and critical care physicians. Crit Ultrasound J. 2016 Dec;8(1):15. [[PMC free article: PMC5081982](/pmc/articles/PMC5081982/)] [[PubMed: 27783380](https://pubmed.ncbi.nlm.nih.gov/27783380)]
+Blanco P, Volpicelli G. Common pitfalls in point-of-care ultrasound: a practical guide for emergency and critical care physicians. Crit Ultrasound J. 2016 Dec;8(1):15. \[[PMC free article: PMC5081982](/pmc/articles/PMC5081982/)\] \[[PubMed: 27783380](https://pubmed.ncbi.nlm.nih.gov/27783380)\]
 
 14.
-    
 
-Heiberg J, Hansen LS, Wemmelund K, Sørensen AH, Ilkjaer C, Cloete E, Nolte D, Roodt F, Dyer R, Swanevelder J, Sloth E. Point-of-Care Clinical Ultrasound for Medical Students. Ultrasound Int Open. 2015 Nov;1(2):E58-66. [[PMC free article: PMC5023212](/pmc/articles/PMC5023212/)] [[PubMed: 27689155](https://pubmed.ncbi.nlm.nih.gov/27689155)]
+Heiberg J, Hansen LS, Wemmelund K, Sørensen AH, Ilkjaer C, Cloete E, Nolte D, Roodt F, Dyer R, Swanevelder J, Sloth E. Point-of-Care Clinical Ultrasound for Medical Students. Ultrasound Int Open. 2015 Nov;1(2):E58-66. \[[PMC free article: PMC5023212](/pmc/articles/PMC5023212/)\] \[[PubMed: 27689155](https://pubmed.ncbi.nlm.nih.gov/27689155)\]
 
 15.
-    
 
-Moore C. Current issues with emergency cardiac ultrasound probe and image conventions. Acad Emerg Med. 2008 Mar;15(3):278-84. [[PubMed: 18304059](https://pubmed.ncbi.nlm.nih.gov/18304059)]
+Moore C. Current issues with emergency cardiac ultrasound probe and image conventions. Acad Emerg Med. 2008 Mar;15(3):278-84. \[[PubMed: 18304059](https://pubmed.ncbi.nlm.nih.gov/18304059)\]
 
 16.
-    
 
-Rylski B, Branchetti E, Bavaria JE, Vallabhajosyula P, Szeto WY, Milewski RK, Desai ND. Modeling of predissection aortic size in acute type A dissection: More than 90% fail to meet the guidelines for elective ascending replacement. J Thorac Cardiovasc Surg. 2014 Sep;148(3):944-8.e1. [[PubMed: 24998700](https://pubmed.ncbi.nlm.nih.gov/24998700)]
+Rylski B, Branchetti E, Bavaria JE, Vallabhajosyula P, Szeto WY, Milewski RK, Desai ND. Modeling of predissection aortic size in acute type A dissection: More than 90% fail to meet the guidelines for elective ascending replacement. J Thorac Cardiovasc Surg. 2014 Sep;148(3):944-8.e1. \[[PubMed: 24998700](https://pubmed.ncbi.nlm.nih.gov/24998700)\]
 
 17.
-    
 
-Dresden S, Mitchell P, Rahimi L, Leo M, Rubin-Smith J, Bibi S, White L, Langlois B, Sullivan A, Carmody K. Right ventricular dilatation on bedside echocardiography performed by emergency physicians aids in the diagnosis of pulmonary embolism. Ann Emerg Med. 2014 Jan;63(1):16-24. [[PubMed: 24075286](https://pubmed.ncbi.nlm.nih.gov/24075286)]
+Dresden S, Mitchell P, Rahimi L, Leo M, Rubin-Smith J, Bibi S, White L, Langlois B, Sullivan A, Carmody K. Right ventricular dilatation on bedside echocardiography performed by emergency physicians aids in the diagnosis of pulmonary embolism. Ann Emerg Med. 2014 Jan;63(1):16-24. \[[PubMed: 24075286](https://pubmed.ncbi.nlm.nih.gov/24075286)\]
 
 18.
-    
 
-Arntfield RT, Millington SJ. Point of care cardiac ultrasound applications in the emergency department and intensive care unit--a review. Curr Cardiol Rev. 2012 May;8(2):98-108. [[PMC free article: PMC3406278](/pmc/articles/PMC3406278/)] [[PubMed: 22894759](https://pubmed.ncbi.nlm.nih.gov/22894759)]
-
-    
+Arntfield RT, Millington SJ. Point of care cardiac ultrasound applications in the emergency department and intensive care unit--a review. Curr Cardiol Rev. 2012 May;8(2):98-108. \[[PMC free article: PMC3406278](/pmc/articles/PMC3406278/)\] \[[PubMed: 22894759](https://pubmed.ncbi.nlm.nih.gov/22894759)\]
 
 **Disclosure:** Meghan Herbst declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** James Velasquez declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Ghufran Adnan declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Maria O'Rourke declares no relevant financial relationships with ineligible companies.

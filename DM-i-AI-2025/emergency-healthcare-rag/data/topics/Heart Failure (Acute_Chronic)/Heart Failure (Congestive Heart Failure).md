@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22661/
-scraped_date: 2025-07-22 12:34:42 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22661/ scraped_date: 2025-07-22 12:34:42 UTC
 
 # Heart Failure (Congestive Heart Failure)
 
@@ -29,13 +28,13 @@ HF is classified based on left ventricular ejection fraction (LVEF) and clinical
 
 **Objectives:**
 
-  * Evaluate clinical presentation and apply the staging and classification systems of heart failure.
+- Evaluate clinical presentation and apply the staging and classification systems of heart failure.
 
-  * Assess the etiology of heart failure using clinical assessment and appropriate diagnostic tests. 
+- Assess the etiology of heart failure using clinical assessment and appropriate diagnostic tests.
 
-  * Develop a management plan for patients with heart failure based on their clinical stage and investigations.
+- Develop a management plan for patients with heart failure based on their clinical stage and investigations.
 
-  * Collaborate with interprofessional healthcare teams, including cardiologists, nurses, physiotherapists, and pharmacists, to ensure coordinated and comprehensive care for heart failure patients.
+- Collaborate with interprofessional healthcare teams, including cardiologists, nurses, physiotherapists, and pharmacists, to ensure coordinated and comprehensive care for heart failure patients.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=22661&utm_source=pubmed&utm_campaign=reviews&utm_content=22661)
 
@@ -47,37 +46,39 @@ The etiology of HF is variable and extensive. Ischemic heart disease is the lead
 
 The following parameters are used to classify HF based on LVEF:
 
-  * **HF with reduced ejection fraction (HFrEF)** : LV EF ≤40% 
+- **HF with reduced ejection fraction (HFrEF)** : LV EF ≤40%
 
-  * **HF with mildly reduced ejection fraction** : LVEF 41% to 49% and evidence of HF (spontaneous or provokable elevated cardiac biomarkers or elevated filling pressures)
+- **HF with mildly reduced ejection fraction** : LVEF 41% to 49% and evidence of HF (spontaneous or provokable elevated cardiac biomarkers or elevated filling pressures)
 
-  * **HF with preserved ejection fraction (HFpEF)** : LVEF ≥50% and evidence of HF (spontaneous or provokable elevated cardiac biomarkers or elevated filling pressures) 
+- **HF with preserved ejection fraction (HFpEF)** : LVEF ≥50% and evidence of HF (spontaneous or provokable elevated cardiac biomarkers or elevated filling pressures)
 
-  * **HF with improved ejection fraction** : LV EF >40%, with previously documented LV EF ≤40% [1]
+- **HF with improved ejection fraction** : LV EF >40%, with previously documented LV EF ≤40% [1]
 
-The ACC/AHA Stages of HF are as follows: 
+The ACC/AHA Stages of HF are as follows:
 
-  * Stage A: At risk for HF. No current or past symptoms, structural heart disease, or evidence of elevated cardiac biomarkers, but risk factors are present. Risk factors include hypertension, diabetes, metabolic syndrome, cardiotoxic medications, or having a genetic variant for cardiomyopathy. 
+- Stage A: At risk for HF. No current or past symptoms, structural heart disease, or evidence of elevated cardiac biomarkers, but risk factors are present. Risk factors include hypertension, diabetes, metabolic syndrome, cardiotoxic medications, or having a genetic variant for cardiomyopathy.
 
-  * Stage B: Pre-HF. Patients have no signs or symptoms of HF but have risk factors and structural heart disease, evidence of elevated filling pressures (by invasive or noninvasive assessment), or persistently elevated cardiomarkers in the absence of other reasons for elevated markers, like chronic kidney disease or myocarditis. 
+- Stage B: Pre-HF. Patients have no signs or symptoms of HF but have risk factors and structural heart disease, evidence of elevated filling pressures (by invasive or noninvasive assessment), or persistently elevated cardiomarkers in the absence of other reasons for elevated markers, like chronic kidney disease or myocarditis.
 
-  * Stage C: Symptomatic HF. Patients with current or past history of HF symptoms. 
+- Stage C: Symptomatic HF. Patients with current or past history of HF symptoms.
 
-  * Stage D: Advanced HF. Patients with refractory symptoms that interfere with daily life or recurrent hospitalization despite targeted guideline-directed medical therapy.
+- Stage D: Advanced HF. Patients with refractory symptoms that interfere with daily life or recurrent hospitalization despite targeted guideline-directed medical therapy.
 
 For stage C and stage D HF patients, the following NYHA classification of HF symptoms should be used:
 
-  * **Class I** : Symptom onset with more than ordinary level of activity
+- **Class I** : Symptom onset with more than ordinary level of activity
 
-  * **Class II** : Symptom onset with an ordinary level of activity
+- **Class II** : Symptom onset with an ordinary level of activity
 
-  * **Class III** : Symptom onset with minimal activity
+- **Class III** : Symptom onset with minimal activity
 
-  *     * Class III a: No dyspnea at rest
+- ```
+  * Class III a: No dyspnea at rest
+  ```
 
-    * Class III b: Recent onset of dyspnea at rest
+  - Class III b: Recent onset of dyspnea at rest
 
-  * **Class IV** : Symptoms at rest [2]
+- **Class IV** : Symptoms at rest [2]
 
 ## Etiology
 
@@ -93,7 +94,7 @@ Ischemic heart disease is by far the most common cause of HF worldwide. Ischemia
 
 **Valvular heart disease**
 
-Valvular heart disease is another common intrinsic heart condition that can cause HF. Rheumatic heart disease is the most common cause of valvular heart disease in children and young adults worldwide. It is caused by an immune response to group A Streptococcus and primarily causes mitral and aortic stenosis.[5] Age-related degeneration is the most common overall cause of valvular disease, and the aortic valve is the most commonly affected. Women are more likely to experience mitral valve rheumatic heart disease or mitral valve prolapse, while men are more likely to suffer from aortic valve diseases such as regurgitation or stenosis. Endocarditis is also more common in men. 
+Valvular heart disease is another common intrinsic heart condition that can cause HF. Rheumatic heart disease is the most common cause of valvular heart disease in children and young adults worldwide. It is caused by an immune response to group A Streptococcus and primarily causes mitral and aortic stenosis.[5] Age-related degeneration is the most common overall cause of valvular disease, and the aortic valve is the most commonly affected. Women are more likely to experience mitral valve rheumatic heart disease or mitral valve prolapse, while men are more likely to suffer from aortic valve diseases such as regurgitation or stenosis. Endocarditis is also more common in men.
 
 **Hypertension**
 
@@ -107,7 +108,7 @@ Many of these conditions have a genetic basis, and a detailed family history of 
 
 **Inflammatory cardiomyopathy**
 
-Inflammatory cardiomyopathy is defined by myocarditis along with ventricular remodeling and cardiac dysfunction. The most common cause is viral infection. Other etiologies are bacterial, fungal, or protozoal infections; toxic substances or drugs; and immune-mediated diseases. Chagas disease is caused by  _Trypanosoma cruzi,_ which is endemic in Latin America __ and commonly causes myocarditis, cardiomyopathy, and CHF. Other viral causes of myocarditis and inflammatory cardiomyopathy include adenoviruses, enteroviruses, herpes virus 6, Epstein-Barr virus, and cytomegalovirus. Viruses can also activate autoimmune myocarditis, including HIV, hepatitis C virus, influenzas A and B, and coronaviruses (including COVID-19). When associated with CHF, these conditions tend to have a poor prognosis.[7]
+Inflammatory cardiomyopathy is defined by myocarditis along with ventricular remodeling and cardiac dysfunction. The most common cause is viral infection. Other etiologies are bacterial, fungal, or protozoal infections; toxic substances or drugs; and immune-mediated diseases. Chagas disease is caused by _Trypanosoma cruzi,_ which is endemic in Latin America \_\_ and commonly causes myocarditis, cardiomyopathy, and CHF. Other viral causes of myocarditis and inflammatory cardiomyopathy include adenoviruses, enteroviruses, herpes virus 6, Epstein-Barr virus, and cytomegalovirus. Viruses can also activate autoimmune myocarditis, including HIV, hepatitis C virus, influenzas A and B, and coronaviruses (including COVID-19). When associated with CHF, these conditions tend to have a poor prognosis.[7]
 
 **Infiltrative cardiomyopathies**
 
@@ -129,7 +130,7 @@ Peripartum cardiomyopathy is a significant cause of maternal mortality. During p
 
 **Obesity**
 
-Obesity**** is a leading cause of CHF in patients younger than 40 years, according to the "Candesartan in Heart Failure Assessment of Reduction in Mortality and Morbidity" (the CHARM study). The "obesity paradox" described elsewhere has significant study flaws and is derived from older data. Up to 10% of CHF cases are thought to be attributable to obesity alone. Patients with obesity are more likely to have HFpEF, possibly secondary to adipose-produced cytokines, eg, IL-1b, IL-8, and TNFα. Adipose tissue also degrades natriuretic peptides.[15][16][17]
+Obesity\*\*\*\* is a leading cause of CHF in patients younger than 40 years, according to the "Candesartan in Heart Failure Assessment of Reduction in Mortality and Morbidity" (the CHARM study). The "obesity paradox" described elsewhere has significant study flaws and is derived from older data. Up to 10% of CHF cases are thought to be attributable to obesity alone. Patients with obesity are more likely to have HFpEF, possibly secondary to adipose-produced cytokines, eg, IL-1b, IL-8, and TNFα. Adipose tissue also degrades natriuretic peptides.[15][16][17]
 
 **Tachycardia and arrhythmia**
 
@@ -171,7 +172,7 @@ Causes of CHF are split about equally between HFrEF and HFpEF but require differ
 
 The diagnosis and classification of HF are primarily based on the presence and severity of symptoms and physical exam findings. A detailed history of symptoms, underlying medical conditions, and functional capacity is imperative to treat the patient adequately.
 
-Acute CHF presents primarily with signs of congestion and may also present with organ hypoperfusion or cardiogenic shock.[36] The most commonly reported symptom is shortness of breath. This must be classified as exertional, positional (orthopnea), and acute or chronic. Other commonly reported symptoms of CHF include chest pain, anorexia, and exertional fatigue. Anorexia is due to hepatic congestion, bowel edema, and reduced blood flow to splanchnic circulation. Some patients may present with a recumbent cough due to orthopnea. Patients may also experience abdominal discomfort due to hepatic congestion or ascites. Patients with arrhythmias can present with palpitations, presyncope, or syncope. Another symptom that increases morbidity is edema, especially of the lower extremities. This can limit mobility and balance; total body water and weight increases of >20 lbs are not uncommon. 
+Acute CHF presents primarily with signs of congestion and may also present with organ hypoperfusion or cardiogenic shock.[36] The most commonly reported symptom is shortness of breath. This must be classified as exertional, positional (orthopnea), and acute or chronic. Other commonly reported symptoms of CHF include chest pain, anorexia, and exertional fatigue. Anorexia is due to hepatic congestion, bowel edema, and reduced blood flow to splanchnic circulation. Some patients may present with a recumbent cough due to orthopnea. Patients may also experience abdominal discomfort due to hepatic congestion or ascites. Patients with arrhythmias can present with palpitations, presyncope, or syncope. Another symptom that increases morbidity is edema, especially of the lower extremities. This can limit mobility and balance; total body water and weight increases of >20 lbs are not uncommon.
 
 While patients with acute HF present with overt respiratory distress, orthopnea, and paroxysmal nocturnal dyspnea, patients with chronic heart failure tend to curtail their physical activity; hence, symptoms may be obscured. Identifying triggers of acute decompensation, including recent infection, noncompliance with cardiac medications, use of NSAIDs, or increased salt intake, is essential.
 
@@ -179,7 +180,7 @@ While patients with acute HF present with overt respiratory distress, orthopnea,
 
 The findings on physical examination vary with the stage and acuity of the disease. Patients may have isolated symptoms of left-sided HF, right-sided HF, or a combination of both. The general appearance of patients with severe CHF or those with acutely decompensated HF includes anxiety, diaphoresis, tachycardia, and tachypnea. Patients with chronic decompensated HF can appear cachexic. On chest examination, the classical finding of pulmonary rales translates to heart failure of moderate-to-severe intensity. Wheezing may be present in acute decompensated heart failure. As the severity of pulmonary congestion increases, frothy and blood-tinged sputum may be seen. Notably, the absence of rales does not exclude pulmonary congestion. Jugular venous distention is another classical finding that must be assessed in all patients with HF. In patients with elevated left-sided filling pressures, hepatojugular reflux (sustained increase in JVP of >4 cm after applying pressure over the liver with the patient lying at a 45° angle) is often seen.
 
-Patients with stage D HF may show signs of poor perfusion, including hypotension, reduced capillary refill, cold extremities, poor mentation, and reduced urine output. There may be pulsus alternans (an alternating weak and strong pulse), suggestive of severe ventricular dysfunction. The pulse can be irregular in the presence of atrial fibrillation or ectopic beats. Some degree of peripheral edema is present with most HF.[37] Weight gain is another method for assessing volume retention, and precise daily weights can be a useful monitoring tool. 
+Patients with stage D HF may show signs of poor perfusion, including hypotension, reduced capillary refill, cold extremities, poor mentation, and reduced urine output. There may be pulsus alternans (an alternating weak and strong pulse), suggestive of severe ventricular dysfunction. The pulse can be irregular in the presence of atrial fibrillation or ectopic beats. Some degree of peripheral edema is present with most HF.[37] Weight gain is another method for assessing volume retention, and precise daily weights can be a useful monitoring tool.
 
 Precordial findings in patients with HF include an S3 gallop, or displaced apex beat (dilated heart). There may be murmurs of associated valvular lesions such as the pan-systolic murmur of mitral regurgitation or tricuspid regurgitation, systolic ejection murmur of aortic stenosis, or early diastolic murmur of aortic regurgitation. Patients with pulmonary hypertension may have palpable or loud P2 or parasternal heave. Patients with congenital heart disease may also have associated clubbing, cyanosis, and splitting of the second heart sound. An S3 gallop is the most significant and early finding associated with HF.[38] Patients with hypertensive heart disease may have an S4 or loud A2. Patients with HF with preserved EF may have an S4 gallop related to ventricular noncompliance.
 
@@ -189,33 +190,33 @@ The commonly used Framingham Diagnostic Criteria for Heart Failure require the p
 
 The major criteria of HF include:
 
-  * Acute pulmonary edema
+- Acute pulmonary edema
 
-  * Cardiomegaly
+- Cardiomegaly
 
-  * Hepatojugular reflex
+- Hepatojugular reflex
 
-  * Neck vein distention
+- Neck vein distention
 
-  * Paroxysmal nocturnal dyspnea or orthopnea
+- Paroxysmal nocturnal dyspnea or orthopnea
 
-  * Pulmonary rales
+- Pulmonary rales
 
-  * Third heart sound (S3 Gallop)
+- Third heart sound (S3 Gallop)
 
 The minor criteria of HF include:
 
-  * Ankle edema
+- Ankle edema
 
-  * Dyspnea on exertion
+- Dyspnea on exertion
 
-  * Hepatomegaly
+- Hepatomegaly
 
-  * Nocturnal cough
+- Nocturnal cough
 
-  * Pleural effusion
+- Pleural effusion
 
-  * Tachycardia (heart rate >120 beats per minute) [37]
+- Tachycardia (heart rate >120 beats per minute) [37]
 
 ## Evaluation
 
@@ -225,23 +226,23 @@ A comprehensive assessment is required when evaluating a patient with HF. This i
 
 Laboratory investigations recommended in patients with HF include:
 
-  * **Complete blood count (CBC)** : A CBC may suggest anemia or leukocytosis suggestive of an infection triggering CHF. 
+- **Complete blood count (CBC)** : A CBC may suggest anemia or leukocytosis suggestive of an infection triggering CHF.
 
-  * **Renal profile** : A complete renal profile is necessary for all patients with HF. It indicates the degree of renal injury associated with HF and guides medication choice. Determining a patient's baseline renal function before initiating medications, including renin-angiotensin-aldosterone (RAAS) inhibitors, sodium-glucose transporter-2 (SGLT-2) inhibitors, or diuretics, is essential. Serum sodium level has prognostic value as a predictor of mortality in patients with chronic HF. "The Outcomes of a Prospective Trial of Intravenous Milrinone for Exacerbations of Chronic Heart Failure" (OPTIME-CHF) trial demonstrated a significantly increased risk of in-hospital mortality as well as 30-day mortality in patients with HF who presented with hyponatremia.[39]
+- **Renal profile** : A complete renal profile is necessary for all patients with HF. It indicates the degree of renal injury associated with HF and guides medication choice. Determining a patient's baseline renal function before initiating medications, including renin-angiotensin-aldosterone (RAAS) inhibitors, sodium-glucose transporter-2 (SGLT-2) inhibitors, or diuretics, is essential. Serum sodium level has prognostic value as a predictor of mortality in patients with chronic HF. "The Outcomes of a Prospective Trial of Intravenous Milrinone for Exacerbations of Chronic Heart Failure" (OPTIME-CHF) trial demonstrated a significantly increased risk of in-hospital mortality as well as 30-day mortality in patients with HF who presented with hyponatremia.[39]
 
-  * **Live enzymes** : An assessment of liver function is usually performed. Hepatic congestion secondary to HF may result in elevated gamma-glutamyl transferase levels, aspartate aminotransferase (AST), and alanine aminotransferase (ALT).[40]
+- **Live enzymes** : An assessment of liver function is usually performed. Hepatic congestion secondary to HF may result in elevated gamma-glutamyl transferase levels, aspartate aminotransferase (AST), and alanine aminotransferase (ALT).[40]
 
-  * **Urine studies** : Urine studies can be useful in diagnosis. If amyloidosis is suspected, urine and serum electrophoresis and monoclonal light chain assays should be performed. Bone scintigraphy can be performed if clinical suspicion is high despite negative testing for light chains.[1]
+- **Urine studies** : Urine studies can be useful in diagnosis. If amyloidosis is suspected, urine and serum electrophoresis and monoclonal light chain assays should be performed. Bone scintigraphy can be performed if clinical suspicion is high despite negative testing for light chains.[1]
 
-  * **Serum B-type natriuretic peptide (BNP)** : BNP or N-terminal pro-BNP (NT-ProBNP) levels can aid in differentiating cardiac from noncardiac causes of dyspnea in patients with ambiguous presentations. BNP is an independent predictor of increased left ventricular end-diastolic pressure and is used to assess mortality risk in patients with HF. BNP levels correlate with NYHA classification, and the utility is primarily used as a marker to evaluate treatment efficacy. NT-ProBNP is the chemically inert N-terminal fragment of BNP and has a longer half-life. The ratio of NT-ProBNP/BNP varies depending on underlying comorbidities and may be a useful tool in the future.[41] In patients with a clear clinical presentation of HF, natriuretic peptides should not be used to drive treatment plans. Clinicians should remember that BNP and NT-ProBNP levels can be elevated in patients with renal dysfunction, atrial fibrillation, and older patients. Conversely, BNP levels can be falsely low in patients with obesity, hypothyroidism, and advanced HF (due to myocardial fibrosis).
+- **Serum B-type natriuretic peptide (BNP)** : BNP or N-terminal pro-BNP (NT-ProBNP) levels can aid in differentiating cardiac from noncardiac causes of dyspnea in patients with ambiguous presentations. BNP is an independent predictor of increased left ventricular end-diastolic pressure and is used to assess mortality risk in patients with HF. BNP levels correlate with NYHA classification, and the utility is primarily used as a marker to evaluate treatment efficacy. NT-ProBNP is the chemically inert N-terminal fragment of BNP and has a longer half-life. The ratio of NT-ProBNP/BNP varies depending on underlying comorbidities and may be a useful tool in the future.[41] In patients with a clear clinical presentation of HF, natriuretic peptides should not be used to drive treatment plans. Clinicians should remember that BNP and NT-ProBNP levels can be elevated in patients with renal dysfunction, atrial fibrillation, and older patients. Conversely, BNP levels can be falsely low in patients with obesity, hypothyroidism, and advanced HF (due to myocardial fibrosis).
 
-  * **Cardiac enzymes** : Troponin-I or T suggests ongoing myocardial injury when persistently elevated and predicts adverse outcomes and mortality. 
+- **Cardiac enzymes** : Troponin-I or T suggests ongoing myocardial injury when persistently elevated and predicts adverse outcomes and mortality.
 
 **Additional Diagnostic Studies**
 
 **Electrocardiogram**
 
-An electrocardiogram (ECG)**** may show evidence of prior infarction, chamber enlargement, intraventricular conduction delay, or arrhythmia. This study may also give clues to specific etiologies. A low voltage and pseudo infarction pattern of ECG is seen in cardiac amyloidosis. An epsilon wave is seen in ARVC. ECG also suggests the presence of ventricular desynchrony, with a QRS duration of more than 120 msec, predicting the patient's response to device therapy for HF. 
+An electrocardiogram (ECG)\*\*\*\* may show evidence of prior infarction, chamber enlargement, intraventricular conduction delay, or arrhythmia. This study may also give clues to specific etiologies. A low voltage and pseudo infarction pattern of ECG is seen in cardiac amyloidosis. An epsilon wave is seen in ARVC. ECG also suggests the presence of ventricular desynchrony, with a QRS duration of more than 120 msec, predicting the patient's response to device therapy for HF.
 
 **Chest radiographs**
 
@@ -249,25 +250,25 @@ Chest radiographs are used to assess the degree of pulmonary congestion and card
 
 **Echocardiography**
 
-Echocardiography**** is the initial modality of choice in patients with suspected HF and is a readily available bedside tool. It quantifies right and left ventricular function, denotes structural abnormalities in cardiac chambers and valves, and helps visualize focal wall motion abnormalities. However, in patients with severe obesity, pregnancy, or mechanical ventilation, it may be challenging to obtain adequate acoustic windows. 
+Echocardiography\*\*\*\* is the initial modality of choice in patients with suspected HF and is a readily available bedside tool. It quantifies right and left ventricular function, denotes structural abnormalities in cardiac chambers and valves, and helps visualize focal wall motion abnormalities. However, in patients with severe obesity, pregnancy, or mechanical ventilation, it may be challenging to obtain adequate acoustic windows.
 
-Transesophageal echocardiography (TEE) is an alternative for these patients. To obtain adequate echocardiographic images, adequate rate control is necessary in patients with tachyarrhythmias.[37] In patients with severe LV dysfunction, M-mode echocardiography may show increased left ventricular end-diastolic dimension (LVEDD) and left ventricular end-systolic dimension (LVESD), decreased fractional shortening, increased E-point septal separation, or B-bump or notching of the mitral valve. 
+Transesophageal echocardiography (TEE) is an alternative for these patients. To obtain adequate echocardiographic images, adequate rate control is necessary in patients with tachyarrhythmias.[37] In patients with severe LV dysfunction, M-mode echocardiography may show increased left ventricular end-diastolic dimension (LVEDD) and left ventricular end-systolic dimension (LVESD), decreased fractional shortening, increased E-point septal separation, or B-bump or notching of the mitral valve.
 
 **Cardiac catheterization**
 
-Cardiac catheterization**** is often required for diagnosing ischemic cardiomyopathy and can be helpful in accurately evaluating intracardiac pressures, eg, left ventricular end-diastolic or pulmonary artery pressures.
+Cardiac catheterization\*\*\*\* is often required for diagnosing ischemic cardiomyopathy and can be helpful in accurately evaluating intracardiac pressures, eg, left ventricular end-diastolic or pulmonary artery pressures.
 
 **Computed tomography**
 
-Computed tomography (CT) may be used for the assessment of coronary artery disease in a young patient with ventricular dysfunction (older patients are likely to have baseline calcifications). CT may also be used in patients with congenital heart diseases causing HF. Cardiac CT may help detect tumors causing HF. CT may also be used to evaluate stent patency and graft. 
+Computed tomography (CT) may be used for the assessment of coronary artery disease in a young patient with ventricular dysfunction (older patients are likely to have baseline calcifications). CT may also be used in patients with congenital heart diseases causing HF. Cardiac CT may help detect tumors causing HF. CT may also be used to evaluate stent patency and graft.
 
 **Myocardial perfusion imaging**
 
-SPECT-myocardial perfusion imaging**** helps define the presence of ischemia in patients with newly diagnosed left ventricular dysfunction and not undergoing coronary angiography. This study is particularly useful for assessing CAD in patients with no history of ischemia but elevated troponin. ECG-gated myocardial perfusion imaging evaluates LVEF, regional wall motion, and regional wall thickening. EF measurement with this study may be affected in patients with an irregular heart rate, low count density, and extracardiac radiotracer uptake. ECG-gated images are also valuable for recognizing artifactual defects seen on SPECT imaging, eg, breast tissue and diaphragmatic attenuation.[42]
+SPECT-myocardial perfusion imaging\*\*\*\* helps define the presence of ischemia in patients with newly diagnosed left ventricular dysfunction and not undergoing coronary angiography. This study is particularly useful for assessing CAD in patients with no history of ischemia but elevated troponin. ECG-gated myocardial perfusion imaging evaluates LVEF, regional wall motion, and regional wall thickening. EF measurement with this study may be affected in patients with an irregular heart rate, low count density, and extracardiac radiotracer uptake. ECG-gated images are also valuable for recognizing artifactual defects seen on SPECT imaging, eg, breast tissue and diaphragmatic attenuation.[42]
 
 **Cardiac magnetic resonance imaging**
 
-Cardiac magnetic resonance imaging**** has evolved as an essential tool when a discrepancy exists between the clinical stage of the disease and echocardiographic findings. It helps with the precise evaluation of volume, chamber sizes, and ventricular function. Cardiac magnetic resonance imaging also assesses the stage of valvular heart disease in detail. Cardiac magnetic resonance imaging (MRI) also helps evaluate complex congenital heart diseases. The tool can also be used for noninvasive assessment of conditions, eg, myocarditis, dilated cardiomyopathy, infiltrative cardiomyopathy, or arrhythmogenic right ventricular dysplasia.[43]
+Cardiac magnetic resonance imaging\*\*\*\* has evolved as an essential tool when a discrepancy exists between the clinical stage of the disease and echocardiographic findings. It helps with the precise evaluation of volume, chamber sizes, and ventricular function. Cardiac magnetic resonance imaging also assesses the stage of valvular heart disease in detail. Cardiac magnetic resonance imaging (MRI) also helps evaluate complex congenital heart diseases. The tool can also be used for noninvasive assessment of conditions, eg, myocarditis, dilated cardiomyopathy, infiltrative cardiomyopathy, or arrhythmogenic right ventricular dysplasia.[43]
 
 **Radionuclide multiple-gated acquisition scan**
 
@@ -275,7 +276,7 @@ A radionuclide multiple-gated acquisition (MUGA) scan is a reliable imaging tech
 
 **Noninvasive stress imaging**
 
-Noninvasive stress imaging includes stress echocardiography, stress cardiac MRI, and SPECT imaging. These studies can be used to assess the benefit of coronary revascularization in patients with ischemic cardiomyopathy. 
+Noninvasive stress imaging includes stress echocardiography, stress cardiac MRI, and SPECT imaging. These studies can be used to assess the benefit of coronary revascularization in patients with ischemic cardiomyopathy.
 
 **Genetic testing**
 
@@ -289,133 +290,135 @@ The goal of therapy for chronic HF is to improve symptoms and quality of life, d
 
 The recommended treatment for stage A (at-risk for HF) HF include:
 
-  * In patients with hypertension, guideline-directed medical therapy (GDMT) should be used for the management of hypertension.
+- In patients with hypertension, guideline-directed medical therapy (GDMT) should be used for the management of hypertension.
 
-  * In patients with type 2 diabetes, SGLT-2 inhibitors are indicated to reduce HF hospitalizations. 
+- In patients with type 2 diabetes, SGLT-2 inhibitors are indicated to reduce HF hospitalizations.
 
-  * Lifestyle modifications, including healthy eating, physical activity, maintaining a normal weight, and avoidance of smoking, are indicated.
+- Lifestyle modifications, including healthy eating, physical activity, maintaining a normal weight, and avoidance of smoking, are indicated.
 
-  * Prognostication scores are recommended for patients with HF to estimate the risk of future HF events.[45] Examples include the Framingham Heart Failure Risk Score (1999), Health ABC Heart Failure Score (2008), ARIC Risk Score (2012), and PCP-HF score (2019). 
+- Prognostication scores are recommended for patients with HF to estimate the risk of future HF events.[45] Examples include the Framingham Heart Failure Risk Score (1999), Health ABC Heart Failure Score (2008), ARIC Risk Score (2012), and PCP-HF score (2019).
 
-  * Optimal management of cardiovascular diseases in patients known to have CAD should be implemented.
+- Optimal management of cardiovascular diseases in patients known to have CAD should be implemented.
 
-  * Patients at risk for HF due to exposure to cardiotoxic medications (eg, chemotherapy) should be managed with an interprofessional approach.
+- Patients at risk for HF due to exposure to cardiotoxic medications (eg, chemotherapy) should be managed with an interprofessional approach.
 
-  * Natriuretic peptide screening and periodic evaluation should be performed. 
+- Natriuretic peptide screening and periodic evaluation should be performed.
 
 **Stage B Heart Failure Management**
 
 Management of Stage B (pre-HF) is focused on preventing clinical HF and reducing mortality and adverse cardiovascular events, including:
 
-  * For patients with LVEF ≤40%, angiotensin-converting enzyme inhibitors (ACEI) should be used to prevent clinical HF and for mortality reduction. 
+- For patients with LVEF ≤40%, angiotensin-converting enzyme inhibitors (ACEI) should be used to prevent clinical HF and for mortality reduction.
 
-  * For patients with LVEF ≤40% and evidence of prior or recent acute coronary syndrome or myocardial infarction, the use of a statin and beta-blocker is recommended for reduction of mortality, CHF, and adverse cardiovascular events. 
+- For patients with LVEF ≤40% and evidence of prior or recent acute coronary syndrome or myocardial infarction, the use of a statin and beta-blocker is recommended for reduction of mortality, CHF, and adverse cardiovascular events.
 
-  * For patients with LVEF ≤30% and receiving optimal medical therapy, with NYHA-class I and an expectation of meaningful survival of more than 1 year, a primary prevention ICD is recommended.
+- For patients with LVEF ≤30% and receiving optimal medical therapy, with NYHA-class I and an expectation of meaningful survival of more than 1 year, a primary prevention ICD is recommended.
 
-  * Beta-blockers are recommended for patients with LVEF ≤40%, irrespective of the etiology, to prevent symptomatic HF.
+- Beta-blockers are recommended for patients with LVEF ≤40%, irrespective of the etiology, to prevent symptomatic HF.
 
-  * For patients with LVEF ≤50%, the use of thiazolidinediones and non-dihydropyridine calcium channel blockers increases the risk of adverse outcomes and HF hospitalizations, so they should be avoided. 
+- For patients with LVEF ≤50%, the use of thiazolidinediones and non-dihydropyridine calcium channel blockers increases the risk of adverse outcomes and HF hospitalizations, so they should be avoided.
 
-  * Valve repair, replacement, or interventions have associated guidelines for asymptomatic valvular heart disease. 
+- Valve repair, replacement, or interventions have associated guidelines for asymptomatic valvular heart disease.
 
-  * Patients with congenital heart disease also have associated guidelines.
+- Patients with congenital heart disease also have associated guidelines.
 
 **Stage C Heart Failure Management**
 
 The recommended treatment for stage C (HF) includes:
 
-  * Interprofessional management is indicated for improving self-care and mortality of patients with HF.
+- Interprofessional management is indicated for improving self-care and mortality of patients with HF.
 
-  * Patient education and social support are required for optimal management.
+- Patient education and social support are required for optimal management.
 
-  * Vaccination against respiratory illnesses is effective in reducing mortality. 
+- Vaccination against respiratory illnesses is effective in reducing mortality.
 
-  * Screening patients for frailty, depression, low literacy, low social support, and resource and transport logistics during healthcare encounters is reasonable.
+- Screening patients for frailty, depression, low literacy, low social support, and resource and transport logistics during healthcare encounters is reasonable.
 
-  * A low-sodium diet is recommended.
+- A low-sodium diet is recommended.
 
-  * Exercise training is effective in improving functional class and quality of life.
+- Exercise training is effective in improving functional class and quality of life.
 
-  * For patients with congestion, diuretics improve symptoms and reduce HF progression.
+- For patients with congestion, diuretics improve symptoms and reduce HF progression.
 
-  * A thiazide diuretic (such as metolazone) should be added only to patients who do not respond well to a moderate or high dose of loop diuretics.
+- A thiazide diuretic (such as metolazone) should be added only to patients who do not respond well to a moderate or high dose of loop diuretics.
 
-  * For patients with HFrEF, an ARNI is recommended to reduce mortality and morbidity. ARNI should not be given to patients who are intolerant of ACEI, and an angiotensin receptor blocker (ARB) should be substituted. For patients unable to take an ARNI due to economic factors, an ACEI or ARB is indicated. ARNI should not be used within 36 hours of the last dose of ACEI. Switching to ARNI is recommended for patients tolerating ACEI/ARB well, as it has a high economic value. As with ACEI, ARNI should not be given to patients with a history of angioedema. 
+- For patients with HFrEF, an ARNI is recommended to reduce mortality and morbidity. ARNI should not be given to patients who are intolerant of ACEI, and an angiotensin receptor blocker (ARB) should be substituted. For patients unable to take an ARNI due to economic factors, an ACEI or ARB is indicated. ARNI should not be used within 36 hours of the last dose of ACEI. Switching to ARNI is recommended for patients tolerating ACEI/ARB well, as it has a high economic value. As with ACEI, ARNI should not be given to patients with a history of angioedema.
 
-  * For patients with HFrEF, using the beta-blockers carvedilol, bisoprolol, or sustained-release metoprolol effectively reduces mortality and hospitalization.
+- For patients with HFrEF, using the beta-blockers carvedilol, bisoprolol, or sustained-release metoprolol effectively reduces mortality and hospitalization.
 
-  * MRA is recommended for patients with HFrEF, NYHA class II to IV, an eGFR of >30 mL/min/1.73 m2, and a serum potassium of <5.0 mEq/L. However, MRA is harmful for patients with a serum potassium of >5.0 mEq/L. 
+- MRA is recommended for patients with HFrEF, NYHA class II to IV, an eGFR of >30 mL/min/1.73 m2, and a serum potassium of \<5.0 mEq/L. However, MRA is harmful for patients with a serum potassium of >5.0 mEq/L.
 
-  * For patients with HFrEF, the use of SGLT-2 inhibitors is recommended to reduce mortality and HF hospitalization, irrespective of the diabetes status. 
+- For patients with HFrEF, the use of SGLT-2 inhibitors is recommended to reduce mortality and HF hospitalization, irrespective of the diabetes status.
 
-  * For African American patients with HFrEF and NYHA class III to IV who are already receiving optimal medical therapy, the addition of a combination of hydralazine and nitrate is recommended to reduce morbidity and mortality. This is of high economic value. 
+- For African American patients with HFrEF and NYHA class III to IV who are already receiving optimal medical therapy, the addition of a combination of hydralazine and nitrate is recommended to reduce morbidity and mortality. This is of high economic value.
 
-  * For patients with HFrEF and intolerance to RAASI or in whom RAASI is contraindicated due to renal insufficiency, the use of a combination of hydralazine and nitrate might be effective. 
+- For patients with HFrEF and intolerance to RAASI or in whom RAASI is contraindicated due to renal insufficiency, the use of a combination of hydralazine and nitrate might be effective.
 
-  * Titrating medications aggressively to achieve desired outcomes is recommended. This can be done as frequently as 1 to 2 weeks as tolerated. 
+- Titrating medications aggressively to achieve desired outcomes is recommended. This can be done as frequently as 1 to 2 weeks as tolerated.
 
-  * Ivabradine can be useful in patients on optimal medical therapy with a heart rate of more than 70 bpm, providing mortality benefits and reducing HF hospitalization. 
+- Ivabradine can be useful in patients on optimal medical therapy with a heart rate of more than 70 bpm, providing mortality benefits and reducing HF hospitalization.
 
-  * Digoxin may be considered in symptomatic patients with sinus rhythm despite adequate goal-directed therapy to reduce the all-cause rate of hospitalizations, but its role is limited.
+- Digoxin may be considered in symptomatic patients with sinus rhythm despite adequate goal-directed therapy to reduce the all-cause rate of hospitalizations, but its role is limited.
 
-  * In patients with HFrEF and recent HF, an oral soluble guanylate cyclase stimulator (Vericiguat) might be useful in reducing mortality and HF hospitalization. Vericiguat is a soluble guanylate cyclase stimulator that stimulates the intracellular receptor for endogenous nitric oxide, a potent vasodilator. It also improves cardiac contractility.[46][47]
+- In patients with HFrEF and recent HF, an oral soluble guanylate cyclase stimulator (Vericiguat) might be useful in reducing mortality and HF hospitalization. Vericiguat is a soluble guanylate cyclase stimulator that stimulates the intracellular receptor for endogenous nitric oxide, a potent vasodilator. It also improves cardiac contractility.[46][47]
 
-  * Device therapy
+- Device therapy
 
-  *     * An implantable cardioverter-defibrillator (ICD) is indicated for primary prevention of sudden cardiac death in patients with HF who have an LVEF of ≤35% and an NYHA functional class of II to III while on goal-directed medical therapy. An ICD is also indicated if a patient has NYHA functional class I and an EF of ≤30% on adequate medical therapy.
+- ```
+  * An implantable cardioverter-defibrillator (ICD) is indicated for primary prevention of sudden cardiac death in patients with HF who have an LVEF of ≤35% and an NYHA functional class of II to III while on goal-directed medical therapy. An ICD is also indicated if a patient has NYHA functional class I and an EF of ≤30% on adequate medical therapy.
+  ```
 
-    * Cardiac resynchronization therapy (CRT) with biventricular pacing is recommended in patients with HFrEF and an NYHA functional class of II to III or ambulatory class IV with an LVEF ≤35%, QRS duration ≥150 ms, and sinus rhythm with left bundle branch block (LBBB) morphology. It can also be considered in non-LBBB morphology and QRS ≥150 ms.
+  - Cardiac resynchronization therapy (CRT) with biventricular pacing is recommended in patients with HFrEF and an NYHA functional class of II to III or ambulatory class IV with an LVEF ≤35%, QRS duration ≥150 ms, and sinus rhythm with left bundle branch block (LBBB) morphology. It can also be considered in non-LBBB morphology and QRS ≥150 ms.
 
-  * Revascularization is indicated in selected patients with coronary artery disease and HFrEF while on GDMT.
+- Revascularization is indicated in selected patients with coronary artery disease and HFrEF while on GDMT.
 
-  * Valvular heart disease interventions such as transcatheter edge-to-edge mitral valve repair or mitral valve surgery might be beneficial for patients with HF and on GDMT.
+- Valvular heart disease interventions such as transcatheter edge-to-edge mitral valve repair or mitral valve surgery might be beneficial for patients with HF and on GDMT.
 
 **Stage D Heart Failure Management**
 
 The recommended treatment for stage D (advanced HF) includes:
 
-  * Referral to an HF specialist is indicated.
+- Referral to an HF specialist is indicated.
 
-  * It is reasonable to utilize inotropic support and device therapy in patients awaiting mechanical cardiac support or transplants. Inotropic support alone can be used in patients not eligible for a transplant or mechanical cardiac support. 
+- It is reasonable to utilize inotropic support and device therapy in patients awaiting mechanical cardiac support or transplants. Inotropic support alone can be used in patients not eligible for a transplant or mechanical cardiac support.
 
-  * Mechanical cardiac support, eg, a durable left ventricle assist device (LVAD) or ECMO, can be beneficial as a bridge to transplant.
+- Mechanical cardiac support, eg, a durable left ventricle assist device (LVAD) or ECMO, can be beneficial as a bridge to transplant.
 
-  * For highly selected patients, cardiac transplant is indicated to improve survival and quality of life.
+- For highly selected patients, cardiac transplant is indicated to improve survival and quality of life.
 
-  * Shared decision-making should determine the goals of care. This includes considering comorbid conditions, frailty, and socio-economic support. Palliative care should be offered as indicated after shared decision-making. 
+- Shared decision-making should determine the goals of care. This includes considering comorbid conditions, frailty, and socio-economic support. Palliative care should be offered as indicated after shared decision-making.
 
 ## Differential Diagnosis
 
 Differential diagnoses for HF include:
 
-  * Valvular heart diseases
+- Valvular heart diseases
 
-  * Renal failure
+- Renal failure
 
-  * Acute respiratory distress
+- Acute respiratory distress
 
-  * Pulmonary fibrosis
+- Pulmonary fibrosis
 
-  * Nephrotic syndrome
+- Nephrotic syndrome
 
-  * Pulmonary embolism
+- Pulmonary embolism
 
-  * Pericardial diseases
+- Pericardial diseases
 
-  * Cirrhosis
+- Cirrhosis
 
 ## Staging
 
-The ACC/AHA stages of HF are as follows: 
+The ACC/AHA stages of HF are as follows:
 
-  * **Stage A** : At risk for HF. No current or past symptoms, structural heart disease, or evidence of elevated cardiac biomarkers, but risk factors are present. Risk factors include hypertension, diabetes, metabolic syndrome, cardiotoxic medications, or having a genetic variant for cardiomyopathy. 
+- **Stage A** : At risk for HF. No current or past symptoms, structural heart disease, or evidence of elevated cardiac biomarkers, but risk factors are present. Risk factors include hypertension, diabetes, metabolic syndrome, cardiotoxic medications, or having a genetic variant for cardiomyopathy.
 
-  * **Stage B** : Pre-HF. Patients have no signs or symptoms of HF but have risk factors and structural heart disease, evidence of elevated filling pressures (by invasive or noninvasive assessment), or persistently elevated cardiomarkers in the absence of other reasons for elevated markers, like chronic kidney disease or myocarditis. 
+- **Stage B** : Pre-HF. Patients have no signs or symptoms of HF but have risk factors and structural heart disease, evidence of elevated filling pressures (by invasive or noninvasive assessment), or persistently elevated cardiomarkers in the absence of other reasons for elevated markers, like chronic kidney disease or myocarditis.
 
-  * **Stage C** : Symptomatic HF. Patients with current or past history of HF symptoms. 
+- **Stage C** : Symptomatic HF. Patients with current or past history of HF symptoms.
 
-  * **Stage D** : Advanced HF. Patients with refractory symptoms that interfere with daily life or recurrent hospitalization despite targeted guideline-directed medical therapy.
+- **Stage D** : Advanced HF. Patients with refractory symptoms that interfere with daily life or recurrent hospitalization despite targeted guideline-directed medical therapy.
 
 ## Prognosis
 
@@ -427,75 +430,75 @@ The Ottawa Heart Failure Risk Score is a useful tool for determining prognosis i
 
 Each of the following criteria is given 1 point if present:
 
-  * History of stroke or transient ischemic attack
+- History of stroke or transient ischemic attack
 
-  * Oxygen saturation <90%
+- Oxygen saturation \<90%
 
-  * Heart rate >110 bpm on the 3-minute walk test
+- Heart rate >110 bpm on the 3-minute walk test
 
-  * Acute ischemic ECG changes 
+- Acute ischemic ECG changes
 
-  * An NT-ProBNP level of >5000 ng/L
+- An NT-ProBNP level of >5000 ng/L
 
-Each of the following criteria is given 2 points if present: 
+Each of the following criteria is given 2 points if present:
 
-  * Prior history of mechanical ventilation for respiratory distress
+- Prior history of mechanical ventilation for respiratory distress
 
-  * Heart rate >110 bpm on presentation
+- Heart rate >110 bpm on presentation
 
-  * Blood urea nitrogen (BUN) >33.6 mg/dL (12 mmol/L)
+- Blood urea nitrogen (BUN) >33.6 mg/dL (12 mmol/L)
 
-  * Serum bicarbonate level >35 mg/d
+- Serum bicarbonate level >35 mg/d
 
 ## Complications
 
 Complications of HF include:
 
-  * Reduced quality of life
+- Reduced quality of life
 
-  * Arrhythmia and sudden cardiac death
+- Arrhythmia and sudden cardiac death
 
-  * Cardiac cachexia
+- Cardiac cachexia
 
-  * Cardiorenal disease
+- Cardiorenal disease
 
-  * Liver dysfunction
+- Liver dysfunction
 
-  * Functional valvular insufficiencies (eg, functional MR or TR)
+- Functional valvular insufficiencies (eg, functional MR or TR)
 
-  * Mural thrombi and risk of thromboembolism (brain, kidney, lung, major limb vessels)
+- Mural thrombi and risk of thromboembolism (brain, kidney, lung, major limb vessels)
 
-  * Recurrent hospitalizations and nosocomial infection
+- Recurrent hospitalizations and nosocomial infection
 
-  * Mortality
+- Mortality
 
 ## Consultations
 
 The consultation type depends on the disease stage and the intended management strategy. Commonly consulted specialists include:
 
-  * Heart failure specialist
+- Heart failure specialist
 
-  * Interventional cardiologist (to address structural heart disease percutaneously)
+- Interventional cardiologist (to address structural heart disease percutaneously)
 
-  * Cardiac electrophysiologist (device therapy)
+- Cardiac electrophysiologist (device therapy)
 
-  * Cardiac surgeon (for CABG, VHD, or mechanical cardiac support)
+- Cardiac surgeon (for CABG, VHD, or mechanical cardiac support)
 
-  * Cardiac imaging specialist
+- Cardiac imaging specialist
 
-  * Cardiac transplant specialist for stage D patients
+- Cardiac transplant specialist for stage D patients
 
-  * Cardiac rehabilitation physiotherapist
+- Cardiac rehabilitation physiotherapist
 
-  * Dietician
+- Dietician
 
-  * Palliative care (if aligned with the goal of care)
+- Palliative care (if aligned with the goal of care)
 
 ## Deterrence and Patient Education
 
-Risk factor reduction and aggressive management of comorbid conditions are crucial to reducing morbidity and mortality associated with HF. In addition to compliance with medications, patients need guidance on self-monitoring of symptoms of HF and avoiding the triggers of HF. These strategies can help prevent the development of HF in patients at high risk for the disease and slow the progression in those who are already diagnosed with it. Patient education is necessary to facilitate self-care and compliance. Close supervision, including surveillance by the patient and family, home-based visits, telephone support, and remote monitoring, is recommended. Socioeconomic support is pivotal in the appropriate management of the disease.[1] Patients require close clinical follow-up to assess volume status, effects of drug therapy, and escalation of care as indicated. 
+Risk factor reduction and aggressive management of comorbid conditions are crucial to reducing morbidity and mortality associated with HF. In addition to compliance with medications, patients need guidance on self-monitoring of symptoms of HF and avoiding the triggers of HF. These strategies can help prevent the development of HF in patients at high risk for the disease and slow the progression in those who are already diagnosed with it. Patient education is necessary to facilitate self-care and compliance. Close supervision, including surveillance by the patient and family, home-based visits, telephone support, and remote monitoring, is recommended. Socioeconomic support is pivotal in the appropriate management of the disease.[1] Patients require close clinical follow-up to assess volume status, effects of drug therapy, and escalation of care as indicated.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 HF is a complex clinical syndrome with high morbidity and mortality, necessitating an interprofessional approach to optimize patient-centered care and outcomes. Physicians, including clinical cardiologists, interventionalists, electrophysiologists, HF specialists, and cardiac imaging specialists, collaborate to diagnose, manage, and treat HF using evidence-based medical and procedural interventions. Advanced practitioners, such as HF nurse practitioners, play a crucial role in ongoing patient assessment, medication titration, and patient education to improve adherence to guideline-directed therapy. Specialty-trained HF nurses are vital in educating patients on lifestyle modifications, symptom recognition, and weight management to prevent exacerbations and reduce hospital admissions. Physical therapists help improve functional capacity and promote safe activity levels, while HF-trained social workers and case managers assess patients in community settings or through home visits to facilitate adherence to care plans and address social determinants of health that may impact disease management.
 
@@ -503,273 +506,218 @@ Effective interprofessional communication and care coordination are essential to
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=22661&utm_source=pubmed&utm_campaign=reviews&utm_content=22661)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=22661&utm_source=pubmed&utm_campaign=reviews&utm_content=22661)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/congestive-heart-failure-chf/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=22661)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/congestive-heart-failure-chf/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=22661)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/22661/?utm_source=pubmed&utm_campaign=comments&utm_content=22661)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/22661/?utm_source=pubmed&utm_campaign=comments&utm_content=22661)
 
 [![Congestive Heart Failure, Radiograph](/books/NBK430873/bin/cHF.gif)](/books/NBK430873/figure/article-22661.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK430873/figure/article-22661.image.f1/?report=objectonly)
 
-Congestive Heart Failure, Radiograph. Chest radiographs help assess for signs of pulmonary congestion or edema in acute decompensated heart failure. Contributed by S Bhimji, MD 
+Congestive Heart Failure, Radiograph. Chest radiographs help assess for signs of pulmonary congestion or edema in acute decompensated heart failure. Contributed by S Bhimji, MD
 
 ## References
 
 1.
-    
 
-Heidenreich PA, Bozkurt B, Aguilar D, Allen LA, Byun JJ, Colvin MM, Deswal A, Drazner MH, Dunlay SM, Evers LR, Fang JC, Fedson SE, Fonarow GC, Hayek SS, Hernandez AF, Khazanie P, Kittleson MM, Lee CS, Link MS, Milano CA, Nnacheta LC, Sandhu AT, Stevenson LW, Vardeny O, Vest AR, Yancy CW., ACC/AHA Joint Committee Members. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2022 May 03;145(18):e895-e1032. [[PubMed: 35363499](https://pubmed.ncbi.nlm.nih.gov/35363499)]
+Heidenreich PA, Bozkurt B, Aguilar D, Allen LA, Byun JJ, Colvin MM, Deswal A, Drazner MH, Dunlay SM, Evers LR, Fang JC, Fedson SE, Fonarow GC, Hayek SS, Hernandez AF, Khazanie P, Kittleson MM, Lee CS, Link MS, Milano CA, Nnacheta LC, Sandhu AT, Stevenson LW, Vardeny O, Vest AR, Yancy CW., ACC/AHA Joint Committee Members. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2022 May 03;145(18):e895-e1032. \[[PubMed: 35363499](https://pubmed.ncbi.nlm.nih.gov/35363499)\]
 
 2.
-    
 
-CONSENSUS Trial Study Group. Effects of enalapril on mortality in severe congestive heart failure. Results of the Cooperative North Scandinavian Enalapril Survival Study (CONSENSUS). N Engl J Med. 1987 Jun 04;316(23):1429-35. [[PubMed: 2883575](https://pubmed.ncbi.nlm.nih.gov/2883575)]
+CONSENSUS Trial Study Group. Effects of enalapril on mortality in severe congestive heart failure. Results of the Cooperative North Scandinavian Enalapril Survival Study (CONSENSUS). N Engl J Med. 1987 Jun 04;316(23):1429-35. \[[PubMed: 2883575](https://pubmed.ncbi.nlm.nih.gov/2883575)\]
 
 3.
-    
 
-Ziaeian B, Fonarow GC. Epidemiology and aetiology of heart failure. Nat Rev Cardiol. 2016 Jun;13(6):368-78. [[PMC free article: PMC4868779](/pmc/articles/PMC4868779/)] [[PubMed: 26935038](https://pubmed.ncbi.nlm.nih.gov/26935038)]
+Ziaeian B, Fonarow GC. Epidemiology and aetiology of heart failure. Nat Rev Cardiol. 2016 Jun;13(6):368-78. \[[PMC free article: PMC4868779](/pmc/articles/PMC4868779/)\] \[[PubMed: 26935038](https://pubmed.ncbi.nlm.nih.gov/26935038)\]
 
 4.
-    
 
-Lind L, Ingelsson M, Sundstrom J, Ärnlöv J. Impact of risk factors for major cardiovascular diseases: a comparison of life-time observational and Mendelian randomisation findings. Open Heart. 2021 Sep;8(2) [[PMC free article: PMC8438838](/pmc/articles/PMC8438838/)] [[PubMed: 34518286](https://pubmed.ncbi.nlm.nih.gov/34518286)]
+Lind L, Ingelsson M, Sundstrom J, Ärnlöv J. Impact of risk factors for major cardiovascular diseases: a comparison of life-time observational and Mendelian randomisation findings. Open Heart. 2021 Sep;8(2) \[[PMC free article: PMC8438838](/pmc/articles/PMC8438838/)\] \[[PubMed: 34518286](https://pubmed.ncbi.nlm.nih.gov/34518286)\]
 
 5.
-    
 
-Noubiap JJ, Agbor VN, Bigna JJ, Kaze AD, Nyaga UF, Mayosi BM. Prevalence and progression of rheumatic heart disease: a global systematic review and meta-analysis of population-based echocardiographic studies. Sci Rep. 2019 Nov 19;9(1):17022. [[PMC free article: PMC6863880](/pmc/articles/PMC6863880/)] [[PubMed: 31745178](https://pubmed.ncbi.nlm.nih.gov/31745178)]
+Noubiap JJ, Agbor VN, Bigna JJ, Kaze AD, Nyaga UF, Mayosi BM. Prevalence and progression of rheumatic heart disease: a global systematic review and meta-analysis of population-based echocardiographic studies. Sci Rep. 2019 Nov 19;9(1):17022. \[[PMC free article: PMC6863880](/pmc/articles/PMC6863880/)\] \[[PubMed: 31745178](https://pubmed.ncbi.nlm.nih.gov/31745178)\]
 
 6.
-    
 
-Kim KH, Pereira NL. Genetics of Cardiomyopathy: Clinical and Mechanistic Implications for Heart Failure. Korean Circ J. 2021 Oct;51(10):797-836. [[PMC free article: PMC8484993](/pmc/articles/PMC8484993/)] [[PubMed: 34327881](https://pubmed.ncbi.nlm.nih.gov/34327881)]
+Kim KH, Pereira NL. Genetics of Cardiomyopathy: Clinical and Mechanistic Implications for Heart Failure. Korean Circ J. 2021 Oct;51(10):797-836. \[[PMC free article: PMC8484993](/pmc/articles/PMC8484993/)\] \[[PubMed: 34327881](https://pubmed.ncbi.nlm.nih.gov/34327881)\]
 
 7.
-    
 
-Rezkalla SH, Kloner RA. Viral myocarditis: 1917-2020: From the Influenza A to the COVID-19 pandemics. Trends Cardiovasc Med. 2021 Apr;31(3):163-169. [[PMC free article: PMC7965406](/pmc/articles/PMC7965406/)] [[PubMed: 33383171](https://pubmed.ncbi.nlm.nih.gov/33383171)]
+Rezkalla SH, Kloner RA. Viral myocarditis: 1917-2020: From the Influenza A to the COVID-19 pandemics. Trends Cardiovasc Med. 2021 Apr;31(3):163-169. \[[PMC free article: PMC7965406](/pmc/articles/PMC7965406/)\] \[[PubMed: 33383171](https://pubmed.ncbi.nlm.nih.gov/33383171)\]
 
 8.
-    
 
-Muchtar E, Blauwet LA, Gertz MA. Restrictive Cardiomyopathy: Genetics, Pathogenesis, Clinical Manifestations, Diagnosis, and Therapy. Circ Res. 2017 Sep 15;121(7):819-837. [[PubMed: 28912185](https://pubmed.ncbi.nlm.nih.gov/28912185)]
+Muchtar E, Blauwet LA, Gertz MA. Restrictive Cardiomyopathy: Genetics, Pathogenesis, Clinical Manifestations, Diagnosis, and Therapy. Circ Res. 2017 Sep 15;121(7):819-837. \[[PubMed: 28912185](https://pubmed.ncbi.nlm.nih.gov/28912185)\]
 
 9.
-    
 
-Shams P, Ahmed I. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 30, 2023. Cardiac Amyloidosis. [[PubMed: 35593829](https://pubmed.ncbi.nlm.nih.gov/35593829)]
+Shams P, Ahmed I. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 30, 2023. Cardiac Amyloidosis. \[[PubMed: 35593829](https://pubmed.ncbi.nlm.nih.gov/35593829)\]
 
 10.
-    
 
-Brown KN, Pendela VS, Ahmed I, Diaz RR. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 30, 2023. Restrictive Cardiomyopathy. [[PubMed: 30725919](https://pubmed.ncbi.nlm.nih.gov/30725919)]
+Brown KN, Pendela VS, Ahmed I, Diaz RR. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 30, 2023. Restrictive Cardiomyopathy. \[[PubMed: 30725919](https://pubmed.ncbi.nlm.nih.gov/30725919)\]
 
 11.
-    
 
-Matta AG, Carrié D. Epidemiology, Pathophysiology, Diagnosis, and Principles of Management of Takotsubo Cardiomyopathy: A Review. Med Sci Monit. 2023 Mar 06;29:e939020. [[PMC free article: PMC9999670](/pmc/articles/PMC9999670/)] [[PubMed: 36872594](https://pubmed.ncbi.nlm.nih.gov/36872594)]
+Matta AG, Carrié D. Epidemiology, Pathophysiology, Diagnosis, and Principles of Management of Takotsubo Cardiomyopathy: A Review. Med Sci Monit. 2023 Mar 06;29:e939020. \[[PMC free article: PMC9999670](/pmc/articles/PMC9999670/)\] \[[PubMed: 36872594](https://pubmed.ncbi.nlm.nih.gov/36872594)\]
 
 12.
-    
 
-Bairashevskaia AV, Belogubova SY, Kondratiuk MR, Rudnova DS, Sologova SS, Tereshkina OI, Avakyan EI. Update of Takotsubo cardiomyopathy: Present experience and outlook for the future. Int J Cardiol Heart Vasc. 2022 Apr;39:100990. [[PMC free article: PMC8913320](/pmc/articles/PMC8913320/)] [[PubMed: 35281752](https://pubmed.ncbi.nlm.nih.gov/35281752)]
+Bairashevskaia AV, Belogubova SY, Kondratiuk MR, Rudnova DS, Sologova SS, Tereshkina OI, Avakyan EI. Update of Takotsubo cardiomyopathy: Present experience and outlook for the future. Int J Cardiol Heart Vasc. 2022 Apr;39:100990. \[[PMC free article: PMC8913320](/pmc/articles/PMC8913320/)\] \[[PubMed: 35281752](https://pubmed.ncbi.nlm.nih.gov/35281752)\]
 
 13.
-    
 
-Ahmad SA, Brito D, Khalid N, Ibrahim MA. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 22, 2023. Takotsubo Cardiomyopathy. [[PubMed: 28613549](https://pubmed.ncbi.nlm.nih.gov/28613549)]
+Ahmad SA, Brito D, Khalid N, Ibrahim MA. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 22, 2023. Takotsubo Cardiomyopathy. \[[PubMed: 28613549](https://pubmed.ncbi.nlm.nih.gov/28613549)\]
 
 14.
-    
 
-DeFilippis EM, Beale A, Martyn T, Agarwal A, Elkayam U, Lam CSP, Hsich E. Heart Failure Subtypes and Cardiomyopathies in Women. Circ Res. 2022 Feb 18;130(4):436-454. [[PMC free article: PMC10361647](/pmc/articles/PMC10361647/)] [[PubMed: 35175847](https://pubmed.ncbi.nlm.nih.gov/35175847)]
+DeFilippis EM, Beale A, Martyn T, Agarwal A, Elkayam U, Lam CSP, Hsich E. Heart Failure Subtypes and Cardiomyopathies in Women. Circ Res. 2022 Feb 18;130(4):436-454. \[[PMC free article: PMC10361647](/pmc/articles/PMC10361647/)\] \[[PubMed: 35175847](https://pubmed.ncbi.nlm.nih.gov/35175847)\]
 
 15.
-    
 
-Wong CM, Hawkins NM, Jhund PS, MacDonald MR, Solomon SD, Granger CB, Yusuf S, Pfeffer MA, Swedberg K, Petrie MC, McMurray JJ. Clinical characteristics and outcomes of young and very young adults with heart failure: The CHARM programme (Candesartan in Heart Failure Assessment of Reduction in Mortality and Morbidity). J Am Coll Cardiol. 2013 Nov 12;62(20):1845-54. [[PubMed: 23850914](https://pubmed.ncbi.nlm.nih.gov/23850914)]
+Wong CM, Hawkins NM, Jhund PS, MacDonald MR, Solomon SD, Granger CB, Yusuf S, Pfeffer MA, Swedberg K, Petrie MC, McMurray JJ. Clinical characteristics and outcomes of young and very young adults with heart failure: The CHARM programme (Candesartan in Heart Failure Assessment of Reduction in Mortality and Morbidity). J Am Coll Cardiol. 2013 Nov 12;62(20):1845-54. \[[PubMed: 23850914](https://pubmed.ncbi.nlm.nih.gov/23850914)\]
 
 16.
-    
 
-Sciomer S, Moscucci F, Salvioni E, Marchese G, Bussotti M, Corrà U, Piepoli MF. Role of gender, age and BMI in prognosis of heart failure. Eur J Prev Cardiol. 2020 Dec;27(2_suppl):46-51. [[PMC free article: PMC7691623](/pmc/articles/PMC7691623/)] [[PubMed: 33238736](https://pubmed.ncbi.nlm.nih.gov/33238736)]
+Sciomer S, Moscucci F, Salvioni E, Marchese G, Bussotti M, Corrà U, Piepoli MF. Role of gender, age and BMI in prognosis of heart failure. Eur J Prev Cardiol. 2020 Dec;27(2_suppl):46-51. \[[PMC free article: PMC7691623](/pmc/articles/PMC7691623/)\] \[[PubMed: 33238736](https://pubmed.ncbi.nlm.nih.gov/33238736)\]
 
 17.
-    
 
-Volpe M, Gallo G. Obesity and cardiovascular disease: An executive document on pathophysiological and clinical links promoted by the Italian Society of Cardiovascular Prevention (SIPREC). Front Cardiovasc Med. 2023;10:1136340. [[PMC free article: PMC10040794](/pmc/articles/PMC10040794/)] [[PubMed: 36993998](https://pubmed.ncbi.nlm.nih.gov/36993998)]
+Volpe M, Gallo G. Obesity and cardiovascular disease: An executive document on pathophysiological and clinical links promoted by the Italian Society of Cardiovascular Prevention (SIPREC). Front Cardiovasc Med. 2023;10:1136340. \[[PMC free article: PMC10040794](/pmc/articles/PMC10040794/)\] \[[PubMed: 36993998](https://pubmed.ncbi.nlm.nih.gov/36993998)\]
 
 18.
-    
 
-Kim DY, Kim SH, Ryu KH. Tachycardia induced Cardiomyopathy. Korean Circ J. 2019 Sep;49(9):808-817. [[PMC free article: PMC6713829](/pmc/articles/PMC6713829/)] [[PubMed: 31456374](https://pubmed.ncbi.nlm.nih.gov/31456374)]
+Kim DY, Kim SH, Ryu KH. Tachycardia induced Cardiomyopathy. Korean Circ J. 2019 Sep;49(9):808-817. \[[PMC free article: PMC6713829](/pmc/articles/PMC6713829/)\] \[[PubMed: 31456374](https://pubmed.ncbi.nlm.nih.gov/31456374)\]
 
 19.
-    
 
-Anakwue RC, Onwubere BJ, Anisiuba BC, Ikeh VO, Mbah A, Ike SO. Congestive heart failure in subjects with thyrotoxicosis in a black community. Vasc Health Risk Manag. 2010 Aug 09;6:473-7. [[PMC free article: PMC2922308](/pmc/articles/PMC2922308/)] [[PubMed: 20730063](https://pubmed.ncbi.nlm.nih.gov/20730063)]
+Anakwue RC, Onwubere BJ, Anisiuba BC, Ikeh VO, Mbah A, Ike SO. Congestive heart failure in subjects with thyrotoxicosis in a black community. Vasc Health Risk Manag. 2010 Aug 09;6:473-7. \[[PMC free article: PMC2922308](/pmc/articles/PMC2922308/)\] \[[PubMed: 20730063](https://pubmed.ncbi.nlm.nih.gov/20730063)\]
 
 20.
-    
 
-Schoenenberger AW, Schoenenberger-Berzins R, der Maur CA, Suter PM, Vergopoulos A, Erne P. Thiamine supplementation in symptomatic chronic heart failure: a randomized, double-blind, placebo-controlled, cross-over pilot study. Clin Res Cardiol. 2012 Mar;101(3):159-64. [[PubMed: 22057652](https://pubmed.ncbi.nlm.nih.gov/22057652)]
+Schoenenberger AW, Schoenenberger-Berzins R, der Maur CA, Suter PM, Vergopoulos A, Erne P. Thiamine supplementation in symptomatic chronic heart failure: a randomized, double-blind, placebo-controlled, cross-over pilot study. Clin Res Cardiol. 2012 Mar;101(3):159-64. \[[PubMed: 22057652](https://pubmed.ncbi.nlm.nih.gov/22057652)\]
 
 21.
-    
 
-DiNicolantonio JJ, Liu J, O'Keefe JH. Thiamine and Cardiovascular Disease: A Literature Review. Prog Cardiovasc Dis. 2018 May-Jun;61(1):27-32. [[PubMed: 29360523](https://pubmed.ncbi.nlm.nih.gov/29360523)]
+DiNicolantonio JJ, Liu J, O'Keefe JH. Thiamine and Cardiovascular Disease: A Literature Review. Prog Cardiovasc Dis. 2018 May-Jun;61(1):27-32. \[[PubMed: 29360523](https://pubmed.ncbi.nlm.nih.gov/29360523)\]
 
 22.
-    
 
-Reddy YNV, Melenovsky V, Redfield MM, Nishimura RA, Borlaug BA. High-Output Heart Failure: A 15-Year Experience. J Am Coll Cardiol. 2016 Aug 02;68(5):473-482. [[PubMed: 27470455](https://pubmed.ncbi.nlm.nih.gov/27470455)]
+Reddy YNV, Melenovsky V, Redfield MM, Nishimura RA, Borlaug BA. High-Output Heart Failure: A 15-Year Experience. J Am Coll Cardiol. 2016 Aug 02;68(5):473-482. \[[PubMed: 27470455](https://pubmed.ncbi.nlm.nih.gov/27470455)\]
 
 23.
-    
 
-Chayanupatkul M, Liangpunsakul S. Cirrhotic cardiomyopathy: review of pathophysiology and treatment. Hepatol Int. 2014 Jul;8(3):308-15. [[PMC free article: PMC4160726](/pmc/articles/PMC4160726/)] [[PubMed: 25221635](https://pubmed.ncbi.nlm.nih.gov/25221635)]
+Chayanupatkul M, Liangpunsakul S. Cirrhotic cardiomyopathy: review of pathophysiology and treatment. Hepatol Int. 2014 Jul;8(3):308-15. \[[PMC free article: PMC4160726](/pmc/articles/PMC4160726/)\] \[[PubMed: 25221635](https://pubmed.ncbi.nlm.nih.gov/25221635)\]
 
 24.
-    
 
-Virani SS, Alonso A, Benjamin EJ, Bittencourt MS, Callaway CW, Carson AP, Chamberlain AM, Chang AR, Cheng S, Delling FN, Djousse L, Elkind MSV, Ferguson JF, Fornage M, Khan SS, Kissela BM, Knutson KL, Kwan TW, Lackland DT, Lewis TT, Lichtman JH, Longenecker CT, Loop MS, Lutsey PL, Martin SS, Matsushita K, Moran AE, Mussolino ME, Perak AM, Rosamond WD, Roth GA, Sampson UKA, Satou GM, Schroeder EB, Shah SH, Shay CM, Spartano NL, Stokes A, Tirschwell DL, VanWagner LB, Tsao CW., American Heart Association Council on Epidemiology and Prevention Statistics Committee and Stroke Statistics Subcommittee. Heart Disease and Stroke Statistics-2020 Update: A Report From the American Heart Association. Circulation. 2020 Mar 03;141(9):e139-e596. [[PubMed: 31992061](https://pubmed.ncbi.nlm.nih.gov/31992061)]
+Virani SS, Alonso A, Benjamin EJ, Bittencourt MS, Callaway CW, Carson AP, Chamberlain AM, Chang AR, Cheng S, Delling FN, Djousse L, Elkind MSV, Ferguson JF, Fornage M, Khan SS, Kissela BM, Knutson KL, Kwan TW, Lackland DT, Lewis TT, Lichtman JH, Longenecker CT, Loop MS, Lutsey PL, Martin SS, Matsushita K, Moran AE, Mussolino ME, Perak AM, Rosamond WD, Roth GA, Sampson UKA, Satou GM, Schroeder EB, Shah SH, Shay CM, Spartano NL, Stokes A, Tirschwell DL, VanWagner LB, Tsao CW., American Heart Association Council on Epidemiology and Prevention Statistics Committee and Stroke Statistics Subcommittee. Heart Disease and Stroke Statistics-2020 Update: A Report From the American Heart Association. Circulation. 2020 Mar 03;141(9):e139-e596. \[[PubMed: 31992061](https://pubmed.ncbi.nlm.nih.gov/31992061)\]
 
 25.
-    
 
-Ho KK, Pinsky JL, Kannel WB, Levy D. The epidemiology of heart failure: the Framingham Study. J Am Coll Cardiol. 1993 Oct;22(4 Suppl A):6A-13A. [[PubMed: 8376698](https://pubmed.ncbi.nlm.nih.gov/8376698)]
+Ho KK, Pinsky JL, Kannel WB, Levy D. The epidemiology of heart failure: the Framingham Study. J Am Coll Cardiol. 1993 Oct;22(4 Suppl A):6A-13A. \[[PubMed: 8376698](https://pubmed.ncbi.nlm.nih.gov/8376698)\]
 
 26.
-    
 
-Benjamin EJ, Blaha MJ, Chiuve SE, Cushman M, Das SR, Deo R, de Ferranti SD, Floyd J, Fornage M, Gillespie C, Isasi CR, Jiménez MC, Jordan LC, Judd SE, Lackland D, Lichtman JH, Lisabeth L, Liu S, Longenecker CT, Mackey RH, Matsushita K, Mozaffarian D, Mussolino ME, Nasir K, Neumar RW, Palaniappan L, Pandey DK, Thiagarajan RR, Reeves MJ, Ritchey M, Rodriguez CJ, Roth GA, Rosamond WD, Sasson C, Towfighi A, Tsao CW, Turner MB, Virani SS, Voeks JH, Willey JZ, Wilkins JT, Wu JH, Alger HM, Wong SS, Muntner P., American Heart Association Statistics Committee and Stroke Statistics Subcommittee. Heart Disease and Stroke Statistics-2017 Update: A Report From the American Heart Association. Circulation. 2017 Mar 07;135(10):e146-e603. [[PMC free article: PMC5408160](/pmc/articles/PMC5408160/)] [[PubMed: 28122885](https://pubmed.ncbi.nlm.nih.gov/28122885)]
+Benjamin EJ, Blaha MJ, Chiuve SE, Cushman M, Das SR, Deo R, de Ferranti SD, Floyd J, Fornage M, Gillespie C, Isasi CR, Jiménez MC, Jordan LC, Judd SE, Lackland D, Lichtman JH, Lisabeth L, Liu S, Longenecker CT, Mackey RH, Matsushita K, Mozaffarian D, Mussolino ME, Nasir K, Neumar RW, Palaniappan L, Pandey DK, Thiagarajan RR, Reeves MJ, Ritchey M, Rodriguez CJ, Roth GA, Rosamond WD, Sasson C, Towfighi A, Tsao CW, Turner MB, Virani SS, Voeks JH, Willey JZ, Wilkins JT, Wu JH, Alger HM, Wong SS, Muntner P., American Heart Association Statistics Committee and Stroke Statistics Subcommittee. Heart Disease and Stroke Statistics-2017 Update: A Report From the American Heart Association. Circulation. 2017 Mar 07;135(10):e146-e603. \[[PMC free article: PMC5408160](/pmc/articles/PMC5408160/)\] \[[PubMed: 28122885](https://pubmed.ncbi.nlm.nih.gov/28122885)\]
 
 27.
-    
 
-Yusuf S, Joseph P, Rangarajan S, Islam S, Mente A, Hystad P, Brauer M, Kutty VR, Gupta R, Wielgosz A, AlHabib KF, Dans A, Lopez-Jaramillo P, Avezum A, Lanas F, Oguz A, Kruger IM, Diaz R, Yusoff K, Mony P, Chifamba J, Yeates K, Kelishadi R, Yusufali A, Khatib R, Rahman O, Zatonska K, Iqbal R, Wei L, Bo H, Rosengren A, Kaur M, Mohan V, Lear SA, Teo KK, Leong D, O'Donnell M, McKee M, Dagenais G. Modifiable risk factors, cardiovascular disease, and mortality in 155 722 individuals from 21 high-income, middle-income, and low-income countries (PURE): a prospective cohort study. Lancet. 2020 Mar 07;395(10226):795-808. [[PMC free article: PMC8006904](/pmc/articles/PMC8006904/)] [[PubMed: 31492503](https://pubmed.ncbi.nlm.nih.gov/31492503)]
+Yusuf S, Joseph P, Rangarajan S, Islam S, Mente A, Hystad P, Brauer M, Kutty VR, Gupta R, Wielgosz A, AlHabib KF, Dans A, Lopez-Jaramillo P, Avezum A, Lanas F, Oguz A, Kruger IM, Diaz R, Yusoff K, Mony P, Chifamba J, Yeates K, Kelishadi R, Yusufali A, Khatib R, Rahman O, Zatonska K, Iqbal R, Wei L, Bo H, Rosengren A, Kaur M, Mohan V, Lear SA, Teo KK, Leong D, O'Donnell M, McKee M, Dagenais G. Modifiable risk factors, cardiovascular disease, and mortality in 155 722 individuals from 21 high-income, middle-income, and low-income countries (PURE): a prospective cohort study. Lancet. 2020 Mar 07;395(10226):795-808. \[[PMC free article: PMC8006904](/pmc/articles/PMC8006904/)\] \[[PubMed: 31492503](https://pubmed.ncbi.nlm.nih.gov/31492503)\]
 
 28.
-    
 
-Opie LH, Commerford PJ, Gersh BJ, Pfeffer MA. Controversies in ventricular remodelling. Lancet. 2006 Jan 28;367(9507):356-67. [[PubMed: 16443044](https://pubmed.ncbi.nlm.nih.gov/16443044)]
+Opie LH, Commerford PJ, Gersh BJ, Pfeffer MA. Controversies in ventricular remodelling. Lancet. 2006 Jan 28;367(9507):356-67. \[[PubMed: 16443044](https://pubmed.ncbi.nlm.nih.gov/16443044)\]
 
 29.
-    
 
-Kemp CD, Conte JV. The pathophysiology of heart failure. Cardiovasc Pathol. 2012 Sep-Oct;21(5):365-71. [[PubMed: 22227365](https://pubmed.ncbi.nlm.nih.gov/22227365)]
+Kemp CD, Conte JV. The pathophysiology of heart failure. Cardiovasc Pathol. 2012 Sep-Oct;21(5):365-71. \[[PubMed: 22227365](https://pubmed.ncbi.nlm.nih.gov/22227365)\]
 
 30.
-    
 
-Ait Mou Y, Bollensdorff C, Cazorla O, Magdi Y, de Tombe PP. Exploring cardiac biophysical properties. Glob Cardiol Sci Pract. 2015;2015:10. [[PMC free article: PMC4448074](/pmc/articles/PMC4448074/)] [[PubMed: 26779498](https://pubmed.ncbi.nlm.nih.gov/26779498)]
+Ait Mou Y, Bollensdorff C, Cazorla O, Magdi Y, de Tombe PP. Exploring cardiac biophysical properties. Glob Cardiol Sci Pract. 2015;2015:10. \[[PMC free article: PMC4448074](/pmc/articles/PMC4448074/)\] \[[PubMed: 26779498](https://pubmed.ncbi.nlm.nih.gov/26779498)\]
 
 31.
-    
 
-Abassi Z, Khoury EE, Karram T, Aronson D. Edema formation in congestive heart failure and the underlying mechanisms. Front Cardiovasc Med. 2022;9:933215. [[PMC free article: PMC9553007](/pmc/articles/PMC9553007/)] [[PubMed: 36237903](https://pubmed.ncbi.nlm.nih.gov/36237903)]
+Abassi Z, Khoury EE, Karram T, Aronson D. Edema formation in congestive heart failure and the underlying mechanisms. Front Cardiovasc Med. 2022;9:933215. \[[PMC free article: PMC9553007](/pmc/articles/PMC9553007/)\] \[[PubMed: 36237903](https://pubmed.ncbi.nlm.nih.gov/36237903)\]
 
 32.
-    
 
-Prausmüller S, Arfsten H, Spinka G, Freitag C, Bartko PE, Goliasch G, Strunk G, Pavo N, Hülsmann M. Plasma Neprilysin Displays No Relevant Association With Neurohumoral Activation in Chronic HFrEF. J Am Heart Assoc. 2020 Jun 02;9(11):e015071. [[PMC free article: PMC7428996](/pmc/articles/PMC7428996/)] [[PubMed: 32427034](https://pubmed.ncbi.nlm.nih.gov/32427034)]
+Prausmüller S, Arfsten H, Spinka G, Freitag C, Bartko PE, Goliasch G, Strunk G, Pavo N, Hülsmann M. Plasma Neprilysin Displays No Relevant Association With Neurohumoral Activation in Chronic HFrEF. J Am Heart Assoc. 2020 Jun 02;9(11):e015071. \[[PMC free article: PMC7428996](/pmc/articles/PMC7428996/)\] \[[PubMed: 32427034](https://pubmed.ncbi.nlm.nih.gov/32427034)\]
 
 33.
-    
 
-Docherty KF, Vaduganathan M, Solomon SD, McMurray JJV. Sacubitril/Valsartan: Neprilysin Inhibition 5 Years After PARADIGM-HF. JACC Heart Fail. 2020 Oct;8(10):800-810. [[PMC free article: PMC8837825](/pmc/articles/PMC8837825/)] [[PubMed: 33004114](https://pubmed.ncbi.nlm.nih.gov/33004114)]
+Docherty KF, Vaduganathan M, Solomon SD, McMurray JJV. Sacubitril/Valsartan: Neprilysin Inhibition 5 Years After PARADIGM-HF. JACC Heart Fail. 2020 Oct;8(10):800-810. \[[PMC free article: PMC8837825](/pmc/articles/PMC8837825/)\] \[[PubMed: 33004114](https://pubmed.ncbi.nlm.nih.gov/33004114)\]
 
 34.
-    
 
-Obokata M, Reddy YNV, Borlaug BA. Diastolic Dysfunction and Heart Failure With Preserved Ejection Fraction: Understanding Mechanisms by Using Noninvasive Methods. JACC Cardiovasc Imaging. 2020 Jan;13(1 Pt 2):245-257. [[PMC free article: PMC6899218](/pmc/articles/PMC6899218/)] [[PubMed: 31202759](https://pubmed.ncbi.nlm.nih.gov/31202759)]
+Obokata M, Reddy YNV, Borlaug BA. Diastolic Dysfunction and Heart Failure With Preserved Ejection Fraction: Understanding Mechanisms by Using Noninvasive Methods. JACC Cardiovasc Imaging. 2020 Jan;13(1 Pt 2):245-257. \[[PMC free article: PMC6899218](/pmc/articles/PMC6899218/)\] \[[PubMed: 31202759](https://pubmed.ncbi.nlm.nih.gov/31202759)\]
 
 35.
-    
 
-Kao DP, Lewsey JD, Anand IS, Massie BM, Zile MR, Carson PE, McKelvie RS, Komajda M, McMurray JJ, Lindenfeld J. Characterization of subgroups of heart failure patients with preserved ejection fraction with possible implications for prognosis and treatment response. Eur J Heart Fail. 2015 Sep;17(9):925-35. [[PMC free article: PMC4654630](/pmc/articles/PMC4654630/)] [[PubMed: 26250359](https://pubmed.ncbi.nlm.nih.gov/26250359)]
+Kao DP, Lewsey JD, Anand IS, Massie BM, Zile MR, Carson PE, McKelvie RS, Komajda M, McMurray JJ, Lindenfeld J. Characterization of subgroups of heart failure patients with preserved ejection fraction with possible implications for prognosis and treatment response. Eur J Heart Fail. 2015 Sep;17(9):925-35. \[[PMC free article: PMC4654630](/pmc/articles/PMC4654630/)\] \[[PubMed: 26250359](https://pubmed.ncbi.nlm.nih.gov/26250359)\]
 
 36.
-    
 
-Harjola VP, Mullens W, Banaszewski M, Bauersachs J, Brunner-La Rocca HP, Chioncel O, Collins SP, Doehner W, Filippatos GS, Flammer AJ, Fuhrmann V, Lainscak M, Lassus J, Legrand M, Masip J, Mueller C, Papp Z, Parissis J, Platz E, Rudiger A, Ruschitzka F, Schäfer A, Seferovic PM, Skouri H, Yilmaz MB, Mebazaa A. Organ dysfunction, injury and failure in acute heart failure: from pathophysiology to diagnosis and management. A review on behalf of the Acute Heart Failure Committee of the Heart Failure Association (HFA) of the European Society of Cardiology (ESC). Eur J Heart Fail. 2017 Jul;19(7):821-836. [[PMC free article: PMC5734941](/pmc/articles/PMC5734941/)] [[PubMed: 28560717](https://pubmed.ncbi.nlm.nih.gov/28560717)]
+Harjola VP, Mullens W, Banaszewski M, Bauersachs J, Brunner-La Rocca HP, Chioncel O, Collins SP, Doehner W, Filippatos GS, Flammer AJ, Fuhrmann V, Lainscak M, Lassus J, Legrand M, Masip J, Mueller C, Papp Z, Parissis J, Platz E, Rudiger A, Ruschitzka F, Schäfer A, Seferovic PM, Skouri H, Yilmaz MB, Mebazaa A. Organ dysfunction, injury and failure in acute heart failure: from pathophysiology to diagnosis and management. A review on behalf of the Acute Heart Failure Committee of the Heart Failure Association (HFA) of the European Society of Cardiology (ESC). Eur J Heart Fail. 2017 Jul;19(7):821-836. \[[PMC free article: PMC5734941](/pmc/articles/PMC5734941/)\] \[[PubMed: 28560717](https://pubmed.ncbi.nlm.nih.gov/28560717)\]
 
 37.
-    
 
-King M, Kingery J, Casey B. Diagnosis and evaluation of heart failure. Am Fam Physician. 2012 Jun 15;85(12):1161-8. [[PubMed: 22962896](https://pubmed.ncbi.nlm.nih.gov/22962896)]
+King M, Kingery J, Casey B. Diagnosis and evaluation of heart failure. Am Fam Physician. 2012 Jun 15;85(12):1161-8. \[[PubMed: 22962896](https://pubmed.ncbi.nlm.nih.gov/22962896)\]
 
 38.
-    
 
-Ali AS, Rybicki BA, Alam M, Wulbrecht N, Richer-Cornish K, Khaja F, Sabbah HN, Goldstein S. Clinical predictors of heart failure in patients with first acute myocardial infarction. Am Heart J. 1999 Dec;138(6 Pt 1):1133-9. [[PubMed: 10577445](https://pubmed.ncbi.nlm.nih.gov/10577445)]
+Ali AS, Rybicki BA, Alam M, Wulbrecht N, Richer-Cornish K, Khaja F, Sabbah HN, Goldstein S. Clinical predictors of heart failure in patients with first acute myocardial infarction. Am Heart J. 1999 Dec;138(6 Pt 1):1133-9. \[[PubMed: 10577445](https://pubmed.ncbi.nlm.nih.gov/10577445)\]
 
 39.
-    
 
-Klein L, O'Connor CM, Leimberger JD, Gattis-Stough W, Piña IL, Felker GM, Adams KF, Califf RM, Gheorghiade M., OPTIME-CHF Investigators. Lower serum sodium is associated with increased short-term mortality in hospitalized patients with worsening heart failure: results from the Outcomes of a Prospective Trial of Intravenous Milrinone for Exacerbations of Chronic Heart Failure (OPTIME-CHF) study. Circulation. 2005 May 17;111(19):2454-60. [[PubMed: 15867182](https://pubmed.ncbi.nlm.nih.gov/15867182)]
+Klein L, O'Connor CM, Leimberger JD, Gattis-Stough W, Piña IL, Felker GM, Adams KF, Califf RM, Gheorghiade M., OPTIME-CHF Investigators. Lower serum sodium is associated with increased short-term mortality in hospitalized patients with worsening heart failure: results from the Outcomes of a Prospective Trial of Intravenous Milrinone for Exacerbations of Chronic Heart Failure (OPTIME-CHF) study. Circulation. 2005 May 17;111(19):2454-60. \[[PubMed: 15867182](https://pubmed.ncbi.nlm.nih.gov/15867182)\]
 
 40.
-    
 
-Kelder JC, Cramer MJ, van Wijngaarden J, van Tooren R, Mosterd A, Moons KG, Lammers JW, Cowie MR, Grobbee DE, Hoes AW. The diagnostic value of physical examination and additional testing in primary care patients with suspected heart failure. Circulation. 2011 Dec 20;124(25):2865-73. [[PubMed: 22104551](https://pubmed.ncbi.nlm.nih.gov/22104551)]
+Kelder JC, Cramer MJ, van Wijngaarden J, van Tooren R, Mosterd A, Moons KG, Lammers JW, Cowie MR, Grobbee DE, Hoes AW. The diagnostic value of physical examination and additional testing in primary care patients with suspected heart failure. Circulation. 2011 Dec 20;124(25):2865-73. \[[PubMed: 22104551](https://pubmed.ncbi.nlm.nih.gov/22104551)\]
 
 41.
-    
 
-Rørth R, Jhund PS, Yilmaz MB, Kristensen SL, Welsh P, Desai AS, Køber L, Prescott MF, Rouleau JL, Solomon SD, Swedberg K, Zile MR, Packer M, McMurray JJV. Comparison of BNP and NT-proBNP in Patients With Heart Failure and Reduced Ejection Fraction. Circ Heart Fail. 2020 Feb;13(2):e006541. [[PubMed: 32065760](https://pubmed.ncbi.nlm.nih.gov/32065760)]
+Rørth R, Jhund PS, Yilmaz MB, Kristensen SL, Welsh P, Desai AS, Køber L, Prescott MF, Rouleau JL, Solomon SD, Swedberg K, Zile MR, Packer M, McMurray JJV. Comparison of BNP and NT-proBNP in Patients With Heart Failure and Reduced Ejection Fraction. Circ Heart Fail. 2020 Feb;13(2):e006541. \[[PubMed: 32065760](https://pubmed.ncbi.nlm.nih.gov/32065760)\]
 
 42.
-    
 
-Hacker M, Hoyer X, Kupzyk S, La Fougere C, Kois J, Stempfle HU, Tiling R, Hahn K, Störk S. Clinical validation of the gated blood pool SPECT QBS processing software in congestive heart failure patients: correlation with MUGA, first-pass RNV and 2D-echocardiography. Int J Cardiovasc Imaging. 2006 Jun-Aug;22(3-4):407-16. [[PubMed: 16328851](https://pubmed.ncbi.nlm.nih.gov/16328851)]
+Hacker M, Hoyer X, Kupzyk S, La Fougere C, Kois J, Stempfle HU, Tiling R, Hahn K, Störk S. Clinical validation of the gated blood pool SPECT QBS processing software in congestive heart failure patients: correlation with MUGA, first-pass RNV and 2D-echocardiography. Int J Cardiovasc Imaging. 2006 Jun-Aug;22(3-4):407-16. \[[PubMed: 16328851](https://pubmed.ncbi.nlm.nih.gov/16328851)\]
 
 43.
-    
 
-Jain S, Londono FJ, Segers P, Gillebert TC, De Buyzere M, Chirinos JA. MRI Assessment of Diastolic and Systolic Intraventricular Pressure Gradients in Heart Failure. Curr Heart Fail Rep. 2016 Feb;13(1):37-46. [[PubMed: 26780916](https://pubmed.ncbi.nlm.nih.gov/26780916)]
+Jain S, Londono FJ, Segers P, Gillebert TC, De Buyzere M, Chirinos JA. MRI Assessment of Diastolic and Systolic Intraventricular Pressure Gradients in Heart Failure. Curr Heart Fail Rep. 2016 Feb;13(1):37-46. \[[PubMed: 26780916](https://pubmed.ncbi.nlm.nih.gov/26780916)\]
 
 44.
-    
 
-Cahill TJ, Ashrafian H, Watkins H. Genetic cardiomyopathies causing heart failure. Circ Res. 2013 Aug 30;113(6):660-75. [[PubMed: 23989711](https://pubmed.ncbi.nlm.nih.gov/23989711)]
+Cahill TJ, Ashrafian H, Watkins H. Genetic cardiomyopathies causing heart failure. Circ Res. 2013 Aug 30;113(6):660-75. \[[PubMed: 23989711](https://pubmed.ncbi.nlm.nih.gov/23989711)\]
 
 45.
-    
 
-Peterson PN, Rumsfeld JS, Liang L, Albert NM, Hernandez AF, Peterson ED, Fonarow GC, Masoudi FA., American Heart Association Get With the Guidelines-Heart Failure Program. A validated risk score for in-hospital mortality in patients with heart failure from the American Heart Association get with the guidelines program. Circ Cardiovasc Qual Outcomes. 2010 Jan;3(1):25-32. [[PubMed: 20123668](https://pubmed.ncbi.nlm.nih.gov/20123668)]
+Peterson PN, Rumsfeld JS, Liang L, Albert NM, Hernandez AF, Peterson ED, Fonarow GC, Masoudi FA., American Heart Association Get With the Guidelines-Heart Failure Program. A validated risk score for in-hospital mortality in patients with heart failure from the American Heart Association get with the guidelines program. Circ Cardiovasc Qual Outcomes. 2010 Jan;3(1):25-32. \[[PubMed: 20123668](https://pubmed.ncbi.nlm.nih.gov/20123668)\]
 
 46.
-    
 
-Lam CSP, Mulder H, Lopatin Y, Vazquez-Tanus JB, Siu D, Ezekowitz J, Pieske B, O'Connor CM, Roessig L, Patel MJ, Anstrom KJ, Hernandez AF, Armstrong PW., VICTORIA Study Group. Blood Pressure and Safety Events With Vericiguat in the VICTORIA Trial. J Am Heart Assoc. 2021 Nov 16;10(22):e021094. [[PMC free article: PMC8751950](/pmc/articles/PMC8751950/)] [[PubMed: 34743540](https://pubmed.ncbi.nlm.nih.gov/34743540)]
+Lam CSP, Mulder H, Lopatin Y, Vazquez-Tanus JB, Siu D, Ezekowitz J, Pieske B, O'Connor CM, Roessig L, Patel MJ, Anstrom KJ, Hernandez AF, Armstrong PW., VICTORIA Study Group. Blood Pressure and Safety Events With Vericiguat in the VICTORIA Trial. J Am Heart Assoc. 2021 Nov 16;10(22):e021094. \[[PMC free article: PMC8751950](/pmc/articles/PMC8751950/)\] \[[PubMed: 34743540](https://pubmed.ncbi.nlm.nih.gov/34743540)\]
 
 47.
-    
 
-Armstrong PW, Pieske B, Anstrom KJ, Ezekowitz J, Hernandez AF, Butler J, Lam CSP, Ponikowski P, Voors AA, Jia G, McNulty SE, Patel MJ, Roessig L, Koglin J, O'Connor CM., VICTORIA Study Group. Vericiguat in Patients with Heart Failure and Reduced Ejection Fraction. N Engl J Med. 2020 May 14;382(20):1883-1893. [[PubMed: 32222134](https://pubmed.ncbi.nlm.nih.gov/32222134)]
+Armstrong PW, Pieske B, Anstrom KJ, Ezekowitz J, Hernandez AF, Butler J, Lam CSP, Ponikowski P, Voors AA, Jia G, McNulty SE, Patel MJ, Roessig L, Koglin J, O'Connor CM., VICTORIA Study Group. Vericiguat in Patients with Heart Failure and Reduced Ejection Fraction. N Engl J Med. 2020 May 14;382(20):1883-1893. \[[PubMed: 32222134](https://pubmed.ncbi.nlm.nih.gov/32222134)\]
 
 48.
-    
 
-Lucas C, Johnson W, Hamilton MA, Fonarow GC, Woo MA, Flavell CM, Creaser JA, Stevenson LW. Freedom from congestion predicts good survival despite previous class IV symptoms of heart failure. Am Heart J. 2000 Dec;140(6):840-7. [[PubMed: 11099986](https://pubmed.ncbi.nlm.nih.gov/11099986)]
+Lucas C, Johnson W, Hamilton MA, Fonarow GC, Woo MA, Flavell CM, Creaser JA, Stevenson LW. Freedom from congestion predicts good survival despite previous class IV symptoms of heart failure. Am Heart J. 2000 Dec;140(6):840-7. \[[PubMed: 11099986](https://pubmed.ncbi.nlm.nih.gov/11099986)\]
 
 49.
-    
 
-Rider I, Sorensen M, Brady WJ, Gottlieb M, Benson S, Koyfman A, Long B. Disposition of acute decompensated heart failure from the emergency department: An evidence-based review. Am J Emerg Med. 2021 Dec;50:459-465. [[PubMed: 34500232](https://pubmed.ncbi.nlm.nih.gov/34500232)]
-
-    
+Rider I, Sorensen M, Brady WJ, Gottlieb M, Benson S, Koyfman A, Long B. Disposition of acute decompensated heart failure from the emergency department: An evidence-based review. Am J Emerg Med. 2021 Dec;50:459-465. \[[PubMed: 34500232](https://pubmed.ncbi.nlm.nih.gov/34500232)\]
 
 **Disclosure:** Pirbhat Shams declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Ahmad Malik declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Lovely Chhabra declares no relevant financial relationships with ineligible companies.

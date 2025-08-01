@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21086/
-scraped_date: 2025-07-22 12:36:42 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21086/ scraped_date: 2025-07-22 12:36:42 UTC
 
 # Endocarditis
 
@@ -27,13 +26,13 @@ Infective endocarditis is a substantial cause of morbidity and mortality in chil
 
 **Objectives:**
 
-  * Identify the etiology of endocarditis.
+- Identify the etiology of endocarditis.
 
-  * Describe the pathophysiology of endocarditis.
+- Describe the pathophysiology of endocarditis.
 
-  * Outline the treatment and management options available for endocarditis.
+- Outline the treatment and management options available for endocarditis.
 
-  * Describe interprofessional team strategies for improving care coordination and communication to advance the treatment of endocarditis and improve patient outcomes.
+- Describe interprofessional team strategies for improving care coordination and communication to advance the treatment of endocarditis and improve patient outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=21086&utm_source=pubmed&utm_campaign=reviews&utm_content=21086)
 
@@ -49,39 +48,39 @@ The leading cause of endocarditis in the pediatric population remains _Staphyloc
 
 Native valve endocarditis:
 
-  * Chiefly involves the mitral valve, followed by the aortic valve
+- Chiefly involves the mitral valve, followed by the aortic valve
 
-  * Congenital heart disease or any defect with high flow tension is susceptible
+- Congenital heart disease or any defect with high flow tension is susceptible
 
-  * Mitral valve prolapse accounts for about 20% of cases
+- Mitral valve prolapse accounts for about 20% of cases
 
-  * Degenerative heart disease such as the bicuspid aortic valve, Marfan syndrome, or syphilis.
+- Degenerative heart disease such as the bicuspid aortic valve, Marfan syndrome, or syphilis.
 
 Prosthetic valve endocarditis (PVE)
 
-  * Early PVE is caused by S aureus and S epidermidis, including MRSA
+- Early PVE is caused by S aureus and S epidermidis, including MRSA
 
-  * Streptococci usually cause late PVE
+- Streptococci usually cause late PVE
 
 Intravenous drug abuse Infective endocarditis:
 
-  * usually presents with a new murmur and/or pleuritic chest pain
+- usually presents with a new murmur and/or pleuritic chest pain
 
-  * S.aureus is the most common cause, but MRSA rates are increasing
+- S.aureus is the most common cause, but MRSA rates are increasing
 
-  * Gram-negative organisms are rarely involved
+- Gram-negative organisms are rarely involved
 
 Risk factors
 
-  * Residual valve injury
+- Residual valve injury
 
-  * Diabetes
+- Diabetes
 
-  * Use of steroids
+- Use of steroids
 
-  * Advanced age
+- Advanced age
 
-  * Pacemaker intervention
+- Pacemaker intervention
 
 ## Epidemiology
 
@@ -109,15 +108,15 @@ Is well known that antimicrobial pretreatment can reduce the yield of blood cult
 
 When a patient has a contributing factor, the index of suspicion should be high. Echocardiography can be used to increase the probability of diagnosing endocarditis. Echocardiography can be useful in predicting embolic complications if lesions are found to be greater than 1 cm or fungal lesions are noted. Important to mention, the absence of vegetation des does not exclude endocarditis. Visible vegetations portend a poor prognosis. Echocardiogram predictors of embolism include:
 
-  * Multiple vegetations
+- Multiple vegetations
 
-  * Vegetations more than 1 cm in diameter
+- Vegetations more than 1 cm in diameter
 
-  * Mobile pedunculated vegetations
+- Mobile pedunculated vegetations
 
-  * Noncalcified vegetations
+- Noncalcified vegetations
 
-  * Vegetations that are prolapsing
+- Vegetations that are prolapsing
 
 The Duke criteria aid in the diagnosis of endocarditis. The major criteria consist of positive blood cultures and evidence of endocarditis on echocardiography. The minor criteria include predisposition factors, fever, embolic-vascular signs, complex immune phenomena (glomerulonephritis, arthritis, rheumatoid factor, Osler nodes, Roth spots), single positive blood culture or serologic confirmation of infection, and echocardiographic signs not meeting the major criteria. Diagnosis of infective endocarditis is defined as 2 major criteria, 1 major and 3 minor, or 5 minor criteria.
 
@@ -139,39 +138,39 @@ The role of anticoagulation is controversial as studies show worse outcomes in t
 
 Indications for surgery:
 
-  * Fungal endocarditis except for H capsulatum
+- Fungal endocarditis except for H capsulatum
 
-  * CHF that does not respond to medical treatment
+- CHF that does not respond to medical treatment
 
-  * Persistent sepsis despite antibiotic therapy
+- Persistent sepsis despite antibiotic therapy
 
-  * Conduction disturbance caused by aortic root involvement
+- Conduction disturbance caused by aortic root involvement
 
-  * Recurrent septic emboli
+- Recurrent septic emboli
 
-  * Kissing infection between the aortic and mitral valve
+- Kissing infection between the aortic and mitral valve
 
 ## Differential Diagnosis
 
-  * Atrial myxoma
+- Atrial myxoma
 
-  * Antiphospholipid syndrome
+- Antiphospholipid syndrome
 
-  * Connective tissue disease
+- Connective tissue disease
 
-  * Fever of unknown origin(FUO)
+- Fever of unknown origin(FUO)
 
-  * Infective endocarditis
+- Infective endocarditis
 
-  * Intra-abdominal infections
+- Intra-abdominal infections
 
-  * Lyme disease
+- Lyme disease
 
-  * Primary cardiac neoplasms
+- Primary cardiac neoplasms
 
-  * Polymyalgia rheumatica
+- Polymyalgia rheumatica
 
-  * Reactive arthritis
+- Reactive arthritis
 
 ## Prognosis
 
@@ -181,25 +180,25 @@ Overall mortality rates range from 7-15%.
 
 ## Complications
 
-  * Pericarditis
+- Pericarditis
 
-  * MI
+- MI
 
-  * Valvular insufficiency
+- Valvular insufficiency
 
-  * CHF
+- CHF
 
-  * Myocardial abscess, conduction block
+- Myocardial abscess, conduction block
 
-  * Sinus of Valsalva aneurysm
+- Sinus of Valsalva aneurysm
 
-  * Arthritis
+- Arthritis
 
-  * Stroke
+- Stroke
 
-  * Glomerulonephritis
+- Glomerulonephritis
 
-  * Arterial emboli
+- Arterial emboli
 
 ## Deterrence and Patient Education
 
@@ -209,33 +208,33 @@ In 2007, the AHA modified their infective endocarditis prophylaxis guidelines, a
 
 Indications for prophylaxis based on 2007 AHA:
 
-  * Prosthetic cardiac valve or prosthetic material used for cardiac valve repair
+- Prosthetic cardiac valve or prosthetic material used for cardiac valve repair
 
-  * Previous infective endocarditis
+- Previous infective endocarditis
 
-Cardiac Heart Disease (CHD) with: 
+Cardiac Heart Disease (CHD) with:
 
-  * Unrepaired cyanotic CHD (including shunts and conduits)
+- Unrepaired cyanotic CHD (including shunts and conduits)
 
-  * CHD entirely repaired with prosthetic material or device, during the first 6 months after the procedure
+- CHD entirely repaired with prosthetic material or device, during the first 6 months after the procedure
 
-  * Repaired CHD with residual defects to the site of a prosthetic patch or prosthetic device
+- Repaired CHD with residual defects to the site of a prosthetic patch or prosthetic device
 
-  * Cardiac transplantation recipients who develop cardiac valvulopathy
+- Cardiac transplantation recipients who develop cardiac valvulopathy
 
 The particular individual condition of these recommendations makes reasonable direct consultation with pediatric cardiology to determine the ongoing need for prophylaxis.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Endocarditis is a serious life-threatening disorder that is best managed by an interprofessional team that includes a cardiologist, neurologist, infectious disease expert, cardiac surgeon, internist, pharmacist and ICU nurses. Endocarditis has very high morbidity and while the treatment does work, the key today is to try and prevent it in the first place. When patients present, clinicians should:
 
-  * Consider endocarditis in a patient with a history of IV drug abuse
+- Consider endocarditis in a patient with a history of IV drug abuse
 
-  * Do not administer antibiotics to a febrile patient without first obtaining a minimum of 2 sets of blood cultures
+- Do not administer antibiotics to a febrile patient without first obtaining a minimum of 2 sets of blood cultures
 
-  * When appropriate provide antibiotic prophylaxis prior to surgery and dental procedures.
+- When appropriate provide antibiotic prophylaxis prior to surgery and dental procedures.
 
-  * If the patient is bacteremic, avoid central lines. If there is no other option, the administer bactericidal agents at the same time.
+- If the patient is bacteremic, avoid central lines. If there is no other option, the administer bactericidal agents at the same time.
 
 The key is to make a prompt diagnosis and start antibiotic treatment. Patients should get serial echos to determine if the treatment is working and assess the valve function. In some cases, valve replacement may be required. The nurse practitioner and pharmacist must be aware of conditions that need antibiotic prophylaxis prior to any surgery or dental procedure. Further, patients need to be told to stop IV drug abuse. The interprofessional team should follow every patient with endocarditis to ensure that optimal care is provided.
 
@@ -245,104 +244,84 @@ Even with optimal treatment, endocarditis is associated with high morbidity and 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=21086&utm_source=pubmed&utm_campaign=reviews&utm_content=21086)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=21086&utm_source=pubmed&utm_campaign=reviews&utm_content=21086)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/infectious-disease/endocarditis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=21086)
+- [Click here for a simplified version.](https://mdsearchlight.com/infectious-disease/endocarditis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=21086)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/21086/?utm_source=pubmed&utm_campaign=comments&utm_content=21086)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/21086/?utm_source=pubmed&utm_campaign=comments&utm_content=21086)
 
 [![Table 1](/books/NBK499844/bin/Table__1.gif)](/books/NBK499844/figure/article-21086.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK499844/figure/article-21086.image.f1/?report=objectonly)
 
-Table 1. Etiologic agents of infective endocarditis in the Pediatric population. Contributed by Olga Brea Pena, MD. 
+Table 1. Etiologic agents of infective endocarditis in the Pediatric population. Contributed by Olga Brea Pena, MD.
 
 ## References
 
 1.
-    
 
-Rogolevich VV, Glushkova TV, Ponasenko AV, Ovcharenko EA. [Infective Endocarditis Causing Native and Prosthetic Heart Valve Dysfunction]. Kardiologiia. 2019 Apr 13;59(3):68-77. [[PubMed: 30990144](https://pubmed.ncbi.nlm.nih.gov/30990144)]
+Rogolevich VV, Glushkova TV, Ponasenko AV, Ovcharenko EA. [Infective Endocarditis Causing Native and Prosthetic Heart Valve Dysfunction]. Kardiologiia. 2019 Apr 13;59(3):68-77. \[[PubMed: 30990144](https://pubmed.ncbi.nlm.nih.gov/30990144)\]
 
 2.
-    
 
-Jillella DV, Wisco DR. Infectious causes of stroke. Curr Opin Infect Dis. 2019 Jun;32(3):285-292. [[PubMed: 30973394](https://pubmed.ncbi.nlm.nih.gov/30973394)]
+Jillella DV, Wisco DR. Infectious causes of stroke. Curr Opin Infect Dis. 2019 Jun;32(3):285-292. \[[PubMed: 30973394](https://pubmed.ncbi.nlm.nih.gov/30973394)\]
 
 3.
-    
 
-Sotero FD, Rosário M, Fonseca AC, Ferro JM. Neurological Complications of Infective Endocarditis. Curr Neurol Neurosci Rep. 2019 Mar 30;19(5):23. [[PubMed: 30927133](https://pubmed.ncbi.nlm.nih.gov/30927133)]
+Sotero FD, Rosário M, Fonseca AC, Ferro JM. Neurological Complications of Infective Endocarditis. Curr Neurol Neurosci Rep. 2019 Mar 30;19(5):23. \[[PubMed: 30927133](https://pubmed.ncbi.nlm.nih.gov/30927133)\]
 
 4.
-    
 
-Elbatarny M, Bahji A, Bisleri G, Hamilton A. Management of endocarditis among persons who inject drugs: A narrative review of surgical and psychiatric approaches and controversies. Gen Hosp Psychiatry. 2019 Mar-Apr;57:44-49. [[PubMed: 30908961](https://pubmed.ncbi.nlm.nih.gov/30908961)]
+Elbatarny M, Bahji A, Bisleri G, Hamilton A. Management of endocarditis among persons who inject drugs: A narrative review of surgical and psychiatric approaches and controversies. Gen Hosp Psychiatry. 2019 Mar-Apr;57:44-49. \[[PubMed: 30908961](https://pubmed.ncbi.nlm.nih.gov/30908961)\]
 
 5.
-    
 
-Elagha A, Mohsen A. Cardiac MRI clinches diagnosis of Libman-Sacks endocarditis. Lancet. 2019 Apr 27;393(10182):e39. [[PubMed: 31034381](https://pubmed.ncbi.nlm.nih.gov/31034381)]
+Elagha A, Mohsen A. Cardiac MRI clinches diagnosis of Libman-Sacks endocarditis. Lancet. 2019 Apr 27;393(10182):e39. \[[PubMed: 31034381](https://pubmed.ncbi.nlm.nih.gov/31034381)\]
 
 6.
-    
 
-Bekker T, Govind A, Weber DM. A Case of Polymicrobial, Gram-Negative Pulmonic Valve Endocarditis. Case Rep Infect Dis. 2019;2019:6439390. [[PMC free article: PMC6458857](/pmc/articles/PMC6458857/)] [[PubMed: 31032128](https://pubmed.ncbi.nlm.nih.gov/31032128)]
+Bekker T, Govind A, Weber DM. A Case of Polymicrobial, Gram-Negative Pulmonic Valve Endocarditis. Case Rep Infect Dis. 2019;2019:6439390. \[[PMC free article: PMC6458857](/pmc/articles/PMC6458857/)\] \[[PubMed: 31032128](https://pubmed.ncbi.nlm.nih.gov/31032128)\]
 
 7.
-    
 
-McCann M, Gorman M, McKeown B. No Fever, No Murmur, No Problem? A Concealed Case of Infective Endocarditis. J Emerg Med. 2019 Aug;57(2):e45-e48. [[PubMed: 31029399](https://pubmed.ncbi.nlm.nih.gov/31029399)]
+McCann M, Gorman M, McKeown B. No Fever, No Murmur, No Problem? A Concealed Case of Infective Endocarditis. J Emerg Med. 2019 Aug;57(2):e45-e48. \[[PubMed: 31029399](https://pubmed.ncbi.nlm.nih.gov/31029399)\]
 
 8.
-    
 
-Garg P, Ko DT, Bray Jenkyn KM, Li L, Shariff SZ. Infective Endocarditis Hospitalizations and Antibiotic Prophylaxis Rates Before and After the 2007 American Heart Association Guideline Revision. Circulation. 2019 Jul 16;140(3):170-180. [[PubMed: 31023074](https://pubmed.ncbi.nlm.nih.gov/31023074)]
+Garg P, Ko DT, Bray Jenkyn KM, Li L, Shariff SZ. Infective Endocarditis Hospitalizations and Antibiotic Prophylaxis Rates Before and After the 2007 American Heart Association Guideline Revision. Circulation. 2019 Jul 16;140(3):170-180. \[[PubMed: 31023074](https://pubmed.ncbi.nlm.nih.gov/31023074)\]
 
 9.
-    
 
-Borger P, Charles EJ, Smith ED, Mehaffey JH, Hawkins RB, Kron IL, Ailawadi G, Teman N. Determining Which Prosthetic to Use During Aortic Valve Replacement in Patients Aged Younger than 70 Years: A Systematic Review of the Literature. Heart Surg Forum. 2019 Feb 28;22(2):E070-E081. [[PubMed: 31013214](https://pubmed.ncbi.nlm.nih.gov/31013214)]
+Borger P, Charles EJ, Smith ED, Mehaffey JH, Hawkins RB, Kron IL, Ailawadi G, Teman N. Determining Which Prosthetic to Use During Aortic Valve Replacement in Patients Aged Younger than 70 Years: A Systematic Review of the Literature. Heart Surg Forum. 2019 Feb 28;22(2):E070-E081. \[[PubMed: 31013214](https://pubmed.ncbi.nlm.nih.gov/31013214)\]
 
 10.
-    
 
-Bamford P, Soni R, Bassin L, Kull A. Delayed diagnosis of right-sided valve endocarditis causing recurrent pulmonary abscesses: a case report. J Med Case Rep. 2019 Apr 19;13(1):97. [[PMC free article: PMC6474058](/pmc/articles/PMC6474058/)] [[PubMed: 30999926](https://pubmed.ncbi.nlm.nih.gov/30999926)]
+Bamford P, Soni R, Bassin L, Kull A. Delayed diagnosis of right-sided valve endocarditis causing recurrent pulmonary abscesses: a case report. J Med Case Rep. 2019 Apr 19;13(1):97. \[[PMC free article: PMC6474058](/pmc/articles/PMC6474058/)\] \[[PubMed: 30999926](https://pubmed.ncbi.nlm.nih.gov/30999926)\]
 
 11.
-    
 
-Galar A, Weil AA, Dudzinski DM, Muñoz P, Siedner MJ. Methicillin-Resistant Staphylococcus aureus Prosthetic Valve Endocarditis: Pathophysiology, Epidemiology, Clinical Presentation, Diagnosis, and Management. Clin Microbiol Rev. 2019 Mar 20;32(2) [[PMC free article: PMC6431130](/pmc/articles/PMC6431130/)] [[PubMed: 30760474](https://pubmed.ncbi.nlm.nih.gov/30760474)]
+Galar A, Weil AA, Dudzinski DM, Muñoz P, Siedner MJ. Methicillin-Resistant Staphylococcus aureus Prosthetic Valve Endocarditis: Pathophysiology, Epidemiology, Clinical Presentation, Diagnosis, and Management. Clin Microbiol Rev. 2019 Mar 20;32(2) \[[PMC free article: PMC6431130](/pmc/articles/PMC6431130/)\] \[[PubMed: 30760474](https://pubmed.ncbi.nlm.nih.gov/30760474)\]
 
 12.
-    
 
-Martínez PA, Guerrero M, Santos JÉ, Hernández MS, Mercado MC. [Pediatric clinical experience in infectious endocarditis due to Candida spp]. Rev Chilena Infectol. 2018;35(5):553-559. [[PubMed: 30725003](https://pubmed.ncbi.nlm.nih.gov/30725003)]
+Martínez PA, Guerrero M, Santos JÉ, Hernández MS, Mercado MC. [Pediatric clinical experience in infectious endocarditis due to Candida spp]. Rev Chilena Infectol. 2018;35(5):553-559. \[[PubMed: 30725003](https://pubmed.ncbi.nlm.nih.gov/30725003)\]
 
 13.
-    
 
-Samaroo-Campbell J, Hashmi A, Thawani R, Moskovits M, Zadushlivy D, Kamholz SL. Isolated Pulmonic Valve Endocarditis. Am J Case Rep. 2019 Feb 04;20:151-153. [[PMC free article: PMC6369649](/pmc/articles/PMC6369649/)] [[PubMed: 30713335](https://pubmed.ncbi.nlm.nih.gov/30713335)]
+Samaroo-Campbell J, Hashmi A, Thawani R, Moskovits M, Zadushlivy D, Kamholz SL. Isolated Pulmonic Valve Endocarditis. Am J Case Rep. 2019 Feb 04;20:151-153. \[[PMC free article: PMC6369649](/pmc/articles/PMC6369649/)\] \[[PubMed: 30713335](https://pubmed.ncbi.nlm.nih.gov/30713335)\]
 
 14.
-    
 
-Anguita P, Anguita M, Castillo JC, Gámez P, Bonilla V, Herrera M. Are Dentists in Our Environment Correctly Following the Recommended Guidelines for Prophylaxis of Infective Endocarditis? Rev Esp Cardiol (Engl Ed). 2019 Jan;72(1):86-88. [[PubMed: 30585156](https://pubmed.ncbi.nlm.nih.gov/30585156)]
+Anguita P, Anguita M, Castillo JC, Gámez P, Bonilla V, Herrera M. Are Dentists in Our Environment Correctly Following the Recommended Guidelines for Prophylaxis of Infective Endocarditis? Rev Esp Cardiol (Engl Ed). 2019 Jan;72(1):86-88. \[[PubMed: 30585156](https://pubmed.ncbi.nlm.nih.gov/30585156)\]
 
 15.
-    
 
-Keller K, Hobohm L, Munzel T, Ostad MA. Incidence of infective endocarditis before and after the guideline modification regarding a more restrictive use of prophylactic antibiotics therapy in the USA and Europe. Minerva Cardioangiol. 2019 Jun;67(3):200-206. [[PubMed: 30724268](https://pubmed.ncbi.nlm.nih.gov/30724268)]
+Keller K, Hobohm L, Munzel T, Ostad MA. Incidence of infective endocarditis before and after the guideline modification regarding a more restrictive use of prophylactic antibiotics therapy in the USA and Europe. Minerva Cardioangiol. 2019 Jun;67(3):200-206. \[[PubMed: 30724268](https://pubmed.ncbi.nlm.nih.gov/30724268)\]
 
 16.
-    
 
-Ibrahim AM, Siddique MS. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Feb 10, 2024. Subacute Bacterial Endocarditis Prophylaxis. [[PubMed: 30422578](https://pubmed.ncbi.nlm.nih.gov/30422578)]
-
-    
+Ibrahim AM, Siddique MS. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Feb 10, 2024. Subacute Bacterial Endocarditis Prophylaxis. \[[PubMed: 30422578](https://pubmed.ncbi.nlm.nih.gov/30422578)\]
 
 **Disclosure:** Aditi Gupta declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Magda Mendez declares no relevant financial relationships with ineligible companies.

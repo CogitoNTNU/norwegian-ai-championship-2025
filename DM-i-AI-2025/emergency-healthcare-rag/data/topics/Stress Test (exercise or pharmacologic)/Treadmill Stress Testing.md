@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30557/
-scraped_date: 2025-07-22 12:52:43 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30557/ scraped_date: 2025-07-22 12:52:43 UTC
 
 # Treadmill Stress Testing
 
@@ -27,13 +26,13 @@ Treadmill stress testing is a form of cardiovascular stress testing that typical
 
 **Objectives:**
 
-  * Review the indications for treadmill testing.
+- Review the indications for treadmill testing.
 
-  * Identify the contraindications to a treadmill test.
+- Identify the contraindications to a treadmill test.
 
-  * Explain the clinical significance of a treadmill test.
+- Explain the clinical significance of a treadmill test.
 
-  * Summarize a structured interprofessional team approach to provide effective care and appropriate surveillance of patients undergoing a treadmill stress test.
+- Summarize a structured interprofessional team approach to provide effective care and appropriate surveillance of patients undergoing a treadmill stress test.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30557&utm_source=pubmed&utm_campaign=reviews&utm_content=30557)
 
@@ -57,63 +56,63 @@ The age-predicted maximum heart rate is a useful measure for estimating the adeq
 
 Treadmill stress testing is indicated for the diagnosis and prognosis of coronary artery disease (CAD). This is the initial investigation of choice in patients with a normal or near-normal resting ECG capable of performing adequate exercise.[9][1] Indications for treadmill testing include:
 
-  * Symptoms suggesting myocardial ischemia
+- Symptoms suggesting myocardial ischemia
 
-  * Acute chest pain in patients excluded for acute coronary syndrome (ACS)
+- Acute chest pain in patients excluded for acute coronary syndrome (ACS)
 
-  * Recent ACS treated without coronary angiography or incomplete revascularization
+- Recent ACS treated without coronary angiography or incomplete revascularization
 
-  * Known CAD with worsening symptoms
+- Known CAD with worsening symptoms
 
-  * Prior coronary revascularization (5 years or longer after coronary artery bypass grafting [CABG] or two years or less after percutaneous coronary intervention [PCI])
+- Prior coronary revascularization (5 years or longer after coronary artery bypass grafting [CABG] or two years or less after percutaneous coronary intervention [PCI])
 
-  * Valvular heart disease (to assess exercise capacity and need for surgical intervention)
+- Valvular heart disease (to assess exercise capacity and need for surgical intervention)
 
-  * Certain cardiac arrhythmias to assess chronotropic competence
+- Certain cardiac arrhythmias to assess chronotropic competence
 
-  * Newly diagnosed heart failure or cardiomyopathy[1][8]
+- Newly diagnosed heart failure or cardiomyopathy[1][8]
 
 ## Contraindications
 
 **Absolute Contraindications**
 
-  * Acute myocardial infarction within 2 to 3 days
+- Acute myocardial infarction within 2 to 3 days
 
-  * Unstable angina not previously stabilized by medical therapy
+- Unstable angina not previously stabilized by medical therapy
 
-  * Uncontrolled cardiac arrhythmias causing symptoms or hemodynamic compromise[10]
+- Uncontrolled cardiac arrhythmias causing symptoms or hemodynamic compromise[10]
 
-  * Symptomatic severe aortic stenosis[11]
+- Symptomatic severe aortic stenosis[11]
 
-  * Uncontrolled symptomatic heart failure
+- Uncontrolled symptomatic heart failure
 
-  * An acute pulmonary embolus or pulmonary infarction
+- An acute pulmonary embolus or pulmonary infarction
 
-  * Severe pulmonary hypertension
+- Severe pulmonary hypertension
 
-  * Acute myocarditis or pericarditis, or endocarditis
+- Acute myocarditis or pericarditis, or endocarditis
 
-  * Acute aortic dissection
+- Acute aortic dissection
 
 **Relative Contraindications (can be overlooked if the benefits of treadmill stress testing outweigh the risks)**
 
-  * High-grade AV blocks
+- High-grade AV blocks
 
-  * Severe hypertension (systolic greater than 200 mmHg, diastolic greater than 110 mmHg, or both)
+- Severe hypertension (systolic greater than 200 mmHg, diastolic greater than 110 mmHg, or both)
 
-  * Inability to exercise given extreme obesity or other physical/mental impairment[8][12]
+- Inability to exercise given extreme obesity or other physical/mental impairment[8][12]
 
-  * Left main coronary stenosis
+- Left main coronary stenosis
 
-  * Moderate stenotic valvular heart disease
+- Moderate stenotic valvular heart disease
 
-  * Electrolyte abnormalities
+- Electrolyte abnormalities
 
-  * Tachyarrhythmias or bradyarrhythmias
+- Tachyarrhythmias or bradyarrhythmias
 
-  * Hypertrophic cardiomyopathy and any other forms of outflow tract obstruction[13]
+- Hypertrophic cardiomyopathy and any other forms of outflow tract obstruction[13]
 
-  * Mental or physical impairment leading to an inability to exercise adequately
+- Mental or physical impairment leading to an inability to exercise adequately
 
 ## Preparation
 
@@ -133,37 +132,37 @@ During the exercise test, data about heart rate, blood pressure, and ECG changes
 
 It is unnecessary to stop exercise at the onset of mild symptoms if no abnormalities are noted on ECG and the patient is hemodynamically stable. The American College of Cardiology (ACC)/American Heart Association (AHA) guidelines have specified indications for the termination of exercise testing. The following are the absolute indications for termination of testing:
 
-  * A drop in systolic blood pressure of greater than 10 mmHg from baseline when accompanied by other indications of ischemia.
+- A drop in systolic blood pressure of greater than 10 mmHg from baseline when accompanied by other indications of ischemia.
 
-  * Moderate-to-severe angina
+- Moderate-to-severe angina
 
-  * Increasing neurologic symptoms, such as ataxia, dizziness, near-syncope
+- Increasing neurologic symptoms, such as ataxia, dizziness, near-syncope
 
-  * Signs of impaired perfusion, such as cyanosis or pallor
+- Signs of impaired perfusion, such as cyanosis or pallor
 
-  * Technical difficulties in monitoring ECG tracings or systolic blood pressure
+- Technical difficulties in monitoring ECG tracings or systolic blood pressure
 
-  * Patient's desire to stop
+- Patient's desire to stop
 
-  * Sustained ventricular tachycardia
+- Sustained ventricular tachycardia
 
-  * ST-elevation of more than 1 mm in leads without diagnostic Q waves, other than V or aVR[16]
+- ST-elevation of more than 1 mm in leads without diagnostic Q waves, other than V or aVR[16]
 
 Relative indications for the termination of the procedure include the following:
 
-  * A drop in systolic blood pressure of 10 mmHg or more from baseline in the absence of other evidence of ischemia
+- A drop in systolic blood pressure of 10 mmHg or more from baseline in the absence of other evidence of ischemia
 
-  * ST or QRS changes (excessive horizontal or downsloping ST depression of more than 2 mm) or marked axis shift
+- ST or QRS changes (excessive horizontal or downsloping ST depression of more than 2 mm) or marked axis shift
 
-  * Arrhythmias, such as supraventricular tachycardia, multifocal premature ventricular contractions (PVCs), heart block, or bradyarrhythmias
+- Arrhythmias, such as supraventricular tachycardia, multifocal premature ventricular contractions (PVCs), heart block, or bradyarrhythmias
 
-  * Fatigue, shortness of breath, leg cramps, wheezing, or claudication
+- Fatigue, shortness of breath, leg cramps, wheezing, or claudication
 
-  * Development of intraventricular conduction delay or bundle branch block that cannot be differentiated from ventricular tachycardia
+- Development of intraventricular conduction delay or bundle branch block that cannot be differentiated from ventricular tachycardia
 
-  * Increasing chest pain
+- Increasing chest pain
 
-  * Hypertensive response (systolic blood pressure of 250 mmHg, diastolic blood pressure higher than 115 mmHg, or both)[17]
+- Hypertensive response (systolic blood pressure of 250 mmHg, diastolic blood pressure higher than 115 mmHg, or both)[17]
 
 At the conclusion of testing, a report should be included. This report should outline the baseline ECG interpretation, baseline heart rate, and blood pressure, ECG changes during exercise, including the presence of arrhythmia/ectopy and the onset of such changes, maximal heart rate and blood pressure during exercise, estimated exercise capacity in metabolic equivalents of task (METs), exercise duration and stage completed, symptoms experienced during exercise and the reason for terminating the test.
 
@@ -175,11 +174,11 @@ A Duke treadmill score (DTS) is a validated scoring system that can assist with 
 
 A treadmill stress test is generally considered safe, and its complications are rare. However, the following are the possible complications of a treadmill stress test:
 
-  * Hypotension can happen during or immediately after exercise, potentially causing the patient to feel dizzy.[21] The problem generally goes away after stopping exercise.
+- Hypotension can happen during or immediately after exercise, potentially causing the patient to feel dizzy.[21] The problem generally goes away after stopping exercise.
 
-  * Arrhythmias that occur during treadmill stress testing generally stop soon after the termination of the test.
+- Arrhythmias that occur during treadmill stress testing generally stop soon after the termination of the test.
 
-  * Although very rare, treadmill stress testing could possibly cause a myocardial infarction.
+- Although very rare, treadmill stress testing could possibly cause a myocardial infarction.
 
 Patients should be instructed not to eat, drink, or smoke for at least three hours before the examination, as this maximizes exercise capacity. The patient should bring comfortable exercise clothing and walking shoes to the testing facility. The healthcare professional performing the test should explain the benefits, risks, and possible complications to the patient before testing.
 
@@ -189,7 +188,7 @@ Medications should be discussed with the patient beforehand, as some drugs such 
 
 Patients with abnormal stress testing may or may not have coronary artery disease depending upon the diagnostic accuracy of the test performed and the pretest likelihood of each patient. The ACC/AHA guidelines suggest that exercise radionuclide myocardial perfusion imaging or exercise echocardiography have potential use as follow-up tests in patients with intermediate or high risk. If follow-up testing is positive, patients may benefit from guideline-directed medical therapy versus cardiac catheterization with revascularization. The choice of revascularization and the type of procedure is dependent upon coronary anatomy, left ventricular systolic function, and the presence or absence of comorbidities such as diabetes. Patients should have an in-depth discussion with their provider regarding the next steps involved when an exercise stress test is reported to be positive or uninterpretable.[22][7][23]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 When patients with atypical chest pain or new-onset heart failure present to the primary care provider, internist, and nurse practitioner, one of the investigations to assess the heart is a treadmill test. The test is usually performed by a cardiologist. It is helpful as a part of diagnosing patients with known or suspected coronary disease and provides significant prognostic information for patients with known disease.
 
@@ -199,139 +198,112 @@ Treadmill stress testing requires the coordinated efforts of an interprofessiona
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30557&utm_source=pubmed&utm_campaign=reviews&utm_content=30557)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30557&utm_source=pubmed&utm_campaign=reviews&utm_content=30557)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/treadmill-stress-testing-exercise-stress-test/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=30557)
+- [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/treadmill-stress-testing-exercise-stress-test/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=30557)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30557/?utm_source=pubmed&utm_campaign=comments&utm_content=30557)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30557/?utm_source=pubmed&utm_campaign=comments&utm_content=30557)
 
 [![Image ](/books/NBK499903/bin/Comb03052018050821.gif)](/books/NBK499903/figure/article-30557.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK499903/figure/article-30557.image.f1/?report=objectonly)
 
-Stress testing ECG and Charts Contributed by Viliane Vilcant 
+Stress testing ECG and Charts Contributed by Viliane Vilcant
 
 ## References
 
 1.
-    
 
-Acampa W, Assante R, Zampella E. The role of treadmill exercise testing in women. J Nucl Cardiol. 2016 Oct;23(5):991-996. [[PubMed: 27457528](https://pubmed.ncbi.nlm.nih.gov/27457528)]
+Acampa W, Assante R, Zampella E. The role of treadmill exercise testing in women. J Nucl Cardiol. 2016 Oct;23(5):991-996. \[[PubMed: 27457528](https://pubmed.ncbi.nlm.nih.gov/27457528)\]
 
 2.
-    
 
-Qureshi WT, Alirhayim Z, Blaha MJ, Juraschek SP, Keteyian SJ, Brawner CA, Al-Mallah MH. Cardiorespiratory Fitness and Risk of Incident Atrial Fibrillation: Results From the Henry Ford Exercise Testing (FIT) Project. Circulation. 2015 May 26;131(21):1827-34. [[PubMed: 25904645](https://pubmed.ncbi.nlm.nih.gov/25904645)]
+Qureshi WT, Alirhayim Z, Blaha MJ, Juraschek SP, Keteyian SJ, Brawner CA, Al-Mallah MH. Cardiorespiratory Fitness and Risk of Incident Atrial Fibrillation: Results From the Henry Ford Exercise Testing (FIT) Project. Circulation. 2015 May 26;131(21):1827-34. \[[PubMed: 25904645](https://pubmed.ncbi.nlm.nih.gov/25904645)\]
 
 3.
-    
 
-Gorman MW, Feigl EO. Control of coronary blood flow during exercise. Exerc Sport Sci Rev. 2012 Jan;40(1):37-42. [[PubMed: 21918457](https://pubmed.ncbi.nlm.nih.gov/21918457)]
+Gorman MW, Feigl EO. Control of coronary blood flow during exercise. Exerc Sport Sci Rev. 2012 Jan;40(1):37-42. \[[PubMed: 21918457](https://pubmed.ncbi.nlm.nih.gov/21918457)\]
 
 4.
-    
 
-Bruning RS, Sturek M. Benefits of exercise training on coronary blood flow in coronary artery disease patients. Prog Cardiovasc Dis. 2015 Mar-Apr;57(5):443-53. [[PMC free article: PMC4366344](/pmc/articles/PMC4366344/)] [[PubMed: 25446554](https://pubmed.ncbi.nlm.nih.gov/25446554)]
+Bruning RS, Sturek M. Benefits of exercise training on coronary blood flow in coronary artery disease patients. Prog Cardiovasc Dis. 2015 Mar-Apr;57(5):443-53. \[[PMC free article: PMC4366344](/pmc/articles/PMC4366344/)\] \[[PubMed: 25446554](https://pubmed.ncbi.nlm.nih.gov/25446554)\]
 
 5.
-    
 
-Laukkanen JA, Kurl S. Blood pressure responses during exercise testing-is up best for prognosis? Ann Med. 2012 May;44(3):218-24. [[PubMed: 21345155](https://pubmed.ncbi.nlm.nih.gov/21345155)]
+Laukkanen JA, Kurl S. Blood pressure responses during exercise testing-is up best for prognosis? Ann Med. 2012 May;44(3):218-24. \[[PubMed: 21345155](https://pubmed.ncbi.nlm.nih.gov/21345155)\]
 
 6.
-    
 
-Poehling CP, Llewellyn TL. The Effects of Submaximal and Maximal Exercise on Heart Rate Variability. Int J Exerc Sci. 2019;12(2):9-14. [[PMC free article: PMC6355137](/pmc/articles/PMC6355137/)] [[PubMed: 30761192](https://pubmed.ncbi.nlm.nih.gov/30761192)]
+Poehling CP, Llewellyn TL. The Effects of Submaximal and Maximal Exercise on Heart Rate Variability. Int J Exerc Sci. 2019;12(2):9-14. \[[PMC free article: PMC6355137](/pmc/articles/PMC6355137/)\] \[[PubMed: 30761192](https://pubmed.ncbi.nlm.nih.gov/30761192)\]
 
 7.
-    
 
-Pargaonkar VS, Kobayashi Y, Kimura T, Schnittger I, Chow EKH, Froelicher VF, Rogers IS, Lee DP, Fearon WF, Yeung AC, Stefanick ML, Tremmel JA. Accuracy of non-invasive stress testing in women and men with angina in the absence of obstructive coronary artery disease. Int J Cardiol. 2019 May 01;282:7-15. [[PMC free article: PMC9017854](/pmc/articles/PMC9017854/)] [[PubMed: 30527992](https://pubmed.ncbi.nlm.nih.gov/30527992)]
+Pargaonkar VS, Kobayashi Y, Kimura T, Schnittger I, Chow EKH, Froelicher VF, Rogers IS, Lee DP, Fearon WF, Yeung AC, Stefanick ML, Tremmel JA. Accuracy of non-invasive stress testing in women and men with angina in the absence of obstructive coronary artery disease. Int J Cardiol. 2019 May 01;282:7-15. \[[PMC free article: PMC9017854](/pmc/articles/PMC9017854/)\] \[[PubMed: 30527992](https://pubmed.ncbi.nlm.nih.gov/30527992)\]
 
 8.
-    
 
-Miller TD, Askew JW, Anavekar NS. Noninvasive Stress Testing for Coronary Artery Disease. Heart Fail Clin. 2016 Jan;12(1):65-82. [[PubMed: 26567975](https://pubmed.ncbi.nlm.nih.gov/26567975)]
+Miller TD, Askew JW, Anavekar NS. Noninvasive Stress Testing for Coronary Artery Disease. Heart Fail Clin. 2016 Jan;12(1):65-82. \[[PubMed: 26567975](https://pubmed.ncbi.nlm.nih.gov/26567975)\]
 
 9.
-    
 
-Miller TD, Askew JW, Anavekar NS. Noninvasive stress testing for coronary artery disease. Cardiol Clin. 2014 Aug;32(3):387-404. [[PubMed: 25091965](https://pubmed.ncbi.nlm.nih.gov/25091965)]
+Miller TD, Askew JW, Anavekar NS. Noninvasive stress testing for coronary artery disease. Cardiol Clin. 2014 Aug;32(3):387-404. \[[PubMed: 25091965](https://pubmed.ncbi.nlm.nih.gov/25091965)\]
 
 10.
-    
 
-Garner KK, Pomeroy W, Arnold JJ. Exercise Stress Testing: Indications and Common Questions. Am Fam Physician. 2017 Sep 01;96(5):293-299. [[PubMed: 28925651](https://pubmed.ncbi.nlm.nih.gov/28925651)]
+Garner KK, Pomeroy W, Arnold JJ. Exercise Stress Testing: Indications and Common Questions. Am Fam Physician. 2017 Sep 01;96(5):293-299. \[[PubMed: 28925651](https://pubmed.ncbi.nlm.nih.gov/28925651)\]
 
 11.
-    
 
-Magne J, Lancellotti P, Piérard LA. Exercise testing in asymptomatic severe aortic stenosis. JACC Cardiovasc Imaging. 2014 Feb;7(2):188-99. [[PubMed: 24524744](https://pubmed.ncbi.nlm.nih.gov/24524744)]
+Magne J, Lancellotti P, Piérard LA. Exercise testing in asymptomatic severe aortic stenosis. JACC Cardiovasc Imaging. 2014 Feb;7(2):188-99. \[[PubMed: 24524744](https://pubmed.ncbi.nlm.nih.gov/24524744)\]
 
 12.
-    
 
-Rowin EJ, Maron BJ, Olivotto I, Maron MS. Role of Exercise Testing in Hypertrophic Cardiomyopathy. JACC Cardiovasc Imaging. 2017 Nov;10(11):1374-1386. [[PubMed: 29122139](https://pubmed.ncbi.nlm.nih.gov/29122139)]
+Rowin EJ, Maron BJ, Olivotto I, Maron MS. Role of Exercise Testing in Hypertrophic Cardiomyopathy. JACC Cardiovasc Imaging. 2017 Nov;10(11):1374-1386. \[[PubMed: 29122139](https://pubmed.ncbi.nlm.nih.gov/29122139)\]
 
 13.
-    
 
-Argulian E, Chaudhry FA. Stress testing in patients with hypertrophic cardiomyopathy. Prog Cardiovasc Dis. 2012 May-Jun;54(6):477-82. [[PubMed: 22687588](https://pubmed.ncbi.nlm.nih.gov/22687588)]
+Argulian E, Chaudhry FA. Stress testing in patients with hypertrophic cardiomyopathy. Prog Cardiovasc Dis. 2012 May-Jun;54(6):477-82. \[[PubMed: 22687588](https://pubmed.ncbi.nlm.nih.gov/22687588)\]
 
 14.
-    
 
-Banerjee A, Newman DR, Van den Bruel A, Heneghan C. Diagnostic accuracy of exercise stress testing for coronary artery disease: a systematic review and meta-analysis of prospective studies. Int J Clin Pract. 2012 May;66(5):477-92. [[PubMed: 22512607](https://pubmed.ncbi.nlm.nih.gov/22512607)]
+Banerjee A, Newman DR, Van den Bruel A, Heneghan C. Diagnostic accuracy of exercise stress testing for coronary artery disease: a systematic review and meta-analysis of prospective studies. Int J Clin Pract. 2012 May;66(5):477-92. \[[PubMed: 22512607](https://pubmed.ncbi.nlm.nih.gov/22512607)\]
 
 15.
-    
 
-Bires AM, Lawson D, Wasser TE, Raber-Baer D. Comparison of Bruce treadmill exercise test protocols: is ramped Bruce equal or superior to standard bruce in producing clinically valid studies for patients presenting for evaluation of cardiac ischemia or arrhythmia with body mass index equal to or greater than 30? J Nucl Med Technol. 2013 Dec;41(4):274-8. [[PubMed: 24221922](https://pubmed.ncbi.nlm.nih.gov/24221922)]
+Bires AM, Lawson D, Wasser TE, Raber-Baer D. Comparison of Bruce treadmill exercise test protocols: is ramped Bruce equal or superior to standard bruce in producing clinically valid studies for patients presenting for evaluation of cardiac ischemia or arrhythmia with body mass index equal to or greater than 30? J Nucl Med Technol. 2013 Dec;41(4):274-8. \[[PubMed: 24221922](https://pubmed.ncbi.nlm.nih.gov/24221922)\]
 
 16.
-    
 
-Sharman JE, LaGerche A. Exercise blood pressure: clinical relevance and correct measurement. J Hum Hypertens. 2015 Jun;29(6):351-8. [[PubMed: 25273859](https://pubmed.ncbi.nlm.nih.gov/25273859)]
+Sharman JE, LaGerche A. Exercise blood pressure: clinical relevance and correct measurement. J Hum Hypertens. 2015 Jun;29(6):351-8. \[[PubMed: 25273859](https://pubmed.ncbi.nlm.nih.gov/25273859)\]
 
 17.
-    
 
-Fletcher GF, Ades PA, Kligfield P, Arena R, Balady GJ, Bittner VA, Coke LA, Fleg JL, Forman DE, Gerber TC, Gulati M, Madan K, Rhodes J, Thompson PD, Williams MA., American Heart Association Exercise, Cardiac Rehabilitation, and Prevention Committee of the Council on Clinical Cardiology, Council on Nutrition, Physical Activity and Metabolism, Council on Cardiovascular and Stroke Nursing, and Council on Epidemiology and Prevention. Exercise standards for testing and training: a scientific statement from the American Heart Association. Circulation. 2013 Aug 20;128(8):873-934. [[PubMed: 23877260](https://pubmed.ncbi.nlm.nih.gov/23877260)]
+Fletcher GF, Ades PA, Kligfield P, Arena R, Balady GJ, Bittner VA, Coke LA, Fleg JL, Forman DE, Gerber TC, Gulati M, Madan K, Rhodes J, Thompson PD, Williams MA., American Heart Association Exercise, Cardiac Rehabilitation, and Prevention Committee of the Council on Clinical Cardiology, Council on Nutrition, Physical Activity and Metabolism, Council on Cardiovascular and Stroke Nursing, and Council on Epidemiology and Prevention. Exercise standards for testing and training: a scientific statement from the American Heart Association. Circulation. 2013 Aug 20;128(8):873-934. \[[PubMed: 23877260](https://pubmed.ncbi.nlm.nih.gov/23877260)\]
 
 18.
-    
 
-Günaydın ZY, Bektaş O, Gürel YE, Karagöz A, Kaya A, Kırış T, Zeren G, Yazıcı S. The value of the Duke treadmill score in predicting the presence and severity of coronary artery disease. Kardiol Pol. 2016;74(2):127-34. [[PubMed: 26202537](https://pubmed.ncbi.nlm.nih.gov/26202537)]
+Günaydın ZY, Bektaş O, Gürel YE, Karagöz A, Kaya A, Kırış T, Zeren G, Yazıcı S. The value of the Duke treadmill score in predicting the presence and severity of coronary artery disease. Kardiol Pol. 2016;74(2):127-34. \[[PubMed: 26202537](https://pubmed.ncbi.nlm.nih.gov/26202537)\]
 
 19.
-    
 
-Davila CD, Udelson JE. Trials and Tribulations of Assessing New Imaging Protocols: Combining Vasodilator Stress With Exercise. JACC Cardiovasc Imaging. 2018 Mar;11(3):494-504. [[PubMed: 29519339](https://pubmed.ncbi.nlm.nih.gov/29519339)]
+Davila CD, Udelson JE. Trials and Tribulations of Assessing New Imaging Protocols: Combining Vasodilator Stress With Exercise. JACC Cardiovasc Imaging. 2018 Mar;11(3):494-504. \[[PubMed: 29519339](https://pubmed.ncbi.nlm.nih.gov/29519339)\]
 
 20.
-    
 
-Haile L, Goss FL, Andreacci JL, Nagle EF, Robertson RJ. Affective and metabolic responses to self-selected intensity cycle exercise in young men. Physiol Behav. 2019 Jun 01;205:9-14. [[PubMed: 30763596](https://pubmed.ncbi.nlm.nih.gov/30763596)]
+Haile L, Goss FL, Andreacci JL, Nagle EF, Robertson RJ. Affective and metabolic responses to self-selected intensity cycle exercise in young men. Physiol Behav. 2019 Jun 01;205:9-14. \[[PubMed: 30763596](https://pubmed.ncbi.nlm.nih.gov/30763596)\]
 
 21.
-    
 
-Ghosh RM, Gates GJ, Walsh CA, Schiller MS, Pass RH, Ceresnak SR. The prevalence of arrhythmias, predictors for arrhythmias, and safety of exercise stress testing in children. Pediatr Cardiol. 2015 Mar;36(3):584-90. [[PubMed: 25384613](https://pubmed.ncbi.nlm.nih.gov/25384613)]
+Ghosh RM, Gates GJ, Walsh CA, Schiller MS, Pass RH, Ceresnak SR. The prevalence of arrhythmias, predictors for arrhythmias, and safety of exercise stress testing in children. Pediatr Cardiol. 2015 Mar;36(3):584-90. \[[PubMed: 25384613](https://pubmed.ncbi.nlm.nih.gov/25384613)\]
 
 22.
-    
 
-Zellweger MJ. Risk stratification in coronary artery disease: a patient-tailored approach over the ischaemic cascade. Swiss Med Wkly. 2019 Feb 11;149:w20014. [[PubMed: 30741398](https://pubmed.ncbi.nlm.nih.gov/30741398)]
+Zellweger MJ. Risk stratification in coronary artery disease: a patient-tailored approach over the ischaemic cascade. Swiss Med Wkly. 2019 Feb 11;149:w20014. \[[PubMed: 30741398](https://pubmed.ncbi.nlm.nih.gov/30741398)\]
 
 23.
-    
 
-Wicks JR, Oldridge NB. How Accurate Is the Prediction of Maximal Oxygen Uptake with Treadmill Testing? PLoS One. 2016;11(11):e0166608. [[PMC free article: PMC5119771](/pmc/articles/PMC5119771/)] [[PubMed: 27875547](https://pubmed.ncbi.nlm.nih.gov/27875547)]
-
-    
+Wicks JR, Oldridge NB. How Accurate Is the Prediction of Maximal Oxygen Uptake with Treadmill Testing? PLoS One. 2016;11(11):e0166608. \[[PMC free article: PMC5119771](/pmc/articles/PMC5119771/)\] \[[PubMed: 27875547](https://pubmed.ncbi.nlm.nih.gov/27875547)\]
 
 **Disclosure:** Viliane Vilcant declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Roman Zeltser declares no relevant financial relationships with ineligible companies.

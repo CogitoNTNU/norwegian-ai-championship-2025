@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17074/
-scraped_date: 2025-07-22 12:44:24 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17074/ scraped_date: 2025-07-22 12:44:24 UTC
 
 # Acetaminophen
 
@@ -27,19 +26,19 @@ Acetaminophen, also known as _N_ -acetyl-para-aminophenol (APAP) or paracetamol 
 
 **Objectives:**
 
-  * Identify appropriate scenarios for acetaminophen use by distinguishing between mild-to-moderate and severe pain and assessing the patient's overall health status.
+- Identify appropriate scenarios for acetaminophen use by distinguishing between mild-to-moderate and severe pain and assessing the patient's overall health status.
 
-  * Assess patients for pain relief effectiveness by monitoring for any signs of adverse effects or toxicity related to acetaminophen.
+- Assess patients for pain relief effectiveness by monitoring for any signs of adverse effects or toxicity related to acetaminophen.
 
-  * Select appropriate acetaminophen formulations and routes of administration based on patient needs, considering factors such as age, weight, and ability to swallow.
+- Select appropriate acetaminophen formulations and routes of administration based on patient needs, considering factors such as age, weight, and ability to swallow.
 
-  * Collaborate with other interprofessional healthcare team members to ensure comprehensive pain management and improve patient outcomes by incorporating acetaminophen appropriately into multimodal treatment plans.
+- Collaborate with other interprofessional healthcare team members to ensure comprehensive pain management and improve patient outcomes by incorporating acetaminophen appropriately into multimodal treatment plans.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17074&utm_source=pubmed&utm_campaign=reviews&utm_content=17074)
 
 ## Indications
 
-Acetaminophen, also known as  _N_ -acetyl-para-aminophenol (APAP) or paracetamol in many countries, is a non-opioid analgesic and antipyretic agent utilized for treating pain and fever. Numerous diseases and conditions include pain as a significant component of their presentation. Consequently, effective pain management holds great importance for both clinicians and patients. Clinicians can use acetaminophen for their patients as a single agent for mild-to-moderate pain or in conjunction with an opioid analgesic for severe pain.[1]
+Acetaminophen, also known as _N_ -acetyl-para-aminophenol (APAP) or paracetamol in many countries, is a non-opioid analgesic and antipyretic agent utilized for treating pain and fever. Numerous diseases and conditions include pain as a significant component of their presentation. Consequently, effective pain management holds great importance for both clinicians and patients. Clinicians can use acetaminophen for their patients as a single agent for mild-to-moderate pain or in conjunction with an opioid analgesic for severe pain.[1]
 
 ## Mechanism of Action
 
@@ -63,11 +62,11 @@ Regardless, the reduction of the COX pathway activity by acetaminophen is though
 
 Acetaminophen can be administered through oral, rectal, or IV routes.[10]
 
-  * Oral: Acetaminophen is available in various formulations, including tablets, capsules, syrup, oral solution, or suspension. 
+- Oral: Acetaminophen is available in various formulations, including tablets, capsules, syrup, oral solution, or suspension.
 
-  * Rectal: Acetaminophen is available as a rectal suppository for adult and pediatric patients.
+- Rectal: Acetaminophen is available as a rectal suppository for adult and pediatric patients.
 
-  * IV: Acetaminophen is also available as an IV infusion for administration.
+- IV: Acetaminophen is also available as an IV infusion for administration.
 
 Tompkins et al conducted a literature review on the effectiveness of IV acetaminophen in postoperative pain control.[11] The investigators found a lack of evidence supporting the efficacy of IV acetaminophen when compared to oral or rectal acetaminophen, opioid analgesics, NSAIDs, or placebo across various surgical procedures, including abdominal, gynecological, genitourinary, orthopedic, neurosurgical, cardiac, and renal surgeries. The investigators conclude that IV acetaminophen offers limited clinical benefits compared to oral or rectal administration. Establishing the maximum daily allowable dosage of acetaminophen involves considering all modes of administration, including IV, oral, and rectal, as well as all formulations containing acetaminophen.
 
@@ -75,7 +74,7 @@ Tompkins et al conducted a literature review on the effectiveness of IV acetamin
 
 **Adults and adolescents (13 or older) with a body weight of ≥50 kg:** The recommended dosage of acetaminophen is 1000 mg every 6 hours or 650 mg every 4 hours. The maximum single dose should not exceed 1000 mg, and the minimum dosing interval is 4 hours. Notably, the maximum daily dosage of acetaminophen should not exceed 4000 mg.
 
-**Adults and adolescents (13 or older) with a body weight <50 kg:** The recommended dosage of acetaminophen is 12.5 mg/kg every 4 hours or 15 mg/kg every 6 hours. The maximum single dose should not exceed 15 mg/kg, and the minimum dosing interval is 4 hours. In addition, it is essential to adhere to a maximum daily dosage of acetaminophen not exceeding 75 mg/kg, up to a maximum of 3750 mg.
+**Adults and adolescents (13 or older) with a body weight \<50 kg:** The recommended dosage of acetaminophen is 12.5 mg/kg every 4 hours or 15 mg/kg every 6 hours. The maximum single dose should not exceed 15 mg/kg, and the minimum dosing interval is 4 hours. In addition, it is essential to adhere to a maximum daily dosage of acetaminophen not exceeding 75 mg/kg, up to a maximum of 3750 mg.
 
 **Specific Patient Populations**
 
@@ -89,9 +88,9 @@ Tompkins et al conducted a literature review on the effectiveness of IV acetamin
 
 **Pediatric populations:** The recommended dosage for children aged 2 to 12 is 12.5 mg/kg every 4 hours or 15 mg/kg every 6 hours. The maximum single dose should not exceed 15 mg/kg, and the maximum daily dosage of acetaminophen is 75 mg/kg.
 
-  * Neonates: The recommended dosage for premature children born at ≥32 weeks gestational age or less than 28 days old is 12.5 mg/kg every 6 hours, with a maximum recommended daily dosage of acetaminophen set at 50 mg/kg.
+- Neonates: The recommended dosage for premature children born at ≥32 weeks gestational age or less than 28 days old is 12.5 mg/kg every 6 hours, with a maximum recommended daily dosage of acetaminophen set at 50 mg/kg.
 
-  * Infants: Infants aged 29 days to 2 years are typically administered a dosage of 15 mg/kg every 6 hours, with a maximum daily dosage of acetaminophen not exceeding 60 mg/kg.
+- Infants: Infants aged 29 days to 2 years are typically administered a dosage of 15 mg/kg every 6 hours, with a maximum daily dosage of acetaminophen not exceeding 60 mg/kg.
 
 **Older patients:** As per the American Geriatric Society, the recommended acetaminophen dosage is 325 to 500 mg every 4 hours or 500 to 1000 mg every 6 hours, with a typical maximum daily dosage of 4 g. In individuals with hepatic impairment or a history of alcohol misuse, it is advisable to reduce the maximum dose by 50% to 75%.[13]
 
@@ -123,7 +122,7 @@ Although these effects, warnings, and associations have been documented, acetami
 
 ## Monitoring
 
-Patients undergoing acetaminophen treatment should undergo monitoring for desired clinical effects, such as pain or fever relief. Serum concentrations are unnecessary when appropriately dosed. In overdose situations, laboratory evaluation becomes necessary. In acute overdoses where ingestion occurs in less than 8 hours, a serum APAP concentration should be assessed and plotted on the Rumack-Matthew nomogram. The time course should start at the onset of ingestion to determine toxicity and the need for treatment. For nonacute ingestions, assessing acetaminophen concentration and transaminases is required, and treatment should be administered. 
+Patients undergoing acetaminophen treatment should undergo monitoring for desired clinical effects, such as pain or fever relief. Serum concentrations are unnecessary when appropriately dosed. In overdose situations, laboratory evaluation becomes necessary. In acute overdoses where ingestion occurs in less than 8 hours, a serum APAP concentration should be assessed and plotted on the Rumack-Matthew nomogram. The time course should start at the onset of ingestion to determine toxicity and the need for treatment. For nonacute ingestions, assessing acetaminophen concentration and transaminases is required, and treatment should be administered.
 
 Furthermore, caution is warranted for patients with renal or hepatic impairment, alcoholic liver disease, glucose 6-phosphate dehydrogenase deficiency, or severe hypovolemia. However, there is evidence suggesting that acetaminophen may be deemed safe for use in the context of alcoholic liver disease.[19]
 
@@ -135,7 +134,7 @@ MacIntyre et al conducted a double-blind, placebo-controlled, crossover clinical
 
 ## Toxicity
 
-Each year, approximately 500 fatalities and 50,000 emergency department admissions in the United States are linked to acetaminophen.[23] In 2021, US poison control centers recorded over 80,000 cases. Acetaminophen is the most prevalent drug-related cause of acute liver failure, with hepatic injury occurring as a consequence of the drug's metabolism properties.[24] After reaching therapeutic concentrations of oral acetaminophen, 60% to 90% of the drug undergoes metabolism in the liver, forming glucuronic acid- and sulfate-conjugate metabolites. A smaller fraction, approximately 5% to 15%, undergoes metabolism via the cytochrome P450 system (CYP450)—metabolism primarily through CYP2E1 results in the formation of the toxic intermediate NAPQI. 
+Each year, approximately 500 fatalities and 50,000 emergency department admissions in the United States are linked to acetaminophen.[23] In 2021, US poison control centers recorded over 80,000 cases. Acetaminophen is the most prevalent drug-related cause of acute liver failure, with hepatic injury occurring as a consequence of the drug's metabolism properties.[24] After reaching therapeutic concentrations of oral acetaminophen, 60% to 90% of the drug undergoes metabolism in the liver, forming glucuronic acid- and sulfate-conjugate metabolites. A smaller fraction, approximately 5% to 15%, undergoes metabolism via the cytochrome P450 system (CYP450)—metabolism primarily through CYP2E1 results in the formation of the toxic intermediate NAPQI.
 
 Under normal circumstances, NAPQI is neutralized by glutathione to form nontoxic metabolites. However, in the case of excessive doses of acetaminophen, the normal phase II drug metabolism pathways become depleted. The CYP450 pathway metabolizes a more significant portion of the acetaminophen, leading to elevated concentrations of NAPQI formation, and the limited glutathione stores can deplete. When there is a shortage of glutathione, NAPQI concentrations increase, and, as a reactive intermediate, it can react with essential cellular macromolecules such as proteins, lipids, and nucleic acids. This interaction can result in centrilobular (zone 3) hepatic injury and hepatocellular death, along with the potential for nephrotoxicity.
 
@@ -155,7 +154,7 @@ In simultaneous ingestion with anticholinergic or opioid agonists, the concern i
 
 If the acetaminophen concentration measured within the same time frame falls between 10 μg/mL and the treatment line on the revised nomogram, and clinical signs indicating anticholinergic or opioid toxicity are present, a reevaluation should be scheduled 4 to 6 hours following the initial measurement. Notably, the dosing and duration of NAC treatment strictly follow the established standard protocol for acetaminophen ingestions. The panel recommends hemodialysis with NAC in massive acetaminophen toxicity with a concentration exceeding 900 μg/mL, accompanied by acidosis or altered consciousness.[27]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The prevention of acetaminophen toxicity is of utmost importance, and an interprofessional healthcare team comprising clinicians (MDs, DOs, NPs, and PAs), nurses, and pharmacists plays a critical role. Pharmacists and nurses need to emphasize the daily maximum permitted dose of acetaminophen. Patients should be educated on identifying acetaminophen in various medications and calculating the dosages when combining products.
 
@@ -167,174 +166,136 @@ Although acetaminophen has been available for many years and is generally consid
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17074&utm_source=pubmed&utm_campaign=reviews&utm_content=17074)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17074&utm_source=pubmed&utm_campaign=reviews&utm_content=17074)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17074/?utm_source=pubmed&utm_campaign=comments&utm_content=17074)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17074/?utm_source=pubmed&utm_campaign=comments&utm_content=17074)
 
 ## References
 
 1.
-    
 
-Ohashi N, Kohno T. Analgesic Effect of Acetaminophen: A Review of Known and Novel Mechanisms of Action. Front Pharmacol. 2020;11:580289. [[PMC free article: PMC7734311](/pmc/articles/PMC7734311/)] [[PubMed: 33328986](https://pubmed.ncbi.nlm.nih.gov/33328986)]
+Ohashi N, Kohno T. Analgesic Effect of Acetaminophen: A Review of Known and Novel Mechanisms of Action. Front Pharmacol. 2020;11:580289. \[[PMC free article: PMC7734311](/pmc/articles/PMC7734311/)\] \[[PubMed: 33328986](https://pubmed.ncbi.nlm.nih.gov/33328986)\]
 
 2.
-    
 
-Bunchorntavakul C, Reddy KR. Acetaminophen-related hepatotoxicity. Clin Liver Dis. 2013 Nov;17(4):587-607, viii. [[PubMed: 24099020](https://pubmed.ncbi.nlm.nih.gov/24099020)]
+Bunchorntavakul C, Reddy KR. Acetaminophen-related hepatotoxicity. Clin Liver Dis. 2013 Nov;17(4):587-607, viii. \[[PubMed: 24099020](https://pubmed.ncbi.nlm.nih.gov/24099020)\]
 
 3.
-    
 
-Ghanem CI, Pérez MJ, Manautou JE, Mottino AD. Acetaminophen from liver to brain: New insights into drug pharmacological action and toxicity. Pharmacol Res. 2016 Jul;109:119-31. [[PMC free article: PMC4912877](/pmc/articles/PMC4912877/)] [[PubMed: 26921661](https://pubmed.ncbi.nlm.nih.gov/26921661)]
+Ghanem CI, Pérez MJ, Manautou JE, Mottino AD. Acetaminophen from liver to brain: New insights into drug pharmacological action and toxicity. Pharmacol Res. 2016 Jul;109:119-31. \[[PMC free article: PMC4912877](/pmc/articles/PMC4912877/)\] \[[PubMed: 26921661](https://pubmed.ncbi.nlm.nih.gov/26921661)\]
 
 4.
-    
 
-Smith HS. Potential analgesic mechanisms of acetaminophen. Pain Physician. 2009 Jan-Feb;12(1):269-80. [[PubMed: 19165309](https://pubmed.ncbi.nlm.nih.gov/19165309)]
+Smith HS. Potential analgesic mechanisms of acetaminophen. Pain Physician. 2009 Jan-Feb;12(1):269-80. \[[PubMed: 19165309](https://pubmed.ncbi.nlm.nih.gov/19165309)\]
 
 5.
-    
 
-Chandrasekharan NV, Dai H, Roos KL, Evanson NK, Tomsik J, Elton TS, Simmons DL. COX-3, a cyclooxygenase-1 variant inhibited by acetaminophen and other analgesic/antipyretic drugs: cloning, structure, and expression. Proc Natl Acad Sci U S A. 2002 Oct 15;99(21):13926-31. [[PMC free article: PMC129799](/pmc/articles/PMC129799/)] [[PubMed: 12242329](https://pubmed.ncbi.nlm.nih.gov/12242329)]
+Chandrasekharan NV, Dai H, Roos KL, Evanson NK, Tomsik J, Elton TS, Simmons DL. COX-3, a cyclooxygenase-1 variant inhibited by acetaminophen and other analgesic/antipyretic drugs: cloning, structure, and expression. Proc Natl Acad Sci U S A. 2002 Oct 15;99(21):13926-31. \[[PMC free article: PMC129799](/pmc/articles/PMC129799/)\] \[[PubMed: 12242329](https://pubmed.ncbi.nlm.nih.gov/12242329)\]
 
 6.
-    
 
-Ohashi N, Uta D, Sasaki M, Ohashi M, Kamiya Y, Kohno T. Acetaminophen Metabolite N-Acylphenolamine Induces Analgesia via Transient Receptor Potential Vanilloid 1 Receptors Expressed on the Primary Afferent Terminals of C-fibers in the Spinal Dorsal Horn. Anesthesiology. 2017 Aug;127(2):355-371. [[PubMed: 28542001](https://pubmed.ncbi.nlm.nih.gov/28542001)]
+Ohashi N, Uta D, Sasaki M, Ohashi M, Kamiya Y, Kohno T. Acetaminophen Metabolite N-Acylphenolamine Induces Analgesia via Transient Receptor Potential Vanilloid 1 Receptors Expressed on the Primary Afferent Terminals of C-fibers in the Spinal Dorsal Horn. Anesthesiology. 2017 Aug;127(2):355-371. \[[PubMed: 28542001](https://pubmed.ncbi.nlm.nih.gov/28542001)\]
 
 7.
-    
 
-Mahajan L, Mittal V, Gupta R, Chhabra H, Vidhan J, Kaur A. Study to Compare the Effect of Oral, Rectal, and Intravenous Infusion of Paracetamol for Postoperative Analgesia in Women Undergoing Cesarean Section Under Spinal Anesthesia. Anesth Essays Res. 2017 Jul-Sep;11(3):594-598. [[PMC free article: PMC5594773](/pmc/articles/PMC5594773/)] [[PubMed: 28928554](https://pubmed.ncbi.nlm.nih.gov/28928554)]
+Mahajan L, Mittal V, Gupta R, Chhabra H, Vidhan J, Kaur A. Study to Compare the Effect of Oral, Rectal, and Intravenous Infusion of Paracetamol for Postoperative Analgesia in Women Undergoing Cesarean Section Under Spinal Anesthesia. Anesth Essays Res. 2017 Jul-Sep;11(3):594-598. \[[PMC free article: PMC5594773](/pmc/articles/PMC5594773/)\] \[[PubMed: 28928554](https://pubmed.ncbi.nlm.nih.gov/28928554)\]
 
 8.
-    
 
-Mazaleuskaya LL, Sangkuhl K, Thorn CF, FitzGerald GA, Altman RB, Klein TE. PharmGKB summary: pathways of acetaminophen metabolism at the therapeutic versus toxic doses. Pharmacogenet Genomics. 2015 Aug;25(8):416-26. [[PMC free article: PMC4498995](/pmc/articles/PMC4498995/)] [[PubMed: 26049587](https://pubmed.ncbi.nlm.nih.gov/26049587)]
+Mazaleuskaya LL, Sangkuhl K, Thorn CF, FitzGerald GA, Altman RB, Klein TE. PharmGKB summary: pathways of acetaminophen metabolism at the therapeutic versus toxic doses. Pharmacogenet Genomics. 2015 Aug;25(8):416-26. \[[PMC free article: PMC4498995](/pmc/articles/PMC4498995/)\] \[[PubMed: 26049587](https://pubmed.ncbi.nlm.nih.gov/26049587)\]
 
 9.
-    
 
-Li Y, Hong X, Liang L, Wang X, Ladd-Acosta C. Association between acetaminophen metabolites and CYP2E1 DNA methylation level in neonate cord blood in the Boston Birth Cohort. Clin Epigenetics. 2023 Aug 18;15(1):132. [[PMC free article: PMC10439592](/pmc/articles/PMC10439592/)] [[PubMed: 37596607](https://pubmed.ncbi.nlm.nih.gov/37596607)]
+Li Y, Hong X, Liang L, Wang X, Ladd-Acosta C. Association between acetaminophen metabolites and CYP2E1 DNA methylation level in neonate cord blood in the Boston Birth Cohort. Clin Epigenetics. 2023 Aug 18;15(1):132. \[[PMC free article: PMC10439592](/pmc/articles/PMC10439592/)\] \[[PubMed: 37596607](https://pubmed.ncbi.nlm.nih.gov/37596607)\]
 
 10.
-    
 
-Bannwarth B, Péhourcq F. [Pharmacologic basis for using paracetamol: pharmacokinetic and pharmacodynamic issues]. Drugs. 2003;63 Spec No 2:5-13. [[PubMed: 14758786](https://pubmed.ncbi.nlm.nih.gov/14758786)]
+Bannwarth B, Péhourcq F. [Pharmacologic basis for using paracetamol: pharmacokinetic and pharmacodynamic issues]. Drugs. 2003;63 Spec No 2:5-13. \[[PubMed: 14758786](https://pubmed.ncbi.nlm.nih.gov/14758786)\]
 
 11.
-    
 
-Tompkins DM, DiPasquale A, Segovia M, Cohn SM. Review of Intravenous Acetaminophen for Analgesia in the Postoperative Setting. Am Surg. 2021 Nov;87(11):1809-1822. [[PubMed: 33522265](https://pubmed.ncbi.nlm.nih.gov/33522265)]
+Tompkins DM, DiPasquale A, Segovia M, Cohn SM. Review of Intravenous Acetaminophen for Analgesia in the Postoperative Setting. Am Surg. 2021 Nov;87(11):1809-1822. \[[PubMed: 33522265](https://pubmed.ncbi.nlm.nih.gov/33522265)\]
 
 12.
-    
 
-Bauer AZ, Swan SH, Kriebel D, Liew Z, Taylor HS, Bornehag CG, Andrade AM, Olsen J, Jensen RH, Mitchell RT, Skakkebaek NE, Jégou B, Kristensen DM. Paracetamol use during pregnancy - a call for precautionary action. Nat Rev Endocrinol. 2021 Dec;17(12):757-766. [[PMC free article: PMC8580820](/pmc/articles/PMC8580820/)] [[PubMed: 34556849](https://pubmed.ncbi.nlm.nih.gov/34556849)]
+Bauer AZ, Swan SH, Kriebel D, Liew Z, Taylor HS, Bornehag CG, Andrade AM, Olsen J, Jensen RH, Mitchell RT, Skakkebaek NE, Jégou B, Kristensen DM. Paracetamol use during pregnancy - a call for precautionary action. Nat Rev Endocrinol. 2021 Dec;17(12):757-766. \[[PMC free article: PMC8580820](/pmc/articles/PMC8580820/)\] \[[PubMed: 34556849](https://pubmed.ncbi.nlm.nih.gov/34556849)\]
 
 13.
-    
 
-American Geriatrics Society Panel on Pharmacological Management of Persistent Pain in Older Persons. Pharmacological management of persistent pain in older persons. J Am Geriatr Soc. 2009 Aug;57(8):1331-46. [[PubMed: 19573219](https://pubmed.ncbi.nlm.nih.gov/19573219)]
+American Geriatrics Society Panel on Pharmacological Management of Persistent Pain in Older Persons. Pharmacological management of persistent pain in older persons. J Am Geriatr Soc. 2009 Aug;57(8):1331-46. \[[PubMed: 19573219](https://pubmed.ncbi.nlm.nih.gov/19573219)\]
 
 14.
-    
 
-Popiołek I, Piotrowicz-Wójcik K, Porebski G. Hypersensitivity Reactions in Serious Adverse Events Reported for Paracetamol in the EudraVigilance Database, 2007⁻2018. Pharmacy (Basel). 2019 Jan 17;7(1) [[PMC free article: PMC6473647](/pmc/articles/PMC6473647/)] [[PubMed: 30658389](https://pubmed.ncbi.nlm.nih.gov/30658389)]
+Popiołek I, Piotrowicz-Wójcik K, Porebski G. Hypersensitivity Reactions in Serious Adverse Events Reported for Paracetamol in the EudraVigilance Database, 2007⁻2018. Pharmacy (Basel). 2019 Jan 17;7(1) \[[PMC free article: PMC6473647](/pmc/articles/PMC6473647/)\] \[[PubMed: 30658389](https://pubmed.ncbi.nlm.nih.gov/30658389)\]
 
 15.
-    
 
-Fujii M, Kenzaka T. Drug-induced lung injury caused by acetaminophen in a Japanese woman: A case report. World J Clin Cases. 2022 Sep 26;10(27):9936-9944. [[PMC free article: PMC9516906](/pmc/articles/PMC9516906/)] [[PubMed: 36186171](https://pubmed.ncbi.nlm.nih.gov/36186171)]
+Fujii M, Kenzaka T. Drug-induced lung injury caused by acetaminophen in a Japanese woman: A case report. World J Clin Cases. 2022 Sep 26;10(27):9936-9944. \[[PMC free article: PMC9516906](/pmc/articles/PMC9516906/)\] \[[PubMed: 36186171](https://pubmed.ncbi.nlm.nih.gov/36186171)\]
 
 16.
-    
 
-Caparrotta TM, Antoine DJ, Dear JW. Are some people at increased risk of paracetamol-induced liver injury? A critical review of the literature. Eur J Clin Pharmacol. 2018 Feb;74(2):147-160. [[PMC free article: PMC5765191](/pmc/articles/PMC5765191/)] [[PubMed: 29067481](https://pubmed.ncbi.nlm.nih.gov/29067481)]
+Caparrotta TM, Antoine DJ, Dear JW. Are some people at increased risk of paracetamol-induced liver injury? A critical review of the literature. Eur J Clin Pharmacol. 2018 Feb;74(2):147-160. \[[PMC free article: PMC5765191](/pmc/articles/PMC5765191/)\] \[[PubMed: 29067481](https://pubmed.ncbi.nlm.nih.gov/29067481)\]
 
 17.
-    
 
-Rumack BH. Acetaminophen hepatotoxicity: the first 35 years. J Toxicol Clin Toxicol. 2002;40(1):3-20. [[PubMed: 11990202](https://pubmed.ncbi.nlm.nih.gov/11990202)]
+Rumack BH. Acetaminophen hepatotoxicity: the first 35 years. J Toxicol Clin Toxicol. 2002;40(1):3-20. \[[PubMed: 11990202](https://pubmed.ncbi.nlm.nih.gov/11990202)\]
 
 18.
-    
 
-Chiew AL, Buckley NA. Acetaminophen Poisoning. Crit Care Clin. 2021 Jul;37(3):543-561. [[PubMed: 34053705](https://pubmed.ncbi.nlm.nih.gov/34053705)]
+Chiew AL, Buckley NA. Acetaminophen Poisoning. Crit Care Clin. 2021 Jul;37(3):543-561. \[[PubMed: 34053705](https://pubmed.ncbi.nlm.nih.gov/34053705)\]
 
 19.
-    
 
-Zimmerman HJ, Maddrey WC. Acetaminophen (paracetamol) hepatotoxicity with regular intake of alcohol: analysis of instances of therapeutic misadventure. Hepatology. 1995 Sep;22(3):767-73. [[PubMed: 7657281](https://pubmed.ncbi.nlm.nih.gov/7657281)]
+Zimmerman HJ, Maddrey WC. Acetaminophen (paracetamol) hepatotoxicity with regular intake of alcohol: analysis of instances of therapeutic misadventure. Hepatology. 1995 Sep;22(3):767-73. \[[PubMed: 7657281](https://pubmed.ncbi.nlm.nih.gov/7657281)\]
 
 20.
-    
 
-Scialli AR, Ang R, Breitmeyer J, Royal MA. A review of the literature on the effects of acetaminophen on pregnancy outcome. Reprod Toxicol. 2010 Dec;30(4):495-507. [[PubMed: 20659550](https://pubmed.ncbi.nlm.nih.gov/20659550)]
+Scialli AR, Ang R, Breitmeyer J, Royal MA. A review of the literature on the effects of acetaminophen on pregnancy outcome. Reprod Toxicol. 2010 Dec;30(4):495-507. \[[PubMed: 20659550](https://pubmed.ncbi.nlm.nih.gov/20659550)\]
 
 21.
-    
 
-Alemany S, Avella-García C, Liew Z, García-Esteban R, Inoue K, Cadman T, López-Vicente M, González L, Riaño Galán I, Andiarena A, Casas M, Margetaki K, Strandberg-Larsen K, Lawlor DA, El Marroun H, Tiemeier H, Iñiguez C, Tardón A, Santa-Marina L, Júlvez J, Porta D, Chatzi L, Sunyer J. Prenatal and postnatal exposure to acetaminophen in relation to autism spectrum and attention-deficit and hyperactivity symptoms in childhood: Meta-analysis in six European population-based cohorts. Eur J Epidemiol. 2021 Oct;36(10):993-1004. [[PMC free article: PMC8542535](/pmc/articles/PMC8542535/)] [[PubMed: 34046850](https://pubmed.ncbi.nlm.nih.gov/34046850)]
+Alemany S, Avella-García C, Liew Z, García-Esteban R, Inoue K, Cadman T, López-Vicente M, González L, Riaño Galán I, Andiarena A, Casas M, Margetaki K, Strandberg-Larsen K, Lawlor DA, El Marroun H, Tiemeier H, Iñiguez C, Tardón A, Santa-Marina L, Júlvez J, Porta D, Chatzi L, Sunyer J. Prenatal and postnatal exposure to acetaminophen in relation to autism spectrum and attention-deficit and hyperactivity symptoms in childhood: Meta-analysis in six European population-based cohorts. Eur J Epidemiol. 2021 Oct;36(10):993-1004. \[[PMC free article: PMC8542535](/pmc/articles/PMC8542535/)\] \[[PubMed: 34046850](https://pubmed.ncbi.nlm.nih.gov/34046850)\]
 
 22.
-    
 
-MacIntyre IM, Turtle EJ, Farrah TE, Graham C, Dear JW, Webb DJ., PATH-BP (Paracetamol in Hypertension–Blood Pressure) Investigators*. Regular Acetaminophen Use and Blood Pressure in People With Hypertension: The PATH-BP Trial. Circulation. 2022 Feb 08;145(6):416-423. [[PMC free article: PMC7612370](/pmc/articles/PMC7612370/)] [[PubMed: 35130054](https://pubmed.ncbi.nlm.nih.gov/35130054)]
+MacIntyre IM, Turtle EJ, Farrah TE, Graham C, Dear JW, Webb DJ., PATH-BP (Paracetamol in Hypertension–Blood Pressure) Investigators\*. Regular Acetaminophen Use and Blood Pressure in People With Hypertension: The PATH-BP Trial. Circulation. 2022 Feb 08;145(6):416-423. \[[PMC free article: PMC7612370](/pmc/articles/PMC7612370/)\] \[[PubMed: 35130054](https://pubmed.ncbi.nlm.nih.gov/35130054)\]
 
 23.
-    
 
-Lee WM. Acetaminophen (APAP) hepatotoxicity-Isn't it time for APAP to go away? J Hepatol. 2017 Dec;67(6):1324-1331. [[PMC free article: PMC5696016](/pmc/articles/PMC5696016/)] [[PubMed: 28734939](https://pubmed.ncbi.nlm.nih.gov/28734939)]
+Lee WM. Acetaminophen (APAP) hepatotoxicity-Isn't it time for APAP to go away? J Hepatol. 2017 Dec;67(6):1324-1331. \[[PMC free article: PMC5696016](/pmc/articles/PMC5696016/)\] \[[PubMed: 28734939](https://pubmed.ncbi.nlm.nih.gov/28734939)\]
 
 24.
-    
 
-Wang X, Wu Q, Liu A, Anadón A, Rodríguez JL, Martínez-Larrañaga MR, Yuan Z, Martínez MA. Paracetamol: overdose-induced oxidative stress toxicity, metabolism, and protective effects of various compounds in vivo and in vitro. Drug Metab Rev. 2017 Nov;49(4):395-437. [[PubMed: 28766385](https://pubmed.ncbi.nlm.nih.gov/28766385)]
+Wang X, Wu Q, Liu A, Anadón A, Rodríguez JL, Martínez-Larrañaga MR, Yuan Z, Martínez MA. Paracetamol: overdose-induced oxidative stress toxicity, metabolism, and protective effects of various compounds in vivo and in vitro. Drug Metab Rev. 2017 Nov;49(4):395-437. \[[PubMed: 28766385](https://pubmed.ncbi.nlm.nih.gov/28766385)\]
 
 25.
-    
 
-Smilkstein MJ, Knapp GL, Kulig KW, Rumack BH. Efficacy of oral N-acetylcysteine in the treatment of acetaminophen overdose. Analysis of the national multicenter study (1976 to 1985). N Engl J Med. 1988 Dec 15;319(24):1557-62. [[PubMed: 3059186](https://pubmed.ncbi.nlm.nih.gov/3059186)]
+Smilkstein MJ, Knapp GL, Kulig KW, Rumack BH. Efficacy of oral N-acetylcysteine in the treatment of acetaminophen overdose. Analysis of the national multicenter study (1976 to 1985). N Engl J Med. 1988 Dec 15;319(24):1557-62. \[[PubMed: 3059186](https://pubmed.ncbi.nlm.nih.gov/3059186)\]
 
 26.
-    
 
-Prescott LF. Treatment of severe acetaminophen poisoning with intravenous acetylcysteine. Arch Intern Med. 1981 Feb 23;141(3 Spec No):386-9. [[PubMed: 7469630](https://pubmed.ncbi.nlm.nih.gov/7469630)]
+Prescott LF. Treatment of severe acetaminophen poisoning with intravenous acetylcysteine. Arch Intern Med. 1981 Feb 23;141(3 Spec No):386-9. \[[PubMed: 7469630](https://pubmed.ncbi.nlm.nih.gov/7469630)\]
 
 27.
-    
 
-Dart RC, Mullins ME, Matoushek T, Ruha AM, Burns MM, Simone K, Beuhler MC, Heard KJ, Mazer-Amirshahi M, Stork CM, Varney SM, Funk AR, Cantrell LF, Cole JB, Banner W, Stolbach AI, Hendrickson RG, Lucyk SN, Sivilotti MLA, Su MK, Nelson LS, Rumack BH. Management of Acetaminophen Poisoning in the US and Canada: A Consensus Statement. JAMA Netw Open. 2023 Aug 01;6(8):e2327739. [[PubMed: 37552484](https://pubmed.ncbi.nlm.nih.gov/37552484)]
+Dart RC, Mullins ME, Matoushek T, Ruha AM, Burns MM, Simone K, Beuhler MC, Heard KJ, Mazer-Amirshahi M, Stork CM, Varney SM, Funk AR, Cantrell LF, Cole JB, Banner W, Stolbach AI, Hendrickson RG, Lucyk SN, Sivilotti MLA, Su MK, Nelson LS, Rumack BH. Management of Acetaminophen Poisoning in the US and Canada: A Consensus Statement. JAMA Netw Open. 2023 Aug 01;6(8):e2327739. \[[PubMed: 37552484](https://pubmed.ncbi.nlm.nih.gov/37552484)\]
 
 28.
-    
 
-Beauchamp GA, Hart KW, Lindsell CJ, Lyons MS, Otten EJ, Smith CL, Ward MJ, Wright SW. Performance of a multi-disciplinary emergency department observation protocol for acetaminophen overdose. J Med Toxicol. 2013 Sep;9(3):235-41. [[PMC free article: PMC3771000](/pmc/articles/PMC3771000/)] [[PubMed: 23793935](https://pubmed.ncbi.nlm.nih.gov/23793935)]
+Beauchamp GA, Hart KW, Lindsell CJ, Lyons MS, Otten EJ, Smith CL, Ward MJ, Wright SW. Performance of a multi-disciplinary emergency department observation protocol for acetaminophen overdose. J Med Toxicol. 2013 Sep;9(3):235-41. \[[PMC free article: PMC3771000](/pmc/articles/PMC3771000/)\] \[[PubMed: 23793935](https://pubmed.ncbi.nlm.nih.gov/23793935)\]
 
 29.
-    
 
-Lee SK, Quinonez RB, Chuang A, Munz SM, Dabiri D. The Case for Improved Interprofessional Care: Fatal Analgesic Overdose Secondary to Acute Dental Pain during Pregnancy. Case Rep Dent. 2016;2016:7467262. [[PMC free article: PMC5101371](/pmc/articles/PMC5101371/)] [[PubMed: 27847654](https://pubmed.ncbi.nlm.nih.gov/27847654)]
+Lee SK, Quinonez RB, Chuang A, Munz SM, Dabiri D. The Case for Improved Interprofessional Care: Fatal Analgesic Overdose Secondary to Acute Dental Pain during Pregnancy. Case Rep Dent. 2016;2016:7467262. \[[PMC free article: PMC5101371](/pmc/articles/PMC5101371/)\] \[[PubMed: 27847654](https://pubmed.ncbi.nlm.nih.gov/27847654)\]
 
 30.
-    
 
-Orandi BJ, McLeod MC, MacLennan PA, Lee WM, Fontana RJ, Karvellas CJ, McGuire BM, Lewis CE, Terrault NM, Locke JE., US Acute Liver Failure Study Group. Association of FDA Mandate Limiting Acetaminophen (Paracetamol) in Prescription Combination Opioid Products and Subsequent Hospitalizations and Acute Liver Failure. JAMA. 2023 Mar 07;329(9):735-744. [[PMC free article: PMC9993184](/pmc/articles/PMC9993184/)] [[PubMed: 36881033](https://pubmed.ncbi.nlm.nih.gov/36881033)]
-
-    
+Orandi BJ, McLeod MC, MacLennan PA, Lee WM, Fontana RJ, Karvellas CJ, McGuire BM, Lewis CE, Terrault NM, Locke JE., US Acute Liver Failure Study Group. Association of FDA Mandate Limiting Acetaminophen (Paracetamol) in Prescription Combination Opioid Products and Subsequent Hospitalizations and Acute Liver Failure. JAMA. 2023 Mar 07;329(9):735-744. \[[PMC free article: PMC9993184](/pmc/articles/PMC9993184/)\] \[[PubMed: 36881033](https://pubmed.ncbi.nlm.nih.gov/36881033)\]
 
 **Disclosure:** Valerie Gerriets declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Jackie Anderson declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Preeti Patel declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Thomas Nappe declares no relevant financial relationships with ineligible companies.

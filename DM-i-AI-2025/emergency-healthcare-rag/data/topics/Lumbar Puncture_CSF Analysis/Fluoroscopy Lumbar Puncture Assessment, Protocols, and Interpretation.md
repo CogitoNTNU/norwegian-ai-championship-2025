@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-131416/
-scraped_date: 2025-07-22 12:55:12 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-131416/ scraped_date: 2025-07-22 12:55:12 UTC
 
 # Fluoroscopy Lumbar Puncture Assessment, Protocols, and Interpretation
 
@@ -27,13 +26,13 @@ Lumbar puncture is a standard procedure to obtain cerebrospinal fluid for diagno
 
 **Objectives:**
 
-  * Review the indications for the lumbar puncture.
+- Review the indications for the lumbar puncture.
 
-  * Review the indications for the fluoroscopy-guided lumbar puncture.
+- Review the indications for the fluoroscopy-guided lumbar puncture.
 
-  * Identify the high-risk factors and contraindications for the lumbar puncture.
+- Identify the high-risk factors and contraindications for the lumbar puncture.
 
-  * Summarize the material and techniques for the lumbar puncture procedure.
+- Summarize the material and techniques for the lumbar puncture procedure.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=131416&utm_source=pubmed&utm_campaign=reviews&utm_content=131416)
 
@@ -51,91 +50,91 @@ While performing an LP, the needle has to pass through the skin, subcutaneous fa
 
 **Indications for Lumbar Puncture**
 
-  1. A sampling of the CSF for laboratory analysis to detect infection, malignancy, inflammatory/demyelinating disorders.
+1. A sampling of the CSF for laboratory analysis to detect infection, malignancy, inflammatory/demyelinating disorders.
 
-  2. To determine the CSF pressure in suspected cases of increased intracranial pressure (infection, malignancy, or idiopathic intracranial hypertension).
+1. To determine the CSF pressure in suspected cases of increased intracranial pressure (infection, malignancy, or idiopathic intracranial hypertension).
 
-  3. Chemotherapy drug administration into the thecal sac
+1. Chemotherapy drug administration into the thecal sac
 
-  4. Myelography and cisternography.
+1. Myelography and cisternography.
 
-  5. Blood patch for CSF leak
+1. Blood patch for CSF leak
 
-  6. Baclofen administration as a pump trial.
+1. Baclofen administration as a pump trial.
 
-  7. Lumbar shunt placement procedure.
+1. Lumbar shunt placement procedure.
 
 **Indications for Fluoroscopy-guided Lumbar Puncture**
 
-  1. Failed bedside attempt (most common indication).
+1. Failed bedside attempt (most common indication).
 
-  2. Obesity
+1. Obesity
 
-  3. Prior lumbar spine surgery/hardware
+1. Prior lumbar spine surgery/hardware
 
-  4. Severe degenerative spinal disease and scoliosis.
+1. Severe degenerative spinal disease and scoliosis.
 
-  5. Lack of training to do the procedure.
+1. Lack of training to do the procedure.
 
-  6. Patients request to avoid failed attempts, particularly after the first failed attempt.
+1. Patients request to avoid failed attempts, particularly after the first failed attempt.
 
 ## Contraindications
 
-**1\. Coagulopathy and anticoagulant** s: Guidelines are available to follow during day-to-day practice.[6][7] For general-purpose discussion, any uncorrected coagulopathy can cause a spinal hematoma resulting in the spinal cord or nerve compression, which may require emergent surgery for decompression. Patients must have the INR corrected to <1.5 and have the platelet count > 50000\. The aPTT in patients receiving unfractionated heparin should be more than 1.5 x normal.
+**1. Coagulopathy and anticoagulant** s: Guidelines are available to follow during day-to-day practice.[6][7] For general-purpose discussion, any uncorrected coagulopathy can cause a spinal hematoma resulting in the spinal cord or nerve compression, which may require emergent surgery for decompression. Patients must have the INR corrected to \<1.5 and have the platelet count > 50000. The aPTT in patients receiving unfractionated heparin should be more than 1.5 x normal.
 
 Warfarin
 
-  * Warfarin to be held for 5 days, and INR is confirmed at 1.5 or less.
+- Warfarin to be held for 5 days, and INR is confirmed at 1.5 or less.
 
-  * Warfarin resumed within 12-24 hr after the procedure.
+- Warfarin resumed within 12-24 hr after the procedure.
 
 Heparin
 
-  * Unfractionated subcutaneous or IV heparin - wait for at least 4 hr after the previous dose and check aPtt, resume 1 hr after the procedure.
+- Unfractionated subcutaneous or IV heparin - wait for at least 4 hr after the previous dose and check aPtt, resume 1 hr after the procedure.
 
 Lovenox
 
-  * Withhold the last dose or wait for 24 hr after the previous dose. Resume 6 hrs after the procedure.
+- Withhold the last dose or wait for 24 hr after the previous dose. Resume 6 hrs after the procedure.
 
 Fondaparinux
 
-  * Withhold 48 hrs before the procedure. Resume therapy after 6 hrs.
+- Withhold 48 hrs before the procedure. Resume therapy after 6 hrs.
 
 Rivaroxaban
 
-  * Withhold 48hrs before the procedure. Resume therapy after 48h.
+- Withhold 48hrs before the procedure. Resume therapy after 48h.
 
 Argatroban and Desirudin
 
-  * Wait for 4 hrs after the last dose to do the procedure. Resume therapy after 1 hr.
+- Wait for 4 hrs after the last dose to do the procedure. Resume therapy after 1 hr.
 
 Aspirin
 
-  * 81 mg "baby" aspirin daily, no contraindication. 325 mg/day, withhold for 5 days.
+- 81 mg "baby" aspirin daily, no contraindication. 325 mg/day, withhold for 5 days.
 
 Clopidogrel
 
-  * Withhold 5 days. Resume immediately.
+- Withhold 5 days. Resume immediately.
 
 Ticlopidine
 
-  * Withhold 5 days.
+- Withhold 5 days.
 
 Abciximab
 
-  * Withhold 5 days.
+- Withhold 5 days.
 
-**2\. Increased intracranial pressure due to CSF obstruction:** If prior imaging is not available, obtain MRI or head CT.[8]
+**2. Increased intracranial pressure due to CSF obstruction:** If prior imaging is not available, obtain MRI or head CT.[8]
 
 **Relative Contraindications**
 
-  * Weight limit: Newer fluoroscopy tables have a weight limit of 400 pounds. Excess weight can potentially damage the fluoroscopy table hydraulic mechanism.
+- Weight limit: Newer fluoroscopy tables have a weight limit of 400 pounds. Excess weight can potentially damage the fluoroscopy table hydraulic mechanism.
 
-  * Infection: A superficial infection of the lumbar region's skin is a relative contraindication because of the risk of meningitis.[9]
+- Infection: A superficial infection of the lumbar region's skin is a relative contraindication because of the risk of meningitis.[9]
 
-  * Unstable and uncooperative patient: Appropriate sedation may help patients not move during the procedure. However, sedation can reduce the ability of the patient to respond if there is an injury to the nerve or spinal cord.
+- Unstable and uncooperative patient: Appropriate sedation may help patients not move during the procedure. However, sedation can reduce the ability of the patient to respond if there is an injury to the nerve or spinal cord.
 
-  * Pregnancy is also a relative contraindication, given the risk of radiation to the developing embryo.
+- Pregnancy is also a relative contraindication, given the risk of radiation to the developing embryo.
 
 ## Equipment
 
@@ -199,7 +198,7 @@ LP is one of the most common bedside procedures performed in the office, emergen
 
 There is an increase in the need for FGLP due to the increasing number of patients having spine surgery, high BMIs, or due to multiple failed blind attempts, or fear of failed attempts. FGLP is associated with a reduced rate of failure of LP in patients who have high BMI, prior surgery, or significant degenerative disease.[10] FGLP has advantages of image guidance that can track the needle trajectory, reduce the number of attempts, reduce the chance of blood tap, and reduce the time required for the procedure.[4]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 FGLP is a significantly superior procedure to blind LP. It is associated with reduced postlumbar puncture headache (Level 1).[13] FGLP is a moderately skilled procedure and might injure patients significantly due to spinal cord injury if not performed correctly. Hence, it is essential to master the technique of the FGLP to obtain desired results safely. It is important to note that sedation doesn't always benefit the patient, as patients can not tell if they had root pain while steering the needle within the spinal canal.
 
@@ -209,123 +208,98 @@ The interprofessional clinical team requesting FGLP should understand this impli
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=131416&utm_source=pubmed&utm_campaign=reviews&utm_content=131416)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=131416&utm_source=pubmed&utm_campaign=reviews&utm_content=131416)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/fluoroscopy-lumbar-puncture-assessment-protocols-and-interpretation-lumbar-puncture/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=131416)
+- [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/fluoroscopy-lumbar-puncture-assessment-protocols-and-interpretation-lumbar-puncture/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=131416)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/131416/?utm_source=pubmed&utm_campaign=comments&utm_content=131416)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/131416/?utm_source=pubmed&utm_campaign=comments&utm_content=131416)
 
 ## References
 
 1.
-    
 
-Pearce JM. Walter Essex Wynter, Quincke, and lumbar puncture. J Neurol Neurosurg Psychiatry. 1994 Feb;57(2):179. [[PMC free article: PMC1072445](/pmc/articles/PMC1072445/)] [[PubMed: 8126500](https://pubmed.ncbi.nlm.nih.gov/8126500)]
+Pearce JM. Walter Essex Wynter, Quincke, and lumbar puncture. J Neurol Neurosurg Psychiatry. 1994 Feb;57(2):179. \[[PMC free article: PMC1072445](/pmc/articles/PMC1072445/)\] \[[PubMed: 8126500](https://pubmed.ncbi.nlm.nih.gov/8126500)\]
 
 2.
-    
 
-Kroll H, Duszak R, Nsiah E, Hughes DR, Sumer S, Wintermark M. Trends in lumbar puncture over 2 decades: a dramatic shift to radiology. AJR Am J Roentgenol. 2015 Jan;204(1):15-9. [[PubMed: 25539231](https://pubmed.ncbi.nlm.nih.gov/25539231)]
+Kroll H, Duszak R, Nsiah E, Hughes DR, Sumer S, Wintermark M. Trends in lumbar puncture over 2 decades: a dramatic shift to radiology. AJR Am J Roentgenol. 2015 Jan;204(1):15-9. \[[PubMed: 25539231](https://pubmed.ncbi.nlm.nih.gov/25539231)\]
 
 3.
-    
 
-Trunz LM, Gandhi AV, Karambelkar AD, Lange SM, Rao VM, Flanders AE. National Trends in Lumbar Puncture from 2010 to 2018: A Shift Reversal from the Emergency Department to the Hospital Setting for Radiologists and Advanced Practice Providers. AJNR Am J Neuroradiol. 2021 Jan;42(1):206-210. [[PMC free article: PMC7814782](/pmc/articles/PMC7814782/)] [[PubMed: 33184070](https://pubmed.ncbi.nlm.nih.gov/33184070)]
+Trunz LM, Gandhi AV, Karambelkar AD, Lange SM, Rao VM, Flanders AE. National Trends in Lumbar Puncture from 2010 to 2018: A Shift Reversal from the Emergency Department to the Hospital Setting for Radiologists and Advanced Practice Providers. AJNR Am J Neuroradiol. 2021 Jan;42(1):206-210. \[[PMC free article: PMC7814782](/pmc/articles/PMC7814782/)\] \[[PubMed: 33184070](https://pubmed.ncbi.nlm.nih.gov/33184070)\]
 
 4.
-    
 
-Eskey CJ, Ogilvy CS. Fluoroscopy-guided lumbar puncture: decreased frequency of traumatic tap and implications for the assessment of CT-negative acute subarachnoid hemorrhage. AJNR Am J Neuroradiol. 2001 Mar;22(3):571-6. [[PMC free article: PMC7976839](/pmc/articles/PMC7976839/)] [[PubMed: 11237986](https://pubmed.ncbi.nlm.nih.gov/11237986)]
+Eskey CJ, Ogilvy CS. Fluoroscopy-guided lumbar puncture: decreased frequency of traumatic tap and implications for the assessment of CT-negative acute subarachnoid hemorrhage. AJNR Am J Neuroradiol. 2001 Mar;22(3):571-6. \[[PMC free article: PMC7976839](/pmc/articles/PMC7976839/)\] \[[PubMed: 11237986](https://pubmed.ncbi.nlm.nih.gov/11237986)\]
 
 5.
-    
 
-Özütemiz C, Rykken JB. Lumbar puncture under fluoroscopy guidance: a technical review for radiologists. Diagn Interv Radiol. 2019 Mar;25(2):144-156. [[PMC free article: PMC6411264](/pmc/articles/PMC6411264/)] [[PubMed: 30774095](https://pubmed.ncbi.nlm.nih.gov/30774095)]
+Özütemiz C, Rykken JB. Lumbar puncture under fluoroscopy guidance: a technical review for radiologists. Diagn Interv Radiol. 2019 Mar;25(2):144-156. \[[PMC free article: PMC6411264](/pmc/articles/PMC6411264/)\] \[[PubMed: 30774095](https://pubmed.ncbi.nlm.nih.gov/30774095)\]
 
 6.
-    
 
-Patel IJ, Davidson JC, Nikolic B, Salazar GM, Schwartzberg MS, Walker TG, Saad WA., Standards of Practice Committee, with Cardiovascular and Interventional Radiological Society of Europe (CIRSE) Endorsement. Consensus guidelines for periprocedural management of coagulation status and hemostasis risk in percutaneous image-guided interventions. J Vasc Interv Radiol. 2012 Jun;23(6):727-36. [[PubMed: 22513394](https://pubmed.ncbi.nlm.nih.gov/22513394)]
+Patel IJ, Davidson JC, Nikolic B, Salazar GM, Schwartzberg MS, Walker TG, Saad WA., Standards of Practice Committee, with Cardiovascular and Interventional Radiological Society of Europe (CIRSE) Endorsement. Consensus guidelines for periprocedural management of coagulation status and hemostasis risk in percutaneous image-guided interventions. J Vasc Interv Radiol. 2012 Jun;23(6):727-36. \[[PubMed: 22513394](https://pubmed.ncbi.nlm.nih.gov/22513394)\]
 
 7.
-    
 
-Jaffe TA, Raiff D, Ho LM, Kim CY. Management of Anticoagulant and Antiplatelet Medications in Adults Undergoing Percutaneous Interventions. AJR Am J Roentgenol. 2015 Aug;205(2):421-8. [[PubMed: 26204296](https://pubmed.ncbi.nlm.nih.gov/26204296)]
+Jaffe TA, Raiff D, Ho LM, Kim CY. Management of Anticoagulant and Antiplatelet Medications in Adults Undergoing Percutaneous Interventions. AJR Am J Roentgenol. 2015 Aug;205(2):421-8. \[[PubMed: 26204296](https://pubmed.ncbi.nlm.nih.gov/26204296)\]
 
 8.
-    
 
-Cauley KA. Fluoroscopically Guided Lumbar Puncture. AJR Am J Roentgenol. 2015 Oct;205(4):W442-50. [[PubMed: 26397351](https://pubmed.ncbi.nlm.nih.gov/26397351)]
+Cauley KA. Fluoroscopically Guided Lumbar Puncture. AJR Am J Roentgenol. 2015 Oct;205(4):W442-50. \[[PubMed: 26397351](https://pubmed.ncbi.nlm.nih.gov/26397351)\]
 
 9.
-    
 
-Engelborghs S, Niemantsverdriet E, Struyfs H, Blennow K, Brouns R, Comabella M, Dujmovic I, van der Flier W, Frölich L, Galimberti D, Gnanapavan S, Hemmer B, Hoff E, Hort J, Iacobaeus E, Ingelsson M, Jan de Jong F, Jonsson M, Khalil M, Kuhle J, Lleó A, de Mendonça A, Molinuevo JL, Nagels G, Paquet C, Parnetti L, Roks G, Rosa-Neto P, Scheltens P, Skårsgard C, Stomrud E, Tumani H, Visser PJ, Wallin A, Winblad B, Zetterberg H, Duits F, Teunissen CE. Consensus guidelines for lumbar puncture in patients with neurological diseases. Alzheimers Dement (Amst). 2017;8:111-126. [[PMC free article: PMC5454085](/pmc/articles/PMC5454085/)] [[PubMed: 28603768](https://pubmed.ncbi.nlm.nih.gov/28603768)]
+Engelborghs S, Niemantsverdriet E, Struyfs H, Blennow K, Brouns R, Comabella M, Dujmovic I, van der Flier W, Frölich L, Galimberti D, Gnanapavan S, Hemmer B, Hoff E, Hort J, Iacobaeus E, Ingelsson M, Jan de Jong F, Jonsson M, Khalil M, Kuhle J, Lleó A, de Mendonça A, Molinuevo JL, Nagels G, Paquet C, Parnetti L, Roks G, Rosa-Neto P, Scheltens P, Skårsgard C, Stomrud E, Tumani H, Visser PJ, Wallin A, Winblad B, Zetterberg H, Duits F, Teunissen CE. Consensus guidelines for lumbar puncture in patients with neurological diseases. Alzheimers Dement (Amst). 2017;8:111-126. \[[PMC free article: PMC5454085](/pmc/articles/PMC5454085/)\] \[[PubMed: 28603768](https://pubmed.ncbi.nlm.nih.gov/28603768)\]
 
 10.
-    
 
-Nayate AP, Nasrallah IM, Schmitt JE, Mohan S. Using Body Mass Index to Predict Needle Length in Fluoroscopy-Guided Lumbar Punctures. AJNR Am J Neuroradiol. 2016 Mar;37(3):572-8. [[PMC free article: PMC7960139](/pmc/articles/PMC7960139/)] [[PubMed: 26585261](https://pubmed.ncbi.nlm.nih.gov/26585261)]
+Nayate AP, Nasrallah IM, Schmitt JE, Mohan S. Using Body Mass Index to Predict Needle Length in Fluoroscopy-Guided Lumbar Punctures. AJNR Am J Neuroradiol. 2016 Mar;37(3):572-8. \[[PMC free article: PMC7960139](/pmc/articles/PMC7960139/)\] \[[PubMed: 26585261](https://pubmed.ncbi.nlm.nih.gov/26585261)\]
 
 11.
-    
 
-Hudgins PA, Fountain AJ, Chapman PR, Shah LM. Difficult Lumbar Puncture: Pitfalls and Tips from the Trenches. AJNR Am J Neuroradiol. 2017 Jul;38(7):1276-1283. [[PMC free article: PMC7959916](/pmc/articles/PMC7959916/)] [[PubMed: 28302612](https://pubmed.ncbi.nlm.nih.gov/28302612)]
+Hudgins PA, Fountain AJ, Chapman PR, Shah LM. Difficult Lumbar Puncture: Pitfalls and Tips from the Trenches. AJNR Am J Neuroradiol. 2017 Jul;38(7):1276-1283. \[[PMC free article: PMC7959916](/pmc/articles/PMC7959916/)\] \[[PubMed: 28302612](https://pubmed.ncbi.nlm.nih.gov/28302612)\]
 
 12.
-    
 
-Corbett JJ, Mehta MP. Cerebrospinal fluid pressure in normal obese subjects and patients with pseudotumor cerebri. Neurology. 1983 Oct;33(10):1386-8. [[PubMed: 6684240](https://pubmed.ncbi.nlm.nih.gov/6684240)]
+Corbett JJ, Mehta MP. Cerebrospinal fluid pressure in normal obese subjects and patients with pseudotumor cerebri. Neurology. 1983 Oct;33(10):1386-8. \[[PubMed: 6684240](https://pubmed.ncbi.nlm.nih.gov/6684240)\]
 
 13.
-    
 
-Rodriguez D, Branstetter BF, Agarwal V, Palfey S, Ching KC, Bump GM, Hughes MA. JOURNAL CLUB: Incidence of Complications Following Fluoroscopically Guided Lumbar Punctures and Myelograms. AJR Am J Roentgenol. 2016 Jan;206(1):20-5. [[PubMed: 26700333](https://pubmed.ncbi.nlm.nih.gov/26700333)]
+Rodriguez D, Branstetter BF, Agarwal V, Palfey S, Ching KC, Bump GM, Hughes MA. JOURNAL CLUB: Incidence of Complications Following Fluoroscopically Guided Lumbar Punctures and Myelograms. AJR Am J Roentgenol. 2016 Jan;206(1):20-5. \[[PubMed: 26700333](https://pubmed.ncbi.nlm.nih.gov/26700333)\]
 
 14.
-    
 
-Strupp M, Brandt T, Müller A. Incidence of post-lumbar puncture syndrome reduced by reinserting the stylet: a randomized prospective study of 600 patients. J Neurol. 1998 Sep;245(9):589-92. [[PubMed: 9758296](https://pubmed.ncbi.nlm.nih.gov/9758296)]
+Strupp M, Brandt T, Müller A. Incidence of post-lumbar puncture syndrome reduced by reinserting the stylet: a randomized prospective study of 600 patients. J Neurol. 1998 Sep;245(9):589-92. \[[PubMed: 9758296](https://pubmed.ncbi.nlm.nih.gov/9758296)\]
 
 15.
-    
 
-Evans RW. Complications of lumbar puncture. Neurol Clin. 1998 Feb;16(1):83-105. [[PubMed: 9421542](https://pubmed.ncbi.nlm.nih.gov/9421542)]
+Evans RW. Complications of lumbar puncture. Neurol Clin. 1998 Feb;16(1):83-105. \[[PubMed: 9421542](https://pubmed.ncbi.nlm.nih.gov/9421542)\]
 
 16.
-    
 
-Turnbull DK, Shepherd DB. Post-dural puncture headache: pathogenesis, prevention and treatment. Br J Anaesth. 2003 Nov;91(5):718-29. [[PubMed: 14570796](https://pubmed.ncbi.nlm.nih.gov/14570796)]
+Turnbull DK, Shepherd DB. Post-dural puncture headache: pathogenesis, prevention and treatment. Br J Anaesth. 2003 Nov;91(5):718-29. \[[PubMed: 14570796](https://pubmed.ncbi.nlm.nih.gov/14570796)\]
 
 17.
-    
 
-Evans RW, Armon C, Frohman EM, Goodin DS. Assessment: prevention of post-lumbar puncture headaches: report of the therapeutics and technology assessment subcommittee of the american academy of neurology. Neurology. 2000 Oct 10;55(7):909-14. [[PubMed: 11061243](https://pubmed.ncbi.nlm.nih.gov/11061243)]
+Evans RW, Armon C, Frohman EM, Goodin DS. Assessment: prevention of post-lumbar puncture headaches: report of the therapeutics and technology assessment subcommittee of the american academy of neurology. Neurology. 2000 Oct 10;55(7):909-14. \[[PubMed: 11061243](https://pubmed.ncbi.nlm.nih.gov/11061243)\]
 
 18.
-    
 
-Lin W, Geiderman J. Myth: fluids, bed rest, and caffeine are effective in preventing and treating patients with post-lumbar puncture headache. West J Med. 2002 Jan;176(1):69-70. [[PMC free article: PMC1071660](/pmc/articles/PMC1071660/)] [[PubMed: 11788546](https://pubmed.ncbi.nlm.nih.gov/11788546)]
+Lin W, Geiderman J. Myth: fluids, bed rest, and caffeine are effective in preventing and treating patients with post-lumbar puncture headache. West J Med. 2002 Jan;176(1):69-70. \[[PMC free article: PMC1071660](/pmc/articles/PMC1071660/)\] \[[PubMed: 11788546](https://pubmed.ncbi.nlm.nih.gov/11788546)\]
 
 19.
-    
 
-Hayek SM, Fattouh M, Dews T, Kapural L, Malak O, Mekhail N. Successful treatment of spontaneous cerebrospinal fluid leak headache with fluoroscopically guided epidural blood patch: a report of four cases. Pain Med. 2003 Dec;4(4):373-8. [[PubMed: 14750917](https://pubmed.ncbi.nlm.nih.gov/14750917)]
+Hayek SM, Fattouh M, Dews T, Kapural L, Malak O, Mekhail N. Successful treatment of spontaneous cerebrospinal fluid leak headache with fluoroscopically guided epidural blood patch: a report of four cases. Pain Med. 2003 Dec;4(4):373-8. \[[PubMed: 14750917](https://pubmed.ncbi.nlm.nih.gov/14750917)\]
 
 20.
-    
 
-Umeda A, Saeki N, Matsumoto C, Nakao M, Kawamoto M. Abdominal aortic injury during vertebroplasty. Spine (Phila Pa 1976). 2015 Apr 01;40(7):E439-41. [[PubMed: 25608245](https://pubmed.ncbi.nlm.nih.gov/25608245)]
+Umeda A, Saeki N, Matsumoto C, Nakao M, Kawamoto M. Abdominal aortic injury during vertebroplasty. Spine (Phila Pa 1976). 2015 Apr 01;40(7):E439-41. \[[PubMed: 25608245](https://pubmed.ncbi.nlm.nih.gov/25608245)\]
 
 21.
-    
 
-Brook AD, Burns J, Dauer E, Schoendfeld AH, Miller TS. Comparison of CT and fluoroscopic guidance for lumbar puncture in an obese population with prior failed unguided attempt. J Neurointerv Surg. 2014 May;6(4):324-8. [[PubMed: 23729498](https://pubmed.ncbi.nlm.nih.gov/23729498)]
-
-    
+Brook AD, Burns J, Dauer E, Schoendfeld AH, Miller TS. Comparison of CT and fluoroscopic guidance for lumbar puncture in an obese population with prior failed unguided attempt. J Neurointerv Surg. 2014 May;6(4):324-8. \[[PubMed: 23729498](https://pubmed.ncbi.nlm.nih.gov/23729498)\]
 
 **Disclosure:** Ajit Karambelkar declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Orlando De Jesus declares no relevant financial relationships with ineligible companies.

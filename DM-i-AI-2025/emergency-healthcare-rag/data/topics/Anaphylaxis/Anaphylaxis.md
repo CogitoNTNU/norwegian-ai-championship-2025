@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17514/
-scraped_date: 2025-07-22 12:42:12 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17514/ scraped_date: 2025-07-22 12:42:12 UTC
 
 # Anaphylaxis
 
@@ -27,13 +26,13 @@ Anaphylaxis is an acute, life-threatening hypersensitivity disorder defined as a
 
 **Objectives:**
 
-  * Identify the common inciting sources in the etiology of anaphylaxis.
+- Identify the common inciting sources in the etiology of anaphylaxis.
 
-  * Assess the IgE-mediated immune response in the pathophysiology of anaphylaxis.
+- Assess the IgE-mediated immune response in the pathophysiology of anaphylaxis.
 
-  * Evaluate the clinical criteria used in the evaluation of anaphylaxis.
+- Evaluate the clinical criteria used in the evaluation of anaphylaxis.
 
-  * Communicate the importance of improving care coordination among interprofessional team members to improve outcomes in patients with anaphylaxis.
+- Communicate the importance of improving care coordination among interprofessional team members to improve outcomes in patients with anaphylaxis.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17514&utm_source=pubmed&utm_campaign=reviews&utm_content=17514)
 
@@ -53,15 +52,15 @@ The world population is estimated to have a lifetime prevalence of 1% to 3%, tho
 
 Anaphylaxis is typically an IgE-mediated (type 1) hypersensitivity reaction that involves the release of numerous chemical mediators from the degranulation of basophils and mast cells after re-exposure to a specific antigen. IgE crosslinking and resultant aggregation of high-affinity receptors induce the rapid release of stored chemical mediators. These chemical mediators include histamine, tryptase, carboxypeptidase A, and proteoglycans. Via activation of phospholipase A, cyclooxygenases, and lipoxygenases, they then form arachidonic acid metabolites, including leukotrienes, prostaglandins, and platelet-activating factors.[10][11] The inflammatory response is then mediated by TNF-alpha (tumor necrosis factor) as a preformed and late-phase reactant. The detailed physiology of these chemical mediators is as follows:
 
-  * Histamine increases vascular permeability and vasodilation, leading to tissue hypoperfusion. The body responds to these changes by increasing heart rate and cardiac contraction.
+- Histamine increases vascular permeability and vasodilation, leading to tissue hypoperfusion. The body responds to these changes by increasing heart rate and cardiac contraction.
 
-  * Prostaglandin D functions as a bronchoconstrictor, simultaneously constricting cardiac and pulmonary arteries. It also potentiates peripheral vasodilation, contributing to the hypoperfusion of vital organs.
+- Prostaglandin D functions as a bronchoconstrictor, simultaneously constricting cardiac and pulmonary arteries. It also potentiates peripheral vasodilation, contributing to the hypoperfusion of vital organs.
 
-  * Leukotrienes add to bronchoconstriction and vascular permeability and induce airway remodeling.
+- Leukotrienes add to bronchoconstriction and vascular permeability and induce airway remodeling.
 
-  * The platelet activation factor also acts as a bronchoconstrictor and increases vascular permeability.
+- The platelet activation factor also acts as a bronchoconstrictor and increases vascular permeability.
 
-  * TNF-alpha activates neutrophils (as part of stress response leukocytosis) and increases chemokine synthesis.
+- TNF-alpha activates neutrophils (as part of stress response leukocytosis) and increases chemokine synthesis.
 
 ## Histopathology
 
@@ -77,25 +76,25 @@ The first hour is not the only time of concern, however, as anaphylactic reactio
 
 Diagnosing anaphylaxis is clinical; thus, laboratory studies or other diagnostics are unnecessary. Most anaphylactic deaths occur within the first hour after antigen exposure. Rapid recognition and action are imperative.[2][12][13] Consideration for anaphylaxis is appropriate in the presence of 2 or more involved systems, even in the absence of airway involvement or hypotension (see above). A consensus criterion has been constructed to improve clinical recognition to prevent delayed treatment, as this poses a great risk to patients. See **Image.** Anaphylaxis.
 
-**Clinical Criteria for Anaphylaxis (1 of the following with onset within minutes to hours)***
+**Clinical Criteria for Anaphylaxis (1 of the following with onset within minutes to hours)**\*
 
 _Unknown exposure to an antigen yet rapidly developing urticaria or other skin/mucosal layer symptoms associa_ _ted with any 1 of the following:_
 
-  1. Respiratory symptoms (dyspnea, wheezing, stridor, hypoxemia, inability to maintain patency; persistent cough or throat clearing can be heralding symptoms) 
+1. Respiratory symptoms (dyspnea, wheezing, stridor, hypoxemia, inability to maintain patency; persistent cough or throat clearing can be heralding symptoms)
 
-  2. Hypotension (systolic less than 90 mm Hg or a decrease of greater than 30% from baseline)
+1. Hypotension (systolic less than 90 mm Hg or a decrease of greater than 30% from baseline)
 
-  3. Signs or symptoms of end-organ dysfunction, for example, hypotonia, syncope, incontinence
+1. Signs or symptoms of end-organ dysfunction, for example, hypotonia, syncope, incontinence
 
 _Likely exposure to an antigen and symptoms involving any 2 of the following body systems:_
 
-  1. Integumentary symptoms: Skin or mucosal layer (rash, pruritus, erythema, hives, swelling of the face, lips, tongue, or uvula). See **Image.** Anaphylaxis, Hives.
+1. Integumentary symptoms: Skin or mucosal layer (rash, pruritus, erythema, hives, swelling of the face, lips, tongue, or uvula). See **Image.** Anaphylaxis, Hives.
 
-  2. Respiratory symptoms: Dyspnea, wheeze, stridor, hypoxemia, inability to maintain patency; persistent cough or throat clearing can be heralding symptom
+1. Respiratory symptoms: Dyspnea, wheeze, stridor, hypoxemia, inability to maintain patency; persistent cough or throat clearing can be heralding symptom
 
-  3. Hypotension: Systolic less than 90 mm Hg or a decrease of greater than 30% from baseline
+1. Hypotension: Systolic less than 90 mm Hg or a decrease of greater than 30% from baseline
 
-  4. Gastrointestinal symptoms: Persistent painful cramps or vomiting
+1. Gastrointestinal symptoms: Persistent painful cramps or vomiting
 
 Known exposure to an antigen and hypotension (systolic less than 90 mm Hg or a decrease of greater than 30% from baseline). It is not required to meet these criteria to treat; it is only to serve as a guide for diagnosis.
 
@@ -129,7 +128,7 @@ When anaphylaxis is diagnosed, co-treatment is often initiated with steroids, an
 
 **Corticosteroids**
 
-Corticosteroids are given to reduce the length or biphasic response of anaphylaxis. There is minimal literature to support this use, specifically in anaphylaxis, but it has been proven effective in reactive airway diseases. Therefore, the use, dosages, and proposed mechanism of action mimic those of airway management protocols. 
+Corticosteroids are given to reduce the length or biphasic response of anaphylaxis. There is minimal literature to support this use, specifically in anaphylaxis, but it has been proven effective in reactive airway diseases. Therefore, the use, dosages, and proposed mechanism of action mimic those of airway management protocols.
 
 Methylprednisolone (80 to 125 mg IV) or hydrocortisone (250 to 500 mg IV) are the accepted treatments during the acute phase, after which oral treatment of prednisone (40 to 60 mg daily or divided twice per day) is continued for 3 to 5 days. Again, if the source is unknown or there is a concern for a prolonged time before physician follow-up, a steroid taper of up to 2 weeks may be provided. Mineralocorticoid activity is responsible for fluid retention; dexamethasone and methylprednisolone are the preferred agents for those at risk as they induce the least mineralocorticoid effect.
 
@@ -159,31 +158,31 @@ A NAD-dependent deacetylase suppresses protein tyrosine phosphatase, receptor ty
 
 The differential diagnoses for anaphylaxis include:
 
-  * Angioedema
+- Angioedema
 
-  * Anxiety
+- Anxiety
 
-  * Arrhythmias
+- Arrhythmias
 
-  * Asthma
+- Asthma
 
-  * Carcinoid syndrome
+- Carcinoid syndrome
 
-  * Epiglottitis
+- Epiglottitis
 
-  * Foreign-body airway obstruction
+- Foreign-body airway obstruction
 
-  * Gastroenteritis
+- Gastroenteritis
 
-  * Mastocytosis
+- Mastocytosis
 
-  * Myocardial ischemia/infarction
+- Myocardial ischemia/infarction
 
-  * Seizure
+- Seizure
 
-  * Vasovagal episode
+- Vasovagal episode
 
-  * Vocal cord dysfunction
+- Vocal cord dysfunction
 
 ## Prognosis
 
@@ -195,17 +194,17 @@ Along with the prescription for an epinephrine pen, antihistamines and corticost
 
 The main complications which can occur following an anaphylactic reaction include the following:
 
-  * Wheeze
+- Wheeze
 
-  * Stridor
+- Stridor
 
-  * Hypoxemia
+- Hypoxemia
 
-  * Hypotension
+- Hypotension
 
-  * End-organ dysfunction and 
+- End-organ dysfunction and
 
-  * Death
+- Death
 
 ## Deterrence and Patient Education
 
@@ -215,7 +214,7 @@ The patients should be provided with multiple epinephrine autoinjectors with 24-
 
 There is no absolute contraindication to treatment with epinephrine in anaphylaxis. Treatment includes airway, decontamination, epinephrine 1:1000 0.3 to 0.5 mg IM, and a fluid bolus. Then start secondary treatments. Avoidance of inciting agents is the key to prevention. Patients should always be provided with an epinephrine auto-injector and instructed on how to use it. Patients should also be given outpatient follow-up with an allergist and immunologist to assist in the determination of inciting agents and prevention of future reoccurrences. Once the patient is stabilized, short-term desensitization procedures can be undertaken.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 **An Evidence-based Approach to Anaphylaxis**
 
@@ -229,140 +228,114 @@ Despite awareness of the seriousness of anaphylaxis, treatment of anaphylaxis is
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17514&utm_source=pubmed&utm_campaign=reviews&utm_content=17514)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17514&utm_source=pubmed&utm_campaign=reviews&utm_content=17514)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/allergy/anaphylaxis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17514)
+- [Click here for a simplified version.](https://mdsearchlight.com/allergy/anaphylaxis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17514)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17514/?utm_source=pubmed&utm_campaign=comments&utm_content=17514)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17514/?utm_source=pubmed&utm_campaign=comments&utm_content=17514)
 
 [![Anaphylaxis](/books/NBK482124/bin/Anaphylaxis__chart.gif)](/books/NBK482124/figure/article-17514.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK482124/figure/article-17514.image.f1/?report=objectonly)
 
-Anaphylaxis. This illustration depicts anaphylaxis in different body areas, including hives, difficulty breathing, increased heart rate, and anxiety. Illustrated by C Rowe 
+Anaphylaxis. This illustration depicts anaphylaxis in different body areas, including hives, difficulty breathing, increased heart rate, and anxiety. Illustrated by C Rowe
 
 [![Anaphylaxis, Hives](/books/NBK482124/bin/Anaphylaxis__Hives.gif)](/books/NBK482124/figure/article-17514.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK482124/figure/article-17514.image.f2/?report=objectonly)
 
-Anaphylaxis, Hives. This image depicts hives due to anaphylaxis on the skin. Contributed by C Rowe 
+Anaphylaxis, Hives. This image depicts hives due to anaphylaxis on the skin. Contributed by C Rowe
 
 ## References
 
 1.
-    
 
-Okubo Y, Nochioka K, Testa MA. Nationwide Survey of Hospitalization Due to Pediatric Food-Induced Anaphylaxis in the United States. Pediatr Emerg Care. 2019 Nov;35(11):769-773. [[PubMed: 30113437](https://pubmed.ncbi.nlm.nih.gov/30113437)]
+Okubo Y, Nochioka K, Testa MA. Nationwide Survey of Hospitalization Due to Pediatric Food-Induced Anaphylaxis in the United States. Pediatr Emerg Care. 2019 Nov;35(11):769-773. \[[PubMed: 30113437](https://pubmed.ncbi.nlm.nih.gov/30113437)\]
 
 2.
-    
 
-Castilano A, Sternard B, Cummings ED, Shi R, Arnold T, Bahna SL. Pitfalls in anaphylaxis diagnosis and management at a university emergency department. Allergy Asthma Proc. 2018 Jul 01;39(4):316-321. [[PubMed: 30095397](https://pubmed.ncbi.nlm.nih.gov/30095397)]
+Castilano A, Sternard B, Cummings ED, Shi R, Arnold T, Bahna SL. Pitfalls in anaphylaxis diagnosis and management at a university emergency department. Allergy Asthma Proc. 2018 Jul 01;39(4):316-321. \[[PubMed: 30095397](https://pubmed.ncbi.nlm.nih.gov/30095397)\]
 
 3.
-    
 
-Akenroye AT, Ajala A, Azimi-Nekoo E, de Vos GS. Prevalence of anaphylaxis among adults admitted to critical care for severe asthma exacerbation. Emerg Med J. 2018 Oct;35(10):623-625. [[PubMed: 30093380](https://pubmed.ncbi.nlm.nih.gov/30093380)]
+Akenroye AT, Ajala A, Azimi-Nekoo E, de Vos GS. Prevalence of anaphylaxis among adults admitted to critical care for severe asthma exacerbation. Emerg Med J. 2018 Oct;35(10):623-625. \[[PubMed: 30093380](https://pubmed.ncbi.nlm.nih.gov/30093380)\]
 
 4.
-    
 
-Pattanaik D, Lieberman P, Lieberman J, Pongdee T, Keene AT. The changing face of anaphylaxis in adults and adolescents. Ann Allergy Asthma Immunol. 2018 Nov;121(5):594-597. [[PubMed: 30071303](https://pubmed.ncbi.nlm.nih.gov/30071303)]
+Pattanaik D, Lieberman P, Lieberman J, Pongdee T, Keene AT. The changing face of anaphylaxis in adults and adolescents. Ann Allergy Asthma Immunol. 2018 Nov;121(5):594-597. \[[PubMed: 30071303](https://pubmed.ncbi.nlm.nih.gov/30071303)\]
 
 5.
-    
 
-Mota I, Gaspar Â, Benito-Garcia F, Correia M, Chambel M, Morais-Almeida M. Drug-induced anaphylaxis: seven-year single-center survey. Eur Ann Allergy Clin Immunol. 2018 Sep;50(5):211-216. [[PubMed: 30028111](https://pubmed.ncbi.nlm.nih.gov/30028111)]
+Mota I, Gaspar Â, Benito-Garcia F, Correia M, Chambel M, Morais-Almeida M. Drug-induced anaphylaxis: seven-year single-center survey. Eur Ann Allergy Clin Immunol. 2018 Sep;50(5):211-216. \[[PubMed: 30028111](https://pubmed.ncbi.nlm.nih.gov/30028111)\]
 
 6.
-    
 
-Yue D, Ciccolini A, Avilla E, Waserman S. Food allergy and anaphylaxis. J Asthma Allergy. 2018;11:111-120. [[PMC free article: PMC6016602](/pmc/articles/PMC6016602/)] [[PubMed: 29950871](https://pubmed.ncbi.nlm.nih.gov/29950871)]
+Yue D, Ciccolini A, Avilla E, Waserman S. Food allergy and anaphylaxis. J Asthma Allergy. 2018;11:111-120. \[[PMC free article: PMC6016602](/pmc/articles/PMC6016602/)\] \[[PubMed: 29950871](https://pubmed.ncbi.nlm.nih.gov/29950871)\]
 
 7.
-    
 
-Parrish CP, Kim H. Food-Induced Anaphylaxis: an Update. Curr Allergy Asthma Rep. 2018 Jun 14;18(8):41. [[PubMed: 29904820](https://pubmed.ncbi.nlm.nih.gov/29904820)]
+Parrish CP, Kim H. Food-Induced Anaphylaxis: an Update. Curr Allergy Asthma Rep. 2018 Jun 14;18(8):41. \[[PubMed: 29904820](https://pubmed.ncbi.nlm.nih.gov/29904820)\]
 
 8.
-    
 
-Protudjer JLP, Olén O, Vetander M, Kull I, Melén E, van Hage M, Wickman M, Bergström A. Milk-Related Symptoms and Immunoglobulin E Reactivity in Swedish Children from Early Life to Adolescence. Nutrients. 2018 May 21;10(5) [[PMC free article: PMC5986530](/pmc/articles/PMC5986530/)] [[PubMed: 29883392](https://pubmed.ncbi.nlm.nih.gov/29883392)]
+Protudjer JLP, Olén O, Vetander M, Kull I, Melén E, van Hage M, Wickman M, Bergström A. Milk-Related Symptoms and Immunoglobulin E Reactivity in Swedish Children from Early Life to Adolescence. Nutrients. 2018 May 21;10(5) \[[PMC free article: PMC5986530](/pmc/articles/PMC5986530/)\] \[[PubMed: 29883392](https://pubmed.ncbi.nlm.nih.gov/29883392)\]
 
 9.
-    
 
-Anagnostou K. Anaphylaxis in Children: Epidemiology, Risk Factors and Management. Curr Pediatr Rev. 2018;14(3):180-186. [[PubMed: 29732976](https://pubmed.ncbi.nlm.nih.gov/29732976)]
+Anagnostou K. Anaphylaxis in Children: Epidemiology, Risk Factors and Management. Curr Pediatr Rev. 2018;14(3):180-186. \[[PubMed: 29732976](https://pubmed.ncbi.nlm.nih.gov/29732976)\]
 
 10.
-    
 
-Jimenez-Rodriguez TW, Garcia-Neuer M, Alenazy LA, Castells M. Anaphylaxis in the 21st century: phenotypes, endotypes, and biomarkers. J Asthma Allergy. 2018;11:121-142. [[PMC free article: PMC6016596](/pmc/articles/PMC6016596/)] [[PubMed: 29950872](https://pubmed.ncbi.nlm.nih.gov/29950872)]
+Jimenez-Rodriguez TW, Garcia-Neuer M, Alenazy LA, Castells M. Anaphylaxis in the 21st century: phenotypes, endotypes, and biomarkers. J Asthma Allergy. 2018;11:121-142. \[[PMC free article: PMC6016596](/pmc/articles/PMC6016596/)\] \[[PubMed: 29950872](https://pubmed.ncbi.nlm.nih.gov/29950872)\]
 
 11.
-    
 
-Valenta R, Karaulov A, Niederberger V, Gattinger P, van Hage M, Flicker S, Linhart B, Campana R, Focke-Tejkl M, Curin M, Eckl-Dorna J, Lupinek C, Resch-Marat Y, Vrtala S, Mittermann I, Garib V, Khaitov M, Valent P, Pickl WF. Molecular Aspects of Allergens and Allergy. Adv Immunol. 2018;138:195-256. [[PubMed: 29731005](https://pubmed.ncbi.nlm.nih.gov/29731005)]
+Valenta R, Karaulov A, Niederberger V, Gattinger P, van Hage M, Flicker S, Linhart B, Campana R, Focke-Tejkl M, Curin M, Eckl-Dorna J, Lupinek C, Resch-Marat Y, Vrtala S, Mittermann I, Garib V, Khaitov M, Valent P, Pickl WF. Molecular Aspects of Allergens and Allergy. Adv Immunol. 2018;138:195-256. \[[PubMed: 29731005](https://pubmed.ncbi.nlm.nih.gov/29731005)\]
 
 12.
-    
 
-Graudins LV, Trubiano JA, Zubrinich CM, Elliott AS, Aung AK. Medication-related anaphylaxis treated in hospital: Agents implicated, patient outcomes, and management lessons. Pharmacoepidemiol Drug Saf. 2018 Sep;27(9):1029-1033. [[PubMed: 30051944](https://pubmed.ncbi.nlm.nih.gov/30051944)]
+Graudins LV, Trubiano JA, Zubrinich CM, Elliott AS, Aung AK. Medication-related anaphylaxis treated in hospital: Agents implicated, patient outcomes, and management lessons. Pharmacoepidemiol Drug Saf. 2018 Sep;27(9):1029-1033. \[[PubMed: 30051944](https://pubmed.ncbi.nlm.nih.gov/30051944)\]
 
 13.
-    
 
-Aun MV, Kalil J, Giavina-Bianchi P. Adults and children with anaphylaxis in the emergency room: why it is not recognized? Curr Opin Allergy Clin Immunol. 2018 Oct;18(5):377-381. [[PubMed: 30020259](https://pubmed.ncbi.nlm.nih.gov/30020259)]
+Aun MV, Kalil J, Giavina-Bianchi P. Adults and children with anaphylaxis in the emergency room: why it is not recognized? Curr Opin Allergy Clin Immunol. 2018 Oct;18(5):377-381. \[[PubMed: 30020259](https://pubmed.ncbi.nlm.nih.gov/30020259)\]
 
 14.
-    
 
-Navaradnam P, Suganthan N, Kumanan T, Sujanitha V, Mayorathan U. Kounis Syndrome and Multiorgan Failure Following Multiple Wasp Stings. Cureus. 2021 Apr 21;13(4):e14606. [[PMC free article: PMC8139607](/pmc/articles/PMC8139607/)] [[PubMed: 34040907](https://pubmed.ncbi.nlm.nih.gov/34040907)]
+Navaradnam P, Suganthan N, Kumanan T, Sujanitha V, Mayorathan U. Kounis Syndrome and Multiorgan Failure Following Multiple Wasp Stings. Cureus. 2021 Apr 21;13(4):e14606. \[[PMC free article: PMC8139607](/pmc/articles/PMC8139607/)\] \[[PubMed: 34040907](https://pubmed.ncbi.nlm.nih.gov/34040907)\]
 
 15.
-    
 
-De Feo G, Parente R, Triggiani M. Pitfalls in anaphylaxis. Curr Opin Allergy Clin Immunol. 2018 Oct;18(5):382-386. [[PubMed: 30028728](https://pubmed.ncbi.nlm.nih.gov/30028728)]
+De Feo G, Parente R, Triggiani M. Pitfalls in anaphylaxis. Curr Opin Allergy Clin Immunol. 2018 Oct;18(5):382-386. \[[PubMed: 30028728](https://pubmed.ncbi.nlm.nih.gov/30028728)\]
 
 16.
-    
 
-Cohen N, Capua T, Pivko D, Ben-Shoshan M, Benor S, Rimon A. Trends in the diagnosis and management of anaphylaxis in a tertiary care pediatric emergency department. Ann Allergy Asthma Immunol. 2018 Sep;121(3):348-352. [[PubMed: 29981442](https://pubmed.ncbi.nlm.nih.gov/29981442)]
+Cohen N, Capua T, Pivko D, Ben-Shoshan M, Benor S, Rimon A. Trends in the diagnosis and management of anaphylaxis in a tertiary care pediatric emergency department. Ann Allergy Asthma Immunol. 2018 Sep;121(3):348-352. \[[PubMed: 29981442](https://pubmed.ncbi.nlm.nih.gov/29981442)\]
 
 17.
-    
 
-Gallagher JL, Rivera RD, Van Shepard K, Roushan T, Ahsan G, Ahamed SI, Chiu A, Jurken M, Simpson PM, Nugent M, Gobin KS, Wen CKF, Eldredge CE. Life-Threatening Allergies: Using a Patient-Engaged Approach. Telemed J E Health. 2019 Apr;25(4):319-325. [[PubMed: 29969372](https://pubmed.ncbi.nlm.nih.gov/29969372)]
+Gallagher JL, Rivera RD, Van Shepard K, Roushan T, Ahsan G, Ahamed SI, Chiu A, Jurken M, Simpson PM, Nugent M, Gobin KS, Wen CKF, Eldredge CE. Life-Threatening Allergies: Using a Patient-Engaged Approach. Telemed J E Health. 2019 Apr;25(4):319-325. \[[PubMed: 29969372](https://pubmed.ncbi.nlm.nih.gov/29969372)\]
 
 18.
-    
 
-Jang HY, Ha DH, Rah SY, Lee DH, Lee SM, Park BH. Sirtuin 6 is a negative regulator of FcεRI signaling and anaphylactic responses. J Allergy Clin Immunol. 2022 Jan;149(1):156-167.e7. [[PubMed: 34051221](https://pubmed.ncbi.nlm.nih.gov/34051221)]
+Jang HY, Ha DH, Rah SY, Lee DH, Lee SM, Park BH. Sirtuin 6 is a negative regulator of FcεRI signaling and anaphylactic responses. J Allergy Clin Immunol. 2022 Jan;149(1):156-167.e7. \[[PubMed: 34051221](https://pubmed.ncbi.nlm.nih.gov/34051221)\]
 
 19.
-    
 
-Lindor RA, McMahon EM, Wood JP, Sadosty AT, Boie ET, Campbell RL. Anaphylaxis-related Malpractice Lawsuits. West J Emerg Med. 2018 Jul;19(4):693-700. [[PMC free article: PMC6040909](/pmc/articles/PMC6040909/)] [[PubMed: 30013706](https://pubmed.ncbi.nlm.nih.gov/30013706)]
+Lindor RA, McMahon EM, Wood JP, Sadosty AT, Boie ET, Campbell RL. Anaphylaxis-related Malpractice Lawsuits. West J Emerg Med. 2018 Jul;19(4):693-700. \[[PMC free article: PMC6040909](/pmc/articles/PMC6040909/)\] \[[PubMed: 30013706](https://pubmed.ncbi.nlm.nih.gov/30013706)\]
 
 20.
-    
 
-Fineman SM. Optimal treatment of anaphylaxis: antihistamines versus epinephrine. Postgrad Med. 2014 Jul;126(4):73-81. [[PubMed: 25141245](https://pubmed.ncbi.nlm.nih.gov/25141245)]
+Fineman SM. Optimal treatment of anaphylaxis: antihistamines versus epinephrine. Postgrad Med. 2014 Jul;126(4):73-81. \[[PubMed: 25141245](https://pubmed.ncbi.nlm.nih.gov/25141245)\]
 
 21.
-    
 
-Leatherman BD. Anaphylaxis in the allergy practice. Int Forum Allergy Rhinol. 2014 Sep;4 Suppl 2:S60-5. [[PubMed: 25182358](https://pubmed.ncbi.nlm.nih.gov/25182358)]
+Leatherman BD. Anaphylaxis in the allergy practice. Int Forum Allergy Rhinol. 2014 Sep;4 Suppl 2:S60-5. \[[PubMed: 25182358](https://pubmed.ncbi.nlm.nih.gov/25182358)\]
 
 22.
-    
 
-Rubin T, Clayton J, Adams D, Jou H, Vohra S. Systematic review of outcome measures in trials of pediatric anaphylaxis treatment. BMC Pediatr. 2014 Jun 20;14:158. [[PMC free article: PMC4088301](/pmc/articles/PMC4088301/)] [[PubMed: 24950840](https://pubmed.ncbi.nlm.nih.gov/24950840)]
-
-    
+Rubin T, Clayton J, Adams D, Jou H, Vohra S. Systematic review of outcome measures in trials of pediatric anaphylaxis treatment. BMC Pediatr. 2014 Jun 20;14:158. \[[PMC free article: PMC4088301](/pmc/articles/PMC4088301/)\] \[[PubMed: 24950840](https://pubmed.ncbi.nlm.nih.gov/24950840)\]
 
 **Disclosure:** Kevin McLendon declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Britni Sternard declares no relevant financial relationships with ineligible companies.

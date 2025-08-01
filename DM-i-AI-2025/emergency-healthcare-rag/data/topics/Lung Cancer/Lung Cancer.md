@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24489/
-scraped_date: 2025-07-22 12:40:08 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24489/ scraped_date: 2025-07-22 12:40:08 UTC
 
 # Lung Cancer
 
@@ -25,13 +24,13 @@ Lung cancer or bronchogenic carcinoma refers to tumors originating in the lung p
 
 **Objectives:**
 
-  * Describe the pathophysiology of lung cancer.
+- Describe the pathophysiology of lung cancer.
 
-  * Review the causes of lung cancer.
+- Review the causes of lung cancer.
 
-  * Summarize the different types of lung cancers.
+- Summarize the different types of lung cancers.
 
-  * Outline the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by lung cancer.
+- Outline the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by lung cancer.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24489&utm_source=pubmed&utm_campaign=reviews&utm_content=24489)
 
@@ -53,45 +52,45 @@ Historically, the lung cancer epidemic seems to involve the developed world only
 
 ## Pathophysiology
 
-The pathophysiology of lung cancer is very complex and incompletely understood. It is hypothesized that repeated exposure to carcinogens, such as cigarette smoke leads to dysplasia of lung epithelium. If the exposure continues, it leads to genetic mutations and affects protein synthesis.[12] This, in turn, disrupts the cell cycle and promotes carcinogenesis. The most common genetic mutations responsible for lung cancer development are _MYC_ , _BCL2_ , and  _p53_ for small cell lung cancer (SCLC) and _EGFR_ , _KRAS_ ,__ and _p16_ for non-small cell lung cancer (NSCLC).[13][14]
+The pathophysiology of lung cancer is very complex and incompletely understood. It is hypothesized that repeated exposure to carcinogens, such as cigarette smoke leads to dysplasia of lung epithelium. If the exposure continues, it leads to genetic mutations and affects protein synthesis.[12] This, in turn, disrupts the cell cycle and promotes carcinogenesis. The most common genetic mutations responsible for lung cancer development are _MYC_ , _BCL2_ , and _p53_ for small cell lung cancer (SCLC) and _EGFR_ , _KRAS_ ,\_\_ and _p16_ for non-small cell lung cancer (NSCLC).[13][14]
 
 Histopathological classification of lung cancers is based on cellular and molecular subtypes, which is an essential part of diagnosing and managing lung cancers. The 2021 World Health Organization (WHO) classification system of lung tumors divides the lung cancers as follows:
 
-  * Precursor glandular lesions
+- Precursor glandular lesions
 
-  * Adenocarcinomas
+- Adenocarcinomas
 
-  * Adenosquamous carcinomas
+- Adenosquamous carcinomas
 
-  * Squamous precursor lesions
+- Squamous precursor lesions
 
-  * Squamous cell carcinomas
+- Squamous cell carcinomas
 
-  * Large cell carcinomas
+- Large cell carcinomas
 
-  * Sarcomatoid carcinomas
+- Sarcomatoid carcinomas
 
-  * Lung neuroendocrine neoplasms
+- Lung neuroendocrine neoplasms
 
-  * Salivary gland-type tumors
+- Salivary gland-type tumors
 
-  * Neuroendocrine tumors
+- Neuroendocrine tumors
 
-  * Neuroendocrine carcinomas
+- Neuroendocrine carcinomas
 
-  * And other epithelial tumors
+- And other epithelial tumors
 
-According to the WHO, identifying histologic features, measuring the depth of invasion, and mode of spread is of prognostic value. For example, they state that tumor spread through air spaces is associated with a higher recurrence rate after limited resections and should be reported on pathological evaluation. Also, the previously described clear cell, rhabdoid, and signet ring subtypes have been discontinued by the most recent WHO classification as they appear to be cytologic features that can occur in any adenocarcinomas. The WHO classification places significant emphasis on immunohistochemical staining to classify cancers that may not have typical cytologic features on light microscopy. In the 2015 WHO classification system, poorly differentiated carcinomas were reclassified as squamous cell carcinomas if they had p40 expression; as adenocarcinomas with solid subtype if they had thyroid transcription factor 1 expression; and neuroendocrine carcinomas if they had chromogranin and synaptophysin positivity. 
+According to the WHO, identifying histologic features, measuring the depth of invasion, and mode of spread is of prognostic value. For example, they state that tumor spread through air spaces is associated with a higher recurrence rate after limited resections and should be reported on pathological evaluation. Also, the previously described clear cell, rhabdoid, and signet ring subtypes have been discontinued by the most recent WHO classification as they appear to be cytologic features that can occur in any adenocarcinomas. The WHO classification places significant emphasis on immunohistochemical staining to classify cancers that may not have typical cytologic features on light microscopy. In the 2015 WHO classification system, poorly differentiated carcinomas were reclassified as squamous cell carcinomas if they had p40 expression; as adenocarcinomas with solid subtype if they had thyroid transcription factor 1 expression; and neuroendocrine carcinomas if they had chromogranin and synaptophysin positivity.
 
 **Precursor Glandular Lesions**
 
-These include atypical adenomatous hyperplasia (AAH) and adenocarcinoma in situ. AAH is a preinvasive lesion for lung adenocarcinoma and generally measures 5 mm or less. Adenocarcinoma in situ can be mucinous or nonmucinous and is generally a localized lesion of less than or equal to 3 cm. It shows a "lepidic" growth pattern defined as growth-restricted along the alveolar structures. It is noninvasive and shows intact alveolar septae. 
+These include atypical adenomatous hyperplasia (AAH) and adenocarcinoma in situ. AAH is a preinvasive lesion for lung adenocarcinoma and generally measures 5 mm or less. Adenocarcinoma in situ can be mucinous or nonmucinous and is generally a localized lesion of less than or equal to 3 cm. It shows a "lepidic" growth pattern defined as growth-restricted along the alveolar structures. It is noninvasive and shows intact alveolar septae.
 
 **Adenocarcinoma**
 
-Adenocarcinoma pathology consists of either neoplastic gland formation, pneumocyte marker expression (thyroid transcription factor 1 (TTF-1) with or without napsin expression, or intracytoplasmic mucin. It is further classified based on the extent and architecture of the neoplastic gland formation as mucinous or nonmucinous. Acinar, papillary, micropapillary, lepidic, and solid are nonmucinous subtypes. Pathological identification of these subtypes is important for prognosis. Solid, micropapillary, and cribriform (a subtype of acinar nonmucinous adenocarcinoma) patterns have adverse prognostic significance.[15] Although mucinous adenocarcinomas can have papillary, micropapillary, solid, and cribriform architecture, the WHO does not make any grading recommendations for mucinous carcinomas based on the growth patterns in a tumor. Other less frequent forms of adenocarcinoma include colloid, enteric-like, lymphoepithelial, and fetal. 
+Adenocarcinoma pathology consists of either neoplastic gland formation, pneumocyte marker expression (thyroid transcription factor 1 (TTF-1) with or without napsin expression, or intracytoplasmic mucin. It is further classified based on the extent and architecture of the neoplastic gland formation as mucinous or nonmucinous. Acinar, papillary, micropapillary, lepidic, and solid are nonmucinous subtypes. Pathological identification of these subtypes is important for prognosis. Solid, micropapillary, and cribriform (a subtype of acinar nonmucinous adenocarcinoma) patterns have adverse prognostic significance.[15] Although mucinous adenocarcinomas can have papillary, micropapillary, solid, and cribriform architecture, the WHO does not make any grading recommendations for mucinous carcinomas based on the growth patterns in a tumor. Other less frequent forms of adenocarcinoma include colloid, enteric-like, lymphoepithelial, and fetal.
 
-Minimally invasive adenocarcinoma (MIA) is a small, solitary adenocarcinoma less than or equal to 3 cm with minimal invasion (less than 5 mm) and a predominant lepidic growth pattern, resembling other similar precursor glandular lesions. If the invasion is greater than 5 mm, it is defined as lepidic-predominant adenocarcinoma. Invasive mucinous adenocarcinoma, previously described as mucinous bronchioloalveolar carcinoma, comprises mucinous lesions that cannot be classified as MIA. If more than 10% of mucinous and nonmucinous growth patterns are present, the lesion should be classified as mixed adenocarcinoma. 
+Minimally invasive adenocarcinoma (MIA) is a small, solitary adenocarcinoma less than or equal to 3 cm with minimal invasion (less than 5 mm) and a predominant lepidic growth pattern, resembling other similar precursor glandular lesions. If the invasion is greater than 5 mm, it is defined as lepidic-predominant adenocarcinoma. Invasive mucinous adenocarcinoma, previously described as mucinous bronchioloalveolar carcinoma, comprises mucinous lesions that cannot be classified as MIA. If more than 10% of mucinous and nonmucinous growth patterns are present, the lesion should be classified as mixed adenocarcinoma.
 
 **Adenosquamous Carcinoma**
 
@@ -107,7 +106,7 @@ Large cell carcinoma (LCC) is a malignant epithelial neoplasm that does not have
 
 **Sarcomatoid Carcinoma**
 
-These are rare carcinomas that exhibit malignant epithelial components and features that suggest sarcomas. Subtypes include pleomorphic carcinoma, carcinosarcoma, and pulmonary blastoma. 
+These are rare carcinomas that exhibit malignant epithelial components and features that suggest sarcomas. Subtypes include pleomorphic carcinoma, carcinosarcoma, and pulmonary blastoma.
 
 **Small Cell Carcinoma**
 
@@ -123,11 +122,11 @@ Pleural involvement in lung cancer can manifest as pleural thickening/nodules or
 
 Superior vena cava syndrome with dilated neck veins, edema of the face, neck, and upper extremities, and a plethoric appearance is a common feature of small cell lung cancer. It might be the primary presentation of the disease. The chest radiograph will show widening of the mediastinum or a right hilar mass.[24] As stated above, lung cancers in the superior sulcus present as Pancoast syndrome. This presents as shoulder pain, Horner syndrome, and evidence of bony destruction, with atrophy of hand muscles.
 
-Metastasis from lung cancer to bone is frequently symptomatic, and patients may present with bone pain at the site of metastasis in the setting of elevated serum alkaline phosphatase and hypercalcemia. Up to 20% of the patients with non-small cell lung cancer may have bone pain secondary to metastasis on initial presentation;[25] whereas the percentage is as high as 30 to 40% in patients with small-cell lung cancer.[26] Imaging usually reveals osteolytic lesions with vertebral bodies as the most common site of metastasis. Adrenal metastases also occur in lung cancer, but they are rarely symptomatic and are usually seen on staging. However, not all adrenal lesions are malignant lesions, and positron emission tomography (PET) scanning is recommended to differentiate benign from malignant adrenal lesions.[27] Brain metastasis is another common feature of lung cancer in small cell lung cancers (SCLC) and non-small cell lung cancers (NSCLC). In SCLC, brain metastases may be present in as high as 20 to 30% of the patients at diagnosis.[28] Other common sites of metastases in lung cancer include the liver, which is usually only symptomatic in advanced disease. 
+Metastasis from lung cancer to bone is frequently symptomatic, and patients may present with bone pain at the site of metastasis in the setting of elevated serum alkaline phosphatase and hypercalcemia. Up to 20% of the patients with non-small cell lung cancer may have bone pain secondary to metastasis on initial presentation;[25] whereas the percentage is as high as 30 to 40% in patients with small-cell lung cancer.[26] Imaging usually reveals osteolytic lesions with vertebral bodies as the most common site of metastasis. Adrenal metastases also occur in lung cancer, but they are rarely symptomatic and are usually seen on staging. However, not all adrenal lesions are malignant lesions, and positron emission tomography (PET) scanning is recommended to differentiate benign from malignant adrenal lesions.[27] Brain metastasis is another common feature of lung cancer in small cell lung cancers (SCLC) and non-small cell lung cancers (NSCLC). In SCLC, brain metastases may be present in as high as 20 to 30% of the patients at diagnosis.[28] Other common sites of metastases in lung cancer include the liver, which is usually only symptomatic in advanced disease.
 
 **Paraneoplastic Syndromes Associated with Lung Cancer**
 
-Symptomatic hypercalcemia secondary to lung cancer may be due to secretion of the parathyroid hormone-related protein or due to extensive bony metastases. They present with anorexia, nausea, constipation, and lethargy as typical symptoms of hypercalcemia and have an overall poor prognosis as they tend to be associated with advanced disease.[29] The syndrome of inappropriate antidiuretic hormone secretion (SIADH) is associated with SCLC and presents with symptoms of hyponatremia. 
+Symptomatic hypercalcemia secondary to lung cancer may be due to secretion of the parathyroid hormone-related protein or due to extensive bony metastases. They present with anorexia, nausea, constipation, and lethargy as typical symptoms of hypercalcemia and have an overall poor prognosis as they tend to be associated with advanced disease.[29] The syndrome of inappropriate antidiuretic hormone secretion (SIADH) is associated with SCLC and presents with symptoms of hyponatremia.
 
 Neurologic paraneoplastic syndromes are immune-mediated syndromes associated with SCLC and include Lambert-Eaton myasthenic syndrome (LEMS), encephalomyelitis, limbic encephalitis, cerebellar ataxia, sensory neuropathy, and autonomic neuropathy.[30] Ectopic adrenal corticotropin production can cause Cushing syndrome and is associated with SCLC, large cell neuroendocrine carcinoma, and carcinoid tumors of the lung, and it portends a worse prognosis.[31] Other extrapulmonary clinical manifestations of lung cancers include hypertrophic pulmonary osteoarthropathy, dermatomyositis, and polymyositis.
 
@@ -137,29 +136,29 @@ Lung cancer is the leading cause of death in both men and women. NSCLC accounts 
 
 Lung cancer evaluation can be divided as:
 
-  1. Radiological staging
+1. Radiological staging
 
-  2. Invasive staging
+1. Invasive staging
 
 **Goals of Initial Evaluation**
 
-  * Clinical extent and stage of the disease
+- Clinical extent and stage of the disease
 
-  * Optimal target site and modality of 1st tissue biopsy
+- Optimal target site and modality of 1st tissue biopsy
 
-  * Specific histologic subtypes
+- Specific histologic subtypes
 
-  * Presence of co-morbidities, para-neoplastic syndromes
+- Presence of co-morbidities, para-neoplastic syndromes
 
-  * Patient values and preferences regarding therapy
+- Patient values and preferences regarding therapy
 
 **Radiologic Staging**
 
 Every patient suspected of having lung cancer should undergo the following tests:
 
-  * Contrast-enhanced CT chest with extension to upper abdomen up to the level of adrenal glands
+- Contrast-enhanced CT chest with extension to upper abdomen up to the level of adrenal glands
 
-  * Imaging with PET or PET-CT directed at sites of potential metastasis when symptoms or focal findings are present or when chest CT shows evidence of advanced disease.
+- Imaging with PET or PET-CT directed at sites of potential metastasis when symptoms or focal findings are present or when chest CT shows evidence of advanced disease.
 
 **CT Scan**
 
@@ -169,13 +168,13 @@ The significant advantage of CT is that it provides an accurate anatomic definit
 
 CT can also identify the following:
 
-  * Tumor-related atelectasis
+- Tumor-related atelectasis
 
-  * Post obstructive pneumonitis
+- Post obstructive pneumonitis
 
-  * Intra- or extrathoracic metastatic disease
+- Intra- or extrathoracic metastatic disease
 
-  * Co-existing lung disease
+- Co-existing lung disease
 
 The main objective of a CT scan is to identify the extent of the tumor, its anatomical location, and the lymph node involvement. TNM staging relies heavily on lymph node involvement. Therefore, most societies in Europe and the United States agree to regard a lymph node of 1 centimeter or more in the short axis to be considered highly suspicious for malignancy. Lymph nodes can be enlarged secondary to acute inflammation, such as congestive heart failure exacerbation or recent viral infection. The overall sensitivity and specificity of CT scan to identify malignancy are 55% and 81%, respectively. Hence, CT is not a good test for lung cancer staging.
 
@@ -185,27 +184,27 @@ The American College of Chest Physicians (ACCP) has proposed grouping patients b
 
 Group A
 
-  * Patients with bulky tumors encircling/invading mediastinal structures cannot distinguish remote lymph nodes from the primary tumor. 
+- Patients with bulky tumors encircling/invading mediastinal structures cannot distinguish remote lymph nodes from the primary tumor.
 
-  * Mediastinal invasion is implied; therefore, no need for LN sampling. Tissue diagnosis suffices.
+- Mediastinal invasion is implied; therefore, no need for LN sampling. Tissue diagnosis suffices.
 
 Group B
 
-  * Patients with discrete lymph node enlargement greater than 1 centimeter such that an isolated lymph node can be distinguished from the primary tumor
+- Patients with discrete lymph node enlargement greater than 1 centimeter such that an isolated lymph node can be distinguished from the primary tumor
 
-  * Lymph node sampling is required for pathologic confirmation before curative intent therapy.
+- Lymph node sampling is required for pathologic confirmation before curative intent therapy.
 
 Group C
 
-  * Patients with a central tumor and an elevated risk of nodal disease despite normal-sized nodes, such as a high risk for N2/N3 disease. 
+- Patients with a central tumor and an elevated risk of nodal disease despite normal-sized nodes, such as a high risk for N2/N3 disease.
 
-  * Lymph node sampling is needed even if CT/PET is negative due to a high N2/N3 disease risk.
+- Lymph node sampling is needed even if CT/PET is negative due to a high N2/N3 disease risk.
 
 Group D
 
-  * Patients with low risk of N2/N3 involvement or distant metastatic disease, such as peripheral T1 tumors. 
+- Patients with low risk of N2/N3 involvement or distant metastatic disease, such as peripheral T1 tumors.
 
-  * Invasive testing is not done routinely except if suspicion of N1 disease is high or the patient is not a candidate for surgery but going for stereotactic body radiation therapy (SBRT).
+- Invasive testing is not done routinely except if suspicion of N1 disease is high or the patient is not a candidate for surgery but going for stereotactic body radiation therapy (SBRT).
 
 **PET Scan**
 
@@ -217,23 +216,23 @@ PET scan has a sensitivity of 80% and specificity of 88%, which is higher than C
 
 After CT and PET scans, the next step is to obtain tissue or pathologic confirmation of malignancy, confirm the staging and histological differentiation of cancer. One of the following procedures achieves this.
 
-  * Bronchoscopic endobronchial ultrasound-transbronchial needle aspiration (TBNA)
+- Bronchoscopic endobronchial ultrasound-transbronchial needle aspiration (TBNA)
 
-  * Endoscopic-TBNA
+- Endoscopic-TBNA
 
-  * Mediastinoscopy
+- Mediastinoscopy
 
-  * Thoracoscopy or video-assisted thoracoscopy(VATS)
+- Thoracoscopy or video-assisted thoracoscopy(VATS)
 
 A CT-guided transthoracic biopsy is an option for peripheral lesions with a low risk of pneumothorax. Certain older procedures, such as the Chamberlain procedure, are sometimes required.[33]
 
 **Bronchoscopic TBNA**
 
-  * Convex probe-endobronchial ultrasound-guided (CP-EBUS)-TBNA
+- Convex probe-endobronchial ultrasound-guided (CP-EBUS)-TBNA
 
-  * Radial probe-EBUS-TBNA (RP-EBUS)
+- Radial probe-EBUS-TBNA (RP-EBUS)
 
-  * Navigation bronchoscopy
+- Navigation bronchoscopy
 
 **CP-EBUS Bronchoscopy**
 
@@ -291,9 +290,9 @@ In highly select patients, non-squamous NSCLC without brain metastasis or hemopt
 
 In the early 2000s, researchers discovered that specific mutations encode critical proteins for cell growth and replication. These mutations were named “driver mutations.” It was proposed that blocking these mutation pathways may improve survival in lung cancer patients. The current practice is to check for the following mutations in every advanced NSCLC. Each of these mutations has a specific inhibitor available:
 
-  1. EGFR (epidermal growth factor receptor) is a mutation inhibited by tyrosine kinase inhibitors erlotinib, gefitinib, and afatinib.[36]
+1. EGFR (epidermal growth factor receptor) is a mutation inhibited by tyrosine kinase inhibitors erlotinib, gefitinib, and afatinib.[36]
 
-  2. ALK (Anaplastic lymphoma kinase) includes the specific inhibitors crizotinib, ceritinib, and alectinib. A structurally similar mutation is ROS-1. The FDA recently approved crizotinib for treating cancers expressing ROS-1 mutation.
+1. ALK (Anaplastic lymphoma kinase) includes the specific inhibitors crizotinib, ceritinib, and alectinib. A structurally similar mutation is ROS-1. The FDA recently approved crizotinib for treating cancers expressing ROS-1 mutation.
 
 **Immunotherapy for NSCLC**
 
@@ -319,21 +318,21 @@ Extensive stage small cell lung cancer (ES-SCLC) includes distant metastasis, ma
 
 ## Differential Diagnosis
 
-  * Bacterial pneumonia
+- Bacterial pneumonia
 
-  * Bronchitis
+- Bronchitis
 
-  * Mycoplasmal pneumonia
+- Mycoplasmal pneumonia
 
-  * Pleural effusion
+- Pleural effusion
 
-  * Pneumothorax
+- Pneumothorax
 
-  * Tuberculosis
+- Tuberculosis
 
-  * Viral pneumonia
+- Viral pneumonia
 
-  * Fungal pneumonia
+- Fungal pneumonia
 
 ## Staging
 
@@ -353,49 +352,49 @@ A primary tumor is divided into five categories, and each category is then furth
 
 T0
 
-  * No primary tumor
+- No primary tumor
 
-  * T Carcinoma in situ
+- T Carcinoma in situ
 
 T1 (less than 3 cm)
 
-  * T1mi: minimally invasive tumor
+- T1mi: minimally invasive tumor
 
-  * T1a: superficial tumor confined to central airways (tracheal or bronchial wall)
+- T1a: superficial tumor confined to central airways (tracheal or bronchial wall)
 
-  * T1a: Less than 1 cm
+- T1a: Less than 1 cm
 
-  * T1b: Greater than 1 cm but less than 2cm
+- T1b: Greater than 1 cm but less than 2cm
 
-  * T1C: Greater than 2 cm but less than 3cm
+- T1C: Greater than 2 cm but less than 3cm
 
 T2
 
-  * T2: Greater than 3 cm but less than 5 cm
+- T2: Greater than 3 cm but less than 5 cm
 
-  * T2a: Greater than 3 cm but less than 4cm
+- T2a: Greater than 3 cm but less than 4cm
 
-  * T2b: Greater than 4 cm but less than 5cm
+- T2b: Greater than 4 cm but less than 5cm
 
-  * Also considered a T2 tumor if involving main bronchus but not carina, visceral pleura or causes atelectasis to the hilum.
+- Also considered a T2 tumor if involving main bronchus but not carina, visceral pleura or causes atelectasis to the hilum.
 
 T3
 
-  * T3: Greater than 5 cm but less than 7 cm)
+- T3: Greater than 5 cm but less than 7 cm)
 
-  * T3 Inv: invasion of the chest wall, pericardium, or phrenic nerve
+- T3 Inv: invasion of the chest wall, pericardium, or phrenic nerve
 
-  * T3 Satell: separate tumor nodules in the same lobe
+- T3 Satell: separate tumor nodules in the same lobe
 
-  * Also considered T3 tumor if involving the pericardium, phrenic nerve, chest wall, or separate tumor nodules in the same lobe
+- Also considered T3 tumor if involving the pericardium, phrenic nerve, chest wall, or separate tumor nodules in the same lobe
 
 T4
 
-  * T4: Greater than 7 cm)
+- T4: Greater than 7 cm)
 
-  * T4inv: Invading the above structures
+- T4inv: Invading the above structures
 
-  * T4Ipsi nod: Nodules in an ipsilateral lobe
+- T4Ipsi nod: Nodules in an ipsilateral lobe
 
 It is also considered T4 tumor if it involves the heart, esophagus, trachea, carina, mediastinum, great vessels, recurrent laryngeal nerve, spine or tumor nodules in the different ipsilateral lobe. Invasion of the diaphragm is now considered a T4 tumor compared to a T3 tumor in the seventh edition of TNM classification.[39]
 
@@ -405,9 +404,9 @@ Lung cancer staging also depends upon the extension of cancer to the lymph nodes
 
 Historically, thoracic lymph nodes were first classified in the 1960s by Naruke. This map was accepted by North America, Europe, and Japan. Later, in the 1980s and early 90s, further refinements were made to improve imaging and invasive testing improvements. Hence, two lymph node maps gained popularity in North America.
 
-  1. American thoracic society (ATS-Map)
+1. American thoracic society (ATS-Map)
 
-  2. American Joint Committee on Cancer (AJCC). This was an adaptation of the Naruke map.
+1. American Joint Committee on Cancer (AJCC). This was an adaptation of the Naruke map.
 
 In 1996, the differences in the above two were resolved in the Mountain-Dressler modification, MD-ATS Map. It was accepted in North America but only sporadically in Europe.
 
@@ -421,13 +420,13 @@ Much care has been taken in defining the N2 nodes in all the lymph node maps. We
 
 They are subdivided into the following groups or stations:[40]
 
-  * Supraclavicular nodes, station 1
+- Supraclavicular nodes, station 1
 
-  * Superior mediastinal nodes, station 2 to 4
+- Superior mediastinal nodes, station 2 to 4
 
-  * Aortic nodes, station 3
+- Aortic nodes, station 3
 
-  * Inferior mediastinal lymph nodes, station 4
+- Inferior mediastinal lymph nodes, station 4
 
 **Supraclavicular Nodes (Station 1)**
 
@@ -439,11 +438,11 @@ These lymph nodes occupy the superior mediastinum, hence, named accordingly. The
 
 Upperparatracheall (station 2R and 2L)
 
-  * 2R nodes extend to the left lateral border of the trachea.
+- 2R nodes extend to the left lateral border of the trachea.
 
 This extends from the upper border of the manubrium to the intersection of the caudal margin of the innominate (left brachiocephalic) vein with the trachea.
 
-  * 2L nodes extend from the upper border of the manubrium to the superior border of the aortic arch. 2L nodes are located to the left of the left lateral border of the trachea
+- 2L nodes extend from the upper border of the manubrium to the superior border of the aortic arch. 2L nodes are located to the left of the left lateral border of the trachea
 
 Pre-vascular (station 3A)
 
@@ -455,9 +454,9 @@ Nodes not adjacent to the trachea like the nodes in station 2, but behind the es
 
 Lower para-tracheal (station 4R and 4L)
 
-  * 4R nodes extend from the intersection of the caudal margin of the innominate (left brachiocephalic) vein with the trachea to the lower border of the azygos vein. 4R nodes extend from the right to the left lateral border of the trachea.
+- 4R nodes extend from the intersection of the caudal margin of the innominate (left brachiocephalic) vein with the trachea to the lower border of the azygos vein. 4R nodes extend from the right to the left lateral border of the trachea.
 
-  * 4L nodes extend from the upper margin of the aortic arch to the upper rim of the left main pulmonary artery
+- 4L nodes extend from the upper margin of the aortic arch to the upper rim of the left main pulmonary artery
 
 **Aortic Lymph Nodes (5 and 6)**
 
@@ -487,7 +486,7 @@ Pulmonary Ligament (station 9) They are located within the pulmonary ligaments e
 
 **Hilar Lymph Nodes (Station 10 to 14)**
 
-These are all N1 nodes. These include nodes adjacent to the main stem bronchus and hilar vessels. On the right, they extend from the lower rim of the azygos vein to the interlobar region. On the left, from the upper rim of the pulmonary artery to the inter-lobar region. 
+These are all N1 nodes. These include nodes adjacent to the main stem bronchus and hilar vessels. On the right, they extend from the lower rim of the azygos vein to the interlobar region. On the left, from the upper rim of the pulmonary artery to the inter-lobar region.
 
 **Lymph Node Classification (N)**
 
@@ -495,29 +494,29 @@ N0: No lymph node involvement
 
 N1: Involvement of ipsilateral hilar nodes
 
-  * N1a: single station N1 nodes
+- N1a: single station N1 nodes
 
-  * N1b: multiple-station N1 nodes
+- N1b: multiple-station N1 nodes
 
 N2: Involvement of mediastinal nodes
 
-  * N2a1: Single station N2 nodes without N1 involvement (skip metastasis)
+- N2a1: Single station N2 nodes without N1 involvement (skip metastasis)
 
-  * N2a2: Single station N2 nodes with N1 involvement
+- N2a2: Single station N2 nodes with N1 involvement
 
-  * N2b: Multiple station N2 involvement
+- N2b: Multiple station N2 involvement
 
 N3: Involvement of contralateral mediastinal or hilar lymph nodes[41]
 
 **Metastasis (M)**
 
-  * M0: No distant metastasis
+- M0: No distant metastasis
 
-  * M1a: Malignant pleural / pericardial effusion or nodules
+- M1a: Malignant pleural / pericardial effusion or nodules
 
-  * M1b: Single extra-thoracic metastasis
+- M1b: Single extra-thoracic metastasis
 
-  * M2: Multiple extra-thoracic metastases
+- M2: Multiple extra-thoracic metastases
 
 **Tumor Node Metastasis Staging of Lung Cancer**
 
@@ -527,89 +526,89 @@ Primary cancer not found; no lymph node or distant metastasis.
 
 Stage 0
 
-  * T is N 0 M 0
+- T is N 0 M 0
 
 Stage I
 
 IA1
 
-  * T1mi N 0 M 0
+- T1mi N 0 M 0
 
-  * T1a N 0 M 0
+- T1a N 0 M 0
 
 IA2
 
-  * T1b N 0 M 0
+- T1b N 0 M 0
 
 IA3
 
-  * T1c N 0 M 0
+- T1c N 0 M 0
 
 IB
 
-  * T2a N 0 M 0
+- T2a N 0 M 0
 
 Stage II
 
 IIA
 
-  * T2b N 0 M 0
+- T2b N 0 M 0
 
 IIB
 
-  * T1a / T1b / T1c N 1 M 0
+- T1a / T1b / T1c N 1 M 0
 
-  * T2a / T2b N 1 M 0
+- T2a / T2b N 1 M 0
 
-  * T3 N 0 M 0
+- T3 N 0 M 0
 
 Stage III
 
 IIIA
 
-  * T1a / T2b / T2c N 2 M 0
+- T1a / T2b / T2c N 2 M 0
 
-  * T2a / T2b N2 M 0
+- T2a / T2b N2 M 0
 
-  * T3 N 1 M 0
+- T3 N 1 M 0
 
-  * T4 N 0 / N 1 M0
+- T4 N 0 / N 1 M0
 
 IIIB
 
-  * T1a / T1b / T1c N 3 M 0
+- T1a / T1b / T1c N 3 M 0
 
-  * T2a / T2b N 3 M0
+- T2a / T2b N 3 M0
 
-  * T3 N 2 M 0
+- T3 N 2 M 0
 
-  * T4 N 2 M 0
+- T4 N 2 M 0
 
 IIIC
 
-  * T3 N 3 M 0
+- T3 N 3 M 0
 
-  * T4 N 3 M 0
+- T4 N 3 M 0
 
 Stage IV
 
 IVA
 
-  * Any T / Any N M1a or M1b
+- Any T / Any N M1a or M1b
 
 IV B
 
-  * Any T / Any N M1c
+- Any T / Any N M1c
 
 Staging for all Small Cell Lung Cancer
 
-  * SCLC staging can be done using the TNM system, but since SCLC is considered a systemic disease, a more straightforward classification has been used successfully since the 1950s. There is a growing body of evidence that TNM rating may better define SCLC, but there is no consensus on this approach yet.
+- SCLC staging can be done using the TNM system, but since SCLC is considered a systemic disease, a more straightforward classification has been used successfully since the 1950s. There is a growing body of evidence that TNM rating may better define SCLC, but there is no consensus on this approach yet.
 
-  * SCLC is classified as LS-SCLC and ES-SCLC small cell based on the Veterans Affairs Lung study group (VALSG) classification.
+- SCLC is classified as LS-SCLC and ES-SCLC small cell based on the Veterans Affairs Lung study group (VALSG) classification.
 
-  * LS-SCLC is confined to the ipsilateral hemithorax and local lymph nodes, both mediastinal and hilar and supraclavicular nodes can be included in a single tolerable radiotherapy port (corresponding to TNM stages I through IIIB).
+- LS-SCLC is confined to the ipsilateral hemithorax and local lymph nodes, both mediastinal and hilar and supraclavicular nodes can be included in a single tolerable radiotherapy port (corresponding to TNM stages I through IIIB).
 
-  * ES-SCLC has tumors beyond the boundaries of limited disease, including distant metastases, malignant pericardial or pleural effusions, and contralateral supraclavicular and contralateral hilar involvement.[14]
+- ES-SCLC has tumors beyond the boundaries of limited disease, including distant metastases, malignant pericardial or pleural effusions, and contralateral supraclavicular and contralateral hilar involvement.[14]
 
 ## Prognosis
 
@@ -625,21 +624,21 @@ The extent of disease and the stage at presentation is the most important progno
 
 Complications of lung cancer such as thrombosis and paraneoplastic syndromes are discussed above. Common complications seen in patients undergoing treatment for lung cancer include:
 
-  * Chemotherapy-induced nausea and vomiting
+- Chemotherapy-induced nausea and vomiting
 
-  * Fatigue
+- Fatigue
 
-  * Anorexia
+- Anorexia
 
-  * Weight loss
+- Weight loss
 
-  * Anemia
+- Anemia
 
-  * Neutropenia
+- Neutropenia
 
-  * Nephrotoxicity (especially in patients receiving cisplatin-based therapies)
+- Nephrotoxicity (especially in patients receiving cisplatin-based therapies)
 
-  * Neurotoxicities
+- Neurotoxicities
 
 ## Deterrence and Patient Education
 
@@ -655,7 +654,7 @@ All therapeutic options, surgery, chemotherapy, and radiation have a role in man
 
 Surgery results in better outcomes in patients with at least three months of expected survival and good performance status. Surgical procedures for palliation include tumor bypass procedures, partial resection of the tumor, and removal of metastasis. Surgical intervention may be beneficial in patients with lung cancer if there is airway obstruction, hemoptysis, pleural or pericardial exudate, or metastases to the brain or bone. Almost 30% of lung cancer patients experience central airway occlusion, and bronchoscopic laser destruction followed by stent placement provides immediate relief in such patients.[47] Chemotherapy helps alleviate symptoms of pain and cough and may prolong survival. Palliative radiation provides symptomatic relief in 41% to 95% of lung cancer patients. Almost 60% of lung cancer patients, regardless of type and stage, receive radiation treatments during their course of illness. Radiation plays a crucial role in alleviating pain symptoms due to metastasis, particularly brain and bone metastasis. Endoscopic treatment, such as brachytherapy, helps control symptoms due to airway narrowing.[48][49]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Despite all the advances, the outcomes for lung cancer remain abysmal. The key reason is that most patients are diagnosed with advanced-stage disease. To improve outcomes, an interprofessional team approach with close communication between the members may perhaps lead to earlier diagnosis and treatment.
 
@@ -673,283 +672,226 @@ Lung cancer screening uses a low-dose helical CT scan of the chest which takes l
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24489&utm_source=pubmed&utm_campaign=reviews&utm_content=24489)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24489&utm_source=pubmed&utm_campaign=reviews&utm_content=24489)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/cancer/lung-cancer/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=24489)
+- [Click here for a simplified version.](https://mdsearchlight.com/cancer/lung-cancer/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=24489)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24489/?utm_source=pubmed&utm_campaign=comments&utm_content=24489)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24489/?utm_source=pubmed&utm_campaign=comments&utm_content=24489)
 
 [![Image ](/books/NBK482357/bin/ca__lung.gif)](/books/NBK482357/figure/article-24489.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK482357/figure/article-24489.image.f1/?report=objectonly)
 
-CT image of carcinoma lung Contributed by Sunil Munakomi, MD 
+CT image of carcinoma lung Contributed by Sunil Munakomi, MD
 
 ## References
 
 1.
-    
 
-Miller KD, Siegel RL, Lin CC, Mariotto AB, Kramer JL, Rowland JH, Stein KD, Alteri R, Jemal A. Cancer treatment and survivorship statistics, 2016. CA Cancer J Clin. 2016 Jul;66(4):271-89. [[PubMed: 27253694](https://pubmed.ncbi.nlm.nih.gov/27253694)]
+Miller KD, Siegel RL, Lin CC, Mariotto AB, Kramer JL, Rowland JH, Stein KD, Alteri R, Jemal A. Cancer treatment and survivorship statistics, 2016. CA Cancer J Clin. 2016 Jul;66(4):271-89. \[[PubMed: 27253694](https://pubmed.ncbi.nlm.nih.gov/27253694)\]
 
 2.
-    
 
-Kocher F, Hilbe W, Seeber A, Pircher A, Schmid T, Greil R, Auberger J, Nevinny-Stickel M, Sterlacci W, Tzankov A, Jamnig H, Kohler K, Zabernigg A, Frötscher J, Oberaigner W, Fiegl M. Longitudinal analysis of 2293 NSCLC patients: a comprehensive study from the TYROL registry. Lung Cancer. 2015 Feb;87(2):193-200. [[PubMed: 25564398](https://pubmed.ncbi.nlm.nih.gov/25564398)]
+Kocher F, Hilbe W, Seeber A, Pircher A, Schmid T, Greil R, Auberger J, Nevinny-Stickel M, Sterlacci W, Tzankov A, Jamnig H, Kohler K, Zabernigg A, Frötscher J, Oberaigner W, Fiegl M. Longitudinal analysis of 2293 NSCLC patients: a comprehensive study from the TYROL registry. Lung Cancer. 2015 Feb;87(2):193-200. \[[PubMed: 25564398](https://pubmed.ncbi.nlm.nih.gov/25564398)\]
 
 3.
-    
 
-Alberg AJ, Samet JM. Epidemiology of lung cancer. Chest. 2003 Jan;123(1 Suppl):21S-49S. [[PubMed: 12527563](https://pubmed.ncbi.nlm.nih.gov/12527563)]
+Alberg AJ, Samet JM. Epidemiology of lung cancer. Chest. 2003 Jan;123(1 Suppl):21S-49S. \[[PubMed: 12527563](https://pubmed.ncbi.nlm.nih.gov/12527563)\]
 
 4.
-    
 
-Lorigan P, Radford J, Howell A, Thatcher N. Lung cancer after treatment for Hodgkin's lymphoma: a systematic review. Lancet Oncol. 2005 Oct;6(10):773-9. [[PubMed: 16198983](https://pubmed.ncbi.nlm.nih.gov/16198983)]
+Lorigan P, Radford J, Howell A, Thatcher N. Lung cancer after treatment for Hodgkin's lymphoma: a systematic review. Lancet Oncol. 2005 Oct;6(10):773-9. \[[PubMed: 16198983](https://pubmed.ncbi.nlm.nih.gov/16198983)\]
 
 5.
-    
 
-Burns DM. Primary prevention, smoking, and smoking cessation: implications for future trends in lung cancer prevention. Cancer. 2000 Dec 01;89(11 Suppl):2506-9. [[PubMed: 11147637](https://pubmed.ncbi.nlm.nih.gov/11147637)]
+Burns DM. Primary prevention, smoking, and smoking cessation: implications for future trends in lung cancer prevention. Cancer. 2000 Dec 01;89(11 Suppl):2506-9. \[[PubMed: 11147637](https://pubmed.ncbi.nlm.nih.gov/11147637)\]
 
 6.
-    
 
-Wagner GR. Asbestosis and silicosis. Lancet. 1997 May 03;349(9061):1311-5. [[PubMed: 9142077](https://pubmed.ncbi.nlm.nih.gov/9142077)]
+Wagner GR. Asbestosis and silicosis. Lancet. 1997 May 03;349(9061):1311-5. \[[PubMed: 9142077](https://pubmed.ncbi.nlm.nih.gov/9142077)\]
 
 7.
-    
 
-Grosche B, Kreuzer M, Kreisheimer M, Schnelzer M, Tschense A. Lung cancer risk among German male uranium miners: a cohort study, 1946-1998. Br J Cancer. 2006 Nov 06;95(9):1280-7. [[PMC free article: PMC2360564](/pmc/articles/PMC2360564/)] [[PubMed: 17043686](https://pubmed.ncbi.nlm.nih.gov/17043686)]
+Grosche B, Kreuzer M, Kreisheimer M, Schnelzer M, Tschense A. Lung cancer risk among German male uranium miners: a cohort study, 1946-1998. Br J Cancer. 2006 Nov 06;95(9):1280-7. \[[PMC free article: PMC2360564](/pmc/articles/PMC2360564/)\] \[[PubMed: 17043686](https://pubmed.ncbi.nlm.nih.gov/17043686)\]
 
 8.
-    
 
-Darby S, Hill D, Auvinen A, Barros-Dios JM, Baysson H, Bochicchio F, Deo H, Falk R, Forastiere F, Hakama M, Heid I, Kreienbrock L, Kreuzer M, Lagarde F, Mäkeläinen I, Muirhead C, Oberaigner W, Pershagen G, Ruano-Ravina A, Ruosteenoja E, Rosario AS, Tirmarche M, Tomásek L, Whitley E, Wichmann HE, Doll R. Radon in homes and risk of lung cancer: collaborative analysis of individual data from 13 European case-control studies. BMJ. 2005 Jan 29;330(7485):223. [[PMC free article: PMC546066](/pmc/articles/PMC546066/)] [[PubMed: 15613366](https://pubmed.ncbi.nlm.nih.gov/15613366)]
+Darby S, Hill D, Auvinen A, Barros-Dios JM, Baysson H, Bochicchio F, Deo H, Falk R, Forastiere F, Hakama M, Heid I, Kreienbrock L, Kreuzer M, Lagarde F, Mäkeläinen I, Muirhead C, Oberaigner W, Pershagen G, Ruano-Ravina A, Ruosteenoja E, Rosario AS, Tirmarche M, Tomásek L, Whitley E, Wichmann HE, Doll R. Radon in homes and risk of lung cancer: collaborative analysis of individual data from 13 European case-control studies. BMJ. 2005 Jan 29;330(7485):223. \[[PMC free article: PMC546066](/pmc/articles/PMC546066/)\] \[[PubMed: 15613366](https://pubmed.ncbi.nlm.nih.gov/15613366)\]
 
 9.
-    
 
-Siegel RL, Miller KD, Jemal A. Cancer Statistics, 2017. CA Cancer J Clin. 2017 Jan;67(1):7-30. [[PubMed: 28055103](https://pubmed.ncbi.nlm.nih.gov/28055103)]
+Siegel RL, Miller KD, Jemal A. Cancer Statistics, 2017. CA Cancer J Clin. 2017 Jan;67(1):7-30. \[[PubMed: 28055103](https://pubmed.ncbi.nlm.nih.gov/28055103)\]
 
 10.
-    
 
-Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, Bray F. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021 May;71(3):209-249. [[PubMed: 33538338](https://pubmed.ncbi.nlm.nih.gov/33538338)]
+Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, Bray F. Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021 May;71(3):209-249. \[[PubMed: 33538338](https://pubmed.ncbi.nlm.nih.gov/33538338)\]
 
 11.
-    
 
-Barta JA, Powell CA, Wisnivesky JP. Global Epidemiology of Lung Cancer. Ann Glob Health. 2019 Jan 22;85(1) [[PMC free article: PMC6724220](/pmc/articles/PMC6724220/)] [[PubMed: 30741509](https://pubmed.ncbi.nlm.nih.gov/30741509)]
+Barta JA, Powell CA, Wisnivesky JP. Global Epidemiology of Lung Cancer. Ann Glob Health. 2019 Jan 22;85(1) \[[PMC free article: PMC6724220](/pmc/articles/PMC6724220/)\] \[[PubMed: 30741509](https://pubmed.ncbi.nlm.nih.gov/30741509)\]
 
 12.
-    
 
-Cagle PT, Allen TC, Olsen RJ. Lung cancer biomarkers: present status and future developments. Arch Pathol Lab Med. 2013 Sep;137(9):1191-8. [[PubMed: 23991729](https://pubmed.ncbi.nlm.nih.gov/23991729)]
+Cagle PT, Allen TC, Olsen RJ. Lung cancer biomarkers: present status and future developments. Arch Pathol Lab Med. 2013 Sep;137(9):1191-8. \[[PubMed: 23991729](https://pubmed.ncbi.nlm.nih.gov/23991729)\]
 
 13.
-    
 
-Lindeman NI, Cagle PT, Beasley MB, Chitale DA, Dacic S, Giaccone G, Jenkins RB, Kwiatkowski DJ, Saldivar JS, Squire J, Thunnissen E, Ladanyi M, College of American Pathologists International Association for the Study of Lung Cancer and Association for Molecular Pathology Molecular testing guideline for selection of lung cancer patients for EGFR and ALK tyrosine kinase inhibitors: guideline from the College of American Pathologists, International Association for the Study of Lung Cancer, and Association for Molecular Pathology. J Mol Diagn. 2013 Jul;15(4):415-53. [[PubMed: 23562183](https://pubmed.ncbi.nlm.nih.gov/23562183)]
+Lindeman NI, Cagle PT, Beasley MB, Chitale DA, Dacic S, Giaccone G, Jenkins RB, Kwiatkowski DJ, Saldivar JS, Squire J, Thunnissen E, Ladanyi M, College of American Pathologists International Association for the Study of Lung Cancer and Association for Molecular Pathology Molecular testing guideline for selection of lung cancer patients for EGFR and ALK tyrosine kinase inhibitors: guideline from the College of American Pathologists, International Association for the Study of Lung Cancer, and Association for Molecular Pathology. J Mol Diagn. 2013 Jul;15(4):415-53. \[[PubMed: 23562183](https://pubmed.ncbi.nlm.nih.gov/23562183)\]
 
 14.
-    
 
-Lindeman NI, Cagle PT, Aisner DL, Arcila ME, Beasley MB, Bernicker EH, Colasacco C, Dacic S, Hirsch FR, Kerr K, Kwiatkowski DJ, Ladanyi M, Nowak JA, Sholl L, Temple-Smolkin R, Solomon B, Souter LH, Thunnissen E, Tsao MS, Ventura CB, Wynes MW, Yatabe Y. Updated Molecular Testing Guideline for the Selection of Lung Cancer Patients for Treatment With Targeted Tyrosine Kinase Inhibitors: Guideline From the College of American Pathologists, the International Association for the Study of Lung Cancer, and the Association for Molecular Pathology. J Mol Diagn. 2018 Mar;20(2):129-159. [[PubMed: 29398453](https://pubmed.ncbi.nlm.nih.gov/29398453)]
+Lindeman NI, Cagle PT, Aisner DL, Arcila ME, Beasley MB, Bernicker EH, Colasacco C, Dacic S, Hirsch FR, Kerr K, Kwiatkowski DJ, Ladanyi M, Nowak JA, Sholl L, Temple-Smolkin R, Solomon B, Souter LH, Thunnissen E, Tsao MS, Ventura CB, Wynes MW, Yatabe Y. Updated Molecular Testing Guideline for the Selection of Lung Cancer Patients for Treatment With Targeted Tyrosine Kinase Inhibitors: Guideline From the College of American Pathologists, the International Association for the Study of Lung Cancer, and the Association for Molecular Pathology. J Mol Diagn. 2018 Mar;20(2):129-159. \[[PubMed: 29398453](https://pubmed.ncbi.nlm.nih.gov/29398453)\]
 
 15.
-    
 
-Kadota K, Yeh YC, Sima CS, Rusch VW, Moreira AL, Adusumilli PS, Travis WD. The cribriform pattern identifies a subset of acinar predominant tumors with poor prognosis in patients with stage I lung adenocarcinoma: a conceptual proposal to classify cribriform predominant tumors as a distinct histologic subtype. Mod Pathol. 2014 May;27(5):690-700. [[PMC free article: PMC4374572](/pmc/articles/PMC4374572/)] [[PubMed: 24186133](https://pubmed.ncbi.nlm.nih.gov/24186133)]
+Kadota K, Yeh YC, Sima CS, Rusch VW, Moreira AL, Adusumilli PS, Travis WD. The cribriform pattern identifies a subset of acinar predominant tumors with poor prognosis in patients with stage I lung adenocarcinoma: a conceptual proposal to classify cribriform predominant tumors as a distinct histologic subtype. Mod Pathol. 2014 May;27(5):690-700. \[[PMC free article: PMC4374572](/pmc/articles/PMC4374572/)\] \[[PubMed: 24186133](https://pubmed.ncbi.nlm.nih.gov/24186133)\]
 
 16.
-    
 
-Filosso PL, Ruffini E, Asioli S, Giobbe R, Macri L, Bruna MC, Sandri A, Oliaro A. Adenosquamous lung carcinomas: a histologic subtype with poor prognosis. Lung Cancer. 2011 Oct;74(1):25-9. [[PubMed: 21371773](https://pubmed.ncbi.nlm.nih.gov/21371773)]
+Filosso PL, Ruffini E, Asioli S, Giobbe R, Macri L, Bruna MC, Sandri A, Oliaro A. Adenosquamous lung carcinomas: a histologic subtype with poor prognosis. Lung Cancer. 2011 Oct;74(1):25-9. \[[PubMed: 21371773](https://pubmed.ncbi.nlm.nih.gov/21371773)\]
 
 17.
-    
 
-Rajdev K, Siddiqui AH, Ibrahim U, Patibandla P, Khan T, El-Sayegh D. An Unusually Aggressive Large Cell Carcinoma of the Lung: Undiagnosed until Autopsy. Cureus. 2018 Feb 19;10(2):e2202. [[PMC free article: PMC5908718](/pmc/articles/PMC5908718/)] [[PubMed: 29682432](https://pubmed.ncbi.nlm.nih.gov/29682432)]
+Rajdev K, Siddiqui AH, Ibrahim U, Patibandla P, Khan T, El-Sayegh D. An Unusually Aggressive Large Cell Carcinoma of the Lung: Undiagnosed until Autopsy. Cureus. 2018 Feb 19;10(2):e2202. \[[PMC free article: PMC5908718](/pmc/articles/PMC5908718/)\] \[[PubMed: 29682432](https://pubmed.ncbi.nlm.nih.gov/29682432)\]
 
 18.
-    
 
-Aisner SC, Finkelstein DM, Ettinger DS, Abeloff MD, Ruckdeschel JC, Eggleston JC. The clinical significance of variant-morphology small-cell carcinoma of the lung. J Clin Oncol. 1990 Mar;8(3):402-8. [[PubMed: 2155311](https://pubmed.ncbi.nlm.nih.gov/2155311)]
+Aisner SC, Finkelstein DM, Ettinger DS, Abeloff MD, Ruckdeschel JC, Eggleston JC. The clinical significance of variant-morphology small-cell carcinoma of the lung. J Clin Oncol. 1990 Mar;8(3):402-8. \[[PubMed: 2155311](https://pubmed.ncbi.nlm.nih.gov/2155311)\]
 
 19.
-    
 
-Chute CG, Greenberg ER, Baron J, Korson R, Baker J, Yates J. Presenting conditions of 1539 population-based lung cancer patients by cell type and stage in New Hampshire and Vermont. Cancer. 1985 Oct 15;56(8):2107-11. [[PubMed: 2992757](https://pubmed.ncbi.nlm.nih.gov/2992757)]
+Chute CG, Greenberg ER, Baron J, Korson R, Baker J, Yates J. Presenting conditions of 1539 population-based lung cancer patients by cell type and stage in New Hampshire and Vermont. Cancer. 1985 Oct 15;56(8):2107-11. \[[PubMed: 2992757](https://pubmed.ncbi.nlm.nih.gov/2992757)\]
 
 20.
-    
 
-Sahn SA. Malignancy metastatic to the pleura. Clin Chest Med. 1998 Jun;19(2):351-61. [[PubMed: 9646986](https://pubmed.ncbi.nlm.nih.gov/9646986)]
+Sahn SA. Malignancy metastatic to the pleura. Clin Chest Med. 1998 Jun;19(2):351-61. \[[PubMed: 9646986](https://pubmed.ncbi.nlm.nih.gov/9646986)\]
 
 21.
-    
 
-Decker DA, Dines DE, Payne WS, Bernatz PE, Pairolero PC. The significance of a cytologically negative pleural effusion in bronchogenic carcinoma. Chest. 1978 Dec;74(6):640-2. [[PubMed: 216532](https://pubmed.ncbi.nlm.nih.gov/216532)]
+Decker DA, Dines DE, Payne WS, Bernatz PE, Pairolero PC. The significance of a cytologically negative pleural effusion in bronchogenic carcinoma. Chest. 1978 Dec;74(6):640-2. \[[PubMed: 216532](https://pubmed.ncbi.nlm.nih.gov/216532)\]
 
 22.
-    
 
-Maskell NA, Butland RJ., Pleural Diseases Group, Standards of Care Committee, British Thoracic Society. BTS guidelines for the investigation of a unilateral pleural effusion in adults. Thorax. 2003 May;58 Suppl 2(Suppl 2):ii8-17. [[PMC free article: PMC1766019](/pmc/articles/PMC1766019/)] [[PubMed: 12728146](https://pubmed.ncbi.nlm.nih.gov/12728146)]
+Maskell NA, Butland RJ., Pleural Diseases Group, Standards of Care Committee, British Thoracic Society. BTS guidelines for the investigation of a unilateral pleural effusion in adults. Thorax. 2003 May;58 Suppl 2(Suppl 2):ii8-17. \[[PMC free article: PMC1766019](/pmc/articles/PMC1766019/)\] \[[PubMed: 12728146](https://pubmed.ncbi.nlm.nih.gov/12728146)\]
 
 23.
-    
 
-Rahman NM, Ali NJ, Brown G, Chapman SJ, Davies RJ, Downer NJ, Gleeson FV, Howes TQ, Treasure T, Singh S, Phillips GD., British Thoracic Society Pleural Disease Guideline Group. Local anaesthetic thoracoscopy: British Thoracic Society Pleural Disease Guideline 2010. Thorax. 2010 Aug;65 Suppl 2:ii54-60. [[PubMed: 20696694](https://pubmed.ncbi.nlm.nih.gov/20696694)]
+Rahman NM, Ali NJ, Brown G, Chapman SJ, Davies RJ, Downer NJ, Gleeson FV, Howes TQ, Treasure T, Singh S, Phillips GD., British Thoracic Society Pleural Disease Guideline Group. Local anaesthetic thoracoscopy: British Thoracic Society Pleural Disease Guideline 2010. Thorax. 2010 Aug;65 Suppl 2:ii54-60. \[[PubMed: 20696694](https://pubmed.ncbi.nlm.nih.gov/20696694)\]
 
 24.
-    
 
-Eren S, Karaman A, Okur A. The superior vena cava syndrome caused by malignant disease. Imaging with multi-detector row CT. Eur J Radiol. 2006 Jul;59(1):93-103. [[PubMed: 16476534](https://pubmed.ncbi.nlm.nih.gov/16476534)]
+Eren S, Karaman A, Okur A. The superior vena cava syndrome caused by malignant disease. Imaging with multi-detector row CT. Eur J Radiol. 2006 Jul;59(1):93-103. \[[PubMed: 16476534](https://pubmed.ncbi.nlm.nih.gov/16476534)\]
 
 25.
-    
 
-Toloza EM, Harpole L, McCrory DC. Noninvasive staging of non-small cell lung cancer: a review of the current evidence. Chest. 2003 Jan;123(1 Suppl):137S-146S. [[PubMed: 12527573](https://pubmed.ncbi.nlm.nih.gov/12527573)]
+Toloza EM, Harpole L, McCrory DC. Noninvasive staging of non-small cell lung cancer: a review of the current evidence. Chest. 2003 Jan;123(1 Suppl):137S-146S. \[[PubMed: 12527573](https://pubmed.ncbi.nlm.nih.gov/12527573)\]
 
 26.
-    
 
-Schumacher T, Brink I, Mix M, Reinhardt M, Herget G, Digel W, Henke M, Moser E, Nitzsche E. FDG-PET imaging for the staging and follow-up of small cell lung cancer. Eur J Nucl Med. 2001 Apr;28(4):483-8. [[PubMed: 11357499](https://pubmed.ncbi.nlm.nih.gov/11357499)]
+Schumacher T, Brink I, Mix M, Reinhardt M, Herget G, Digel W, Henke M, Moser E, Nitzsche E. FDG-PET imaging for the staging and follow-up of small cell lung cancer. Eur J Nucl Med. 2001 Apr;28(4):483-8. \[[PubMed: 11357499](https://pubmed.ncbi.nlm.nih.gov/11357499)\]
 
 27.
-    
 
-Erasmus JJ, Patz EF, McAdams HP, Murray JG, Herndon J, Coleman RE, Goodman PC. Evaluation of adrenal masses in patients with bronchogenic carcinoma using 18F-fluorodeoxyglucose positron emission tomography. AJR Am J Roentgenol. 1997 May;168(5):1357-60. [[PubMed: 9129444](https://pubmed.ncbi.nlm.nih.gov/9129444)]
+Erasmus JJ, Patz EF, McAdams HP, Murray JG, Herndon J, Coleman RE, Goodman PC. Evaluation of adrenal masses in patients with bronchogenic carcinoma using 18F-fluorodeoxyglucose positron emission tomography. AJR Am J Roentgenol. 1997 May;168(5):1357-60. \[[PubMed: 9129444](https://pubmed.ncbi.nlm.nih.gov/9129444)\]
 
 28.
-    
 
-Doyle TJ. Brain metastasis in the natural history of small-cell lung cancer: 1972-1979. Cancer. 1982 Aug 15;50(4):752-4. [[PubMed: 6284340](https://pubmed.ncbi.nlm.nih.gov/6284340)]
+Doyle TJ. Brain metastasis in the natural history of small-cell lung cancer: 1972-1979. Cancer. 1982 Aug 15;50(4):752-4. \[[PubMed: 6284340](https://pubmed.ncbi.nlm.nih.gov/6284340)\]
 
 29.
-    
 
-Hiraki A, Ueoka H, Takata I, Gemba K, Bessho A, Segawa Y, Kiura K, Eguchi K, Yoneda T, Tanimoto M, Harada M. Hypercalcemia-leukocytosis syndrome associated with lung cancer. Lung Cancer. 2004 Mar;43(3):301-7. [[PubMed: 15165088](https://pubmed.ncbi.nlm.nih.gov/15165088)]
+Hiraki A, Ueoka H, Takata I, Gemba K, Bessho A, Segawa Y, Kiura K, Eguchi K, Yoneda T, Tanimoto M, Harada M. Hypercalcemia-leukocytosis syndrome associated with lung cancer. Lung Cancer. 2004 Mar;43(3):301-7. \[[PubMed: 15165088](https://pubmed.ncbi.nlm.nih.gov/15165088)\]
 
 30.
-    
 
-Honnorat J, Antoine JC. Paraneoplastic neurological syndromes. Orphanet J Rare Dis. 2007 May 04;2:22. [[PMC free article: PMC1868710](/pmc/articles/PMC1868710/)] [[PubMed: 17480225](https://pubmed.ncbi.nlm.nih.gov/17480225)]
+Honnorat J, Antoine JC. Paraneoplastic neurological syndromes. Orphanet J Rare Dis. 2007 May 04;2:22. \[[PMC free article: PMC1868710](/pmc/articles/PMC1868710/)\] \[[PubMed: 17480225](https://pubmed.ncbi.nlm.nih.gov/17480225)\]
 
 31.
-    
 
-Ilias I, Torpy DJ, Pacak K, Mullen N, Wesley RA, Nieman LK. Cushing's syndrome due to ectopic corticotropin secretion: twenty years' experience at the National Institutes of Health. J Clin Endocrinol Metab. 2005 Aug;90(8):4955-62. [[PubMed: 15914534](https://pubmed.ncbi.nlm.nih.gov/15914534)]
+Ilias I, Torpy DJ, Pacak K, Mullen N, Wesley RA, Nieman LK. Cushing's syndrome due to ectopic corticotropin secretion: twenty years' experience at the National Institutes of Health. J Clin Endocrinol Metab. 2005 Aug;90(8):4955-62. \[[PubMed: 15914534](https://pubmed.ncbi.nlm.nih.gov/15914534)\]
 
 32.
-    
 
-Fréchet B, Kazakov J, Thiffault V, Ferraro P, Liberman M. Diagnostic Accuracy of Mediastinal Lymph Node Staging Techniques in the Preoperative Assessment of Nonsmall Cell Lung Cancer Patients. J Bronchology Interv Pulmonol. 2018 Jan;25(1):17-24. [[PubMed: 29261576](https://pubmed.ncbi.nlm.nih.gov/29261576)]
+Fréchet B, Kazakov J, Thiffault V, Ferraro P, Liberman M. Diagnostic Accuracy of Mediastinal Lymph Node Staging Techniques in the Preoperative Assessment of Nonsmall Cell Lung Cancer Patients. J Bronchology Interv Pulmonol. 2018 Jan;25(1):17-24. \[[PubMed: 29261576](https://pubmed.ncbi.nlm.nih.gov/29261576)\]
 
 33.
-    
 
-Labarca G, Caviedes I, Folch E, Majid A, Fernández-Bussy S. [Endobronchial ultrasound-guided transbronchial needle aspiration]. Rev Med Chil. 2017 Sep;145(9):1165-1171. [[PubMed: 29424404](https://pubmed.ncbi.nlm.nih.gov/29424404)]
+Labarca G, Caviedes I, Folch E, Majid A, Fernández-Bussy S. [Endobronchial ultrasound-guided transbronchial needle aspiration]. Rev Med Chil. 2017 Sep;145(9):1165-1171. \[[PubMed: 29424404](https://pubmed.ncbi.nlm.nih.gov/29424404)\]
 
 34.
-    
 
-Heineman DJ, Beck N, Wouters MW, van Brakel TJ, Daniels JM, Schreurs WH, Dickhoff C. The dutch national clinical audit for lung cancer: A tool to improve clinical practice? An analysis of unforeseen ipsilateral mediastinal lymph node involvement in the Dutch Lung Surgery Audit (DLSA). Eur J Surg Oncol. 2018 Jun;44(6):830-834. [[PubMed: 29396329](https://pubmed.ncbi.nlm.nih.gov/29396329)]
+Heineman DJ, Beck N, Wouters MW, van Brakel TJ, Daniels JM, Schreurs WH, Dickhoff C. The dutch national clinical audit for lung cancer: A tool to improve clinical practice? An analysis of unforeseen ipsilateral mediastinal lymph node involvement in the Dutch Lung Surgery Audit (DLSA). Eur J Surg Oncol. 2018 Jun;44(6):830-834. \[[PubMed: 29396329](https://pubmed.ncbi.nlm.nih.gov/29396329)\]
 
 35.
-    
 
-Mulvenna P, Nankivell M, Barton R, Faivre-Finn C, Wilson P, McColl E, Moore B, Brisbane I, Ardron D, Holt T, Morgan S, Lee C, Waite K, Bayman N, Pugh C, Sydes B, Stephens R, Parmar MK, Langley RE. Dexamethasone and supportive care with or without whole brain radiotherapy in treating patients with non-small cell lung cancer with brain metastases unsuitable for resection or stereotactic radiotherapy (QUARTZ): results from a phase 3, non-inferiority, randomised trial. Lancet. 2016 Oct 22;388(10055):2004-2014. [[PMC free article: PMC5082599](/pmc/articles/PMC5082599/)] [[PubMed: 27604504](https://pubmed.ncbi.nlm.nih.gov/27604504)]
+Mulvenna P, Nankivell M, Barton R, Faivre-Finn C, Wilson P, McColl E, Moore B, Brisbane I, Ardron D, Holt T, Morgan S, Lee C, Waite K, Bayman N, Pugh C, Sydes B, Stephens R, Parmar MK, Langley RE. Dexamethasone and supportive care with or without whole brain radiotherapy in treating patients with non-small cell lung cancer with brain metastases unsuitable for resection or stereotactic radiotherapy (QUARTZ): results from a phase 3, non-inferiority, randomised trial. Lancet. 2016 Oct 22;388(10055):2004-2014. \[[PMC free article: PMC5082599](/pmc/articles/PMC5082599/)\] \[[PubMed: 27604504](https://pubmed.ncbi.nlm.nih.gov/27604504)\]
 
 36.
-    
 
-Créquit P, Chaimani A, Yavchitz A, Attiche N, Cadranel J, Trinquart L, Ravaud P. Comparative efficacy and safety of second-line treatments for advanced non-small cell lung cancer with wild-type or unknown status for epidermal growth factor receptor: a systematic review and network meta-analysis. BMC Med. 2017 Oct 30;15(1):193. [[PMC free article: PMC5662096](/pmc/articles/PMC5662096/)] [[PubMed: 29082855](https://pubmed.ncbi.nlm.nih.gov/29082855)]
+Créquit P, Chaimani A, Yavchitz A, Attiche N, Cadranel J, Trinquart L, Ravaud P. Comparative efficacy and safety of second-line treatments for advanced non-small cell lung cancer with wild-type or unknown status for epidermal growth factor receptor: a systematic review and network meta-analysis. BMC Med. 2017 Oct 30;15(1):193. \[[PMC free article: PMC5662096](/pmc/articles/PMC5662096/)\] \[[PubMed: 29082855](https://pubmed.ncbi.nlm.nih.gov/29082855)\]
 
 37.
-    
 
-Ramos-Esquivel A, van der Laat A, Rojas-Vigott R, Juárez M, Corrales-Rodríguez L. Anti-PD-1/anti-PD-L1 immunotherapy versus docetaxel for previously treated advanced non-small cell lung cancer: a systematic review and meta-analysis of randomised clinical trials. ESMO Open. 2017;2(3):e000236. [[PMC free article: PMC5699523](/pmc/articles/PMC5699523/)] [[PubMed: 29181191](https://pubmed.ncbi.nlm.nih.gov/29181191)]
+Ramos-Esquivel A, van der Laat A, Rojas-Vigott R, Juárez M, Corrales-Rodríguez L. Anti-PD-1/anti-PD-L1 immunotherapy versus docetaxel for previously treated advanced non-small cell lung cancer: a systematic review and meta-analysis of randomised clinical trials. ESMO Open. 2017;2(3):e000236. \[[PMC free article: PMC5699523](/pmc/articles/PMC5699523/)\] \[[PubMed: 29181191](https://pubmed.ncbi.nlm.nih.gov/29181191)\]
 
 38.
-    
 
-Rusch VW, Asamura H, Watanabe H, Giroux DJ, Rami-Porta R, Goldstraw P., Members of IASLC Staging Committee. The IASLC lung cancer staging project: a proposal for a new international lymph node map in the forthcoming seventh edition of the TNM classification for lung cancer. J Thorac Oncol. 2009 May;4(5):568-77. [[PubMed: 19357537](https://pubmed.ncbi.nlm.nih.gov/19357537)]
+Rusch VW, Asamura H, Watanabe H, Giroux DJ, Rami-Porta R, Goldstraw P., Members of IASLC Staging Committee. The IASLC lung cancer staging project: a proposal for a new international lymph node map in the forthcoming seventh edition of the TNM classification for lung cancer. J Thorac Oncol. 2009 May;4(5):568-77. \[[PubMed: 19357537](https://pubmed.ncbi.nlm.nih.gov/19357537)\]
 
 39.
-    
 
-Eberhardt WE, De Ruysscher D, Weder W, Le Péchoux C, De Leyn P, Hoffmann H, Westeel V, Stahel R, Felip E, Peters S., Panel Members. 2nd ESMO Consensus Conference in Lung Cancer: locally advanced stage III non-small-cell lung cancer. Ann Oncol. 2015 Aug;26(8):1573-88. [[PubMed: 25897013](https://pubmed.ncbi.nlm.nih.gov/25897013)]
+Eberhardt WE, De Ruysscher D, Weder W, Le Péchoux C, De Leyn P, Hoffmann H, Westeel V, Stahel R, Felip E, Peters S., Panel Members. 2nd ESMO Consensus Conference in Lung Cancer: locally advanced stage III non-small-cell lung cancer. Ann Oncol. 2015 Aug;26(8):1573-88. \[[PubMed: 25897013](https://pubmed.ncbi.nlm.nih.gov/25897013)\]
 
 40.
-    
 
-Lizama C, Slavova-Azmanova NS, Phillips M, Trevenen ML, Li IW, Johnson CE. Implementing Endobronchial Ultrasound-Guided (EBUS) for Staging and Diagnosis of Lung Cancer: A Cost Analysis. Med Sci Monit. 2018 Jan 29;24:582-589. [[PMC free article: PMC5800486](/pmc/articles/PMC5800486/)] [[PubMed: 29377878](https://pubmed.ncbi.nlm.nih.gov/29377878)]
+Lizama C, Slavova-Azmanova NS, Phillips M, Trevenen ML, Li IW, Johnson CE. Implementing Endobronchial Ultrasound-Guided (EBUS) for Staging and Diagnosis of Lung Cancer: A Cost Analysis. Med Sci Monit. 2018 Jan 29;24:582-589. \[[PMC free article: PMC5800486](/pmc/articles/PMC5800486/)\] \[[PubMed: 29377878](https://pubmed.ncbi.nlm.nih.gov/29377878)\]
 
 41.
-    
 
-Bugalho A, de Santis M, Slubowski A, Rozman A, Eberhardt R. Trans-esophageal endobronchial ultrasound-guided needle aspiration (EUS-B-NA): A road map for the chest physician. Pulmonology. 2018 Jan/Feb;24(1):32-41. [[PubMed: 29242047](https://pubmed.ncbi.nlm.nih.gov/29242047)]
+Bugalho A, de Santis M, Slubowski A, Rozman A, Eberhardt R. Trans-esophageal endobronchial ultrasound-guided needle aspiration (EUS-B-NA): A road map for the chest physician. Pulmonology. 2018 Jan/Feb;24(1):32-41. \[[PubMed: 29242047](https://pubmed.ncbi.nlm.nih.gov/29242047)\]
 
 42.
-    
 
-Hoang T, Xu R, Schiller JH, Bonomi P, Johnson DH. Clinical model to predict survival in chemonaive patients with advanced non-small-cell lung cancer treated with third-generation chemotherapy regimens based on eastern cooperative oncology group data. J Clin Oncol. 2005 Jan 01;23(1):175-83. [[PubMed: 15625371](https://pubmed.ncbi.nlm.nih.gov/15625371)]
+Hoang T, Xu R, Schiller JH, Bonomi P, Johnson DH. Clinical model to predict survival in chemonaive patients with advanced non-small-cell lung cancer treated with third-generation chemotherapy regimens based on eastern cooperative oncology group data. J Clin Oncol. 2005 Jan 01;23(1):175-83. \[[PubMed: 15625371](https://pubmed.ncbi.nlm.nih.gov/15625371)\]
 
 43.
-    
 
-D'Angelo SP, Janjigian YY, Ahye N, Riely GJ, Chaft JE, Sima CS, Shen R, Zheng J, Dycoco J, Kris MG, Zakowski MF, Ladanyi M, Rusch V, Azzoli CG. Distinct clinical course of EGFR-mutant resected lung cancers: results of testing of 1118 surgical specimens and effects of adjuvant gefitinib and erlotinib. J Thorac Oncol. 2012 Dec;7(12):1815-1822. [[PubMed: 23154553](https://pubmed.ncbi.nlm.nih.gov/23154553)]
+D'Angelo SP, Janjigian YY, Ahye N, Riely GJ, Chaft JE, Sima CS, Shen R, Zheng J, Dycoco J, Kris MG, Zakowski MF, Ladanyi M, Rusch V, Azzoli CG. Distinct clinical course of EGFR-mutant resected lung cancers: results of testing of 1118 surgical specimens and effects of adjuvant gefitinib and erlotinib. J Thorac Oncol. 2012 Dec;7(12):1815-1822. \[[PubMed: 23154553](https://pubmed.ncbi.nlm.nih.gov/23154553)\]
 
 44.
-    
 
-Sculier JP, Chansky K, Crowley JJ, Van Meerbeeck J, Goldstraw P., International Staging Committee and Participating Institutions. The impact of additional prognostic factors on survival and their relationship with the anatomical extent of disease expressed by the 6th Edition of the TNM Classification of Malignant Tumors and the proposals for the 7th Edition. J Thorac Oncol. 2008 May;3(5):457-66. [[PubMed: 18448996](https://pubmed.ncbi.nlm.nih.gov/18448996)]
+Sculier JP, Chansky K, Crowley JJ, Van Meerbeeck J, Goldstraw P., International Staging Committee and Participating Institutions. The impact of additional prognostic factors on survival and their relationship with the anatomical extent of disease expressed by the 6th Edition of the TNM Classification of Malignant Tumors and the proposals for the 7th Edition. J Thorac Oncol. 2008 May;3(5):457-66. \[[PubMed: 18448996](https://pubmed.ncbi.nlm.nih.gov/18448996)\]
 
 45.
-    
 
-Tammemägi MC, Church TR, Hocking WG, Silvestri GA, Kvale PA, Riley TL, Commins J, Berg CD. Evaluation of the lung cancer risks at which to screen ever- and never-smokers: screening rules applied to the PLCO and NLST cohorts. PLoS Med. 2014 Dec;11(12):e1001764. [[PMC free article: PMC4251899](/pmc/articles/PMC4251899/)] [[PubMed: 25460915](https://pubmed.ncbi.nlm.nih.gov/25460915)]
+Tammemägi MC, Church TR, Hocking WG, Silvestri GA, Kvale PA, Riley TL, Commins J, Berg CD. Evaluation of the lung cancer risks at which to screen ever- and never-smokers: screening rules applied to the PLCO and NLST cohorts. PLoS Med. 2014 Dec;11(12):e1001764. \[[PMC free article: PMC4251899](/pmc/articles/PMC4251899/)\] \[[PubMed: 25460915](https://pubmed.ncbi.nlm.nih.gov/25460915)\]
 
 46.
-    
 
-US Preventive Services Task Force. Krist AH, Davidson KW, Mangione CM, Barry MJ, Cabana M, Caughey AB, Davis EM, Donahue KE, Doubeni CA, Kubik M, Landefeld CS, Li L, Ogedegbe G, Owens DK, Pbert L, Silverstein M, Stevermer J, Tseng CW, Wong JB. Screening for Lung Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2021 Mar 09;325(10):962-970. [[PubMed: 33687470](https://pubmed.ncbi.nlm.nih.gov/33687470)]
+US Preventive Services Task Force. Krist AH, Davidson KW, Mangione CM, Barry MJ, Cabana M, Caughey AB, Davis EM, Donahue KE, Doubeni CA, Kubik M, Landefeld CS, Li L, Ogedegbe G, Owens DK, Pbert L, Silverstein M, Stevermer J, Tseng CW, Wong JB. Screening for Lung Cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2021 Mar 09;325(10):962-970. \[[PubMed: 33687470](https://pubmed.ncbi.nlm.nih.gov/33687470)\]
 
 47.
-    
 
-Stevens R, Macbeth F, Toy E, Coles B, Lester JF. Palliative radiotherapy regimens for patients with thoracic symptoms from non-small cell lung cancer. Cochrane Database Syst Rev. 2015 Jan 14;1(1):CD002143. [[PMC free article: PMC7017846](/pmc/articles/PMC7017846/)] [[PubMed: 25586198](https://pubmed.ncbi.nlm.nih.gov/25586198)]
+Stevens R, Macbeth F, Toy E, Coles B, Lester JF. Palliative radiotherapy regimens for patients with thoracic symptoms from non-small cell lung cancer. Cochrane Database Syst Rev. 2015 Jan 14;1(1):CD002143. \[[PMC free article: PMC7017846](/pmc/articles/PMC7017846/)\] \[[PubMed: 25586198](https://pubmed.ncbi.nlm.nih.gov/25586198)\]
 
 48.
-    
 
-Yang GM, Teo I, Neo SH, Tan D, Cheung YB. Pilot Randomized Phase II Trial of the Enhancing Quality of Life in Patients (EQUIP) Intervention for Patients With Advanced Lung Cancer. Am J Hosp Palliat Care. 2018 Aug;35(8):1050-1056. [[PubMed: 29409327](https://pubmed.ncbi.nlm.nih.gov/29409327)]
+Yang GM, Teo I, Neo SH, Tan D, Cheung YB. Pilot Randomized Phase II Trial of the Enhancing Quality of Life in Patients (EQUIP) Intervention for Patients With Advanced Lung Cancer. Am J Hosp Palliat Care. 2018 Aug;35(8):1050-1056. \[[PubMed: 29409327](https://pubmed.ncbi.nlm.nih.gov/29409327)\]
 
 49.
-    
 
-Visentin A, Mantovani MF, Kalinke LP, Boller S, Sarquis LMM. Palliative therapy in adults with cancer: a cross-sectional study. Rev Bras Enferm. 2018 Mar-Apr;71(2):252-258. [[PubMed: 29412280](https://pubmed.ncbi.nlm.nih.gov/29412280)]
+Visentin A, Mantovani MF, Kalinke LP, Boller S, Sarquis LMM. Palliative therapy in adults with cancer: a cross-sectional study. Rev Bras Enferm. 2018 Mar-Apr;71(2):252-258. \[[PubMed: 29412280](https://pubmed.ncbi.nlm.nih.gov/29412280)\]
 
 50.
-    
 
-Soneji S, Yang J, Tanner NT, Silvestri GA. Occurrence of Discussion about Lung Cancer Screening Between Patients and Healthcare Providers in the USA, 2017. J Cancer Educ. 2020 Aug;35(4):678-681. [[PubMed: 30852789](https://pubmed.ncbi.nlm.nih.gov/30852789)]
+Soneji S, Yang J, Tanner NT, Silvestri GA. Occurrence of Discussion about Lung Cancer Screening Between Patients and Healthcare Providers in the USA, 2017. J Cancer Educ. 2020 Aug;35(4):678-681. \[[PubMed: 30852789](https://pubmed.ncbi.nlm.nih.gov/30852789)\]
 
 51.
-    
 
-Elia S, Loprete S, De Stefano A, Hardavella G. Does aggressive management of solitary pulmonary nodules pay off? Breathe (Sheff). 2019 Mar;15(1):15-23. [[PMC free article: PMC6395991](/pmc/articles/PMC6395991/)] [[PubMed: 30838056](https://pubmed.ncbi.nlm.nih.gov/30838056)]
-
-    
+Elia S, Loprete S, De Stefano A, Hardavella G. Does aggressive management of solitary pulmonary nodules pay off? Breathe (Sheff). 2019 Mar;15(1):15-23. \[[PMC free article: PMC6395991](/pmc/articles/PMC6395991/)\] \[[PubMed: 30838056](https://pubmed.ncbi.nlm.nih.gov/30838056)\]
 
 **Disclosure:** Faraz Siddiqui declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Sarosh Vaqar declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Abdul Siddiqui declares no relevant financial relationships with ineligible companies.

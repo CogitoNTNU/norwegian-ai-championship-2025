@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23224/
-scraped_date: 2025-07-22 12:35:59 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23224/ scraped_date: 2025-07-22 12:35:59 UTC
 
 # Hypertensive Emergency
 
@@ -25,13 +24,13 @@ A hypertensive emergency is an acute, marked elevation in blood pressure that is
 
 **Objectives:**
 
-  * Describe the pathophysiology of hypertensive emergency.
+- Describe the pathophysiology of hypertensive emergency.
 
-  * Describe the presentation of a patient with hypertensive emergency.
+- Describe the presentation of a patient with hypertensive emergency.
 
-  * Summarize the treatment of hypertensive emergency.
+- Summarize the treatment of hypertensive emergency.
 
-  * Outline modalities to improve care coordination among interprofessional team members in order to improve outcomes for patients affected by hypertensive emergency.
+- Outline modalities to improve care coordination among interprofessional team members in order to improve outcomes for patients affected by hypertensive emergency.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23224&utm_source=pubmed&utm_campaign=reviews&utm_content=23224)
 
@@ -83,35 +82,35 @@ The key feature about management is that if there is no evidence of organ damage
 
 **Current Guidelines**
 
-  1. Patients with a hypertensive emergency need admission with continuous blood pressure monitoring.
+1. Patients with a hypertensive emergency need admission with continuous blood pressure monitoring.
 
-  2. Assess for target organ injury and start parenteral medications as needed
+1. Assess for target organ injury and start parenteral medications as needed
 
-  3. If the patient has an acute emergency like aortic dissection, lower the blood pressure to below 140 mmHg in the first hour
+1. If the patient has an acute emergency like aortic dissection, lower the blood pressure to below 140 mmHg in the first hour
 
-  4. for adults with no organ damage, lower the blood pressure by 25% in the first hour and then to 160/100 over the next 2-6 hours, and then gradually to normal over 2 days.
+1. for adults with no organ damage, lower the blood pressure by 25% in the first hour and then to 160/100 over the next 2-6 hours, and then gradually to normal over 2 days.
 
 ## Differential Diagnosis
 
-  * Acute kidney injury
+- Acute kidney injury
 
-  * Aortic coarctation
+- Aortic coarctation
 
-  * Aortic dissection
+- Aortic dissection
 
-  * Chronic kidney disease
+- Chronic kidney disease
 
-  * Eclampsia
+- Eclampsia
 
-  * Hypocalcemia
+- Hypocalcemia
 
-  * Hyperthyroidism
+- Hyperthyroidism
 
-  * Pheochromocytoma
+- Pheochromocytoma
 
-  * Renal artery stenosis
+- Renal artery stenosis
 
-  * Subarachnoid hemorrhage
+- Subarachnoid hemorrhage
 
 ## Prognosis
 
@@ -123,13 +122,13 @@ Unfortunately, the overall long-term prognosis of patients with hypertensive eme
 
 Failure to make a diagnosis or treatment of a hypertensive emergency can lead to the following:
 
-  * Renal failure
+- Renal failure
 
-  * Vision loss
+- Vision loss
 
-  * MI
+- MI
 
-  * Stroke
+- Stroke
 
 ## Postoperative and Rehabilitation Care
 
@@ -151,7 +150,7 @@ Aortic dissection also deviates in the degree of blood pressure lowering that is
 
 Preeclampsia is a particularly troubling and difficult to manage hypertensive emergency since there are two patients to consider. The first-line therapy is magnesium sulfate, administered as a 4 g to 6 g loading dose followed by 1 g to 2 g/hour infusion. Care must be taken to monitor for urine output, deep tendon reflexes, and respiratory status. If further antihypertensives are needed, beta-blockers can be used, but only to treat SBP higher than 160 mmHg. Hydralazine was once touted as the preferred agent in pregnant patients; however, its delayed onset of action, prolonged duration, and unpredictable hypotensive effects make it a less than ideal choice. Regardless of the agent, the patient is likely to need close monitoring in a critical care setting.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Hypertensive emergency is not an uncommon presentation to the ER. Despite awareness of its high morbidity and mortality, at least 50% of patients with hypertension do not remain compliant with their medications. The problem is exacerbated when the only access for these patients is the emergency room. There are countless guidelines by national agencies and organizations on blood pressure control, but many patients do not seem to appreciate the seriousness of hypertension. An interprofessional approach to the management of hypertension is recommended beginning with the primary caregiver. Patients need to be educated about the importance of antihypertensive medications by the pharmacist, discharge nurse, and primary care provider. The treatment of hypertension is best done as an outpatient; the few minutes spent with a cardiologist in a hospital very rarely makes any difference.
 
@@ -165,78 +164,62 @@ There are many case series indicating that the short-term management of hyperten
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23224&utm_source=pubmed&utm_campaign=reviews&utm_content=23224)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23224&utm_source=pubmed&utm_campaign=reviews&utm_content=23224)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/hypertensive-emergency/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=23224)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/hypertensive-emergency/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=23224)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/23224/?utm_source=pubmed&utm_campaign=comments&utm_content=23224)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/23224/?utm_source=pubmed&utm_campaign=comments&utm_content=23224)
 
 ## References
 
 1.
-    
 
-Froehlich RJ, Maggio L, Has P, Vrees R, Hughes BL. Improving Obstetric Hypertensive Emergency Treatment in a Tertiary Care Women's Emergency Department. Obstet Gynecol. 2018 Oct;132(4):850-858. [[PubMed: 30130350](https://pubmed.ncbi.nlm.nih.gov/30130350)]
+Froehlich RJ, Maggio L, Has P, Vrees R, Hughes BL. Improving Obstetric Hypertensive Emergency Treatment in a Tertiary Care Women's Emergency Department. Obstet Gynecol. 2018 Oct;132(4):850-858. \[[PubMed: 30130350](https://pubmed.ncbi.nlm.nih.gov/30130350)\]
 
 2.
-    
 
-Shao PJ, Sawe HR, Murray BL, Mfinanga JA, Mwafongo V, Runyon MS. Profile of patients with hypertensive urgency and emergency presenting to an urban emergency department of a tertiary referral hospital in Tanzania. BMC Cardiovasc Disord. 2018 Aug 02;18(1):158. [[PMC free article: PMC6090910](/pmc/articles/PMC6090910/)] [[PubMed: 30068315](https://pubmed.ncbi.nlm.nih.gov/30068315)]
+Shao PJ, Sawe HR, Murray BL, Mfinanga JA, Mwafongo V, Runyon MS. Profile of patients with hypertensive urgency and emergency presenting to an urban emergency department of a tertiary referral hospital in Tanzania. BMC Cardiovasc Disord. 2018 Aug 02;18(1):158. \[[PMC free article: PMC6090910](/pmc/articles/PMC6090910/)\] \[[PubMed: 30068315](https://pubmed.ncbi.nlm.nih.gov/30068315)\]
 
 3.
-    
 
-Tocci G, Figliuzzi I, Presta V, Miceli F, Citoni B, Coluccia R, Musumeci MB, Ferrucci A, Volpe M. Therapeutic Approach to Hypertension Urgencies and Emergencies During Acute Coronary Syndrome. High Blood Press Cardiovasc Prev. 2018 Sep;25(3):253-259. [[PubMed: 30066227](https://pubmed.ncbi.nlm.nih.gov/30066227)]
+Tocci G, Figliuzzi I, Presta V, Miceli F, Citoni B, Coluccia R, Musumeci MB, Ferrucci A, Volpe M. Therapeutic Approach to Hypertension Urgencies and Emergencies During Acute Coronary Syndrome. High Blood Press Cardiovasc Prev. 2018 Sep;25(3):253-259. \[[PubMed: 30066227](https://pubmed.ncbi.nlm.nih.gov/30066227)\]
 
 4.
-    
 
-Paini A, Aggiusti C, Bertacchini F, Agabiti Rosei C, Maruelli G, Arnoldi C, Cappellini S, Muiesan ML, Salvetti M. Definitions and Epidemiological Aspects of Hypertensive Urgencies and Emergencies. High Blood Press Cardiovasc Prev. 2018 Sep;25(3):241-244. [[PubMed: 29916180](https://pubmed.ncbi.nlm.nih.gov/29916180)]
+Paini A, Aggiusti C, Bertacchini F, Agabiti Rosei C, Maruelli G, Arnoldi C, Cappellini S, Muiesan ML, Salvetti M. Definitions and Epidemiological Aspects of Hypertensive Urgencies and Emergencies. High Blood Press Cardiovasc Prev. 2018 Sep;25(3):241-244. \[[PubMed: 29916180](https://pubmed.ncbi.nlm.nih.gov/29916180)\]
 
 5.
-    
 
-Watson K, Broscious R, Devabhakthuni S, Noel ZR. Focused Update on Pharmacologic Management of Hypertensive Emergencies. Curr Hypertens Rep. 2018 Jun 08;20(7):56. [[PubMed: 29884955](https://pubmed.ncbi.nlm.nih.gov/29884955)]
+Watson K, Broscious R, Devabhakthuni S, Noel ZR. Focused Update on Pharmacologic Management of Hypertensive Emergencies. Curr Hypertens Rep. 2018 Jun 08;20(7):56. \[[PubMed: 29884955](https://pubmed.ncbi.nlm.nih.gov/29884955)\]
 
 6.
-    
 
-Viera AJ. Hypertension Update: Hypertensive Emergency and Asymptomatic Severe Hypertension. FP Essent. 2018 Jun;469:16-19. [[PubMed: 29863318](https://pubmed.ncbi.nlm.nih.gov/29863318)]
+Viera AJ. Hypertension Update: Hypertensive Emergency and Asymptomatic Severe Hypertension. FP Essent. 2018 Jun;469:16-19. \[[PubMed: 29863318](https://pubmed.ncbi.nlm.nih.gov/29863318)\]
 
 7.
-    
 
-Arbe G, Pastor I, Franco J. Diagnostic and therapeutic approach to the hypertensive crisis. Med Clin (Barc). 2018 Apr 23;150(8):317-322. [[PubMed: 29174704](https://pubmed.ncbi.nlm.nih.gov/29174704)]
+Arbe G, Pastor I, Franco J. Diagnostic and therapeutic approach to the hypertensive crisis. Med Clin (Barc). 2018 Apr 23;150(8):317-322. \[[PubMed: 29174704](https://pubmed.ncbi.nlm.nih.gov/29174704)\]
 
 8.
-    
 
-Salvetti M, Paini A, Bertacchini F, Stassaldi D, Aggiusti C, Agabiti Rosei C, Muiesan ML. Acute blood pressure elevation: Therapeutic approach. Pharmacol Res. 2018 Apr;130:180-190. [[PubMed: 29481963](https://pubmed.ncbi.nlm.nih.gov/29481963)]
+Salvetti M, Paini A, Bertacchini F, Stassaldi D, Aggiusti C, Agabiti Rosei C, Muiesan ML. Acute blood pressure elevation: Therapeutic approach. Pharmacol Res. 2018 Apr;130:180-190. \[[PubMed: 29481963](https://pubmed.ncbi.nlm.nih.gov/29481963)\]
 
 9.
-    
 
-Martínez-Díaz AM, Palazón-Bru A, Folgado-de la Rosa DM, Ramírez-Prado D, Navarro-Juan M, Pérez-Ramírez N, Gil-Guillén VF. A one-year risk score to predict all-cause mortality in hypertensive inpatients. Eur J Intern Med. 2019 Jan;59:77-83. [[PubMed: 30007839](https://pubmed.ncbi.nlm.nih.gov/30007839)]
+Martínez-Díaz AM, Palazón-Bru A, Folgado-de la Rosa DM, Ramírez-Prado D, Navarro-Juan M, Pérez-Ramírez N, Gil-Guillén VF. A one-year risk score to predict all-cause mortality in hypertensive inpatients. Eur J Intern Med. 2019 Jan;59:77-83. \[[PubMed: 30007839](https://pubmed.ncbi.nlm.nih.gov/30007839)\]
 
 10.
-    
 
-Georgiopoulos G, Kollia Z, Katsi V, Oikonomou D, Tsioufis C, Tousoulis D. Nurse's Contribution to Alleviate Non-adherence to Hypertension Treatment. Curr Hypertens Rep. 2018 Jun 15;20(8):65. [[PubMed: 29904903](https://pubmed.ncbi.nlm.nih.gov/29904903)]
+Georgiopoulos G, Kollia Z, Katsi V, Oikonomou D, Tsioufis C, Tousoulis D. Nurse's Contribution to Alleviate Non-adherence to Hypertension Treatment. Curr Hypertens Rep. 2018 Jun 15;20(8):65. \[[PubMed: 29904903](https://pubmed.ncbi.nlm.nih.gov/29904903)\]
 
 11.
-    
 
-Chim C, Dimitropoulos E, Ginzburg R. Implementing a Policy and Protocol on Managing Patients With Hypertensive Urgencies. Ann Pharmacother. 2016 Jul;50(7):548-54. [[PubMed: 27083919](https://pubmed.ncbi.nlm.nih.gov/27083919)]
+Chim C, Dimitropoulos E, Ginzburg R. Implementing a Policy and Protocol on Managing Patients With Hypertensive Urgencies. Ann Pharmacother. 2016 Jul;50(7):548-54. \[[PubMed: 27083919](https://pubmed.ncbi.nlm.nih.gov/27083919)\]
 
 12.
-    
 
-Cazarim Mde S, de Freitas O, Penaforte TR, Achcar A, Pereira LR. Impact Assessment of Pharmaceutical Care in the Management of Hypertension and Coronary Risk Factors after Discharge. PLoS One. 2016;11(6):e0155204. [[PMC free article: PMC4909302](/pmc/articles/PMC4909302/)] [[PubMed: 27304922](https://pubmed.ncbi.nlm.nih.gov/27304922)]
-
-    
+Cazarim Mde S, de Freitas O, Penaforte TR, Achcar A, Pereira LR. Impact Assessment of Pharmaceutical Care in the Management of Hypertension and Coronary Risk Factors after Discharge. PLoS One. 2016;11(6):e0155204. \[[PMC free article: PMC4909302](/pmc/articles/PMC4909302/)\] \[[PubMed: 27304922](https://pubmed.ncbi.nlm.nih.gov/27304922)\]
 
 **Disclosure:** William Alley declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Michael Schick declares no relevant financial relationships with ineligible companies.

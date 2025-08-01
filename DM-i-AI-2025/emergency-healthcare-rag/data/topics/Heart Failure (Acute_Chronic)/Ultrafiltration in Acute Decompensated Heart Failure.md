@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-39069/
-scraped_date: 2025-07-22 12:35:01 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-39069/ scraped_date: 2025-07-22 12:35:01 UTC
 
 # Ultrafiltration in Acute Decompensated Heart Failure
 
@@ -27,13 +26,13 @@ Acute decompensated heart failure (ADHF) associated with volume overload is resp
 
 **Objectives:**
 
-  * Review the indications for ultrafiltration in acute decompensated heart failure patients.
+- Review the indications for ultrafiltration in acute decompensated heart failure patients.
 
-  * Describe the technique involved in performing ultrafiltration in acute decompensated heart failure patients.
+- Describe the technique involved in performing ultrafiltration in acute decompensated heart failure patients.
 
-  * Summarize the clinical benefits of ultrafiltration in acute decompensated heart failure.
+- Summarize the clinical benefits of ultrafiltration in acute decompensated heart failure.
 
-  * Explain interprofessional team strategies for enhancing care coordination and communication to advance the safe performance of ultrafiltration in acute decompensated heart failure and improve patient outcomes.
+- Explain interprofessional team strategies for enhancing care coordination and communication to advance the safe performance of ultrafiltration in acute decompensated heart failure and improve patient outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=39069&utm_source=pubmed&utm_campaign=reviews&utm_content=39069)
 
@@ -43,11 +42,11 @@ Acute decompensated heart failure (ADHF) is one of the leading causes of hospita
 
 ## Anatomy and Physiology
 
-Loop diuretics administered intravenously remain the first-line therapy for hospitalized ADHF patients. Loop diuretics inhibit Na+/2Cl-/K+ cotransporter in the ascending limb of the loop of Henle, which causes decreased sodium and chloride reabsorption and results in natriuresis and diuresis. Loop diuretics also increase the synthesis of prostaglandins, which cause renal and pulmonary vasodilation. This leads to a reduction in pulmonary wedge pressure.[5] This overall causes improvement of dyspnea and decreases ventricular filling pressures. 
+Loop diuretics administered intravenously remain the first-line therapy for hospitalized ADHF patients. Loop diuretics inhibit Na+/2Cl-/K+ cotransporter in the ascending limb of the loop of Henle, which causes decreased sodium and chloride reabsorption and results in natriuresis and diuresis. Loop diuretics also increase the synthesis of prostaglandins, which cause renal and pulmonary vasodilation. This leads to a reduction in pulmonary wedge pressure.[5] This overall causes improvement of dyspnea and decreases ventricular filling pressures.
 
 Recent studies have suggested that the lack of adequate decongestion achieved by loop diuretics is more common than previously known[6]. In patients with renal insufficiency (as seen in >50% of HF patients), anions compete with receptor sites for tubular transporters, and these patients need higher diuretic doses to achieve the effect.[7] As heart failure (HF) worsens, the dose-response curve for loop diuretics shifts downwards and to the right, causing a need for higher doses of diuretics to achieve the same effect. This is one of the mechanisms that can lead to an effect known as diuretic resistance in some patients. Dose escalation beyond a previously recognized dose ceiling or dose beyond the recommended maximum daily dose suggests diuretic resistance. Long-term administration of loop diuretics can cause a mechanism known as the “braking phenomenon.” This results from extracellular volume contraction causing an overactivation of the RAAS and sympathetic responses and adaptive epithelial hypertrophy and hyperfunction in the distal nephron, resulting in reduced delivery of solute to the proximal tubule[6].
 
-There are several strategies to overcome this diuretic resistance, one of them including ultrafiltration. Studies suggest that peripheral venovenous ultrafiltration is one of the most promising approaches in managing ADHF patients. 
+There are several strategies to overcome this diuretic resistance, one of them including ultrafiltration. Studies suggest that peripheral venovenous ultrafiltration is one of the most promising approaches in managing ADHF patients.
 
 ## Indications
 
@@ -55,15 +54,15 @@ In patients with refractory ADHF, which is severe in nature, who do not respond 
 
 ## Contraindications
 
-UF is contraindicated in any patient with evidence of hemodynamic instability. It is also contraindicated in patients with acute coronary syndrome, including myocardial infarction or unstable angina. Patients with serum creatinine greater than 3.0 mg/dL should not undergo UF. UF is also contraindicated in patients with a hematocrit of over 45%. Lastly, adequate venous access is necessary for UF; thus, if there is a contraindication for vascular access, then UF cannot be started. 
+UF is contraindicated in any patient with evidence of hemodynamic instability. It is also contraindicated in patients with acute coronary syndrome, including myocardial infarction or unstable angina. Patients with serum creatinine greater than 3.0 mg/dL should not undergo UF. UF is also contraindicated in patients with a hematocrit of over 45%. Lastly, adequate venous access is necessary for UF; thus, if there is a contraindication for vascular access, then UF cannot be started.
 
 ## Equipment
 
-UF equipment is similar to that for hemodialysis. The apparatus used to conduct UF consists of a dialyzer, dialysate, tubing for the transport of blood and the dialysis solution, and a machine to power and mechanically monitor the procedure. Dialyzers are usually made of polyurethane with hollow fiber membranes that are suspended in the dialysate. 
+UF equipment is similar to that for hemodialysis. The apparatus used to conduct UF consists of a dialyzer, dialysate, tubing for the transport of blood and the dialysis solution, and a machine to power and mechanically monitor the procedure. Dialyzers are usually made of polyurethane with hollow fiber membranes that are suspended in the dialysate.
 
 ## Preparation
 
-There are studies evaluating the differences among methods of vascular access for ultrafiltration that are done long term and intermittently. Issues related to cost and technical difficulty should be considered when choosing the access site. Central venous access is required with a preference for internal jugular access. Access, especially long-term, for UF patients increases the risks of adverse events. An arteriovenous communication is usually used in chronic dialysis patients but is also used in UF and can be associated with an increased risk of high output HF and right ventricular HF. Peritoneal dialysis access is also an option but can cause a rare complication of peritonitis. 
+There are studies evaluating the differences among methods of vascular access for ultrafiltration that are done long term and intermittently. Issues related to cost and technical difficulty should be considered when choosing the access site. Central venous access is required with a preference for internal jugular access. Access, especially long-term, for UF patients increases the risks of adverse events. An arteriovenous communication is usually used in chronic dialysis patients but is also used in UF and can be associated with an increased risk of high output HF and right ventricular HF. Peritoneal dialysis access is also an option but can cause a rare complication of peritonitis.
 
 ## Technique or Treatment
 
@@ -75,107 +74,86 @@ Adverse events associated with UF include clotting of UF filters, transient disc
 
 ## Clinical Significance
 
-UF therapy is a mechanical modality of fluid removal. It reduces central venous pressure (CVP) without impacting circulating volume. This is accomplished by creating a hydrostatic pressure gradient that triggers a mechanical extraction of fluid across a filter which subsequently results in the separation and removal of isotonic plasma water. Studies show that it can be used effectively to reduce volume overload in patients resistant to conventional diuretic therapy. The UNLOAD (UF versus Intravenous Diuretics for Patients Hospitalized for ADHF) trial found that UF is not only an effective alternative therapy for refractory HF but also safely produces greater weight and fluid loss than intravenous diuretics and reduces 90-day HF readmissions and cumulative hospital readmissions. Three recent meta-analyses evaluating the comparative outcomes of UF versus conventional diuretic therapy in reducing volume overload in patients with ADHF found that patients that were able to tolerate UF had a significant reduction in volume overload and weight in comparison to conventional diuretics alone. 
+UF therapy is a mechanical modality of fluid removal. It reduces central venous pressure (CVP) without impacting circulating volume. This is accomplished by creating a hydrostatic pressure gradient that triggers a mechanical extraction of fluid across a filter which subsequently results in the separation and removal of isotonic plasma water. Studies show that it can be used effectively to reduce volume overload in patients resistant to conventional diuretic therapy. The UNLOAD (UF versus Intravenous Diuretics for Patients Hospitalized for ADHF) trial found that UF is not only an effective alternative therapy for refractory HF but also safely produces greater weight and fluid loss than intravenous diuretics and reduces 90-day HF readmissions and cumulative hospital readmissions. Three recent meta-analyses evaluating the comparative outcomes of UF versus conventional diuretic therapy in reducing volume overload in patients with ADHF found that patients that were able to tolerate UF had a significant reduction in volume overload and weight in comparison to conventional diuretics alone.
 
 UF can show great benefits for patients in ADHF refractory to standard therapy with diuretics. It also causes iso-osmotic volume loss without changing or creating any electrolyte abnormalities. In addition, it can lead to maximum sodium loss per unit of volume removal compared to IV diuretics. UF can also lead to change in the neurohormonal milieu, which may have clinical significance in heart disease, and it has also been shown to restore diuretic sensitivity.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The use of UF to manage CHF patients is done with an interprofessional team that includes a cardiologist, nephrologist, intensivist, hemodialysis nurses, an internist, and a vascular surgeon. Ultrafiltration requires a careful assessment of the patient to determine the goal of fluid removal. Vital signs must be monitored closely and periodically. A team of extensively trained hemodialysis nurses is required. While acutely the treatment can reduce the fluid in the body, the long-term outcomes remain unknown. UF is also an expensive endeavor, and not everyone benefits from it; hence, patient selection is the key.[15]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=39069&utm_source=pubmed&utm_campaign=reviews&utm_content=39069)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=39069&utm_source=pubmed&utm_campaign=reviews&utm_content=39069)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/therapeutics/ultrafiltration-in-acute-decompensated-heart-failure-ultrafiltration/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=39069)
+- [Click here for a simplified version.](https://mdsearchlight.com/therapeutics/ultrafiltration-in-acute-decompensated-heart-failure-ultrafiltration/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=39069)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/39069/?utm_source=pubmed&utm_campaign=comments&utm_content=39069)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/39069/?utm_source=pubmed&utm_campaign=comments&utm_content=39069)
 
 ## References
 
 1.
-    
 
-Grossekettler L, Schmack B, Meyer K, Brockmann C, Wanninger R, Kreusser MM, Frankenstein L, Kihm LP, Zeier M, Katus HA, Remppis A, Schwenger V. Peritoneal dialysis as therapeutic option in heart failure patients. ESC Heart Fail. 2019 Apr;6(2):271-279. [[PMC free article: PMC6437425](/pmc/articles/PMC6437425/)] [[PubMed: 30815994](https://pubmed.ncbi.nlm.nih.gov/30815994)]
+Grossekettler L, Schmack B, Meyer K, Brockmann C, Wanninger R, Kreusser MM, Frankenstein L, Kihm LP, Zeier M, Katus HA, Remppis A, Schwenger V. Peritoneal dialysis as therapeutic option in heart failure patients. ESC Heart Fail. 2019 Apr;6(2):271-279. \[[PMC free article: PMC6437425](/pmc/articles/PMC6437425/)\] \[[PubMed: 30815994](https://pubmed.ncbi.nlm.nih.gov/30815994)\]
 
 2.
-    
 
-Kazory A, Costanzo MR. Extracorporeal Isolated Ultrafiltration for Management of Congestion in Heart Failure and Cardiorenal Syndrome. Adv Chronic Kidney Dis. 2018 Sep;25(5):434-442. [[PubMed: 30309461](https://pubmed.ncbi.nlm.nih.gov/30309461)]
+Kazory A, Costanzo MR. Extracorporeal Isolated Ultrafiltration for Management of Congestion in Heart Failure and Cardiorenal Syndrome. Adv Chronic Kidney Dis. 2018 Sep;25(5):434-442. \[[PubMed: 30309461](https://pubmed.ncbi.nlm.nih.gov/30309461)\]
 
 3.
-    
 
-Grodin JL, Carter S, Bart BA, Goldsmith SR, Drazner MH, Tang WHW. Direct comparison of ultrafiltration to pharmacological decongestion in heart failure: a per-protocol analysis of CARRESS-HF. Eur J Heart Fail. 2018 Jul;20(7):1148-1156. [[PubMed: 29493059](https://pubmed.ncbi.nlm.nih.gov/29493059)]
+Grodin JL, Carter S, Bart BA, Goldsmith SR, Drazner MH, Tang WHW. Direct comparison of ultrafiltration to pharmacological decongestion in heart failure: a per-protocol analysis of CARRESS-HF. Eur J Heart Fail. 2018 Jul;20(7):1148-1156. \[[PubMed: 29493059](https://pubmed.ncbi.nlm.nih.gov/29493059)\]
 
 4.
-    
 
-Siddiqui WJ, Kohut AR, Hasni SF, Goldman JM, Silverman B, Kelepouris E, Eisen HJ, Aggarwal S. Readmission rate after ultrafiltration in acute decompensated heart failure: a systematic review and meta-analysis. Heart Fail Rev. 2017 Nov;22(6):685-698. [[PubMed: 28900774](https://pubmed.ncbi.nlm.nih.gov/28900774)]
+Siddiqui WJ, Kohut AR, Hasni SF, Goldman JM, Silverman B, Kelepouris E, Eisen HJ, Aggarwal S. Readmission rate after ultrafiltration in acute decompensated heart failure: a systematic review and meta-analysis. Heart Fail Rev. 2017 Nov;22(6):685-698. \[[PubMed: 28900774](https://pubmed.ncbi.nlm.nih.gov/28900774)\]
 
 5.
-    
 
-Raftery EB. Haemodynamic effects of diuretics in heart failure. Br Heart J. 1994 Aug;72(2 Suppl):S44-7. [[PMC free article: PMC1025574](/pmc/articles/PMC1025574/)] [[PubMed: 7946758](https://pubmed.ncbi.nlm.nih.gov/7946758)]
+Raftery EB. Haemodynamic effects of diuretics in heart failure. Br Heart J. 1994 Aug;72(2 Suppl):S44-7. \[[PMC free article: PMC1025574](/pmc/articles/PMC1025574/)\] \[[PubMed: 7946758](https://pubmed.ncbi.nlm.nih.gov/7946758)\]
 
 6.
-    
 
-Felker GM, Mentz RJ. Diuretics and ultrafiltration in acute decompensated heart failure. J Am Coll Cardiol. 2012 Jun 12;59(24):2145-53. [[PubMed: 22676934](https://pubmed.ncbi.nlm.nih.gov/22676934)]
+Felker GM, Mentz RJ. Diuretics and ultrafiltration in acute decompensated heart failure. J Am Coll Cardiol. 2012 Jun 12;59(24):2145-53. \[[PubMed: 22676934](https://pubmed.ncbi.nlm.nih.gov/22676934)\]
 
 7.
-    
 
-De Bruyne LK. Mechanisms and management of diuretic resistance in congestive heart failure. Postgrad Med J. 2003 May;79(931):268-71. [[PMC free article: PMC1742703](/pmc/articles/PMC1742703/)] [[PubMed: 12782772](https://pubmed.ncbi.nlm.nih.gov/12782772)]
+De Bruyne LK. Mechanisms and management of diuretic resistance in congestive heart failure. Postgrad Med J. 2003 May;79(931):268-71. \[[PMC free article: PMC1742703](/pmc/articles/PMC1742703/)\] \[[PubMed: 12782772](https://pubmed.ncbi.nlm.nih.gov/12782772)\]
 
 8.
-    
 
-Onuigbo MAC, Agbasi N, Sengodan M, Rosario KF. Acute Kidney Injury in Heart Failure Revisited-The Ameliorating Impact of "Decongestive Diuresis" on Renal Dysfunction in Type 1 Acute Cardiorenal Syndrome: Accelerated Rising Pro B Naturetic Peptide Is a Predictor of Good Renal Prognosis. J Clin Med. 2017 Aug 29;6(9) [[PMC free article: PMC5615275](/pmc/articles/PMC5615275/)] [[PubMed: 28850085](https://pubmed.ncbi.nlm.nih.gov/28850085)]
+Onuigbo MAC, Agbasi N, Sengodan M, Rosario KF. Acute Kidney Injury in Heart Failure Revisited-The Ameliorating Impact of "Decongestive Diuresis" on Renal Dysfunction in Type 1 Acute Cardiorenal Syndrome: Accelerated Rising Pro B Naturetic Peptide Is a Predictor of Good Renal Prognosis. J Clin Med. 2017 Aug 29;6(9) \[[PMC free article: PMC5615275](/pmc/articles/PMC5615275/)\] \[[PubMed: 28850085](https://pubmed.ncbi.nlm.nih.gov/28850085)\]
 
 9.
-    
 
-Reed BN, Devabhakthuni S. Diuretic Resistance in Acute Decompensated Heart Failure: A Challenging Clinical Conundrum. Crit Care Nurs Q. 2017 Oct/Dec;40(4):363-373. [[PubMed: 28834858](https://pubmed.ncbi.nlm.nih.gov/28834858)]
+Reed BN, Devabhakthuni S. Diuretic Resistance in Acute Decompensated Heart Failure: A Challenging Clinical Conundrum. Crit Care Nurs Q. 2017 Oct/Dec;40(4):363-373. \[[PubMed: 28834858](https://pubmed.ncbi.nlm.nih.gov/28834858)\]
 
 10.
-    
 
-Kabach M, Alkhawam H, Shah S, Joseph G, Donath EM, Moss N, Rosenstein RS, Chait R. Ultrafiltration versus intravenous loop diuretics in patients with acute decompensated heart failure: a meta-analysis of clinical trials. Acta Cardiol. 2017 Apr;72(2):132-141. [[PubMed: 28597798](https://pubmed.ncbi.nlm.nih.gov/28597798)]
+Kabach M, Alkhawam H, Shah S, Joseph G, Donath EM, Moss N, Rosenstein RS, Chait R. Ultrafiltration versus intravenous loop diuretics in patients with acute decompensated heart failure: a meta-analysis of clinical trials. Acta Cardiol. 2017 Apr;72(2):132-141. \[[PubMed: 28597798](https://pubmed.ncbi.nlm.nih.gov/28597798)\]
 
 11.
-    
 
-Kitai T, Grodin JL, Kim YH, Tang WH. Impact of Ultrafiltration on Serum Sodium Homeostasis and its Clinical Implication in Patients With Acute Heart Failure, Congestion, and Worsening Renal Function. Circ Heart Fail. 2017 Feb;10(2):e003603. [[PMC free article: PMC5308796](/pmc/articles/PMC5308796/)] [[PubMed: 28130379](https://pubmed.ncbi.nlm.nih.gov/28130379)]
+Kitai T, Grodin JL, Kim YH, Tang WH. Impact of Ultrafiltration on Serum Sodium Homeostasis and its Clinical Implication in Patients With Acute Heart Failure, Congestion, and Worsening Renal Function. Circ Heart Fail. 2017 Feb;10(2):e003603. \[[PMC free article: PMC5308796](/pmc/articles/PMC5308796/)\] \[[PubMed: 28130379](https://pubmed.ncbi.nlm.nih.gov/28130379)\]
 
 12.
-    
 
-Jain A, Agrawal N, Kazory A. Defining the role of ultrafiltration therapy in acute heart failure: a systematic review and meta-analysis. Heart Fail Rev. 2016 Sep;21(5):611-9. [[PubMed: 27154520](https://pubmed.ncbi.nlm.nih.gov/27154520)]
+Jain A, Agrawal N, Kazory A. Defining the role of ultrafiltration therapy in acute heart failure: a systematic review and meta-analysis. Heart Fail Rev. 2016 Sep;21(5):611-9. \[[PubMed: 27154520](https://pubmed.ncbi.nlm.nih.gov/27154520)\]
 
 13.
-    
 
-Kazory A. Ultrafiltration Therapy for Heart Failure: Balancing Likely Benefits against Possible Risks. Clin J Am Soc Nephrol. 2016 Aug 08;11(8):1463-1471. [[PMC free article: PMC4974896](/pmc/articles/PMC4974896/)] [[PubMed: 27034400](https://pubmed.ncbi.nlm.nih.gov/27034400)]
+Kazory A. Ultrafiltration Therapy for Heart Failure: Balancing Likely Benefits against Possible Risks. Clin J Am Soc Nephrol. 2016 Aug 08;11(8):1463-1471. \[[PMC free article: PMC4974896](/pmc/articles/PMC4974896/)\] \[[PubMed: 27034400](https://pubmed.ncbi.nlm.nih.gov/27034400)\]
 
 14.
-    
 
-Kazory A. "AVOID"ing harm by a double-edged sword: is there a role for ultrafiltration in heart failure? Kidney Int. 2016 Mar;89(3):527-8. [[PubMed: 26880445](https://pubmed.ncbi.nlm.nih.gov/26880445)]
+Kazory A. "AVOID"ing harm by a double-edged sword: is there a role for ultrafiltration in heart failure? Kidney Int. 2016 Mar;89(3):527-8. \[[PubMed: 26880445](https://pubmed.ncbi.nlm.nih.gov/26880445)\]
 
 15.
-    
 
-Martens P, Nijst P, Mullens W. Current Approach to Decongestive Therapy in Acute Heart Failure. Curr Heart Fail Rep. 2015 Dec;12(6):367-78. [[PubMed: 26486631](https://pubmed.ncbi.nlm.nih.gov/26486631)]
-
-    
+Martens P, Nijst P, Mullens W. Current Approach to Decongestive Therapy in Acute Heart Failure. Curr Heart Fail Rep. 2015 Dec;12(6):367-78. \[[PubMed: 26486631](https://pubmed.ncbi.nlm.nih.gov/26486631)\]
 
 **Disclosure:** Luay Sarsam declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Muhammad Malik declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Khalid Bashir declares no relevant financial relationships with ineligible companies.

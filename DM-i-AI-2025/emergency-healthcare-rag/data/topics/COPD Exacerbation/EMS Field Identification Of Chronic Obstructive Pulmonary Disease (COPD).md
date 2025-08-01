@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26083/
-scraped_date: 2025-07-22 12:38:53 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26083/ scraped_date: 2025-07-22 12:38:53 UTC
 
 # Chronic Obstructive Pulmonary Disease
 
@@ -29,13 +28,13 @@ Chronic obstructive lung disease is a lung disease characterized by lung airflow
 
 **Objectives:**
 
-  * Identify the etiology, epidemiology, and pathophysiology of chronic obstructive pulmonary disease (COPD).
+- Identify the etiology, epidemiology, and pathophysiology of chronic obstructive pulmonary disease (COPD).
 
-  * Recall, analyze, and select appropriate history, physical, and evaluation of chronic obstructive pulmonary disease (COPD).
+- Recall, analyze, and select appropriate history, physical, and evaluation of chronic obstructive pulmonary disease (COPD).
 
-  * Explain the treatment and management options available for chronic obstructive pulmonary disease (COPD).
+- Explain the treatment and management options available for chronic obstructive pulmonary disease (COPD).
 
-  * Discuss interprofessional team strategies for improving care coordination and communication to advance chronic obstructive pulmonary disease (COPD) and improve outcomes.
+- Discuss interprofessional team strategies for improving care coordination and communication to advance chronic obstructive pulmonary disease (COPD) and improve outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26083&utm_source=pubmed&utm_campaign=reviews&utm_content=26083)
 
@@ -69,33 +68,33 @@ Patients with COPD may have multiple physical findings as follows:
 
 General [1]
 
-  * Significant respiratory distress in acute exacerbations
+- Significant respiratory distress in acute exacerbations
 
-  * Muscle wasting
+- Muscle wasting
 
 Lungs [5]
 
-  * Accessory respiratory muscle use
+- Accessory respiratory muscle use
 
-  * Prolonged expiration
+- Prolonged expiration
 
-  * Wheezing
+- Wheezing
 
-  * Pursed-lip breathing
+- Pursed-lip breathing
 
 Chest [5]
 
-  * Increased anterior-posterior chest wall diameter (barrel chest)
+- Increased anterior-posterior chest wall diameter (barrel chest)
 
 Skin [6]
 
-  * Central cyanosis when arterial oxygenation is low
+- Central cyanosis when arterial oxygenation is low
 
 Extremities [1]
 
-  * Digital clubbing
+- Digital clubbing
 
-  * Lower extremity edema in right heart failure
+- Lower extremity edema in right heart failure
 
 ## Evaluation
 
@@ -105,7 +104,7 @@ Pulmonary function testing (PFT) is essential in the diagnosis, staging, and mon
 
 The Global Initiative for Chronic Obstructive Lung Disease (GOLD) is a program initiated by the World Health Organization (WHO) and the National Heart, Lung, and Blood Institute (NHLBI). The program is recognized worldwide for providing updated and detailed reports on the recommendations for the diagnosis and management of COPD. The GOLD recommendations are often used to assess disease severity and choice of therapy. [1]
 
-The 2019 GOLD report outlines a simplified method of evaluating and choosing the initial treatment for patients with COPD. The refined ABCD assessment tool guides healthcare providers to determine the severity of disease and the GOLD group classification. Once the diagnosis of COPD is confirmed by spirometry (FEV1/FVC <0.7), the FEV1 is used to determine the severity (GOLD classification 1-4). The GOLD group (A-D) is then determined by the severity of symptoms and the history of exacerbations. The assessment of COPD is summarized in **Figure 1**. [1]
+The 2019 GOLD report outlines a simplified method of evaluating and choosing the initial treatment for patients with COPD. The refined ABCD assessment tool guides healthcare providers to determine the severity of disease and the GOLD group classification. Once the diagnosis of COPD is confirmed by spirometry (FEV1/FVC \<0.7), the FEV1 is used to determine the severity (GOLD classification 1-4). The GOLD group (A-D) is then determined by the severity of symptoms and the history of exacerbations. The assessment of COPD is summarized in **Figure 1**. [1]
 
 Symptom severity is evaluated using the modified British Medical Research Council (mMRC) questionnaire (**Table 1**) and the COPD Assessment Test (CAT) (**Table 2**). The mMRC questionnaire assesses the degree of breathlessness on a scale of 0-4 with 4 being the most severe. The COPD Assessment Test (CAT) provides a score on eight functional parameters to measure the impact of the disease on a patient’s daily life. [1][9]
 
@@ -149,323 +148,295 @@ Pulmonary rehabilitation is indicated in all stages of COPD. It is a comprehensi
 
 ## Differential Diagnosis
 
-  * Asthma
+- Asthma
 
-  * Asthma-COPD overlap syndrome
+- Asthma-COPD overlap syndrome
 
-  * Interstitial lung disease
+- Interstitial lung disease
 
-  * Bronchiolitis obliterans
+- Bronchiolitis obliterans
 
-  * Diffuse panbronchiolitis
+- Diffuse panbronchiolitis
 
-  * Heart failure
+- Heart failure
 
-  * Thromboembolic disease
+- Thromboembolic disease
 
-  * Lymphangioleiomyomatosis
+- Lymphangioleiomyomatosis
 
-  * Tuberculosis
+- Tuberculosis
 
-  * Cystic fibrosis
+- Cystic fibrosis
 
-  * Bronchiectasis
+- Bronchiectasis
 
-  * Malignancy
+- Malignancy
 
 ## Prognosis
 
 The prognosis of COPD is variable based on adherence to treatment including smoking cessation and avoidance of other harmful gases. Patients with other comorbidities (e.g., pulmonary hypertension, cardiovascular disease, lung cancer) typically have a poorer prognosis. The airflow limitation and dyspnea are usually progressive.
 
-The BODE (Body-mass index (BMI), airflow Obstruction, Dyspnea, and Exercise capacity) index is a tool used to determine the risk of mortality in COPD. The BODE index is scored on a point scale of 1-10 based on the following criteria: FEV1 % of predicted, 6-minute walk distance, mMRC scale, and BMI. The cumulative score is then correlated with 4-year survival. The BODE index is illustrated in **Table****4**. [24]
+The BODE (Body-mass index (BMI), airflow Obstruction, Dyspnea, and Exercise capacity) index is a tool used to determine the risk of mortality in COPD. The BODE index is scored on a point scale of 1-10 based on the following criteria: FEV1 % of predicted, 6-minute walk distance, mMRC scale, and BMI. The cumulative score is then correlated with 4-year survival. The BODE index is illustrated in **Table\*\*\*\*4**. [24]
 
 ## Complications
 
-  * Acute exacerbation of COPD
+- Acute exacerbation of COPD
 
-  * Acute and/or chronic respiratory failure
+- Acute and/or chronic respiratory failure
 
-  * Pulmonary hypertension
+- Pulmonary hypertension
 
-  * Cor pulmonale
+- Cor pulmonale
 
-  * Weight loss
+- Weight loss
 
-  * Bacterial infections
+- Bacterial infections
 
-  * Adverse reactions to glucocorticoids
+- Adverse reactions to glucocorticoids
 
 ## Consultations
 
 Management of patients with COPD requires a diverse team of health professionals that may include:
 
-  * Pulmonologist
+- Pulmonologist
 
-  * Thoracic surgeon if surgery is indicated
+- Thoracic surgeon if surgery is indicated
 
-  * Intensivist
+- Intensivist
 
-  * Respiratory therapist
+- Respiratory therapist
 
-  * Palliative care
+- Palliative care
 
 ## Deterrence and Patient Education
 
-To prevent or to slow the progression of COPD, patients should be educated on the following [1]:
+To prevent or to slow the progression of COPD, patients should be educated on the following \[1\]:
 
-  * Smoking cessation
+- Smoking cessation
 
-  * Avoid second-hand smoke exposure
+- Avoid second-hand smoke exposure
 
-  * Reduce exposure to other harmful agents 
-    * Common occupational/environmental exposures are listed below 
-      * Inorganic substances - asbestos, beryllium, carbon dust, silica, chromium
+- Reduce exposure to other harmful agents
 
-      * Organic substances - thermophilic fungi, avian droppings, bacterial species
+  - Common occupational/environmental exposures are listed below
 
-    * Unvented coal stoves
+    - Inorganic substances - asbestos, beryllium, carbon dust, silica, chromium
 
-  * Education on inhaler use technique
+    - Organic substances - thermophilic fungi, avian droppings, bacterial species
 
-  * Education and reinforcement on the importance of inhaler use
+  - Unvented coal stoves
 
-  * Compliance with follow-up
+- Education on inhaler use technique
 
-  * Adherence to the treatment plan
+- Education and reinforcement on the importance of inhaler use
 
-  * Detection of worsening symptoms
+- Compliance with follow-up
 
-  * Pulmonary rehabilitation
+- Adherence to the treatment plan
+
+- Detection of worsening symptoms
+
+- Pulmonary rehabilitation
 
 ## Pearls and Other Issues
 
-  * COPD is a chronic inflammatory lung disease causing tissue destruction and irreversible airflow limitation
+- COPD is a chronic inflammatory lung disease causing tissue destruction and irreversible airflow limitation
 
-  * Smoking is the most common risk factor worldwide
+- Smoking is the most common risk factor worldwide
 
-  * Patients should be screened for AATD
+- Patients should be screened for AATD
 
-  * COPD most commonly affects adults >40 years old
+- COPD most commonly affects adults >40 years old
 
-  * Diagnosis is made by spirometry with a post-bronchodilator FEV1/FVC ratio < 0.7
+- Diagnosis is made by spirometry with a post-bronchodilator FEV1/FVC ratio < 0.7
 
-  * Patients should avoid smoking and other harmful exposures
+- Patients should avoid smoking and other harmful exposures
 
-  * Annual influenza vaccination is recommended for all patients with COPD
+- Annual influenza vaccination is recommended for all patients with COPD
 
-  * PCV13 and PPSV23 at least 1 year apart is recommended for patients aged 65 or greater
+- PCV13 and PPSV23 at least 1 year apart is recommended for patients aged 65 or greater
 
-  * PPSV23 is recommended in COPD patients under age 65 with significant comorbid conditions
+- PPSV23 is recommended in COPD patients under age 65 with significant comorbid conditions
 
-  * Pharmacologic treatment typically involves the use of bronchodilators and inhaled corticosteroids
+- Pharmacologic treatment typically involves the use of bronchodilators and inhaled corticosteroids
 
-  * Complications commonly include acute exacerbations, pulmonary hypertension, and bacterial pneumonia
+- Complications commonly include acute exacerbations, pulmonary hypertension, and bacterial pneumonia
 
-  * Patients with a smoking history who meet screening criteria should be monitored for lung cancer 
-    * Criteria for lung cancer screening with low-dose computed tomography [25]
-      * Age 55-80
+- Patients with a smoking history who meet screening criteria should be monitored for lung cancer
 
-      * 30+ pack-year smoking history
+  - Criteria for lung cancer screening with low-dose computed tomography [25]
+    - Age 55-80
 
-      * Current smoker or quit within the past 15 years
+    - 30+ pack-year smoking history
 
-  * Lung transplantation may improve functional capacity but not prolong survival
+    - Current smoker or quit within the past 15 years
 
-## Enhancing Healthcare Team Outcomes 
+- Lung transplantation may improve functional capacity but not prolong survival
+
+## Enhancing Healthcare Team Outcomes
 
 Optimizing healthcare outcomes in patients with COPD involves collaboration between healthcare professionals and implementing comprehensive patient-tailored treatment plans. Healthcare professionals include primary care physicians, consultants, nurses, respiratory therapists, pharmacists, and rehabilitation specialists. Patients should be educated regularly on smoking cessation and encouraged to adhere to treatment plans. Pulmonary rehabilitation plays a large role in improving outcomes. Rehabilitation has been shown to improve the quality of life, dyspnea, and exercise capacity in patients with COPD. [23] [Level 2]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26083&utm_source=pubmed&utm_campaign=reviews&utm_content=26083)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26083&utm_source=pubmed&utm_campaign=reviews&utm_content=26083)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/chronic-obstructive-pulmonary-disease-copd/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26083)
+- [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/chronic-obstructive-pulmonary-disease-copd/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26083)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26083/?utm_source=pubmed&utm_campaign=comments&utm_content=26083)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26083/?utm_source=pubmed&utm_campaign=comments&utm_content=26083)
 
 [![Image ](/books/NBK559281/bin/20COPDfr.gif)](/books/NBK559281/figure/article-26083.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK559281/figure/article-26083.image.f1/?report=objectonly)
 
-X-Ray, Chest, Chronic Obstructive Pulmonary Disease, Anterior Contributed by H Shulman, MD 
+X-Ray, Chest, Chronic Obstructive Pulmonary Disease, Anterior Contributed by H Shulman, MD
 
 [![X-ray, COPD, Chronic Obstructive Pulmonary Disease, Bulla, Right Upper Lobe, Lateral Contributed by chestatlas](/books/NBK559281/bin/25bullalat.gif)](/books/NBK559281/figure/article-26083.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK559281/figure/article-26083.image.f2/?report=objectonly)
 
-X-ray, COPD, Chronic Obstructive Pulmonary Disease, Bulla, Right Upper Lobe, Lateral Contributed by chestatlas.com (H. Shulman MD) 
+X-ray, COPD, Chronic Obstructive Pulmonary Disease, Bulla, Right Upper Lobe, Lateral Contributed by chestatlas.com (H. Shulman MD)
 
 [![CT Scan, COPD, Chronic Obstructive Pulmonary Disease, Left Lung Contributed by chestatlas](/books/NBK559281/bin/20COPD7.gif)](/books/NBK559281/figure/article-26083.image.f3/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK559281/figure/article-26083.image.f3/?report=objectonly)
 
-CT Scan, COPD, Chronic Obstructive Pulmonary Disease, Left Lung Contributed by chestatlas.com (H. Shulman MD) 
+CT Scan, COPD, Chronic Obstructive Pulmonary Disease, Left Lung Contributed by chestatlas.com (H. Shulman MD)
 
 [![Figure 1](/books/NBK559281/bin/Figure__1.gif)](/books/NBK559281/figure/article-26083.image.f4/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK559281/figure/article-26083.image.f4/?report=objectonly)
 
-Figure 1. COPD assessment adapted from GOLD 2020 report. Contributed by Anuj Agarwal, MD 
+Figure 1. COPD assessment adapted from GOLD 2020 report. Contributed by Anuj Agarwal, MD
 
 [![Table 1](/books/NBK559281/bin/Figure__2.gif)](/books/NBK559281/figure/article-26083.image.f5/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK559281/figure/article-26083.image.f5/?report=objectonly)
 
-Table 1. Modified MRC Dyspnea Scale Used with Permission from 2020, Global Initiative for Chronic Obstructive Lung Disease (GOLD), available from www.goldcopd.org, published in Fontana, WI, USA. 
+Table 1. Modified MRC Dyspnea Scale Used with Permission from 2020, Global Initiative for Chronic Obstructive Lung Disease (GOLD), available from www.goldcopd.org, published in Fontana, WI, USA.
 
 [![Table 2](/books/NBK559281/bin/Figure__3.gif)](/books/NBK559281/figure/article-26083.image.f6/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK559281/figure/article-26083.image.f6/?report=objectonly)
 
-Table 2. COPD Assessment Test (CAT) Used with Permission from 2020, Global Initiative for Chronic Obstructive Lung Disease (GOLD), available from www.goldcopd.org, published in Fontana, WI, USA. 
+Table 2. COPD Assessment Test (CAT) Used with Permission from 2020, Global Initiative for Chronic Obstructive Lung Disease (GOLD), available from www.goldcopd.org, published in Fontana, WI, USA.
 
 [![Table 3](/books/NBK559281/bin/Figure__4.gif)](/books/NBK559281/figure/article-26083.image.f7/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK559281/figure/article-26083.image.f7/?report=objectonly)
 
-Table 3. Commonly used maintenance medications in COPD Used with Permission from 2020, Global Initiative for Chronic Obstructive Lung Disease (GOLD), available from www.goldcopd.org, published in Fontana, WI, USA. 
+Table 3. Commonly used maintenance medications in COPD Used with Permission from 2020, Global Initiative for Chronic Obstructive Lung Disease (GOLD), available from www.goldcopd.org, published in Fontana, WI, USA.
 
 [![Table 4](/books/NBK559281/bin/Figure__5.gif)](/books/NBK559281/figure/article-26083.image.f8/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK559281/figure/article-26083.image.f8/?report=objectonly)
 
-Table 4. BODE index for predicting COPD survival Contributed by Anuj Agarwal, MD 
+Table 4. BODE index for predicting COPD survival Contributed by Anuj Agarwal, MD
 
 ## References
 
 1.
-    
 
-Singh D, Agusti A, Anzueto A, Barnes PJ, Bourbeau J, Celli BR, Criner GJ, Frith P, Halpin DMG, Han M, López Varela MV, Martinez F, Montes de Oca M, Papi A, Pavord ID, Roche N, Sin DD, Stockley R, Vestbo J, Wedzicha JA, Vogelmeier C. Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Lung Disease: the GOLD science committee report 2019. Eur Respir J. 2019 May;53(5) [[PubMed: 30846476](https://pubmed.ncbi.nlm.nih.gov/30846476)]
+Singh D, Agusti A, Anzueto A, Barnes PJ, Bourbeau J, Celli BR, Criner GJ, Frith P, Halpin DMG, Han M, López Varela MV, Martinez F, Montes de Oca M, Papi A, Pavord ID, Roche N, Sin DD, Stockley R, Vestbo J, Wedzicha JA, Vogelmeier C. Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Lung Disease: the GOLD science committee report 2019. Eur Respir J. 2019 May;53(5) \[[PubMed: 30846476](https://pubmed.ncbi.nlm.nih.gov/30846476)\]
 
 2.
-    
 
-GBD 2015 Chronic Respiratory Disease Collaborators. Global, regional, and national deaths, prevalence, disability-adjusted life years, and years lived with disability for chronic obstructive pulmonary disease and asthma, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015. Lancet Respir Med. 2017 Sep;5(9):691-706. [[PMC free article: PMC5573769](/pmc/articles/PMC5573769/)] [[PubMed: 28822787](https://pubmed.ncbi.nlm.nih.gov/28822787)]
+GBD 2015 Chronic Respiratory Disease Collaborators. Global, regional, and national deaths, prevalence, disability-adjusted life years, and years lived with disability for chronic obstructive pulmonary disease and asthma, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015. Lancet Respir Med. 2017 Sep;5(9):691-706. \[[PMC free article: PMC5573769](/pmc/articles/PMC5573769/)\] \[[PubMed: 28822787](https://pubmed.ncbi.nlm.nih.gov/28822787)\]
 
 3.
-    
 
-Stockley RA. Neutrophils and protease/antiprotease imbalance. Am J Respir Crit Care Med. 1999 Nov;160(5 Pt 2):S49-52. [[PubMed: 10556170](https://pubmed.ncbi.nlm.nih.gov/10556170)]
+Stockley RA. Neutrophils and protease/antiprotease imbalance. Am J Respir Crit Care Med. 1999 Nov;160(5 Pt 2):S49-52. \[[PubMed: 10556170](https://pubmed.ncbi.nlm.nih.gov/10556170)\]
 
 4.
-    
 
-Parker CM, Voduc N, Aaron SD, Webb KA, O'Donnell DE. Physiological changes during symptom recovery from moderate exacerbations of COPD. Eur Respir J. 2005 Sep;26(3):420-8. [[PubMed: 16135722](https://pubmed.ncbi.nlm.nih.gov/16135722)]
+Parker CM, Voduc N, Aaron SD, Webb KA, O'Donnell DE. Physiological changes during symptom recovery from moderate exacerbations of COPD. Eur Respir J. 2005 Sep;26(3):420-8. \[[PubMed: 16135722](https://pubmed.ncbi.nlm.nih.gov/16135722)\]
 
 5.
-    
 
-Mattos WL, Signori LG, Borges FK, Bergamin JA, Machado V. Accuracy of clinical examination findings in the diagnosis of COPD. J Bras Pneumol. 2009 May;35(5):404-8. [[PubMed: 19547847](https://pubmed.ncbi.nlm.nih.gov/19547847)]
+Mattos WL, Signori LG, Borges FK, Bergamin JA, Machado V. Accuracy of clinical examination findings in the diagnosis of COPD. J Bras Pneumol. 2009 May;35(5):404-8. \[[PubMed: 19547847](https://pubmed.ncbi.nlm.nih.gov/19547847)\]
 
 6.
-    
 
-Changizi M, Rio K. Harnessing color vision for visual oximetry in central cyanosis. Med Hypotheses. 2010 Jan;74(1):87-91. [[PubMed: 19699589](https://pubmed.ncbi.nlm.nih.gov/19699589)]
+Changizi M, Rio K. Harnessing color vision for visual oximetry in central cyanosis. Med Hypotheses. 2010 Jan;74(1):87-91. \[[PubMed: 19699589](https://pubmed.ncbi.nlm.nih.gov/19699589)\]
 
 7.
-    
 
-Qaseem A, Wilt TJ, Weinberger SE, Hanania NA, Criner G, van der Molen T, Marciniuk DD, Denberg T, Schünemann H, Wedzicha W, MacDonald R, Shekelle P., American College of Physicians. American College of Chest Physicians. American Thoracic Society. European Respiratory Society. Diagnosis and management of stable chronic obstructive pulmonary disease: a clinical practice guideline update from the American College of Physicians, American College of Chest Physicians, American Thoracic Society, and European Respiratory Society. Ann Intern Med. 2011 Aug 02;155(3):179-91. [[PubMed: 21810710](https://pubmed.ncbi.nlm.nih.gov/21810710)]
+Qaseem A, Wilt TJ, Weinberger SE, Hanania NA, Criner G, van der Molen T, Marciniuk DD, Denberg T, Schünemann H, Wedzicha W, MacDonald R, Shekelle P., American College of Physicians. American College of Chest Physicians. American Thoracic Society. European Respiratory Society. Diagnosis and management of stable chronic obstructive pulmonary disease: a clinical practice guideline update from the American College of Physicians, American College of Chest Physicians, American Thoracic Society, and European Respiratory Society. Ann Intern Med. 2011 Aug 02;155(3):179-91. \[[PubMed: 21810710](https://pubmed.ncbi.nlm.nih.gov/21810710)\]
 
 8.
-    
 
-Decramer M, Janssens W, Miravitlles M. Chronic obstructive pulmonary disease. Lancet. 2012 Apr 07;379(9823):1341-51. [[PMC free article: PMC7172377](/pmc/articles/PMC7172377/)] [[PubMed: 22314182](https://pubmed.ncbi.nlm.nih.gov/22314182)]
+Decramer M, Janssens W, Miravitlles M. Chronic obstructive pulmonary disease. Lancet. 2012 Apr 07;379(9823):1341-51. \[[PMC free article: PMC7172377](/pmc/articles/PMC7172377/)\] \[[PubMed: 22314182](https://pubmed.ncbi.nlm.nih.gov/22314182)\]
 
 9.
-    
 
-FLETCHER CM, ELMES PC, FAIRBAIRN AS, WOOD CH. The significance of respiratory symptoms and the diagnosis of chronic bronchitis in a working population. Br Med J. 1959 Aug 29;2(5147):257-66. [[PMC free article: PMC1990153](/pmc/articles/PMC1990153/)] [[PubMed: 13823475](https://pubmed.ncbi.nlm.nih.gov/13823475)]
+FLETCHER CM, ELMES PC, FAIRBAIRN AS, WOOD CH. The significance of respiratory symptoms and the diagnosis of chronic bronchitis in a working population. Br Med J. 1959 Aug 29;2(5147):257-66. \[[PMC free article: PMC1990153](/pmc/articles/PMC1990153/)\] \[[PubMed: 13823475](https://pubmed.ncbi.nlm.nih.gov/13823475)\]
 
 10.
-    
 
-ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories. ATS statement: guidelines for the six-minute walk test. Am J Respir Crit Care Med. 2002 Jul 01;166(1):111-7. [[PubMed: 12091180](https://pubmed.ncbi.nlm.nih.gov/12091180)]
+ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories. ATS statement: guidelines for the six-minute walk test. Am J Respir Crit Care Med. 2002 Jul 01;166(1):111-7. \[[PubMed: 12091180](https://pubmed.ncbi.nlm.nih.gov/12091180)\]
 
 11.
-    
 
-Shaker SB, Dirksen A, Bach KS, Mortensen J. Imaging in chronic obstructive pulmonary disease. COPD. 2007 Jun;4(2):143-61. [[PubMed: 17530508](https://pubmed.ncbi.nlm.nih.gov/17530508)]
+Shaker SB, Dirksen A, Bach KS, Mortensen J. Imaging in chronic obstructive pulmonary disease. COPD. 2007 Jun;4(2):143-61. \[[PubMed: 17530508](https://pubmed.ncbi.nlm.nih.gov/17530508)\]
 
 12.
-    
 
-Anthonisen NR, Manfreda J, Warren CP, Hershfield ES, Harding GK, Nelson NA. Antibiotic therapy in exacerbations of chronic obstructive pulmonary disease. Ann Intern Med. 1987 Feb;106(2):196-204. [[PubMed: 3492164](https://pubmed.ncbi.nlm.nih.gov/3492164)]
+Anthonisen NR, Manfreda J, Warren CP, Hershfield ES, Harding GK, Nelson NA. Antibiotic therapy in exacerbations of chronic obstructive pulmonary disease. Ann Intern Med. 1987 Feb;106(2):196-204. \[[PubMed: 3492164](https://pubmed.ncbi.nlm.nih.gov/3492164)\]
 
 13.
-    
 
-Melani AS. Long-acting muscarinic antagonists. Expert Rev Clin Pharmacol. 2015;8(4):479-501. [[PubMed: 26109098](https://pubmed.ncbi.nlm.nih.gov/26109098)]
+Melani AS. Long-acting muscarinic antagonists. Expert Rev Clin Pharmacol. 2015;8(4):479-501. \[[PubMed: 26109098](https://pubmed.ncbi.nlm.nih.gov/26109098)\]
 
 14.
-    
 
-Ram FS, Jones PW, Castro AA, De Brito JA, Atallah AN, Lacasse Y, Mazzini R, Goldstein R, Cendon S. Oral theophylline for chronic obstructive pulmonary disease. Cochrane Database Syst Rev. 2002;2002(4):CD003902. [[PMC free article: PMC7047557](/pmc/articles/PMC7047557/)] [[PubMed: 12519617](https://pubmed.ncbi.nlm.nih.gov/12519617)]
+Ram FS, Jones PW, Castro AA, De Brito JA, Atallah AN, Lacasse Y, Mazzini R, Goldstein R, Cendon S. Oral theophylline for chronic obstructive pulmonary disease. Cochrane Database Syst Rev. 2002;2002(4):CD003902. \[[PMC free article: PMC7047557](/pmc/articles/PMC7047557/)\] \[[PubMed: 12519617](https://pubmed.ncbi.nlm.nih.gov/12519617)\]
 
 15.
-    
 
-ZuWallack RL, Mahler DA, Reilly D, Church N, Emmett A, Rickard K, Knobil K. Salmeterol plus theophylline combination therapy in the treatment of COPD. Chest. 2001 Jun;119(6):1661-70. [[PubMed: 11399688](https://pubmed.ncbi.nlm.nih.gov/11399688)]
+ZuWallack RL, Mahler DA, Reilly D, Church N, Emmett A, Rickard K, Knobil K. Salmeterol plus theophylline combination therapy in the treatment of COPD. Chest. 2001 Jun;119(6):1661-70. \[[PubMed: 11399688](https://pubmed.ncbi.nlm.nih.gov/11399688)\]
 
 16.
-    
 
-Nannini LJ, Lasserson TJ, Poole P. Combined corticosteroid and long-acting beta(2)-agonist in one inhaler versus long-acting beta(2)-agonists for chronic obstructive pulmonary disease. Cochrane Database Syst Rev. 2012 Sep 12;2012(9):CD006829. [[PMC free article: PMC4170910](/pmc/articles/PMC4170910/)] [[PubMed: 22972099](https://pubmed.ncbi.nlm.nih.gov/22972099)]
+Nannini LJ, Lasserson TJ, Poole P. Combined corticosteroid and long-acting beta(2)-agonist in one inhaler versus long-acting beta(2)-agonists for chronic obstructive pulmonary disease. Cochrane Database Syst Rev. 2012 Sep 12;2012(9):CD006829. \[[PMC free article: PMC4170910](/pmc/articles/PMC4170910/)\] \[[PubMed: 22972099](https://pubmed.ncbi.nlm.nih.gov/22972099)\]
 
 17.
-    
 
-Nannini LJ, Poole P, Milan SJ, Kesterton A. Combined corticosteroid and long-acting beta(2)-agonist in one inhaler versus inhaled corticosteroids alone for chronic obstructive pulmonary disease. Cochrane Database Syst Rev. 2013 Aug 30;2013(8):CD006826. [[PMC free article: PMC6486274](/pmc/articles/PMC6486274/)] [[PubMed: 23990350](https://pubmed.ncbi.nlm.nih.gov/23990350)]
+Nannini LJ, Poole P, Milan SJ, Kesterton A. Combined corticosteroid and long-acting beta(2)-agonist in one inhaler versus inhaled corticosteroids alone for chronic obstructive pulmonary disease. Cochrane Database Syst Rev. 2013 Aug 30;2013(8):CD006826. \[[PMC free article: PMC6486274](/pmc/articles/PMC6486274/)\] \[[PubMed: 23990350](https://pubmed.ncbi.nlm.nih.gov/23990350)\]
 
 18.
-    
 
-Rabe KF. Update on roflumilast, a phosphodiesterase 4 inhibitor for the treatment of chronic obstructive pulmonary disease. Br J Pharmacol. 2011 May;163(1):53-67. [[PMC free article: PMC3085868](/pmc/articles/PMC3085868/)] [[PubMed: 21232047](https://pubmed.ncbi.nlm.nih.gov/21232047)]
+Rabe KF. Update on roflumilast, a phosphodiesterase 4 inhibitor for the treatment of chronic obstructive pulmonary disease. Br J Pharmacol. 2011 May;163(1):53-67. \[[PMC free article: PMC3085868](/pmc/articles/PMC3085868/)\] \[[PubMed: 21232047](https://pubmed.ncbi.nlm.nih.gov/21232047)\]
 
 19.
-    
 
-Calverley PM, Rabe KF, Goehring UM, Kristiansen S, Fabbri LM, Martinez FJ., M2-124 and M2-125 study groups. Roflumilast in symptomatic chronic obstructive pulmonary disease: two randomised clinical trials. Lancet. 2009 Aug 29;374(9691):685-94. [[PubMed: 19716960](https://pubmed.ncbi.nlm.nih.gov/19716960)]
+Calverley PM, Rabe KF, Goehring UM, Kristiansen S, Fabbri LM, Martinez FJ., M2-124 and M2-125 study groups. Roflumilast in symptomatic chronic obstructive pulmonary disease: two randomised clinical trials. Lancet. 2009 Aug 29;374(9691):685-94. \[[PubMed: 19716960](https://pubmed.ncbi.nlm.nih.gov/19716960)\]
 
 20.
-    
 
-Uzun S, Djamin RS, Kluytmans JA, Mulder PG, van't Veer NE, Ermens AA, Pelle AJ, Hoogsteden HC, Aerts JG, van der Eerden MM. Azithromycin maintenance treatment in patients with frequent exacerbations of chronic obstructive pulmonary disease (COLUMBUS): a randomised, double-blind, placebo-controlled trial. Lancet Respir Med. 2014 May;2(5):361-8. [[PubMed: 24746000](https://pubmed.ncbi.nlm.nih.gov/24746000)]
+Uzun S, Djamin RS, Kluytmans JA, Mulder PG, van't Veer NE, Ermens AA, Pelle AJ, Hoogsteden HC, Aerts JG, van der Eerden MM. Azithromycin maintenance treatment in patients with frequent exacerbations of chronic obstructive pulmonary disease (COLUMBUS): a randomised, double-blind, placebo-controlled trial. Lancet Respir Med. 2014 May;2(5):361-8. \[[PubMed: 24746000](https://pubmed.ncbi.nlm.nih.gov/24746000)\]
 
 21.
-    
 
-Albert RK, Connett J, Bailey WC, Casaburi R, Cooper JA, Criner GJ, Curtis JL, Dransfield MT, Han MK, Lazarus SC, Make B, Marchetti N, Martinez FJ, Madinger NE, McEvoy C, Niewoehner DE, Porsasz J, Price CS, Reilly J, Scanlon PD, Sciurba FC, Scharf SM, Washko GR, Woodruff PG, Anthonisen NR., COPD Clinical Research Network. Azithromycin for prevention of exacerbations of COPD. N Engl J Med. 2011 Aug 25;365(8):689-98. [[PMC free article: PMC3220999](/pmc/articles/PMC3220999/)] [[PubMed: 21864166](https://pubmed.ncbi.nlm.nih.gov/21864166)]
+Albert RK, Connett J, Bailey WC, Casaburi R, Cooper JA, Criner GJ, Curtis JL, Dransfield MT, Han MK, Lazarus SC, Make B, Marchetti N, Martinez FJ, Madinger NE, McEvoy C, Niewoehner DE, Porsasz J, Price CS, Reilly J, Scanlon PD, Sciurba FC, Scharf SM, Washko GR, Woodruff PG, Anthonisen NR., COPD Clinical Research Network. Azithromycin for prevention of exacerbations of COPD. N Engl J Med. 2011 Aug 25;365(8):689-98. \[[PMC free article: PMC3220999](/pmc/articles/PMC3220999/)\] \[[PubMed: 21864166](https://pubmed.ncbi.nlm.nih.gov/21864166)\]
 
 22.
-    
 
-de Jong YP, Uil SM, Grotjohan HP, Postma DS, Kerstjens HA, van den Berg JW. Oral or IV prednisolone in the treatment of COPD exacerbations: a randomized, controlled, double-blind study. Chest. 2007 Dec;132(6):1741-7. [[PubMed: 17646228](https://pubmed.ncbi.nlm.nih.gov/17646228)]
+de Jong YP, Uil SM, Grotjohan HP, Postma DS, Kerstjens HA, van den Berg JW. Oral or IV prednisolone in the treatment of COPD exacerbations: a randomized, controlled, double-blind study. Chest. 2007 Dec;132(6):1741-7. \[[PubMed: 17646228](https://pubmed.ncbi.nlm.nih.gov/17646228)\]
 
 23.
-    
 
-McCarthy B, Casey D, Devane D, Murphy K, Murphy E, Lacasse Y. Pulmonary rehabilitation for chronic obstructive pulmonary disease. Cochrane Database Syst Rev. 2015 Feb 23;2015(2):CD003793. [[PMC free article: PMC10008021](/pmc/articles/PMC10008021/)] [[PubMed: 25705944](https://pubmed.ncbi.nlm.nih.gov/25705944)]
+McCarthy B, Casey D, Devane D, Murphy K, Murphy E, Lacasse Y. Pulmonary rehabilitation for chronic obstructive pulmonary disease. Cochrane Database Syst Rev. 2015 Feb 23;2015(2):CD003793. \[[PMC free article: PMC10008021](/pmc/articles/PMC10008021/)\] \[[PubMed: 25705944](https://pubmed.ncbi.nlm.nih.gov/25705944)\]
 
 24.
-    
 
-Celli BR, Cote CG, Marin JM, Casanova C, Montes de Oca M, Mendez RA, Pinto Plata V, Cabral HJ. The body-mass index, airflow obstruction, dyspnea, and exercise capacity index in chronic obstructive pulmonary disease. N Engl J Med. 2004 Mar 04;350(10):1005-12. [[PubMed: 14999112](https://pubmed.ncbi.nlm.nih.gov/14999112)]
+Celli BR, Cote CG, Marin JM, Casanova C, Montes de Oca M, Mendez RA, Pinto Plata V, Cabral HJ. The body-mass index, airflow obstruction, dyspnea, and exercise capacity index in chronic obstructive pulmonary disease. N Engl J Med. 2004 Mar 04;350(10):1005-12. \[[PubMed: 14999112](https://pubmed.ncbi.nlm.nih.gov/14999112)\]
 
 25.
-    
 
-Tanoue LT, Tanner NT, Gould MK, Silvestri GA. Lung cancer screening. Am J Respir Crit Care Med. 2015 Jan 01;191(1):19-33. [[PubMed: 25369325](https://pubmed.ncbi.nlm.nih.gov/25369325)]
-
-    
+Tanoue LT, Tanner NT, Gould MK, Silvestri GA. Lung cancer screening. Am J Respir Crit Care Med. 2015 Jan 01;191(1):19-33. \[[PubMed: 25369325](https://pubmed.ncbi.nlm.nih.gov/25369325)\]
 
 **Disclosure:** Anuj Agarwal declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Avais Raja declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Brandon Brown declares no relevant financial relationships with ineligible companies.

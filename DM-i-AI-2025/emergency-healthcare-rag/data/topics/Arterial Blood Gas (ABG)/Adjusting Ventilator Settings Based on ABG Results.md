@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-161107/
-scraped_date: 2025-07-22 12:49:46 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-161107/ scraped_date: 2025-07-22 12:49:46 UTC
 
 # Adjusting Ventilator Settings Based on ABG Results
 
@@ -63,15 +62,15 @@ ABG analysis evaluates a patient's oxygenation, ventilation, and acid-base balan
 
 **pH**
 
-The pH measures the hydrogen ion concentration in the blood, indicating the acidity or alkalinity. The normal pH range is 7.35 to 7.45. A pH below 7.35 indicates acidosis, while a pH above 7.45 indicates alkalosis. This variable determines the acid-base balance and guides the diagnosis of respiratory and metabolic disorders. 
+The pH measures the hydrogen ion concentration in the blood, indicating the acidity or alkalinity. The normal pH range is 7.35 to 7.45. A pH below 7.35 indicates acidosis, while a pH above 7.45 indicates alkalosis. This variable determines the acid-base balance and guides the diagnosis of respiratory and metabolic disorders.
 
 **Partial pressure of carbon dioxide**
 
-The PaCO2 measures the pressure of carbon dioxide dissolved in the blood. The normal PaCO2 range is 35 to 45 mm Hg. An elevated PaCO2 (>45 mm Hg) indicates hypercapnia, commonly due to hypoventilation. Decreased PaCO2 (<35 mm Hg) indicates hypocapnia, often from hyperventilation. PaCO2 is crucial for assessing the respiratory component of the acid-base balance.
+The PaCO2 measures the pressure of carbon dioxide dissolved in the blood. The normal PaCO2 range is 35 to 45 mm Hg. An elevated PaCO2 (>45 mm Hg) indicates hypercapnia, commonly due to hypoventilation. Decreased PaCO2 (\<35 mm Hg) indicates hypocapnia, often from hyperventilation. PaCO2 is crucial for assessing the respiratory component of the acid-base balance.
 
 **Partial pressure of oxygen**
 
-The PaO2 measures the pressure of oxygen dissolved in the blood. The normal PaO2 range is 80 to 100 mm Hg. PaO2 is essential for evaluating oxygenation status. Low PaO2 (<80 mm Hg) indicates hypoxemia, which can result from various respiratory disorders.
+The PaO2 measures the pressure of oxygen dissolved in the blood. The normal PaO2 range is 80 to 100 mm Hg. PaO2 is essential for evaluating oxygenation status. Low PaO2 (\<80 mm Hg) indicates hypoxemia, which can result from various respiratory disorders.
 
 **Bicarbonate**
 
@@ -123,27 +122,27 @@ Adjusting ventilator settings according to the specific respiratory condition of
 
 Chronic obstructive pulmonary disease (COPD) is a chronic inflammatory lung condition that obstructs airflow, primarily caused by long-term exposure to irritating gases or particles—most often from cigarette smoke. COPD encompasses emphysema, is characterized by alveolar destruction and chronic bronchitis, and is marked by long-term cough with mucus due to airway inflammation. Patients with COPD often encounter significant challenges, such as hypercapnia and dynamic hyperinflation during mechanical ventilation. These issues arise due to increased airway resistance and high pulmonary dead space, which collectively elevate the work of breathing and complicate ventilatory management. Adjusting ventilator settings appropriately is crucial to mitigate these complications and optimize respiratory support.[14]
 
-**Ventilator adjustments in patients with c**hronic obstructive pulmonary disease****
+**Ventilator adjustments in patients with c**hronic obstructive pulmonary disease\*\*\*\*
 
-  * Using low tidal volumes: Applying lower tidal volumes (6-8 mL/kg ideal body weight) helps prevent barotrauma and volutrauma by minimizing the risk of lung overdistension.
+- Using low tidal volumes: Applying lower tidal volumes (6-8 mL/kg ideal body weight) helps prevent barotrauma and volutrauma by minimizing the risk of lung overdistension.
 
-  * Managing PEEP carefully: While PEEP can help maintain alveolar recruitment, excessive PEEP may worsen dynamic hyperinflation. The optimal PEEP level should be carefully titrated to balance oxygenation improvement and avoid auto-PEEP.
+- Managing PEEP carefully: While PEEP can help maintain alveolar recruitment, excessive PEEP may worsen dynamic hyperinflation. The optimal PEEP level should be carefully titrated to balance oxygenation improvement and avoid auto-PEEP.
 
-  * Adjusting respiratory rate: A lower respiratory rate allows for longer exhalation times, reducing the risk of dynamic hyperinflation and auto-PEEP.[15]
+- Adjusting respiratory rate: A lower respiratory rate allows for longer exhalation times, reducing the risk of dynamic hyperinflation and auto-PEEP.[15]
 
 **Acute Respiratory Distress Syndrome**
 
 Acute respiratory distress syndrome (ARDS) is a severe pulmonary condition marked by poor oxygenation and reduced lung compliance. ARDS involves capillary endothelial injury and diffuse alveolar damage. The condition is associated with high mortality and limited effective treatments. Mechanical ventilation for patients with ARDS is associated with a high risk of ventilator-induced lung injury (VILI). Managing ventilation in patients with ARDS requires a balance between adequate oxygenation and minimizing lung injury. This intervention is considered a lung-protective ventilation strategy.[16]
 
-**Ventilator adjustments in patients with a**cute respiratory distress syndrome****
+**Ventilator adjustments in patients with a**cute respiratory distress syndrome\*\*\*\*
 
-  * Low tidal volume ventilation: Using low tidal volumes (4-6 mL/kg predicted body weight) is crucial to minimize barotrauma and volutrauma. This strategy has been shown to improve survival in patients with ARDS.
+- Low tidal volume ventilation: Using low tidal volumes (4-6 mL/kg predicted body weight) is crucial to minimize barotrauma and volutrauma. This strategy has been shown to improve survival in patients with ARDS.
 
-  * Appropriate PEEP levels: Applying PEEP helps prevent alveolar collapse and improves oxygenation. The PEEP level should be adjusted to optimize lung recruitment while avoiding overdistension. 
+- Appropriate PEEP levels: Applying PEEP helps prevent alveolar collapse and improves oxygenation. The PEEP level should be adjusted to optimize lung recruitment while avoiding overdistension.
 
-  * Avoiding high plateau pressures: Plateau pressures lower than 30 cm H2O must be targeted. The plateau pressure is a measure of pulmonary compliance.
+- Avoiding high plateau pressures: Plateau pressures lower than 30 cm H2O must be targeted. The plateau pressure is a measure of pulmonary compliance.
 
-  * Avoiding high driving pressure: Monitoring and minimizing driving pressure—the difference between plateau pressure and PEEP—is essential for reducing the risk of VILI. Targeting a driving pressure below 15 cm H2O is associated with better outcomes.[17][18]
+- Avoiding high driving pressure: Monitoring and minimizing driving pressure—the difference between plateau pressure and PEEP—is essential for reducing the risk of VILI. Targeting a driving pressure below 15 cm H2O is associated with better outcomes.[17][18]
 
 **Bronchial Asthma**
 
@@ -181,146 +180,116 @@ Effective monitoring of patients on mechanical ventilation requires a collaborat
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=161107&utm_source=pubmed&utm_campaign=reviews&utm_content=161107)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=161107&utm_source=pubmed&utm_campaign=reviews&utm_content=161107)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/161107/?utm_source=pubmed&utm_campaign=comments&utm_content=161107)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/161107/?utm_source=pubmed&utm_campaign=comments&utm_content=161107)
 
 ## References
 
 1.
-    
 
-Kelly AM, Klim S, Rees SE. Agreement between mathematically arterialised venous versus arterial blood gas values in patients undergoing non-invasive ventilation: a cohort study. Emerg Med J. 2014 Oct;31(e1):e46-9. [[PubMed: 24136117](https://pubmed.ncbi.nlm.nih.gov/24136117)]
+Kelly AM, Klim S, Rees SE. Agreement between mathematically arterialised venous versus arterial blood gas values in patients undergoing non-invasive ventilation: a cohort study. Emerg Med J. 2014 Oct;31(e1):e46-9. \[[PubMed: 24136117](https://pubmed.ncbi.nlm.nih.gov/24136117)\]
 
 2.
-    
 
-Menzel M, Soukup J, Henze D, Engelbrecht K, Senderreck M, Scharf A, Rieger A, Grond S. Experiences with continuous intra-arterial blood gas monitoring: precision and drift of a pure optode-system. Intensive Care Med. 2003 Dec;29(12):2180-2186. [[PubMed: 12955183](https://pubmed.ncbi.nlm.nih.gov/12955183)]
+Menzel M, Soukup J, Henze D, Engelbrecht K, Senderreck M, Scharf A, Rieger A, Grond S. Experiences with continuous intra-arterial blood gas monitoring: precision and drift of a pure optode-system. Intensive Care Med. 2003 Dec;29(12):2180-2186. \[[PubMed: 12955183](https://pubmed.ncbi.nlm.nih.gov/12955183)\]
 
 3.
-    
 
-Villar J, Kacmarek RM, Pérez-Méndez L, Aguirre-Jaime A. A high positive end-expiratory pressure, low tidal volume ventilatory strategy improves outcome in persistent acute respiratory distress syndrome: a randomized, controlled trial. Crit Care Med. 2006 May;34(5):1311-8. [[PubMed: 16557151](https://pubmed.ncbi.nlm.nih.gov/16557151)]
+Villar J, Kacmarek RM, Pérez-Méndez L, Aguirre-Jaime A. A high positive end-expiratory pressure, low tidal volume ventilatory strategy improves outcome in persistent acute respiratory distress syndrome: a randomized, controlled trial. Crit Care Med. 2006 May;34(5):1311-8. \[[PubMed: 16557151](https://pubmed.ncbi.nlm.nih.gov/16557151)\]
 
 4.
-    
 
-de Durante G, del Turco M, Rustichini L, Cosimini P, Giunta F, Hudson LD, Slutsky AS, Ranieri VM. ARDSNet lower tidal volume ventilatory strategy may generate intrinsic positive end-expiratory pressure in patients with acute respiratory distress syndrome. Am J Respir Crit Care Med. 2002 May 01;165(9):1271-4. [[PubMed: 11991877](https://pubmed.ncbi.nlm.nih.gov/11991877)]
+de Durante G, del Turco M, Rustichini L, Cosimini P, Giunta F, Hudson LD, Slutsky AS, Ranieri VM. ARDSNet lower tidal volume ventilatory strategy may generate intrinsic positive end-expiratory pressure in patients with acute respiratory distress syndrome. Am J Respir Crit Care Med. 2002 May 01;165(9):1271-4. \[[PubMed: 11991877](https://pubmed.ncbi.nlm.nih.gov/11991877)\]
 
 5.
-    
 
-Kor CT, Lin KH, Wang CH, Lin JF, Kuo CD. Ventilator Parameters in the Diagnosis and Prognosis of Acute Respiratory Distress Syndrome in Postoperative Patients: A Preliminary Study. Diagnostics (Basel). 2021 Apr 03;11(4) [[PMC free article: PMC8065551](/pmc/articles/PMC8065551/)] [[PubMed: 33916745](https://pubmed.ncbi.nlm.nih.gov/33916745)]
+Kor CT, Lin KH, Wang CH, Lin JF, Kuo CD. Ventilator Parameters in the Diagnosis and Prognosis of Acute Respiratory Distress Syndrome in Postoperative Patients: A Preliminary Study. Diagnostics (Basel). 2021 Apr 03;11(4) \[[PMC free article: PMC8065551](/pmc/articles/PMC8065551/)\] \[[PubMed: 33916745](https://pubmed.ncbi.nlm.nih.gov/33916745)\]
 
 6.
-    
 
-Blankman P, Hasan D, Erik G, Gommers D. Detection of 'best' positive end-expiratory pressure derived from electrical impedance tomography parameters during a decremental positive end-expiratory pressure trial. Crit Care. 2014 May 10;18(3):R95. [[PMC free article: PMC4095609](/pmc/articles/PMC4095609/)] [[PubMed: 24887391](https://pubmed.ncbi.nlm.nih.gov/24887391)]
+Blankman P, Hasan D, Erik G, Gommers D. Detection of 'best' positive end-expiratory pressure derived from electrical impedance tomography parameters during a decremental positive end-expiratory pressure trial. Crit Care. 2014 May 10;18(3):R95. \[[PMC free article: PMC4095609](/pmc/articles/PMC4095609/)\] \[[PubMed: 24887391](https://pubmed.ncbi.nlm.nih.gov/24887391)\]
 
 7.
-    
 
-Liyanage I, Dassanayaka DARK, Chellapillai FMD, Liyanage E, Rathnayake S, Rikas M, Mayooran S. Manual and ventilator hyperinflation parameters used by intensive care physiotherapists in Sri Lanka: An online survey. PLoS One. 2024;19(5):e0297880. [[PMC free article: PMC11104683](/pmc/articles/PMC11104683/)] [[PubMed: 38768181](https://pubmed.ncbi.nlm.nih.gov/38768181)]
+Liyanage I, Dassanayaka DARK, Chellapillai FMD, Liyanage E, Rathnayake S, Rikas M, Mayooran S. Manual and ventilator hyperinflation parameters used by intensive care physiotherapists in Sri Lanka: An online survey. PLoS One. 2024;19(5):e0297880. \[[PMC free article: PMC11104683](/pmc/articles/PMC11104683/)\] \[[PubMed: 38768181](https://pubmed.ncbi.nlm.nih.gov/38768181)\]
 
 8.
-    
 
-Balzanelli MG, Distratis P, Lazzaro R, Pham VH, Del Prete R, Dipalma G, Inchingolo F, Aityan SK, Hoang LT, Palermo A, Nguyen KCD, Gargiulo Isacco C. The importance of arterial blood gas analysis as a systemic diagnosis approach in assessing and preventing chronic diseases, from emergency medicine to the daily practice. Eur Rev Med Pharmacol Sci. 2023 Dec;27(23):11653-11663. [[PubMed: 38095412](https://pubmed.ncbi.nlm.nih.gov/38095412)]
+Balzanelli MG, Distratis P, Lazzaro R, Pham VH, Del Prete R, Dipalma G, Inchingolo F, Aityan SK, Hoang LT, Palermo A, Nguyen KCD, Gargiulo Isacco C. The importance of arterial blood gas analysis as a systemic diagnosis approach in assessing and preventing chronic diseases, from emergency medicine to the daily practice. Eur Rev Med Pharmacol Sci. 2023 Dec;27(23):11653-11663. \[[PubMed: 38095412](https://pubmed.ncbi.nlm.nih.gov/38095412)\]
 
 9.
-    
 
-Zadek F, Danieli A, Brusatori S, Giosa L, Krbec M, Antolini L, Fumagalli R, Langer T. Combining the Physical-Chemical Approach with Standard Base Excess to Understand the Compensation of Respiratory Acid-Base Derangements: An Individual Participant Meta-analysis Approach to Data from Multiple Canine and Human Experiments. Anesthesiology. 2024 Jan 01;140(1):116-125. [[PubMed: 37616330](https://pubmed.ncbi.nlm.nih.gov/37616330)]
+Zadek F, Danieli A, Brusatori S, Giosa L, Krbec M, Antolini L, Fumagalli R, Langer T. Combining the Physical-Chemical Approach with Standard Base Excess to Understand the Compensation of Respiratory Acid-Base Derangements: An Individual Participant Meta-analysis Approach to Data from Multiple Canine and Human Experiments. Anesthesiology. 2024 Jan 01;140(1):116-125. \[[PubMed: 37616330](https://pubmed.ncbi.nlm.nih.gov/37616330)\]
 
 10.
-    
 
-Florio G, Zanella A, Slobod D, Guzzardella A, Protti I, Carlesso E, Canakoglu A, Fumagalli J, Scaravilli V, Colombo SM, Caccioppola A, Brioni M, Pesenti AM, Grasselli G. Impact of Positive End-Expiratory Pressure and FiO2 on Lung Mechanics and Intrapulmonary Shunt in Mechanically Ventilated Patients with ARDS Due to COVID-19 Pneumonia. J Intensive Care Med. 2024 May;39(5):420-428. [[PubMed: 37926984](https://pubmed.ncbi.nlm.nih.gov/37926984)]
+Florio G, Zanella A, Slobod D, Guzzardella A, Protti I, Carlesso E, Canakoglu A, Fumagalli J, Scaravilli V, Colombo SM, Caccioppola A, Brioni M, Pesenti AM, Grasselli G. Impact of Positive End-Expiratory Pressure and FiO2 on Lung Mechanics and Intrapulmonary Shunt in Mechanically Ventilated Patients with ARDS Due to COVID-19 Pneumonia. J Intensive Care Med. 2024 May;39(5):420-428. \[[PubMed: 37926984](https://pubmed.ncbi.nlm.nih.gov/37926984)\]
 
 11.
-    
 
-Pan L, Yang L, Gao L, Zhao Z, Zhang J. Individualized PEEP without Recruitment Maneuvers Improves Intraoperative Oxygenation: A Randomized Controlled Study. Bioengineering (Basel). 2023 Oct 09;10(10) [[PMC free article: PMC10604161](/pmc/articles/PMC10604161/)] [[PubMed: 37892902](https://pubmed.ncbi.nlm.nih.gov/37892902)]
+Pan L, Yang L, Gao L, Zhao Z, Zhang J. Individualized PEEP without Recruitment Maneuvers Improves Intraoperative Oxygenation: A Randomized Controlled Study. Bioengineering (Basel). 2023 Oct 09;10(10) \[[PMC free article: PMC10604161](/pmc/articles/PMC10604161/)\] \[[PubMed: 37892902](https://pubmed.ncbi.nlm.nih.gov/37892902)\]
 
 12.
-    
 
-Arena A, Miller E. Respiratory Acid-Base Disorders. Emerg Med Clin North Am. 2023 Nov;41(4):863-875. [[PubMed: 37758429](https://pubmed.ncbi.nlm.nih.gov/37758429)]
+Arena A, Miller E. Respiratory Acid-Base Disorders. Emerg Med Clin North Am. 2023 Nov;41(4):863-875. \[[PubMed: 37758429](https://pubmed.ncbi.nlm.nih.gov/37758429)\]
 
 13.
-    
 
-Sanghavi SF, Swenson ER. Arterial Blood Gases and Acid-Base Regulation. Semin Respir Crit Care Med. 2023 Oct;44(5):612-626. [[PubMed: 37369215](https://pubmed.ncbi.nlm.nih.gov/37369215)]
+Sanghavi SF, Swenson ER. Arterial Blood Gases and Acid-Base Regulation. Semin Respir Crit Care Med. 2023 Oct;44(5):612-626. \[[PubMed: 37369215](https://pubmed.ncbi.nlm.nih.gov/37369215)\]
 
 14.
-    
 
-Cornelius T. Clinical guideline highlights for the hospitalist: GOLD COPD update 2024. J Hosp Med. 2024 Sep;19(9):818-820. [[PubMed: 38797887](https://pubmed.ncbi.nlm.nih.gov/38797887)]
+Cornelius T. Clinical guideline highlights for the hospitalist: GOLD COPD update 2024. J Hosp Med. 2024 Sep;19(9):818-820. \[[PubMed: 38797887](https://pubmed.ncbi.nlm.nih.gov/38797887)\]
 
 15.
-    
 
-Liao KM, Lu HY, Chen CY, Kuo LT, Tang BR. The impact of comorbidities on prolonged mechanical ventilation in patients with chronic obstructive pulmonary disease. BMC Pulm Med. 2024 May 25;24(1):257. [[PMC free article: PMC11128105](/pmc/articles/PMC11128105/)] [[PubMed: 38796444](https://pubmed.ncbi.nlm.nih.gov/38796444)]
+Liao KM, Lu HY, Chen CY, Kuo LT, Tang BR. The impact of comorbidities on prolonged mechanical ventilation in patients with chronic obstructive pulmonary disease. BMC Pulm Med. 2024 May 25;24(1):257. \[[PMC free article: PMC11128105](/pmc/articles/PMC11128105/)\] \[[PubMed: 38796444](https://pubmed.ncbi.nlm.nih.gov/38796444)\]
 
 16.
-    
 
-Camporota L, Calfee CS, Grasselli G. Acute respiratory distress syndrome guidelines: oceans apart or rivers that merge? Intensive Care Med. 2024 Jun;50(6):941-943. [[PubMed: 38709291](https://pubmed.ncbi.nlm.nih.gov/38709291)]
+Camporota L, Calfee CS, Grasselli G. Acute respiratory distress syndrome guidelines: oceans apart or rivers that merge? Intensive Care Med. 2024 Jun;50(6):941-943. \[[PubMed: 38709291](https://pubmed.ncbi.nlm.nih.gov/38709291)\]
 
 17.
-    
 
-Qadir N, Sahetya S, Munshi L, Summers C, Abrams D, Beitler J, Bellani G, Brower RG, Burry L, Chen JT, Hodgson C, Hough CL, Lamontagne F, Law A, Papazian L, Pham T, Rubin E, Siuba M, Telias I, Patolia S, Chaudhuri D, Walkey A, Rochwerg B, Fan E. An Update on Management of Adult Patients with Acute Respiratory Distress Syndrome: An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med. 2024 Jan 01;209(1):24-36. [[PMC free article: PMC10870893](/pmc/articles/PMC10870893/)] [[PubMed: 38032683](https://pubmed.ncbi.nlm.nih.gov/38032683)]
+Qadir N, Sahetya S, Munshi L, Summers C, Abrams D, Beitler J, Bellani G, Brower RG, Burry L, Chen JT, Hodgson C, Hough CL, Lamontagne F, Law A, Papazian L, Pham T, Rubin E, Siuba M, Telias I, Patolia S, Chaudhuri D, Walkey A, Rochwerg B, Fan E. An Update on Management of Adult Patients with Acute Respiratory Distress Syndrome: An Official American Thoracic Society Clinical Practice Guideline. Am J Respir Crit Care Med. 2024 Jan 01;209(1):24-36. \[[PMC free article: PMC10870893](/pmc/articles/PMC10870893/)\] \[[PubMed: 38032683](https://pubmed.ncbi.nlm.nih.gov/38032683)\]
 
 18.
-    
 
-Grasselli G, Calfee CS, Camporota L, Poole D, Amato MBP, Antonelli M, Arabi YM, Baroncelli F, Beitler JR, Bellani G, Bellingan G, Blackwood B, Bos LDJ, Brochard L, Brodie D, Burns KEA, Combes A, D'Arrigo S, De Backer D, Demoule A, Einav S, Fan E, Ferguson ND, Frat JP, Gattinoni L, Guérin C, Herridge MS, Hodgson C, Hough CL, Jaber S, Juffermans NP, Karagiannidis C, Kesecioglu J, Kwizera A, Laffey JG, Mancebo J, Matthay MA, McAuley DF, Mercat A, Meyer NJ, Moss M, Munshi L, Myatra SN, Ng Gong M, Papazian L, Patel BK, Pellegrini M, Perner A, Pesenti A, Piquilloud L, Qiu H, Ranieri MV, Riviello E, Slutsky AS, Stapleton RD, Summers C, Thompson TB, Valente Barbas CS, Villar J, Ware LB, Weiss B, Zampieri FG, Azoulay E, Cecconi M., European Society of Intensive Care Medicine Taskforce on ARDS. ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies. Intensive Care Med. 2023 Jul;49(7):727-759. [[PMC free article: PMC10354163](/pmc/articles/PMC10354163/)] [[PubMed: 37326646](https://pubmed.ncbi.nlm.nih.gov/37326646)]
+Grasselli G, Calfee CS, Camporota L, Poole D, Amato MBP, Antonelli M, Arabi YM, Baroncelli F, Beitler JR, Bellani G, Bellingan G, Blackwood B, Bos LDJ, Brochard L, Brodie D, Burns KEA, Combes A, D'Arrigo S, De Backer D, Demoule A, Einav S, Fan E, Ferguson ND, Frat JP, Gattinoni L, Guérin C, Herridge MS, Hodgson C, Hough CL, Jaber S, Juffermans NP, Karagiannidis C, Kesecioglu J, Kwizera A, Laffey JG, Mancebo J, Matthay MA, McAuley DF, Mercat A, Meyer NJ, Moss M, Munshi L, Myatra SN, Ng Gong M, Papazian L, Patel BK, Pellegrini M, Perner A, Pesenti A, Piquilloud L, Qiu H, Ranieri MV, Riviello E, Slutsky AS, Stapleton RD, Summers C, Thompson TB, Valente Barbas CS, Villar J, Ware LB, Weiss B, Zampieri FG, Azoulay E, Cecconi M., European Society of Intensive Care Medicine Taskforce on ARDS. ESICM guidelines on acute respiratory distress syndrome: definition, phenotyping and respiratory support strategies. Intensive Care Med. 2023 Jul;49(7):727-759. \[[PMC free article: PMC10354163](/pmc/articles/PMC10354163/)\] \[[PubMed: 37326646](https://pubmed.ncbi.nlm.nih.gov/37326646)\]
 
 19.
-    
 
-Gayen S, Dachert S, Lashari BH, Gordon M, Desai P, Criner GJ, Cardet JC, Shenoy K. Critical Care Management of Severe Asthma Exacerbations. J Clin Med. 2024 Feb 01;13(3) [[PMC free article: PMC10856115](/pmc/articles/PMC10856115/)] [[PubMed: 38337552](https://pubmed.ncbi.nlm.nih.gov/38337552)]
+Gayen S, Dachert S, Lashari BH, Gordon M, Desai P, Criner GJ, Cardet JC, Shenoy K. Critical Care Management of Severe Asthma Exacerbations. J Clin Med. 2024 Feb 01;13(3) \[[PMC free article: PMC10856115](/pmc/articles/PMC10856115/)\] \[[PubMed: 38337552](https://pubmed.ncbi.nlm.nih.gov/38337552)\]
 
 20.
-    
 
-Oddo M, Feihl F, Schaller MD, Perret C. Management of mechanical ventilation in acute severe asthma: practical aspects. Intensive Care Med. 2006 Apr;32(4):501-10. [[PubMed: 16552615](https://pubmed.ncbi.nlm.nih.gov/16552615)]
+Oddo M, Feihl F, Schaller MD, Perret C. Management of mechanical ventilation in acute severe asthma: practical aspects. Intensive Care Med. 2006 Apr;32(4):501-10. \[[PubMed: 16552615](https://pubmed.ncbi.nlm.nih.gov/16552615)\]
 
 21.
-    
 
-Martinez-Pitre PJ, Sabbula BR, Cascella M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 25, 2023. Restrictive Lung Disease. [[PubMed: 32809715](https://pubmed.ncbi.nlm.nih.gov/32809715)]
+Martinez-Pitre PJ, Sabbula BR, Cascella M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 25, 2023. Restrictive Lung Disease. \[[PubMed: 32809715](https://pubmed.ncbi.nlm.nih.gov/32809715)\]
 
 22.
-    
 
-Luo F, Annane D, Orlikowski D, He L, Yang M, Zhou M, Liu GJ. Invasive versus non-invasive ventilation for acute respiratory failure in neuromuscular disease and chest wall disorders. Cochrane Database Syst Rev. 2017 Dec 04;12(12):CD008380. [[PMC free article: PMC6486162](/pmc/articles/PMC6486162/)] [[PubMed: 29199768](https://pubmed.ncbi.nlm.nih.gov/29199768)]
+Luo F, Annane D, Orlikowski D, He L, Yang M, Zhou M, Liu GJ. Invasive versus non-invasive ventilation for acute respiratory failure in neuromuscular disease and chest wall disorders. Cochrane Database Syst Rev. 2017 Dec 04;12(12):CD008380. \[[PMC free article: PMC6486162](/pmc/articles/PMC6486162/)\] \[[PubMed: 29199768](https://pubmed.ncbi.nlm.nih.gov/29199768)\]
 
 23.
-    
 
-Malek R, Soufi S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Apr 7, 2023. Pulmonary Edema. [[PubMed: 32491543](https://pubmed.ncbi.nlm.nih.gov/32491543)]
+Malek R, Soufi S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Apr 7, 2023. Pulmonary Edema. \[[PubMed: 32491543](https://pubmed.ncbi.nlm.nih.gov/32491543)\]
 
 24.
-    
 
-Zanza C, Saglietti F, Tesauro M, Longhitano Y, Savioli G, Balzanelli MG, Romenskaya T, Cofone L, Pindinello I, Racca G, Racca F. Cardiogenic Pulmonary Edema in Emergency Medicine. Adv Respir Med. 2023 Oct 13;91(5):445-463. [[PMC free article: PMC10604083](/pmc/articles/PMC10604083/)] [[PubMed: 37887077](https://pubmed.ncbi.nlm.nih.gov/37887077)]
+Zanza C, Saglietti F, Tesauro M, Longhitano Y, Savioli G, Balzanelli MG, Romenskaya T, Cofone L, Pindinello I, Racca G, Racca F. Cardiogenic Pulmonary Edema in Emergency Medicine. Adv Respir Med. 2023 Oct 13;91(5):445-463. \[[PMC free article: PMC10604083](/pmc/articles/PMC10604083/)\] \[[PubMed: 37887077](https://pubmed.ncbi.nlm.nih.gov/37887077)\]
 
 25.
-    
 
-Tesseyman S, Poulsen T, Rainsdon-Meek S, Leary H, Sorensen U, Plummer K. Decision-based learning for teaching arterial blood gas analysis. Int J Nurs Educ Scholarsh. 2023 Jan 01;20(1) [[PubMed: 37470497](https://pubmed.ncbi.nlm.nih.gov/37470497)]
+Tesseyman S, Poulsen T, Rainsdon-Meek S, Leary H, Sorensen U, Plummer K. Decision-based learning for teaching arterial blood gas analysis. Int J Nurs Educ Scholarsh. 2023 Jan 01;20(1) \[[PubMed: 37470497](https://pubmed.ncbi.nlm.nih.gov/37470497)\]
 
 26.
-    
 
-Pruitt B. Strategies for interpreting arterial blood gases. Nursing. 2024 Jan 01;54(1):16-21. [[PubMed: 38126981](https://pubmed.ncbi.nlm.nih.gov/38126981)]
-
-    
+Pruitt B. Strategies for interpreting arterial blood gases. Nursing. 2024 Jan 01;54(1):16-21. \[[PubMed: 38126981](https://pubmed.ncbi.nlm.nih.gov/38126981)\]
 
 **Disclosure:** Wael Hassan declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Mohamed Elkhatieb declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26080/
-scraped_date: 2025-07-22 12:47:59 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26080/ scraped_date: 2025-07-22 12:47:59 UTC
 
 # Large Bowel Obstruction
 
@@ -23,19 +22,19 @@ Last Update: November 9, 2024.
 
 ## Continuing Education Activity
 
-Large bowel obstruction is a critical condition often necessitating emergency intervention due to the risk of sepsis, dehydration, and hemodynamic instability. The etiologies of large bowel obstruction can be structural, such as from tumors, hernias, or volvulus, or functional, such as pseudo-obstruction. Patients with a competent ileocecal valve may experience closed-loop obstructions, leading to severe distension and pain, and are at higher risk for perforation. The obstruction frequently presents with symptoms such as abdominal pain, distension, and a lack of bowel movements, but symptoms vary based on the cause and site of the blockage. 
+Large bowel obstruction is a critical condition often necessitating emergency intervention due to the risk of sepsis, dehydration, and hemodynamic instability. The etiologies of large bowel obstruction can be structural, such as from tumors, hernias, or volvulus, or functional, such as pseudo-obstruction. Patients with a competent ileocecal valve may experience closed-loop obstructions, leading to severe distension and pain, and are at higher risk for perforation. The obstruction frequently presents with symptoms such as abdominal pain, distension, and a lack of bowel movements, but symptoms vary based on the cause and site of the blockage.
 
 Imaging studies are vital for diagnosing large bowel obstruction, distinguishing between mechanical causes, ileus, and pseudo-obstructions, and identifying any associated ischemia or necrosis. Management primarily involves bowel resuscitation and decompression; prompt intervention is essential to reduce morbidity, prevent ischemia, and manage complications such as perforation. This activity for healthcare professionals is designed to enhance the learner's competence in recognizing large bowel obstruction, performing the recommended evaluation, and implementing an appropriate interprofessional management approach to improve patient outcomes.
 
 **Objectives:**
 
-  * Identify the clinical features of large bowel obstruction.
+- Identify the clinical features of large bowel obstruction.
 
-  * Apply appropriate diagnostic studies to evaluate large bowel obstruction.
+- Apply appropriate diagnostic studies to evaluate large bowel obstruction.
 
-  * Apply evidence-based treatment options for patients with large bowel obstruction.
+- Apply evidence-based treatment options for patients with large bowel obstruction.
 
-  * Implement interprofessional team strategies for improving care coordination and outcomes in patients with large bowel obstruction.
+- Implement interprofessional team strategies for improving care coordination and outcomes in patients with large bowel obstruction.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26080&utm_source=pubmed&utm_campaign=reviews&utm_content=26080)
 
@@ -87,13 +86,13 @@ Sigmoid volvulus is common in individuals with limited mobility and a history of
 
 Patients with obstruction due to diverticular disease may present with pain, fever, and a palpable mass, along with distension proximal to the site of obstruction. Large bowel obstruction secondary to a hernia may be associated with a reducible or irreducible mass and overlying skin changes. Sites of herniation that can cause large bowel obstruction include spigelian, lumbar, inguinal, diaphragmatic, lumbar, and intermesenteric regions. A large bowel obstruction due to endometriosis may be characterized by a history of pelvic pain, dysmenorrhea, rectal pain, or pain during bowel movements. A clinical history of obstructive etiologies, such as uterine fibroids or pelvic malignancy, may include symptoms such as dysmenorrhea or irregular menstrual cycles.
 
-Large bowel obstruction due to stool impaction is often observed in patients with a history of chronic constipation or the use of medications that reduce bowel motility. Stool impaction is more common in chronically ill or impaired individuals or those with psychiatric or medical conditions that predispose to constipation and bowel irregularity. Affected patients typically present with distension, pain, and fecal incontinence and may develop a stercol ulcer that can cause perforation. A digital rectal examination may reveal a hard stool mass in the rectum. 
+Large bowel obstruction due to stool impaction is often observed in patients with a history of chronic constipation or the use of medications that reduce bowel motility. Stool impaction is more common in chronically ill or impaired individuals or those with psychiatric or medical conditions that predispose to constipation and bowel irregularity. Affected patients typically present with distension, pain, and fecal incontinence and may develop a stercol ulcer that can cause perforation. A digital rectal examination may reveal a hard stool mass in the rectum.
 
 Retroperitoneal fibrosis can cause colonic obstruction, leading to back, flank, and abdominal pain, fevers, fatigue, and weight loss. Clinical features of colonic intussusception can be nonspecific and may include pain, nausea and vomiting, fever, bowel changes, hematochezia, and a mass identified on imaging.[8][21] A person with a perforated colon shows signs of peritonitis, with diffuse rebound and guarding, and may have physiologic distress, including tachycardia and hypotension. Pain may be sharp, radiate to the pelvis, epigastrium, or chest, and may be acute in onset with accompanied fevers, chills, nausea, and vomiting.[24]
 
 ## Evaluation
 
-Obtaining a detailed history, performing a thorough physical examination, and conducting imaging are crucial in evaluating a suspected large bowel obstruction. Laboratory tests for anemia, infection, renal function, and electrolytes are initiated to drive resuscitation and focused treatment, including infusion of contrast for imaging.[25][26][27] Leukocytosis and acidosis may indicate tissue ischemia. In addition, testing for  _Clostridium difficile_ and any electrolyte dysfunction should be conducted to help direct therapy and decision-making.[14]
+Obtaining a detailed history, performing a thorough physical examination, and conducting imaging are crucial in evaluating a suspected large bowel obstruction. Laboratory tests for anemia, infection, renal function, and electrolytes are initiated to drive resuscitation and focused treatment, including infusion of contrast for imaging.[25][26][27] Leukocytosis and acidosis may indicate tissue ischemia. In addition, testing for _Clostridium difficile_ and any electrolyte dysfunction should be conducted to help direct therapy and decision-making.[14]
 
 **Diagnostic Imaging Studies**
 
@@ -147,7 +146,7 @@ Some experts have voiced concern that stenting is associated with increased peri
 
 **Alternative Interventions to Stenting**
 
-In addition to stenting, other options can bridge to surgery or provide palliative treatment for colonic obstruction. One such alternative is endoscopic dilation of the obstruction. Although stenting is more effective for malignancies and post-radiation strictures, balloon dilation is indicated for anastomotic or inflammatory strictures and often requires multiple dilations. The balloon catheter is positioned over a guidewire, inflated with saline, and then deflated and removed. The balloon size must be compatible with the lumen to minimize the risk of perforation. Dilation under fluoroscopic guidance is possible when available and involves the injection of dilute contrast into saline. Successful resolution of obstruction has been reported to be 89% following 1 dilation, with recurrent obstruction noted in up to 50% of cases within 5 years of the dilation procedure. 
+In addition to stenting, other options can bridge to surgery or provide palliative treatment for colonic obstruction. One such alternative is endoscopic dilation of the obstruction. Although stenting is more effective for malignancies and post-radiation strictures, balloon dilation is indicated for anastomotic or inflammatory strictures and often requires multiple dilations. The balloon catheter is positioned over a guidewire, inflated with saline, and then deflated and removed. The balloon size must be compatible with the lumen to minimize the risk of perforation. Dilation under fluoroscopic guidance is possible when available and involves the injection of dilute contrast into saline. Successful resolution of obstruction has been reported to be 89% following 1 dilation, with recurrent obstruction noted in up to 50% of cases within 5 years of the dilation procedure.
 
 Another alternative to stenting is decompression using a nasogastric or rectal tube, but overall, better short-term outcomes with stenting have been observed compared to decompressive tubing.[5] Studies have reported definitive resection and reconstruction following 7% to 14% of stent cases and 12% to 60% of balloon dilation cases.[35]
 
@@ -177,47 +176,47 @@ Adjuncts and alternative treatments have been used for colonic obstruction. Lase
 
 Colon function may be disrupted by both mechanical and functional processes, including:
 
-  * Diverticulitis
+- Diverticulitis
 
-  * Malignancy
+- Malignancy
 
-  * Small bowel obstruction
+- Small bowel obstruction
 
-  * Abdominal hernia
+- Abdominal hernia
 
-  * Appendicitis
+- Appendicitis
 
-  * Inflammatory bowel disease
+- Inflammatory bowel disease
 
-  * Pelvic inflammatory disease
+- Pelvic inflammatory disease
 
-  * Systemic or localized inflammatory process
+- Systemic or localized inflammatory process
 
-  * Carcinomatosis
+- Carcinomatosis
 
-  * Ileus
+- Ileus
 
-  * Colonic pseudo-obstruction
+- Colonic pseudo-obstruction
 
-  * Toxic megacolon
+- Toxic megacolon
 
-  * Ischemic colitis
+- Ischemic colitis
 
-  * Mesenteric ischemia
+- Mesenteric ischemia
 
-  * Volvulus
+- Volvulus
 
-  * Abscess
+- Abscess
 
-  * Colonic intussusception
+- Colonic intussusception
 
-  * Foreign body
+- Foreign body
 
-  * Infection
+- Infection
 
-  * Radiation
+- Radiation
 
-  * Anatomic variant
+- Anatomic variant
 
 ## Pertinent Studies and Ongoing Trials
 
@@ -255,7 +254,7 @@ In medical centers with interventional radiologists or gastroenterologists, a co
 
 The morbidity and mortality of large bowel obstruction depend on the etiology and presence of comorbidities. In most cases, early intervention results in better outcomes. Mortality is significantly higher with bowel perforation or necrosis. Mortality rates of 15% to 30% have been reported in patients with perforation during large bowel obstruction. Recent use of self-expandable metallic stents for malignant bowel obstruction has yielded good short-term results, but long-term survival is not greatly altered.[17][51]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Managing large bowel obstruction requires an interprofessional approach with coordinated communication among healthcare team members. Clinicians, including surgeons, gastroenterologists, oncologists, and radiologists, play a central role in diagnosis, imaging interpretation, and surgical intervention, supported by interventionalists and intensivists when critical. Nurses and advanced practitioners maintain ongoing monitoring and patient education, whereas pharmacists contribute expertise on medications, including antibiotics and pain management.
 
@@ -263,11 +262,11 @@ After surgery, dietitians provide nutritional guidance to patients with ileostom
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26080&utm_source=pubmed&utm_campaign=reviews&utm_content=26080)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26080&utm_source=pubmed&utm_campaign=reviews&utm_content=26080)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/gut-health/large-bowel-obstruction/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26080)
+- [Click here for a simplified version.](https://mdsearchlight.com/gut-health/large-bowel-obstruction/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26080)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26080/?utm_source=pubmed&utm_campaign=comments&utm_content=26080)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26080/?utm_source=pubmed&utm_campaign=comments&utm_content=26080)
 
 [![Cecal Volvulus](/books/NBK441888/bin/Coronal__Cecal__volvulus__mb1199602.gif)](/books/NBK441888/figure/article-26080.image.f1/?report=objectonly "Figure")
 
@@ -278,268 +277,211 @@ Cecal Volvulus. Coronal computed tomography of the abdomen reveals a cecal volvu
 ## References
 
 1.
-    
 
-Pisano M, Zorcolo L, Merli C, Cimbanassi S, Poiasina E, Ceresoli M, Agresta F, Allievi N, Bellanova G, Coccolini F, Coy C, Fugazzola P, Martinez CA, Montori G, Paolillo C, Penachim TJ, Pereira B, Reis T, Restivo A, Rezende-Neto J, Sartelli M, Valentino M, Abu-Zidan FM, Ashkenazi I, Bala M, Chiara O, De' Angelis N, Deidda S, De Simone B, Di Saverio S, Finotti E, Kenji I, Moore E, Wexner S, Biffl W, Coimbra R, Guttadauro A, Leppäniemi A, Maier R, Magnone S, Mefire AC, Peitzmann A, Sakakushev B, Sugrue M, Viale P, Weber D, Kashuk J, Fraga GP, Kluger I, Catena F, Ansaloni L. 2017 WSES guidelines on colon and rectal cancer emergencies: obstruction and perforation. World J Emerg Surg. 2018;13:36. [[PMC free article: PMC6090779](/pmc/articles/PMC6090779/)] [[PubMed: 30123315](https://pubmed.ncbi.nlm.nih.gov/30123315)]
+Pisano M, Zorcolo L, Merli C, Cimbanassi S, Poiasina E, Ceresoli M, Agresta F, Allievi N, Bellanova G, Coccolini F, Coy C, Fugazzola P, Martinez CA, Montori G, Paolillo C, Penachim TJ, Pereira B, Reis T, Restivo A, Rezende-Neto J, Sartelli M, Valentino M, Abu-Zidan FM, Ashkenazi I, Bala M, Chiara O, De' Angelis N, Deidda S, De Simone B, Di Saverio S, Finotti E, Kenji I, Moore E, Wexner S, Biffl W, Coimbra R, Guttadauro A, Leppäniemi A, Maier R, Magnone S, Mefire AC, Peitzmann A, Sakakushev B, Sugrue M, Viale P, Weber D, Kashuk J, Fraga GP, Kluger I, Catena F, Ansaloni L. 2017 WSES guidelines on colon and rectal cancer emergencies: obstruction and perforation. World J Emerg Surg. 2018;13:36. \[[PMC free article: PMC6090779](/pmc/articles/PMC6090779/)\] \[[PubMed: 30123315](https://pubmed.ncbi.nlm.nih.gov/30123315)\]
 
 2.
-    
 
-Toumi O, Hamida B, Njima M, Bouchrika A, Ammar H, Daldoul A, Zaied S, Ben Jabra S, Gupta R, Noomen F, Zouari K. Adenosquamous carcinoma of the right colon: A case report and review of the literature. Int J Surg Case Rep. 2018;50:119-121. [[PMC free article: PMC6092453](/pmc/articles/PMC6092453/)] [[PubMed: 30103094](https://pubmed.ncbi.nlm.nih.gov/30103094)]
+Toumi O, Hamida B, Njima M, Bouchrika A, Ammar H, Daldoul A, Zaied S, Ben Jabra S, Gupta R, Noomen F, Zouari K. Adenosquamous carcinoma of the right colon: A case report and review of the literature. Int J Surg Case Rep. 2018;50:119-121. \[[PMC free article: PMC6092453](/pmc/articles/PMC6092453/)\] \[[PubMed: 30103094](https://pubmed.ncbi.nlm.nih.gov/30103094)\]
 
 3.
-    
 
-Girão de Caires F, Nunes M, Flores P, Girão de Caires A, Dionísio I. Bowel Obstruction as the Initial Presentation of Urothelial Carcinoma. Cureus. 2024 Jul;16(7):e64056. [[PMC free article: PMC11304121](/pmc/articles/PMC11304121/)] [[PubMed: 39114229](https://pubmed.ncbi.nlm.nih.gov/39114229)]
+Girão de Caires F, Nunes M, Flores P, Girão de Caires A, Dionísio I. Bowel Obstruction as the Initial Presentation of Urothelial Carcinoma. Cureus. 2024 Jul;16(7):e64056. \[[PMC free article: PMC11304121](/pmc/articles/PMC11304121/)\] \[[PubMed: 39114229](https://pubmed.ncbi.nlm.nih.gov/39114229)\]
 
 4.
-    
 
-Fardanesh A, George J, Hughes D, Stavropoulou-Tatla S, Mathur P. The use of self-expanding metallic stents in the management of benign colonic obstruction: a systematic review and meta-analysis. Tech Coloproctol. 2024 Jul 19;28(1):85. [[PMC free article: PMC11271435](/pmc/articles/PMC11271435/)] [[PubMed: 39028327](https://pubmed.ncbi.nlm.nih.gov/39028327)]
+Fardanesh A, George J, Hughes D, Stavropoulou-Tatla S, Mathur P. The use of self-expanding metallic stents in the management of benign colonic obstruction: a systematic review and meta-analysis. Tech Coloproctol. 2024 Jul 19;28(1):85. \[[PMC free article: PMC11271435](/pmc/articles/PMC11271435/)\] \[[PubMed: 39028327](https://pubmed.ncbi.nlm.nih.gov/39028327)\]
 
 5.
-    
 
-Pavlidis ET, Galanis IN, Pavlidis TE. Management of obstructed colorectal carcinoma in an emergency setting: An update. World J Gastrointest Oncol. 2024 Mar 15;16(3):598-613. [[PMC free article: PMC10989363](/pmc/articles/PMC10989363/)] [[PubMed: 38577464](https://pubmed.ncbi.nlm.nih.gov/38577464)]
+Pavlidis ET, Galanis IN, Pavlidis TE. Management of obstructed colorectal carcinoma in an emergency setting: An update. World J Gastrointest Oncol. 2024 Mar 15;16(3):598-613. \[[PMC free article: PMC10989363](/pmc/articles/PMC10989363/)\] \[[PubMed: 38577464](https://pubmed.ncbi.nlm.nih.gov/38577464)\]
 
 6.
-    
 
-Kato H, Kawai K, Nakano D, Dejima A, Ise I, Natsume S, Takao M, Shibata S, Iizuka T, Akimoto T, Tsukada Y, Ito M. Does Colorectal Stenting as a Bridge to Surgery for Obstructive Colorectal Cancer Increase Perineural Invasion? J Anus Rectum Colon. 2024;8(3):195-203. [[PMC free article: PMC11286373](/pmc/articles/PMC11286373/)] [[PubMed: 39086875](https://pubmed.ncbi.nlm.nih.gov/39086875)]
+Kato H, Kawai K, Nakano D, Dejima A, Ise I, Natsume S, Takao M, Shibata S, Iizuka T, Akimoto T, Tsukada Y, Ito M. Does Colorectal Stenting as a Bridge to Surgery for Obstructive Colorectal Cancer Increase Perineural Invasion? J Anus Rectum Colon. 2024;8(3):195-203. \[[PMC free article: PMC11286373](/pmc/articles/PMC11286373/)\] \[[PubMed: 39086875](https://pubmed.ncbi.nlm.nih.gov/39086875)\]
 
 7.
-    
 
-Flores M, Moughnyeh MM, Lekanides A, Parker L. Acute Constipation and A Stercoral Perforation: A Case Report. SAGE Open Med Case Rep. 2024;12:2050313X241263756. [[PMC free article: PMC11271129](/pmc/articles/PMC11271129/)] [[PubMed: 39055668](https://pubmed.ncbi.nlm.nih.gov/39055668)]
+Flores M, Moughnyeh MM, Lekanides A, Parker L. Acute Constipation and A Stercoral Perforation: A Case Report. SAGE Open Med Case Rep. 2024;12:2050313X241263756. \[[PMC free article: PMC11271129](/pmc/articles/PMC11271129/)\] \[[PubMed: 39055668](https://pubmed.ncbi.nlm.nih.gov/39055668)\]
 
 8.
-    
 
-Johnson WR, Hawkins AT. Large Bowel Obstruction. Clin Colon Rectal Surg. 2021 Jul;34(4):233-241. [[PMC free article: PMC8292000](/pmc/articles/PMC8292000/)] [[PubMed: 34305472](https://pubmed.ncbi.nlm.nih.gov/34305472)]
+Johnson WR, Hawkins AT. Large Bowel Obstruction. Clin Colon Rectal Surg. 2021 Jul;34(4):233-241. \[[PMC free article: PMC8292000](/pmc/articles/PMC8292000/)\] \[[PubMed: 34305472](https://pubmed.ncbi.nlm.nih.gov/34305472)\]
 
 9.
-    
 
-Quinn K, Davis ME, Carter L, Shortell CK, Sommer C. Emergency General Surgery-A Misnomer? Am Surg. 2018 Jul 01;84(7):1214-1216. [[PubMed: 30064591](https://pubmed.ncbi.nlm.nih.gov/30064591)]
+Quinn K, Davis ME, Carter L, Shortell CK, Sommer C. Emergency General Surgery-A Misnomer? Am Surg. 2018 Jul 01;84(7):1214-1216. \[[PubMed: 30064591](https://pubmed.ncbi.nlm.nih.gov/30064591)\]
 
 10.
-    
 
-De Monti M, Cestaro G, Alkayyali S, Galafassi J, Fasolini F. Gallstone ileus: A possible cause of bowel obstruction in the elderly population. Int J Surg Case Rep. 2018;43:18-20. [[PMC free article: PMC5907688](/pmc/articles/PMC5907688/)] [[PubMed: 29414501](https://pubmed.ncbi.nlm.nih.gov/29414501)]
+De Monti M, Cestaro G, Alkayyali S, Galafassi J, Fasolini F. Gallstone ileus: A possible cause of bowel obstruction in the elderly population. Int J Surg Case Rep. 2018;43:18-20. \[[PMC free article: PMC5907688](/pmc/articles/PMC5907688/)\] \[[PubMed: 29414501](https://pubmed.ncbi.nlm.nih.gov/29414501)\]
 
 11.
-    
 
-Fenaroli P, Maritati F, Vaglio A. Into Clinical Practice: Diagnosis and Therapy of Retroperitoneal Fibrosis. Curr Rheumatol Rep. 2021 Feb 10;23(3):18. [[PubMed: 33569638](https://pubmed.ncbi.nlm.nih.gov/33569638)]
+Fenaroli P, Maritati F, Vaglio A. Into Clinical Practice: Diagnosis and Therapy of Retroperitoneal Fibrosis. Curr Rheumatol Rep. 2021 Feb 10;23(3):18. \[[PubMed: 33569638](https://pubmed.ncbi.nlm.nih.gov/33569638)\]
 
 12.
-    
 
-Singh A, Paruthy SB, Kuraria V, Aradhya PS. Unusual Triggers of Acute Intestinal Obstruction in Surgical Emergencies: A Series of Five Cases. Cureus. 2024 May;16(5):e60848. [[PMC free article: PMC11191845](/pmc/articles/PMC11191845/)] [[PubMed: 38910718](https://pubmed.ncbi.nlm.nih.gov/38910718)]
+Singh A, Paruthy SB, Kuraria V, Aradhya PS. Unusual Triggers of Acute Intestinal Obstruction in Surgical Emergencies: A Series of Five Cases. Cureus. 2024 May;16(5):e60848. \[[PMC free article: PMC11191845](/pmc/articles/PMC11191845/)\] \[[PubMed: 38910718](https://pubmed.ncbi.nlm.nih.gov/38910718)\]
 
 13.
-    
 
-Burgos-Torres MDM, Molina-Lopez VH, Perez Cruz NM, Perez Del Valle C, Sorrentino J. Multivitamin-Induced Pharmacobezoar: A Rare Entity of Large Bowel Obstruction. Cureus. 2023 Jul;15(7):e41688. [[PMC free article: PMC10334454](/pmc/articles/PMC10334454/)] [[PubMed: 37441102](https://pubmed.ncbi.nlm.nih.gov/37441102)]
+Burgos-Torres MDM, Molina-Lopez VH, Perez Cruz NM, Perez Del Valle C, Sorrentino J. Multivitamin-Induced Pharmacobezoar: A Rare Entity of Large Bowel Obstruction. Cureus. 2023 Jul;15(7):e41688. \[[PMC free article: PMC10334454](/pmc/articles/PMC10334454/)\] \[[PubMed: 37441102](https://pubmed.ncbi.nlm.nih.gov/37441102)\]
 
 14.
-    
 
-Underhill J, Munding E, Hayden D. Acute Colonic Pseudo-obstruction and Volvulus: Pathophysiology, Evaluation, and Treatment. Clin Colon Rectal Surg. 2021 Jul;34(4):242-250. [[PMC free article: PMC8292003](/pmc/articles/PMC8292003/)] [[PubMed: 34305473](https://pubmed.ncbi.nlm.nih.gov/34305473)]
+Underhill J, Munding E, Hayden D. Acute Colonic Pseudo-obstruction and Volvulus: Pathophysiology, Evaluation, and Treatment. Clin Colon Rectal Surg. 2021 Jul;34(4):242-250. \[[PMC free article: PMC8292003](/pmc/articles/PMC8292003/)\] \[[PubMed: 34305473](https://pubmed.ncbi.nlm.nih.gov/34305473)\]
 
 15.
-    
 
-Drożdż W, Budzyński P. Change in mechanical bowel obstruction demographic and etiological patterns during the past century: observations from one health care institution. Arch Surg. 2012 Feb;147(2):175-80. [[PubMed: 22351915](https://pubmed.ncbi.nlm.nih.gov/22351915)]
+Drożdż W, Budzyński P. Change in mechanical bowel obstruction demographic and etiological patterns during the past century: observations from one health care institution. Arch Surg. 2012 Feb;147(2):175-80. \[[PubMed: 22351915](https://pubmed.ncbi.nlm.nih.gov/22351915)\]
 
 16.
-    
 
-Shah D, Makharia GK, Ghoshal UC, Varma S, Ahuja V, Hutfless S. Burden of gastrointestinal and liver diseases in India, 1990-2016. Indian J Gastroenterol. 2018 Sep;37(5):439-445. [[PubMed: 30306342](https://pubmed.ncbi.nlm.nih.gov/30306342)]
+Shah D, Makharia GK, Ghoshal UC, Varma S, Ahuja V, Hutfless S. Burden of gastrointestinal and liver diseases in India, 1990-2016. Indian J Gastroenterol. 2018 Sep;37(5):439-445. \[[PubMed: 30306342](https://pubmed.ncbi.nlm.nih.gov/30306342)\]
 
 17.
-    
 
-Doshi R, Desai J, Shah Y, Decter D, Doshi S. Incidence, features, in-hospital outcomes and predictors of in-hospital mortality associated with toxic megacolon hospitalizations in the United States. Intern Emerg Med. 2018 Sep;13(6):881-887. [[PubMed: 29948833](https://pubmed.ncbi.nlm.nih.gov/29948833)]
+Doshi R, Desai J, Shah Y, Decter D, Doshi S. Incidence, features, in-hospital outcomes and predictors of in-hospital mortality associated with toxic megacolon hospitalizations in the United States. Intern Emerg Med. 2018 Sep;13(6):881-887. \[[PubMed: 29948833](https://pubmed.ncbi.nlm.nih.gov/29948833)\]
 
 18.
-    
 
-Kwaan MR, Wu Y, Ren Y, Xirasagar S. Prompt intervention in large bowel obstruction management: A Nationwide Inpatient Sample analysis. Am J Surg. 2022 Nov;224(5):1262-1266. [[PubMed: 35922257](https://pubmed.ncbi.nlm.nih.gov/35922257)]
+Kwaan MR, Wu Y, Ren Y, Xirasagar S. Prompt intervention in large bowel obstruction management: A Nationwide Inpatient Sample analysis. Am J Surg. 2022 Nov;224(5):1262-1266. \[[PubMed: 35922257](https://pubmed.ncbi.nlm.nih.gov/35922257)\]
 
 19.
-    
 
-Jaffe T, Thompson WM. Large-Bowel Obstruction in the Adult: Classic Radiographic and CT Findings, Etiology, and Mimics. Radiology. 2015 Jun;275(3):651-63. [[PubMed: 25997131](https://pubmed.ncbi.nlm.nih.gov/25997131)]
+Jaffe T, Thompson WM. Large-Bowel Obstruction in the Adult: Classic Radiographic and CT Findings, Etiology, and Mimics. Radiology. 2015 Jun;275(3):651-63. \[[PubMed: 25997131](https://pubmed.ncbi.nlm.nih.gov/25997131)\]
 
 20.
-    
 
-Naiem MEA, Suliman SH. Cecal perforations due to descending colon obstruction (closed loop): a case report and review of the literature. J Med Case Rep. 2022 Dec 05;16(1):450. [[PMC free article: PMC9721027](/pmc/articles/PMC9721027/)] [[PubMed: 36471445](https://pubmed.ncbi.nlm.nih.gov/36471445)]
+Naiem MEA, Suliman SH. Cecal perforations due to descending colon obstruction (closed loop): a case report and review of the literature. J Med Case Rep. 2022 Dec 05;16(1):450. \[[PMC free article: PMC9721027](/pmc/articles/PMC9721027/)\] \[[PubMed: 36471445](https://pubmed.ncbi.nlm.nih.gov/36471445)\]
 
 21.
-    
 
-Catena F, De Simone B, Coccolini F, Di Saverio S, Sartelli M, Ansaloni L. Bowel obstruction: a narrative review for all physicians. World J Emerg Surg. 2019;14:20. [[PMC free article: PMC6489175](/pmc/articles/PMC6489175/)] [[PubMed: 31168315](https://pubmed.ncbi.nlm.nih.gov/31168315)]
+Catena F, De Simone B, Coccolini F, Di Saverio S, Sartelli M, Ansaloni L. Bowel obstruction: a narrative review for all physicians. World J Emerg Surg. 2019;14:20. \[[PMC free article: PMC6489175](/pmc/articles/PMC6489175/)\] \[[PubMed: 31168315](https://pubmed.ncbi.nlm.nih.gov/31168315)\]
 
 22.
-    
 
-Veld JV, Beek KJ, Consten ECJ, Ter Borg F, van Westreenen HL, Bemelman WA, van Hooft JE, Tanis PJ. Definition of large bowel obstruction by primary colorectal cancer: A systematic review. Colorectal Dis. 2021 Apr;23(4):787-804. [[PMC free article: PMC8248390](/pmc/articles/PMC8248390/)] [[PubMed: 33305454](https://pubmed.ncbi.nlm.nih.gov/33305454)]
+Veld JV, Beek KJ, Consten ECJ, Ter Borg F, van Westreenen HL, Bemelman WA, van Hooft JE, Tanis PJ. Definition of large bowel obstruction by primary colorectal cancer: A systematic review. Colorectal Dis. 2021 Apr;23(4):787-804. \[[PMC free article: PMC8248390](/pmc/articles/PMC8248390/)\] \[[PubMed: 33305454](https://pubmed.ncbi.nlm.nih.gov/33305454)\]
 
 23.
-    
 
-Dolejs SC, Guzman MJ, Fajardo AD, Holcomb BK, Robb BW, Waters JA. Contemporary Management of Sigmoid Volvulus. J Gastrointest Surg. 2018 Aug;22(8):1404-1411. [[PubMed: 29569006](https://pubmed.ncbi.nlm.nih.gov/29569006)]
+Dolejs SC, Guzman MJ, Fajardo AD, Holcomb BK, Robb BW, Waters JA. Contemporary Management of Sigmoid Volvulus. J Gastrointest Surg. 2018 Aug;22(8):1404-1411. \[[PubMed: 29569006](https://pubmed.ncbi.nlm.nih.gov/29569006)\]
 
 24.
-    
 
-Wasanwala H, Neychev V. Perforated Colon Cancer Associated With Post-operative Recurrent Bowel Perforations. Cureus. 2021 Sep;13(9):e17655. [[PMC free article: PMC8486625](/pmc/articles/PMC8486625/)] [[PubMed: 34646700](https://pubmed.ncbi.nlm.nih.gov/34646700)]
+Wasanwala H, Neychev V. Perforated Colon Cancer Associated With Post-operative Recurrent Bowel Perforations. Cureus. 2021 Sep;13(9):e17655. \[[PMC free article: PMC8486625](/pmc/articles/PMC8486625/)\] \[[PubMed: 34646700](https://pubmed.ncbi.nlm.nih.gov/34646700)\]
 
 25.
-    
 
-Cinar H, Berkesoglu M, Derebey M, Karadeniz E, Yildirim C, Karabulut K, Kesicioglu T, Erzurumlu K. Surgical management of anorectal foreign bodies. Niger J Clin Pract. 2018 Jun;21(6):721-725. [[PubMed: 29888718](https://pubmed.ncbi.nlm.nih.gov/29888718)]
+Cinar H, Berkesoglu M, Derebey M, Karadeniz E, Yildirim C, Karabulut K, Kesicioglu T, Erzurumlu K. Surgical management of anorectal foreign bodies. Niger J Clin Pract. 2018 Jun;21(6):721-725. \[[PubMed: 29888718](https://pubmed.ncbi.nlm.nih.gov/29888718)\]
 
 26.
-    
 
-Orgul G, Soyer T, Yurdakok M, Beksac MS. Evaluation of pre- and postnatally diagnosed gastrointestinal tract obstructions. J Matern Fetal Neonatal Med. 2019 Oct;32(19):3215-3220. [[PubMed: 29606013](https://pubmed.ncbi.nlm.nih.gov/29606013)]
+Orgul G, Soyer T, Yurdakok M, Beksac MS. Evaluation of pre- and postnatally diagnosed gastrointestinal tract obstructions. J Matern Fetal Neonatal Med. 2019 Oct;32(19):3215-3220. \[[PubMed: 29606013](https://pubmed.ncbi.nlm.nih.gov/29606013)\]
 
 27.
-    
 
-Syrmis W, Richard R, Jenkins-Marsh S, Chia SC, Good P. Oral water soluble contrast for malignant bowel obstruction. Cochrane Database Syst Rev. 2018 Mar 07;3(3):CD012014. [[PMC free article: PMC6494190](/pmc/articles/PMC6494190/)] [[PubMed: 29513393](https://pubmed.ncbi.nlm.nih.gov/29513393)]
+Syrmis W, Richard R, Jenkins-Marsh S, Chia SC, Good P. Oral water soluble contrast for malignant bowel obstruction. Cochrane Database Syst Rev. 2018 Mar 07;3(3):CD012014. \[[PMC free article: PMC6494190](/pmc/articles/PMC6494190/)\] \[[PubMed: 29513393](https://pubmed.ncbi.nlm.nih.gov/29513393)\]
 
 28.
-    
 
-Hokama A, Iraha A. Coffee bean sign, steel pan sign and whirl sign in sigmoid volvulus. Rev Esp Enferm Dig. 2024 Feb;116(2):114-115. [[PubMed: 36263824](https://pubmed.ncbi.nlm.nih.gov/36263824)]
+Hokama A, Iraha A. Coffee bean sign, steel pan sign and whirl sign in sigmoid volvulus. Rev Esp Enferm Dig. 2024 Feb;116(2):114-115. \[[PubMed: 36263824](https://pubmed.ncbi.nlm.nih.gov/36263824)\]
 
 29.
-    
 
-Stavride E, Plakias C. Coffee bean sign: Its meaning and importance. Clin Case Rep. 2020 Oct;8(10):2086-2087. [[PMC free article: PMC7562879](/pmc/articles/PMC7562879/)] [[PubMed: 33088563](https://pubmed.ncbi.nlm.nih.gov/33088563)]
+Stavride E, Plakias C. Coffee bean sign: Its meaning and importance. Clin Case Rep. 2020 Oct;8(10):2086-2087. \[[PMC free article: PMC7562879](/pmc/articles/PMC7562879/)\] \[[PubMed: 33088563](https://pubmed.ncbi.nlm.nih.gov/33088563)\]
 
 30.
-    
 
-Spada C, Hassan C, Bellini D, Burling D, Cappello G, Carretero C, Dekker E, Eliakim R, de Haan M, Kaminski MF, Koulaouzidis A, Laghi A, Lefere P, Mang T, Milluzzo SM, Morrin M, McNamara D, Neri E, Pecere S, Pioche M, Plumb A, Rondonotti E, Spaander MC, Taylor S, Fernandez-Urien I, van Hooft JE, Stoker J, Regge D. Imaging alternatives to colonoscopy: CT colonography and colon capsule. European Society of Gastrointestinal Endoscopy (ESGE) and European Society of Gastrointestinal and Abdominal Radiology (ESGAR) Guideline - Update 2020. Eur Radiol. 2021 May;31(5):2967-2982. [[PubMed: 33104846](https://pubmed.ncbi.nlm.nih.gov/33104846)]
+Spada C, Hassan C, Bellini D, Burling D, Cappello G, Carretero C, Dekker E, Eliakim R, de Haan M, Kaminski MF, Koulaouzidis A, Laghi A, Lefere P, Mang T, Milluzzo SM, Morrin M, McNamara D, Neri E, Pecere S, Pioche M, Plumb A, Rondonotti E, Spaander MC, Taylor S, Fernandez-Urien I, van Hooft JE, Stoker J, Regge D. Imaging alternatives to colonoscopy: CT colonography and colon capsule. European Society of Gastrointestinal Endoscopy (ESGE) and European Society of Gastrointestinal and Abdominal Radiology (ESGAR) Guideline - Update 2020. Eur Radiol. 2021 May;31(5):2967-2982. \[[PubMed: 33104846](https://pubmed.ncbi.nlm.nih.gov/33104846)\]
 
 31.
-    
 
-Kwaan MR, Ren Y, Wu Y, Xirasagar S. Colonic Stent Use by Indication and Patient Outcomes: A Nationwide Inpatient Sample Study. J Surg Res. 2021 Sep;265:168-179. [[PubMed: 33940240](https://pubmed.ncbi.nlm.nih.gov/33940240)]
+Kwaan MR, Ren Y, Wu Y, Xirasagar S. Colonic Stent Use by Indication and Patient Outcomes: A Nationwide Inpatient Sample Study. J Surg Res. 2021 Sep;265:168-179. \[[PubMed: 33940240](https://pubmed.ncbi.nlm.nih.gov/33940240)\]
 
 32.
-    
 
-van Hooft JE, Veld JV, Arnold D, Beets-Tan RGH, Everett S, Götz M, van Halsema EE, Hill J, Manes G, Meisner S, Rodrigues-Pinto E, Sabbagh C, Vandervoort J, Tanis PJ, Vanbiervliet G, Arezzo A. Self-expandable metal stents for obstructing colonic and extracolonic cancer: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2020. Endoscopy. 2020 May;52(5):389-407. [[PubMed: 32259849](https://pubmed.ncbi.nlm.nih.gov/32259849)]
+van Hooft JE, Veld JV, Arnold D, Beets-Tan RGH, Everett S, Götz M, van Halsema EE, Hill J, Manes G, Meisner S, Rodrigues-Pinto E, Sabbagh C, Vandervoort J, Tanis PJ, Vanbiervliet G, Arezzo A. Self-expandable metal stents for obstructing colonic and extracolonic cancer: European Society of Gastrointestinal Endoscopy (ESGE) Guideline - Update 2020. Endoscopy. 2020 May;52(5):389-407. \[[PubMed: 32259849](https://pubmed.ncbi.nlm.nih.gov/32259849)\]
 
 33.
-    
 
-Vogel JD, Felder SI, Bhama AR, Hawkins AT, Langenfeld SJ, Shaffer VO, Thorsen AJ, Weiser MR, Chang GJ, Lightner AL, Feingold DL, Paquette IM. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Colon Cancer. Dis Colon Rectum. 2022 Feb 01;65(2):148-177. [[PubMed: 34775402](https://pubmed.ncbi.nlm.nih.gov/34775402)]
+Vogel JD, Felder SI, Bhama AR, Hawkins AT, Langenfeld SJ, Shaffer VO, Thorsen AJ, Weiser MR, Chang GJ, Lightner AL, Feingold DL, Paquette IM. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Colon Cancer. Dis Colon Rectum. 2022 Feb 01;65(2):148-177. \[[PubMed: 34775402](https://pubmed.ncbi.nlm.nih.gov/34775402)\]
 
 34.
-    
 
-Mashar M, Mashar R, Hajibandeh S. Uncovered versus covered stent in management of large bowel obstruction due to colorectal malignancy: a systematic review and meta-analysis. Int J Colorectal Dis. 2019 May;34(5):773-785. [[PubMed: 30903271](https://pubmed.ncbi.nlm.nih.gov/30903271)]
+Mashar M, Mashar R, Hajibandeh S. Uncovered versus covered stent in management of large bowel obstruction due to colorectal malignancy: a systematic review and meta-analysis. Int J Colorectal Dis. 2019 May;34(5):773-785. \[[PubMed: 30903271](https://pubmed.ncbi.nlm.nih.gov/30903271)\]
 
 35.
-    
 
-Gordon SR, Eichenwald LS, Systrom HK. Endoscopic techniques for management of large colorectal polyps, strictures and leaks. Surg Open Sci. 2024 Aug;20:156-168. [[PMC free article: PMC11296069](/pmc/articles/PMC11296069/)] [[PubMed: 39100384](https://pubmed.ncbi.nlm.nih.gov/39100384)]
+Gordon SR, Eichenwald LS, Systrom HK. Endoscopic techniques for management of large colorectal polyps, strictures and leaks. Surg Open Sci. 2024 Aug;20:156-168. \[[PMC free article: PMC11296069](/pmc/articles/PMC11296069/)\] \[[PubMed: 39100384](https://pubmed.ncbi.nlm.nih.gov/39100384)\]
 
 36.
-    
 
-Sasaki T, Yoshida S, Isayama H, Narita A, Yamada T, Enomoto T, Sumida Y, Kyo R, Kuwai T, Tomita M, Moroi R, Shimada M, Hirata N, Saida Y. Short-Term Outcomes of Colorectal Stenting Using a Low Axial Force Self-Expandable Metal Stent for Malignant Colorectal Obstruction: A Japanese Multicenter Prospective Study. J Clin Med. 2021 Oct 26;10(21) [[PMC free article: PMC8585095](/pmc/articles/PMC8585095/)] [[PubMed: 34768456](https://pubmed.ncbi.nlm.nih.gov/34768456)]
+Sasaki T, Yoshida S, Isayama H, Narita A, Yamada T, Enomoto T, Sumida Y, Kyo R, Kuwai T, Tomita M, Moroi R, Shimada M, Hirata N, Saida Y. Short-Term Outcomes of Colorectal Stenting Using a Low Axial Force Self-Expandable Metal Stent for Malignant Colorectal Obstruction: A Japanese Multicenter Prospective Study. J Clin Med. 2021 Oct 26;10(21) \[[PMC free article: PMC8585095](/pmc/articles/PMC8585095/)\] \[[PubMed: 34768456](https://pubmed.ncbi.nlm.nih.gov/34768456)\]
 
 37.
-    
 
-Balciscueta I, Balciscueta Z, Uribe N, García-Granero E. Perineural invasion is increased in patients receiving colonic stenting as a bridge to surgery: a systematic review and meta-analysis. Tech Coloproctol. 2021 Feb;25(2):167-176. [[PubMed: 33200308](https://pubmed.ncbi.nlm.nih.gov/33200308)]
+Balciscueta I, Balciscueta Z, Uribe N, García-Granero E. Perineural invasion is increased in patients receiving colonic stenting as a bridge to surgery: a systematic review and meta-analysis. Tech Coloproctol. 2021 Feb;25(2):167-176. \[[PubMed: 33200308](https://pubmed.ncbi.nlm.nih.gov/33200308)\]
 
 38.
-    
 
-Gavriilidis P, de'Angelis N, Wheeler J, Askari A, Di Saverio S, Davies JR. Diversion, resection, or stenting as a bridge to surgery for acute neoplastic left-sided colonic obstruction: a systematic review and network meta-analysis of studies with curative intent. Ann R Coll Surg Engl. 2021 Apr;103(4):235-244. [[PMC free article: PMC10335088](/pmc/articles/PMC10335088/)] [[PubMed: 33682486](https://pubmed.ncbi.nlm.nih.gov/33682486)]
+Gavriilidis P, de'Angelis N, Wheeler J, Askari A, Di Saverio S, Davies JR. Diversion, resection, or stenting as a bridge to surgery for acute neoplastic left-sided colonic obstruction: a systematic review and network meta-analysis of studies with curative intent. Ann R Coll Surg Engl. 2021 Apr;103(4):235-244. \[[PMC free article: PMC10335088](/pmc/articles/PMC10335088/)\] \[[PubMed: 33682486](https://pubmed.ncbi.nlm.nih.gov/33682486)\]
 
 39.
-    
 
-Zwanenburg ES, Veld JV, Amelung FJ, Borstlap WAA, Dekker JWT, Hompes R, Tuynman JB, Westerterp M, van Westreenen HL, Bemelman WA, Consten ECJ, Tanis PJ., On behalf of the Dutch Snapshot Research Group. Short- and Long-term Outcomes After Laparoscopic Emergency Resection of Left-Sided Obstructive Colon Cancer: A Nationwide Propensity Score-Matched Analysis. Dis Colon Rectum. 2023 Jun 01;66(6):774-784. [[PubMed: 35522731](https://pubmed.ncbi.nlm.nih.gov/35522731)]
+Zwanenburg ES, Veld JV, Amelung FJ, Borstlap WAA, Dekker JWT, Hompes R, Tuynman JB, Westerterp M, van Westreenen HL, Bemelman WA, Consten ECJ, Tanis PJ., On behalf of the Dutch Snapshot Research Group. Short- and Long-term Outcomes After Laparoscopic Emergency Resection of Left-Sided Obstructive Colon Cancer: A Nationwide Propensity Score-Matched Analysis. Dis Colon Rectum. 2023 Jun 01;66(6):774-784. \[[PubMed: 35522731](https://pubmed.ncbi.nlm.nih.gov/35522731)\]
 
 40.
-    
 
-Boeding JRE, Ramphal W, Rijken AM, Crolla RMPH, Verhoef C, Gobardhan PD, Schreinemakers JMJ. A Systematic Review Comparing Emergency Resection and Staged Treatment for Curable Obstructing Right-Sided Colon Cancer. Ann Surg Oncol. 2021 Jul;28(7):3545-3555. [[PubMed: 33067743](https://pubmed.ncbi.nlm.nih.gov/33067743)]
+Boeding JRE, Ramphal W, Rijken AM, Crolla RMPH, Verhoef C, Gobardhan PD, Schreinemakers JMJ. A Systematic Review Comparing Emergency Resection and Staged Treatment for Curable Obstructing Right-Sided Colon Cancer. Ann Surg Oncol. 2021 Jul;28(7):3545-3555. \[[PubMed: 33067743](https://pubmed.ncbi.nlm.nih.gov/33067743)\]
 
 41.
-    
 
-Kondo A, Okano K, Kumamoto K, Kobara H, Nagahara T, Wato M, Shibatoge M, Minato T, Masaki T, Suzuki Y., Kagawa Gastroenterology Forum. Surgical management and outcomes of obstructive colorectal cancer in elderly patients: A multi-institutional retrospective study. Surgery. 2022 Jul;172(1):60-68. [[PubMed: 34998620](https://pubmed.ncbi.nlm.nih.gov/34998620)]
+Kondo A, Okano K, Kumamoto K, Kobara H, Nagahara T, Wato M, Shibatoge M, Minato T, Masaki T, Suzuki Y., Kagawa Gastroenterology Forum. Surgical management and outcomes of obstructive colorectal cancer in elderly patients: A multi-institutional retrospective study. Surgery. 2022 Jul;172(1):60-68. \[[PubMed: 34998620](https://pubmed.ncbi.nlm.nih.gov/34998620)\]
 
 42.
-    
 
-Farkas N, Kaur V, Shanmuganandan A, Black J, Redon C, Frampton AE, West N. A systematic review of gallstone sigmoid ileus management. Ann Med Surg (Lond). 2018 Mar;27:32-39. [[PMC free article: PMC5832643](/pmc/articles/PMC5832643/)] [[PubMed: 29511540](https://pubmed.ncbi.nlm.nih.gov/29511540)]
+Farkas N, Kaur V, Shanmuganandan A, Black J, Redon C, Frampton AE, West N. A systematic review of gallstone sigmoid ileus management. Ann Med Surg (Lond). 2018 Mar;27:32-39. \[[PMC free article: PMC5832643](/pmc/articles/PMC5832643/)\] \[[PubMed: 29511540](https://pubmed.ncbi.nlm.nih.gov/29511540)\]
 
 43.
-    
 
-Di Saverio S, Birindelli A, Segalini E, Novello M, Larocca A, Ferrara F, Binda GA, Bassi M. "To stent or not to stent?": immediate emergency surgery with laparoscopic radical colectomy with CME and primary anastomosis is feasible for obstructing left colon carcinoma. Surg Endosc. 2018 Apr;32(4):2151-2155. [[PubMed: 28791424](https://pubmed.ncbi.nlm.nih.gov/28791424)]
+Di Saverio S, Birindelli A, Segalini E, Novello M, Larocca A, Ferrara F, Binda GA, Bassi M. "To stent or not to stent?": immediate emergency surgery with laparoscopic radical colectomy with CME and primary anastomosis is feasible for obstructing left colon carcinoma. Surg Endosc. 2018 Apr;32(4):2151-2155. \[[PubMed: 28791424](https://pubmed.ncbi.nlm.nih.gov/28791424)\]
 
 44.
-    
 
-CReST Collaborative Group. Colorectal Endoscopic Stenting Trial (CReST) for obstructing left-sided colorectal cancer: randomized clinical trial. Br J Surg. 2022 Oct 14;109(11):1073-1080. [[PubMed: 35986684](https://pubmed.ncbi.nlm.nih.gov/35986684)]
+CReST Collaborative Group. Colorectal Endoscopic Stenting Trial (CReST) for obstructing left-sided colorectal cancer: randomized clinical trial. Br J Surg. 2022 Oct 14;109(11):1073-1080. \[[PubMed: 35986684](https://pubmed.ncbi.nlm.nih.gov/35986684)\]
 
 45.
-    
 
-Kanaka S, Matsuda A, Yamada T, Ohta R, Sonoda H, Shinji S, Takahashi G, Iwai T, Takeda K, Ueda K, Kuriyama S, Miyasaka T, Yoshida H. Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis. Surg Endosc. 2022 May;36(5):2760-2770. [[PubMed: 35113211](https://pubmed.ncbi.nlm.nih.gov/35113211)]
+Kanaka S, Matsuda A, Yamada T, Ohta R, Sonoda H, Shinji S, Takahashi G, Iwai T, Takeda K, Ueda K, Kuriyama S, Miyasaka T, Yoshida H. Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis. Surg Endosc. 2022 May;36(5):2760-2770. \[[PubMed: 35113211](https://pubmed.ncbi.nlm.nih.gov/35113211)\]
 
 46.
-    
 
-Cao Y, Ke S, Gu J, Mao F, Yao S, Deng S, Yan L, Wu K, Liu L, Cai K. The Value of Haematological Parameters and Tumour Markers in the Prediction of Intestinal Obstruction in 1474 Chinese Colorectal Cancer Patients. Dis Markers. 2020;2020:8860328. [[PMC free article: PMC7443225](/pmc/articles/PMC7443225/)] [[PubMed: 32855747](https://pubmed.ncbi.nlm.nih.gov/32855747)]
+Cao Y, Ke S, Gu J, Mao F, Yao S, Deng S, Yan L, Wu K, Liu L, Cai K. The Value of Haematological Parameters and Tumour Markers in the Prediction of Intestinal Obstruction in 1474 Chinese Colorectal Cancer Patients. Dis Markers. 2020;2020:8860328. \[[PMC free article: PMC7443225](/pmc/articles/PMC7443225/)\] \[[PubMed: 32855747](https://pubmed.ncbi.nlm.nih.gov/32855747)\]
 
 47.
-    
 
-de Roos MAJ, Hugen N, Hazebroek EJ, Spillenaar Bilgen EJ. Delayed surgical resection of primary left-sided obstructing colon cancer is associated with improved short- and long-term outcomes. J Surg Oncol. 2021 Dec;124(7):1146-1153. [[PubMed: 34346510](https://pubmed.ncbi.nlm.nih.gov/34346510)]
+de Roos MAJ, Hugen N, Hazebroek EJ, Spillenaar Bilgen EJ. Delayed surgical resection of primary left-sided obstructing colon cancer is associated with improved short- and long-term outcomes. J Surg Oncol. 2021 Dec;124(7):1146-1153. \[[PubMed: 34346510](https://pubmed.ncbi.nlm.nih.gov/34346510)\]
 
 48.
-    
 
-Eugene N, Kuryba A, Martin P, Oliver CM, Berry M, Moppett IK, Johnston C, Hare S, Lockwood S, Murray D, Walker K, Cromwell DA., NELA Project Team. Development and validation of a prognostic model for death 30 days after adult emergency laparotomy. Anaesthesia. 2023 Oct;78(10):1262-1271. [[PubMed: 37450350](https://pubmed.ncbi.nlm.nih.gov/37450350)]
+Eugene N, Kuryba A, Martin P, Oliver CM, Berry M, Moppett IK, Johnston C, Hare S, Lockwood S, Murray D, Walker K, Cromwell DA., NELA Project Team. Development and validation of a prognostic model for death 30 days after adult emergency laparotomy. Anaesthesia. 2023 Oct;78(10):1262-1271. \[[PubMed: 37450350](https://pubmed.ncbi.nlm.nih.gov/37450350)\]
 
 49.
-    
 
-Manceau G, Voron T, Mege D, Bridoux V, Lakkis Z, Venara A, Beyer-Berjot L, Abdalla S, Sielezneff I, Lefèvre JH, Karoui M., AFC (French Surgical Association) Working Group. Prognostic factors and patterns of recurrence after emergency management for obstructing colon cancer: multivariate analysis from a series of 2120 patients. Langenbecks Arch Surg. 2019 Sep;404(6):717-729. [[PubMed: 31602503](https://pubmed.ncbi.nlm.nih.gov/31602503)]
+Manceau G, Voron T, Mege D, Bridoux V, Lakkis Z, Venara A, Beyer-Berjot L, Abdalla S, Sielezneff I, Lefèvre JH, Karoui M., AFC (French Surgical Association) Working Group. Prognostic factors and patterns of recurrence after emergency management for obstructing colon cancer: multivariate analysis from a series of 2120 patients. Langenbecks Arch Surg. 2019 Sep;404(6):717-729. \[[PubMed: 31602503](https://pubmed.ncbi.nlm.nih.gov/31602503)\]
 
 50.
-    
 
-Dharwadkar P, Zaki TA, Murphy CC. Colorectal Cancer in Younger Adults. Hematol Oncol Clin North Am. 2022 Jun;36(3):449-470. [[PMC free article: PMC9177054](/pmc/articles/PMC9177054/)] [[PubMed: 35577711](https://pubmed.ncbi.nlm.nih.gov/35577711)]
+Dharwadkar P, Zaki TA, Murphy CC. Colorectal Cancer in Younger Adults. Hematol Oncol Clin North Am. 2022 Jun;36(3):449-470. \[[PMC free article: PMC9177054](/pmc/articles/PMC9177054/)\] \[[PubMed: 35577711](https://pubmed.ncbi.nlm.nih.gov/35577711)\]
 
 51.
-    
 
-Matsuda A, Miyashita M, Matsumoto S, Sakurazawa N, Kawano Y, Yamahatsu K, Sekiguchi K, Yamada M, Hatori T, Yoshida H. Colonic stent-induced mechanical compression may suppress cancer cell proliferation in malignant large bowel obstruction. Surg Endosc. 2019 Apr;33(4):1290-1297. [[PubMed: 30171397](https://pubmed.ncbi.nlm.nih.gov/30171397)]
-
-    
+Matsuda A, Miyashita M, Matsumoto S, Sakurazawa N, Kawano Y, Yamahatsu K, Sekiguchi K, Yamada M, Hatori T, Yoshida H. Colonic stent-induced mechanical compression may suppress cancer cell proliferation in malignant large bowel obstruction. Surg Endosc. 2019 Apr;33(4):1290-1297. \[[PubMed: 30171397](https://pubmed.ncbi.nlm.nih.gov/30171397)\]
 
 **Disclosure:** Bettina Lieske declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Mia Marietta declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Marcelle Meseeha declares no relevant financial relationships with ineligible companies.

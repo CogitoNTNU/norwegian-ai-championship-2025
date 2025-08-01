@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30861/
-scraped_date: 2025-07-22 12:50:36 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30861/ scraped_date: 2025-07-22 12:50:36 UTC
 
 # 24-Hour Urinalysis
 
@@ -69,7 +68,7 @@ The amount of creatinine produced daily depends on muscle mass. As CKD progresse
 
 In addition, some patients, particularly young males, may use creatine supplements to increase muscle mass, so it is important to inquire directly about this.[18] During pregnancy, GFR increases, resulting in lower creatinine levels. This factor should be considered when interpreting creatinine measurements in pregnant women. One limitation of using creatinine formulas to estimate GFR is that serum creatinine levels may not reflect renal impairment until it has advanced significantly. In some studies, renal function can decrease by up to 50% before a rise in serum creatinine is detected.[19] Medications commonly affecting urine metanephrine levels are listed in the **Specimen Requirements and Procedure** section.
 
-## Results, Reporting, and Critical Findings 
+## Results, Reporting, and Critical Findings
 
 The components of 24-hour urine tests vary by laboratory, but standard analyses typically include urine volume, calcium, oxalate, citrate, uric acid concentrations, pH levels, and supersaturation values. Supersaturation levels for calcium oxalate, calcium phosphate, and uric acid are commonly reported. Additional analytes may include sodium, potassium, magnesium, phosphorus, ammonium, chloride, sulfate, and nitrogen (in the form of urea). Reports usually provide reference range values to help assess the risk of stone formation.
 
@@ -87,7 +86,7 @@ Elevated urinary calcium levels are found in over a third of patients with calci
 
 Citrate is a potent urinary inhibitor of calcium salt crystallization and acts as a urinary alkalinizing agent. Hypocitraturia, a common risk factor for kidney stones, occurs in up to one-third of calcium stone formers. Low urinary citrate levels may result from dietary factors, metabolic acidosis, or hypokalemia, though it can also be idiopathic. Citrate is present in citrus juices such as grapefruit, orange, lemon, and lime. However, most patients with low urinary citrate levels typically require supplementation, often in potassium citrate, as dietary intake alone is usually insufficient to correct the deficiency.
 
-Concentrated citrate supplements, such as potassium citrate, are available in tablet and liquid forms. Lower potassium alternatives are also offered, and sodium bicarbonate may be used. Optimal urinary citrate levels are approximately 300 mg/1000 mL of urine or around 600 mg daily. Higher doses may be necessary if the therapy aims to increase urinary pH, especially in cases of pure uric acid urolithiasis, where optimizing urinary pH is crucial. Please see StatPearls' companion resource, "[Uric Acid Nephrolithiasis](https://www.statpearls.com/point-of-care/66949)," for more information. Overalkalinization of the urine can predispose patients to calcium phosphate stone production, particularly if the pH consistently exceeds 7.0. Low urinary citrate levels may also contribute to persistent calcium-based stones in some patients, even when hydrochlorothiazide is used. Please see StatPearls' companion resource, "[Hypocitraturia and Renal Calculi](/pubmed/33232062)," for more information. 
+Concentrated citrate supplements, such as potassium citrate, are available in tablet and liquid forms. Lower potassium alternatives are also offered, and sodium bicarbonate may be used. Optimal urinary citrate levels are approximately 300 mg/1000 mL of urine or around 600 mg daily. Higher doses may be necessary if the therapy aims to increase urinary pH, especially in cases of pure uric acid urolithiasis, where optimizing urinary pH is crucial. Please see StatPearls' companion resource, "[Uric Acid Nephrolithiasis](https://www.statpearls.com/point-of-care/66949)," for more information. Overalkalinization of the urine can predispose patients to calcium phosphate stone production, particularly if the pH consistently exceeds 7.0. Low urinary citrate levels may also contribute to persistent calcium-based stones in some patients, even when hydrochlorothiazide is used. Please see StatPearls' companion resource, "[Hypocitraturia and Renal Calculi](/pubmed/33232062)," for more information.
 
 **Magnesium**
 
@@ -99,19 +98,19 @@ Pheochromocytomas and paragangliomas can produce elevated levels of metanephrine
 
 Each reference laboratory will have its own specified normal ranges, but in general, normal 24-hour urine levels would include the following:
 
-  * Dopamine: Up to 400 mcg
+- Dopamine: Up to 400 mcg
 
-  * Epinephrine: Up to 20 mcg
+- Epinephrine: Up to 20 mcg
 
-  * Norepinephrine: Less than 100 mcg
+- Norepinephrine: Less than 100 mcg
 
-  * Normetanephrine: Less than 350 mcg
+- Normetanephrine: Less than 350 mcg
 
-  * Total catecholamines: Less than 100 mcg
+- Total catecholamines: Less than 100 mcg
 
-  * Total metanephrines: Less than 400 mcg
+- Total metanephrines: Less than 400 mcg
 
-  * Vanillylmandelic acid: Less than 7 mg
+- Vanillylmandelic acid: Less than 7 mg
 
 Please see StatPearls' companion resources, "[Pheochromocytoma](https://www.statpearls.com/point-of-care/145107)," "[Paraganglioma](/pubmed/31751024)," and "[Physiology, Catecholamines](/pubmed/29939538)," for more information.
 
@@ -141,11 +140,11 @@ About half of proteinuria is composed of uromodulin (Tamm-Horsfall protein), so 
 
 #### [Table](/books/NBK482482/table/article-30861.table0/?report=objectonly)
 
-Table. The National Kidney Foundation Albuminuria Staging. 
+Table. The National Kidney Foundation Albuminuria Staging.
 
 ACR, albumin-to-creatinine ratio.
 
-*Relative to levels in young adults. **Including nephrotic syndrome (albumin excretion ACR >2220 mg/g)
+\*Relative to levels in young adults. \*\*Including nephrotic syndrome (albumin excretion ACR >2220 mg/g)
 
 If amyloidosis or monoclonal gammopathy is suspected, measuring 24-hour urine light chains (Bence-Jones protein) is recommended. While a high correlation exists between urine protein-to-creatinine ratio and albuminuria, the correlation with urinary light chains is only moderate.[21] Protein levels of 3 g or more in 24 hours are indicative of nephrotic syndrome, as discussed above. Please see StatPearls' companion resources, "[Microalbuminuria](https://www.statpearls.com/point-of-care/25100)" and "[Proteinuria](/pubmed/33232060)," for further information.[[43]](https://pubmed.ncbi.nlm.nih.gov/33232060)
 
@@ -173,13 +172,13 @@ Creatinine is the anhydride product of creatinine and is directly related to mus
 
 CrCl is calculated using the equation:
 
-  * CrCl= (UCr × V) / PCr
+- CrCl= (UCr × V) / PCr
 
 CrCl = creatinine clearance; UCr= urinary creatinine concentration (mg/dL); V= urinary flow rate (volume/time in mL/min); and PCr= plasma creatinine concentration (mg/dL).
 
 Urea clearance, similar to creatinine clearance, is used to estimate renal function:
 
-  * Clur= (Uur × V) / Pur
+- Clur= (Uur × V) / Pur
 
 Clur= urea clearance; Uur= urinary urea concentration (mg/dL); V= urinary flow rate (volume/time in mL/min); and Pur= plasma urea concentration (mg/dL).
 
@@ -189,15 +188,15 @@ Please see StatPearls' companion resource, "[Renal Function Tests](https://www.s
 
 The 24-hour urinalysis is a key component of the metabolic workup for individuals with recurrent nephrolithiasis. Accurate collections can identify treatable abnormalities predisposing individuals to stone formation and help monitor treatment effectiveness. Since urinary constituents can vary significantly based on diet and lifestyle, their interpretation can be complex and often subjective. More than 90% of patients with kidney stones will exhibit at least 1 suboptimal chemical disorder. While 24-hour urine testing alone does not cure nephrolithiasis, it helps guide effective prophylactic treatment for patients committed to adhering to long-term therapeutic guidelines. Please see StatPearls' companion resource, "[24-Hour Urine Testing for Nephrolithiasis: Interpretation and Treatment Guidelines](/pubmed/29494055)," for a more detailed guide to interpreting 24-hour urine testing for kidney stone prophylaxis analysis and therapy. According to the American Urological Association guidelines, 24-hour urine testing should be offered to all patients with nephrolithiasis, regardless of symptoms. This is especially recommended for pediatric and high-risk individuals and those highly motivated to adhere to long-term prophylactic treatment recommendations.[27][28][29][30]
 
-## Quality Control and Lab Safety 
+## Quality Control and Lab Safety
 
-Nomograms for creatinine excretion based on age, weight, sex, and sometimes ethnicity have been developed to compare expected creatinine levels in 24-hour samples, helping to assess sample validity.[10][19][21] If the sample differs by more than 30% from the expected value, it likely indicates over-collection, under-collection, or the presence of an interfering factor.[10] While expected creatinine values vary, a commonly used threshold is that less than 15 mg/kg for women and less than 20 mg/kg for men in a 24-hour collection suggests under-collection. Another validation method compares expected creatinine values with muscle mass measured by bioimpedance, as muscle mass strongly correlates with creatinine levels. However, this test is not commonly performed.[21] One formula used to calculate the expected 24-hour urine creatinine, as derived by Gerber et al, is as follows: 
+Nomograms for creatinine excretion based on age, weight, sex, and sometimes ethnicity have been developed to compare expected creatinine levels in 24-hour samples, helping to assess sample validity.[10][19][21] If the sample differs by more than 30% from the expected value, it likely indicates over-collection, under-collection, or the presence of an interfering factor.[10] While expected creatinine values vary, a commonly used threshold is that less than 15 mg/kg for women and less than 20 mg/kg for men in a 24-hour collection suggests under-collection. Another validation method compares expected creatinine values with muscle mass measured by bioimpedance, as muscle mass strongly correlates with creatinine levels. However, this test is not commonly performed.[21] One formula used to calculate the expected 24-hour urine creatinine, as derived by Gerber et al, is as follows:
 
 Estimated 24-hour creatinine excretion (mg/24h)= 699 - 421.9 (if female) + (7.64 × weight [in pounds]) - 25.82 (if White) - (2.67 × age [in years]).[21][31]
 
 Urine protein-to-creatinine ratios can also be used to estimate proteinuria collected in a 24-hour urine collection. As approximately half of the proteinuria consists of uromodulin (Tamm-Horsfall protein), urine albumin-to-creatinine ratios are often preferred to quantify abnormal urinary protein. Please see StatPearls' companion resources, "[Microalbuminuria](https://www.statpearls.com/point-of-care/25100)" and "[Proteinuria](/pubmed/33232060)," for further information.[[43]](https://pubmed.ncbi.nlm.nih.gov/33232060)
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 A 24-hour urinalysis is a timed urine collection used to evaluate the metabolic status of various kidney disorders and accurately quantify GFR and proteinuria. For inpatients, nurses typically collect the urine and must ensure it remains free from contaminants. In outpatient settings, patients need proper education on how to collect the urine sample accurately. Precise collections can identify treatable abnormalities that predispose to nephrolithiasis, assist in diagnosing conditions such as pheochromocytoma, and provide accurate measurements for monitoring the progression of CKD.
 
@@ -205,179 +204,140 @@ Effective communication among healthcare team members is paramount. Primary care
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30861&utm_source=pubmed&utm_campaign=reviews&utm_content=30861)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30861&utm_source=pubmed&utm_campaign=reviews&utm_content=30861)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30861/?utm_source=pubmed&utm_campaign=comments&utm_content=30861)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30861/?utm_source=pubmed&utm_campaign=comments&utm_content=30861)
 
 ## References
 
 1.
-    
 
-Boyd C, Wood K, Whitaker D, Ashorobi O, Harvey L, Oster R, Holmes RP, Assimos DG. Accuracy in 24-hour Urine Collection at a Tertiary Center. Rev Urol. 2018;20(3):119-124. [[PMC free article: PMC6241899](/pmc/articles/PMC6241899/)] [[PubMed: 30473637](https://pubmed.ncbi.nlm.nih.gov/30473637)]
+Boyd C, Wood K, Whitaker D, Ashorobi O, Harvey L, Oster R, Holmes RP, Assimos DG. Accuracy in 24-hour Urine Collection at a Tertiary Center. Rev Urol. 2018;20(3):119-124. \[[PMC free article: PMC6241899](/pmc/articles/PMC6241899/)\] \[[PubMed: 30473637](https://pubmed.ncbi.nlm.nih.gov/30473637)\]
 
 2.
-    
 
-Soldi LR, Maltos AL, da Cunha DF, Portari GV. Correlation Between First Morning Single Void and 24-Hour Urines: The Reliability to Quantify Niacin Status. Med Sci Monit Basic Res. 2018 Nov 26;24:206-209. [[PMC free article: PMC6282649](/pmc/articles/PMC6282649/)] [[PubMed: 30473581](https://pubmed.ncbi.nlm.nih.gov/30473581)]
+Soldi LR, Maltos AL, da Cunha DF, Portari GV. Correlation Between First Morning Single Void and 24-Hour Urines: The Reliability to Quantify Niacin Status. Med Sci Monit Basic Res. 2018 Nov 26;24:206-209. \[[PMC free article: PMC6282649](/pmc/articles/PMC6282649/)\] \[[PubMed: 30473581](https://pubmed.ncbi.nlm.nih.gov/30473581)\]
 
 3.
-    
 
-Lenders JW, Duh QY, Eisenhofer G, Gimenez-Roqueplo AP, Grebe SK, Murad MH, Naruse M, Pacak K, Young WF., Endocrine Society. Pheochromocytoma and paraganglioma: an endocrine society clinical practice guideline. J Clin Endocrinol Metab. 2014 Jun;99(6):1915-42. [[PubMed: 24893135](https://pubmed.ncbi.nlm.nih.gov/24893135)]
+Lenders JW, Duh QY, Eisenhofer G, Gimenez-Roqueplo AP, Grebe SK, Murad MH, Naruse M, Pacak K, Young WF., Endocrine Society. Pheochromocytoma and paraganglioma: an endocrine society clinical practice guideline. J Clin Endocrinol Metab. 2014 Jun;99(6):1915-42. \[[PubMed: 24893135](https://pubmed.ncbi.nlm.nih.gov/24893135)\]
 
 4.
-    
 
-Webster AC, Nagler EV, Morton RL, Masson P. Chronic Kidney Disease. Lancet. 2017 Mar 25;389(10075):1238-1252. [[PubMed: 27887750](https://pubmed.ncbi.nlm.nih.gov/27887750)]
+Webster AC, Nagler EV, Morton RL, Masson P. Chronic Kidney Disease. Lancet. 2017 Mar 25;389(10075):1238-1252. \[[PubMed: 27887750](https://pubmed.ncbi.nlm.nih.gov/27887750)\]
 
 5.
-    
 
-Anderson GH, Blakeman N, Streeten DH. The effect of age on prevalence of secondary forms of hypertension in 4429 consecutively referred patients. J Hypertens. 1994 May;12(5):609-15. [[PubMed: 7930562](https://pubmed.ncbi.nlm.nih.gov/7930562)]
+Anderson GH, Blakeman N, Streeten DH. The effect of age on prevalence of secondary forms of hypertension in 4429 consecutively referred patients. J Hypertens. 1994 May;12(5):609-15. \[[PubMed: 7930562](https://pubmed.ncbi.nlm.nih.gov/7930562)\]
 
 6.
-    
 
-Singh RJ. Advances in metanephrine testing for the diagnosis of pheochromocytoma. Clin Lab Med. 2004 Mar;24(1):85-103. [[PubMed: 15157558](https://pubmed.ncbi.nlm.nih.gov/15157558)]
+Singh RJ. Advances in metanephrine testing for the diagnosis of pheochromocytoma. Clin Lab Med. 2004 Mar;24(1):85-103. \[[PubMed: 15157558](https://pubmed.ncbi.nlm.nih.gov/15157558)\]
 
 7.
-    
 
-Farrugia FA, Charalampopoulos A. Pheochromocytoma. Endocr Regul. 2019 Jul 01;53(3):191-212. [[PubMed: 31517632](https://pubmed.ncbi.nlm.nih.gov/31517632)]
+Farrugia FA, Charalampopoulos A. Pheochromocytoma. Endocr Regul. 2019 Jul 01;53(3):191-212. \[[PubMed: 31517632](https://pubmed.ncbi.nlm.nih.gov/31517632)\]
 
 8.
-    
 
-Schürfeld R, Pamporaki C, Peitzsch M, Rayes N, Sabri O, Rohm S, Biemann R, Sandner B, Tönjes A, Eisenhofer G. False-positive results for pheochromocytoma associated with norepinephrine reuptake blockade. Endocr Relat Cancer. 2024 Jan 01;31(1) [[PMC free article: PMC10762534](/pmc/articles/PMC10762534/)] [[PubMed: 37955319](https://pubmed.ncbi.nlm.nih.gov/37955319)]
+Schürfeld R, Pamporaki C, Peitzsch M, Rayes N, Sabri O, Rohm S, Biemann R, Sandner B, Tönjes A, Eisenhofer G. False-positive results for pheochromocytoma associated with norepinephrine reuptake blockade. Endocr Relat Cancer. 2024 Jan 01;31(1) \[[PMC free article: PMC10762534](/pmc/articles/PMC10762534/)\] \[[PubMed: 37955319](https://pubmed.ncbi.nlm.nih.gov/37955319)\]
 
 9.
-    
 
-Kline GA, Boyd J, Leung AA, Tang A, Sadrzadeh HM. Very high rate of false positive biochemical results when screening for pheochromocytoma in a large, undifferentiated population with variable indications for testing. Clin Biochem. 2020 Mar;77:26-31. [[PubMed: 31978379](https://pubmed.ncbi.nlm.nih.gov/31978379)]
+Kline GA, Boyd J, Leung AA, Tang A, Sadrzadeh HM. Very high rate of false positive biochemical results when screening for pheochromocytoma in a large, undifferentiated population with variable indications for testing. Clin Biochem. 2020 Mar;77:26-31. \[[PubMed: 31978379](https://pubmed.ncbi.nlm.nih.gov/31978379)\]
 
 10.
-    
 
-Abdel-Nabey M, Saint-Jacques C, Boffa JJ, Frochot V, Livrozet M, Daudon M, Flamant M, Letavernier E, Haymann JP. 24-h Urine Collection: A Relevant Tool in CKD Nutrition Evaluation. Nutrients. 2020 Aug 27;12(9) [[PMC free article: PMC7551275](/pmc/articles/PMC7551275/)] [[PubMed: 32867232](https://pubmed.ncbi.nlm.nih.gov/32867232)]
+Abdel-Nabey M, Saint-Jacques C, Boffa JJ, Frochot V, Livrozet M, Daudon M, Flamant M, Letavernier E, Haymann JP. 24-h Urine Collection: A Relevant Tool in CKD Nutrition Evaluation. Nutrients. 2020 Aug 27;12(9) \[[PMC free article: PMC7551275](/pmc/articles/PMC7551275/)\] \[[PubMed: 32867232](https://pubmed.ncbi.nlm.nih.gov/32867232)\]
 
 11.
-    
 
-Résimont G, Gadisseur R, Lutteri L, Krzesinski JM, Cavalier E, Delanaye P. [How I explore… a proteinuria]. Rev Med Liege. 2018 Oct;73(10):519-525. [[PubMed: 30335258](https://pubmed.ncbi.nlm.nih.gov/30335258)]
+Résimont G, Gadisseur R, Lutteri L, Krzesinski JM, Cavalier E, Delanaye P. [How I explore… a proteinuria]. Rev Med Liege. 2018 Oct;73(10):519-525. \[[PubMed: 30335258](https://pubmed.ncbi.nlm.nih.gov/30335258)\]
 
 12.
-    
 
-Mohammadi Sichani M, Jafarpisheh A, Ghoreifi A. Evaluation and Comparison of Metabolic Disorders between Patients with Unilateral and Bilateral Staghorn Renal Stones. Urol J. 2019 Jun 17;16(3):242-245. [[PubMed: 30206923](https://pubmed.ncbi.nlm.nih.gov/30206923)]
+Mohammadi Sichani M, Jafarpisheh A, Ghoreifi A. Evaluation and Comparison of Metabolic Disorders between Patients with Unilateral and Bilateral Staghorn Renal Stones. Urol J. 2019 Jun 17;16(3):242-245. \[[PubMed: 30206923](https://pubmed.ncbi.nlm.nih.gov/30206923)\]
 
 13.
-    
 
-Shivaswamy V, Goldner WS, Erwin J. Possible new causes for false-positive diagnosis of pheochromocytoma: lamotrigine, aripiprazole, or the combination. Prim Care Companion J Clin Psychiatry. 2007;9(2):154. [[PMC free article: PMC1896306](/pmc/articles/PMC1896306/)] [[PubMed: 17607346](https://pubmed.ncbi.nlm.nih.gov/17607346)]
+Shivaswamy V, Goldner WS, Erwin J. Possible new causes for false-positive diagnosis of pheochromocytoma: lamotrigine, aripiprazole, or the combination. Prim Care Companion J Clin Psychiatry. 2007;9(2):154. \[[PMC free article: PMC1896306](/pmc/articles/PMC1896306/)\] \[[PubMed: 17607346](https://pubmed.ncbi.nlm.nih.gov/17607346)\]
 
 14.
-    
 
-Stremke ER, McCabe LD, McCabe GP, Martin BR, Moe SM, Weaver CM, Peacock M, Hill Gallant KM. Twenty-Four-Hour Urine Phosphorus as a Biomarker of Dietary Phosphorus Intake and Absorption in CKD: A Secondary Analysis from a Controlled Diet Balance Study. Clin J Am Soc Nephrol. 2018 Jul 06;13(7):1002-1012. [[PMC free article: PMC6032595](/pmc/articles/PMC6032595/)] [[PubMed: 29921736](https://pubmed.ncbi.nlm.nih.gov/29921736)]
+Stremke ER, McCabe LD, McCabe GP, Martin BR, Moe SM, Weaver CM, Peacock M, Hill Gallant KM. Twenty-Four-Hour Urine Phosphorus as a Biomarker of Dietary Phosphorus Intake and Absorption in CKD: A Secondary Analysis from a Controlled Diet Balance Study. Clin J Am Soc Nephrol. 2018 Jul 06;13(7):1002-1012. \[[PMC free article: PMC6032595](/pmc/articles/PMC6032595/)\] \[[PubMed: 29921736](https://pubmed.ncbi.nlm.nih.gov/29921736)\]
 
 15.
-    
 
-McLean RM, Williams SM, Te Morenga LA, Mann JI. Spot urine and 24-h diet recall estimates of dietary sodium intake from the 2008/09 New Zealand Adult Nutrition Survey: a comparison. Eur J Clin Nutr. 2018 Aug;72(8):1120-1127. [[PubMed: 29786097](https://pubmed.ncbi.nlm.nih.gov/29786097)]
+McLean RM, Williams SM, Te Morenga LA, Mann JI. Spot urine and 24-h diet recall estimates of dietary sodium intake from the 2008/09 New Zealand Adult Nutrition Survey: a comparison. Eur J Clin Nutr. 2018 Aug;72(8):1120-1127. \[[PubMed: 29786097](https://pubmed.ncbi.nlm.nih.gov/29786097)\]
 
 16.
-    
 
-Rodrigues WF, Miguel CB, Napimoga MH, Oliveira CJ, Lazo-Chica JE. Establishing standards for studying renal function in mice through measurements of body size-adjusted creatinine and urea levels. Biomed Res Int. 2014;2014:872827. [[PMC free article: PMC4163481](/pmc/articles/PMC4163481/)] [[PubMed: 25243193](https://pubmed.ncbi.nlm.nih.gov/25243193)]
+Rodrigues WF, Miguel CB, Napimoga MH, Oliveira CJ, Lazo-Chica JE. Establishing standards for studying renal function in mice through measurements of body size-adjusted creatinine and urea levels. Biomed Res Int. 2014;2014:872827. \[[PMC free article: PMC4163481](/pmc/articles/PMC4163481/)\] \[[PubMed: 25243193](https://pubmed.ncbi.nlm.nih.gov/25243193)\]
 
 17.
-    
 
-Jiang Y, Rex DAB, Schuster D, Neely BA, Rosano GL, Volkmar N, Momenzadeh A, Peters-Clarke TM, Egbert SB, Kreimer S, Doud EH, Crook OM, Yadav AK, Vanuopadath M, Mayta ML, Duboff AG, Riley NM, Moritz RL, Meyer JG. Comprehensive Overview of Bottom-Up Proteomics using Mass Spectrometry. ArXiv. 2023 Nov 13; [[PMC free article: PMC11348894](/pmc/articles/PMC11348894/)] [[PubMed: 38013887](https://pubmed.ncbi.nlm.nih.gov/38013887)]
+Jiang Y, Rex DAB, Schuster D, Neely BA, Rosano GL, Volkmar N, Momenzadeh A, Peters-Clarke TM, Egbert SB, Kreimer S, Doud EH, Crook OM, Yadav AK, Vanuopadath M, Mayta ML, Duboff AG, Riley NM, Moritz RL, Meyer JG. Comprehensive Overview of Bottom-Up Proteomics using Mass Spectrometry. ArXiv. 2023 Nov 13; \[[PMC free article: PMC11348894](/pmc/articles/PMC11348894/)\] \[[PubMed: 38013887](https://pubmed.ncbi.nlm.nih.gov/38013887)\]
 
 18.
-    
 
-Oh YJ, Ro H, Chung W, Hyun YY, Park SK, Kim YS, Kim SW, Oh YK, Oh KH, Jung JY. Urine creatinine concentration influences the prognostic value of proteinuria for MACE prediction from the findings of the KNOW-CKD study. Sci Rep. 2022 Sep 23;12(1):15924. [[PMC free article: PMC9508084](/pmc/articles/PMC9508084/)] [[PubMed: 36151235](https://pubmed.ncbi.nlm.nih.gov/36151235)]
+Oh YJ, Ro H, Chung W, Hyun YY, Park SK, Kim YS, Kim SW, Oh YK, Oh KH, Jung JY. Urine creatinine concentration influences the prognostic value of proteinuria for MACE prediction from the findings of the KNOW-CKD study. Sci Rep. 2022 Sep 23;12(1):15924. \[[PMC free article: PMC9508084](/pmc/articles/PMC9508084/)\] \[[PubMed: 36151235](https://pubmed.ncbi.nlm.nih.gov/36151235)\]
 
 19.
-    
 
-Tynkevich E, Flamant M, Haymann JP, Metzger M, Thervet E, Boffa JJ, Vrtovsnik F, Houillier P, Froissart M, Stengel B., NephroTest Study Group. Decrease in urinary creatinine excretion in early stage chronic kidney disease. PLoS One. 2014;9(11):e111949. [[PMC free article: PMC4234219](/pmc/articles/PMC4234219/)] [[PubMed: 25401694](https://pubmed.ncbi.nlm.nih.gov/25401694)]
+Tynkevich E, Flamant M, Haymann JP, Metzger M, Thervet E, Boffa JJ, Vrtovsnik F, Houillier P, Froissart M, Stengel B., NephroTest Study Group. Decrease in urinary creatinine excretion in early stage chronic kidney disease. PLoS One. 2014;9(11):e111949. \[[PMC free article: PMC4234219](/pmc/articles/PMC4234219/)\] \[[PubMed: 25401694](https://pubmed.ncbi.nlm.nih.gov/25401694)\]
 
 20.
-    
 
-Arnold DM, Patriquin CJ, Nazy I. Thrombotic microangiopathies: a general approach to diagnosis and management. CMAJ. 2017 Jan 30;189(4):E153-E159. [[PMC free article: PMC5266569](/pmc/articles/PMC5266569/)] [[PubMed: 27754896](https://pubmed.ncbi.nlm.nih.gov/27754896)]
+Arnold DM, Patriquin CJ, Nazy I. Thrombotic microangiopathies: a general approach to diagnosis and management. CMAJ. 2017 Jan 30;189(4):E153-E159. \[[PMC free article: PMC5266569](/pmc/articles/PMC5266569/)\] \[[PubMed: 27754896](https://pubmed.ncbi.nlm.nih.gov/27754896)\]
 
 21.
-    
 
-Mendelson L, Sanchorawala V, Connors L, Joshi T, Doros G, Pogrebinsky A, Havasi A. Correlation Between 24-Hour Urine Protein and Random Urine Protein-Creatinine Ratio in Amyloid Light-Chain Amyloidosis. Kidney Med. 2022 Apr;4(4):100427. [[PMC free article: PMC8942830](/pmc/articles/PMC8942830/)] [[PubMed: 35342879](https://pubmed.ncbi.nlm.nih.gov/35342879)]
+Mendelson L, Sanchorawala V, Connors L, Joshi T, Doros G, Pogrebinsky A, Havasi A. Correlation Between 24-Hour Urine Protein and Random Urine Protein-Creatinine Ratio in Amyloid Light-Chain Amyloidosis. Kidney Med. 2022 Apr;4(4):100427. \[[PMC free article: PMC8942830](/pmc/articles/PMC8942830/)\] \[[PubMed: 35342879](https://pubmed.ncbi.nlm.nih.gov/35342879)\]
 
 22.
-    
 
-Borghi L, Meschi T, Schianchi T, Briganti A, Guerra A, Allegri F, Novarini A. Urine volume: stone risk factor and preventive measure. Nephron. 1999;81 Suppl 1:31-7. [[PubMed: 9873212](https://pubmed.ncbi.nlm.nih.gov/9873212)]
+Borghi L, Meschi T, Schianchi T, Briganti A, Guerra A, Allegri F, Novarini A. Urine volume: stone risk factor and preventive measure. Nephron. 1999;81 Suppl 1:31-7. \[[PubMed: 9873212](https://pubmed.ncbi.nlm.nih.gov/9873212)\]
 
 23.
-    
 
-Hundemer GL, White CA, Norman PA, Knoll GA, Tangri N, Sood MM, Hiremath S, Burns KD, McCudden C, Akbari A. Performance of the 2021 Race-Free CKD-EPI Creatinine- and Cystatin C-Based Estimated GFR Equations Among Kidney Transplant Recipients. Am J Kidney Dis. 2022 Oct;80(4):462-472.e1. [[PubMed: 35588905](https://pubmed.ncbi.nlm.nih.gov/35588905)]
+Hundemer GL, White CA, Norman PA, Knoll GA, Tangri N, Sood MM, Hiremath S, Burns KD, McCudden C, Akbari A. Performance of the 2021 Race-Free CKD-EPI Creatinine- and Cystatin C-Based Estimated GFR Equations Among Kidney Transplant Recipients. Am J Kidney Dis. 2022 Oct;80(4):462-472.e1. \[[PubMed: 35588905](https://pubmed.ncbi.nlm.nih.gov/35588905)\]
 
 24.
-    
 
-Kampmann JP, Hansen JM. Glomerular filtration rate and creatinine clearance. Br J Clin Pharmacol. 1981 Jul;12(1):7-14. [[PMC free article: PMC1401744](/pmc/articles/PMC1401744/)] [[PubMed: 6788057](https://pubmed.ncbi.nlm.nih.gov/6788057)]
+Kampmann JP, Hansen JM. Glomerular filtration rate and creatinine clearance. Br J Clin Pharmacol. 1981 Jul;12(1):7-14. \[[PMC free article: PMC1401744](/pmc/articles/PMC1401744/)\] \[[PubMed: 6788057](https://pubmed.ncbi.nlm.nih.gov/6788057)\]
 
 25.
-    
 
-Gowda S, Desai PB, Kulkarni SS, Hull VV, Math AA, Vernekar SN. Markers of renal function tests. N Am J Med Sci. 2010 Apr;2(4):170-3. [[PMC free article: PMC3354405](/pmc/articles/PMC3354405/)] [[PubMed: 22624135](https://pubmed.ncbi.nlm.nih.gov/22624135)]
+Gowda S, Desai PB, Kulkarni SS, Hull VV, Math AA, Vernekar SN. Markers of renal function tests. N Am J Med Sci. 2010 Apr;2(4):170-3. \[[PMC free article: PMC3354405](/pmc/articles/PMC3354405/)\] \[[PubMed: 22624135](https://pubmed.ncbi.nlm.nih.gov/22624135)\]
 
 26.
-    
 
-Stevens LA, Coresh J, Greene T, Levey AS. Assessing kidney function--measured and estimated glomerular filtration rate. N Engl J Med. 2006 Jun 08;354(23):2473-83. [[PubMed: 16760447](https://pubmed.ncbi.nlm.nih.gov/16760447)]
+Stevens LA, Coresh J, Greene T, Levey AS. Assessing kidney function--measured and estimated glomerular filtration rate. N Engl J Med. 2006 Jun 08;354(23):2473-83. \[[PubMed: 16760447](https://pubmed.ncbi.nlm.nih.gov/16760447)\]
 
 27.
-    
 
-Akram M, Jahrreiss V, Skolarikos A, Geraghty R, Tzelves L, Emilliani E, Davis NF, Somani BK. Urological Guidelines for Kidney Stones: Overview and Comprehensive Update. J Clin Med. 2024 Feb 16;13(4) [[PMC free article: PMC10889283](/pmc/articles/PMC10889283/)] [[PubMed: 38398427](https://pubmed.ncbi.nlm.nih.gov/38398427)]
+Akram M, Jahrreiss V, Skolarikos A, Geraghty R, Tzelves L, Emilliani E, Davis NF, Somani BK. Urological Guidelines for Kidney Stones: Overview and Comprehensive Update. J Clin Med. 2024 Feb 16;13(4) \[[PMC free article: PMC10889283](/pmc/articles/PMC10889283/)\] \[[PubMed: 38398427](https://pubmed.ncbi.nlm.nih.gov/38398427)\]
 
 28.
-    
 
-Hsi RS, Sanford T, Goldfarb DS, Stoller ML. The Role of the 24-Hour Urine Collection in the Prevention of Kidney Stone Recurrence. J Urol. 2017 Apr;197(4):1084-1089. [[PubMed: 27746283](https://pubmed.ncbi.nlm.nih.gov/27746283)]
+Hsi RS, Sanford T, Goldfarb DS, Stoller ML. The Role of the 24-Hour Urine Collection in the Prevention of Kidney Stone Recurrence. J Urol. 2017 Apr;197(4):1084-1089. \[[PubMed: 27746283](https://pubmed.ncbi.nlm.nih.gov/27746283)\]
 
 29.
-    
 
-Pearle MS, Goldfarb DS, Assimos DG, Curhan G, Denu-Ciocca CJ, Matlaga BR, Monga M, Penniston KL, Preminger GM, Turk TM, White JR., American Urological Assocation. Medical management of kidney stones: AUA guideline. J Urol. 2014 Aug;192(2):316-24. [[PubMed: 24857648](https://pubmed.ncbi.nlm.nih.gov/24857648)]
+Pearle MS, Goldfarb DS, Assimos DG, Curhan G, Denu-Ciocca CJ, Matlaga BR, Monga M, Penniston KL, Preminger GM, Turk TM, White JR., American Urological Assocation. Medical management of kidney stones: AUA guideline. J Urol. 2014 Aug;192(2):316-24. \[[PubMed: 24857648](https://pubmed.ncbi.nlm.nih.gov/24857648)\]
 
 30.
-    
 
-Güven S, Tokas T, Tozsin A, Haid B, Lendvay TS, Silay S, Mohan VC, Cansino JR, Saulat S, Straub M, Tur AB, Akgül B, Samotyjek J, Lusuardi L, Ferretti S, Cavdar OF, Ortner G, Sultan S, Choong S, Micali S, Saltirov I, Sezer A, Netsch C, de Lorenzis E, Cakir OO, Zeng G, Gozen AS, Bianchi G, Jurkiewicz B, Knoll T, Rassweiler J, Ahmed K, Sarica K. Consensus statement addressing controversies and guidelines on pediatric urolithiasis. World J Urol. 2024 Aug 07;42(1):473. [[PMC free article: PMC11306500](/pmc/articles/PMC11306500/)] [[PubMed: 39110242](https://pubmed.ncbi.nlm.nih.gov/39110242)]
+Güven S, Tokas T, Tozsin A, Haid B, Lendvay TS, Silay S, Mohan VC, Cansino JR, Saulat S, Straub M, Tur AB, Akgül B, Samotyjek J, Lusuardi L, Ferretti S, Cavdar OF, Ortner G, Sultan S, Choong S, Micali S, Saltirov I, Sezer A, Netsch C, de Lorenzis E, Cakir OO, Zeng G, Gozen AS, Bianchi G, Jurkiewicz B, Knoll T, Rassweiler J, Ahmed K, Sarica K. Consensus statement addressing controversies and guidelines on pediatric urolithiasis. World J Urol. 2024 Aug 07;42(1):473. \[[PMC free article: PMC11306500](/pmc/articles/PMC11306500/)\] \[[PubMed: 39110242](https://pubmed.ncbi.nlm.nih.gov/39110242)\]
 
 31.
-    
 
-Gerber LM, Mann SJ. Development of a model to estimate 24-hour urinary creatinine excretion. J Clin Hypertens (Greenwich). 2014 May;16(5):367-71. [[PMC free article: PMC8032112](/pmc/articles/PMC8032112/)] [[PubMed: 24673968](https://pubmed.ncbi.nlm.nih.gov/24673968)]
-
-    
+Gerber LM, Mann SJ. Development of a model to estimate 24-hour urinary creatinine excretion. J Clin Hypertens (Greenwich). 2014 May;16(5):367-71. \[[PMC free article: PMC8032112](/pmc/articles/PMC8032112/)\] \[[PubMed: 24673968](https://pubmed.ncbi.nlm.nih.gov/24673968)\]
 
 **Disclosure:** Christopher Corder declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Banshi Rathi declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Sairah Sharif declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Stephen Leslie declares no relevant financial relationships with ineligible companies.

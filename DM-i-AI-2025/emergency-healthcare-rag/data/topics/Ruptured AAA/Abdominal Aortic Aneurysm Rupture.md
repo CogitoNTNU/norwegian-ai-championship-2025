@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17011/
-scraped_date: 2025-07-22 12:48:34 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17011/ scraped_date: 2025-07-22 12:48:34 UTC
 
 # Abdominal Aortic Aneurysm
 
@@ -29,19 +28,19 @@ The course provides healthcare professionals with comprehensive insights into th
 
 **Objectives:**
 
-  * Differentiate between symptomatic and asymptomatic abdominal aortic aneurysms to guide appropriate management strategies.
+- Differentiate between symptomatic and asymptomatic abdominal aortic aneurysms to guide appropriate management strategies.
 
-  * Apply guidelines for the management and surveillance of unruptured and ruptured abdominal aortic aneurysms.
+- Apply guidelines for the management and surveillance of unruptured and ruptured abdominal aortic aneurysms.
 
-  * Implement evidence-based screening protocols for abdominal aortic aneurysm in clinical practice.
+- Implement evidence-based screening protocols for abdominal aortic aneurysm in clinical practice.
 
-  * Collaborate and communicate with all members of the interprofessional team to improve outcomes and treatment efficacy for patients diagnosed with an abdominal aortic aneurysm. 
+- Collaborate and communicate with all members of the interprofessional team to improve outcomes and treatment efficacy for patients diagnosed with an abdominal aortic aneurysm.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17011&utm_source=pubmed&utm_campaign=reviews&utm_content=17011)
 
 ## Introduction
 
-An arterial aneurysm is defined as a permanent localized dilatation of the vessel, enlarging by at least 150% compared to the relatively normal diameter of the adjacent artery.[1] An abdominal aortic aneurysm (AAA) is an abnormal focal dilation of the abdominal aorta. This life-threatening condition requires monitoring or treatment depending on the size of the aneurysm and associated symptoms. The AAA may be detected incidentally or at the time of rupture. 
+An arterial aneurysm is defined as a permanent localized dilatation of the vessel, enlarging by at least 150% compared to the relatively normal diameter of the adjacent artery.[1] An abdominal aortic aneurysm (AAA) is an abnormal focal dilation of the abdominal aorta. This life-threatening condition requires monitoring or treatment depending on the size of the aneurysm and associated symptoms. The AAA may be detected incidentally or at the time of rupture.
 
 ## Etiology
 
@@ -55,7 +54,7 @@ With the increased use of ultrasound, diagnosis of AAA is common. Diagnosis are 
 
 ## Pathophysiology
 
-AAAs tend to occur when there is a failure of the structural proteins of the aorta. What causes these proteins to fail is unknown, but the aortic wall gradually weakens. The decrease in structural proteins of the aortic wall, such as elastin and collagen, has been identified.[6][7][8] The aortic wall is made of collagen lamellar units. The number of lamellar units is lower in the infrarenal aorta than in the thoracic aorta.[8][9][10] This is believed to contribute to the increased incidence of aneurysmal formation in the infrarenal aorta. A chronic inflammatory process has been identified in the wall of the aorta, but its cause remains unclear.[11] Other factors that may play a role in developing these aneurysms include genetics, marked inflammation, and proteolytic degradation of the connective tissue in the aortic wall.[12][13][14] See **Image.** Abdominal Aortic Aneurysm, Illustration. 
+AAAs tend to occur when there is a failure of the structural proteins of the aorta. What causes these proteins to fail is unknown, but the aortic wall gradually weakens. The decrease in structural proteins of the aortic wall, such as elastin and collagen, has been identified.[6][7][8] The aortic wall is made of collagen lamellar units. The number of lamellar units is lower in the infrarenal aorta than in the thoracic aorta.[8][9][10] This is believed to contribute to the increased incidence of aneurysmal formation in the infrarenal aorta. A chronic inflammatory process has been identified in the wall of the aorta, but its cause remains unclear.[11] Other factors that may play a role in developing these aneurysms include genetics, marked inflammation, and proteolytic degradation of the connective tissue in the aortic wall.[12][13][14] See **Image.** Abdominal Aortic Aneurysm, Illustration.
 
 ## Histopathology
 
@@ -73,7 +72,7 @@ If the aneurysm ruptures into adjacent viscera or vessels, presenting findings m
 
 The diagnosis of an abdominal aortic aneurysm is usually made using ultrasound (see **Images.** Abdominal Aortic Aneurysm, Ultrasound and Abdominal Aortic Aneurysm, Illustration). However, a computed tomography (CT) scan remains necessary to determine other vessels' exact location, size, and involvement and is the preferred imaging modality for symptomatic individuals. The ultrasound can be used for screening purposes but is less accurate for aneurysms located above the renal arteries due to the presence of overlying air-containing lungs and viscera. CT angiography requires ionizing radiation and intravenous contrast; however, magnetic resonance angiography can delineate the anatomy and does not require ionizing radiation.
 
-Most of these aneurysms are located below the origin of the renal arteries and may be classified as saccular (localized) or fusiform (circumferential). More than 90% of abdominal aortic aneurysms are fusiform. Intense inflammation, a thickened peel, and adhesions to adjacent structures characterize an inflammatory abdominal aortic aneurysm. Angiography is now rarely performed for diagnostic purposes due to the superior image quality achieved with CT scans.[15] See **Images.** Ruptured Infrarenal Abdominal Aortic Aneurysm and Infrarenal Abdominal Aneurysm, Computed Angiogram. 
+Most of these aneurysms are located below the origin of the renal arteries and may be classified as saccular (localized) or fusiform (circumferential). More than 90% of abdominal aortic aneurysms are fusiform. Intense inflammation, a thickened peel, and adhesions to adjacent structures characterize an inflammatory abdominal aortic aneurysm. Angiography is now rarely performed for diagnostic purposes due to the superior image quality achieved with CT scans.[15] See **Images.** Ruptured Infrarenal Abdominal Aortic Aneurysm and Infrarenal Abdominal Aneurysm, Computed Angiogram.
 
 Magnetic resonance angiography is an option for patients with allergies to contrast media. An echocardiogram is recommended as many patients also tend to have associated heart disease. All patients require routine blood work, including a cross-match if surgery is necessary. Patients with comorbidities such as diabetes, chronic obstructive pulmonary disease, or heart disease should be diagnosed by the relevant specialist and cleared for surgery. Cardiovascular risk factor modification should be achieved with smoking cessation, blood pressure control, statin, antiplatelet therapy, and healthy lifestyle, including diet and exercise.[16] The previously advocated use of beta-blocker therapy has been disproven for the sole purpose of reducing the risk of AAA expansion and rupture.[17]
 
@@ -103,37 +102,37 @@ Considering the complications with fenestrated endovascular graft and fenestrati
 
 Updated guidelines on the care of patients with abdominal aortic aneurysms were issued by the Society for Vascular Surgery (SVS) in 2018.[17] More recent guidelines were published in 2024 by the ESVS.[16] Select recommendations from these guidelines include the following:
 
-  * Yearly surveillance imaging is recommended for patients with an abdominal aortic aneurysm diameter ranging from 4.0 to 4.9 cm.
+- Yearly surveillance imaging is recommended for patients with an abdominal aortic aneurysm diameter ranging from 4.0 to 4.9 cm.
 
-  * A preoperative 12-lead electrocardiogram is recommended for all patients undergoing endovascular aneurysm repair or open surgical repair within 4 weeks of the elective surgery.
+- A preoperative 12-lead electrocardiogram is recommended for all patients undergoing endovascular aneurysm repair or open surgical repair within 4 weeks of the elective surgery.
 
-  * If the patient has recently undergone placement of a drug-eluting stent, open aneurysm surgery should be delayed for at least 6 months or endovascular surgery can be performed while the patient is still on dual antiplatelet therapy.
+- If the patient has recently undergone placement of a drug-eluting stent, open aneurysm surgery should be delayed for at least 6 months or endovascular surgery can be performed while the patient is still on dual antiplatelet therapy.
 
-  * Advise smoking cessation for at least 2 weeks before AAA repair.
+- Advise smoking cessation for at least 2 weeks before AAA repair.
 
-  * Consider transfusion of packer red blood cells perioperatively if the hemoglobin level is less than 7 g/dL.
+- Consider transfusion of packer red blood cells perioperatively if the hemoglobin level is less than 7 g/dL.
 
-  * Elective repair should be recommended for low-risk male patients when the abdominal aortic aneurysm reaches 5.5 cm in diameter and 5-5.4 cm in maximal diameter in women. 
+- Elective repair should be recommended for low-risk male patients when the abdominal aortic aneurysm reaches 5.5 cm in diameter and 5-5.4 cm in maximal diameter in women.
 
-  * If the patient has suitable anatomy and reasonable life expectancy, endovascular aneurysm repair is the preferred modality for unruptured abdominal aortic aneurysm repair.
+- If the patient has suitable anatomy and reasonable life expectancy, endovascular aneurysm repair is the preferred modality for unruptured abdominal aortic aneurysm repair.
 
-  * For a ruptured abdominal aortic aneurysm, a facility with a door-to-intervention time of less than 90 minutes is preferred.
+- For a ruptured abdominal aortic aneurysm, a facility with a door-to-intervention time of less than 90 minutes is preferred.
 
-  * For perioperative pain management, a multimodal approach is recommended, including consideration of epidural analgesia for postoperative pain after open AAA repair.
+- For perioperative pain management, a multimodal approach is recommended, including consideration of epidural analgesia for postoperative pain after open AAA repair.
 
-  * Assessment of distal leg pulses at each postoperative clinic visit to monitor the patency of the graft limbs is recommended.
+- Assessment of distal leg pulses at each postoperative clinic visit to monitor the patency of the graft limbs is recommended.
 
-  * Color duplex ultrasonography may be used for postoperative surveillance after endovascular surgery if it provides suitable imaging; otherwise, CT scan can be used.
+- Color duplex ultrasonography may be used for postoperative surveillance after endovascular surgery if it provides suitable imaging; otherwise, CT scan can be used.
 
-  * Treatment of types I and III endoleaks and type II endoleaks with aneurysm expansion are recommended.
+- Treatment of types I and III endoleaks and type II endoleaks with aneurysm expansion are recommended.
 
-  * Antibiotic prophylaxis is recommended to prevent aortic graft infection before any dental procedure that involves manipulating the gingival or periapical region of the teeth or perforating the oral mucosa.
+- Antibiotic prophylaxis is recommended to prevent aortic graft infection before any dental procedure that involves manipulating the gingival or periapical region of the teeth or perforating the oral mucosa.
 
-  * Antibiotic prophylaxis to prevent aortic graft infection is recommended in immunocompromised individuals or those at risk for infection before respiratory tract, genitourinary, dermatologic, gastrointestinal, or orthopedic procedures.
+- Antibiotic prophylaxis to prevent aortic graft infection is recommended in immunocompromised individuals or those at risk for infection before respiratory tract, genitourinary, dermatologic, gastrointestinal, or orthopedic procedures.
 
-  * The endovascular procedure should only be performed in a hospital that conducts at least 10 cases yearly and has a conversion rate to open repair of less than 2%.
+- The endovascular procedure should only be performed in a hospital that conducts at least 10 cases yearly and has a conversion rate to open repair of less than 2%.
 
-  * Elective abdominal aortic aneurysm open surgery should be performed in hospitals with a mortality of less than 5% and at least 10 open cases conducted annually.
+- Elective abdominal aortic aneurysm open surgery should be performed in hospitals with a mortality of less than 5% and at least 10 open cases conducted annually.
 
 ## Differential Diagnosis
 
@@ -155,7 +154,7 @@ After repair, it is essential that the patient discontinues smoking, eats a heal
 
 ## Consultations
 
-Once an abdominal aortic aneurysm is diagnosed, the patient should be referred to a vascular surgeon. Surveillance imaging at 12-month intervals is recommended for patients with an abdominal aortic aneurysm diameter ranging from 4.0 to 4.9 cm.[17] As indicated, cardiology and pulmonary evaluations are recommended to ensure that the patient is fit for surgery. 
+Once an abdominal aortic aneurysm is diagnosed, the patient should be referred to a vascular surgeon. Surveillance imaging at 12-month intervals is recommended for patients with an abdominal aortic aneurysm diameter ranging from 4.0 to 4.9 cm.[17] As indicated, cardiology and pulmonary evaluations are recommended to ensure that the patient is fit for surgery.
 
 ## Deterrence and Patient Education
 
@@ -165,30 +164,31 @@ Many patients with abdominal aortic aneurysms can lead healthy, symptom-free liv
 
 Key insights and recommendations concerning the management of abdominal aortic aneurysms are provided below.
 
-  * Patients with abdominal aortic aneurysms should quit smoking to reduce the risk of enlargement.
+- Patients with abdominal aortic aneurysms should quit smoking to reduce the risk of enlargement.
 
-  * Assessment of medical optimization of hypertension, hyperlipidemia, diabetes, and other atherosclerotic should be performed.
+- Assessment of medical optimization of hypertension, hyperlipidemia, diabetes, and other atherosclerotic should be performed.
 
-  * Moderate exercise does not cause a rupture of abdominal aortic aneurysm expansion.[29]
+- Moderate exercise does not cause a rupture of abdominal aortic aneurysm expansion.[29]
 
-  * The SVS guidelines recommend ultrasound screening for all men and women aged 65 or older who have smoked or have a family history of abdominal aortic aneurysm.[30]
+- The SVS guidelines recommend ultrasound screening for all men and women aged 65 or older who have smoked or have a family history of abdominal aortic aneurysm.[30]
 
-  * Surveillance guidelines for abdominal aortic aneurysm per the SVS using duplex ultrasonography are the following: 
-    * 3-year intervals for patients with an abdominal aortic aneurysm diameter ranging between 3.0 and 3.9 cm
+- Surveillance guidelines for abdominal aortic aneurysm per the SVS using duplex ultrasonography are the following:
 
-    * 12-month intervals for patients with an abdominal aortic aneurysm diameter ranging from 4.0 to 4.9 cm
+  - 3-year intervals for patients with an abdominal aortic aneurysm diameter ranging between 3.0 and 3.9 cm
 
-    * 6-month intervals for patients with an abdominal aortic aneurysm diameter ranging between 5.0 and 5.4 cm 
+  - 12-month intervals for patients with an abdominal aortic aneurysm diameter ranging from 4.0 to 4.9 cm
 
-  * Patients with an initial aortic diameter <3 cm have a low risk of rupture. At this time, there are no recommendations for surveillance; however, it should be noted that gradual expansion has been observed in these patients over time.
+  - 6-month intervals for patients with an abdominal aortic aneurysm diameter ranging between 5.0 and 5.4 cm
 
-  * Patients presenting with symptomatic abdominal aortic aneurysm should be considered for urgent repair.
+- Patients with an initial aortic diameter \<3 cm have a low risk of rupture. At this time, there are no recommendations for surveillance; however, it should be noted that gradual expansion has been observed in these patients over time.
 
-  * Asymptomatic individuals with abdominal aortic aneurysm demonstrating an aortic diameter >5.4 cm or those with the rapid expansion of small abdominal aortic aneurysm should be evaluated for repair.
+- Patients presenting with symptomatic abdominal aortic aneurysm should be considered for urgent repair.
 
-  * The objective of abdominal aortic aneurysm repair is to increase survival rates. Consideration of the quality of life after the repair is essential, particularly in those with a shortened life expectancy due to medical comorbidities or cancer.
+- Asymptomatic individuals with abdominal aortic aneurysm demonstrating an aortic diameter >5.4 cm or those with the rapid expansion of small abdominal aortic aneurysm should be evaluated for repair.
 
-  * Endovascular repair may offer fewer complications and a better quality of life in those at high risk for open repair up to 1-year after intervention.[31]
+- The objective of abdominal aortic aneurysm repair is to increase survival rates. Consideration of the quality of life after the repair is essential, particularly in those with a shortened life expectancy due to medical comorbidities or cancer.
+
+- Endovascular repair may offer fewer complications and a better quality of life in those at high risk for open repair up to 1-year after intervention.[31]
 
 The factors that increase the operative risk for abdominal aortic aneurysm repair include severe heart disease, severe chronic obstructive pulmonary disease, poor renal function, and comorbidities such as stroke, diabetes, hypertension, and advanced age, which can increase the risk of open surgical procedures. If the aortic anatomy permits, these individuals should be considered for endovascular aneurysm stenting.
 
@@ -196,11 +196,11 @@ The factors that increase the operative risk for abdominal aortic aneurysm repai
 
 Consideration for repair is appropriate for all symptomatic aneurysms. Aortic anatomy and device availability can dictate the approach. Open aneurysm repair had been the gold standard but carried increased risk and potential complications, which may be acceptable in a younger, good surgical-risk patient. This is still a more durable procedure.
 
-Endovascular repair is now an established technique for repairing an abdominal aortic aneurysm. This minimally invasive procedure can also be offered but has better outcomes and durability when the anatomy meets device-specific recommendations. This is the preferred approach in rupture cases and patients with multiple risk factors or a shortened life expectancy. Intervention or surgical treatment risks versus benefits of repair in patients at an increased risk for open surgery should be considered, and no intervention may be appropriate in some cases. 
+Endovascular repair is now an established technique for repairing an abdominal aortic aneurysm. This minimally invasive procedure can also be offered but has better outcomes and durability when the anatomy meets device-specific recommendations. This is the preferred approach in rupture cases and patients with multiple risk factors or a shortened life expectancy. Intervention or surgical treatment risks versus benefits of repair in patients at an increased risk for open surgery should be considered, and no intervention may be appropriate in some cases.
 
 Patients should be well-informed regarding their options, risks of repair, and potential postoperative complications. Endovascular repair requires lifelong follow-up with imaging as early or late endoleaks may develop, causing aortic sac pressurization and rupture. Secondary interventions, most of which are minimally invasive, may be necessary. Still, there is a small chance that an open conversation with the stent-graft removal may be required when these secondary endovascular interventions fail.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Infrarenal abdominal aortic aneurysms are the most common aneurysms of the aorta. Screening ultrasound has helped in the detection of abdominal aortic aneurysms and allows for surveillance in asymptomatic individuals with a diameter of less than 5 cm. In women, the repair should be considered at 5 cm, and in men, at 5.5 cm. If rapid enlargement is demonstrated (>5 mm over 6 months), repair should be considered. Educating healthcare professionals, including first responders, nurse practitioners, triage nurses, primary care clinicians, physician assistants, and emergency department clinicians, can facilitate diagnosis and reduce delays in treatment.
 
@@ -208,7 +208,7 @@ An interprofessional team approach involving clinicians including emergency nurs
 
 Referral to a vascular center capable of providing a standard-of-care management is appropriate. Once the decision for repair has been made, conducting a cardiology workup, obtaining clearance, and optimizing other medical comorbidities can improve outcomes. If the aneurysm is small, the interprofessional team should educate the patient and family about the importance of blood pressure control, a healthy diet, regular exercise, smoking cessation, and follow-up appointment adherence.
 
-During postoperative care, the nurse must be familiar with potential complications of the surgery and notify the interprofessional team if the patient has abdominal or back pain, wound discharge, fever, oliguria, or hypotension. The nurse should also ensure the patient has prophylaxis to prevent deep vein thrombosis. The respiratory therapist should encourage deep breathing and coughing, and the physical therapist should encourage ambulation. The nurse should also auscultate for bowel sounds and convey the results to the interprofessional team to initiate feeding. Before discharge, the pharmacist and nurse should educate the patient on the importance of medication compliance, blood pressure control, and tobacco avoidance. The nurse should also ensure that the appropriate consulting clinician, dietitian, or social workers have spoken to the patient and that the surgeon has been notified before discharge. Open communication among the interprofessional team is vital to ensure good outcomes. 
+During postoperative care, the nurse must be familiar with potential complications of the surgery and notify the interprofessional team if the patient has abdominal or back pain, wound discharge, fever, oliguria, or hypotension. The nurse should also ensure the patient has prophylaxis to prevent deep vein thrombosis. The respiratory therapist should encourage deep breathing and coughing, and the physical therapist should encourage ambulation. The nurse should also auscultate for bowel sounds and convey the results to the interprofessional team to initiate feeding. Before discharge, the pharmacist and nurse should educate the patient on the importance of medication compliance, blood pressure control, and tobacco avoidance. The nurse should also ensure that the appropriate consulting clinician, dietitian, or social workers have spoken to the patient and that the surgeon has been notified before discharge. Open communication among the interprofessional team is vital to ensure good outcomes.
 
 **Outcomes**
 
@@ -216,207 +216,170 @@ For elective abdominal aortic aneurysm repair, the outcomes are good, with minim
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17011&utm_source=pubmed&utm_campaign=reviews&utm_content=17011)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17011&utm_source=pubmed&utm_campaign=reviews&utm_content=17011)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/health/abdominal-aortic-aneurysm/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17011)
+- [Click here for a simplified version.](https://mdsearchlight.com/health/abdominal-aortic-aneurysm/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17011)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17011/?utm_source=pubmed&utm_campaign=comments&utm_content=17011)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17011/?utm_source=pubmed&utm_campaign=comments&utm_content=17011)
 
 [![Abdominal Aortic Aneurysm, Illustration](/books/NBK470237/bin/Aortadiagramgray.gif)](/books/NBK470237/figure/article-17011.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470237/figure/article-17011.image.f1/?report=objectonly)
 
-Abdominal Aortic Aneurysm, Illustration. Distention is shown by the yellow markings. This illustration also shows the aorta, inferior vena cava, and aneurysms. Henry Vandyke Carter, Public Domain, via Wikimedia Commons 
+Abdominal Aortic Aneurysm, Illustration. Distention is shown by the yellow markings. This illustration also shows the aorta, inferior vena cava, and aneurysms. Henry Vandyke Carter, Public Domain, via Wikimedia Commons
 
 [![Abdominal Aortic Aneurysm, Ultrasound](/books/NBK470237/bin/Figure__3.gif)](/books/NBK470237/figure/article-17011.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470237/figure/article-17011.image.f2/?report=objectonly)
 
-Abdominal Aortic Aneurysm, Ultrasound. The diagnosis of an abdominal aortic aneurysm is usually made using ultrasound. Contributed by K Burns, MD 
+Abdominal Aortic Aneurysm, Ultrasound. The diagnosis of an abdominal aortic aneurysm is usually made using ultrasound. Contributed by K Burns, MD
 
 [![Ruptured Infrarenal Abdominal Aortic Aneurysm, Computed Tomography Angiogram](/books/NBK470237/bin/rAAA__CT__Axial__7.6__cm.gif)](/books/NBK470237/figure/article-17011.image.f3/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470237/figure/article-17011.image.f3/?report=objectonly)
 
-Ruptured Infrarenal Abdominal Aortic Aneurysm, Computed Tomography Angiogram. This image shows evidence of rupture to the right of the 7.6 cm abdominal aortic aneurysm. Contributed by PM Shaw, MD 
+Ruptured Infrarenal Abdominal Aortic Aneurysm, Computed Tomography Angiogram. This image shows evidence of rupture to the right of the 7.6 cm abdominal aortic aneurysm. Contributed by PM Shaw, MD
 
 [![Infrarenal Abdominal Aortic Aneurysm, Computed Angiogram](/books/NBK470237/bin/rAAAa__Sagital__view__CTA.gif)](/books/NBK470237/figure/article-17011.image.f4/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470237/figure/article-17011.image.f4/?report=objectonly)
 
-Infrarenal Abdominal Aortic Aneurysm, Computed Angiogram. This image shows a sagittal view of a 7.6 cm abdominal aortic aneurysm. Contributed by PM Shaw, MD 
+Infrarenal Abdominal Aortic Aneurysm, Computed Angiogram. This image shows a sagittal view of a 7.6 cm abdominal aortic aneurysm. Contributed by PM Shaw, MD
 
 [![Completion Aortigram after repair of ruptured 7](/books/NBK470237/bin/rAAA__post__repair.gif)](/books/NBK470237/figure/article-17011.image.f5/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470237/figure/article-17011.image.f5/?report=objectonly)
 
-Completion Aortigram after repair of ruptured 7.6 cm infrarenal AAA demonstrating a successful exclusion of the ruptured AAA and no endoleak Palma M Shaw, MD 
+Completion Aortigram after repair of ruptured 7.6 cm infrarenal AAA demonstrating a successful exclusion of the ruptured AAA and no endoleak Palma M Shaw, MD
 
 ## References
 
 1.
-    
 
-Johnston KW, Rutherford RB, Tilson MD, Shah DM, Hollier L, Stanley JC. Suggested standards for reporting on arterial aneurysms. Subcommittee on Reporting Standards for Arterial Aneurysms, Ad Hoc Committee on Reporting Standards, Society for Vascular Surgery and North American Chapter, International Society for Cardiovascular Surgery. J Vasc Surg. 1991 Mar;13(3):452-8. [[PubMed: 1999868](https://pubmed.ncbi.nlm.nih.gov/1999868)]
+Johnston KW, Rutherford RB, Tilson MD, Shah DM, Hollier L, Stanley JC. Suggested standards for reporting on arterial aneurysms. Subcommittee on Reporting Standards for Arterial Aneurysms, Ad Hoc Committee on Reporting Standards, Society for Vascular Surgery and North American Chapter, International Society for Cardiovascular Surgery. J Vasc Surg. 1991 Mar;13(3):452-8. \[[PubMed: 1999868](https://pubmed.ncbi.nlm.nih.gov/1999868)\]
 
 2.
-    
 
-Powell JT, Sweeting MJ, Brown LC, Gotensparre SM, Fowkes FG, Thompson SG. Systematic review and meta-analysis of growth rates of small abdominal aortic aneurysms. Br J Surg. 2011 May;98(5):609-18. [[PubMed: 21412998](https://pubmed.ncbi.nlm.nih.gov/21412998)]
+Powell JT, Sweeting MJ, Brown LC, Gotensparre SM, Fowkes FG, Thompson SG. Systematic review and meta-analysis of growth rates of small abdominal aortic aneurysms. Br J Surg. 2011 May;98(5):609-18. \[[PubMed: 21412998](https://pubmed.ncbi.nlm.nih.gov/21412998)\]
 
 3.
-    
 
-Zommorodi S, Leander K, Roy J, Steuer J, Hultgren R. Understanding abdominal aortic aneurysm epidemiology: socioeconomic position affects outcome. J Epidemiol Community Health. 2018 Oct;72(10):904-910. [[PubMed: 29967003](https://pubmed.ncbi.nlm.nih.gov/29967003)]
+Zommorodi S, Leander K, Roy J, Steuer J, Hultgren R. Understanding abdominal aortic aneurysm epidemiology: socioeconomic position affects outcome. J Epidemiol Community Health. 2018 Oct;72(10):904-910. \[[PubMed: 29967003](https://pubmed.ncbi.nlm.nih.gov/29967003)\]
 
 4.
-    
 
-Kent KC, Zwolak RM, Egorova NN, Riles TS, Manganaro A, Moskowitz AJ, Gelijns AC, Greco G. Analysis of risk factors for abdominal aortic aneurysm in a cohort of more than 3 million individuals. J Vasc Surg. 2010 Sep;52(3):539-48. [[PubMed: 20630687](https://pubmed.ncbi.nlm.nih.gov/20630687)]
+Kent KC, Zwolak RM, Egorova NN, Riles TS, Manganaro A, Moskowitz AJ, Gelijns AC, Greco G. Analysis of risk factors for abdominal aortic aneurysm in a cohort of more than 3 million individuals. J Vasc Surg. 2010 Sep;52(3):539-48. \[[PubMed: 20630687](https://pubmed.ncbi.nlm.nih.gov/20630687)\]
 
 5.
-    
 
-Bengtsson H, Bergqvist D, Ekberg O, Janzon L. A population based screening of abdominal aortic aneurysms (AAA). Eur J Vasc Surg. 1991 Feb;5(1):53-7. [[PubMed: 2009986](https://pubmed.ncbi.nlm.nih.gov/2009986)]
+Bengtsson H, Bergqvist D, Ekberg O, Janzon L. A population based screening of abdominal aortic aneurysms (AAA). Eur J Vasc Surg. 1991 Feb;5(1):53-7. \[[PubMed: 2009986](https://pubmed.ncbi.nlm.nih.gov/2009986)\]
 
 6.
-    
 
-Xu C, Zarins CK, Glagov S. Aneurysmal and occlusive atherosclerosis of the human abdominal aorta. J Vasc Surg. 2001 Jan;33(1):91-6. [[PubMed: 11137928](https://pubmed.ncbi.nlm.nih.gov/11137928)]
+Xu C, Zarins CK, Glagov S. Aneurysmal and occlusive atherosclerosis of the human abdominal aorta. J Vasc Surg. 2001 Jan;33(1):91-6. \[[PubMed: 11137928](https://pubmed.ncbi.nlm.nih.gov/11137928)\]
 
 7.
-    
 
-Busuttil RW, Abou-Zamzam AM, Machleder HI. Collagenase activity of the human aorta. A comparison of patients with and without abdominal aortic aneurysms. Arch Surg. 1980 Nov;115(11):1373-8. [[PubMed: 6254469](https://pubmed.ncbi.nlm.nih.gov/6254469)]
+Busuttil RW, Abou-Zamzam AM, Machleder HI. Collagenase activity of the human aorta. A comparison of patients with and without abdominal aortic aneurysms. Arch Surg. 1980 Nov;115(11):1373-8. \[[PubMed: 6254469](https://pubmed.ncbi.nlm.nih.gov/6254469)\]
 
 8.
-    
 
-Busuttil RW, Rinderbriecht H, Flesher A, Carmack C. Elastase activity: the role of elastase in aortic aneurysm formation. J Surg Res. 1982 Mar;32(3):214-7. [[PubMed: 6917898](https://pubmed.ncbi.nlm.nih.gov/6917898)]
+Busuttil RW, Rinderbriecht H, Flesher A, Carmack C. Elastase activity: the role of elastase in aortic aneurysm formation. J Surg Res. 1982 Mar;32(3):214-7. \[[PubMed: 6917898](https://pubmed.ncbi.nlm.nih.gov/6917898)\]
 
 9.
-    
 
-Dobrin PB, Baumgartner N, Anidjar S, Chejfec G, Mrkvicka R. Inflammatory aspects of experimental aneurysms. Effect of methylprednisolone and cyclosporine. Ann N Y Acad Sci. 1996 Nov 18;800:74-88. [[PubMed: 8958984](https://pubmed.ncbi.nlm.nih.gov/8958984)]
+Dobrin PB, Baumgartner N, Anidjar S, Chejfec G, Mrkvicka R. Inflammatory aspects of experimental aneurysms. Effect of methylprednisolone and cyclosporine. Ann N Y Acad Sci. 1996 Nov 18;800:74-88. \[[PubMed: 8958984](https://pubmed.ncbi.nlm.nih.gov/8958984)\]
 
 10.
-    
 
-Cohen JR, Mandell C, Chang JB, Wise L. Elastin metabolism of the infrarenal aorta. J Vasc Surg. 1988 Feb;7(2):210-4. [[PubMed: 3123716](https://pubmed.ncbi.nlm.nih.gov/3123716)]
+Cohen JR, Mandell C, Chang JB, Wise L. Elastin metabolism of the infrarenal aorta. J Vasc Surg. 1988 Feb;7(2):210-4. \[[PubMed: 3123716](https://pubmed.ncbi.nlm.nih.gov/3123716)\]
 
 11.
-    
 
-Parry DJ, Al-Barjas HS, Chappell L, Rashid ST, Ariëns RA, Scott DJ. Markers of inflammation in men with small abdominal aortic aneurysm. J Vasc Surg. 2010 Jul;52(1):145-51. [[PubMed: 20620767](https://pubmed.ncbi.nlm.nih.gov/20620767)]
+Parry DJ, Al-Barjas HS, Chappell L, Rashid ST, Ariëns RA, Scott DJ. Markers of inflammation in men with small abdominal aortic aneurysm. J Vasc Surg. 2010 Jul;52(1):145-51. \[[PubMed: 20620767](https://pubmed.ncbi.nlm.nih.gov/20620767)\]
 
 12.
-    
 
-Jiang H, Sasaki T, Jin E, Kuzuya M, Cheng XW. Inflammatory Cells and Proteases in Abdominal Aortic Aneurysm and its Complications. Curr Drug Targets. 2018;19(11):1289-1296. [[PubMed: 29848273](https://pubmed.ncbi.nlm.nih.gov/29848273)]
+Jiang H, Sasaki T, Jin E, Kuzuya M, Cheng XW. Inflammatory Cells and Proteases in Abdominal Aortic Aneurysm and its Complications. Curr Drug Targets. 2018;19(11):1289-1296. \[[PubMed: 29848273](https://pubmed.ncbi.nlm.nih.gov/29848273)\]
 
 13.
-    
 
-Majumder PP, St Jean PL, Ferrell RE, Webster MW, Steed DL. On the inheritance of abdominal aortic aneurysm. Am J Hum Genet. 1991 Jan;48(1):164-70. [[PMC free article: PMC1682751](/pmc/articles/PMC1682751/)] [[PubMed: 1985458](https://pubmed.ncbi.nlm.nih.gov/1985458)]
+Majumder PP, St Jean PL, Ferrell RE, Webster MW, Steed DL. On the inheritance of abdominal aortic aneurysm. Am J Hum Genet. 1991 Jan;48(1):164-70. \[[PMC free article: PMC1682751](/pmc/articles/PMC1682751/)\] \[[PubMed: 1985458](https://pubmed.ncbi.nlm.nih.gov/1985458)\]
 
 14.
-    
 
-Tilson MD, Seashore MR. Human genetics of the abdominal aortic aneurysm. Surg Gynecol Obstet. 1984 Feb;158(2):129-32. [[PubMed: 6695305](https://pubmed.ncbi.nlm.nih.gov/6695305)]
+Tilson MD, Seashore MR. Human genetics of the abdominal aortic aneurysm. Surg Gynecol Obstet. 1984 Feb;158(2):129-32. \[[PubMed: 6695305](https://pubmed.ncbi.nlm.nih.gov/6695305)\]
 
 15.
-    
 
-Gibbons RC, Singh G, Donuru A, Young M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Aug 8, 2023. Abdominal Aortic Aneurysm Imaging. [[PubMed: 29261904](https://pubmed.ncbi.nlm.nih.gov/29261904)]
+Gibbons RC, Singh G, Donuru A, Young M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Aug 8, 2023. Abdominal Aortic Aneurysm Imaging. \[[PubMed: 29261904](https://pubmed.ncbi.nlm.nih.gov/29261904)\]
 
 16.
-    
 
-Wanhainen A, Van Herzeele I, Bastos Goncalves F, Bellmunt Montoya S, Berard X, Boyle JR, D'Oria M, Prendes CF, Karkos CD, Kazimierczak A, Koelemay MJW, Kölbel T, Mani K, Melissano G, Powell JT, Trimarchi S, Tsilimparis N, ESVS Guidelines Committee. Antoniou GA, Björck M, Coscas R, Dias NV, Kolh P, Lepidi S, Mees BME, Resch TA, Ricco JB, Tulamo R, Twine CP, Document Reviewers. Branzan D, Cheng SWK, Dalman RL, Dick F, Golledge J, Haulon S, van Herwaarden JA, Ilic NS, Jawien A, Mastracci TM, Oderich GS, Verzini F, Yeung KK. Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms. Eur J Vasc Endovasc Surg. 2024 Feb;67(2):192-331. [[PubMed: 38307694](https://pubmed.ncbi.nlm.nih.gov/38307694)]
+Wanhainen A, Van Herzeele I, Bastos Goncalves F, Bellmunt Montoya S, Berard X, Boyle JR, D'Oria M, Prendes CF, Karkos CD, Kazimierczak A, Koelemay MJW, Kölbel T, Mani K, Melissano G, Powell JT, Trimarchi S, Tsilimparis N, ESVS Guidelines Committee. Antoniou GA, Björck M, Coscas R, Dias NV, Kolh P, Lepidi S, Mees BME, Resch TA, Ricco JB, Tulamo R, Twine CP, Document Reviewers. Branzan D, Cheng SWK, Dalman RL, Dick F, Golledge J, Haulon S, van Herwaarden JA, Ilic NS, Jawien A, Mastracci TM, Oderich GS, Verzini F, Yeung KK. Editor's Choice -- European Society for Vascular Surgery (ESVS) 2024 Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms. Eur J Vasc Endovasc Surg. 2024 Feb;67(2):192-331. \[[PubMed: 38307694](https://pubmed.ncbi.nlm.nih.gov/38307694)\]
 
 17.
-    
 
-Chaikof EL, Dalman RL, Eskandari MK, Jackson BM, Lee WA, Mansour MA, Mastracci TM, Mell M, Murad MH, Nguyen LL, Oderich GS, Patel MS, Schermerhorn ML, Starnes BW. The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm. J Vasc Surg. 2018 Jan;67(1):2-77.e2. [[PubMed: 29268916](https://pubmed.ncbi.nlm.nih.gov/29268916)]
+Chaikof EL, Dalman RL, Eskandari MK, Jackson BM, Lee WA, Mansour MA, Mastracci TM, Mell M, Murad MH, Nguyen LL, Oderich GS, Patel MS, Schermerhorn ML, Starnes BW. The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm. J Vasc Surg. 2018 Jan;67(1):2-77.e2. \[[PubMed: 29268916](https://pubmed.ncbi.nlm.nih.gov/29268916)\]
 
 18.
-    
 
-Wanhainen A, Verzini F, Van Herzeele I, Allaire E, Bown M, Cohnert T, Dick F, van Herwaarden J, Karkos C, Koelemay M, Kölbel T, Loftus I, Mani K, Melissano G, Powell J, Szeberin Z, Esvs Guidelines Committee, de Borst GJ, Chakfe N, Debus S, Hinchliffe R, Kakkos S, Koncar I, Kolh P, Lindholt JS, de Vega M, Vermassen F, Document Reviewers, Björck M, Cheng S, Dalman R, Davidovic L, Donas K, Earnshaw J, Eckstein HH, Golledge J, Haulon S, Mastracci T, Naylor R, Ricco JB, Verhagen H. Editor's Choice - European Society for Vascular Surgery (ESVS) 2019 Clinical Practice Guidelines on the Management of Abdominal Aorto-iliac Artery Aneurysms. Eur J Vasc Endovasc Surg. 2019 Jan;57(1):8-93. [[PubMed: 30528142](https://pubmed.ncbi.nlm.nih.gov/30528142)]
+Wanhainen A, Verzini F, Van Herzeele I, Allaire E, Bown M, Cohnert T, Dick F, van Herwaarden J, Karkos C, Koelemay M, Kölbel T, Loftus I, Mani K, Melissano G, Powell J, Szeberin Z, Esvs Guidelines Committee, de Borst GJ, Chakfe N, Debus S, Hinchliffe R, Kakkos S, Koncar I, Kolh P, Lindholt JS, de Vega M, Vermassen F, Document Reviewers, Björck M, Cheng S, Dalman R, Davidovic L, Donas K, Earnshaw J, Eckstein HH, Golledge J, Haulon S, Mastracci T, Naylor R, Ricco JB, Verhagen H. Editor's Choice - European Society for Vascular Surgery (ESVS) 2019 Clinical Practice Guidelines on the Management of Abdominal Aorto-iliac Artery Aneurysms. Eur J Vasc Endovasc Surg. 2019 Jan;57(1):8-93. \[[PubMed: 30528142](https://pubmed.ncbi.nlm.nih.gov/30528142)\]
 
 19.
-    
 
-Jonker LT, de Niet A, Reijnen MMPJ, Tielliu IFJ, Zeebregts CJ. Mid- and Long-Term Outcome of Currently Available Endografts for the Treatment of Infrarenal Abdominal Aortic Aneurysm. Surg Technol Int. 2018 Nov 11;33:239-250. [[PubMed: 30117134](https://pubmed.ncbi.nlm.nih.gov/30117134)]
+Jonker LT, de Niet A, Reijnen MMPJ, Tielliu IFJ, Zeebregts CJ. Mid- and Long-Term Outcome of Currently Available Endografts for the Treatment of Infrarenal Abdominal Aortic Aneurysm. Surg Technol Int. 2018 Nov 11;33:239-250. \[[PubMed: 30117134](https://pubmed.ncbi.nlm.nih.gov/30117134)\]
 
 20.
-    
 
-Wang LJ, Prabhakar AM, Kwolek CJ. Current status of the treatment of infrarenal abdominal aortic aneurysms. Cardiovasc Diagn Ther. 2018 Apr;8(Suppl 1):S191-S199. [[PMC free article: PMC5949587](/pmc/articles/PMC5949587/)] [[PubMed: 29850431](https://pubmed.ncbi.nlm.nih.gov/29850431)]
+Wang LJ, Prabhakar AM, Kwolek CJ. Current status of the treatment of infrarenal abdominal aortic aneurysms. Cardiovasc Diagn Ther. 2018 Apr;8(Suppl 1):S191-S199. \[[PMC free article: PMC5949587](/pmc/articles/PMC5949587/)\] \[[PubMed: 29850431](https://pubmed.ncbi.nlm.nih.gov/29850431)\]
 
 21.
-    
 
-Vicario-Feliciano R, Zil-E-Ali A, Aziz F. Beta Blockers are Associated with Increased Mortality Without a Decrease in Reinterventions After Endovascular Abdominal Aortic Repair (EVAR). Ann Vasc Surg. 2025 Jan;110(Pt B):395-404. [[PubMed: 39103012](https://pubmed.ncbi.nlm.nih.gov/39103012)]
+Vicario-Feliciano R, Zil-E-Ali A, Aziz F. Beta Blockers are Associated with Increased Mortality Without a Decrease in Reinterventions After Endovascular Abdominal Aortic Repair (EVAR). Ann Vasc Surg. 2025 Jan;110(Pt B):395-404. \[[PubMed: 39103012](https://pubmed.ncbi.nlm.nih.gov/39103012)\]
 
 22.
-    
 
-Amin S, Schnabel J, Eldergash O, Chavan A. [Endovascular aneurysm repair (EVAR) : Complication management]. Radiologe. 2018 Sep;58(9):841-849. [[PubMed: 30083939](https://pubmed.ncbi.nlm.nih.gov/30083939)]
+Amin S, Schnabel J, Eldergash O, Chavan A. [Endovascular aneurysm repair (EVAR) : Complication management]. Radiologe. 2018 Sep;58(9):841-849. \[[PubMed: 30083939](https://pubmed.ncbi.nlm.nih.gov/30083939)\]
 
 23.
-    
 
-Mezzetto L, Scorsone L, Silingardi R, Gennai S, Piffaretti G, Mantovani A, Bush RL, Haulon S, Veraldi GF. Bridging Stents in Fenestrated and Branched Endovascular Aneurysm Repair: A Systematic REVIEW. Ann Vasc Surg. 2021 May;73:454-462. [[PubMed: 33359330](https://pubmed.ncbi.nlm.nih.gov/33359330)]
+Mezzetto L, Scorsone L, Silingardi R, Gennai S, Piffaretti G, Mantovani A, Bush RL, Haulon S, Veraldi GF. Bridging Stents in Fenestrated and Branched Endovascular Aneurysm Repair: A Systematic REVIEW. Ann Vasc Surg. 2021 May;73:454-462. \[[PubMed: 33359330](https://pubmed.ncbi.nlm.nih.gov/33359330)\]
 
 24.
-    
 
-Tenorio ER, Oderich GS, Kölbel T, Gargiulo M, Timaran CH, Bertoglio L, Modarai B, Jama K, Eleshra A, Lima GBB, Scott C, Chiesa R, Jakimowicz T., Trans-Atlantic Aortic Research Consortium. Outcomes of off-the-shelf multibranched stent grafts with intentional occlusion of directional branches using endovascular plugs during endovascular repair of complex aortic aneurysms. J Vasc Surg. 2022 Apr;75(4):1142-1150.e4. [[PubMed: 34748899](https://pubmed.ncbi.nlm.nih.gov/34748899)]
+Tenorio ER, Oderich GS, Kölbel T, Gargiulo M, Timaran CH, Bertoglio L, Modarai B, Jama K, Eleshra A, Lima GBB, Scott C, Chiesa R, Jakimowicz T., Trans-Atlantic Aortic Research Consortium. Outcomes of off-the-shelf multibranched stent grafts with intentional occlusion of directional branches using endovascular plugs during endovascular repair of complex aortic aneurysms. J Vasc Surg. 2022 Apr;75(4):1142-1150.e4. \[[PubMed: 34748899](https://pubmed.ncbi.nlm.nih.gov/34748899)\]
 
 25.
-    
 
-Soler R, Bartoli MA, Faries C, Mancini J, Sarlon-Bartoli G, Haulon S, Magnan PE. Fenestrated endovascular aneurysm repair and open surgical repair for the treatment of juxtarenal aortic aneurysms. J Vasc Surg. 2019 Sep;70(3):683-690. [[PubMed: 30850294](https://pubmed.ncbi.nlm.nih.gov/30850294)]
+Soler R, Bartoli MA, Faries C, Mancini J, Sarlon-Bartoli G, Haulon S, Magnan PE. Fenestrated endovascular aneurysm repair and open surgical repair for the treatment of juxtarenal aortic aneurysms. J Vasc Surg. 2019 Sep;70(3):683-690. \[[PubMed: 30850294](https://pubmed.ncbi.nlm.nih.gov/30850294)\]
 
 26.
-    
 
-Oderich GS, Farber MA, Schneider D, Makaroun M, Sanchez LA, Schanzer A, Beck AW, Starnes BW, Fillinger M, Tenorio ER, Chen M, Zhou Q., Zenith Fenestrated Study Investigators. Final 5-year results of the United States Zenith Fenestrated prospective multicenter study for juxtarenal abdominal aortic aneurysms. J Vasc Surg. 2021 Apr;73(4):1128-1138.e2. [[PubMed: 32891806](https://pubmed.ncbi.nlm.nih.gov/32891806)]
+Oderich GS, Farber MA, Schneider D, Makaroun M, Sanchez LA, Schanzer A, Beck AW, Starnes BW, Fillinger M, Tenorio ER, Chen M, Zhou Q., Zenith Fenestrated Study Investigators. Final 5-year results of the United States Zenith Fenestrated prospective multicenter study for juxtarenal abdominal aortic aneurysms. J Vasc Surg. 2021 Apr;73(4):1128-1138.e2. \[[PubMed: 32891806](https://pubmed.ncbi.nlm.nih.gov/32891806)\]
 
 27.
-    
 
-Azhar B, Patel SR, Holt PJ, Hinchliffe RJ, Thompson MM, Karthikesalingam A. Misdiagnosis of ruptured abdominal aortic aneurysm: systematic review and meta-analysis. J Endovasc Ther. 2014 Aug;21(4):568-75. [[PubMed: 25101588](https://pubmed.ncbi.nlm.nih.gov/25101588)]
+Azhar B, Patel SR, Holt PJ, Hinchliffe RJ, Thompson MM, Karthikesalingam A. Misdiagnosis of ruptured abdominal aortic aneurysm: systematic review and meta-analysis. J Endovasc Ther. 2014 Aug;21(4):568-75. \[[PubMed: 25101588](https://pubmed.ncbi.nlm.nih.gov/25101588)\]
 
 28.
-    
 
-Johansen K, Kohler TR, Nicholls SC, Zierler RE, Clowes AW, Kazmers A. Ruptured abdominal aortic aneurysm: the Harborview experience. J Vasc Surg. 1991 Feb;13(2):240-5; discussion 245-7. [[PubMed: 1990165](https://pubmed.ncbi.nlm.nih.gov/1990165)]
+Johansen K, Kohler TR, Nicholls SC, Zierler RE, Clowes AW, Kazmers A. Ruptured abdominal aortic aneurysm: the Harborview experience. J Vasc Surg. 1991 Feb;13(2):240-5; discussion 245-7. \[[PubMed: 1990165](https://pubmed.ncbi.nlm.nih.gov/1990165)\]
 
 29.
-    
 
-Myers J, McElrath M, Jaffe A, Smith K, Fonda H, Vu A, Hill B, Dalman R. A randomized trial of exercise training in abdominal aortic aneurysm disease. Med Sci Sports Exerc. 2014 Jan;46(1):2-9. [[PubMed: 23793234](https://pubmed.ncbi.nlm.nih.gov/23793234)]
+Myers J, McElrath M, Jaffe A, Smith K, Fonda H, Vu A, Hill B, Dalman R. A randomized trial of exercise training in abdominal aortic aneurysm disease. Med Sci Sports Exerc. 2014 Jan;46(1):2-9. \[[PubMed: 23793234](https://pubmed.ncbi.nlm.nih.gov/23793234)\]
 
 30.
-    
 
-Calero A, Illig KA. Overview of aortic aneurysm management in the endovascular era. Semin Vasc Surg. 2016 Mar;29(1-2):3-17. [[PubMed: 27823587](https://pubmed.ncbi.nlm.nih.gov/27823587)]
+Calero A, Illig KA. Overview of aortic aneurysm management in the endovascular era. Semin Vasc Surg. 2016 Mar;29(1-2):3-17. \[[PubMed: 27823587](https://pubmed.ncbi.nlm.nih.gov/27823587)\]
 
 31.
-    
 
-Kayssi A, DeBord Smith A, Roche-Nagle G, Nguyen LL. Health-related quality-of-life outcomes after open versus endovascular abdominal aortic aneurysm repair. J Vasc Surg. 2015 Aug;62(2):491-8. [[PubMed: 26211382](https://pubmed.ncbi.nlm.nih.gov/26211382)]
-
-    
+Kayssi A, DeBord Smith A, Roche-Nagle G, Nguyen LL. Health-related quality-of-life outcomes after open versus endovascular abdominal aortic aneurysm repair. J Vasc Surg. 2015 Aug;62(2):491-8. \[[PubMed: 26211382](https://pubmed.ncbi.nlm.nih.gov/26211382)\]
 
 **Disclosure:** Palma Shaw declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** John Loree declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Alisha Oropallo declares no relevant financial relationships with ineligible companies.

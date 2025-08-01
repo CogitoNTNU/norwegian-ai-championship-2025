@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-149164/
-scraped_date: 2025-07-22 12:52:13 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-149164/ scraped_date: 2025-07-22 12:52:13 UTC
 
 # Ambulatory ECG Monitoring
 
@@ -29,13 +28,13 @@ This activity highlights the indications for and clinical significance of variou
 
 **Objectives:**
 
-  * Select an appropriate modality of ambulatory ECG monitoring for a patient based on their clinical history.
+- Select an appropriate modality of ambulatory ECG monitoring for a patient based on their clinical history.
 
-  * Counsel patients on how to optimize the accuracy of ambulatory ECG monitoring results.
+- Counsel patients on how to optimize the accuracy of ambulatory ECG monitoring results.
 
-  * Apply best practices when interpreting the results of ambulatory ECG monitoring.
+- Apply best practices when interpreting the results of ambulatory ECG monitoring.
 
-  * Develop and implement interprofessional healthcare team strategies to improve outcomes for patients requiring ambulatory ECG monitoring.
+- Develop and implement interprofessional healthcare team strategies to improve outcomes for patients requiring ambulatory ECG monitoring.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=149164&utm_source=pubmed&utm_campaign=reviews&utm_content=149164)
 
@@ -67,7 +66,7 @@ Event monitors are a suitable option for patients experiencing syncope, near syn
 
 The most significant drawback of post-event recorders is the lack of continuous ECG monitoring; placing the device against the chest makes it challenging to capture brief symptomatic episodes, and asymptomatic events go unrecorded. Additionally, the onset of the episode is not recorded; this impairs accurate diagnosis.
 
-External loop recorders address some of these limitations by continuously monitoring the cardiac conduction system, storing the data in a loop memory for 30 days, and actively recording event data when activated by the patient. External loop recorders are indicated monitoring modalities for patients with infrequent nonsyncopal symptoms; syncopal patients cannot activate the monitor when unconscious.[12] When activated, these recorders store data for a fixed period before and after the activation. 
+External loop recorders address some of these limitations by continuously monitoring the cardiac conduction system, storing the data in a loop memory for 30 days, and actively recording event data when activated by the patient. External loop recorders are indicated monitoring modalities for patients with infrequent nonsyncopal symptoms; syncopal patients cannot activate the monitor when unconscious.[12] When activated, these recorders store data for a fixed period before and after the activation.
 
 While external loop recorders and event monitors are effective for frequent symptoms, the correlation between symptoms and ECG abnormalities is low for events that occur less than once monthly. In cases where extended monitoring is necessary, implantable loop recorders may be utilized. These devices are designed to be implanted subcutaneously in the chest wall via a minimally invasive procedure performed without general anesthesia. Implantable loop recorders can record data for up to 3 years, are MRI-compatible, and have low infection and complication rates.[14][15]
 
@@ -185,398 +184,322 @@ Syncopal episodes often pose diagnostic challenges due to their transient nature
 
 **Long-Term Monitoring**
 
-Certain cardiac conditions necessitate extended monitoring to assess their impact on patient health. Ambulatory ECG monitoring conducted over an extended duration of days to months provides insight into the chronicity and variability of arrhythmic events. Conditions such as atrial fibrillation benefit from such monitoring, enabling the fine-tuning of treatment plans based on long-term trends. 
+Certain cardiac conditions necessitate extended monitoring to assess their impact on patient health. Ambulatory ECG monitoring conducted over an extended duration of days to months provides insight into the chronicity and variability of arrhythmic events. Conditions such as atrial fibrillation benefit from such monitoring, enabling the fine-tuning of treatment plans based on long-term trends.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=149164&utm_source=pubmed&utm_campaign=reviews&utm_content=149164)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=149164&utm_source=pubmed&utm_campaign=reviews&utm_content=149164)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/149164/?utm_source=pubmed&utm_campaign=comments&utm_content=149164)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/149164/?utm_source=pubmed&utm_campaign=comments&utm_content=149164)
 
 [![Image ](/books/NBK597374/bin/Holter-Monitor.gif)](/books/NBK597374/figure/article-149164.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK597374/figure/article-149164.image.f1/?report=objectonly)
 
-Holter Monitor Contributed by I Ahmed, MBBS, FCPS 
+Holter Monitor Contributed by I Ahmed, MBBS, FCPS
 
 [![Holter Monitor Data Output](/books/NBK597374/bin/Holter__Trace-Start__of__Supraventricular__Tachycardia..gif)](/books/NBK597374/figure/article-149164.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK597374/figure/article-149164.image.f2/?report=objectonly)
 
-Holter Monitor Data Output. A Holter monitor recording reveals the start of supraventricular tachycardia. Contributed by I Ahmed, MBBS, FCPS 
+Holter Monitor Data Output. A Holter monitor recording reveals the start of supraventricular tachycardia. Contributed by I Ahmed, MBBS, FCPS
 
 [![Implantable Cardioverter-Defibrillator Recording](/books/NBK597374/bin/Device__Trace.2.gif)](/books/NBK597374/figure/article-149164.image.f3/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK597374/figure/article-149164.image.f3/?report=objectonly)
 
-Implantable Cardioverter-Defibrillator Recording. An implantable cardioverter-defibrillator (ICD) recording reveals the initiation of tachycardia. Contributed by I Ahmed, MBBS, FCPS 
+Implantable Cardioverter-Defibrillator Recording. An implantable cardioverter-defibrillator (ICD) recording reveals the initiation of tachycardia. Contributed by I Ahmed, MBBS, FCPS
 
 ## References
 
 1.
-    
 
-Amini M, Zayeri F, Salehi M. Trend analysis of cardiovascular disease mortality, incidence, and mortality-to-incidence ratio: results from global burden of disease study 2017. BMC Public Health. 2021 Feb 25;21(1):401. [[PMC free article: PMC7905904](/pmc/articles/PMC7905904/)] [[PubMed: 33632204](https://pubmed.ncbi.nlm.nih.gov/33632204)]
+Amini M, Zayeri F, Salehi M. Trend analysis of cardiovascular disease mortality, incidence, and mortality-to-incidence ratio: results from global burden of disease study 2017. BMC Public Health. 2021 Feb 25;21(1):401. \[[PMC free article: PMC7905904](/pmc/articles/PMC7905904/)\] \[[PubMed: 33632204](https://pubmed.ncbi.nlm.nih.gov/33632204)\]
 
 2.
-    
 
-Israel CW. Mechanisms of sudden cardiac death. Indian Heart J. 2014 Jan-Feb;66 Suppl 1(Suppl 1):S10-7. [[PMC free article: PMC4237287](/pmc/articles/PMC4237287/)] [[PubMed: 24568819](https://pubmed.ncbi.nlm.nih.gov/24568819)]
+Israel CW. Mechanisms of sudden cardiac death. Indian Heart J. 2014 Jan-Feb;66 Suppl 1(Suppl 1):S10-7. \[[PMC free article: PMC4237287](/pmc/articles/PMC4237287/)\] \[[PubMed: 24568819](https://pubmed.ncbi.nlm.nih.gov/24568819)\]
 
 3.
-    
 
-Pereira H, Niederer S, Rinaldi CA. Electrocardiographic imaging for cardiac arrhythmias and resynchronization therapy. Europace. 2020 Aug 05;22(10):1447-62. [[PMC free article: PMC7544539](/pmc/articles/PMC7544539/)] [[PubMed: 32754737](https://pubmed.ncbi.nlm.nih.gov/32754737)]
+Pereira H, Niederer S, Rinaldi CA. Electrocardiographic imaging for cardiac arrhythmias and resynchronization therapy. Europace. 2020 Aug 05;22(10):1447-62. \[[PMC free article: PMC7544539](/pmc/articles/PMC7544539/)\] \[[PubMed: 32754737](https://pubmed.ncbi.nlm.nih.gov/32754737)\]
 
 4.
-    
 
-Linker NJ, Voulgaraki D, Garutti C, Rieger G, Edvardsson N., PICTURE Study Investigators. Early versus delayed implantation of a loop recorder in patients with unexplained syncope--effects on care pathway and diagnostic yield. Int J Cardiol. 2013 Dec 10;170(2):146-51. [[PubMed: 24182906](https://pubmed.ncbi.nlm.nih.gov/24182906)]
+Linker NJ, Voulgaraki D, Garutti C, Rieger G, Edvardsson N., PICTURE Study Investigators. Early versus delayed implantation of a loop recorder in patients with unexplained syncope--effects on care pathway and diagnostic yield. Int J Cardiol. 2013 Dec 10;170(2):146-51. \[[PubMed: 24182906](https://pubmed.ncbi.nlm.nih.gov/24182906)\]
 
 5.
-    
 
-HOLTER NJ. New method for heart studies. Science. 1961 Oct 20;134(3486):1214-20. [[PubMed: 13908591](https://pubmed.ncbi.nlm.nih.gov/13908591)]
+HOLTER NJ. New method for heart studies. Science. 1961 Oct 20;134(3486):1214-20. \[[PubMed: 13908591](https://pubmed.ncbi.nlm.nih.gov/13908591)\]
 
 6.
-    
 
-Kennedy HL. The evolution of ambulatory ECG monitoring. Prog Cardiovasc Dis. 2013 Sep-Oct;56(2):127-32. [[PubMed: 24215744](https://pubmed.ncbi.nlm.nih.gov/24215744)]
+Kennedy HL. The evolution of ambulatory ECG monitoring. Prog Cardiovasc Dis. 2013 Sep-Oct;56(2):127-32. \[[PubMed: 24215744](https://pubmed.ncbi.nlm.nih.gov/24215744)\]
 
 7.
-    
 
-Ikeda T. Current Use and Future Needs of Noninvasive Ambulatory Electrocardiogram Monitoring. Intern Med. 2021 Jan 01;60(1):9-14. [[PMC free article: PMC7835469](/pmc/articles/PMC7835469/)] [[PubMed: 32788529](https://pubmed.ncbi.nlm.nih.gov/32788529)]
+Ikeda T. Current Use and Future Needs of Noninvasive Ambulatory Electrocardiogram Monitoring. Intern Med. 2021 Jan 01;60(1):9-14. \[[PMC free article: PMC7835469](/pmc/articles/PMC7835469/)\] \[[PubMed: 32788529](https://pubmed.ncbi.nlm.nih.gov/32788529)\]
 
 8.
-    
 
-DiMarco JP, Philbrick JT. Use of ambulatory electrocardiographic (Holter) monitoring. Ann Intern Med. 1990 Jul 01;113(1):53-68. [[PubMed: 2190517](https://pubmed.ncbi.nlm.nih.gov/2190517)]
+DiMarco JP, Philbrick JT. Use of ambulatory electrocardiographic (Holter) monitoring. Ann Intern Med. 1990 Jul 01;113(1):53-68. \[[PubMed: 2190517](https://pubmed.ncbi.nlm.nih.gov/2190517)\]
 
 9.
-    
 
-Steinberg JS, Varma N, Cygankiewicz I, Aziz P, Balsam P, Baranchuk A, Cantillon DJ, Dilaveris P, Dubner SJ, El-Sherif N, Krol J, Kurpesa M, La Rovere MT, Lobodzinski SS, Locati ET, Mittal S, Olshansky B, Piotrowicz E, Saxon L, Stone PH, Tereshchenko L, Turakhia MP, Turitto G, Wimmer NJ, Verrier RL, Zareba W, Piotrowicz R. 2017 ISHNE-HRS expert consensus statement on ambulatory ECG and external cardiac monitoring/telemetry. Ann Noninvasive Electrocardiol. 2017 May;22(3) [[PMC free article: PMC6931745](/pmc/articles/PMC6931745/)] [[PubMed: 28480632](https://pubmed.ncbi.nlm.nih.gov/28480632)]
+Steinberg JS, Varma N, Cygankiewicz I, Aziz P, Balsam P, Baranchuk A, Cantillon DJ, Dilaveris P, Dubner SJ, El-Sherif N, Krol J, Kurpesa M, La Rovere MT, Lobodzinski SS, Locati ET, Mittal S, Olshansky B, Piotrowicz E, Saxon L, Stone PH, Tereshchenko L, Turakhia MP, Turitto G, Wimmer NJ, Verrier RL, Zareba W, Piotrowicz R. 2017 ISHNE-HRS expert consensus statement on ambulatory ECG and external cardiac monitoring/telemetry. Ann Noninvasive Electrocardiol. 2017 May;22(3) \[[PMC free article: PMC6931745](/pmc/articles/PMC6931745/)\] \[[PubMed: 28480632](https://pubmed.ncbi.nlm.nih.gov/28480632)\]
 
 10.
-    
 
-Bolourchi M, Silver ES, Muwanga D, Mendez E, Liberman L. Comparison of Holter With Zio Patch Electrocardiography Monitoring in Children. Am J Cardiol. 2020 Mar 01;125(5):767-771. [[PubMed: 31948666](https://pubmed.ncbi.nlm.nih.gov/31948666)]
+Bolourchi M, Silver ES, Muwanga D, Mendez E, Liberman L. Comparison of Holter With Zio Patch Electrocardiography Monitoring in Children. Am J Cardiol. 2020 Mar 01;125(5):767-771. \[[PubMed: 31948666](https://pubmed.ncbi.nlm.nih.gov/31948666)\]
 
 11.
-    
 
-Task Force members. Brignole M, Vardas P, Hoffman E, Huikuri H, Moya A, Ricci R, Sulke N, Wieling W, EHRA Scientific Documents Committee. Auricchio A, Lip GY, Almendral J, Kirchhof P, Aliot E, Gasparini M, Braunschweig F, Document Reviewers. Lip GY, Almendral J, Kirchhof P, Botto GL., EHRA Scientific Documents Committee. Indications for the use of diagnostic implantable and external ECG loop recorders. Europace. 2009 May;11(5):671-87. [[PubMed: 19401342](https://pubmed.ncbi.nlm.nih.gov/19401342)]
+Task Force members. Brignole M, Vardas P, Hoffman E, Huikuri H, Moya A, Ricci R, Sulke N, Wieling W, EHRA Scientific Documents Committee. Auricchio A, Lip GY, Almendral J, Kirchhof P, Aliot E, Gasparini M, Braunschweig F, Document Reviewers. Lip GY, Almendral J, Kirchhof P, Botto GL., EHRA Scientific Documents Committee. Indications for the use of diagnostic implantable and external ECG loop recorders. Europace. 2009 May;11(5):671-87. \[[PubMed: 19401342](https://pubmed.ncbi.nlm.nih.gov/19401342)\]
 
 12.
-    
 
-Zimetbaum P, Goldman A. Ambulatory arrhythmia monitoring: choosing the right device. Circulation. 2010 Oct 19;122(16):1629-36. [[PubMed: 20956237](https://pubmed.ncbi.nlm.nih.gov/20956237)]
+Zimetbaum P, Goldman A. Ambulatory arrhythmia monitoring: choosing the right device. Circulation. 2010 Oct 19;122(16):1629-36. \[[PubMed: 20956237](https://pubmed.ncbi.nlm.nih.gov/20956237)\]
 
 13.
-    
 
-Kohno R, Abe H, Benditt DG. Ambulatory electrocardiogram monitoring devices for evaluating transient loss of consciousness or other related symptoms. J Arrhythm. 2017 Dec;33(6):583-589. [[PMC free article: PMC5728709](/pmc/articles/PMC5728709/)] [[PubMed: 29255505](https://pubmed.ncbi.nlm.nih.gov/29255505)]
+Kohno R, Abe H, Benditt DG. Ambulatory electrocardiogram monitoring devices for evaluating transient loss of consciousness or other related symptoms. J Arrhythm. 2017 Dec;33(6):583-589. \[[PMC free article: PMC5728709](/pmc/articles/PMC5728709/)\] \[[PubMed: 29255505](https://pubmed.ncbi.nlm.nih.gov/29255505)\]
 
 14.
-    
 
-van der Graaf AW, Bhagirath P, Götte MJ. MRI and cardiac implantable electronic devices; current status and required safety conditions. Neth Heart J. 2014 Jun;22(6):269-76. [[PMC free article: PMC4031361](/pmc/articles/PMC4031361/)] [[PubMed: 24733688](https://pubmed.ncbi.nlm.nih.gov/24733688)]
+van der Graaf AW, Bhagirath P, Götte MJ. MRI and cardiac implantable electronic devices; current status and required safety conditions. Neth Heart J. 2014 Jun;22(6):269-76. \[[PMC free article: PMC4031361](/pmc/articles/PMC4031361/)\] \[[PubMed: 24733688](https://pubmed.ncbi.nlm.nih.gov/24733688)\]
 
 15.
-    
 
-Pachulski R, Cockrell J, Solomon H, Yang F, Rogers J. Implant evaluation of an insertable cardiac monitor outside the electrophysiology lab setting. PLoS One. 2013;8(8):e71544. [[PMC free article: PMC3744555](/pmc/articles/PMC3744555/)] [[PubMed: 23977071](https://pubmed.ncbi.nlm.nih.gov/23977071)]
+Pachulski R, Cockrell J, Solomon H, Yang F, Rogers J. Implant evaluation of an insertable cardiac monitor outside the electrophysiology lab setting. PLoS One. 2013;8(8):e71544. \[[PMC free article: PMC3744555](/pmc/articles/PMC3744555/)\] \[[PubMed: 23977071](https://pubmed.ncbi.nlm.nih.gov/23977071)\]
 
 16.
-    
 
-Turakhia MP, Hoang DD, Zimetbaum P, Miller JD, Froelicher VF, Kumar UN, Xu X, Yang F, Heidenreich PA. Diagnostic utility of a novel leadless arrhythmia monitoring device. Am J Cardiol. 2013 Aug 15;112(4):520-4. [[PubMed: 23672988](https://pubmed.ncbi.nlm.nih.gov/23672988)]
+Turakhia MP, Hoang DD, Zimetbaum P, Miller JD, Froelicher VF, Kumar UN, Xu X, Yang F, Heidenreich PA. Diagnostic utility of a novel leadless arrhythmia monitoring device. Am J Cardiol. 2013 Aug 15;112(4):520-4. \[[PubMed: 23672988](https://pubmed.ncbi.nlm.nih.gov/23672988)\]
 
 17.
-    
 
-Barrett PM, Komatireddy R, Haaser S, Topol S, Sheard J, Encinas J, Fought AJ, Topol EJ. Comparison of 24-hour Holter monitoring with 14-day novel adhesive patch electrocardiographic monitoring. Am J Med. 2014 Jan;127(1):95.e11-7. [[PMC free article: PMC3882198](/pmc/articles/PMC3882198/)] [[PubMed: 24384108](https://pubmed.ncbi.nlm.nih.gov/24384108)]
+Barrett PM, Komatireddy R, Haaser S, Topol S, Sheard J, Encinas J, Fought AJ, Topol EJ. Comparison of 24-hour Holter monitoring with 14-day novel adhesive patch electrocardiographic monitoring. Am J Med. 2014 Jan;127(1):95.e11-7. \[[PMC free article: PMC3882198](/pmc/articles/PMC3882198/)\] \[[PubMed: 24384108](https://pubmed.ncbi.nlm.nih.gov/24384108)\]
 
 18.
-    
 
-Walsh JA, Topol EJ, Steinhubl SR. Novel wireless devices for cardiac monitoring. Circulation. 2014 Aug 12;130(7):573-81. [[PMC free article: PMC4135373](/pmc/articles/PMC4135373/)] [[PubMed: 25114186](https://pubmed.ncbi.nlm.nih.gov/25114186)]
+Walsh JA, Topol EJ, Steinhubl SR. Novel wireless devices for cardiac monitoring. Circulation. 2014 Aug 12;130(7):573-81. \[[PMC free article: PMC4135373](/pmc/articles/PMC4135373/)\] \[[PubMed: 25114186](https://pubmed.ncbi.nlm.nih.gov/25114186)\]
 
 19.
-    
 
-Rothman SA, Laughlin JC, Seltzer J, Walia JS, Baman RI, Siouffi SY, Sangrigoli RM, Kowey PR. The diagnosis of cardiac arrhythmias: a prospective multi-center randomized study comparing mobile cardiac outpatient telemetry versus standard loop event monitoring. J Cardiovasc Electrophysiol. 2007 Mar;18(3):241-7. [[PubMed: 17318994](https://pubmed.ncbi.nlm.nih.gov/17318994)]
+Rothman SA, Laughlin JC, Seltzer J, Walia JS, Baman RI, Siouffi SY, Sangrigoli RM, Kowey PR. The diagnosis of cardiac arrhythmias: a prospective multi-center randomized study comparing mobile cardiac outpatient telemetry versus standard loop event monitoring. J Cardiovasc Electrophysiol. 2007 Mar;18(3):241-7. \[[PubMed: 17318994](https://pubmed.ncbi.nlm.nih.gov/17318994)\]
 
 20.
-    
 
-Miller DJ, Khan MA, Schultz LR, Simpson JR, Katramados AM, Russman AN, Mitsias PD. Outpatient cardiac telemetry detects a high rate of atrial fibrillation in cryptogenic stroke. J Neurol Sci. 2013 Jan 15;324(1-2):57-61. [[PubMed: 23102659](https://pubmed.ncbi.nlm.nih.gov/23102659)]
+Miller DJ, Khan MA, Schultz LR, Simpson JR, Katramados AM, Russman AN, Mitsias PD. Outpatient cardiac telemetry detects a high rate of atrial fibrillation in cryptogenic stroke. J Neurol Sci. 2013 Jan 15;324(1-2):57-61. \[[PubMed: 23102659](https://pubmed.ncbi.nlm.nih.gov/23102659)\]
 
 21.
-    
 
-Medic G, Kotsopoulos N, Connolly MP, Lavelle J, Norlock V, Wadhwa M, Mohr BA, Derkac WM. Mobile Cardiac Outpatient Telemetry Patch vs Implantable Loop Recorder in Cryptogenic Stroke Patients in the US - Cost-Minimization Model. Med Devices (Auckl). 2021;14:445-458. [[PMC free article: PMC8694406](/pmc/articles/PMC8694406/)] [[PubMed: 34955658](https://pubmed.ncbi.nlm.nih.gov/34955658)]
+Medic G, Kotsopoulos N, Connolly MP, Lavelle J, Norlock V, Wadhwa M, Mohr BA, Derkac WM. Mobile Cardiac Outpatient Telemetry Patch vs Implantable Loop Recorder in Cryptogenic Stroke Patients in the US - Cost-Minimization Model. Med Devices (Auckl). 2021;14:445-458. \[[PMC free article: PMC8694406](/pmc/articles/PMC8694406/)\] \[[PubMed: 34955658](https://pubmed.ncbi.nlm.nih.gov/34955658)\]
 
 22.
-    
 
-Glotzer TV, Hellkamp AS, Zimmerman J, Sweeney MO, Yee R, Marinchak R, Cook J, Paraschos A, Love J, Radoslovich G, Lee KL, Lamas GA., MOST Investigators. Atrial high rate episodes detected by pacemaker diagnostics predict death and stroke: report of the Atrial Diagnostics Ancillary Study of the MOde Selection Trial (MOST). Circulation. 2003 Apr 01;107(12):1614-9. [[PubMed: 12668495](https://pubmed.ncbi.nlm.nih.gov/12668495)]
+Glotzer TV, Hellkamp AS, Zimmerman J, Sweeney MO, Yee R, Marinchak R, Cook J, Paraschos A, Love J, Radoslovich G, Lee KL, Lamas GA., MOST Investigators. Atrial high rate episodes detected by pacemaker diagnostics predict death and stroke: report of the Atrial Diagnostics Ancillary Study of the MOde Selection Trial (MOST). Circulation. 2003 Apr 01;107(12):1614-9. \[[PubMed: 12668495](https://pubmed.ncbi.nlm.nih.gov/12668495)\]
 
 23.
-    
 
-Joseph GK, Wilkoff BL, Dresing T, Burkhardt J, Khaykin Y. Remote interrogation and monitoring of implantable cardioverter defibrillators. J Interv Card Electrophysiol. 2004 Oct;11(2):161-6. [[PubMed: 15383781](https://pubmed.ncbi.nlm.nih.gov/15383781)]
+Joseph GK, Wilkoff BL, Dresing T, Burkhardt J, Khaykin Y. Remote interrogation and monitoring of implantable cardioverter defibrillators. J Interv Card Electrophysiol. 2004 Oct;11(2):161-6. \[[PubMed: 15383781](https://pubmed.ncbi.nlm.nih.gov/15383781)\]
 
 24.
-    
 
-Tarakji KG, Wazni OM, Callahan T, Kanj M, Hakim AH, Wolski K, Wilkoff BL, Saliba W, Lindsay BD. Using a novel wireless system for monitoring patients after the atrial fibrillation ablation procedure: the iTransmit study. Heart Rhythm. 2015 Mar;12(3):554-559. [[PubMed: 25460854](https://pubmed.ncbi.nlm.nih.gov/25460854)]
+Tarakji KG, Wazni OM, Callahan T, Kanj M, Hakim AH, Wolski K, Wilkoff BL, Saliba W, Lindsay BD. Using a novel wireless system for monitoring patients after the atrial fibrillation ablation procedure: the iTransmit study. Heart Rhythm. 2015 Mar;12(3):554-559. \[[PubMed: 25460854](https://pubmed.ncbi.nlm.nih.gov/25460854)\]
 
 25.
-    
 
-Lubitz SA, Faranesh AZ, Selvaggi C, Atlas SJ, McManus DD, Singer DE, Pagoto S, McConnell MV, Pantelopoulos A, Foulkes AS. Detection of Atrial Fibrillation in a Large Population Using Wearable Devices: The Fitbit Heart Study. Circulation. 2022 Nov 08;146(19):1415-1424. [[PMC free article: PMC9640290](/pmc/articles/PMC9640290/)] [[PubMed: 36148649](https://pubmed.ncbi.nlm.nih.gov/36148649)]
+Lubitz SA, Faranesh AZ, Selvaggi C, Atlas SJ, McManus DD, Singer DE, Pagoto S, McConnell MV, Pantelopoulos A, Foulkes AS. Detection of Atrial Fibrillation in a Large Population Using Wearable Devices: The Fitbit Heart Study. Circulation. 2022 Nov 08;146(19):1415-1424. \[[PMC free article: PMC9640290](/pmc/articles/PMC9640290/)\] \[[PubMed: 36148649](https://pubmed.ncbi.nlm.nih.gov/36148649)\]
 
 26.
-    
 
-Morillo CA, Baranchuk A. Current Management of Syncope: Treatment Alternatives. Curr Treat Options Cardiovasc Med. 2004 Oct;6(5):371-383. [[PubMed: 15324613](https://pubmed.ncbi.nlm.nih.gov/15324613)]
+Morillo CA, Baranchuk A. Current Management of Syncope: Treatment Alternatives. Curr Treat Options Cardiovasc Med. 2004 Oct;6(5):371-383. \[[PubMed: 15324613](https://pubmed.ncbi.nlm.nih.gov/15324613)\]
 
 27.
-    
 
-Crawford MH, Bernstein SJ, Deedwania PC, DiMarco JP, Ferrick KJ, Garson A, Green LA, Greene HL, Silka MJ, Stone PH, Tracy CM, Gibbons RJ, Alpert JS, Eagle KA, Gardner TJ, Gregoratos G, Russell RO, Ryan TJ, Smith SC. ACC/AHA guidelines for ambulatory electrocardiography: executive summary and recommendations. A report of the American College of Cardiology/American Heart Association task force on practice guidelines (committee to revise the guidelines for ambulatory electrocardiography). Circulation. 1999 Aug 24;100(8):886-93. [[PubMed: 10458728](https://pubmed.ncbi.nlm.nih.gov/10458728)]
+Crawford MH, Bernstein SJ, Deedwania PC, DiMarco JP, Ferrick KJ, Garson A, Green LA, Greene HL, Silka MJ, Stone PH, Tracy CM, Gibbons RJ, Alpert JS, Eagle KA, Gardner TJ, Gregoratos G, Russell RO, Ryan TJ, Smith SC. ACC/AHA guidelines for ambulatory electrocardiography: executive summary and recommendations. A report of the American College of Cardiology/American Heart Association task force on practice guidelines (committee to revise the guidelines for ambulatory electrocardiography). Circulation. 1999 Aug 24;100(8):886-93. \[[PubMed: 10458728](https://pubmed.ncbi.nlm.nih.gov/10458728)\]
 
 28.
-    
 
-Krahn AD, Klein GJ, Yee R, Takle-Newhouse T, Norris C. Use of an extended monitoring strategy in patients with problematic syncope. Reveal Investigators. Circulation. 1999 Jan 26;99(3):406-10. [[PubMed: 9918528](https://pubmed.ncbi.nlm.nih.gov/9918528)]
+Krahn AD, Klein GJ, Yee R, Takle-Newhouse T, Norris C. Use of an extended monitoring strategy in patients with problematic syncope. Reveal Investigators. Circulation. 1999 Jan 26;99(3):406-10. \[[PubMed: 9918528](https://pubmed.ncbi.nlm.nih.gov/9918528)\]
 
 29.
-    
 
-Locati ET, Vecchi AM, Vargiu S, Cattafi G, Lunati M. Role of extended external loop recorders for the diagnosis of unexplained syncope, pre-syncope, and sustained palpitations. Europace. 2014 Jun;16(6):914-22. [[PubMed: 24158255](https://pubmed.ncbi.nlm.nih.gov/24158255)]
+Locati ET, Vecchi AM, Vargiu S, Cattafi G, Lunati M. Role of extended external loop recorders for the diagnosis of unexplained syncope, pre-syncope, and sustained palpitations. Europace. 2014 Jun;16(6):914-22. \[[PubMed: 24158255](https://pubmed.ncbi.nlm.nih.gov/24158255)\]
 
 30.
-    
 
-Weber BE, Kapoor WN. Evaluation and outcomes of patients with palpitations. Am J Med. 1996 Feb;100(2):138-48. [[PubMed: 8629647](https://pubmed.ncbi.nlm.nih.gov/8629647)]
+Weber BE, Kapoor WN. Evaluation and outcomes of patients with palpitations. Am J Med. 1996 Feb;100(2):138-48. \[[PubMed: 8629647](https://pubmed.ncbi.nlm.nih.gov/8629647)\]
 
 31.
-    
 
-Weitz HH, Weinstock PJ. Approach to the patient with palpitations. Med Clin North Am. 1995 Mar;79(2):449-56. [[PubMed: 7877401](https://pubmed.ncbi.nlm.nih.gov/7877401)]
+Weitz HH, Weinstock PJ. Approach to the patient with palpitations. Med Clin North Am. 1995 Mar;79(2):449-56. \[[PubMed: 7877401](https://pubmed.ncbi.nlm.nih.gov/7877401)\]
 
 32.
-    
 
-Abbott AV. Diagnostic approach to palpitations. Am Fam Physician. 2005 Feb 15;71(4):743-50. [[PubMed: 15742913](https://pubmed.ncbi.nlm.nih.gov/15742913)]
+Abbott AV. Diagnostic approach to palpitations. Am Fam Physician. 2005 Feb 15;71(4):743-50. \[[PubMed: 15742913](https://pubmed.ncbi.nlm.nih.gov/15742913)\]
 
 33.
-    
 
-Chua SK, Chen LC, Lien LM, Lo HM, Liao ZY, Chao SP, Chuang CY, Chiu CZ. Comparison of Arrhythmia Detection by 24-Hour Holter and 14-Day Continuous Electrocardiography Patch Monitoring. Acta Cardiol Sin. 2020 May;36(3):251-259. [[PMC free article: PMC7220965](/pmc/articles/PMC7220965/)] [[PubMed: 32425440](https://pubmed.ncbi.nlm.nih.gov/32425440)]
+Chua SK, Chen LC, Lien LM, Lo HM, Liao ZY, Chao SP, Chuang CY, Chiu CZ. Comparison of Arrhythmia Detection by 24-Hour Holter and 14-Day Continuous Electrocardiography Patch Monitoring. Acta Cardiol Sin. 2020 May;36(3):251-259. \[[PMC free article: PMC7220965](/pmc/articles/PMC7220965/)\] \[[PubMed: 32425440](https://pubmed.ncbi.nlm.nih.gov/32425440)\]
 
 34.
-    
 
-Zimetbaum PJ, Kim KY, Josephson ME, Goldberger AL, Cohen DJ. Diagnostic yield and optimal duration of continuous-loop event monitoring for the diagnosis of palpitations. A cost-effectiveness analysis. Ann Intern Med. 1998 Jun 01;128(11):890-5. [[PubMed: 9634426](https://pubmed.ncbi.nlm.nih.gov/9634426)]
+Zimetbaum PJ, Kim KY, Josephson ME, Goldberger AL, Cohen DJ. Diagnostic yield and optimal duration of continuous-loop event monitoring for the diagnosis of palpitations. A cost-effectiveness analysis. Ann Intern Med. 1998 Jun 01;128(11):890-5. \[[PubMed: 9634426](https://pubmed.ncbi.nlm.nih.gov/9634426)\]
 
 35.
-    
 
-Stern S, Tzivoni D, Stern Z. Diagnostic accuracy of ambulatory ECG monitoring in ischemic heart disease. Circulation. 1975 Dec;52(6):1045-9. [[PubMed: 1182948](https://pubmed.ncbi.nlm.nih.gov/1182948)]
+Stern S, Tzivoni D, Stern Z. Diagnostic accuracy of ambulatory ECG monitoring in ischemic heart disease. Circulation. 1975 Dec;52(6):1045-9. \[[PubMed: 1182948](https://pubmed.ncbi.nlm.nih.gov/1182948)\]
 
 36.
-    
 
-Kennedy HL, Wiens RD. Ambulatory (Holter) electrocardiography and myocardial ischemia. Am Heart J. 1989 Jan;117(1):164-76. [[PubMed: 2643281](https://pubmed.ncbi.nlm.nih.gov/2643281)]
+Kennedy HL, Wiens RD. Ambulatory (Holter) electrocardiography and myocardial ischemia. Am Heart J. 1989 Jan;117(1):164-76. \[[PubMed: 2643281](https://pubmed.ncbi.nlm.nih.gov/2643281)\]
 
 37.
-    
 
-Crawford MH, Mendoza CA, O'Rourke RA, White DH, Boucher CA, Gorwit J. Limitations of continuous ambulatory electrocardiogram monitoring for detecting coronary artery disease. Ann Intern Med. 1978 Jul;89(1):1-5. [[PubMed: 666154](https://pubmed.ncbi.nlm.nih.gov/666154)]
+Crawford MH, Mendoza CA, O'Rourke RA, White DH, Boucher CA, Gorwit J. Limitations of continuous ambulatory electrocardiogram monitoring for detecting coronary artery disease. Ann Intern Med. 1978 Jul;89(1):1-5. \[[PubMed: 666154](https://pubmed.ncbi.nlm.nih.gov/666154)\]
 
 38.
-    
 
-de Luna AB, Cygankiewicz I, Baranchuk A, Fiol M, Birnbaum Y, Nikus K, Goldwasser D, Garcia-Niebla J, Sclarovsky S, Wellens H, Breithardt G. Prinzmetal angina: ECG changes and clinical considerations: a consensus paper. Ann Noninvasive Electrocardiol. 2014 Sep;19(5):442-53. [[PMC free article: PMC6932094](/pmc/articles/PMC6932094/)] [[PubMed: 25262663](https://pubmed.ncbi.nlm.nih.gov/25262663)]
+de Luna AB, Cygankiewicz I, Baranchuk A, Fiol M, Birnbaum Y, Nikus K, Goldwasser D, Garcia-Niebla J, Sclarovsky S, Wellens H, Breithardt G. Prinzmetal angina: ECG changes and clinical considerations: a consensus paper. Ann Noninvasive Electrocardiol. 2014 Sep;19(5):442-53. \[[PMC free article: PMC6932094](/pmc/articles/PMC6932094/)\] \[[PubMed: 25262663](https://pubmed.ncbi.nlm.nih.gov/25262663)\]
 
 39.
-    
 
-Previtali M, Klersy C, Salerno JA, Chimienti M, Panciroli C, Marangoni E, Specchia G, Comolli M, Bobba P. Ventricular tachyarrhythmias in Prinzmetal's variant angina: clinical significance and relation to the degree and time course of S-T segment elevation. Am J Cardiol. 1983 Jul;52(1):19-25. [[PubMed: 6858911](https://pubmed.ncbi.nlm.nih.gov/6858911)]
+Previtali M, Klersy C, Salerno JA, Chimienti M, Panciroli C, Marangoni E, Specchia G, Comolli M, Bobba P. Ventricular tachyarrhythmias in Prinzmetal's variant angina: clinical significance and relation to the degree and time course of S-T segment elevation. Am J Cardiol. 1983 Jul;52(1):19-25. \[[PubMed: 6858911](https://pubmed.ncbi.nlm.nih.gov/6858911)\]
 
 40.
-    
 
-Araki H, Koiwaya Y, Nakagaki O, Nakamura M. Diurnal distribution of ST-segment elevation and related arrhythmias in patients with variant angina: a study by ambulatory ECG monitoring. Circulation. 1983 May;67(5):995-1000. [[PubMed: 6682020](https://pubmed.ncbi.nlm.nih.gov/6682020)]
+Araki H, Koiwaya Y, Nakagaki O, Nakamura M. Diurnal distribution of ST-segment elevation and related arrhythmias in patients with variant angina: a study by ambulatory ECG monitoring. Circulation. 1983 May;67(5):995-1000. \[[PubMed: 6682020](https://pubmed.ncbi.nlm.nih.gov/6682020)\]
 
 41.
-    
 
-Okutucu S, Oto A. Risk stratification in nonischemic dilated cardiomyopathy: Current perspectives. Cardiol J. 2010;17(3):219-29. [[PubMed: 20535711](https://pubmed.ncbi.nlm.nih.gov/20535711)]
+Okutucu S, Oto A. Risk stratification in nonischemic dilated cardiomyopathy: Current perspectives. Cardiol J. 2010;17(3):219-29. \[[PubMed: 20535711](https://pubmed.ncbi.nlm.nih.gov/20535711)\]
 
 42.
-    
 
-Holmes J, Kubo SH, Cody RJ, Kligfield P. Arrhythmias in ischemic and nonischemic dilated cardiomyopathy: prediction of mortality by ambulatory electrocardiography. Am J Cardiol. 1985 Jan 01;55(1):146-51. [[PubMed: 3881000](https://pubmed.ncbi.nlm.nih.gov/3881000)]
+Holmes J, Kubo SH, Cody RJ, Kligfield P. Arrhythmias in ischemic and nonischemic dilated cardiomyopathy: prediction of mortality by ambulatory electrocardiography. Am J Cardiol. 1985 Jan 01;55(1):146-51. \[[PubMed: 3881000](https://pubmed.ncbi.nlm.nih.gov/3881000)\]
 
 43.
-    
 
-Teerlink JR, Jalaluddin M, Anderson S, Kukin ML, Eichhorn EJ, Francis G, Packer M, Massie BM. Ambulatory ventricular arrhythmias in patients with heart failure do not specifically predict an increased risk of sudden death. PROMISE (Prospective Randomized Milrinone Survival Evaluation) Investigators. Circulation. 2000 Jan 4-11;101(1):40-6. [[PubMed: 10618302](https://pubmed.ncbi.nlm.nih.gov/10618302)]
+Teerlink JR, Jalaluddin M, Anderson S, Kukin ML, Eichhorn EJ, Francis G, Packer M, Massie BM. Ambulatory ventricular arrhythmias in patients with heart failure do not specifically predict an increased risk of sudden death. PROMISE (Prospective Randomized Milrinone Survival Evaluation) Investigators. Circulation. 2000 Jan 4-11;101(1):40-6. \[[PubMed: 10618302](https://pubmed.ncbi.nlm.nih.gov/10618302)\]
 
 44.
-    
 
-Akhtar M, Elliott PM. Risk Stratification for Sudden Cardiac Death in Non-Ischaemic Dilated Cardiomyopathy. Curr Cardiol Rep. 2019 Nov 25;21(12):155. [[PMC free article: PMC6877704](/pmc/articles/PMC6877704/)] [[PubMed: 31768884](https://pubmed.ncbi.nlm.nih.gov/31768884)]
+Akhtar M, Elliott PM. Risk Stratification for Sudden Cardiac Death in Non-Ischaemic Dilated Cardiomyopathy. Curr Cardiol Rep. 2019 Nov 25;21(12):155. \[[PMC free article: PMC6877704](/pmc/articles/PMC6877704/)\] \[[PubMed: 31768884](https://pubmed.ncbi.nlm.nih.gov/31768884)\]
 
 45.
-    
 
-Finocchiaro G, Merlo M, Sheikh N, De Angelis G, Papadakis M, Olivotto I, Rapezzi C, Carr-White G, Sharma S, Mestroni L, Sinagra G. The electrocardiogram in the diagnosis and management of patients with dilated cardiomyopathy. Eur J Heart Fail. 2020 Jul;22(7):1097-1107. [[PubMed: 32243666](https://pubmed.ncbi.nlm.nih.gov/32243666)]
+Finocchiaro G, Merlo M, Sheikh N, De Angelis G, Papadakis M, Olivotto I, Rapezzi C, Carr-White G, Sharma S, Mestroni L, Sinagra G. The electrocardiogram in the diagnosis and management of patients with dilated cardiomyopathy. Eur J Heart Fail. 2020 Jul;22(7):1097-1107. \[[PubMed: 32243666](https://pubmed.ncbi.nlm.nih.gov/32243666)\]
 
 46.
-    
 
-Taylor MR, Fain PR, Sinagra G, Robinson ML, Robertson AD, Carniel E, Di Lenarda A, Bohlmeyer TJ, Ferguson DA, Brodsky GL, Boucek MM, Lascor J, Moss AC, Li WL, Stetler GL, Muntoni F, Bristow MR, Mestroni L., Familial Dilated Cardiomyopathy Registry Research Group. Natural history of dilated cardiomyopathy due to lamin A/C gene mutations. J Am Coll Cardiol. 2003 Mar 05;41(5):771-80. [[PubMed: 12628721](https://pubmed.ncbi.nlm.nih.gov/12628721)]
+Taylor MR, Fain PR, Sinagra G, Robinson ML, Robertson AD, Carniel E, Di Lenarda A, Bohlmeyer TJ, Ferguson DA, Brodsky GL, Boucek MM, Lascor J, Moss AC, Li WL, Stetler GL, Muntoni F, Bristow MR, Mestroni L., Familial Dilated Cardiomyopathy Registry Research Group. Natural history of dilated cardiomyopathy due to lamin A/C gene mutations. J Am Coll Cardiol. 2003 Mar 05;41(5):771-80. \[[PubMed: 12628721](https://pubmed.ncbi.nlm.nih.gov/12628721)\]
 
 47.
-    
 
-Maron BJ, Ommen SR, Semsarian C, Spirito P, Olivotto I, Maron MS. Hypertrophic cardiomyopathy: present and future, with translation into contemporary cardiovascular medicine. J Am Coll Cardiol. 2014 Jul 08;64(1):83-99. [[PubMed: 24998133](https://pubmed.ncbi.nlm.nih.gov/24998133)]
+Maron BJ, Ommen SR, Semsarian C, Spirito P, Olivotto I, Maron MS. Hypertrophic cardiomyopathy: present and future, with translation into contemporary cardiovascular medicine. J Am Coll Cardiol. 2014 Jul 08;64(1):83-99. \[[PubMed: 24998133](https://pubmed.ncbi.nlm.nih.gov/24998133)\]
 
 48.
-    
 
-Authors/Task Force members. Elliott PM, Anastasakis A, Borger MA, Borggrefe M, Cecchi F, Charron P, Hagege AA, Lafont A, Limongelli G, Mahrholdt H, McKenna WJ, Mogensen J, Nihoyannopoulos P, Nistri S, Pieper PG, Pieske B, Rapezzi C, Rutten FH, Tillmanns C, Watkins H. 2014 ESC Guidelines on diagnosis and management of hypertrophic cardiomyopathy: the Task Force for the Diagnosis and Management of Hypertrophic Cardiomyopathy of the European Society of Cardiology (ESC). Eur Heart J. 2014 Oct 14;35(39):2733-79. [[PubMed: 25173338](https://pubmed.ncbi.nlm.nih.gov/25173338)]
+Authors/Task Force members. Elliott PM, Anastasakis A, Borger MA, Borggrefe M, Cecchi F, Charron P, Hagege AA, Lafont A, Limongelli G, Mahrholdt H, McKenna WJ, Mogensen J, Nihoyannopoulos P, Nistri S, Pieper PG, Pieske B, Rapezzi C, Rutten FH, Tillmanns C, Watkins H. 2014 ESC Guidelines on diagnosis and management of hypertrophic cardiomyopathy: the Task Force for the Diagnosis and Management of Hypertrophic Cardiomyopathy of the European Society of Cardiology (ESC). Eur Heart J. 2014 Oct 14;35(39):2733-79. \[[PubMed: 25173338](https://pubmed.ncbi.nlm.nih.gov/25173338)\]
 
 49.
-    
 
-Monserrat L, Elliott PM, Gimeno JR, Sharma S, Penas-Lado M, McKenna WJ. Non-sustained ventricular tachycardia in hypertrophic cardiomyopathy: an independent marker of sudden death risk in young patients. J Am Coll Cardiol. 2003 Sep 03;42(5):873-9. [[PubMed: 12957435](https://pubmed.ncbi.nlm.nih.gov/12957435)]
+Monserrat L, Elliott PM, Gimeno JR, Sharma S, Penas-Lado M, McKenna WJ. Non-sustained ventricular tachycardia in hypertrophic cardiomyopathy: an independent marker of sudden death risk in young patients. J Am Coll Cardiol. 2003 Sep 03;42(5):873-9. \[[PubMed: 12957435](https://pubmed.ncbi.nlm.nih.gov/12957435)\]
 
 50.
-    
 
-Adabag AS, Casey SA, Kuskowski MA, Zenovich AG, Maron BJ. Spectrum and prognostic significance of arrhythmias on ambulatory Holter electrocardiogram in hypertrophic cardiomyopathy. J Am Coll Cardiol. 2005 Mar 01;45(5):697-704. [[PubMed: 15734613](https://pubmed.ncbi.nlm.nih.gov/15734613)]
+Adabag AS, Casey SA, Kuskowski MA, Zenovich AG, Maron BJ. Spectrum and prognostic significance of arrhythmias on ambulatory Holter electrocardiogram in hypertrophic cardiomyopathy. J Am Coll Cardiol. 2005 Mar 01;45(5):697-704. \[[PubMed: 15734613](https://pubmed.ncbi.nlm.nih.gov/15734613)\]
 
 51.
-    
 
-Ommen SR, Mital S, Burke MA, Day SM, Deswal A, Elliott P, Evanovich LL, Hung J, Joglar JA, Kantor P, Kimmelstiel C, Kittleson M, Link MS, Maron MS, Martinez MW, Miyake CY, Schaff HV, Semsarian C, Sorajja P. 2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2020 Dec 22;142(25):e533-e557. [[PubMed: 33215938](https://pubmed.ncbi.nlm.nih.gov/33215938)]
+Ommen SR, Mital S, Burke MA, Day SM, Deswal A, Elliott P, Evanovich LL, Hung J, Joglar JA, Kantor P, Kimmelstiel C, Kittleson M, Link MS, Maron MS, Martinez MW, Miyake CY, Schaff HV, Semsarian C, Sorajja P. 2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy: Executive Summary: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2020 Dec 22;142(25):e533-e557. \[[PubMed: 33215938](https://pubmed.ncbi.nlm.nih.gov/33215938)\]
 
 52.
-    
 
-Rusinowicz T, Zielonka TM, Zycinska K. Cardiac Arrhythmias in Patients with Exacerbation of COPD. Adv Exp Med Biol. 2017;1022:53-62. [[PubMed: 28573445](https://pubmed.ncbi.nlm.nih.gov/28573445)]
+Rusinowicz T, Zielonka TM, Zycinska K. Cardiac Arrhythmias in Patients with Exacerbation of COPD. Adv Exp Med Biol. 2017;1022:53-62. \[[PubMed: 28573445](https://pubmed.ncbi.nlm.nih.gov/28573445)\]
 
 53.
-    
 
-Konecny T, Somers KR, Park JY, John A, Orban M, Doshi R, Scanlon PD, Asirvatham SJ, Rihal CS, Brady PA. Chronic obstructive pulmonary disease as a risk factor for ventricular arrhythmias independent of left ventricular function. Heart Rhythm. 2018 Jun;15(6):832-838. [[PMC free article: PMC5882606](/pmc/articles/PMC5882606/)] [[PubMed: 28986334](https://pubmed.ncbi.nlm.nih.gov/28986334)]
+Konecny T, Somers KR, Park JY, John A, Orban M, Doshi R, Scanlon PD, Asirvatham SJ, Rihal CS, Brady PA. Chronic obstructive pulmonary disease as a risk factor for ventricular arrhythmias independent of left ventricular function. Heart Rhythm. 2018 Jun;15(6):832-838. \[[PMC free article: PMC5882606](/pmc/articles/PMC5882606/)\] \[[PubMed: 28986334](https://pubmed.ncbi.nlm.nih.gov/28986334)\]
 
 54.
-    
 
-Kleiger RE, Senior RM. Longterm electrocardiographic monitoring of ambulatory patients with chronic airway obstruction. Chest. 1974 May;65(5):483-7. [[PubMed: 4274977](https://pubmed.ncbi.nlm.nih.gov/4274977)]
+Kleiger RE, Senior RM. Longterm electrocardiographic monitoring of ambulatory patients with chronic airway obstruction. Chest. 1974 May;65(5):483-7. \[[PubMed: 4274977](https://pubmed.ncbi.nlm.nih.gov/4274977)\]
 
 55.
-    
 
-Foley RN. Clinical epidemiology of cardiac disease in dialysis patients: left ventricular hypertrophy, ischemic heart disease, and cardiac failure. Semin Dial. 2003 Mar-Apr;16(2):111-7. [[PubMed: 12641874](https://pubmed.ncbi.nlm.nih.gov/12641874)]
+Foley RN. Clinical epidemiology of cardiac disease in dialysis patients: left ventricular hypertrophy, ischemic heart disease, and cardiac failure. Semin Dial. 2003 Mar-Apr;16(2):111-7. \[[PubMed: 12641874](https://pubmed.ncbi.nlm.nih.gov/12641874)\]
 
 56.
-    
 
-Selby NM, McIntyre CW. The acute cardiac effects of dialysis. Semin Dial. 2007 May-Jun;20(3):220-8. [[PubMed: 17555488](https://pubmed.ncbi.nlm.nih.gov/17555488)]
+Selby NM, McIntyre CW. The acute cardiac effects of dialysis. Semin Dial. 2007 May-Jun;20(3):220-8. \[[PubMed: 17555488](https://pubmed.ncbi.nlm.nih.gov/17555488)\]
 
 57.
-    
 
-Buiten MS, de Bie MK, Rotmans JI, Gabreëls BA, van Dorp W, Wolterbeek R, Trines SA, Schalij MJ, Jukema JW, Rabelink TJ, van Erven L. The dialysis procedure as a trigger for atrial fibrillation: new insights in the development of atrial fibrillation in dialysis patients. Heart. 2014 May;100(9):685-90. [[PubMed: 24670418](https://pubmed.ncbi.nlm.nih.gov/24670418)]
+Buiten MS, de Bie MK, Rotmans JI, Gabreëls BA, van Dorp W, Wolterbeek R, Trines SA, Schalij MJ, Jukema JW, Rabelink TJ, van Erven L. The dialysis procedure as a trigger for atrial fibrillation: new insights in the development of atrial fibrillation in dialysis patients. Heart. 2014 May;100(9):685-90. \[[PubMed: 24670418](https://pubmed.ncbi.nlm.nih.gov/24670418)\]
 
 58.
-    
 
-Rantanen JM, Riahi S, Schmidt EB, Johansen MB, Søgaard P, Christensen JH. Arrhythmias in Patients on Maintenance Dialysis: A Cross-sectional Study. Am J Kidney Dis. 2020 Feb;75(2):214-224. [[PubMed: 31542235](https://pubmed.ncbi.nlm.nih.gov/31542235)]
+Rantanen JM, Riahi S, Schmidt EB, Johansen MB, Søgaard P, Christensen JH. Arrhythmias in Patients on Maintenance Dialysis: A Cross-sectional Study. Am J Kidney Dis. 2020 Feb;75(2):214-224. \[[PubMed: 31542235](https://pubmed.ncbi.nlm.nih.gov/31542235)\]
 
 59.
-    
 
-Harrison DC, Fitzgerald JW, Winkle RA. Ambulatory electrocardiography for diagnosis and treatment of cardiac arrhythmias. N Engl J Med. 1976 Feb 12;294(7):373-80. [[PubMed: 1107844](https://pubmed.ncbi.nlm.nih.gov/1107844)]
+Harrison DC, Fitzgerald JW, Winkle RA. Ambulatory electrocardiography for diagnosis and treatment of cardiac arrhythmias. N Engl J Med. 1976 Feb 12;294(7):373-80. \[[PubMed: 1107844](https://pubmed.ncbi.nlm.nih.gov/1107844)\]
 
 60.
-    
 
-Winkle RA, Lopes MG, Fitzgerald JW, Goodman DJ, Schroeder JS, Harrison DC. Arrhythmias in patients with mitral valve prolapse. Circulation. 1975 Jul;52(1):73-81. [[PubMed: 1132123](https://pubmed.ncbi.nlm.nih.gov/1132123)]
+Winkle RA, Lopes MG, Fitzgerald JW, Goodman DJ, Schroeder JS, Harrison DC. Arrhythmias in patients with mitral valve prolapse. Circulation. 1975 Jul;52(1):73-81. \[[PubMed: 1132123](https://pubmed.ncbi.nlm.nih.gov/1132123)\]
 
 61.
-    
 
-Klein GJ, Gulamhusein SS. Intermittent preexcitation in the Wolff-Parkinson-White syndrome. Am J Cardiol. 1983 Aug;52(3):292-6. [[PubMed: 6869275](https://pubmed.ncbi.nlm.nih.gov/6869275)]
+Klein GJ, Gulamhusein SS. Intermittent preexcitation in the Wolff-Parkinson-White syndrome. Am J Cardiol. 1983 Aug;52(3):292-6. \[[PubMed: 6869275](https://pubmed.ncbi.nlm.nih.gov/6869275)\]
 
 62.
-    
 
-Hindman MC, Last JH, Rosen KM. Wolff-Parkinson-White syndrome observed by portable monitoring. Ann Intern Med. 1973 Nov;79(5):654-63. [[PubMed: 4751741](https://pubmed.ncbi.nlm.nih.gov/4751741)]
+Hindman MC, Last JH, Rosen KM. Wolff-Parkinson-White syndrome observed by portable monitoring. Ann Intern Med. 1973 Nov;79(5):654-63. \[[PubMed: 4751741](https://pubmed.ncbi.nlm.nih.gov/4751741)\]
 
 63.
-    
 
-Kusumoto FM, Schoenfeld MH, Barrett C, Edgerton JR, Ellenbogen KA, Gold MR, Goldschlager NF, Hamilton RM, Joglar JA, Kim RJ, Lee R, Marine JE, McLeod CJ, Oken KR, Patton KK, Pellegrini CN, Selzman KA, Thompson A, Varosy PD. 2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2019 Aug 20;74(7):e51-e156. [[PubMed: 30412709](https://pubmed.ncbi.nlm.nih.gov/30412709)]
+Kusumoto FM, Schoenfeld MH, Barrett C, Edgerton JR, Ellenbogen KA, Gold MR, Goldschlager NF, Hamilton RM, Joglar JA, Kim RJ, Lee R, Marine JE, McLeod CJ, Oken KR, Patton KK, Pellegrini CN, Selzman KA, Thompson A, Varosy PD. 2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2019 Aug 20;74(7):e51-e156. \[[PubMed: 30412709](https://pubmed.ncbi.nlm.nih.gov/30412709)\]
 
 64.
-    
 
-Ferrer MI. The sick sinus syndrome in atrial disease. JAMA. 1968 Oct 14;206(3):645-6. [[PubMed: 5695590](https://pubmed.ncbi.nlm.nih.gov/5695590)]
+Ferrer MI. The sick sinus syndrome in atrial disease. JAMA. 1968 Oct 14;206(3):645-6. \[[PubMed: 5695590](https://pubmed.ncbi.nlm.nih.gov/5695590)\]
 
 65.
-    
 
-Kaplan BM, Langendorf R, Lev M, Pick A. Tachycardia-bradycardia syndrome (so-called "sick sinus syndrome"). Pathology, mechanisms and treatment. Am J Cardiol. 1973 Apr;31(4):497-508. [[PubMed: 4692587](https://pubmed.ncbi.nlm.nih.gov/4692587)]
+Kaplan BM, Langendorf R, Lev M, Pick A. Tachycardia-bradycardia syndrome (so-called "sick sinus syndrome"). Pathology, mechanisms and treatment. Am J Cardiol. 1973 Apr;31(4):497-508. \[[PubMed: 4692587](https://pubmed.ncbi.nlm.nih.gov/4692587)\]
 
 66.
-    
 
-Hersi AS. Obstructive sleep apnea and cardiac arrhythmias. Ann Thorac Med. 2010 Jan;5(1):10-7. [[PMC free article: PMC2841803](/pmc/articles/PMC2841803/)] [[PubMed: 20351955](https://pubmed.ncbi.nlm.nih.gov/20351955)]
+Hersi AS. Obstructive sleep apnea and cardiac arrhythmias. Ann Thorac Med. 2010 Jan;5(1):10-7. \[[PMC free article: PMC2841803](/pmc/articles/PMC2841803/)\] \[[PubMed: 20351955](https://pubmed.ncbi.nlm.nih.gov/20351955)\]
 
 67.
-    
 
-Guilleminault C, Connolly SJ, Winkle RA. Cardiac arrhythmia and conduction disturbances during sleep in 400 patients with sleep apnea syndrome. Am J Cardiol. 1983 Sep 01;52(5):490-4. [[PubMed: 6193700](https://pubmed.ncbi.nlm.nih.gov/6193700)]
+Guilleminault C, Connolly SJ, Winkle RA. Cardiac arrhythmia and conduction disturbances during sleep in 400 patients with sleep apnea syndrome. Am J Cardiol. 1983 Sep 01;52(5):490-4. \[[PubMed: 6193700](https://pubmed.ncbi.nlm.nih.gov/6193700)\]
 
 68.
-    
 
-Javaheri S, Parker TJ, Liming JD, Corbett WS, Nishiyama H, Wexler L, Roselle GA. Sleep apnea in 81 ambulatory male patients with stable heart failure. Types and their prevalences, consequences, and presentations. Circulation. 1998 Jun 02;97(21):2154-9. [[PubMed: 9626176](https://pubmed.ncbi.nlm.nih.gov/9626176)]
+Javaheri S, Parker TJ, Liming JD, Corbett WS, Nishiyama H, Wexler L, Roselle GA. Sleep apnea in 81 ambulatory male patients with stable heart failure. Types and their prevalences, consequences, and presentations. Circulation. 1998 Jun 02;97(21):2154-9. \[[PubMed: 9626176](https://pubmed.ncbi.nlm.nih.gov/9626176)\]
 
 69.
-    
 
-Lao M, Ou Q, Li C, Wang Q, Yuan P, Cheng Y. The predictive value of Holter monitoring in the risk of obstructive sleep apnea. J Thorac Dis. 2021 Mar;13(3):1872-1881. [[PMC free article: PMC8024822](/pmc/articles/PMC8024822/)] [[PubMed: 33841975](https://pubmed.ncbi.nlm.nih.gov/33841975)]
+Lao M, Ou Q, Li C, Wang Q, Yuan P, Cheng Y. The predictive value of Holter monitoring in the risk of obstructive sleep apnea. J Thorac Dis. 2021 Mar;13(3):1872-1881. \[[PMC free article: PMC8024822](/pmc/articles/PMC8024822/)\] \[[PubMed: 33841975](https://pubmed.ncbi.nlm.nih.gov/33841975)\]
 
 70.
-    
 
-Muntané-Carol G, Philippon F, Nault I, Faroux L, Alperi A, Mittal S, Rodés-Cabau J. Ambulatory Electrocardiogram Monitoring in Patients Undergoing Transcatheter Aortic Valve Replacement: JACC State-of-the-Art Review. J Am Coll Cardiol. 2021 Mar 16;77(10):1344-1356. [[PubMed: 33706878](https://pubmed.ncbi.nlm.nih.gov/33706878)]
+Muntané-Carol G, Philippon F, Nault I, Faroux L, Alperi A, Mittal S, Rodés-Cabau J. Ambulatory Electrocardiogram Monitoring in Patients Undergoing Transcatheter Aortic Valve Replacement: JACC State-of-the-Art Review. J Am Coll Cardiol. 2021 Mar 16;77(10):1344-1356. \[[PubMed: 33706878](https://pubmed.ncbi.nlm.nih.gov/33706878)\]
 
 71.
-    
 
-Sandau KE, Funk M, Auerbach A, Barsness GW, Blum K, Cvach M, Lampert R, May JL, McDaniel GM, Perez MV, Sendelbach S, Sommargren CE, Wang PJ., American Heart Association Council on Cardiovascular and Stroke Nursing; Council on Clinical Cardiology; and Council on Cardiovascular Disease in the Young. Update to Practice Standards for Electrocardiographic Monitoring in Hospital Settings: A Scientific Statement From the American Heart Association. Circulation. 2017 Nov 07;136(19):e273-e344. [[PubMed: 28974521](https://pubmed.ncbi.nlm.nih.gov/28974521)]
+Sandau KE, Funk M, Auerbach A, Barsness GW, Blum K, Cvach M, Lampert R, May JL, McDaniel GM, Perez MV, Sendelbach S, Sommargren CE, Wang PJ., American Heart Association Council on Cardiovascular and Stroke Nursing; Council on Clinical Cardiology; and Council on Cardiovascular Disease in the Young. Update to Practice Standards for Electrocardiographic Monitoring in Hospital Settings: A Scientific Statement From the American Heart Association. Circulation. 2017 Nov 07;136(19):e273-e344. \[[PubMed: 28974521](https://pubmed.ncbi.nlm.nih.gov/28974521)\]
 
 72.
-    
 
-Brignole M, Moya A, de Lange FJ, Deharo JC, Elliott PM, Fanciulli A, Fedorowski A, Furlan R, Kenny RA, Martín A, Probst V, Reed MJ, Rice CP, Sutton R, Ungar A, van Dijk JG., ESC Scientific Document Group. 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J. 2018 Jun 01;39(21):1883-1948. [[PubMed: 29562304](https://pubmed.ncbi.nlm.nih.gov/29562304)]
-
-    
+Brignole M, Moya A, de Lange FJ, Deharo JC, Elliott PM, Fanciulli A, Fedorowski A, Furlan R, Kenny RA, Martín A, Probst V, Reed MJ, Rice CP, Sutton R, Ungar A, van Dijk JG., ESC Scientific Document Group. 2018 ESC Guidelines for the diagnosis and management of syncope. Eur Heart J. 2018 Jun 01;39(21):1883-1948. \[[PubMed: 29562304](https://pubmed.ncbi.nlm.nih.gov/29562304)\]
 
 **Disclosure:** Daniel Fabian declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Intisar Ahmed declares no relevant financial relationships with ineligible companies.

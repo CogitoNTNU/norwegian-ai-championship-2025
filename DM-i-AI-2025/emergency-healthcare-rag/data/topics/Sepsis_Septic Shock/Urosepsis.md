@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30873/
-scraped_date: 2025-07-22 12:42:06 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30873/ scraped_date: 2025-07-22 12:42:06 UTC
 
 # Urosepsis
 
@@ -29,13 +28,13 @@ Sepsis is a systemic inflammatory response to infection that can lead to multi-o
 
 **Objectives:**
 
-  * Identify the pathophysiology of urosepsis.
+- Identify the pathophysiology of urosepsis.
 
-  * Review the presentation of a patient with urosepsis.
+- Review the presentation of a patient with urosepsis.
 
-  * Summarize the treatment and management options available for urosepsis.
+- Summarize the treatment and management options available for urosepsis.
 
-  * Explain the importance of the interprofessional team in ensuring appropriate antibiotic administration in the management of patients with urosepsis.
+- Explain the importance of the interprofessional team in ensuring appropriate antibiotic administration in the management of patients with urosepsis.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30873&utm_source=pubmed&utm_campaign=reviews&utm_content=30873)
 
@@ -45,7 +44,7 @@ Sepsis is a clinical syndrome that is characterized by physiologic, biologic, an
 
 ## Etiology
 
-The most common pathogen causing urinary tract infections (UTIs), and in turn urosepsis, is  _Escherichia coli_ (50%), followed by _Proteus_(15%), _Enterobacter_(15%), _Klebsiella_(15%), _Pseudomonas aeruginosa_ (5%), and gram-positive bacteria (15%).[3][4]
+The most common pathogen causing urinary tract infections (UTIs), and in turn urosepsis, is _Escherichia coli_ (50%), followed by _Proteus_(15%), _Enterobacter_(15%), _Klebsiella_(15%), _Pseudomonas aeruginosa_ (5%), and gram-positive bacteria (15%).[3][4]
 
 ## Epidemiology
 
@@ -89,19 +88,19 @@ If the patient has a complicating factor in the urinary tract that is identified
 
 Urosepsis, as mentioned above, includes a spectrum of urogenital tract infections, which may present differently, depending on the region and the extent of infection. It is important to probe the cause of infection, to treat them accordingly. Some of the causes are listed below:
 
-  * Urinary tract infection
+- Urinary tract infection
 
-  * Cystitis
+- Cystitis
 
-  * Pyelonephritis
+- Pyelonephritis
 
-  * Acute bacterial prostatitis
+- Acute bacterial prostatitis
 
-  * Prostatic abscess
+- Prostatic abscess
 
-  * Renal abscess
+- Renal abscess
 
-  * Urolithiasis
+- Urolithiasis
 
 ## Complications
 
@@ -111,7 +110,7 @@ Urosepsis is a treatable condition. However, delayed management can lead to seve
 
 Patients with risk factors for UTIs should be encouraged to seek care promptly if they develop symptoms of a UTI. Patients should also be made aware of the importance of adhering to their prescribed medication regimen.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Urosepsis is best managed with an interprofessional team of health professionals that include a nephrologist, infectious disease expert, urologist, intensivist, a nurse, and a pharmacist. The key to preventing high morbidity is to prevent the condition that promotes infection. Any urological abnormality that is present needs to be corrected. The pharmacist should ensure that there is no delay in the administration of the antibiotics. The nurse should closely monitor the patient for signs of sepsis and communicate with the healthcare provider. Many of these patients require ICU care with close monitoring and frequent radiological studies. [Level 5][19][20]
 
@@ -121,132 +120,104 @@ The outcomes after urosepsis depend on the cause and severity of the infection. 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30873&utm_source=pubmed&utm_campaign=reviews&utm_content=30873)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30873&utm_source=pubmed&utm_campaign=reviews&utm_content=30873)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/kidney-health/urosepsis-urine-infection/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=30873)
+- [Click here for a simplified version.](https://mdsearchlight.com/kidney-health/urosepsis-urine-infection/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=30873)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30873/?utm_source=pubmed&utm_campaign=comments&utm_content=30873)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30873/?utm_source=pubmed&utm_campaign=comments&utm_content=30873)
 
 ## References
 
 1.
-    
 
-Björck V, Påhlman LI, Bodelsson M, Petersson AC, Kander T. Morbidity and mortality in critically ill patients with invasive group A streptococcus infection: an observational study. Crit Care. 2020 Jun 06;24(1):302. [[PMC free article: PMC7275847](/pmc/articles/PMC7275847/)] [[PubMed: 32505194](https://pubmed.ncbi.nlm.nih.gov/32505194)]
+Björck V, Påhlman LI, Bodelsson M, Petersson AC, Kander T. Morbidity and mortality in critically ill patients with invasive group A streptococcus infection: an observational study. Crit Care. 2020 Jun 06;24(1):302. \[[PMC free article: PMC7275847](/pmc/articles/PMC7275847/)\] \[[PubMed: 32505194](https://pubmed.ncbi.nlm.nih.gov/32505194)\]
 
 2.
-    
 
-Shimoni Z, Salah M, Kasem A, Hermush V, Froom P. Bacterial Resistance to Cephalosporin Treatment in Elderly Stable Patients Hospitalized With a Urinary Tract Infection. Am J Med Sci. 2020 Sep;360(3):243-247. [[PubMed: 32482350](https://pubmed.ncbi.nlm.nih.gov/32482350)]
+Shimoni Z, Salah M, Kasem A, Hermush V, Froom P. Bacterial Resistance to Cephalosporin Treatment in Elderly Stable Patients Hospitalized With a Urinary Tract Infection. Am J Med Sci. 2020 Sep;360(3):243-247. \[[PubMed: 32482350](https://pubmed.ncbi.nlm.nih.gov/32482350)\]
 
 3.
-    
 
-Vikrant S, Gupta D, Singh M. Epidemiology and outcome of acute kidney injury from a tertiary care hospital in India. Saudi J Kidney Dis Transpl. 2018 Jul-Aug;29(4):956-966. [[PubMed: 30152435](https://pubmed.ncbi.nlm.nih.gov/30152435)]
+Vikrant S, Gupta D, Singh M. Epidemiology and outcome of acute kidney injury from a tertiary care hospital in India. Saudi J Kidney Dis Transpl. 2018 Jul-Aug;29(4):956-966. \[[PubMed: 30152435](https://pubmed.ncbi.nlm.nih.gov/30152435)\]
 
 4.
-    
 
-Scotland KB, Lange D. Prevention and management of urosepsis triggered by ureteroscopy. Res Rep Urol. 2018;10:43-49. [[PMC free article: PMC6038880](/pmc/articles/PMC6038880/)] [[PubMed: 30013956](https://pubmed.ncbi.nlm.nih.gov/30013956)]
+Scotland KB, Lange D. Prevention and management of urosepsis triggered by ureteroscopy. Res Rep Urol. 2018;10:43-49. \[[PMC free article: PMC6038880](/pmc/articles/PMC6038880/)\] \[[PubMed: 30013956](https://pubmed.ncbi.nlm.nih.gov/30013956)\]
 
 5.
-    
 
-Liu YQ, Lu J, Hao YC, Xiao CL, Ma LL. [Predicting model based on risk factors for urosepsis after percutaneous nephrolithotomy]. Beijing Da Xue Xue Bao Yi Xue Ban. 2018 Jun 18;50(3):507-513. [[PubMed: 29930421](https://pubmed.ncbi.nlm.nih.gov/29930421)]
+Liu YQ, Lu J, Hao YC, Xiao CL, Ma LL. [Predicting model based on risk factors for urosepsis after percutaneous nephrolithotomy]. Beijing Da Xue Xue Bao Yi Xue Ban. 2018 Jun 18;50(3):507-513. \[[PubMed: 29930421](https://pubmed.ncbi.nlm.nih.gov/29930421)\]
 
 6.
-    
 
-Kozyrakis D, Perikleous S, Chatzistamou SE, Kateris D, Soukias G, Karatzas A, Dimitriadis I. Is There a Role for Double J Stent Culture in Contemporary Urology? Urol Int. 2018;100(2):203-208. [[PubMed: 29421810](https://pubmed.ncbi.nlm.nih.gov/29421810)]
+Kozyrakis D, Perikleous S, Chatzistamou SE, Kateris D, Soukias G, Karatzas A, Dimitriadis I. Is There a Role for Double J Stent Culture in Contemporary Urology? Urol Int. 2018;100(2):203-208. \[[PubMed: 29421810](https://pubmed.ncbi.nlm.nih.gov/29421810)\]
 
 7.
-    
 
-Sarhan M, von Mässenhausen A, Hugo C, Oberbauer R, Linkermann A. Immunological consequences of kidney cell death. Cell Death Dis. 2018 Jan 25;9(2):114. [[PMC free article: PMC5833784](/pmc/articles/PMC5833784/)] [[PubMed: 29371597](https://pubmed.ncbi.nlm.nih.gov/29371597)]
+Sarhan M, von Mässenhausen A, Hugo C, Oberbauer R, Linkermann A. Immunological consequences of kidney cell death. Cell Death Dis. 2018 Jan 25;9(2):114. \[[PMC free article: PMC5833784](/pmc/articles/PMC5833784/)\] \[[PubMed: 29371597](https://pubmed.ncbi.nlm.nih.gov/29371597)\]
 
 8.
-    
 
-Kodner CM, Thomas Gupton EK. Recurrent urinary tract infections in women: diagnosis and management. Am Fam Physician. 2010 Sep 15;82(6):638-43. [[PubMed: 20842992](https://pubmed.ncbi.nlm.nih.gov/20842992)]
+Kodner CM, Thomas Gupton EK. Recurrent urinary tract infections in women: diagnosis and management. Am Fam Physician. 2010 Sep 15;82(6):638-43. \[[PubMed: 20842992](https://pubmed.ncbi.nlm.nih.gov/20842992)\]
 
 9.
-    
 
-Saade A, Styczynski J, Cesaro S., Infectious Disease Working party of EBMT. BK virus infection in allogeneic hematopoietic cell transplantation: An update on pathogenesis, immune responses, diagnosis and treatments. J Infect. 2020 Sep;81(3):372-382. [[PubMed: 32526327](https://pubmed.ncbi.nlm.nih.gov/32526327)]
+Saade A, Styczynski J, Cesaro S., Infectious Disease Working party of EBMT. BK virus infection in allogeneic hematopoietic cell transplantation: An update on pathogenesis, immune responses, diagnosis and treatments. J Infect. 2020 Sep;81(3):372-382. \[[PubMed: 32526327](https://pubmed.ncbi.nlm.nih.gov/32526327)\]
 
 10.
-    
 
-Parlak E. A case of glomerulonephritis caused by brucellosis. Trop Doct. 2020 Oct;50(4):360-361. [[PubMed: 32508259](https://pubmed.ncbi.nlm.nih.gov/32508259)]
+Parlak E. A case of glomerulonephritis caused by brucellosis. Trop Doct. 2020 Oct;50(4):360-361. \[[PubMed: 32508259](https://pubmed.ncbi.nlm.nih.gov/32508259)\]
 
 11.
-    
 
-Reddivari AKR, Mehta P. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 8, 2023. Prostatic Abscess. [[PubMed: 31869127](https://pubmed.ncbi.nlm.nih.gov/31869127)]
+Reddivari AKR, Mehta P. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 8, 2023. Prostatic Abscess. \[[PubMed: 31869127](https://pubmed.ncbi.nlm.nih.gov/31869127)\]
 
 12.
-    
 
-Vigil HR, Hickling DR. Urinary tract infection in the neurogenic bladder. Transl Androl Urol. 2016 Feb;5(1):72-87. [[PMC free article: PMC4739987](/pmc/articles/PMC4739987/)] [[PubMed: 26904414](https://pubmed.ncbi.nlm.nih.gov/26904414)]
+Vigil HR, Hickling DR. Urinary tract infection in the neurogenic bladder. Transl Androl Urol. 2016 Feb;5(1):72-87. \[[PMC free article: PMC4739987](/pmc/articles/PMC4739987/)\] \[[PubMed: 26904414](https://pubmed.ncbi.nlm.nih.gov/26904414)\]
 
 13.
-    
 
-Dreger NM, Degener S, Ahmad-Nejad P, Wöbker G, Roth S. Urosepsis--Etiology, Diagnosis, and Treatment. Dtsch Arztebl Int. 2015 Dec 04;112(49):837-47; quiz 848. [[PMC free article: PMC4711296](/pmc/articles/PMC4711296/)] [[PubMed: 26754121](https://pubmed.ncbi.nlm.nih.gov/26754121)]
+Dreger NM, Degener S, Ahmad-Nejad P, Wöbker G, Roth S. Urosepsis--Etiology, Diagnosis, and Treatment. Dtsch Arztebl Int. 2015 Dec 04;112(49):837-47; quiz 848. \[[PMC free article: PMC4711296](/pmc/articles/PMC4711296/)\] \[[PubMed: 26754121](https://pubmed.ncbi.nlm.nih.gov/26754121)\]
 
 14.
-    
 
-Morin A, Bergevin M, Rivest N, Lapointe SP. Antibiotic prophylaxis for transrectal ultrasound-guided prostate needle biopsy: Compared efficacy of ciprofloxacin vs. the ciprofloxacin/fosfomycin tromethamine combination. Can Urol Assoc J. 2020 Aug;14(8):267-272. [[PMC free article: PMC7402688](/pmc/articles/PMC7402688/)] [[PubMed: 32209218](https://pubmed.ncbi.nlm.nih.gov/32209218)]
+Morin A, Bergevin M, Rivest N, Lapointe SP. Antibiotic prophylaxis for transrectal ultrasound-guided prostate needle biopsy: Compared efficacy of ciprofloxacin vs. the ciprofloxacin/fosfomycin tromethamine combination. Can Urol Assoc J. 2020 Aug;14(8):267-272. \[[PMC free article: PMC7402688](/pmc/articles/PMC7402688/)\] \[[PubMed: 32209218](https://pubmed.ncbi.nlm.nih.gov/32209218)\]
 
 15.
-    
 
-Caron F, Galperine T, Flateau C, Azria R, Bonacorsi S, Bruyère F, Cariou G, Clouqueur E, Cohen R, Doco-Lecompte T, Elefant E, Faure K, Gauzit R, Gavazzi G, Lemaitre L, Raymond J, Senneville E, Sotto A, Subtil D, Trivalle C, Merens A, Etienne M. Practice guidelines for the management of adult community-acquired urinary tract infections. Med Mal Infect. 2018 Aug;48(5):327-358. [[PubMed: 29759852](https://pubmed.ncbi.nlm.nih.gov/29759852)]
+Caron F, Galperine T, Flateau C, Azria R, Bonacorsi S, Bruyère F, Cariou G, Clouqueur E, Cohen R, Doco-Lecompte T, Elefant E, Faure K, Gauzit R, Gavazzi G, Lemaitre L, Raymond J, Senneville E, Sotto A, Subtil D, Trivalle C, Merens A, Etienne M. Practice guidelines for the management of adult community-acquired urinary tract infections. Med Mal Infect. 2018 Aug;48(5):327-358. \[[PubMed: 29759852](https://pubmed.ncbi.nlm.nih.gov/29759852)\]
 
 16.
-    
 
-Wagenlehner FM, Tandogdu Z, Bjerklund Johansen TE. An update on classification and management of urosepsis. Curr Opin Urol. 2017 Mar;27(2):133-137. [[PubMed: 27846034](https://pubmed.ncbi.nlm.nih.gov/27846034)]
+Wagenlehner FM, Tandogdu Z, Bjerklund Johansen TE. An update on classification and management of urosepsis. Curr Opin Urol. 2017 Mar;27(2):133-137. \[[PubMed: 27846034](https://pubmed.ncbi.nlm.nih.gov/27846034)\]
 
 17.
-    
 
-Reynolds LF, Kroczak T, Pace KT, D'Arcy Honey RJ, Ordon M, Lee JY. Are Routine Laboratory Investigations Necessary Following Percutaneous Nephrolithotomy? Urology. 2020 Sep;143:80-84. [[PubMed: 32473206](https://pubmed.ncbi.nlm.nih.gov/32473206)]
+Reynolds LF, Kroczak T, Pace KT, D'Arcy Honey RJ, Ordon M, Lee JY. Are Routine Laboratory Investigations Necessary Following Percutaneous Nephrolithotomy? Urology. 2020 Sep;143:80-84. \[[PubMed: 32473206](https://pubmed.ncbi.nlm.nih.gov/32473206)\]
 
 18.
-    
 
-Grüne B, Viehweger V, Waldbillig F, Nientiedt M, Kriegmair MC, Rassweiler-Seyfried MC, Ritter M. Preoperative urine culture - Is it necessary to prevent infectious complications following ureterorenoscopy? J Microbiol Methods. 2020 Jun;173:105933. [[PubMed: 32325160](https://pubmed.ncbi.nlm.nih.gov/32325160)]
+Grüne B, Viehweger V, Waldbillig F, Nientiedt M, Kriegmair MC, Rassweiler-Seyfried MC, Ritter M. Preoperative urine culture - Is it necessary to prevent infectious complications following ureterorenoscopy? J Microbiol Methods. 2020 Jun;173:105933. \[[PubMed: 32325160](https://pubmed.ncbi.nlm.nih.gov/32325160)\]
 
 19.
-    
 
-Heppner HJ, Yapan F, Wiedemann A. [Urosepsis in Geriatric Patients]. Aktuelle Urol. 2016 Feb;47(1):54-9. [[PubMed: 26916045](https://pubmed.ncbi.nlm.nih.gov/26916045)]
+Heppner HJ, Yapan F, Wiedemann A. [Urosepsis in Geriatric Patients]. Aktuelle Urol. 2016 Feb;47(1):54-9. \[[PubMed: 26916045](https://pubmed.ncbi.nlm.nih.gov/26916045)\]
 
 20.
-    
 
-Goveas B. Urosepsis: A simple infection turns toxic. Nurse Pract. 2017 Jul 15;42(7):53-54. [[PubMed: 28622259](https://pubmed.ncbi.nlm.nih.gov/28622259)]
+Goveas B. Urosepsis: A simple infection turns toxic. Nurse Pract. 2017 Jul 15;42(7):53-54. \[[PubMed: 28622259](https://pubmed.ncbi.nlm.nih.gov/28622259)\]
 
 21.
-    
 
-Pietropaolo A, Hendry J, Kyriakides R, Geraghty R, Jones P, Aboumarzouk O, Somani BK. Outcomes of Elective Ureteroscopy for Ureteric Stones in Patients with Prior Urosepsis and Emergency Drainage: Prospective Study over 5 yr from a Tertiary Endourology Centre. Eur Urol Focus. 2020 Jan 15;6(1):151-156. [[PubMed: 30219711](https://pubmed.ncbi.nlm.nih.gov/30219711)]
+Pietropaolo A, Hendry J, Kyriakides R, Geraghty R, Jones P, Aboumarzouk O, Somani BK. Outcomes of Elective Ureteroscopy for Ureteric Stones in Patients with Prior Urosepsis and Emergency Drainage: Prospective Study over 5 yr from a Tertiary Endourology Centre. Eur Urol Focus. 2020 Jan 15;6(1):151-156. \[[PubMed: 30219711](https://pubmed.ncbi.nlm.nih.gov/30219711)\]
 
 22.
-    
 
-Zhu Z, Cui Y, Zeng F, Li Y, Chen Z, Hequn C. Comparison of suctioning and traditional ureteral access sheath during flexible ureteroscopy in the treatment of renal stones. World J Urol. 2019 May;37(5):921-929. [[PubMed: 30120500](https://pubmed.ncbi.nlm.nih.gov/30120500)]
-
-    
+Zhu Z, Cui Y, Zeng F, Li Y, Chen Z, Hequn C. Comparison of suctioning and traditional ureteral access sheath during flexible ureteroscopy in the treatment of renal stones. World J Urol. 2019 May;37(5):921-929. \[[PubMed: 30120500](https://pubmed.ncbi.nlm.nih.gov/30120500)\]
 
 **Disclosure:** Avital Porat declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Beenish Bhutta declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Stuart Kesler declares no relevant financial relationships with ineligible companies.

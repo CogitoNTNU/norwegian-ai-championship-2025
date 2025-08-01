@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24962/
-scraped_date: 2025-07-22 12:44:00 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24962/ scraped_date: 2025-07-22 12:44:00 UTC
 
 # Meningitis
 
@@ -27,13 +26,13 @@ In spite of breakthroughs in diagnosis, treatment, and vaccination, in 2015 ther
 
 **Objectives:**
 
-  * Review the causes of meningitis.
+- Review the causes of meningitis.
 
-  * Describe the presentation of a patient with meningitis.
+- Describe the presentation of a patient with meningitis.
 
-  * Summarize the treatment of meningitis.
+- Summarize the treatment of meningitis.
 
-  * Describe modalities to improve care coordination among interprofessional team members in order to improve outcomes for patients affected by meningitis.
+- Describe modalities to improve care coordination among interprofessional team members in order to improve outcomes for patients affected by meningitis.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24962&utm_source=pubmed&utm_campaign=reviews&utm_content=24962)
 
@@ -55,36 +54,37 @@ The infectious etiologic agents of meningitis include bacteria, viruses, fungi, 
 
 Risk factors for meningitis include:
 
-  * Chronic medical disorders (renal failure, diabetes, adrenal insufficiency, cystic fibrosis)
+- Chronic medical disorders (renal failure, diabetes, adrenal insufficiency, cystic fibrosis)
 
-  * Extremes of age
+- Extremes of age
 
-  * Undervaccination
+- Undervaccination
 
-  * Immunosuppressed states (iatrogenic, transplant recipients, congenital immunodeficiencies, AIDS)
+- Immunosuppressed states (iatrogenic, transplant recipients, congenital immunodeficiencies, AIDS)
 
-  * Living in crowded conditions
+- Living in crowded conditions
 
-  * Exposures: 
-    * Travel to endemic areas (Southwestern U.S. for cocci; Northeastern U.S. for Lyme disease)
+- Exposures:
 
-    * Vectors (mosquitoes, ticks)
+  - Travel to endemic areas (Southwestern U.S. for cocci; Northeastern U.S. for Lyme disease)
 
-  * Alcohol use disorder
+  - Vectors (mosquitoes, ticks)
 
-  * Presence of ventriculoperitoneal (VP) shunt
+- Alcohol use disorder
 
-  * Bacterial endocarditis
+- Presence of ventriculoperitoneal (VP) shunt
 
-  * Malignancy
+- Bacterial endocarditis
 
-  * Dural defects
+- Malignancy
 
-  * IV drug use
+- Dural defects
 
-  * Sickle cell anemia
+- IV drug use
 
-  * Splenectomy
+- Sickle cell anemia
+
+- Splenectomy
 
 ## Epidemiology
 
@@ -94,15 +94,15 @@ The highest incidence of meningitis worldwide is in an area of sub-Saharan Afric
 
 Most common bacterial causes of meningitis in the United States are: [9]
 
-  * _Streptococcus pneumoniae_ (incidence in 2010: 0.3/100,000)
+- _Streptococcus pneumoniae_ (incidence in 2010: 0.3/100,000)
 
-  * group B _Streptococcus_
+- group B _Streptococcus_
 
-  *  _Neisseria meningitidis_ (incidence in 2010: 0.123/100,000)
+- _Neisseria meningitidis_ (incidence in 2010: 0.123/100,000)
 
-  * _Haemophilus influenzae_(incidence in 2010: 0.058/100,000)
+- _Haemophilus influenzae_(incidence in 2010: 0.058/100,000)
 
-  * _Listeria monocytogenes_
+- _Listeria monocytogenes_
 
 Consider less common bacteria such as _Staphylococcus aureus_ in patients with recent surgery, central lines, and trauma. _Mycobacterium tuberculosis_ should be considered in immunocompromised hosts. _Borrelia burgdorferi_ in patients with travel to Lyme endemic areas. _Treponema pallidum_ in HIV/AIDS and individuals with multiple sexual partners. _Escherichia coli_ is an important pathogen in the neonatal period.
 
@@ -112,15 +112,15 @@ Fungal meningitis typically is associated with an immunocompromised host (HIV/AI
 
 Fungi causing meningitis include:
 
-  * _Cryptococcus neoformans_
+- _Cryptococcus neoformans_
 
-  * _Coccidioides immitis_
+- _Coccidioides immitis_
 
-  * _Aspergillus_
+- _Aspergillus_
 
-  * _Candida_
+- _Candida_
 
-  * Mucormycosis (more common in patients with diabetes mellitus and transplant recipients; direct extension of sinus infection)
+- Mucormycosis (more common in patients with diabetes mellitus and transplant recipients; direct extension of sinus infection)
 
 ## Pathophysiology
 
@@ -128,11 +128,11 @@ Meningitis typically occurs through two routes of inoculation:
 
 Hematogenous seeding
 
-  * Bacteria colonize the nasopharynx and enter the bloodstream after mucosal invasion. Upon making their way to the subarachnoid space, the bacteria cross the blood-brain barrier, causing a direct inflammatory and immune-mediated reaction.
+- Bacteria colonize the nasopharynx and enter the bloodstream after mucosal invasion. Upon making their way to the subarachnoid space, the bacteria cross the blood-brain barrier, causing a direct inflammatory and immune-mediated reaction.
 
 Direct contiguous spread
 
-  * Organisms can enter the cerebrospinal fluid (CSF) via neighboring anatomic structures (otitis media, sinusitis), foreign objects (medical devices, penetrating trauma), or during operative procedures.
+- Organisms can enter the cerebrospinal fluid (CSF) via neighboring anatomic structures (otitis media, sinusitis), foreign objects (medical devices, penetrating trauma), or during operative procedures.
 
 Viruses can penetrate the central nervous system (CNS) via retrograde transmission along neuronal pathways or by hematogenous seeding.
 
@@ -142,19 +142,19 @@ Meningitis can have a varied clinical presentation depending on age and immune s
 
 The following risk factors should increase clinical suspicion:
 
-  * Close contact exposures (military barracks, college dorms)
+- Close contact exposures (military barracks, college dorms)
 
-  * Incomplete vaccinations
+- Incomplete vaccinations
 
-  * Immunosuppression
+- Immunosuppression
 
-  * Children younger than five years and adults older than 65 years
+- Children younger than five years and adults older than 65 years
 
-  * Alcohol use disorder
+- Alcohol use disorder
 
 One should try to determine a history of exposures, sexual contact, animal contact, previous neurosurgical intervention, recent travel, and the season. Most viral cases tend to occur in the warmer months.
 
-In adults, the physical exam is centered on identifying focal neurologic deficits, meningeal irritation (Brudzinski and Kernig signs), and particularly in meningococcal meningitis, characteristic skin lesions (petechiae and purpura). Cranial nerve abnormalities are seen in 10%-20% of patients. 
+In adults, the physical exam is centered on identifying focal neurologic deficits, meningeal irritation (Brudzinski and Kernig signs), and particularly in meningococcal meningitis, characteristic skin lesions (petechiae and purpura). Cranial nerve abnormalities are seen in 10%-20% of patients.
 
 Signs and symptoms are less evident in neonates and infants. They can present with and without fever or hypothermia, decreased oral intake, altered mental status, irritability, bulging fontanelle. It is important to obtain a full perinatal history and vaccine records. Some causes of meningitis are vaccine-preventable such as Pneumococcus, _Haemophilus influenzae_ type B, Meningococcus, Measles, and Varicella-virus.
 
@@ -164,15 +164,15 @@ Meningitis is diagnosed through cerebrospinal fluid (CSF) analysis, which includ
 
 Additional testing should be performed tailored on suspected etiology:
 
-  * Viral: Multiplex and specific PCRs
+- Viral: Multiplex and specific PCRs
 
-  * Fungal: CSF fungal culture, India ink stain for _Cryptococcus_
+- Fungal: CSF fungal culture, India ink stain for _Cryptococcus_
 
-  * Mycobacterial: CSF Acid-fast bacilli smear and culture
+- Mycobacterial: CSF Acid-fast bacilli smear and culture
 
-  * Syphilis: CSF VDRL
+- Syphilis: CSF VDRL
 
-  * Lyme disease: CSF _burgdorferi_ antibody
+- Lyme disease: CSF _burgdorferi_ antibody
 
 The CSF findings expected in bacterial, viral, and fungal meningitis are listed in the chart: Expected CSF findings in bacterial versus viral versus fungal meningitis.
 
@@ -186,15 +186,15 @@ Currently, guidelines recommend empiric antibiotics and supportive care, while f
 
 Signs and symptoms of impending herniation include:
 
-  * Glasgow coma scale (GCS) less than 11
+- Glasgow coma scale (GCS) less than 11
 
-  * Lethargy
+- Lethargy
 
-  * Altered mental status
+- Altered mental status
 
-  * New-onset seizures
+- New-onset seizures
 
-  * Focal neurologic deficit
+- Focal neurologic deficit
 
 It is important to note that a normal head CT does not preclude increased intracranial pressure or impending brain herniation. If the clinical symptoms are consistent with impending herniation, regardless of whether or not the CT head is normal, avoid the LP and start treatment.
 
@@ -212,85 +212,85 @@ The type of antibiotic is based on the presumed organism causing the infection. 
 
 Neonates - Up to 1 month old
 
-  * Ampicillin intravenously (IV) and
+- Ampicillin intravenously (IV) and
 
-  * Cefotaxime (or equivalent, usually ceftazidime or cefepime) IV or gentamicin IV and
+- Cefotaxime (or equivalent, usually ceftazidime or cefepime) IV or gentamicin IV and
 
-  * Acyclovir IV
+- Acyclovir IV
 
 More than 1 month old
 
-  * Ampicillin IV and
+- Ampicillin IV and
 
-  * Ceftriaxone IV
+- Ceftriaxone IV
 
 Adults (18 to 49 years old)
 
-  * Ceftriaxone IV and
+- Ceftriaxone IV and
 
-  * Vancomycin IV
+- Vancomycin IV
 
 Adults older than 50 years old and the immunocompromised
 
-  * Ceftriaxone IV and
+- Ceftriaxone IV and
 
-  * Vancomycin IV and
+- Vancomycin IV and
 
-  * Ampicillin IV
+- Ampicillin IV
 
 Meningitis associated with a foreign body (post-procedure, penetrating trauma)
 
-  * Cefepime IV or ceftazidime IV or meropenem IV and
+- Cefepime IV or ceftazidime IV or meropenem IV and
 
-  * Vancomycin IV
+- Vancomycin IV
 
 Meningitis with severe penicillin allergy
 
-  * Moxifloxacin IV and
+- Moxifloxacin IV and
 
-  * Vancomycin IV
+- Vancomycin IV
 
 Fungal (Cryptococcal) meningitis
 
-  * Amphotericin B IV and
+- Amphotericin B IV and
 
-  * Flucytosine by mouth
+- Flucytosine by mouth
 
 **Antibiotics**
 
 Ceftriaxone
 
-  * Third-generation cephalosporin
+- Third-generation cephalosporin
 
-  * Gram-negative coverage
+- Gram-negative coverage
 
-  * Very effective against _Streptococcus pneumoniae_ and  _Neisseria meningitidis_
+- Very effective against _Streptococcus pneumoniae_ and _Neisseria meningitidis_
 
-  * Better CNS penetration than piperacillin-tazobactam (typically used in gram-negative sepsis coverage)
+- Better CNS penetration than piperacillin-tazobactam (typically used in gram-negative sepsis coverage)
 
 Vancomycin
 
-  * Gram-positive coverage (MRSA)
+- Gram-positive coverage (MRSA)
 
-  * Also used for resistant pneumococcus
+- Also used for resistant pneumococcus
 
 Ampicillin
 
-  * Listeria coverage (gram-positive bacilli)
+- Listeria coverage (gram-positive bacilli)
 
 Cefepime
 
-  * Fourth-generation cephalosporin
+- Fourth-generation cephalosporin
 
-  * Increased activity against pseudomonas
+- Increased activity against pseudomonas
 
 Cefotaxime
 
-  * Third-generation cephalosporin
+- Third-generation cephalosporin
 
-  * Equivalent to ceftriaxone
+- Equivalent to ceftriaxone
 
-  * Safe for neonates
+- Safe for neonates
 
 **Steroid Therapy**
 
@@ -300,11 +300,11 @@ There is insufficient evidence to support the widespread use of steroids in bact
 
 If the patient develops clinical signs of increased intracranial pressure (altered mental status, neurologic deficits, non-reactive pupils, bradycardia), interventions to maintain cerebral perfusion include:
 
-  * Elevating the head of the bed to 30 degrees
+- Elevating the head of the bed to 30 degrees
 
-  * Inducing mild hyperventilation in the intubated patient
+- Inducing mild hyperventilation in the intubated patient
 
-  * Osmotic diuretics such as 25% mannitol or 3% saline
+- Osmotic diuretics such as 25% mannitol or 3% saline
 
 **Chemoprophylaxis**
 
@@ -316,15 +316,15 @@ Antibiotic chemoprophylaxis for _N. meningitidis_ includes rifampin, ciprofloxac
 
 ## Differential Diagnosis
 
-  * Stroke
+- Stroke
 
-  * Subdural hematoma
+- Subdural hematoma
 
-  * Subarachnoid hemorrhage
+- Subarachnoid hemorrhage
 
-  * Metastatic brain disease
+- Metastatic brain disease
 
-  * Brain abscess (might coexist with meningitis)
+- Brain abscess (might coexist with meningitis)
 
 ## Prognosis
 
@@ -332,15 +332,15 @@ Outcomes depend on patient characteristics such as age and immune status, but al
 
 Pathogen-specific mortality:[6]
 
-  * _Streptococcus pneumoniae_ meningitis: case fatality rate, 17.9%
+- _Streptococcus pneumoniae_ meningitis: case fatality rate, 17.9%
 
-  * _Neisseria meningitidis_ meningitis: case fatality rate, 10.1%
+- _Neisseria meningitidis_ meningitis: case fatality rate, 10.1%
 
-  * Group B _Streptococcus_ meningitis: case fatality rate, 11.1%
+- Group B _Streptococcus_ meningitis: case fatality rate, 11.1%
 
-  * _H._ i _nfluenzae_ meningitis: case fatality rate, 7%
+- _H._ i _nfluenzae_ meningitis: case fatality rate, 7%
 
-  * _Listeria monocytogenes_ meningitis: case fatality rate, 18.1%
+- _Listeria monocytogenes_ meningitis: case fatality rate, 18.1%
 
 ## Complications
 
@@ -348,29 +348,29 @@ A metaanalysis published in 2010 from a cohort of pediatric patients reported th
 
 Other complications include:
 
-  * Increased intracranial pressure from cerebral edema caused by increased intracellular fluid in the brain. Several factors are involved in the development of cerebral edema: increased in blood-brain barrier permeability, cytotoxicity from cytokines, immune cells, and bacteria.
+- Increased intracranial pressure from cerebral edema caused by increased intracellular fluid in the brain. Several factors are involved in the development of cerebral edema: increased in blood-brain barrier permeability, cytotoxicity from cytokines, immune cells, and bacteria.
 
-  * Hydrocephalus
+- Hydrocephalus
 
-  * Cerebrovascular complications
+- Cerebrovascular complications
 
-  * Focal neurologic deficits
+- Focal neurologic deficits
 
 ## Consultations
 
-  * Infectious diseases specialist in case of unidentified or rare pathogen
+- Infectious diseases specialist in case of unidentified or rare pathogen
 
-  * Neurology to aid in seizure management
+- Neurology to aid in seizure management
 
-  * Neurosurgery when there is suspicion of progression to brain abscess
+- Neurosurgery when there is suspicion of progression to brain abscess
 
-  * Rheumatology and heme/oncology in case of non-infectious cause
+- Rheumatology and heme/oncology in case of non-infectious cause
 
 ## Pearls and Other Issues
 
 Differentiating between bacterial, viral, and fungal meningitis may be difficult. CSF analysis may not be conclusive, and cultures do not immediately yield an answer. Multiplex and specific PCR panels are available and provide information in a few hours. Given the morbidity and mortality, it is prudent to initiate empiric antibiotic therapy and admit all those with suspected meningitis to the hospital on droplet precautions, until pathogen is identified, and appropriate antibiotics have been given for 24 hours.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Meningitis is a serious disorder with high morbidity and mortality. The majority of patients with meningitis first present to the emergency department and a streamlined interprofessional approach is vital if one wants to lower the high morbidity. The triage nurse must be fully aware of the signs and symptoms of the illness and refer the patient immediately to the emergency department clinician. Other specialists who are usually involved in the care of these patients are neurologists, pediatricians, intensivists, infectious disease specialists, and pharmacists. If bacterial meningitis is suspected, prompt antibiotics should be started even in the absence of laboratory results. The pharmacist, preferably specializing in infectious diseases, should assist the clinical team in choosing the appropriate antibiotics based on the age of the patient and local sensitivities and correct dosing to ensure penetration into the central nervous system.
 
@@ -378,136 +378,112 @@ To prevent this infection, the education of the public is vital. All healthcare 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24962&utm_source=pubmed&utm_campaign=reviews&utm_content=24962)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24962&utm_source=pubmed&utm_campaign=reviews&utm_content=24962)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/infectious-disease/meningitis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=24962)
+- [Click here for a simplified version.](https://mdsearchlight.com/infectious-disease/meningitis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=24962)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24962/?utm_source=pubmed&utm_campaign=comments&utm_content=24962)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24962/?utm_source=pubmed&utm_campaign=comments&utm_content=24962)
 
-[![Neuropathology specimen, Purulent meningitis, HE Stain, Hematoxylin and Eosin stain Contributed by Wikimedia Commons, Jens Florian \(CC by 4](/books/NBK459360/bin/Image_NP_E1_0001.gif)](/books/NBK459360/figure/article-24962.image.f1/?report=objectonly "Figure")
+[![Neuropathology specimen, Purulent meningitis, HE Stain, Hematoxylin and Eosin stain Contributed by Wikimedia Commons, Jens Florian CC by 4](/books/NBK459360/bin/Image_NP_E1_0001.gif)](/books/NBK459360/figure/article-24962.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK459360/figure/article-24962.image.f1/?report=objectonly)
 
-Neuropathology specimen, Purulent meningitis, HE Stain, Hematoxylin and Eosin stain Contributed by Wikimedia Commons, Jens Florian (CC by 4.0) https://creativecommons.org/licenses/by/4.0/ 
+Neuropathology specimen, Purulent meningitis, HE Stain, Hematoxylin and Eosin stain Contributed by Wikimedia Commons, Jens Florian (CC by 4.0) https://creativecommons.org/licenses/by/4.0/
 
 [![Image ](/books/NBK459360/bin/15146_lores.gif)](/books/NBK459360/figure/article-24962.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK459360/figure/article-24962.image.f2/?report=objectonly)
 
-Culture Plate, Meningitis; Fungal, Ascomycota, Lab Contributed by James Gathany, The Centers for Disease Control and Prevention (CDC) 
+Culture Plate, Meningitis; Fungal, Ascomycota, Lab Contributed by James Gathany, The Centers for Disease Control and Prevention (CDC)
 
 [![Image ](/books/NBK459360/bin/Screenshot__2017-09-13__18.34.32.gif)](/books/NBK459360/figure/article-24962.image.f3/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK459360/figure/article-24962.image.f3/?report=objectonly)
 
-Expected CSF Findings in Bacterial versus Viral versus Fungal Meningitis 2 Contributed by Kenadeed Hersi 
+Expected CSF Findings in Bacterial versus Viral versus Fungal Meningitis 2 Contributed by Kenadeed Hersi
 
 [![Figure 3 has a reference of PMID 22844374, A case of carcinomatous meningitis despite prophylactic cranial irradiation in small cell lung cancer during treatment with amrubicin](/books/NBK459360/bin/Fig__3.gif)](/books/NBK459360/figure/article-24962.image.f4/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK459360/figure/article-24962.image.f4/?report=objectonly)
 
-Figure 3 has a reference of PMID 22844374, A case of carcinomatous meningitis despite prophylactic cranial irradiation in small cell lung cancer during treatment with amrubicin. Contributed by Ayesha Anwar, MBBS 
+Figure 3 has a reference of PMID 22844374, A case of carcinomatous meningitis despite prophylactic cranial irradiation in small cell lung cancer during treatment with amrubicin. Contributed by Ayesha Anwar, MBBS
 
 ## References
 
 1.
-    
 
-Chalimou I, Krilis A, Anastopoulou GG, Braun H, Vikelis M, Makridou A, Makris N, Argyriou AA. Acute aseptic meningitis during isotretinoin treatment for nodular acne solely presenting with headache: case report and brief review of the literature. Int J Neurosci. 2019 Feb;129(2):204-206. [[PubMed: 30160569](https://pubmed.ncbi.nlm.nih.gov/30160569)]
+Chalimou I, Krilis A, Anastopoulou GG, Braun H, Vikelis M, Makridou A, Makris N, Argyriou AA. Acute aseptic meningitis during isotretinoin treatment for nodular acne solely presenting with headache: case report and brief review of the literature. Int J Neurosci. 2019 Feb;129(2):204-206. \[[PubMed: 30160569](https://pubmed.ncbi.nlm.nih.gov/30160569)\]
 
 2.
-    
 
-Ali M, Chang BA, Johnson KW, Morris SK. Incidence and aetiology of bacterial meningitis among children aged 1-59 months in South Asia: systematic review and meta-analysis. Vaccine. 2018 Sep 18;36(39):5846-5857. [[PubMed: 30145101](https://pubmed.ncbi.nlm.nih.gov/30145101)]
+Ali M, Chang BA, Johnson KW, Morris SK. Incidence and aetiology of bacterial meningitis among children aged 1-59 months in South Asia: systematic review and meta-analysis. Vaccine. 2018 Sep 18;36(39):5846-5857. \[[PubMed: 30145101](https://pubmed.ncbi.nlm.nih.gov/30145101)\]
 
 3.
-    
 
-Giovane RA, Lavender PD. Central Nervous System Infections. Prim Care. 2018 Sep;45(3):505-518. [[PubMed: 30115337](https://pubmed.ncbi.nlm.nih.gov/30115337)]
+Giovane RA, Lavender PD. Central Nervous System Infections. Prim Care. 2018 Sep;45(3):505-518. \[[PubMed: 30115337](https://pubmed.ncbi.nlm.nih.gov/30115337)\]
 
 4.
-    
 
-Leonard A, Lalk M. Infection and metabolism - Streptococcus pneumoniae metabolism facing the host environment. Cytokine. 2018 Dec;112:75-86. [[PubMed: 30077545](https://pubmed.ncbi.nlm.nih.gov/30077545)]
+Leonard A, Lalk M. Infection and metabolism - Streptococcus pneumoniae metabolism facing the host environment. Cytokine. 2018 Dec;112:75-86. \[[PubMed: 30077545](https://pubmed.ncbi.nlm.nih.gov/30077545)\]
 
 5.
-    
 
-Kasim N, Bagga B, Diaz-Thomas A. Intracranial pathologies associated with central diabetes insipidus in infants. J Pediatr Endocrinol Metab. 2018 Sep 25;31(9):951-958. [[PubMed: 30052518](https://pubmed.ncbi.nlm.nih.gov/30052518)]
+Kasim N, Bagga B, Diaz-Thomas A. Intracranial pathologies associated with central diabetes insipidus in infants. J Pediatr Endocrinol Metab. 2018 Sep 25;31(9):951-958. \[[PubMed: 30052518](https://pubmed.ncbi.nlm.nih.gov/30052518)\]
 
 6.
-    
 
-Thigpen MC, Whitney CG, Messonnier NE, Zell ER, Lynfield R, Hadler JL, Harrison LH, Farley MM, Reingold A, Bennett NM, Craig AS, Schaffner W, Thomas A, Lewis MM, Scallan E, Schuchat A., Emerging Infections Programs Network. Bacterial meningitis in the United States, 1998-2007. N Engl J Med. 2011 May 26;364(21):2016-25. [[PubMed: 21612470](https://pubmed.ncbi.nlm.nih.gov/21612470)]
+Thigpen MC, Whitney CG, Messonnier NE, Zell ER, Lynfield R, Hadler JL, Harrison LH, Farley MM, Reingold A, Bennett NM, Craig AS, Schaffner W, Thomas A, Lewis MM, Scallan E, Schuchat A., Emerging Infections Programs Network. Bacterial meningitis in the United States, 1998-2007. N Engl J Med. 2011 May 26;364(21):2016-25. \[[PubMed: 21612470](https://pubmed.ncbi.nlm.nih.gov/21612470)\]
 
 7.
-    
 
-Sadeghi M, Ahmadrajabi R, Dehesh T, Saffari F. Prevalence of meningococcal carriage among male university students living in dormitories in Kerman, southeast of Iran. Pathog Glob Health. 2018 Sep;112(6):329-333. [[PMC free article: PMC6381525](/pmc/articles/PMC6381525/)] [[PubMed: 30156971](https://pubmed.ncbi.nlm.nih.gov/30156971)]
+Sadeghi M, Ahmadrajabi R, Dehesh T, Saffari F. Prevalence of meningococcal carriage among male university students living in dormitories in Kerman, southeast of Iran. Pathog Glob Health. 2018 Sep;112(6):329-333. \[[PMC free article: PMC6381525](/pmc/articles/PMC6381525/)\] \[[PubMed: 30156971](https://pubmed.ncbi.nlm.nih.gov/30156971)\]
 
 8.
-    
 
-Chauhan D, Mokta K, Kanga A, Grover N. Epidemiology, clinical profile and role of rapid tests in the diagnosis of acute bacterial meningitis in children (aged 1-59 months). Neurol India. 2018 Jul-Aug;66(4):1045-1049. [[PubMed: 30038091](https://pubmed.ncbi.nlm.nih.gov/30038091)]
+Chauhan D, Mokta K, Kanga A, Grover N. Epidemiology, clinical profile and role of rapid tests in the diagnosis of acute bacterial meningitis in children (aged 1-59 months). Neurol India. 2018 Jul-Aug;66(4):1045-1049. \[[PubMed: 30038091](https://pubmed.ncbi.nlm.nih.gov/30038091)\]
 
 9.
-    
 
-Castelblanco RL, Lee M, Hasbun R. Epidemiology of bacterial meningitis in the USA from 1997 to 2010: a population-based observational study. Lancet Infect Dis. 2014 Sep;14(9):813-9. [[PubMed: 25104307](https://pubmed.ncbi.nlm.nih.gov/25104307)]
+Castelblanco RL, Lee M, Hasbun R. Epidemiology of bacterial meningitis in the USA from 1997 to 2010: a population-based observational study. Lancet Infect Dis. 2014 Sep;14(9):813-9. \[[PubMed: 25104307](https://pubmed.ncbi.nlm.nih.gov/25104307)\]
 
 10.
-    
 
-Güldemir D, Turan M, Bakkaloğlu Z, Nar Ötgün S, Durmaz R. [Optimization of real-time multiplex polymerase chain reaction for the diagnosis of acute bacterial meningitis and Neisseria meningitidis serogrouping]. Mikrobiyol Bul. 2018 Jul;52(3):221-232. [[PubMed: 30156509](https://pubmed.ncbi.nlm.nih.gov/30156509)]
+Güldemir D, Turan M, Bakkaloğlu Z, Nar Ötgün S, Durmaz R. [Optimization of real-time multiplex polymerase chain reaction for the diagnosis of acute bacterial meningitis and Neisseria meningitidis serogrouping]. Mikrobiyol Bul. 2018 Jul;52(3):221-232. \[[PubMed: 30156509](https://pubmed.ncbi.nlm.nih.gov/30156509)\]
 
 11.
-    
 
-Hussien MM, Ali-Eldin F, Adel LA. ASSESSMENT OF THE DIAGNOSTIC AND PROGNOSTIC ROLE OF CEREBEROSPINAL FLUID INTERLEUKIN-8 LEVEL IN ADULT PATIENTS WITH MENINGITIS. J Egypt Soc Parasitol. 2016 Aug;46(2):361-366. [[PubMed: 30152945](https://pubmed.ncbi.nlm.nih.gov/30152945)]
+Hussien MM, Ali-Eldin F, Adel LA. ASSESSMENT OF THE DIAGNOSTIC AND PROGNOSTIC ROLE OF CEREBEROSPINAL FLUID INTERLEUKIN-8 LEVEL IN ADULT PATIENTS WITH MENINGITIS. J Egypt Soc Parasitol. 2016 Aug;46(2):361-366. \[[PubMed: 30152945](https://pubmed.ncbi.nlm.nih.gov/30152945)\]
 
 12.
-    
 
-El Shorbagy HH, Barseem NF, Abdelghani WE, Suliman HA, Al-Shokary AH, Elsadek AE, Maksoud YHA, Sabri JH. The value of serum procalcitonin in acute meningitis in children. J Clin Neurosci. 2018 Oct;56:28-33. [[PubMed: 30143413](https://pubmed.ncbi.nlm.nih.gov/30143413)]
+El Shorbagy HH, Barseem NF, Abdelghani WE, Suliman HA, Al-Shokary AH, Elsadek AE, Maksoud YHA, Sabri JH. The value of serum procalcitonin in acute meningitis in children. J Clin Neurosci. 2018 Oct;56:28-33. \[[PubMed: 30143413](https://pubmed.ncbi.nlm.nih.gov/30143413)\]
 
 13.
-    
 
-Reid S, Thompson H, Thakur KT. Nervous System Infections and the Global Traveler. Semin Neurol. 2018 Apr;38(2):247-262. [[PubMed: 29791951](https://pubmed.ncbi.nlm.nih.gov/29791951)]
+Reid S, Thompson H, Thakur KT. Nervous System Infections and the Global Traveler. Semin Neurol. 2018 Apr;38(2):247-262. \[[PubMed: 29791951](https://pubmed.ncbi.nlm.nih.gov/29791951)\]
 
 14.
-    
 
-Liu ZY, Wang GQ, Zhu LP, Lyu XJ, Zhang QQ, Yu YS, Zhou ZH, Liu YB, Cai WP, Li RY, Zhang WH, Zhang FJ, Wu H, Xu YC, Lu HZ, Li TS., Society of Infectious Diseases, Chinese Medical Association. [Expert consensus on the diagnosis and treatment of cryptococcal meningitis]. Zhonghua Nei Ke Za Zhi. 2018 May 01;57(5):317-323. [[PubMed: 29747285](https://pubmed.ncbi.nlm.nih.gov/29747285)]
+Liu ZY, Wang GQ, Zhu LP, Lyu XJ, Zhang QQ, Yu YS, Zhou ZH, Liu YB, Cai WP, Li RY, Zhang WH, Zhang FJ, Wu H, Xu YC, Lu HZ, Li TS., Society of Infectious Diseases, Chinese Medical Association. [Expert consensus on the diagnosis and treatment of cryptococcal meningitis]. Zhonghua Nei Ke Za Zhi. 2018 May 01;57(5):317-323. \[[PubMed: 29747285](https://pubmed.ncbi.nlm.nih.gov/29747285)\]
 
 15.
-    
 
-Dretler AW, Rouphael NG, Stephens DS. Progress toward the global control of Neisseria meningitidis: 21st century vaccines, current guidelines, and challenges for future vaccine development. Hum Vaccin Immunother. 2018 May 04;14(5):1146-1160. [[PMC free article: PMC6067816](/pmc/articles/PMC6067816/)] [[PubMed: 29543582](https://pubmed.ncbi.nlm.nih.gov/29543582)]
+Dretler AW, Rouphael NG, Stephens DS. Progress toward the global control of Neisseria meningitidis: 21st century vaccines, current guidelines, and challenges for future vaccine development. Hum Vaccin Immunother. 2018 May 04;14(5):1146-1160. \[[PMC free article: PMC6067816](/pmc/articles/PMC6067816/)\] \[[PubMed: 29543582](https://pubmed.ncbi.nlm.nih.gov/29543582)\]
 
 16.
-    
 
-Brouwer MC, McIntyre P, Prasad K, van de Beek D. Corticosteroids for acute bacterial meningitis. Cochrane Database Syst Rev. 2015 Sep 12;2015(9):CD004405. [[PMC free article: PMC6491272](/pmc/articles/PMC6491272/)] [[PubMed: 26362566](https://pubmed.ncbi.nlm.nih.gov/26362566)]
+Brouwer MC, McIntyre P, Prasad K, van de Beek D. Corticosteroids for acute bacterial meningitis. Cochrane Database Syst Rev. 2015 Sep 12;2015(9):CD004405. \[[PMC free article: PMC6491272](/pmc/articles/PMC6491272/)\] \[[PubMed: 26362566](https://pubmed.ncbi.nlm.nih.gov/26362566)\]
 
 17.
-    
 
-Edmond K, Clark A, Korczak VS, Sanderson C, Griffiths UK, Rudan I. Global and regional risk of disabling sequelae from bacterial meningitis: a systematic review and meta-analysis. Lancet Infect Dis. 2010 May;10(5):317-28. [[PubMed: 20417414](https://pubmed.ncbi.nlm.nih.gov/20417414)]
+Edmond K, Clark A, Korczak VS, Sanderson C, Griffiths UK, Rudan I. Global and regional risk of disabling sequelae from bacterial meningitis: a systematic review and meta-analysis. Lancet Infect Dis. 2010 May;10(5):317-28. \[[PubMed: 20417414](https://pubmed.ncbi.nlm.nih.gov/20417414)\]
 
 18.
-    
 
-Munguambe AM, de Almeida AECC, Nhantumbo AA, Come CE, Zimba TF, Paulo Langa J, de Filippis I, Gudo ES. Characterization of strains of Neisseria meningitidis causing meningococcal meningitis in Mozambique, 2014: Implications for vaccination against meningococcal meningitis. PLoS One. 2018;13(8):e0197390. [[PMC free article: PMC6082507](/pmc/articles/PMC6082507/)] [[PubMed: 30089105](https://pubmed.ncbi.nlm.nih.gov/30089105)]
-
-    
+Munguambe AM, de Almeida AECC, Nhantumbo AA, Come CE, Zimba TF, Paulo Langa J, de Filippis I, Gudo ES. Characterization of strains of Neisseria meningitidis causing meningococcal meningitis in Mozambique, 2014: Implications for vaccination against meningococcal meningitis. PLoS One. 2018;13(8):e0197390. \[[PMC free article: PMC6082507](/pmc/articles/PMC6082507/)\] \[[PubMed: 30089105](https://pubmed.ncbi.nlm.nih.gov/30089105)\]
 
 **Disclosure:** Kenadeed Hersi declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Francisco Gonzalez declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Noah Kondamudi declares no relevant financial relationships with ineligible companies.

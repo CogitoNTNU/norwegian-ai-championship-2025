@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27633/
-scraped_date: 2025-07-22 12:48:52 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27633/ scraped_date: 2025-07-22 12:48:52 UTC
 
 # Ectopic Pregnancy
 
@@ -23,19 +22,19 @@ Last Update: March 27, 2025.
 
 ## Continuing Education Activity
 
-Ectopic pregnancy occurs when a fertilized egg implants outside the uterus, most commonly in the fallopian tube. Prompt recognition of this condition is essential, as in the United States, approximately 1% to 2% of pregnancies are affected, and an estimated 2.7% of pregnancy-related deaths are caused by ectopic pregnancy rupture. Risk factors include pelvic inflammatory disease, smoking, prior ectopic pregnancy, fallopian tube surgery, and infertility. Symptoms typically include lower abdominal pain and vaginal bleeding in early pregnancy, particularly if intrauterine pregnancy has not been confirmed. 
+Ectopic pregnancy occurs when a fertilized egg implants outside the uterus, most commonly in the fallopian tube. Prompt recognition of this condition is essential, as in the United States, approximately 1% to 2% of pregnancies are affected, and an estimated 2.7% of pregnancy-related deaths are caused by ectopic pregnancy rupture. Risk factors include pelvic inflammatory disease, smoking, prior ectopic pregnancy, fallopian tube surgery, and infertility. Symptoms typically include lower abdominal pain and vaginal bleeding in early pregnancy, particularly if intrauterine pregnancy has not been confirmed.
 
 This course explores the complexities surrounding ectopic pregnancy, including the current diagnostic challenges, differential diagnoses, preservation of fertility, provision of psychological support, and varying management approaches. This activity for healthcare professionals is designed to enhance the learner's competence in promptly recognizing ectopic pregnancies, performing the recommended evaluation, and implementing an appropriate interprofessional management approach to improve patient outcomes.
 
 **Objectives:**
 
-  * Differentiate ectopic pregnancy from conditions with similar clinical features.
+- Differentiate ectopic pregnancy from conditions with similar clinical features.
 
-  * Interpret diagnostic studies accurately in the evaluation of ectopic pregnancy.
+- Interpret diagnostic studies accurately in the evaluation of ectopic pregnancy.
 
-  * Implement the most appropriate management approach for each type of ectopic pregnancy.
+- Implement the most appropriate management approach for each type of ectopic pregnancy.
 
-  * Apply interprofessional team strategies to improve care coordination and outcomes for patients with an ectopic pregnancy.
+- Apply interprofessional team strategies to improve care coordination and outcomes for patients with an ectopic pregnancy.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27633&utm_source=pubmed&utm_campaign=reviews&utm_content=27633)
 
@@ -59,25 +58,25 @@ For a tubal ectopic pregnancy, various underlying pathologies can lead to damage
 
 Factors associated with an increased risk of ectopic pregnancy include:
 
-  * **Prior ectopic pregnancy** : Risk increases with previous ectopic pregnancies (10% after 1, >25% after 2 or more)
+- **Prior ectopic pregnancy** : Risk increases with previous ectopic pregnancies (10% after 1, >25% after 2 or more)
 
-  * **Fallopian tube damage** : Due to infections (gonorrhea, chlamydia), prior pelvic or tubal surgery, or endometriosis
+- **Fallopian tube damage** : Due to infections (gonorrhea, chlamydia), prior pelvic or tubal surgery, or endometriosis
 
-  * **Pelvic infections** : Including pelvic inflammatory disease (PID) and complications from ascending infections.
+- **Pelvic infections** : Including pelvic inflammatory disease (PID) and complications from ascending infections.
 
-  * **Infertility and assisted reproductive technology** : Higher risk with increased embryo transfers, fresh (versus frozen) transfers, and cleavage-stage (Day 3) transfers
+- **Infertility and assisted reproductive technology** : Higher risk with increased embryo transfers, fresh (versus frozen) transfers, and cleavage-stage (Day 3) transfers
 
-  * **Contraceptive use** : Although IUD users have a lower overall pregnancy risk, 53% of pregnancies occurring with an IUD are ectopic
+- **Contraceptive use** : Although IUD users have a lower overall pregnancy risk, 53% of pregnancies occurring with an IUD are ectopic
 
-  * **Smoking** : Associated with increased risk due to its impact on tubal function
+- **Smoking** : Associated with increased risk due to its impact on tubal function
 
-  * **Advanced maternal age** :**** Women older than 35 have a higher risk
+- **Advanced maternal age** :\*\*\*\* Women older than 35 have a higher risk
 
-  * **Anatomical variations** : Congenital anomalies of the reproductive system may contribute
+- **Anatomical variations** : Congenital anomalies of the reproductive system may contribute
 
-  * **Previous cesarean delivery** : Particularly in cases of prior breech presentation deliveries
+- **Previous cesarean delivery** : Particularly in cases of prior breech presentation deliveries
 
-  * **Progesterone-only contraception** : Slightly increased risk compared to other methods [1][4][7][2][5]
+- **Progesterone-only contraception** : Slightly increased risk compared to other methods [1][4][7][2][5]
 
 Conversely, oral contraceptives, prior pregnancy termination, emergency contraception failure, and cesarean delivery are not associated with an increased risk of ectopic pregnancy.[4]
 
@@ -85,9 +84,9 @@ Conversely, oral contraceptives, prior pregnancy termination, emergency contrace
 
 Ectopic pregnancy accounts for approximately 1% to 2% of pregnancies in the United States and 2% to 5% among patients who have utilized assisted reproductive technology.[1][8] Emergency departments have reported a higher incidence of 6% to 16%.[7] However, the true prevalence may be underestimated due to cases managed outside hospital settings.[1] While the mortality rate from ruptured ectopic pregnancies has declined over the past few decades, they still contribute to pregnancy-related deaths.
 
-Furthermore, the various sites where ectopic pregnancy occurs have different incidences. Tubal ectopic pregnancies are the most common, with rupture rates around 15% in Western countries, a figure that may have increased during the COVID-19 pandemic.[8] Cervical ectopic pregnancy has an incidence of <1% and has been reported to occur following dilation and curettage in 70% of these patients. Ectopic pregnancies within the ovary occur in <3% of cases, while abdominal implantation occurs in 0.9% to 1.4% of cases.[4] Abdominal pregnancies have a higher mortality than other types of ectopic pregnancy at 10%; however, due to a higher frequency of delayed diagnosis and up to 7 times higher risk of organ perforation and massive hemorrhage.[4] Interstitial ectopic pregnancies are reported in up to 4% of all ectopic implantation sites. Reports also exist of implantation sites in omental, retroperitoneal, splenic, and hepatic locations.[4][8]
+Furthermore, the various sites where ectopic pregnancy occurs have different incidences. Tubal ectopic pregnancies are the most common, with rupture rates around 15% in Western countries, a figure that may have increased during the COVID-19 pandemic.[8] Cervical ectopic pregnancy has an incidence of \<1% and has been reported to occur following dilation and curettage in 70% of these patients. Ectopic pregnancies within the ovary occur in \<3% of cases, while abdominal implantation occurs in 0.9% to 1.4% of cases.[4] Abdominal pregnancies have a higher mortality than other types of ectopic pregnancy at 10%; however, due to a higher frequency of delayed diagnosis and up to 7 times higher risk of organ perforation and massive hemorrhage.[4] Interstitial ectopic pregnancies are reported in up to 4% of all ectopic implantation sites. Reports also exist of implantation sites in omental, retroperitoneal, splenic, and hepatic locations.[4][8]
 
-Additionally, the growing rate of cesarean deliveries, currently 21% of births worldwide, may contribute to an increase in cesarean scar ectopic pregnancies, which has an incidence of approximately <1%.[5][4] The incidence of heterotopic pregnancies, where both intrauterine and ectopic pregnancies occur simultaneously, has risen due to assisted reproductive technologies, with in vitro fertilization increasing the likelihood of ectopic implantation.[8] The risk of developing a heterotopic pregnancy has been estimated as high as 1:100 in women seeking in vitro fertilization.[8] Ectopic pregnancies occur in 2.1% to 8.6% of in vitro fertilization conceptions, compared to around 2% in natural pregnancies.[4]
+Additionally, the growing rate of cesarean deliveries, currently 21% of births worldwide, may contribute to an increase in cesarean scar ectopic pregnancies, which has an incidence of approximately \<1%.[5][4] The incidence of heterotopic pregnancies, where both intrauterine and ectopic pregnancies occur simultaneously, has risen due to assisted reproductive technologies, with in vitro fertilization increasing the likelihood of ectopic implantation.[8] The risk of developing a heterotopic pregnancy has been estimated as high as 1:100 in women seeking in vitro fertilization.[8] Ectopic pregnancies occur in 2.1% to 8.6% of in vitro fertilization conceptions, compared to around 2% in natural pregnancies.[4]
 
 ## Pathophysiology
 
@@ -101,13 +100,13 @@ The most common site for ectopic pregnancy adherence is in the ampullary region 
 
 In ovarian ectopic pregnancy cases, Spiegelberg histology criteria are frequently used to differentiate this type of ectopic pregnancy from other ectopic locations.[11] Spiegelberg's criteria include the 4 following findings:
 
-  1. An intact fallopian tube distinct from the ovary on the side of the ectopic pregnancy
+1. An intact fallopian tube distinct from the ovary on the side of the ectopic pregnancy
 
-  2. A gestational sac replacing the ovary's position
+1. A gestational sac replacing the ovary's position
 
-  3. The ovary containing the gestational sac is connected to the uterus by the ovarian ligament
+1. The ovary containing the gestational sac is connected to the uterus by the ovarian ligament
 
-  4. The specimen has ovarian tissue attached to and within the wall of the gestational sac [11]
+1. The specimen has ovarian tissue attached to and within the wall of the gestational sac [11]
 
 With cesarean scar pregnancies, a migration of blastocyst into the myometrium is noted due to residual scarring defects from prior cesarean deliveries.[12] Histological findings of cesarean pregnancy included myometrial or scar tissue villous invasion with minimal decidua.[5] The depth of implantation determines the type of cesarean scar pregnancy, with type 1 having proximity to the uterine wall and type 2 implanting closer to the urinary bladder.[12]
 
@@ -131,7 +130,7 @@ Palpating a gravid uterus may suggest an intrauterine pregnancy; however, this d
 
 The diagnostic evaluation of ectopic pregnancy primarily relies on the assessment of serum beta-human chorionic gonadotropin (β-hCG) levels in conjunction with imaging modalities such as transvaginal ultrasonography (TVUS) and transabdominal ultrasonography (TAUS). Among these, TVUS has been demonstrated to be the most sensitive and accurate for early detection of ectopic pregnancy, particularly when enhanced with 3-dimensional imaging and color Doppler ultrasound (see **Image**. Ectopic Pregnancy).[4]
 
-Serum β-hCG trends play a crucial role in diagnosis. The presence of a β-hCG level >2000 mIU/mL without visualization of an intrauterine pregnancy (IUP) is highly suggestive of an ectopic pregnancy. The rate of β-hCG increase is also informative: in a viable IUP with an initial β-hCG level <1500 mIU/mL, a 99% likelihood of a minimum 49% rise over 48 hours is typical. A slower rise or a decrease of at least 21% over 48 hours is more indicative of miscarriage or an ectopic pregnancy. A decreasing serum β-hCG level is more suggestive of a spontaneous early pregnancy loss.[1][6] The discriminatory β-hCG level, the threshold above which an IUP should be visible on TVUS, varies based on equipment, sonographer expertise, and gestational number. Historically set between 1000 and 2000 mIU/mL, the American College of Obstetricians and Gynecologists has suggested using a cutoff of up to 3500 mIU/mL to prevent misdiagnosis and avoid unnecessary termination of a viable pregnancy.[1][6] Stable patients with a decreasing serum β-hCG in whom a possible ectopic pregnancy has not been excluded should continue to be monitored with serial β-hCG levels until undetectable.[1][6]
+Serum β-hCG trends play a crucial role in diagnosis. The presence of a β-hCG level >2000 mIU/mL without visualization of an intrauterine pregnancy (IUP) is highly suggestive of an ectopic pregnancy. The rate of β-hCG increase is also informative: in a viable IUP with an initial β-hCG level \<1500 mIU/mL, a 99% likelihood of a minimum 49% rise over 48 hours is typical. A slower rise or a decrease of at least 21% over 48 hours is more indicative of miscarriage or an ectopic pregnancy. A decreasing serum β-hCG level is more suggestive of a spontaneous early pregnancy loss.[1][6] The discriminatory β-hCG level, the threshold above which an IUP should be visible on TVUS, varies based on equipment, sonographer expertise, and gestational number. Historically set between 1000 and 2000 mIU/mL, the American College of Obstetricians and Gynecologists has suggested using a cutoff of up to 3500 mIU/mL to prevent misdiagnosis and avoid unnecessary termination of a viable pregnancy.[1][6] Stable patients with a decreasing serum β-hCG in whom a possible ectopic pregnancy has not been excluded should continue to be monitored with serial β-hCG levels until undetectable.[1][6]
 
 TVUS is the gold standard for diagnosing ectopic pregnancy, with definitive confirmation when a yolk sac or embryo is visualized outside the uterus (see **Image**. Ectopic Pregnancy, Ultrasound). However, many cases may not continue to develop to this point, necessitating additional diagnostic approaches, including serial β-hCG monitoring, repeat ultrasonography, and uterine aspiration. In cases where neither an IUP nor an ectopic pregnancy is identified, the pregnancy is categorized as a pregnancy of unknown location (PUL). In such cases, serial β-hCG monitoring and, in some instances, manual vacuum aspiration can help differentiate between a failing IUP and an ectopic pregnancy.[1][6]
 
@@ -143,7 +142,7 @@ Cervical pregnancies, once typically diagnosed in the second trimester or at the
 
 Cesarean scar pregnancies present unique diagnostic challenges. TVUS, often supplemented with color Doppler imaging, is the preferred method. Key findings include a low-lying anterior gestational sac within the hysterotomy scar, a thin or absent myometrial layer between the sac and the bladder, and a prominent vascular pattern at the scar site. Magnetic resonance imaging may also be performed to help diagnose a cesarean scar ectopic pregnancy. Early detection is crucial to prevent complications such as uterine rupture and severe hemorrhage.[5]
 
-Interstitial pregnancies present another diagnostic challenge. TVUS findings suggestive of interstitial implantation include the interstitial line sign, an eccentrically located gestational sac, and a surrounding myometrial mantle <5 mm thick. Three-dimensional sonography improves detection accuracy, while MRI can be employed for inconclusive cases. Differentiating interstitial from cornual pregnancies is vital, as interstitial ectopic pregnancies have less capacity to expand and are associated with hemoperitoneum and life-threatening hemorrhage, while some cornual pregnancies may be able to progress without resulting in spontaneous abortion but have a risk of persistent vaginal bleeding, retained placenta at delivery, and uterine rupture.[2]
+Interstitial pregnancies present another diagnostic challenge. TVUS findings suggestive of interstitial implantation include the interstitial line sign, an eccentrically located gestational sac, and a surrounding myometrial mantle \<5 mm thick. Three-dimensional sonography improves detection accuracy, while MRI can be employed for inconclusive cases. Differentiating interstitial from cornual pregnancies is vital, as interstitial ectopic pregnancies have less capacity to expand and are associated with hemoperitoneum and life-threatening hemorrhage, while some cornual pregnancies may be able to progress without resulting in spontaneous abortion but have a risk of persistent vaginal bleeding, retained placenta at delivery, and uterine rupture.[2]
 
 ## Treatment / Management
 
@@ -151,7 +150,7 @@ Interstitial pregnancies present another diagnostic challenge. TVUS findings sug
 
 In general, the treatment of an ectopic pregnancy balances the management of the ectopic gestation with the aim of preserving a patient's reproductive capacity as much as possible, if desired. Therefore, interventions should be tailored to optimize the patient's preferences for future reproductive outcomes.[3] The patient's hemodynamic stability directs the initial management approach for an ectopic pregnancy. Any patient exhibiting signs of a ruptured ectopic pregnancy should be urgently transferred for surgical intervention. If the ectopic pregnancy is diagnosed early, the patient remains hemodynamically stable, and the affected fallopian tube is intact, treatment options include medical management with intramuscular methotrexate or surgical options, eg, salpingostomy (removal of the ectopic pregnancy while preserving the fallopian tube) or salpingectomy (removal of part or all of the affected fallopian tube).[3] The choice between medical and surgical management depends on clinical findings, ultrasound results, serum β-hCG levels, and patient preference.
 
-In patients with an initial β-hCG level of <200 mIU/mL, 88% of ectopic pregnancies spontaneously resolved with expectant management. Therefore, expectant management, though seldom used, may be considered in select patients who are asymptomatic with low and declining β-hCG levels and who are accepting of the risks for tubal rupture or hemorrhage.[1][6] Medical or surgical treatment should be initiated; however, if the patient begins to have pain, persistent or increasing β-hCG levels, or begins to show signs of tubal rupture.[6][1]
+In patients with an initial β-hCG level of \<200 mIU/mL, 88% of ectopic pregnancies spontaneously resolved with expectant management. Therefore, expectant management, though seldom used, may be considered in select patients who are asymptomatic with low and declining β-hCG levels and who are accepting of the risks for tubal rupture or hemorrhage.[1][6] Medical or surgical treatment should be initiated; however, if the patient begins to have pain, persistent or increasing β-hCG levels, or begins to show signs of tubal rupture.[6][1]
 
 **Medical management**
 
@@ -159,29 +158,29 @@ Though surgical removal of an ectopic pregnancy provides definitive treatment, f
 
 Absolute contraindications to methotrexate include:
 
-  * Hemodynamic instability
+- Hemodynamic instability
 
-  * Anemia, leukopenia, thrombocytopenia
+- Anemia, leukopenia, thrombocytopenia
 
-  * Immunodeficiency
+- Immunodeficiency
 
-  * Ruptured ectopic pregnancy
+- Ruptured ectopic pregnancy
 
-  * Renal or hepatic dysfunction
+- Renal or hepatic dysfunction
 
-  * Unreliable follow-up
+- Unreliable follow-up
 
-  * Active pulmonary or peptic ulcer disease
+- Active pulmonary or peptic ulcer disease
 
-  * Breastfeeding
+- Breastfeeding
 
 Relative contraindications to methotrexate include:
 
-  * Fetal cardiac activity
+- Fetal cardiac activity
 
-  * Serum β-hCG levels > 5000 mIU/mL or adenxal mass > 4 cm in diameter
+- Serum β-hCG levels > 5000 mIU/mL or adenxal mass > 4 cm in diameter
 
-  * Blood transfusion refusal
+- Blood transfusion refusal
 
 Before administrating methotrexate, patients should be assessed for the presence of these contraindications, including a complete blood count and metabolic panel.[4]
 
@@ -207,23 +206,23 @@ Medical management of cesarean scar ectopic pregnancy typically involves local o
 
 Differential diagnoses to consider with ectopic pregnancies include:
 
-  * Ovarian torsion
+- Ovarian torsion
 
-  * Tubo-ovarian abscess
+- Tubo-ovarian abscess
 
-  * Appendicitis
+- Appendicitis
 
-  * Hemorrhagic corpus luteum
+- Hemorrhagic corpus luteum
 
-  * Ovarian cyst rupture
+- Ovarian cyst rupture
 
-  * Threatened miscarriage
+- Threatened miscarriage
 
-  * Incomplete miscarriage
+- Incomplete miscarriage
 
-  * Pelvic inflammatory disease 
+- Pelvic inflammatory disease
 
-  * Ureteral calculi [1]
+- Ureteral calculi [1]
 
 ## Prognosis
 
@@ -235,21 +234,21 @@ Patients with a history of ectopic pregnancy are at increased risk for recurrenc
 
 Complications of ectopic pregnancy include:
 
-  * Tubal rupture
+- Tubal rupture
 
-  * Severe hemorrhage
+- Severe hemorrhage
 
-  * Blood transfusion
+- Blood transfusion
 
-  * Hemodynamic shock leading to multiorgan failure
+- Hemodynamic shock leading to multiorgan failure
 
-  * Fertility impairment
+- Fertility impairment
 
-  * Recurrent ectopic pregnancy
+- Recurrent ectopic pregnancy
 
-  * Adhesion formation
+- Adhesion formation
 
-  * Emotional and psychological distress [4][6][1][15]
+- Emotional and psychological distress [4][6][1][15]
 
 ## Deterrence and Patient Education
 
@@ -259,7 +258,7 @@ Clinicians should also counsel patients on modifiable risk factors, eg, smoking 
 
 Patients who seek medical treatment for ectopic pregnancy may need to discuss with their obstetrician which foods, supplements, and drugs to avoid when taking methotrexate, as there may be decreased efficacy due to adverse interactions with the drug. Methotrexate may increase immunosuppression when paired with other medications, among other potential adverse effects. Patients undergoing surgical interventions must adhere to the surgeon's recommendations to limit the risk of infection and other postoperative complications.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Effective management of ectopic pregnancy requires a well-coordinated, interprofessional approach to ensure accurate diagnosis, timely treatment, and optimal patient outcomes. When a woman presents to the emergency department with symptoms suggestive of an ectopic pregnancy, the healthcare team—including nurses, emergency physicians, obstetricians, advanced practitioners, and pharmacists—must work collectively to provide efficient, patient-centered care. Nurses play a critical role in the initial assessment by recognizing key symptoms and ensuring prompt evaluation by a physician. It is the responsibility of the clinician to consider ectopic pregnancy in any sexually active woman of childbearing age presenting with abdominal pain or vaginal bleeding. Evidence-based tools can enhance diagnostic accuracy and reduce unnecessary testing or delays in care. By incorporating standardized protocols and leveraging clinical decision-making models, healthcare teams can improve efficiency and enhance patient safety.
 
@@ -267,11 +266,11 @@ Interprofessional communication is essential in the management of ectopic pregna
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27633&utm_source=pubmed&utm_campaign=reviews&utm_content=27633)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=27633&utm_source=pubmed&utm_campaign=reviews&utm_content=27633)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/womens-health/ectopic-pregnancy/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=27633)
+- [Click here for a simplified version.](https://mdsearchlight.com/womens-health/ectopic-pregnancy/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=27633)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27633/?utm_source=pubmed&utm_campaign=comments&utm_content=27633)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/27633/?utm_source=pubmed&utm_campaign=comments&utm_content=27633)
 
 [![Ectopic Pregnancy](/books/NBK539860/bin/A__-__pos__FAST__ectopic.gif)](/books/NBK539860/figure/article-27633.image.f1/?report=objectonly "Figure")
 
@@ -283,101 +282,82 @@ Ectopic Pregnancy. Positive FAST exam in the RUQ in a patient with suspected ect
 
 #### [Figure](/books/NBK539860/figure/article-27633.image.f2/?report=objectonly)
 
-Ectopic Pregnancy, Ultrasound. This ultrasound image reveals an ectopic pregnancy. Contributed by K Ghaffarian, DO 
+Ectopic Pregnancy, Ultrasound. This ultrasound image reveals an ectopic pregnancy. Contributed by K Ghaffarian, DO
 
 [![Cervical Ectopic Pregnancy](/books/NBK539860/bin/ultrasound__of__cervical__ectopic__pregnancy__x2x.gif)](/books/NBK539860/figure/article-27633.image.f3/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK539860/figure/article-27633.image.f3/?report=objectonly)
 
-Cervical Ectopic Pregnancy. Ultrasound image demonstrating an ectopic pregnancy within the endocervical canal. Contributed by KS Carlson, MD 
+Cervical Ectopic Pregnancy. Ultrasound image demonstrating an ectopic pregnancy within the endocervical canal. Contributed by KS Carlson, MD
 
 [![Tubal Ectopic Pregnancy](/books/NBK539860/bin/left__tubal__ectopic__pregnancy.gif)](/books/NBK539860/figure/article-27633.image.f4/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK539860/figure/article-27633.image.f4/?report=objectonly)
 
-Tubal Ectopic Pregnancy. Ectopic pregnancy in left fallopian tube with significant adhesive disease noted to pelvic sidewall. Contributed by KS Carlson, MD 
+Tubal Ectopic Pregnancy. Ectopic pregnancy in left fallopian tube with significant adhesive disease noted to pelvic sidewall. Contributed by KS Carlson, MD
 
 ## References
 
 1.
-    
 
-Hendriks E, Rosenberg R, Prine L. Ectopic Pregnancy: Diagnosis and Management. Am Fam Physician. 2020 May 15;101(10):599-606. [[PubMed: 32412215](https://pubmed.ncbi.nlm.nih.gov/32412215)]
+Hendriks E, Rosenberg R, Prine L. Ectopic Pregnancy: Diagnosis and Management. Am Fam Physician. 2020 May 15;101(10):599-606. \[[PubMed: 32412215](https://pubmed.ncbi.nlm.nih.gov/32412215)\]
 
 2.
-    
 
-Fylstra DL. Ectopic pregnancy not within the (distal) fallopian tube: etiology, diagnosis, and treatment. Am J Obstet Gynecol. 2012 Apr;206(4):289-99. [[PubMed: 22177188](https://pubmed.ncbi.nlm.nih.gov/22177188)]
+Fylstra DL. Ectopic pregnancy not within the (distal) fallopian tube: etiology, diagnosis, and treatment. Am J Obstet Gynecol. 2012 Apr;206(4):289-99. \[[PubMed: 22177188](https://pubmed.ncbi.nlm.nih.gov/22177188)\]
 
 3.
-    
 
-Hao HJ, Feng L, Dong LF, Zhang W, Zhao XL. Reproductive outcomes of ectopic pregnancy with conservative and surgical treatment: A systematic review and meta-analysis. Medicine (Baltimore). 2023 Apr 25;102(17):e33621. [[PMC free article: PMC10145868](/pmc/articles/PMC10145868/)] [[PubMed: 37115078](https://pubmed.ncbi.nlm.nih.gov/37115078)]
+Hao HJ, Feng L, Dong LF, Zhang W, Zhao XL. Reproductive outcomes of ectopic pregnancy with conservative and surgical treatment: A systematic review and meta-analysis. Medicine (Baltimore). 2023 Apr 25;102(17):e33621. \[[PMC free article: PMC10145868](/pmc/articles/PMC10145868/)\] \[[PubMed: 37115078](https://pubmed.ncbi.nlm.nih.gov/37115078)\]
 
 4.
-    
 
-Mullany K, Minneci M, Monjazeb R, C Coiado O. Overview of ectopic pregnancy diagnosis, management, and innovation. Womens Health (Lond). 2023 Jan-Dec;19:17455057231160349. [[PMC free article: PMC10071153](/pmc/articles/PMC10071153/)] [[PubMed: 36999281](https://pubmed.ncbi.nlm.nih.gov/36999281)]
+Mullany K, Minneci M, Monjazeb R, C Coiado O. Overview of ectopic pregnancy diagnosis, management, and innovation. Womens Health (Lond). 2023 Jan-Dec;19:17455057231160349. \[[PMC free article: PMC10071153](/pmc/articles/PMC10071153/)\] \[[PubMed: 36999281](https://pubmed.ncbi.nlm.nih.gov/36999281)\]
 
 5.
-    
 
-Society for Maternal-Fetal Medicine (SMFM). Miller R, Gyamfi-Bannerman C., Publications Committee. Electronic address: pubs@smfm.org. Society for Maternal-Fetal Medicine Consult Series #63: Cesarean scar ectopic pregnancy. Am J Obstet Gynecol. 2022 Sep;227(3):B9-B20. [[PubMed: 35850938](https://pubmed.ncbi.nlm.nih.gov/35850938)]
+Society for Maternal-Fetal Medicine (SMFM). Miller R, Gyamfi-Bannerman C., Publications Committee. Electronic address: pubs@smfm.org. Society for Maternal-Fetal Medicine Consult Series #63: Cesarean scar ectopic pregnancy. Am J Obstet Gynecol. 2022 Sep;227(3):B9-B20. \[[PubMed: 35850938](https://pubmed.ncbi.nlm.nih.gov/35850938)\]
 
 6.
-    
 
-American College of Obstetricians and Gynecologists' Committee on Practice Bulletins—Gynecology. ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018 Mar;131(3):e91-e103. [[PubMed: 29470343](https://pubmed.ncbi.nlm.nih.gov/29470343)]
+American College of Obstetricians and Gynecologists' Committee on Practice Bulletins—Gynecology. ACOG Practice Bulletin No. 193: Tubal Ectopic Pregnancy. Obstet Gynecol. 2018 Mar;131(3):e91-e103. \[[PubMed: 29470343](https://pubmed.ncbi.nlm.nih.gov/29470343)\]
 
 7.
-    
 
-Link CA, Maissiat J, Mol BW, Barnhart KT, Savaris RF. Diagnosing ectopic pregnancy using Bayes theorem: a retrospective cohort study. Fertil Steril. 2023 Jan;119(1):78-86. [[PubMed: 36307292](https://pubmed.ncbi.nlm.nih.gov/36307292)]
+Link CA, Maissiat J, Mol BW, Barnhart KT, Savaris RF. Diagnosing ectopic pregnancy using Bayes theorem: a retrospective cohort study. Fertil Steril. 2023 Jan;119(1):78-86. \[[PubMed: 36307292](https://pubmed.ncbi.nlm.nih.gov/36307292)\]
 
 8.
-    
 
-Panelli DM, Phillips CH, Brady PC. Incidence, diagnosis and management of tubal and nontubal ectopic pregnancies: a review. Fertil Res Pract. 2015;1:15. [[PMC free article: PMC5424401](/pmc/articles/PMC5424401/)] [[PubMed: 28620520](https://pubmed.ncbi.nlm.nih.gov/28620520)]
+Panelli DM, Phillips CH, Brady PC. Incidence, diagnosis and management of tubal and nontubal ectopic pregnancies: a review. Fertil Res Pract. 2015;1:15. \[[PMC free article: PMC5424401](/pmc/articles/PMC5424401/)\] \[[PubMed: 28620520](https://pubmed.ncbi.nlm.nih.gov/28620520)\]
 
 9.
-    
 
-Chukus A, Tirada N, Restrepo R, Reddy NI. Uncommon Implantation Sites of Ectopic Pregnancy: Thinking beyond the Complex Adnexal Mass. Radiographics. 2015 May-Jun;35(3):946-59. [[PubMed: 25860721](https://pubmed.ncbi.nlm.nih.gov/25860721)]
+Chukus A, Tirada N, Restrepo R, Reddy NI. Uncommon Implantation Sites of Ectopic Pregnancy: Thinking beyond the Complex Adnexal Mass. Radiographics. 2015 May-Jun;35(3):946-59. \[[PubMed: 25860721](https://pubmed.ncbi.nlm.nih.gov/25860721)\]
 
 10.
-    
 
-Hayashi T, Sano K, Konishi I. Histopathological Findings of Ectopic Pregnancy in Contraceptive-Wearing Woman. J Clin Med Res. 2023 Jul;15(7):384-389. [[PMC free article: PMC10416193](/pmc/articles/PMC10416193/)] [[PubMed: 37575351](https://pubmed.ncbi.nlm.nih.gov/37575351)]
+Hayashi T, Sano K, Konishi I. Histopathological Findings of Ectopic Pregnancy in Contraceptive-Wearing Woman. J Clin Med Res. 2023 Jul;15(7):384-389. \[[PMC free article: PMC10416193](/pmc/articles/PMC10416193/)\] \[[PubMed: 37575351](https://pubmed.ncbi.nlm.nih.gov/37575351)\]
 
 11.
-    
 
-Hans P, Gunjan G. Ovarian Pregnancy. Cureus. 2022 Nov;14(11):e31316. [[PMC free article: PMC9733817](/pmc/articles/PMC9733817/)] [[PubMed: 36514605](https://pubmed.ncbi.nlm.nih.gov/36514605)]
+Hans P, Gunjan G. Ovarian Pregnancy. Cureus. 2022 Nov;14(11):e31316. \[[PMC free article: PMC9733817](/pmc/articles/PMC9733817/)\] \[[PubMed: 36514605](https://pubmed.ncbi.nlm.nih.gov/36514605)\]
 
 12.
-    
 
-Maheux-Lacroix S, Li F, Bujold E, Nesbitt-Hawes E, Deans R, Abbott J. Cesarean Scar Pregnancies: A Systematic Review of Treatment Options. J Minim Invasive Gynecol. 2017 Sep-Oct;24(6):915-925. [[PubMed: 28599886](https://pubmed.ncbi.nlm.nih.gov/28599886)]
+Maheux-Lacroix S, Li F, Bujold E, Nesbitt-Hawes E, Deans R, Abbott J. Cesarean Scar Pregnancies: A Systematic Review of Treatment Options. J Minim Invasive Gynecol. 2017 Sep-Oct;24(6):915-925. \[[PubMed: 28599886](https://pubmed.ncbi.nlm.nih.gov/28599886)\]
 
 13.
-    
 
-Carusi D. Pregnancy of unknown location: Evaluation and management. Semin Perinatol. 2019 Mar;43(2):95-100. [[PubMed: 30606496](https://pubmed.ncbi.nlm.nih.gov/30606496)]
+Carusi D. Pregnancy of unknown location: Evaluation and management. Semin Perinatol. 2019 Mar;43(2):95-100. \[[PubMed: 30606496](https://pubmed.ncbi.nlm.nih.gov/30606496)\]
 
 14.
-    
 
-Alur-Gupta S, Cooney LG, Senapati S, Sammel MD, Barnhart KT. Two-dose versus single-dose methotrexate for treatment of ectopic pregnancy: a meta-analysis. Am J Obstet Gynecol. 2019 Aug;221(2):95-108.e2. [[PMC free article: PMC6612469](/pmc/articles/PMC6612469/)] [[PubMed: 30629908](https://pubmed.ncbi.nlm.nih.gov/30629908)]
+Alur-Gupta S, Cooney LG, Senapati S, Sammel MD, Barnhart KT. Two-dose versus single-dose methotrexate for treatment of ectopic pregnancy: a meta-analysis. Am J Obstet Gynecol. 2019 Aug;221(2):95-108.e2. \[[PMC free article: PMC6612469](/pmc/articles/PMC6612469/)\] \[[PubMed: 30629908](https://pubmed.ncbi.nlm.nih.gov/30629908)\]
 
 15.
-    
 
-Mackenzie SC, Moakes CA, Duncan WC, Tong S, Horne AW. Subsequent pregnancy outcomes among women with tubal ectopic pregnancy treated with methotrexate. Reprod Fertil. 2023 Apr 01;4(2) [[PMC free article: PMC10305469](/pmc/articles/PMC10305469/)] [[PubMed: 37252839](https://pubmed.ncbi.nlm.nih.gov/37252839)]
-
-    
+Mackenzie SC, Moakes CA, Duncan WC, Tong S, Horne AW. Subsequent pregnancy outcomes among women with tubal ectopic pregnancy treated with methotrexate. Reprod Fertil. 2023 Apr 01;4(2) \[[PMC free article: PMC10305469](/pmc/articles/PMC10305469/)\] \[[PubMed: 37252839](https://pubmed.ncbi.nlm.nih.gov/37252839)\]
 
 **Disclosure:** Elsa Vadakekut declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** David Gnugnoli declares no relevant financial relationships with ineligible companies.

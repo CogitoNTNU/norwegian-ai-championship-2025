@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-74978/
-scraped_date: 2025-07-22 12:42:30 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-74978/ scraped_date: 2025-07-22 12:42:30 UTC
 
 # Adult Diabetic Ketoacidosis
 
@@ -29,13 +28,13 @@ Diabetic ketoacidosis (DKA) is characterized by uncontrolled hyperglycemia, meta
 
 **Objectives:**
 
-  * Review the etiology of diabetic ketoacidosis.
+- Review the etiology of diabetic ketoacidosis.
 
-  * Describe the management of a patient with diabetic ketoacidosis.
+- Describe the management of a patient with diabetic ketoacidosis.
 
-  * Summarize the abnormal laboratory parameters in a patient with diabetic ketoacidosis.
+- Summarize the abnormal laboratory parameters in a patient with diabetic ketoacidosis.
 
-  * Explain the importance of improving care coordination among an interprofessional team to improve outcomes for patients affected by diabetic ketoacidosis.
+- Explain the importance of improving care coordination among an interprofessional team to improve outcomes for patients affected by diabetic ketoacidosis.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=74978&utm_source=pubmed&utm_campaign=reviews&utm_content=74978)
 
@@ -83,7 +82,7 @@ On examination, vital signs typically reveal tachycardia and tachypnea. Due to t
 
 ## Evaluation
 
-Commonly accepted criteria for diabetic ketoacidosis are blood glucose greater than 250 mg/dl, arterial pH less than 7.3, serum bicarbonate less than 15 mEq/l, and the presence of ketonemia or ketonuria. The normal anion gap is 12 mEq/l. Anion gap greater than 14-15 mEq/l indicates the presence of an increased anion gap metabolic acidosis.[17] Arterial pH may be normal or even raised if other types of metabolic or respiratory alkalosis coexist. Typical examples are vomiting or diuretic use.[18] Blood glucose may be normal or minimally elevated in patients with DKA (<300 mg/dl), where the underlying risk of hypoglycemia preexists, such as in patients with alcohol use disorder or patients receiving insulin or SGLT2 inhibitors. 
+Commonly accepted criteria for diabetic ketoacidosis are blood glucose greater than 250 mg/dl, arterial pH less than 7.3, serum bicarbonate less than 15 mEq/l, and the presence of ketonemia or ketonuria. The normal anion gap is 12 mEq/l. Anion gap greater than 14-15 mEq/l indicates the presence of an increased anion gap metabolic acidosis.[17] Arterial pH may be normal or even raised if other types of metabolic or respiratory alkalosis coexist. Typical examples are vomiting or diuretic use.[18] Blood glucose may be normal or minimally elevated in patients with DKA (\<300 mg/dl), where the underlying risk of hypoglycemia preexists, such as in patients with alcohol use disorder or patients receiving insulin or SGLT2 inhibitors.
 
 The majority of patients with DKA who present to the hospital are found to have leukocytosis. Serum sodium in the lab report is falsely low in DKA and can be corrected by adding 1.6 mEq to the measured serum sodium for each 100 mg/dl of glucose above 100 mg/dl. Serum potassium is usually elevated because of a shift of potassium from the intracellular to the extracellular space caused by acidosis and insulin deficiency. However, total body potassium may be depleted or may quickly become depleted with insulin administration. Magnesium is often low and requires repletion as well. The serum phosphate level in DKA may be elevated despite total-body phosphate depletion.[19]
 
@@ -99,15 +98,15 @@ Imaging: A chest X-ray may be done to rule out consolidation. MRI, and to some d
 
 ## Treatment / Management
 
-Fluid resuscitation and maintenance, insulin therapy, electrolyte replacement, and supportive care are the mainstays of management in diabetic ketoacidosis. 
+Fluid resuscitation and maintenance, insulin therapy, electrolyte replacement, and supportive care are the mainstays of management in diabetic ketoacidosis.
 
 **Hydration**
 
-In patients with DKA, the fluid deficit could be up to 10-15% of the body weight.[1] Immediate fluid resuscitation is vital to correct hypovolemia, restore tissue perfusion, and to clear ketones. Hydration improves glycemic control independent of insulin. 
+In patients with DKA, the fluid deficit could be up to 10-15% of the body weight.[1] Immediate fluid resuscitation is vital to correct hypovolemia, restore tissue perfusion, and to clear ketones. Hydration improves glycemic control independent of insulin.
 
 **Choice of Fluids**
 
-Isotonic fluids have been well established for more than 50 years as preferred fluids. Colloids vs. crystalloids were compared for critically ill patients, in a 2013 meta-analysis, and crystalloid was found to be non-inferior.[24] Traditionally, 0.9% normal saline has been used. There has been a concern that normal saline may contribute to hyperchloremia and hyperchloremic metabolic acidosis; however, this typically occurs when it is used for large volumes. There have been small studies comparing normal saline with other solutions like Ringer lactate. These studies did not show differences in clinical outcomes.[25][26][27] Normal saline continues to be used for initial hydration. 
+Isotonic fluids have been well established for more than 50 years as preferred fluids. Colloids vs. crystalloids were compared for critically ill patients, in a 2013 meta-analysis, and crystalloid was found to be non-inferior.[24] Traditionally, 0.9% normal saline has been used. There has been a concern that normal saline may contribute to hyperchloremia and hyperchloremic metabolic acidosis; however, this typically occurs when it is used for large volumes. There have been small studies comparing normal saline with other solutions like Ringer lactate. These studies did not show differences in clinical outcomes.[25][26][27] Normal saline continues to be used for initial hydration.
 
 **Infusion Rate**
 
@@ -121,7 +120,7 @@ The subsequent choice for fluid replacement depends on hemodynamics, the state o
 
 **Insulin Therapy**
 
-The discovery of insulin, along with the antibiotics, has led to a drastic decrease in mortality with DKA, down to 1%. Intravenous insulin by continuous infusion is the standard of care. Previous treatment protocols have recommended the administration of an initial bolus of 0.1 U/kg, followed by the infusion of 0.1 U/kg/h. A more recent prospective randomized trial demonstrated that a bolus is not necessary if patients are given hourly insulin infusion at 0.14 U/kg/hr.[31] When the plasma glucose reaches 200-250 mg/dl, and if the patient still has an anion gap, then dextrose containing fluids should be initiated, and the insulin infusion rate may need to be reduced. 
+The discovery of insulin, along with the antibiotics, has led to a drastic decrease in mortality with DKA, down to 1%. Intravenous insulin by continuous infusion is the standard of care. Previous treatment protocols have recommended the administration of an initial bolus of 0.1 U/kg, followed by the infusion of 0.1 U/kg/h. A more recent prospective randomized trial demonstrated that a bolus is not necessary if patients are given hourly insulin infusion at 0.14 U/kg/hr.[31] When the plasma glucose reaches 200-250 mg/dl, and if the patient still has an anion gap, then dextrose containing fluids should be initiated, and the insulin infusion rate may need to be reduced.
 
 Treatment of adult patients who have uncomplicated, mild diabetic ketoacidosis can be treated with subcutaneous insulin lispro hourly in a non-intensive care setting may be safe and cost-effective as opposed to treatment with intravenous regular insulin in the intensive care setting as shown in many studies.[32] In one of these studies, the patients received subcutaneous insulin lispro at a dose of 0.3 U/kg initially, followed by 0.1 U/kg every hour until blood glucose was less than 250 mg/dl. Then insulin dose was decreased to 0.05 or 0.1 U/kg given every hour until the resolution of DKA.[32] Similarly, insulin aspart has been used and found to be similar in efficacy.[33]
 
@@ -149,13 +148,13 @@ The role of phosphate replacement in DKA has been looked at in different studies
 
 **Laboratory Monitoring**
 
-  * Hourly point-of-care testing (POCT) glucose should be performed
+- Hourly point-of-care testing (POCT) glucose should be performed
 
-  * Serum glucose and electrolyte levels may need to be done every 2 hours until the patient is stable, then every 4 hours
+- Serum glucose and electrolyte levels may need to be done every 2 hours until the patient is stable, then every 4 hours
 
-  * Initial blood urea nitrogen (BUN)
+- Initial blood urea nitrogen (BUN)
 
-  * Initial VBG or ABG monitoring, followed by as-needed precipitating events
+- Initial VBG or ABG monitoring, followed by as-needed precipitating events
 
 **Intubation**
 
@@ -163,7 +162,7 @@ There are multiple risks associated with intubation in patients with DKA. Intuba
 
 **Cerebral Edema**
 
-Mental status and neurologic exam should be monitored in all patients with DKA. In any patient who is severely obtunded or comatose or who has declining mental status despite treatment or focal neurologic deficits, there should be a very low threshold to treat for cerebral edema. Mannitol is typically the first-line agent, though there are also studies in both TBI literature and DKA literature regarding the use of 3% saline. 
+Mental status and neurologic exam should be monitored in all patients with DKA. In any patient who is severely obtunded or comatose or who has declining mental status despite treatment or focal neurologic deficits, there should be a very low threshold to treat for cerebral edema. Mannitol is typically the first-line agent, though there are also studies in both TBI literature and DKA literature regarding the use of 3% saline.
 
 **Precipitating Events**
 
@@ -173,25 +172,25 @@ Infection is a very common trigger for DKA in patients who have new-onset diabet
 
 Diabetic ketoacidosis has a diverse presentation, and this is why several other common pathologies may mimic this diagnosis. It is imperative for the providers to consider the following differential diagnoses when the diagnosis of DKA is suspected:
 
-  * Hyperosmolar hyperglycemic nonketotic syndrome
+- Hyperosmolar hyperglycemic nonketotic syndrome
 
-  * Starvation ketosis
+- Starvation ketosis
 
-  * Myocardial infarction
+- Myocardial infarction
 
-  * Pancreatitis
+- Pancreatitis
 
-  * Alcoholic ketoacidosis
+- Alcoholic ketoacidosis
 
-  * Lactic acidosis
+- Lactic acidosis
 
-  * Sepsis 
+- Sepsis
 
-  * Toxicologic exposure (ethylene glycol, methanol, paraldehyde, salicylate)
+- Toxicologic exposure (ethylene glycol, methanol, paraldehyde, salicylate)
 
-  * Diabetic medication overdose
+- Diabetic medication overdose
 
-  * Uremia
+- Uremia
 
 ## Prognosis
 
@@ -201,7 +200,7 @@ The most important cause of mortality is cerebral edema, usually seen in younger
 
 ## Complications
 
-Hypoglycemia is the most common complication of diabetic ketoacidosis while being treated, occurring in an estimated 5–25% of patients with DKA.[37] Acute adverse outcomes of hypoglycemia include seizures, arrhythmias, and cardiovascular events. Hourly blood sugar monitoring is needed in the acute phase of treatment. 
+Hypoglycemia is the most common complication of diabetic ketoacidosis while being treated, occurring in an estimated 5–25% of patients with DKA.[37] Acute adverse outcomes of hypoglycemia include seizures, arrhythmias, and cardiovascular events. Hourly blood sugar monitoring is needed in the acute phase of treatment.
 
 Hypokalemia is common. Severe hypokalemia can cause muscle weakness, cardiac arrhythmias, and cardiac arrest.[8] Monitoring and management are described in this article under the DKA management section in detail. Other possible electrolyte disturbances are hyperchloremia, which can occur in up to 1/3rd of patients, and hypomagnesemia, and hyponatremia.[42]
 
@@ -217,7 +216,7 @@ TTP and myocarditis have also been described with DKA.
 
 Education on the disease process of diabetes, including short and long term complications, should be given to all patients. Patients should be taught how and when to check their glucose. Patients should receive education about how to use oral hypoglycemic meds and/or insulin, their side effects, and the importance of compliance. Dietitians, nurses, and multi-disciplinary home health can be important members of the team in assisting with this education.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Diabetic ketoacidosis is a life-threatening complication of diabetes, and any delay in treatment can lead to death. The disorder can present with varied signs and symptoms and affects many organs; thus, it is best managed by an interprofessional team dedicated to the management of patients with diabetes mellitus. The majority of patients first present to the emergency department, and it is here that the treatment usually starts.
 
@@ -237,242 +236,192 @@ In developed countries, the morbidity and mortality rates are low chiefly becaus
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=74978&utm_source=pubmed&utm_campaign=reviews&utm_content=74978)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=74978&utm_source=pubmed&utm_campaign=reviews&utm_content=74978)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/diabetes/adult-diabetic-ketoacidosis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=74978)
+- [Click here for a simplified version.](https://mdsearchlight.com/diabetes/adult-diabetic-ketoacidosis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=74978)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/74978/?utm_source=pubmed&utm_campaign=comments&utm_content=74978)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/74978/?utm_source=pubmed&utm_campaign=comments&utm_content=74978)
 
 ## References
 
 1.
-    
 
-Kitabchi AE, Umpierrez GE, Miles JM, Fisher JN. Hyperglycemic crises in adult patients with diabetes. Diabetes Care. 2009 Jul;32(7):1335-43. [[PMC free article: PMC2699725](/pmc/articles/PMC2699725/)] [[PubMed: 19564476](https://pubmed.ncbi.nlm.nih.gov/19564476)]
+Kitabchi AE, Umpierrez GE, Miles JM, Fisher JN. Hyperglycemic crises in adult patients with diabetes. Diabetes Care. 2009 Jul;32(7):1335-43. \[[PMC free article: PMC2699725](/pmc/articles/PMC2699725/)\] \[[PubMed: 19564476](https://pubmed.ncbi.nlm.nih.gov/19564476)\]
 
 2.
-    
 
-Taylor SI, Blau JE, Rother KI. SGLT2 Inhibitors May Predispose to Ketoacidosis. J Clin Endocrinol Metab. 2015 Aug;100(8):2849-52. [[PMC free article: PMC4525004](/pmc/articles/PMC4525004/)] [[PubMed: 26086329](https://pubmed.ncbi.nlm.nih.gov/26086329)]
+Taylor SI, Blau JE, Rother KI. SGLT2 Inhibitors May Predispose to Ketoacidosis. J Clin Endocrinol Metab. 2015 Aug;100(8):2849-52. \[[PMC free article: PMC4525004](/pmc/articles/PMC4525004/)\] \[[PubMed: 26086329](https://pubmed.ncbi.nlm.nih.gov/26086329)\]
 
 3.
-    
 
-Rawla P, Vellipuram AR, Bandaru SS, Pradeep Raj J. Euglycemic diabetic ketoacidosis: a diagnostic and therapeutic dilemma. Endocrinol Diabetes Metab Case Rep. 2017;2017 [[PMC free article: PMC5592704](/pmc/articles/PMC5592704/)] [[PubMed: 28924481](https://pubmed.ncbi.nlm.nih.gov/28924481)]
+Rawla P, Vellipuram AR, Bandaru SS, Pradeep Raj J. Euglycemic diabetic ketoacidosis: a diagnostic and therapeutic dilemma. Endocrinol Diabetes Metab Case Rep. 2017;2017 \[[PMC free article: PMC5592704](/pmc/articles/PMC5592704/)\] \[[PubMed: 28924481](https://pubmed.ncbi.nlm.nih.gov/28924481)\]
 
 4.
-    
 
-Gosmanov AR, Kitabchi AE. Diabetic Ketoacidosis. In: Feingold KR, Ahmed SF, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, Muzumdar R, Purnell J, Rey R, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Apr 28, 2018. [[PubMed: 25905369](https://pubmed.ncbi.nlm.nih.gov/25905369)]
+Gosmanov AR, Kitabchi AE. Diabetic Ketoacidosis. In: Feingold KR, Ahmed SF, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, Muzumdar R, Purnell J, Rey R, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Apr 28, 2018. \[[PubMed: 25905369](https://pubmed.ncbi.nlm.nih.gov/25905369)\]
 
 5.
-    
 
-Fazeli Farsani S, Brodovicz K, Soleymanlou N, Marquard J, Wissinger E, Maiese BA. Incidence and prevalence of diabetic ketoacidosis (DKA) among adults with type 1 diabetes mellitus (T1D): a systematic literature review. BMJ Open. 2017 Aug 01;7(7):e016587. [[PMC free article: PMC5642652](/pmc/articles/PMC5642652/)] [[PubMed: 28765134](https://pubmed.ncbi.nlm.nih.gov/28765134)]
+Fazeli Farsani S, Brodovicz K, Soleymanlou N, Marquard J, Wissinger E, Maiese BA. Incidence and prevalence of diabetic ketoacidosis (DKA) among adults with type 1 diabetes mellitus (T1D): a systematic literature review. BMJ Open. 2017 Aug 01;7(7):e016587. \[[PMC free article: PMC5642652](/pmc/articles/PMC5642652/)\] \[[PubMed: 28765134](https://pubmed.ncbi.nlm.nih.gov/28765134)\]
 
 6.
-    
 
-Große J, Hornstein H, Manuwald U, Kugler J, Glauche I, Rothe U. Incidence of Diabetic Ketoacidosis of New-Onset Type 1 Diabetes in Children and Adolescents in Different Countries Correlates with Human Development Index (HDI): An Updated Systematic Review, Meta-Analysis, and Meta-Regression. Horm Metab Res. 2018 Mar;50(3):209-222. [[PubMed: 29523007](https://pubmed.ncbi.nlm.nih.gov/29523007)]
+Große J, Hornstein H, Manuwald U, Kugler J, Glauche I, Rothe U. Incidence of Diabetic Ketoacidosis of New-Onset Type 1 Diabetes in Children and Adolescents in Different Countries Correlates with Human Development Index (HDI): An Updated Systematic Review, Meta-Analysis, and Meta-Regression. Horm Metab Res. 2018 Mar;50(3):209-222. \[[PubMed: 29523007](https://pubmed.ncbi.nlm.nih.gov/29523007)\]
 
 7.
-    
 
-Wachtel TJ, Tetu-Mouradjian LM, Goldman DL, Ellis SE, O'Sullivan PS. Hyperosmolarity and acidosis in diabetes mellitus: a three-year experience in Rhode Island. J Gen Intern Med. 1991 Nov-Dec;6(6):495-502. [[PubMed: 1765864](https://pubmed.ncbi.nlm.nih.gov/1765864)]
+Wachtel TJ, Tetu-Mouradjian LM, Goldman DL, Ellis SE, O'Sullivan PS. Hyperosmolarity and acidosis in diabetes mellitus: a three-year experience in Rhode Island. J Gen Intern Med. 1991 Nov-Dec;6(6):495-502. \[[PubMed: 1765864](https://pubmed.ncbi.nlm.nih.gov/1765864)\]
 
 8.
-    
 
-Umpierrez GE, Kelly JP, Navarrete JE, Casals MM, Kitabchi AE. Hyperglycemic crises in urban blacks. Arch Intern Med. 1997 Mar 24;157(6):669-75. [[PubMed: 9080921](https://pubmed.ncbi.nlm.nih.gov/9080921)]
+Umpierrez GE, Kelly JP, Navarrete JE, Casals MM, Kitabchi AE. Hyperglycemic crises in urban blacks. Arch Intern Med. 1997 Mar 24;157(6):669-75. \[[PubMed: 9080921](https://pubmed.ncbi.nlm.nih.gov/9080921)\]
 
 9.
-    
 
-Benoit SR, Zhang Y, Geiss LS, Gregg EW, Albright A. Trends in Diabetic Ketoacidosis Hospitalizations and In-Hospital Mortality - United States, 2000-2014. MMWR Morb Mortal Wkly Rep. 2018 Mar 30;67(12):362-365. [[PMC free article: PMC5877353](/pmc/articles/PMC5877353/)] [[PubMed: 29596400](https://pubmed.ncbi.nlm.nih.gov/29596400)]
+Benoit SR, Zhang Y, Geiss LS, Gregg EW, Albright A. Trends in Diabetic Ketoacidosis Hospitalizations and In-Hospital Mortality - United States, 2000-2014. MMWR Morb Mortal Wkly Rep. 2018 Mar 30;67(12):362-365. \[[PMC free article: PMC5877353](/pmc/articles/PMC5877353/)\] \[[PubMed: 29596400](https://pubmed.ncbi.nlm.nih.gov/29596400)\]
 
 10.
-    
 
-Wang J, Williams DE, Narayan KM, Geiss LS. Declining death rates from hyperglycemic crisis among adults with diabetes, U.S., 1985-2002. Diabetes Care. 2006 Sep;29(9):2018-22. [[PubMed: 16936146](https://pubmed.ncbi.nlm.nih.gov/16936146)]
+Wang J, Williams DE, Narayan KM, Geiss LS. Declining death rates from hyperglycemic crisis among adults with diabetes, U.S., 1985-2002. Diabetes Care. 2006 Sep;29(9):2018-22. \[[PubMed: 16936146](https://pubmed.ncbi.nlm.nih.gov/16936146)\]
 
 11.
-    
 
-Gaglia JL, Wyckoff J, Abrahamson MJ. Acute hyperglycemic crisis in the elderly. Med Clin North Am. 2004 Jul;88(4):1063-84, xii. [[PubMed: 15308390](https://pubmed.ncbi.nlm.nih.gov/15308390)]
+Gaglia JL, Wyckoff J, Abrahamson MJ. Acute hyperglycemic crisis in the elderly. Med Clin North Am. 2004 Jul;88(4):1063-84, xii. \[[PubMed: 15308390](https://pubmed.ncbi.nlm.nih.gov/15308390)\]
 
 12.
-    
 
-Philippe J. Insulin regulation of the glucagon gene is mediated by an insulin-responsive DNA element. Proc Natl Acad Sci U S A. 1991 Aug 15;88(16):7224-7. [[PMC free article: PMC52266](/pmc/articles/PMC52266/)] [[PubMed: 1651499](https://pubmed.ncbi.nlm.nih.gov/1651499)]
+Philippe J. Insulin regulation of the glucagon gene is mediated by an insulin-responsive DNA element. Proc Natl Acad Sci U S A. 1991 Aug 15;88(16):7224-7. \[[PMC free article: PMC52266](/pmc/articles/PMC52266/)\] \[[PubMed: 1651499](https://pubmed.ncbi.nlm.nih.gov/1651499)\]
 
 13.
-    
 
-Barnes AJ, Bloom SR, Goerge K, Alberti GM, Smythe P, Alford FP, Chisholm DJ. Ketoacidosis in pancreatectomized man. N Engl J Med. 1977 Jun 02;296(22):1250-3. [[PubMed: 404553](https://pubmed.ncbi.nlm.nih.gov/404553)]
+Barnes AJ, Bloom SR, Goerge K, Alberti GM, Smythe P, Alford FP, Chisholm DJ. Ketoacidosis in pancreatectomized man. N Engl J Med. 1977 Jun 02;296(22):1250-3. \[[PubMed: 404553](https://pubmed.ncbi.nlm.nih.gov/404553)\]
 
 14.
-    
 
-Fulop M, Tannenbaum H, Dreyer N. Ketotic hyperosmolar coma. Lancet. 1973 Sep 22;2(7830):635-9. [[PubMed: 4125618](https://pubmed.ncbi.nlm.nih.gov/4125618)]
+Fulop M, Tannenbaum H, Dreyer N. Ketotic hyperosmolar coma. Lancet. 1973 Sep 22;2(7830):635-9. \[[PubMed: 4125618](https://pubmed.ncbi.nlm.nih.gov/4125618)\]
 
 15.
-    
 
-Umpierrez G, Freire AX. Abdominal pain in patients with hyperglycemic crises. J Crit Care. 2002 Mar;17(1):63-7. [[PubMed: 12040551](https://pubmed.ncbi.nlm.nih.gov/12040551)]
+Umpierrez G, Freire AX. Abdominal pain in patients with hyperglycemic crises. J Crit Care. 2002 Mar;17(1):63-7. \[[PubMed: 12040551](https://pubmed.ncbi.nlm.nih.gov/12040551)\]
 
 16.
-    
 
-Lorber D. Nonketotic hypertonicity in diabetes mellitus. Med Clin North Am. 1995 Jan;79(1):39-52. [[PubMed: 7808094](https://pubmed.ncbi.nlm.nih.gov/7808094)]
+Lorber D. Nonketotic hypertonicity in diabetes mellitus. Med Clin North Am. 1995 Jan;79(1):39-52. \[[PubMed: 7808094](https://pubmed.ncbi.nlm.nih.gov/7808094)\]
 
 17.
-    
 
-Umpierrez GE, Khajavi M, Kitabchi AE. Review: diabetic ketoacidosis and hyperglycemic hyperosmolar nonketotic syndrome. Am J Med Sci. 1996 May;311(5):225-33. [[PubMed: 8615398](https://pubmed.ncbi.nlm.nih.gov/8615398)]
+Umpierrez GE, Khajavi M, Kitabchi AE. Review: diabetic ketoacidosis and hyperglycemic hyperosmolar nonketotic syndrome. Am J Med Sci. 1996 May;311(5):225-33. \[[PubMed: 8615398](https://pubmed.ncbi.nlm.nih.gov/8615398)\]
 
 18.
-    
 
-Paulson WD, Gadallah MF. Diagnosis of mixed acid-base disorders in diabetic ketoacidosis. Am J Med Sci. 1993 Nov;306(5):295-300. [[PubMed: 8238083](https://pubmed.ncbi.nlm.nih.gov/8238083)]
+Paulson WD, Gadallah MF. Diagnosis of mixed acid-base disorders in diabetic ketoacidosis. Am J Med Sci. 1993 Nov;306(5):295-300. \[[PubMed: 8238083](https://pubmed.ncbi.nlm.nih.gov/8238083)\]
 
 19.
-    
 
-Kitabchi AE, Umpierrez GE, Murphy MB, Barrett EJ, Kreisberg RA, Malone JI, Wall BM. Management of hyperglycemic crises in patients with diabetes. Diabetes Care. 2001 Jan;24(1):131-53. [[PubMed: 11194218](https://pubmed.ncbi.nlm.nih.gov/11194218)]
+Kitabchi AE, Umpierrez GE, Murphy MB, Barrett EJ, Kreisberg RA, Malone JI, Wall BM. Management of hyperglycemic crises in patients with diabetes. Diabetes Care. 2001 Jan;24(1):131-53. \[[PubMed: 11194218](https://pubmed.ncbi.nlm.nih.gov/11194218)\]
 
 20.
-    
 
-Molitch ME, Rodman E, Hirsch CA, Dubinsky E. Spurious serum creatinine elevations in ketoacidosis. Ann Intern Med. 1980 Aug;93(2):280-1. [[PubMed: 6773457](https://pubmed.ncbi.nlm.nih.gov/6773457)]
+Molitch ME, Rodman E, Hirsch CA, Dubinsky E. Spurious serum creatinine elevations in ketoacidosis. Ann Intern Med. 1980 Aug;93(2):280-1. \[[PubMed: 6773457](https://pubmed.ncbi.nlm.nih.gov/6773457)\]
 
 21.
-    
 
-Warshaw AL, Feller ER, Lee KH. On the cause of raised serum-amylase in diabetic ketoacidosis. Lancet. 1977 Apr 30;1(8018):929-31. [[PubMed: 67388](https://pubmed.ncbi.nlm.nih.gov/67388)]
+Warshaw AL, Feller ER, Lee KH. On the cause of raised serum-amylase in diabetic ketoacidosis. Lancet. 1977 Apr 30;1(8018):929-31. \[[PubMed: 67388](https://pubmed.ncbi.nlm.nih.gov/67388)\]
 
 22.
-    
 
-Vantyghem MC, Haye S, Balduyck M, Hober C, Degand PM, Lefebvre J. Changes in serum amylase, lipase and leukocyte elastase during diabetic ketoacidosis and poorly controlled diabetes. Acta Diabetol. 1999 Jun;36(1-2):39-44. [[PubMed: 10436251](https://pubmed.ncbi.nlm.nih.gov/10436251)]
+Vantyghem MC, Haye S, Balduyck M, Hober C, Degand PM, Lefebvre J. Changes in serum amylase, lipase and leukocyte elastase during diabetic ketoacidosis and poorly controlled diabetes. Acta Diabetol. 1999 Jun;36(1-2):39-44. \[[PubMed: 10436251](https://pubmed.ncbi.nlm.nih.gov/10436251)\]
 
 23.
-    
 
-Weidman SW, Ragland JB, Fisher JN, Kitabchi AE, Sabesin SM. Effects of insulin on plasma lipoproteins in diabetic ketoacidosis: evidence for a change in high density lipoprotein composition during treatment. J Lipid Res. 1982 Jan;23(1):171-82. [[PubMed: 6799600](https://pubmed.ncbi.nlm.nih.gov/6799600)]
+Weidman SW, Ragland JB, Fisher JN, Kitabchi AE, Sabesin SM. Effects of insulin on plasma lipoproteins in diabetic ketoacidosis: evidence for a change in high density lipoprotein composition during treatment. J Lipid Res. 1982 Jan;23(1):171-82. \[[PubMed: 6799600](https://pubmed.ncbi.nlm.nih.gov/6799600)\]
 
 24.
-    
 
-Perel P, Roberts I, Ker K. Colloids versus crystalloids for fluid resuscitation in critically ill patients. Cochrane Database Syst Rev. 2013 Feb 28;(2):CD000567. [[PubMed: 23450531](https://pubmed.ncbi.nlm.nih.gov/23450531)]
+Perel P, Roberts I, Ker K. Colloids versus crystalloids for fluid resuscitation in critically ill patients. Cochrane Database Syst Rev. 2013 Feb 28;(2):CD000567. \[[PubMed: 23450531](https://pubmed.ncbi.nlm.nih.gov/23450531)\]
 
 25.
-    
 
-Mahler SA, Conrad SA, Wang H, Arnold TC. Resuscitation with balanced electrolyte solution prevents hyperchloremic metabolic acidosis in patients with diabetic ketoacidosis. Am J Emerg Med. 2011 Jul;29(6):670-4. [[PubMed: 20825879](https://pubmed.ncbi.nlm.nih.gov/20825879)]
+Mahler SA, Conrad SA, Wang H, Arnold TC. Resuscitation with balanced electrolyte solution prevents hyperchloremic metabolic acidosis in patients with diabetic ketoacidosis. Am J Emerg Med. 2011 Jul;29(6):670-4. \[[PubMed: 20825879](https://pubmed.ncbi.nlm.nih.gov/20825879)\]
 
 26.
-    
 
-Chua HR, Venkatesh B, Stachowski E, Schneider AG, Perkins K, Ladanyi S, Kruger P, Bellomo R. Plasma-Lyte 148 vs 0.9% saline for fluid resuscitation in diabetic ketoacidosis. J Crit Care. 2012 Apr;27(2):138-45. [[PubMed: 22440386](https://pubmed.ncbi.nlm.nih.gov/22440386)]
+Chua HR, Venkatesh B, Stachowski E, Schneider AG, Perkins K, Ladanyi S, Kruger P, Bellomo R. Plasma-Lyte 148 vs 0.9% saline for fluid resuscitation in diabetic ketoacidosis. J Crit Care. 2012 Apr;27(2):138-45. \[[PubMed: 22440386](https://pubmed.ncbi.nlm.nih.gov/22440386)\]
 
 27.
-    
 
-Van Zyl DG, Rheeder P, Delport E. Fluid management in diabetic-acidosis--Ringer's lactate versus normal saline: a randomized controlled trial. QJM. 2012 Apr;105(4):337-43. [[PubMed: 22109683](https://pubmed.ncbi.nlm.nih.gov/22109683)]
+Van Zyl DG, Rheeder P, Delport E. Fluid management in diabetic-acidosis--Ringer's lactate versus normal saline: a randomized controlled trial. QJM. 2012 Apr;105(4):337-43. \[[PubMed: 22109683](https://pubmed.ncbi.nlm.nih.gov/22109683)\]
 
 28.
-    
 
-Adrogué HJ, Barrero J, Eknoyan G. Salutary effects of modest fluid replacement in the treatment of adults with diabetic ketoacidosis. Use in patients without extreme volume deficit. JAMA. 1989 Oct 20;262(15):2108-13. [[PubMed: 2507798](https://pubmed.ncbi.nlm.nih.gov/2507798)]
+Adrogué HJ, Barrero J, Eknoyan G. Salutary effects of modest fluid replacement in the treatment of adults with diabetic ketoacidosis. Use in patients without extreme volume deficit. JAMA. 1989 Oct 20;262(15):2108-13. \[[PubMed: 2507798](https://pubmed.ncbi.nlm.nih.gov/2507798)\]
 
 29.
-    
 
-Edge JA, Jakes RW, Roy Y, Hawkins M, Winter D, Ford-Adams ME, Murphy NP, Bergomi A, Widmer B, Dunger DB. The UK case-control study of cerebral oedema complicating diabetic ketoacidosis in children. Diabetologia. 2006 Sep;49(9):2002-9. [[PubMed: 16847700](https://pubmed.ncbi.nlm.nih.gov/16847700)]
+Edge JA, Jakes RW, Roy Y, Hawkins M, Winter D, Ford-Adams ME, Murphy NP, Bergomi A, Widmer B, Dunger DB. The UK case-control study of cerebral oedema complicating diabetic ketoacidosis in children. Diabetologia. 2006 Sep;49(9):2002-9. \[[PubMed: 16847700](https://pubmed.ncbi.nlm.nih.gov/16847700)\]
 
 30.
-    
 
-Gosmanov AR, Gosmanova EO, Kitabchi AE. Hyperglycemic Crises: Diabetic Ketoacidosis and Hyperglycemic Hyperosmolar State. In: Feingold KR, Ahmed SF, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, Muzumdar R, Purnell J, Rey R, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): May 9, 2021. [[PubMed: 25905280](https://pubmed.ncbi.nlm.nih.gov/25905280)]
+Gosmanov AR, Gosmanova EO, Kitabchi AE. Hyperglycemic Crises: Diabetic Ketoacidosis and Hyperglycemic Hyperosmolar State. In: Feingold KR, Ahmed SF, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, Muzumdar R, Purnell J, Rey R, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): May 9, 2021. \[[PubMed: 25905280](https://pubmed.ncbi.nlm.nih.gov/25905280)\]
 
 31.
-    
 
-Kitabchi AE, Murphy MB, Spencer J, Matteri R, Karas J. Is a priming dose of insulin necessary in a low-dose insulin protocol for the treatment of diabetic ketoacidosis? Diabetes Care. 2008 Nov;31(11):2081-5. [[PMC free article: PMC2571050](/pmc/articles/PMC2571050/)] [[PubMed: 18694978](https://pubmed.ncbi.nlm.nih.gov/18694978)]
+Kitabchi AE, Murphy MB, Spencer J, Matteri R, Karas J. Is a priming dose of insulin necessary in a low-dose insulin protocol for the treatment of diabetic ketoacidosis? Diabetes Care. 2008 Nov;31(11):2081-5. \[[PMC free article: PMC2571050](/pmc/articles/PMC2571050/)\] \[[PubMed: 18694978](https://pubmed.ncbi.nlm.nih.gov/18694978)\]
 
 32.
-    
 
-Umpierrez GE, Latif K, Stoever J, Cuervo R, Park L, Freire AX, E Kitabchi A. Efficacy of subcutaneous insulin lispro versus continuous intravenous regular insulin for the treatment of patients with diabetic ketoacidosis. Am J Med. 2004 Sep 01;117(5):291-6. [[PubMed: 15336577](https://pubmed.ncbi.nlm.nih.gov/15336577)]
+Umpierrez GE, Latif K, Stoever J, Cuervo R, Park L, Freire AX, E Kitabchi A. Efficacy of subcutaneous insulin lispro versus continuous intravenous regular insulin for the treatment of patients with diabetic ketoacidosis. Am J Med. 2004 Sep 01;117(5):291-6. \[[PubMed: 15336577](https://pubmed.ncbi.nlm.nih.gov/15336577)\]
 
 33.
-    
 
-Razavi Z, Maher S, Fredmal J. Comparison of subcutaneous insulin aspart and intravenous regular insulin for the treatment of mild and moderate diabetic ketoacidosis in pediatric patients. Endocrine. 2018 Aug;61(2):267-274. [[PubMed: 29797212](https://pubmed.ncbi.nlm.nih.gov/29797212)]
+Razavi Z, Maher S, Fredmal J. Comparison of subcutaneous insulin aspart and intravenous regular insulin for the treatment of mild and moderate diabetic ketoacidosis in pediatric patients. Endocrine. 2018 Aug;61(2):267-274. \[[PubMed: 29797212](https://pubmed.ncbi.nlm.nih.gov/29797212)\]
 
 34.
-    
 
-Nyenwe EA, Kitabchi AE. The evolution of diabetic ketoacidosis: An update of its etiology, pathogenesis and management. Metabolism. 2016 Apr;65(4):507-21. [[PubMed: 26975543](https://pubmed.ncbi.nlm.nih.gov/26975543)]
+Nyenwe EA, Kitabchi AE. The evolution of diabetic ketoacidosis: An update of its etiology, pathogenesis and management. Metabolism. 2016 Apr;65(4):507-21. \[[PubMed: 26975543](https://pubmed.ncbi.nlm.nih.gov/26975543)\]
 
 35.
-    
 
-Pasquel FJ, Umpierrez GE. Hyperosmolar hyperglycemic state: a historic review of the clinical presentation, diagnosis, and treatment. Diabetes Care. 2014 Nov;37(11):3124-31. [[PMC free article: PMC4207202](/pmc/articles/PMC4207202/)] [[PubMed: 25342831](https://pubmed.ncbi.nlm.nih.gov/25342831)]
+Pasquel FJ, Umpierrez GE. Hyperosmolar hyperglycemic state: a historic review of the clinical presentation, diagnosis, and treatment. Diabetes Care. 2014 Nov;37(11):3124-31. \[[PMC free article: PMC4207202](/pmc/articles/PMC4207202/)\] \[[PubMed: 25342831](https://pubmed.ncbi.nlm.nih.gov/25342831)\]
 
 36.
-    
 
-Herpes virus fingerprinting. Lancet. 1979 Feb 03;1(8110):251-2. [[PubMed: 84904](https://pubmed.ncbi.nlm.nih.gov/84904)]
+Herpes virus fingerprinting. Lancet. 1979 Feb 03;1(8110):251-2. \[[PubMed: 84904](https://pubmed.ncbi.nlm.nih.gov/84904)\]
 
 37.
-    
 
-Fayfman M, Pasquel FJ, Umpierrez GE. Management of Hyperglycemic Crises: Diabetic Ketoacidosis and Hyperglycemic Hyperosmolar State. Med Clin North Am. 2017 May;101(3):587-606. [[PMC free article: PMC6535398](/pmc/articles/PMC6535398/)] [[PubMed: 28372715](https://pubmed.ncbi.nlm.nih.gov/28372715)]
+Fayfman M, Pasquel FJ, Umpierrez GE. Management of Hyperglycemic Crises: Diabetic Ketoacidosis and Hyperglycemic Hyperosmolar State. Med Clin North Am. 2017 May;101(3):587-606. \[[PMC free article: PMC6535398](/pmc/articles/PMC6535398/)\] \[[PubMed: 28372715](https://pubmed.ncbi.nlm.nih.gov/28372715)\]
 
 38.
-    
 
-Duhon B, Attridge RL, Franco-Martinez AC, Maxwell PR, Hughes DW. Intravenous sodium bicarbonate therapy in severely acidotic diabetic ketoacidosis. Ann Pharmacother. 2013 Jul-Aug;47(7-8):970-5. [[PubMed: 23737516](https://pubmed.ncbi.nlm.nih.gov/23737516)]
+Duhon B, Attridge RL, Franco-Martinez AC, Maxwell PR, Hughes DW. Intravenous sodium bicarbonate therapy in severely acidotic diabetic ketoacidosis. Ann Pharmacother. 2013 Jul-Aug;47(7-8):970-5. \[[PubMed: 23737516](https://pubmed.ncbi.nlm.nih.gov/23737516)\]
 
 39.
-    
 
-Glaser N, Barnett P, McCaslin I, Nelson D, Trainor J, Louie J, Kaufman F, Quayle K, Roback M, Malley R, Kuppermann N., Pediatric Emergency Medicine Collaborative Research Committee of the American Academy of Pediatrics. Risk factors for cerebral edema in children with diabetic ketoacidosis. The Pediatric Emergency Medicine Collaborative Research Committee of the American Academy of Pediatrics. N Engl J Med. 2001 Jan 25;344(4):264-9. [[PubMed: 11172153](https://pubmed.ncbi.nlm.nih.gov/11172153)]
+Glaser N, Barnett P, McCaslin I, Nelson D, Trainor J, Louie J, Kaufman F, Quayle K, Roback M, Malley R, Kuppermann N., Pediatric Emergency Medicine Collaborative Research Committee of the American Academy of Pediatrics. Risk factors for cerebral edema in children with diabetic ketoacidosis. The Pediatric Emergency Medicine Collaborative Research Committee of the American Academy of Pediatrics. N Engl J Med. 2001 Jan 25;344(4):264-9. \[[PubMed: 11172153](https://pubmed.ncbi.nlm.nih.gov/11172153)\]
 
 40.
-    
 
-Osuka A, Matsuoka T, Idoguchi K. Is this the worst outcome of metabolic syndrome? Hypophosphatemia and resulting cardiac arrest during the treatment of diabetic ketoacidosis with hypertriglyceridemia. Intern Med. 2009;48(16):1391-5. [[PubMed: 19687585](https://pubmed.ncbi.nlm.nih.gov/19687585)]
+Osuka A, Matsuoka T, Idoguchi K. Is this the worst outcome of metabolic syndrome? Hypophosphatemia and resulting cardiac arrest during the treatment of diabetic ketoacidosis with hypertriglyceridemia. Intern Med. 2009;48(16):1391-5. \[[PubMed: 19687585](https://pubmed.ncbi.nlm.nih.gov/19687585)\]
 
 41.
-    
 
-Regmi A, Konstantinov NK, Agaba EI, Rohrscheib M, Dorin RI, Tzamaloukas AH. Respiratory Failure in the Course of Treatment of Diabetic Ketoacidosis. Clin Diabetes. 2014 Jan;32(1):28-31. [[PMC free article: PMC4521429](/pmc/articles/PMC4521429/)] [[PubMed: 26246676](https://pubmed.ncbi.nlm.nih.gov/26246676)]
+Regmi A, Konstantinov NK, Agaba EI, Rohrscheib M, Dorin RI, Tzamaloukas AH. Respiratory Failure in the Course of Treatment of Diabetic Ketoacidosis. Clin Diabetes. 2014 Jan;32(1):28-31. \[[PMC free article: PMC4521429](/pmc/articles/PMC4521429/)\] \[[PubMed: 26246676](https://pubmed.ncbi.nlm.nih.gov/26246676)\]
 
 42.
-    
 
-Abbas Q, Arbab S, Haque AU, Humayun KN. Spectrum of complications of severe DKA in children in pediatric Intensive Care Unit. Pak J Med Sci. 2018 Jan-Feb;34(1):106-109. [[PMC free article: PMC5856992](/pmc/articles/PMC5856992/)] [[PubMed: 29643888](https://pubmed.ncbi.nlm.nih.gov/29643888)]
+Abbas Q, Arbab S, Haque AU, Humayun KN. Spectrum of complications of severe DKA in children in pediatric Intensive Care Unit. Pak J Med Sci. 2018 Jan-Feb;34(1):106-109. \[[PMC free article: PMC5856992](/pmc/articles/PMC5856992/)\] \[[PubMed: 29643888](https://pubmed.ncbi.nlm.nih.gov/29643888)\]
 
 43.
-    
 
-Kutlu AO, Kara C, Cetinkaya S. Rhabdomyolysis without detectable myoglobulinuria due to severe hypophosphatemia in diabetic ketoacidosis. Pediatr Emerg Care. 2011 Jun;27(6):537-8. [[PubMed: 21642790](https://pubmed.ncbi.nlm.nih.gov/21642790)]
+Kutlu AO, Kara C, Cetinkaya S. Rhabdomyolysis without detectable myoglobulinuria due to severe hypophosphatemia in diabetic ketoacidosis. Pediatr Emerg Care. 2011 Jun;27(6):537-8. \[[PubMed: 21642790](https://pubmed.ncbi.nlm.nih.gov/21642790)\]
 
 44.
-    
 
-Konstantinov NK, Rohrscheib M, Agaba EI, Dorin RI, Murata GH, Tzamaloukas AH. Respiratory failure in diabetic ketoacidosis. World J Diabetes. 2015 Jul 25;6(8):1009-23. [[PMC free article: PMC4515441](/pmc/articles/PMC4515441/)] [[PubMed: 26240698](https://pubmed.ncbi.nlm.nih.gov/26240698)]
-
-    
+Konstantinov NK, Rohrscheib M, Agaba EI, Dorin RI, Murata GH, Tzamaloukas AH. Respiratory failure in diabetic ketoacidosis. World J Diabetes. 2015 Jul 25;6(8):1009-23. \[[PMC free article: PMC4515441](/pmc/articles/PMC4515441/)\] \[[PubMed: 26240698](https://pubmed.ncbi.nlm.nih.gov/26240698)\]
 
 **Disclosure:** Jenna Lizzo declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Amandeep Goyal declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Vikas Gupta declares no relevant financial relationships with ineligible companies.

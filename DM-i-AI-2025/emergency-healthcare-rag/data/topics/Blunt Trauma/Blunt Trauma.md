@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-149250/
-scraped_date: 2025-07-22 12:47:37 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-149250/ scraped_date: 2025-07-22 12:47:37 UTC
 
 # Acute Acoustic Trauma
 
@@ -31,13 +30,13 @@ Healthcare providers face challenges in effectively diagnosing and managing AAT.
 
 **Objectives:**
 
-  * Identify the signs and symptoms of acute acoustic trauma, including sudden sensorineural hearing loss, tinnitus, and vertigo.
+- Identify the signs and symptoms of acute acoustic trauma, including sudden sensorineural hearing loss, tinnitus, and vertigo.
 
-  * Implement appropriate audiometric evaluations and otomicroscopy to diagnose acute acoustic trauma promptly.
+- Implement appropriate audiometric evaluations and otomicroscopy to diagnose acute acoustic trauma promptly.
 
-  * Apply evidence-based management strategies, including the use of hearing protection devices and timely referrals to otolaryngologists.
+- Apply evidence-based management strategies, including the use of hearing protection devices and timely referrals to otolaryngologists.
 
-  * Collaborate with multidisciplinary healthcare teams, including audiologists and occupational health specialists, to develop comprehensive care plans for patients with acute acoustic trauma.
+- Collaborate with multidisciplinary healthcare teams, including audiologists and occupational health specialists, to develop comprehensive care plans for patients with acute acoustic trauma.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=149250&utm_source=pubmed&utm_campaign=reviews&utm_content=149250)
 
@@ -45,20 +44,21 @@ Healthcare providers face challenges in effectively diagnosing and managing AAT.
 
 The human ear functions as a biological pressure transducer. Noise exposure is a significant global health issue, with approximately 5% of hearing loss in the worldwide population attributed to noise-induced hearing loss (NIHL).[1] Perception of loudness varies based on individual sensitivity to noise and is influenced by the below-mentioned 3 key aspects of sound.
 
-  * Sound pressure level (acoustic pressure level): This logarithmic measure quantifies the effective pressure of sound relative to a reference level, expressed in decibels (dB). Examples are provided below.[2]
-    * Party balloon rupture or jet engine: 150 dB.
+- Sound pressure level (acoustic pressure level): This logarithmic measure quantifies the effective pressure of sound relative to a reference level, expressed in decibels (dB). Examples are provided below.[2]
 
-    * Loudest human voice: 135 dB.
+  - Party balloon rupture or jet engine: 150 dB.
 
-    * Typical pain threshold: 120 dB.
+  - Loudest human voice: 135 dB.
 
-    * Hearing damage from long-term exposure (not necessarily continuous): 85 dB.
+  - Typical pain threshold: 120 dB.
 
-  * Frequency content.
+  - Hearing damage from long-term exposure (not necessarily continuous): 85 dB.
 
-  * Duration of sound.[3]
+- Frequency content.
 
-Most individuals with normal hearing are particularly sensitive to sounds in the 2 to 4 kHz range, which corresponds to high-intensity impulse noises such as blasts. Human voices have fundamental frequencies, which represent the lowest frequency of a periodic waveform or the pitch in music, ranging from 90 to 155 Hz for males and 165 to 255 Hz for females. The sensitivity of the human ear varies based on perceived loudness at different frequencies. 
+- Duration of sound.[3]
+
+Most individuals with normal hearing are particularly sensitive to sounds in the 2 to 4 kHz range, which corresponds to high-intensity impulse noises such as blasts. Human voices have fundamental frequencies, which represent the lowest frequency of a periodic waveform or the pitch in music, ranging from 90 to 155 Hz for males and 165 to 255 Hz for females. The sensitivity of the human ear varies based on perceived loudness at different frequencies.
 
 A lesser-known subtype of NIHL is acute acoustic trauma (AAT), defined by sudden sensorineural hearing loss resulting from exposure to intense impulse noise, such as blasts or gunshots. This occurs when noise levels exceed the elastic limits of the auditory system, typically exceeding 140 dB for less than 0.2 seconds. In contrast, NIHL generally develops after prolonged exposure—lasting several minutes to hours—to intense sounds in the 100 to 120 dBA range, commonly found in workplaces or combat zones.[4] AAT and NIHL often occur concurrently.
 
@@ -70,9 +70,9 @@ Sensorineural hearing loss may be accompanied by a diminished sensitivity to spe
 
 Sensorineural hearing loss can be either temporary or permanent. Individuals with this condition may no longer hear low-level sounds, while high-level sounds might still be perceived as equally loud by those with normal hearing. This phenomenon can be explained by the following 2 theories.
 
-  * Loudness recruitment: An abnormally rapid increase in loudness.[10]
+- Loudness recruitment: An abnormally rapid increase in loudness.[10]
 
-  * Softness imperception: Soft sounds perceived by individuals with sensorineural hearing loss are louder than the faintest sounds heard by those with normal hearing.[11]
+- Softness imperception: Soft sounds perceived by individuals with sensorineural hearing loss are louder than the faintest sounds heard by those with normal hearing.[11]
 
 Many insights regarding AAT can be drawn from similar clinical scenarios, such as sudden-onset sensorineural hearing loss and ototoxicity from chemotherapeutic agents. Both conditions share common mechanisms involving the development of reactive oxygen and nitrogen species, free radicals, and oxidative stress.[12]
 
@@ -82,15 +82,17 @@ The most effective initial step in preserving hearing for patients exposed to AA
 
 Passive HPDs rely on physical barriers without embedded electronics and function in 2 ways, as mentioned below.
 
-  * Noise level–dependent HPDs: 
-    * These HPDs, such as solid earplugs, provide attenuation that varies with noise intensity.
+- Noise level–dependent HPDs:
 
-  * Noise level–independent HPDs: 
-    * Provide consistent noise reduction across different frequencies and intensities.
+  - These HPDs, such as solid earplugs, provide attenuation that varies with noise intensity.
 
-    * Feature a narrow inner channel along the earplug’s length, causing acoustic impedance to increase nonlinearly with external sound.
+- Noise level–independent HPDs:
 
-    * Nonlinear HPDs reduce harmful impulse noise while allowing speech and softer sounds to remain audible for communication and safety.
+  - Provide consistent noise reduction across different frequencies and intensities.
+
+  - Feature a narrow inner channel along the earplug’s length, causing acoustic impedance to increase nonlinearly with external sound.
+
+  - Nonlinear HPDs reduce harmful impulse noise while allowing speech and softer sounds to remain audible for communication and safety.
 
 **Active Hearing Protection Devices**
 
@@ -104,14 +106,15 @@ Further noise exposure should be avoided, especially if vertigo accompanies the 
 
 The most significant challenges in AAT include the following:
 
-  * Accurate diagnosis
+- Accurate diagnosis
 
-  * Delays in seeking medical care (underreporting)
+- Delays in seeking medical care (underreporting)
 
-  * Repeat acoustic trauma 
-    * Blast-type noise
+- Repeat acoustic trauma
 
-    * Concomitant prolonged noise exposure
+  - Blast-type noise
+
+  - Concomitant prolonged noise exposure
 
 Management of AAT should be personalized and initiated promptly. Treatment outcomes and prognosis vary, and patients should be informed that hearing recovery remains unpredictable, regardless of intervention.
 
@@ -141,21 +144,21 @@ Histopathologically, the primary damage site is the rootlets connecting the ster
 
 In addition to causing inner ear damage, AAT disrupts middle ear function by interfering with the muscles involved in hearing, specifically the stapedius and tensor tympani muscles.
 
-**Stapedius muscle:** This is the smallest skeletal muscle in the human body, measuring approximately 1 mm in length, that protects the cochlea by contracting in response to loud noises, which produces a dampening effect. 
+**Stapedius muscle:** This is the smallest skeletal muscle in the human body, measuring approximately 1 mm in length, that protects the cochlea by contracting in response to loud noises, which produces a dampening effect.
 
 **Tensor tympani muscle:** This muscle inserts between the cartilage of the Eustachian tube and the neck of the malleus. The tensor tympani muscle shares a tendon with the tensor veli palatini muscle and is innervated by the mandibular branch of the trigeminal nerve.[35] AAT causes hypercontraction of the tensor tympani muscle, likely leading to muscle strain, fatigue, or overload.[36]
 
 Some authors have compared tensor tympani hypercontraction to a myofascial trigger point or a "micro-cramp."[37] Tensor tympani hypercontraction may be severe and could explain the fluttering sensation experienced in AAT.[38] Prolonged contraction, or muscle overload, can result in injury to the tensor tympani, with the following proposed consequences:[39]
 
-  * Compression of blood vessels reduces oxygen supply.
+- Compression of blood vessels reduces oxygen supply.
 
-  * Production of adenosine triphosphate (ATP) decreases.
+- Production of adenosine triphosphate (ATP) decreases.
 
-  * The body shifts to anaerobic glycolysis, leading to lactic acid production and decreased pH.[40]
+- The body shifts to anaerobic glycolysis, leading to lactic acid production and decreased pH.[40]
 
-  * Mastocyte migration occurs, resulting in the release of histamine and platelet-activating factors, which triggers serotonin release from platelets and the release of neuropeptides such as substance P and calcitonin gene–related peptide.[41]
+- Mastocyte migration occurs, resulting in the release of histamine and platelet-activating factors, which triggers serotonin release from platelets and the release of neuropeptides such as substance P and calcitonin gene–related peptide.[41]
 
-  * The prolonged, intense inflammatory response in the middle ear mucosa may extend across the round window, leading to inner ear damage.[42]
+- The prolonged, intense inflammatory response in the middle ear mucosa may extend across the round window, leading to inner ear damage.[42]
 
 Referred pain from AAT may arise from tensor tympani injury, chronic inflammation, and neural hyperactivity in the trigeminal pathways.[38] Otalgia related to AAT is likely due to motor and autonomic reflexes.[43] The origin of tinnitus associated with AAT remains unclear.[38] In addition to its direct effects on the auditory system, noise can induce psychological and physiological stress. The sensitivity of the auditory system can be modulated by the hypothalamus-pituitary-adrenal axis, which may be activated by acoustic stress.[44]
 
@@ -163,7 +166,7 @@ Referred pain from AAT may arise from tensor tympani injury, chronic inflammatio
 
 Critical information in the medical history of a patient with suspected AAT includes the type, intensity, duration, and characteristics of exposure to brief, intense noise, as well as the severity and duration of the resulting sudden hearing loss. Accompanying symptoms, such as tinnitus and dizziness, should also be documented. In some cases, a condition known as acoustic shock may occur, characterized by symptoms like pain in and around the ear, tinnitus, hyperacusis, ear fullness and tension, and dizziness.[39]
 
-The physical examination for patients with AAT may be more crucial than for those with NIHL, as patients with prolonged noise exposure may show no physical findings. Detailed otomicroscopy is essential in AAT cases to assess any trauma to the ear canal, tympanic membrane, or ossicles. If the AAT resulted from a blast injury, any debris should be removed from the ear canal, and topical fluoroquinolone and steroid-containing ear drops should be prescribed. Topical drops containing aminoglycosides, such as neomycin, should be avoided to prevent ototoxicity. Patients should follow dry ear precautions. A thorough neurological examination must include an assessment of the cranial nerves, especially the facial nerve. 
+The physical examination for patients with AAT may be more crucial than for those with NIHL, as patients with prolonged noise exposure may show no physical findings. Detailed otomicroscopy is essential in AAT cases to assess any trauma to the ear canal, tympanic membrane, or ossicles. If the AAT resulted from a blast injury, any debris should be removed from the ear canal, and topical fluoroquinolone and steroid-containing ear drops should be prescribed. Topical drops containing aminoglycosides, such as neomycin, should be avoided to prevent ototoxicity. Patients should follow dry ear precautions. A thorough neurological examination must include an assessment of the cranial nerves, especially the facial nerve.
 
 If the AAT is part of a more extensive trauma, a comprehensive full-body trauma examination is essential.
 
@@ -175,11 +178,11 @@ The diagnosis of AAT requires a comprehensive evaluation, considering other pote
 
 According to the JTS Practice Guidelines, all patients with subjective hearing loss after AAT should undergo the following tests.
 
-  * Screening audiometry: This should be conducted as soon as possible after the initial trauma unless more urgent treatment or altered mental status prohibits evaluation.
+- Screening audiometry: This should be conducted as soon as possible after the initial trauma unless more urgent treatment or altered mental status prohibits evaluation.
 
-  * Audiological evaluation: This test should follow the presentation of signs of concussion.[25]
+- Audiological evaluation: This test should follow the presentation of signs of concussion.[25]
 
-  * Comprehensive audiogram: This includes tympanometry, bone-conducted thresholds, speech discrimination, and acoustic reflexes if hearing loss lasts for more than 72 hours.
+- Comprehensive audiogram: This includes tympanometry, bone-conducted thresholds, speech discrimination, and acoustic reflexes if hearing loss lasts for more than 72 hours.
 
 Patients with a temporary threshold shift greater than 25 dB should be considered for steroid treatment, either orally or via transtympanic injection. Follow-up audiometry is essential to monitor progress.
 
@@ -219,11 +222,11 @@ If the hearing loss is purely sensorineural and no other otologic or brain traum
 
 **Corticosteroids:** These may be effective whether administered intravenously, orally, or intratympanically.[61][62][63][64][65]
 
-  * Intravenous corticosteroids: These regimens may include methylprednisolone at 125 mg on the first day of treatment, 80 mg on the second day, and 40 mg on the final day.[64]
+- Intravenous corticosteroids: These regimens may include methylprednisolone at 125 mg on the first day of treatment, 80 mg on the second day, and 40 mg on the final day.[64]
 
-  * Oral prednisone: This drug may be administered at a dosage of 1 mg/kg, up to a maximum of 60 mg daily, for 1 to 2 weeks. Longer courses often yield better outcomes in patients who can tolerate high-dose steroids for more than 1 week.[65][61]
+- Oral prednisone: This drug may be administered at a dosage of 1 mg/kg, up to a maximum of 60 mg daily, for 1 to 2 weeks. Longer courses often yield better outcomes in patients who can tolerate high-dose steroids for more than 1 week.[65][61]
 
-  * Steroid injections: The JTS guideline recommends high-dose oral or transtympanic steroid injections, when not contraindicated, for patients with threshold shifts of more than 25 dB in 3 consecutive frequencies. The injection regimen typically includes transtympanic dexamethasone at a concentration of 24 mg/mL. Patients should undergo weekly audiometric evaluations, regardless of the treatment approach. If follow-up audiograms indicate some recovery, additional injections are recommended, up to a total of 3.[25]
+- Steroid injections: The JTS guideline recommends high-dose oral or transtympanic steroid injections, when not contraindicated, for patients with threshold shifts of more than 25 dB in 3 consecutive frequencies. The injection regimen typically includes transtympanic dexamethasone at a concentration of 24 mg/mL. Patients should undergo weekly audiometric evaluations, regardless of the treatment approach. If follow-up audiograms indicate some recovery, additional injections are recommended, up to a total of 3.[25]
 
 **Antioxidants and neurotrophins:** These may provide benefits in the acute treatment of NIHL.[66] Although the evidence supporting the use of antioxidants and neurotrophins is limited, they are generally well-tolerated.
 
@@ -235,21 +238,21 @@ In summary, key management factors include the prior use of HPDs, whether in a l
 
 Differential diagnoses for AAT include:
 
-  * Sudden sensorineural hearing loss
+- Sudden sensorineural hearing loss
 
-  * Head trauma causing inner ear, cochleovestibular nerve injury, or brainstem pathology
+- Head trauma causing inner ear, cochleovestibular nerve injury, or brainstem pathology
 
-  * Stroke - posterior circulation cerebrovascular accident, typically characterized by sudden onset of hearing loss and frequently associated with other neurological deficits [69]
+- Stroke - posterior circulation cerebrovascular accident, typically characterized by sudden onset of hearing loss and frequently associated with other neurological deficits [69]
 
-  * Viral infections (primarily)
+- Viral infections (primarily)
 
-  * Autoimmune diseases
+- Autoimmune diseases
 
-  * Chemotherapy for cancer or infections
+- Chemotherapy for cancer or infections
 
-  * Neurological disorders, such as multiple sclerosis
+- Neurological disorders, such as multiple sclerosis
 
-  * Ménière disease
+- Ménière disease
 
 ## Prognosis
 
@@ -265,25 +268,25 @@ The effects of loud noise exposure are pathological, psychological, and sociolog
 
 The World Health Organization (WHO) reports that hearing loss is among the 20 leading causes of disease burden and the most common disability globally. NIHL is the most preventable cause of hearing loss. However, AAT may be less predictable and preventable in occupational or military settings.
 
-A critical component of prevention efforts is education at all levels. Individuals at risk, such as military personnel, must understand that hearing can only be protected through efforts to reduce exposure to hazardous noise. The importance of wearing HPDs and referring individuals to specialists after AAT—regardless of the level of hearing loss—should be emphasized in hearing conservation programs. 
+A critical component of prevention efforts is education at all levels. Individuals at risk, such as military personnel, must understand that hearing can only be protected through efforts to reduce exposure to hazardous noise. The importance of wearing HPDs and referring individuals to specialists after AAT—regardless of the level of hearing loss—should be emphasized in hearing conservation programs.
 
 ## Pearls and Other Issues
 
 AAT presents various challenges and considerations in prevention, diagnosis, and treatment. Critical facts to keep in mind regarding AAT include:
 
-  * AAT can be prevented with the use of hearing protection.
+- AAT can be prevented with the use of hearing protection.
 
-  * Hearing loss resulting from blast injuries may recover spontaneously in some cases.
+- Hearing loss resulting from blast injuries may recover spontaneously in some cases.
 
-  * The underlying pathophysiology likely involves changes to the middle ear muscles and cochlea.
+- The underlying pathophysiology likely involves changes to the middle ear muscles and cochlea.
 
-  * AAT may also be underreported and undertreated, highlighting the need for increased awareness.
+- AAT may also be underreported and undertreated, highlighting the need for increased awareness.
 
-  * Evaluation begins with a thorough otomicroscopy and audiometry assessment.
+- Evaluation begins with a thorough otomicroscopy and audiometry assessment.
 
-  * Treatment should be individualized, with realistic expectations communicated to each patient, as permanent hearing loss remains a possibility.
+- Treatment should be individualized, with realistic expectations communicated to each patient, as permanent hearing loss remains a possibility.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Providing patient-centered care for individuals experiencing AAT (acute acoustic trauma) requires a collaborative effort among various healthcare professionals, including physicians, advanced practice practitioners, nurses, audiologists, speech therapists, and others. Healthcare providers must have the necessary clinical skills and expertise to diagnose, evaluate, and treat patients suffering from AAT. This includes surgical proficiency in understanding the middle ear and temporal bone anatomy, recognizing potential complications, and being aware of the timing nuances in diagnostics and treatment.
 
@@ -293,365 +296,290 @@ Addressing the impact of noise on human health also requires a collaborative app
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=149250&utm_source=pubmed&utm_campaign=reviews&utm_content=149250)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=149250&utm_source=pubmed&utm_campaign=reviews&utm_content=149250)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/149250/?utm_source=pubmed&utm_campaign=comments&utm_content=149250)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/149250/?utm_source=pubmed&utm_campaign=comments&utm_content=149250)
 
 ## References
 
 1.
-    
 
-Daniel E. Noise and hearing loss: a review. J Sch Health. 2007 May;77(5):225-31. [[PubMed: 17430434](https://pubmed.ncbi.nlm.nih.gov/17430434)]
+Daniel E. Noise and hearing loss: a review. J Sch Health. 2007 May;77(5):225-31. \[[PubMed: 17430434](https://pubmed.ncbi.nlm.nih.gov/17430434)\]
 
 2.
-    
 
-Flamme GA, Liebe K, Wong A. Estimates of the auditory risk from outdoor impulse noise. I: Firecrackers. Noise Health. 2009 Oct-Dec;11(45):223-30. [[PubMed: 19805932](https://pubmed.ncbi.nlm.nih.gov/19805932)]
+Flamme GA, Liebe K, Wong A. Estimates of the auditory risk from outdoor impulse noise. I: Firecrackers. Noise Health. 2009 Oct-Dec;11(45):223-30. \[[PubMed: 19805932](https://pubmed.ncbi.nlm.nih.gov/19805932)\]
 
 3.
-    
 
-Poulsen T. Loudness of tone pulses in a free field. J Acoust Soc Am. 1981 Jun;69(6):1786-90. [[PubMed: 7240592](https://pubmed.ncbi.nlm.nih.gov/7240592)]
+Poulsen T. Loudness of tone pulses in a free field. J Acoust Soc Am. 1981 Jun;69(6):1786-90. \[[PubMed: 7240592](https://pubmed.ncbi.nlm.nih.gov/7240592)\]
 
 4.
-    
 
-Wada T, Sano H, Nishio SY, Kitoh R, Ikezono T, Iwasaki S, Kaga K, Matsubara A, Matsunaga T, Murata T, Naito Y, Suzuki M, Takahashi H, Tono T, Yamashita H, Hara A, Usami SI. Differences between acoustic trauma and other types of acute noise-induced hearing loss in terms of treatment and hearing prognosis. Acta Otolaryngol. 2017;137(sup565):S48-S52. [[PubMed: 28394667](https://pubmed.ncbi.nlm.nih.gov/28394667)]
+Wada T, Sano H, Nishio SY, Kitoh R, Ikezono T, Iwasaki S, Kaga K, Matsubara A, Matsunaga T, Murata T, Naito Y, Suzuki M, Takahashi H, Tono T, Yamashita H, Hara A, Usami SI. Differences between acoustic trauma and other types of acute noise-induced hearing loss in terms of treatment and hearing prognosis. Acta Otolaryngol. 2017;137(sup565):S48-S52. \[[PubMed: 28394667](https://pubmed.ncbi.nlm.nih.gov/28394667)\]
 
 5.
-    
 
-RUEDI L, FURRER W. Akustisches Trauma and Funktion des Innenohres. Acta Otolaryngol. 1945;33(6):460-70. [[PubMed: 20986552](https://pubmed.ncbi.nlm.nih.gov/20986552)]
+RUEDI L, FURRER W. Akustisches Trauma and Funktion des Innenohres. Acta Otolaryngol. 1945;33(6):460-70. \[[PubMed: 20986552](https://pubmed.ncbi.nlm.nih.gov/20986552)\]
 
 6.
-    
 
-HAMBERGER CA, LIDEN G. The prognosis in hearing injuries following acoustic shot traumata. Acta Otolaryngol. 1951 Jun;39(2-3):160-5. [[PubMed: 14868459](https://pubmed.ncbi.nlm.nih.gov/14868459)]
+HAMBERGER CA, LIDEN G. The prognosis in hearing injuries following acoustic shot traumata. Acta Otolaryngol. 1951 Jun;39(2-3):160-5. \[[PubMed: 14868459](https://pubmed.ncbi.nlm.nih.gov/14868459)\]
 
 7.
-    
 
-Axelsson A, Hamernik RP. Acute acoustic trauma. Acta Otolaryngol. 1987 Sep-Oct;104(3-4):225-33. [[PubMed: 3673553](https://pubmed.ncbi.nlm.nih.gov/3673553)]
+Axelsson A, Hamernik RP. Acute acoustic trauma. Acta Otolaryngol. 1987 Sep-Oct;104(3-4):225-33. \[[PubMed: 3673553](https://pubmed.ncbi.nlm.nih.gov/3673553)\]
 
 8.
-    
 
-Lamm K, Arnold W. Noise-induced cochlear hypoxia is intensity dependent, correlates with hearing loss and precedes reduction of cochlear blood flow. Audiol Neurootol. 1996 May-Jun;1(3):148-60. [[PubMed: 9390798](https://pubmed.ncbi.nlm.nih.gov/9390798)]
+Lamm K, Arnold W. Noise-induced cochlear hypoxia is intensity dependent, correlates with hearing loss and precedes reduction of cochlear blood flow. Audiol Neurootol. 1996 May-Jun;1(3):148-60. \[[PubMed: 9390798](https://pubmed.ncbi.nlm.nih.gov/9390798)\]
 
 9.
-    
 
-Canlon B, Agerman K, Dauman R, Puel JL. Pharmacological strategies for preventing cochlear damage induced by noise trauma. Noise Health. 1998;1(1):13-23. [[PubMed: 12689364](https://pubmed.ncbi.nlm.nih.gov/12689364)]
+Canlon B, Agerman K, Dauman R, Puel JL. Pharmacological strategies for preventing cochlear damage induced by noise trauma. Noise Health. 1998;1(1):13-23. \[[PubMed: 12689364](https://pubmed.ncbi.nlm.nih.gov/12689364)\]
 
 10.
-    
 
-Shi L, Zhao R, Li X, Sun W, Liu X. A Review of the Neurobiological Mechanisms that Distinguish Between Loudness Recruitment and Hyperacusis. Med Sci Monit. 2022 Apr 09;28:e936373. [[PMC free article: PMC9006468](/pmc/articles/PMC9006468/)] [[PubMed: 35396343](https://pubmed.ncbi.nlm.nih.gov/35396343)]
+Shi L, Zhao R, Li X, Sun W, Liu X. A Review of the Neurobiological Mechanisms that Distinguish Between Loudness Recruitment and Hyperacusis. Med Sci Monit. 2022 Apr 09;28:e936373. \[[PMC free article: PMC9006468](/pmc/articles/PMC9006468/)\] \[[PubMed: 35396343](https://pubmed.ncbi.nlm.nih.gov/35396343)\]
 
 11.
-    
 
-Moore BC. Testing the concept of softness imperception: loudness near threshold for hearing-impaired ears. J Acoust Soc Am. 2004 Jun;115(6):3103-11. [[PubMed: 15237835](https://pubmed.ncbi.nlm.nih.gov/15237835)]
+Moore BC. Testing the concept of softness imperception: loudness near threshold for hearing-impaired ears. J Acoust Soc Am. 2004 Jun;115(6):3103-11. \[[PubMed: 15237835](https://pubmed.ncbi.nlm.nih.gov/15237835)\]
 
 12.
-    
 
-Gul F, Muderris T, Yalciner G, Sevil E, Bercin S, Ergin M, Babademez MA, Kiris M. A comprehensive study of oxidative stress in sudden hearing loss. Eur Arch Otorhinolaryngol. 2017 Mar;274(3):1301-1308. [[PubMed: 27614879](https://pubmed.ncbi.nlm.nih.gov/27614879)]
+Gul F, Muderris T, Yalciner G, Sevil E, Bercin S, Ergin M, Babademez MA, Kiris M. A comprehensive study of oxidative stress in sudden hearing loss. Eur Arch Otorhinolaryngol. 2017 Mar;274(3):1301-1308. \[[PubMed: 27614879](https://pubmed.ncbi.nlm.nih.gov/27614879)\]
 
 13.
-    
 
-Hecht QA, Hammill TL, Calamia PT, Smalt CJ, Brungart DS. Characterization of acute hearing changes in United States military populations. J Acoust Soc Am. 2019 Nov;146(5):3839. [[PubMed: 31795720](https://pubmed.ncbi.nlm.nih.gov/31795720)]
+Hecht QA, Hammill TL, Calamia PT, Smalt CJ, Brungart DS. Characterization of acute hearing changes in United States military populations. J Acoust Soc Am. 2019 Nov;146(5):3839. \[[PubMed: 31795720](https://pubmed.ncbi.nlm.nih.gov/31795720)\]
 
 14.
-    
 
-Misale P, Lepcha A, Thomas P, Sebastian S, Sebastian T. Normative Data for Cortical Evoked Response Audiometry of a Heterogeneous Indian Population and Its Comparison with Behavioral Audiometry. Ann Indian Acad Neurol. 2020 May-Jun;23(3):296-302. [[PMC free article: PMC7313587](/pmc/articles/PMC7313587/)] [[PubMed: 32606515](https://pubmed.ncbi.nlm.nih.gov/32606515)]
+Misale P, Lepcha A, Thomas P, Sebastian S, Sebastian T. Normative Data for Cortical Evoked Response Audiometry of a Heterogeneous Indian Population and Its Comparison with Behavioral Audiometry. Ann Indian Acad Neurol. 2020 May-Jun;23(3):296-302. \[[PMC free article: PMC7313587](/pmc/articles/PMC7313587/)\] \[[PubMed: 32606515](https://pubmed.ncbi.nlm.nih.gov/32606515)\]
 
 15.
-    
 
-Vogel I, Brug J, Hosli EJ, van der Ploeg CP, Raat H. MP3 players and hearing loss: adolescents' perceptions of loud music and hearing conservation. J Pediatr. 2008 Mar;152(3):400-4. [[PubMed: 18280849](https://pubmed.ncbi.nlm.nih.gov/18280849)]
+Vogel I, Brug J, Hosli EJ, van der Ploeg CP, Raat H. MP3 players and hearing loss: adolescents' perceptions of loud music and hearing conservation. J Pediatr. 2008 Mar;152(3):400-4. \[[PubMed: 18280849](https://pubmed.ncbi.nlm.nih.gov/18280849)\]
 
 16.
-    
 
-Li HS. Influence of genotype and age on acute acoustic trauma and recovery in CBA/Ca and C57BL/6J mice. Acta Otolaryngol. 1992 Nov;112(6):956-67. [[PubMed: 1481666](https://pubmed.ncbi.nlm.nih.gov/1481666)]
+Li HS. Influence of genotype and age on acute acoustic trauma and recovery in CBA/Ca and C57BL/6J mice. Acta Otolaryngol. 1992 Nov;112(6):956-67. \[[PubMed: 1481666](https://pubmed.ncbi.nlm.nih.gov/1481666)\]
 
 17.
-    
 
-Erway LC, Shiau YW, Davis RR, Krieg EF. Genetics of age-related hearing loss in mice. III. Susceptibility of inbred and F1 hybrid strains to noise-induced hearing loss. Hear Res. 1996 Apr;93(1-2):181-7. [[PubMed: 8735078](https://pubmed.ncbi.nlm.nih.gov/8735078)]
+Erway LC, Shiau YW, Davis RR, Krieg EF. Genetics of age-related hearing loss in mice. III. Susceptibility of inbred and F1 hybrid strains to noise-induced hearing loss. Hear Res. 1996 Apr;93(1-2):181-7. \[[PubMed: 8735078](https://pubmed.ncbi.nlm.nih.gov/8735078)\]
 
 18.
-    
 
-Davis RR, Newlander JK, Ling X, Cortopassi GA, Krieg EF, Erway LC. Genetic basis for susceptibility to noise-induced hearing loss in mice. Hear Res. 2001 May;155(1-2):82-90. [[PubMed: 11335078](https://pubmed.ncbi.nlm.nih.gov/11335078)]
+Davis RR, Newlander JK, Ling X, Cortopassi GA, Krieg EF, Erway LC. Genetic basis for susceptibility to noise-induced hearing loss in mice. Hear Res. 2001 May;155(1-2):82-90. \[[PubMed: 11335078](https://pubmed.ncbi.nlm.nih.gov/11335078)\]
 
 19.
-    
 
-Yang M, Tan H, Yang Q, Wang F, Yao H, Wei Q, Tanguay RM, Wu T. Association of hsp70 polymorphisms with risk of noise-induced hearing loss in Chinese automobile workers. Cell Stress Chaperones. 2006 Autumn;11(3):233-9. [[PMC free article: PMC1576471](/pmc/articles/PMC1576471/)] [[PubMed: 17009596](https://pubmed.ncbi.nlm.nih.gov/17009596)]
+Yang M, Tan H, Yang Q, Wang F, Yao H, Wei Q, Tanguay RM, Wu T. Association of hsp70 polymorphisms with risk of noise-induced hearing loss in Chinese automobile workers. Cell Stress Chaperones. 2006 Autumn;11(3):233-9. \[[PMC free article: PMC1576471](/pmc/articles/PMC1576471/)\] \[[PubMed: 17009596](https://pubmed.ncbi.nlm.nih.gov/17009596)\]
 
 20.
-    
 
-Konings A, Van Laer L, Michel S, Pawelczyk M, Carlsson PI, Bondeson ML, Rajkowska E, Dudarewicz A, Vandevelde A, Fransen E, Huyghe J, Borg E, Sliwinska-Kowalska M, Van Camp G. Variations in HSP70 genes associated with noise-induced hearing loss in two independent populations. Eur J Hum Genet. 2009 Mar;17(3):329-35. [[PMC free article: PMC2986160](/pmc/articles/PMC2986160/)] [[PubMed: 18813331](https://pubmed.ncbi.nlm.nih.gov/18813331)]
+Konings A, Van Laer L, Michel S, Pawelczyk M, Carlsson PI, Bondeson ML, Rajkowska E, Dudarewicz A, Vandevelde A, Fransen E, Huyghe J, Borg E, Sliwinska-Kowalska M, Van Camp G. Variations in HSP70 genes associated with noise-induced hearing loss in two independent populations. Eur J Hum Genet. 2009 Mar;17(3):329-35. \[[PMC free article: PMC2986160](/pmc/articles/PMC2986160/)\] \[[PubMed: 18813331](https://pubmed.ncbi.nlm.nih.gov/18813331)\]
 
 21.
-    
 
-Kowalski TJ, Pawelczyk M, Rajkowska E, Dudarewicz A, Sliwinska-Kowalska M. Genetic variants of CDH23 associated with noise-induced hearing loss. Otol Neurotol. 2014 Feb;35(2):358-65. [[PubMed: 24448297](https://pubmed.ncbi.nlm.nih.gov/24448297)]
+Kowalski TJ, Pawelczyk M, Rajkowska E, Dudarewicz A, Sliwinska-Kowalska M. Genetic variants of CDH23 associated with noise-induced hearing loss. Otol Neurotol. 2014 Feb;35(2):358-65. \[[PubMed: 24448297](https://pubmed.ncbi.nlm.nih.gov/24448297)\]
 
 22.
-    
 
-Sliwinska-Kowalska M, Pawelczyk M. Contribution of genetic factors to noise-induced hearing loss: a human studies review. Mutat Res. 2013 Jan-Mar;752(1):61-65. [[PubMed: 23207014](https://pubmed.ncbi.nlm.nih.gov/23207014)]
+Sliwinska-Kowalska M, Pawelczyk M. Contribution of genetic factors to noise-induced hearing loss: a human studies review. Mutat Res. 2013 Jan-Mar;752(1):61-65. \[[PubMed: 23207014](https://pubmed.ncbi.nlm.nih.gov/23207014)\]
 
 23.
-    
 
-Park S, Johnson MD, Hong O. Analysis of Occupational Safety and Health Administration (OSHA) noise standard violations over 50 years: 1972 to 2019. Am J Ind Med. 2020 Jul;63(7):616-623. [[PubMed: 32367510](https://pubmed.ncbi.nlm.nih.gov/32367510)]
+Park S, Johnson MD, Hong O. Analysis of Occupational Safety and Health Administration (OSHA) noise standard violations over 50 years: 1972 to 2019. Am J Ind Med. 2020 Jul;63(7):616-623. \[[PubMed: 32367510](https://pubmed.ncbi.nlm.nih.gov/32367510)\]
 
 24.
-    
 
-Deng XF, Shi GQ, Guo LL, Zhu CA, Chen YJ. Analysis on Risk Factors of Depressive Symptoms in Occupational Noise-induced Hearing Loss Patients: A Cross-sectional Study. Noise Health. 2019 Jan-Feb;21(98):17-24. [[PMC free article: PMC7050233](/pmc/articles/PMC7050233/)] [[PubMed: 32098927](https://pubmed.ncbi.nlm.nih.gov/32098927)]
+Deng XF, Shi GQ, Guo LL, Zhu CA, Chen YJ. Analysis on Risk Factors of Depressive Symptoms in Occupational Noise-induced Hearing Loss Patients: A Cross-sectional Study. Noise Health. 2019 Jan-Feb;21(98):17-24. \[[PMC free article: PMC7050233](/pmc/articles/PMC7050233/)\] \[[PubMed: 32098927](https://pubmed.ncbi.nlm.nih.gov/32098927)\]
 
 25.
-    
 
-Esquivel CR, Parker M, Curtis K, Merkley A, Littlefield P, Conley G, Wise S, Feldt B, Henselman L, Stockinger Z. Aural Blast Injury/Acoustic Trauma and Hearing Loss. Mil Med. 2018 Sep 01;183(suppl_2):78-82. [[PubMed: 30189086](https://pubmed.ncbi.nlm.nih.gov/30189086)]
+Esquivel CR, Parker M, Curtis K, Merkley A, Littlefield P, Conley G, Wise S, Feldt B, Henselman L, Stockinger Z. Aural Blast Injury/Acoustic Trauma and Hearing Loss. Mil Med. 2018 Sep 01;183(suppl_2):78-82. \[[PubMed: 30189086](https://pubmed.ncbi.nlm.nih.gov/30189086)\]
 
 26.
-    
 
-Lachaux J, Giéré PA, Vuillemin Q, Colléony T, Crambert A, Siegrist S, Parietti-Winkler C, Schwartzbrod PÉ, Andéol G. Long-Term Hearing Loss after Acute Acoustic Trauma in the French Military: A Retrospective Study. Mil Med. 2024 Feb 27;189(3-4):e698-e704. [[PubMed: 37651596](https://pubmed.ncbi.nlm.nih.gov/37651596)]
+Lachaux J, Giéré PA, Vuillemin Q, Colléony T, Crambert A, Siegrist S, Parietti-Winkler C, Schwartzbrod PÉ, Andéol G. Long-Term Hearing Loss after Acute Acoustic Trauma in the French Military: A Retrospective Study. Mil Med. 2024 Feb 27;189(3-4):e698-e704. \[[PubMed: 37651596](https://pubmed.ncbi.nlm.nih.gov/37651596)\]
 
 27.
-    
 
-Kellerhals B. Progressive hearing loss after single exposure to acute acoustic trauma. Eur Arch Otorhinolaryngol. 1991;248(5):289-92. [[PubMed: 1888508](https://pubmed.ncbi.nlm.nih.gov/1888508)]
+Kellerhals B. Progressive hearing loss after single exposure to acute acoustic trauma. Eur Arch Otorhinolaryngol. 1991;248(5):289-92. \[[PubMed: 1888508](https://pubmed.ncbi.nlm.nih.gov/1888508)\]
 
 28.
-    
 
-Natarajan N, Batts S, Stankovic KM. Noise-Induced Hearing Loss. J Clin Med. 2023 Mar 17;12(6) [[PMC free article: PMC10059082](/pmc/articles/PMC10059082/)] [[PubMed: 36983347](https://pubmed.ncbi.nlm.nih.gov/36983347)]
+Natarajan N, Batts S, Stankovic KM. Noise-Induced Hearing Loss. J Clin Med. 2023 Mar 17;12(6) \[[PMC free article: PMC10059082](/pmc/articles/PMC10059082/)\] \[[PubMed: 36983347](https://pubmed.ncbi.nlm.nih.gov/36983347)\]
 
 29.
-    
 
-Shin SA, Lyu AR, Jeong SH, Kim TH, Park MJ, Park YH. Acoustic Trauma Modulates Cochlear Blood Flow and Vasoactive Factors in a Rodent Model of Noise-Induced Hearing Loss. Int J Mol Sci. 2019 Oct 25;20(21) [[PMC free article: PMC6862585](/pmc/articles/PMC6862585/)] [[PubMed: 31731459](https://pubmed.ncbi.nlm.nih.gov/31731459)]
+Shin SA, Lyu AR, Jeong SH, Kim TH, Park MJ, Park YH. Acoustic Trauma Modulates Cochlear Blood Flow and Vasoactive Factors in a Rodent Model of Noise-Induced Hearing Loss. Int J Mol Sci. 2019 Oct 25;20(21) \[[PMC free article: PMC6862585](/pmc/articles/PMC6862585/)\] \[[PubMed: 31731459](https://pubmed.ncbi.nlm.nih.gov/31731459)\]
 
 30.
-    
 
-Tornabene SV, Sato K, Pham L, Billings P, Keithley EM. Immune cell recruitment following acoustic trauma. Hear Res. 2006 Dec;222(1-2):115-24. [[PubMed: 17081714](https://pubmed.ncbi.nlm.nih.gov/17081714)]
+Tornabene SV, Sato K, Pham L, Billings P, Keithley EM. Immune cell recruitment following acoustic trauma. Hear Res. 2006 Dec;222(1-2):115-24. \[[PubMed: 17081714](https://pubmed.ncbi.nlm.nih.gov/17081714)\]
 
 31.
-    
 
-Yamashita D, Jiang HY, Schacht J, Miller JM. Delayed production of free radicals following noise exposure. Brain Res. 2004 Sep 03;1019(1-2):201-9. [[PubMed: 15306254](https://pubmed.ncbi.nlm.nih.gov/15306254)]
+Yamashita D, Jiang HY, Schacht J, Miller JM. Delayed production of free radicals following noise exposure. Brain Res. 2004 Sep 03;1019(1-2):201-9. \[[PubMed: 15306254](https://pubmed.ncbi.nlm.nih.gov/15306254)\]
 
 32.
-    
 
-Frye MD, Zhang C, Hu BH. Lower level noise exposure that produces only TTS modulates the immune homeostasis of cochlear macrophages. J Neuroimmunol. 2018 Oct 15;323:152-166. [[PMC free article: PMC6132261](/pmc/articles/PMC6132261/)] [[PubMed: 30196827](https://pubmed.ncbi.nlm.nih.gov/30196827)]
+Frye MD, Zhang C, Hu BH. Lower level noise exposure that produces only TTS modulates the immune homeostasis of cochlear macrophages. J Neuroimmunol. 2018 Oct 15;323:152-166. \[[PMC free article: PMC6132261](/pmc/articles/PMC6132261/)\] \[[PubMed: 30196827](https://pubmed.ncbi.nlm.nih.gov/30196827)\]
 
 33.
-    
 
-Ohinata Y, Miller JM, Altschuler RA, Schacht J. Intense noise induces formation of vasoactive lipid peroxidation products in the cochlea. Brain Res. 2000 Sep 29;878(1-2):163-73. [[PubMed: 10996147](https://pubmed.ncbi.nlm.nih.gov/10996147)]
+Ohinata Y, Miller JM, Altschuler RA, Schacht J. Intense noise induces formation of vasoactive lipid peroxidation products in the cochlea. Brain Res. 2000 Sep 29;878(1-2):163-73. \[[PubMed: 10996147](https://pubmed.ncbi.nlm.nih.gov/10996147)\]
 
 34.
-    
 
-Patterson JH, Hamernik RP. Blast overpressure induced structural and functional changes in the auditory system. Toxicology. 1997 Jul 25;121(1):29-40. [[PubMed: 9217313](https://pubmed.ncbi.nlm.nih.gov/9217313)]
+Patterson JH, Hamernik RP. Blast overpressure induced structural and functional changes in the auditory system. Toxicology. 1997 Jul 25;121(1):29-40. \[[PubMed: 9217313](https://pubmed.ncbi.nlm.nih.gov/9217313)\]
 
 35.
-    
 
-Mizuno N, Nomura S, Konishi A, Uemura-Sumi M, Takahashi O, Yasui Y, Takada M, Matsushima R. Localization of motoneurons innervating the tensor tympani muscles: an horseradish peroxidase study in the guinea pig and cat. Neurosci Lett. 1982 Aug 31;31(3):205-8. [[PubMed: 7133555](https://pubmed.ncbi.nlm.nih.gov/7133555)]
+Mizuno N, Nomura S, Konishi A, Uemura-Sumi M, Takahashi O, Yasui Y, Takada M, Matsushima R. Localization of motoneurons innervating the tensor tympani muscles: an horseradish peroxidase study in the guinea pig and cat. Neurosci Lett. 1982 Aug 31;31(3):205-8. \[[PubMed: 7133555](https://pubmed.ncbi.nlm.nih.gov/7133555)\]
 
 36.
-    
 
-Westcott M. Acoustic shock injury (ASI). Acta Otolaryngol Suppl. 2006 Dec;(556):54-8. [[PubMed: 17114144](https://pubmed.ncbi.nlm.nih.gov/17114144)]
+Westcott M. Acoustic shock injury (ASI). Acta Otolaryngol Suppl. 2006 Dec;(556):54-8. \[[PubMed: 17114144](https://pubmed.ncbi.nlm.nih.gov/17114144)\]
 
 37.
-    
 
-Shah JP, Thaker N, Heimur J, Aredo JV, Sikdar S, Gerber L. Myofascial Trigger Points Then and Now: A Historical and Scientific Perspective. PM R. 2015 Jul;7(7):746-761. [[PMC free article: PMC4508225](/pmc/articles/PMC4508225/)] [[PubMed: 25724849](https://pubmed.ncbi.nlm.nih.gov/25724849)]
+Shah JP, Thaker N, Heimur J, Aredo JV, Sikdar S, Gerber L. Myofascial Trigger Points Then and Now: A Historical and Scientific Perspective. PM R. 2015 Jul;7(7):746-761. \[[PMC free article: PMC4508225](/pmc/articles/PMC4508225/)\] \[[PubMed: 25724849](https://pubmed.ncbi.nlm.nih.gov/25724849)\]
 
 38.
-    
 
-Londero A, Charpentier N, Ponsot D, Fournier P, Pezard L, Noreña AJ. A Case of Acoustic Shock with Post-trauma Trigeminal-Autonomic Activation. Front Neurol. 2017;8:420. [[PMC free article: PMC5562182](/pmc/articles/PMC5562182/)] [[PubMed: 28861040](https://pubmed.ncbi.nlm.nih.gov/28861040)]
+Londero A, Charpentier N, Ponsot D, Fournier P, Pezard L, Noreña AJ. A Case of Acoustic Shock with Post-trauma Trigeminal-Autonomic Activation. Front Neurol. 2017;8:420. \[[PMC free article: PMC5562182](/pmc/articles/PMC5562182/)\] \[[PubMed: 28861040](https://pubmed.ncbi.nlm.nih.gov/28861040)\]
 
 39.
-    
 
-Noreña AJ, Fournier P, Londero A, Ponsot D, Charpentier N. An Integrative Model Accounting for the Symptom Cluster Triggered After an Acoustic Shock. Trends Hear. 2018 Jan-Dec;22:2331216518801725. [[PMC free article: PMC6156190](/pmc/articles/PMC6156190/)] [[PubMed: 30249168](https://pubmed.ncbi.nlm.nih.gov/30249168)]
+Noreña AJ, Fournier P, Londero A, Ponsot D, Charpentier N. An Integrative Model Accounting for the Symptom Cluster Triggered After an Acoustic Shock. Trends Hear. 2018 Jan-Dec;22:2331216518801725. \[[PMC free article: PMC6156190](/pmc/articles/PMC6156190/)\] \[[PubMed: 30249168](https://pubmed.ncbi.nlm.nih.gov/30249168)\]
 
 40.
-    
 
-Gautam M, Benson CJ, Sluka KA. Increased response of muscle sensory neurons to decreases in pH after muscle inflammation. Neuroscience. 2010 Oct 27;170(3):893-900. [[PMC free article: PMC2939292](/pmc/articles/PMC2939292/)] [[PubMed: 20691768](https://pubmed.ncbi.nlm.nih.gov/20691768)]
+Gautam M, Benson CJ, Sluka KA. Increased response of muscle sensory neurons to decreases in pH after muscle inflammation. Neuroscience. 2010 Oct 27;170(3):893-900. \[[PMC free article: PMC2939292](/pmc/articles/PMC2939292/)\] \[[PubMed: 20691768](https://pubmed.ncbi.nlm.nih.gov/20691768)\]
 
 41.
-    
 
-Yamazaki M, Sato I. Distribution of substance P and the calcitonin gene-related peptide in the human tensor tympani muscle. Eur Arch Otorhinolaryngol. 2014 May;271(5):905-11. [[PMC free article: PMC3978212](/pmc/articles/PMC3978212/)] [[PubMed: 23568041](https://pubmed.ncbi.nlm.nih.gov/23568041)]
+Yamazaki M, Sato I. Distribution of substance P and the calcitonin gene-related peptide in the human tensor tympani muscle. Eur Arch Otorhinolaryngol. 2014 May;271(5):905-11. \[[PMC free article: PMC3978212](/pmc/articles/PMC3978212/)\] \[[PubMed: 23568041](https://pubmed.ncbi.nlm.nih.gov/23568041)\]
 
 42.
-    
 
-Ebmeyer J, Furukawa M, Pak K, Ebmeyer U, Sudhoff H, Broide D, Ryan AF, Wasserman S. Role of mast cells in otitis media. J Allergy Clin Immunol. 2005 Nov;116(5):1129-35. [[PubMed: 16275387](https://pubmed.ncbi.nlm.nih.gov/16275387)]
+Ebmeyer J, Furukawa M, Pak K, Ebmeyer U, Sudhoff H, Broide D, Ryan AF, Wasserman S. Role of mast cells in otitis media. J Allergy Clin Immunol. 2005 Nov;116(5):1129-35. \[[PubMed: 16275387](https://pubmed.ncbi.nlm.nih.gov/16275387)\]
 
 43.
-    
 
-Baron R, Schattschneider J, Binder A, Siebrecht D, Wasner G. Relation between sympathetic vasoconstrictor activity and pain and hyperalgesia in complex regional pain syndromes: a case-control study. Lancet. 2002 May 11;359(9318):1655-60. [[PubMed: 12020526](https://pubmed.ncbi.nlm.nih.gov/12020526)]
+Baron R, Schattschneider J, Binder A, Siebrecht D, Wasner G. Relation between sympathetic vasoconstrictor activity and pain and hyperalgesia in complex regional pain syndromes: a case-control study. Lancet. 2002 May 11;359(9318):1655-60. \[[PubMed: 12020526](https://pubmed.ncbi.nlm.nih.gov/12020526)\]
 
 44.
-    
 
-Canlon B, Meltser I, Johansson P, Tahera Y. Glucocorticoid receptors modulate auditory sensitivity to acoustic trauma. Hear Res. 2007 Apr;226(1-2):61-9. [[PubMed: 16843624](https://pubmed.ncbi.nlm.nih.gov/16843624)]
+Canlon B, Meltser I, Johansson P, Tahera Y. Glucocorticoid receptors modulate auditory sensitivity to acoustic trauma. Hear Res. 2007 Apr;226(1-2):61-9. \[[PubMed: 16843624](https://pubmed.ncbi.nlm.nih.gov/16843624)\]
 
 45.
-    
 
-Chandrasekhar SS, Tsai Do BS, Schwartz SR, Bontempo LJ, Faucett EA, Finestone SA, Hollingsworth DB, Kelley DM, Kmucha ST, Moonis G, Poling GL, Roberts JK, Stachler RJ, Zeitler DM, Corrigan MD, Nnacheta LC, Satterfield L. Clinical Practice Guideline: Sudden Hearing Loss (Update). Otolaryngol Head Neck Surg. 2019 Aug;161(1_suppl):S1-S45. [[PubMed: 31369359](https://pubmed.ncbi.nlm.nih.gov/31369359)]
+Chandrasekhar SS, Tsai Do BS, Schwartz SR, Bontempo LJ, Faucett EA, Finestone SA, Hollingsworth DB, Kelley DM, Kmucha ST, Moonis G, Poling GL, Roberts JK, Stachler RJ, Zeitler DM, Corrigan MD, Nnacheta LC, Satterfield L. Clinical Practice Guideline: Sudden Hearing Loss (Update). Otolaryngol Head Neck Surg. 2019 Aug;161(1_suppl):S1-S45. \[[PubMed: 31369359](https://pubmed.ncbi.nlm.nih.gov/31369359)\]
 
 46.
-    
 
-Li MM, Tayoun AA, DiStefano M, Pandya A, Rehm HL, Robin NH, Schaefer AM, Yoshinaga-Itano C., ACMG Professional Practice and Guidelines Committee. Electronic address: documents@acmg.net. Clinical evaluation and etiologic diagnosis of hearing loss: A clinical practice resource of the American College of Medical Genetics and Genomics (ACMG). Genet Med. 2022 Jul;24(7):1392-1406. [[PubMed: 35802133](https://pubmed.ncbi.nlm.nih.gov/35802133)]
+Li MM, Tayoun AA, DiStefano M, Pandya A, Rehm HL, Robin NH, Schaefer AM, Yoshinaga-Itano C., ACMG Professional Practice and Guidelines Committee. Electronic address: documents@acmg.net. Clinical evaluation and etiologic diagnosis of hearing loss: A clinical practice resource of the American College of Medical Genetics and Genomics (ACMG). Genet Med. 2022 Jul;24(7):1392-1406. \[[PubMed: 35802133](https://pubmed.ncbi.nlm.nih.gov/35802133)\]
 
 47.
-    
 
-Moon IS, Park SY, Park HJ, Yang HS, Hong SJ, Lee WS. Clinical characteristics of acoustic trauma caused by gunshot noise in mass rifle drills without ear protection. J Occup Environ Hyg. 2011 Oct;8(10):618-23. [[PubMed: 21936701](https://pubmed.ncbi.nlm.nih.gov/21936701)]
+Moon IS, Park SY, Park HJ, Yang HS, Hong SJ, Lee WS. Clinical characteristics of acoustic trauma caused by gunshot noise in mass rifle drills without ear protection. J Occup Environ Hyg. 2011 Oct;8(10):618-23. \[[PubMed: 21936701](https://pubmed.ncbi.nlm.nih.gov/21936701)\]
 
 48.
-    
 
-Harada H, Shiraishi K, Kato T. Prognosis of acute acoustic trauma: a retrospective study using multiple logistic regression analysis. Auris Nasus Larynx. 2001 Apr;28(2):117-20. [[PubMed: 11240317](https://pubmed.ncbi.nlm.nih.gov/11240317)]
+Harada H, Shiraishi K, Kato T. Prognosis of acute acoustic trauma: a retrospective study using multiple logistic regression analysis. Auris Nasus Larynx. 2001 Apr;28(2):117-20. \[[PubMed: 11240317](https://pubmed.ncbi.nlm.nih.gov/11240317)\]
 
 49.
-    
 
-Moore BCJ. The Effect of Exposure to Noise during Military Service on the Subsequent Progression of Hearing Loss. Int J Environ Res Public Health. 2021 Mar 02;18(5) [[PMC free article: PMC7967570](/pmc/articles/PMC7967570/)] [[PubMed: 33801367](https://pubmed.ncbi.nlm.nih.gov/33801367)]
+Moore BCJ. The Effect of Exposure to Noise during Military Service on the Subsequent Progression of Hearing Loss. Int J Environ Res Public Health. 2021 Mar 02;18(5) \[[PMC free article: PMC7967570](/pmc/articles/PMC7967570/)\] \[[PubMed: 33801367](https://pubmed.ncbi.nlm.nih.gov/33801367)\]
 
 50.
-    
 
-Lowe DA, Moore BCJ. Audiometric assessment of hearing loss sustained during military service. J Acoust Soc Am. 2021 Aug;150(2):1030. [[PubMed: 34470327](https://pubmed.ncbi.nlm.nih.gov/34470327)]
+Lowe DA, Moore BCJ. Audiometric assessment of hearing loss sustained during military service. J Acoust Soc Am. 2021 Aug;150(2):1030. \[[PubMed: 34470327](https://pubmed.ncbi.nlm.nih.gov/34470327)\]
 
 51.
-    
 
-Nottet JB, Moulin A, Brossard N, Suc B, Job A. Otoacoustic emissions and persistent tinnitus after acute acoustic trauma. Laryngoscope. 2006 Jun;116(6):970-5. [[PubMed: 16735910](https://pubmed.ncbi.nlm.nih.gov/16735910)]
+Nottet JB, Moulin A, Brossard N, Suc B, Job A. Otoacoustic emissions and persistent tinnitus after acute acoustic trauma. Laryngoscope. 2006 Jun;116(6):970-5. \[[PubMed: 16735910](https://pubmed.ncbi.nlm.nih.gov/16735910)\]
 
 52.
-    
 
-Ylikoski J. Audiometric configurations in acute acoustic trauma caused by firearms. Scand Audiol. 1987;16(3):115-20. [[PubMed: 3432989](https://pubmed.ncbi.nlm.nih.gov/3432989)]
+Ylikoski J. Audiometric configurations in acute acoustic trauma caused by firearms. Scand Audiol. 1987;16(3):115-20. \[[PubMed: 3432989](https://pubmed.ncbi.nlm.nih.gov/3432989)\]
 
 53.
-    
 
-Perez R, Gatt N, Cohen D. Audiometric configurations following exposure to explosions. Arch Otolaryngol Head Neck Surg. 2000 Oct;126(10):1249-52. [[PubMed: 11031413](https://pubmed.ncbi.nlm.nih.gov/11031413)]
+Perez R, Gatt N, Cohen D. Audiometric configurations following exposure to explosions. Arch Otolaryngol Head Neck Surg. 2000 Oct;126(10):1249-52. \[[PubMed: 11031413](https://pubmed.ncbi.nlm.nih.gov/11031413)\]
 
 54.
-    
 
-Job A, Raynal M, Kossowski M, Studler M, Ghernaouti C, Baffioni-Venturi A, Roux A, Darolles C, Guelorget A. Otoacoustic detection of risk of early hearing loss in ears with normal audiograms: a 3-year follow-up study. Hear Res. 2009 May;251(1-2):10-6. [[PubMed: 19249340](https://pubmed.ncbi.nlm.nih.gov/19249340)]
+Job A, Raynal M, Kossowski M, Studler M, Ghernaouti C, Baffioni-Venturi A, Roux A, Darolles C, Guelorget A. Otoacoustic detection of risk of early hearing loss in ears with normal audiograms: a 3-year follow-up study. Hear Res. 2009 May;251(1-2):10-6. \[[PubMed: 19249340](https://pubmed.ncbi.nlm.nih.gov/19249340)\]
 
 55.
-    
 
-Richardson MP, Williamson TJ, Lenton SW, Tarlow MJ, Rudd PT. Otoacoustic emissions as a screening test for hearing impairment in children. Arch Dis Child. 1995 Apr;72(4):294-7. [[PMC free article: PMC1511251](/pmc/articles/PMC1511251/)] [[PubMed: 7763058](https://pubmed.ncbi.nlm.nih.gov/7763058)]
+Richardson MP, Williamson TJ, Lenton SW, Tarlow MJ, Rudd PT. Otoacoustic emissions as a screening test for hearing impairment in children. Arch Dis Child. 1995 Apr;72(4):294-7. \[[PMC free article: PMC1511251](/pmc/articles/PMC1511251/)\] \[[PubMed: 7763058](https://pubmed.ncbi.nlm.nih.gov/7763058)\]
 
 56.
-    
 
-Kemp DT, Ryan S, Bray P. A guide to the effective use of otoacoustic emissions. Ear Hear. 1990 Apr;11(2):93-105. [[PubMed: 2340969](https://pubmed.ncbi.nlm.nih.gov/2340969)]
+Kemp DT, Ryan S, Bray P. A guide to the effective use of otoacoustic emissions. Ear Hear. 1990 Apr;11(2):93-105. \[[PubMed: 2340969](https://pubmed.ncbi.nlm.nih.gov/2340969)\]
 
 57.
-    
 
-Konopka W, Zalewski P, Pietkiewicz P. Evaluation of Transient and Distortion Product Otoacoustic Emissions before and after shooting practice. Noise Health. 2001;3(10):29-37. [[PubMed: 12689453](https://pubmed.ncbi.nlm.nih.gov/12689453)]
+Konopka W, Zalewski P, Pietkiewicz P. Evaluation of Transient and Distortion Product Otoacoustic Emissions before and after shooting practice. Noise Health. 2001;3(10):29-37. \[[PubMed: 12689453](https://pubmed.ncbi.nlm.nih.gov/12689453)\]
 
 58.
-    
 
-Pawlaczyk-Luszczyńska M, Dudarewicz A, Bak M, Fiszer M, Kotyło P, Sliwińska-Kowalska M. Temporary changes in hearing after exposure to shooting noise. Int J Occup Med Environ Health. 2004;17(2):285-93. [[PubMed: 15387085](https://pubmed.ncbi.nlm.nih.gov/15387085)]
+Pawlaczyk-Luszczyńska M, Dudarewicz A, Bak M, Fiszer M, Kotyło P, Sliwińska-Kowalska M. Temporary changes in hearing after exposure to shooting noise. Int J Occup Med Environ Health. 2004;17(2):285-93. \[[PubMed: 15387085](https://pubmed.ncbi.nlm.nih.gov/15387085)\]
 
 59.
-    
 
-Attias J, Horovitz G, El-Hatib N, Nageris B. Detection and Clinical Diagnosis of Noise-Induced Hearing Loss by Otoacoustic Emissions. Noise Health. 2001;3(12):19-31. [[PubMed: 12678938](https://pubmed.ncbi.nlm.nih.gov/12678938)]
+Attias J, Horovitz G, El-Hatib N, Nageris B. Detection and Clinical Diagnosis of Noise-Induced Hearing Loss by Otoacoustic Emissions. Noise Health. 2001;3(12):19-31. \[[PubMed: 12678938](https://pubmed.ncbi.nlm.nih.gov/12678938)\]
 
 60.
-    
 
-Oeken J. Distortion Product Otoacoustic Emissions in acute acoustic trauma. Noise Health. 1998;1(1):56-66. [[PubMed: 12689368](https://pubmed.ncbi.nlm.nih.gov/12689368)]
+Oeken J. Distortion Product Otoacoustic Emissions in acute acoustic trauma. Noise Health. 1998;1(1):56-66. \[[PubMed: 12689368](https://pubmed.ncbi.nlm.nih.gov/12689368)\]
 
 61.
-    
 
-Zloczower E, Tsur N, Hershkovich S, Fink N, Marom T. Efficacy of Oral Steroids for Acute Acoustic Trauma. Audiol Neurootol. 2022;27(4):312-320. [[PMC free article: PMC9501729](/pmc/articles/PMC9501729/)] [[PubMed: 35231916](https://pubmed.ncbi.nlm.nih.gov/35231916)]
+Zloczower E, Tsur N, Hershkovich S, Fink N, Marom T. Efficacy of Oral Steroids for Acute Acoustic Trauma. Audiol Neurootol. 2022;27(4):312-320. \[[PMC free article: PMC9501729](/pmc/articles/PMC9501729/)\] \[[PubMed: 35231916](https://pubmed.ncbi.nlm.nih.gov/35231916)\]
 
 62.
-    
 
-Lavigne P, Lavigne F, Saliba I. Intratympanic corticosteroids injections: a systematic review of literature. Eur Arch Otorhinolaryngol. 2016 Sep;273(9):2271-8. [[PubMed: 26100030](https://pubmed.ncbi.nlm.nih.gov/26100030)]
+Lavigne P, Lavigne F, Saliba I. Intratympanic corticosteroids injections: a systematic review of literature. Eur Arch Otorhinolaryngol. 2016 Sep;273(9):2271-8. \[[PubMed: 26100030](https://pubmed.ncbi.nlm.nih.gov/26100030)\]
 
 63.
-    
 
-Chang YS, Bang K, Choi N, Kim JS, Lee GG. Factors Associated With the Benefits of Concurrent Administration of Intratympanic Steroid Injection With Oral Steroids in Patients With Acute Acoustic Trauma. Otol Neurotol. 2018 Jun;39(5):565-570. [[PubMed: 29649042](https://pubmed.ncbi.nlm.nih.gov/29649042)]
+Chang YS, Bang K, Choi N, Kim JS, Lee GG. Factors Associated With the Benefits of Concurrent Administration of Intratympanic Steroid Injection With Oral Steroids in Patients With Acute Acoustic Trauma. Otol Neurotol. 2018 Jun;39(5):565-570. \[[PubMed: 29649042](https://pubmed.ncbi.nlm.nih.gov/29649042)\]
 
 64.
-    
 
-Holy R, Zavazalova S, Prochazkova K, Kalfert D, Younus T, Dosel P, Kovar D, Janouskova K, Oniscenko B, Fik Z, Astl J. The Use of Hyperbaric Oxygen Therapy and Corticosteroid Therapy in Acute Acoustic Trauma: 15 Years' Experience at the Czech Military Health Service. Int J Environ Res Public Health. 2021 Apr 22;18(9) [[PMC free article: PMC8122777](/pmc/articles/PMC8122777/)] [[PubMed: 33922296](https://pubmed.ncbi.nlm.nih.gov/33922296)]
+Holy R, Zavazalova S, Prochazkova K, Kalfert D, Younus T, Dosel P, Kovar D, Janouskova K, Oniscenko B, Fik Z, Astl J. The Use of Hyperbaric Oxygen Therapy and Corticosteroid Therapy in Acute Acoustic Trauma: 15 Years' Experience at the Czech Military Health Service. Int J Environ Res Public Health. 2021 Apr 22;18(9) \[[PMC free article: PMC8122777](/pmc/articles/PMC8122777/)\] \[[PubMed: 33922296](https://pubmed.ncbi.nlm.nih.gov/33922296)\]
 
 65.
-    
 
-Singh K, Gude A, Kour A, Guthikonda MR, Mishra AK, Gupta A. A Prospective Study to Elucidate the Efficacy of 4 Oral Prednisolone Regimens in Acute Acoustic Trauma. Indian J Otolaryngol Head Neck Surg. 2022 Dec;74(Suppl 3):3692-3699. [[PMC free article: PMC9895518](/pmc/articles/PMC9895518/)] [[PubMed: 36742739](https://pubmed.ncbi.nlm.nih.gov/36742739)]
+Singh K, Gude A, Kour A, Guthikonda MR, Mishra AK, Gupta A. A Prospective Study to Elucidate the Efficacy of 4 Oral Prednisolone Regimens in Acute Acoustic Trauma. Indian J Otolaryngol Head Neck Surg. 2022 Dec;74(Suppl 3):3692-3699. \[[PMC free article: PMC9895518](/pmc/articles/PMC9895518/)\] \[[PubMed: 36742739](https://pubmed.ncbi.nlm.nih.gov/36742739)\]
 
 66.
-    
 
-Oishi N, Schacht J. Emerging treatments for noise-induced hearing loss. Expert Opin Emerg Drugs. 2011 Jun;16(2):235-45. [[PMC free article: PMC3102156](/pmc/articles/PMC3102156/)] [[PubMed: 21247358](https://pubmed.ncbi.nlm.nih.gov/21247358)]
+Oishi N, Schacht J. Emerging treatments for noise-induced hearing loss. Expert Opin Emerg Drugs. 2011 Jun;16(2):235-45. \[[PMC free article: PMC3102156](/pmc/articles/PMC3102156/)\] \[[PubMed: 21247358](https://pubmed.ncbi.nlm.nih.gov/21247358)\]
 
 67.
-    
 
-Oya M, Tadano Y, Takihata Y, Ikomi F, Tokunaga T. Utility of Hyperbaric Oxygen Therapy for Acute Acoustic Trauma: 20 years' Experience at the Japan Maritime Self-Defense Force Undersea Medical Center. Int Arch Otorhinolaryngol. 2019 Oct;23(4):e408-e414. [[PMC free article: PMC6805185](/pmc/articles/PMC6805185/)] [[PubMed: 31649760](https://pubmed.ncbi.nlm.nih.gov/31649760)]
+Oya M, Tadano Y, Takihata Y, Ikomi F, Tokunaga T. Utility of Hyperbaric Oxygen Therapy for Acute Acoustic Trauma: 20 years' Experience at the Japan Maritime Self-Defense Force Undersea Medical Center. Int Arch Otorhinolaryngol. 2019 Oct;23(4):e408-e414. \[[PMC free article: PMC6805185](/pmc/articles/PMC6805185/)\] \[[PubMed: 31649760](https://pubmed.ncbi.nlm.nih.gov/31649760)\]
 
 68.
-    
 
-Bayoumy AB, Weenink RP, van der Veen EL, Besseling-Hansen FS, Hoedemaeker ADM, de Jong FJM, van der Laan MH, Swenker R, van Hulst RA, de Ru JA. It's all about timing, early treatment with hyperbaric oxygen therapy and corticosteroids is essential in acute acoustic trauma. J Otol. 2021 Oct;16(4):237-241. [[PMC free article: PMC8438628](/pmc/articles/PMC8438628/)] [[PubMed: 34548870](https://pubmed.ncbi.nlm.nih.gov/34548870)]
+Bayoumy AB, Weenink RP, van der Veen EL, Besseling-Hansen FS, Hoedemaeker ADM, de Jong FJM, van der Laan MH, Swenker R, van Hulst RA, de Ru JA. It's all about timing, early treatment with hyperbaric oxygen therapy and corticosteroids is essential in acute acoustic trauma. J Otol. 2021 Oct;16(4):237-241. \[[PMC free article: PMC8438628](/pmc/articles/PMC8438628/)\] \[[PubMed: 34548870](https://pubmed.ncbi.nlm.nih.gov/34548870)\]
 
 69.
-    
 
-Michels TC, Duffy MT, Rogers DJ. Hearing Loss in Adults: Differential Diagnosis and Treatment. Am Fam Physician. 2019 Jul 15;100(2):98-108. [[PubMed: 31305044](https://pubmed.ncbi.nlm.nih.gov/31305044)]
-
-    
+Michels TC, Duffy MT, Rogers DJ. Hearing Loss in Adults: Differential Diagnosis and Treatment. Am Fam Physician. 2019 Jul 15;100(2):98-108. \[[PubMed: 31305044](https://pubmed.ncbi.nlm.nih.gov/31305044)\]
 
 **Disclosure:** Varduhi Ghazaryan declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Andrew Sutton declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Russell De Jong declares no relevant financial relationships with ineligible companies.

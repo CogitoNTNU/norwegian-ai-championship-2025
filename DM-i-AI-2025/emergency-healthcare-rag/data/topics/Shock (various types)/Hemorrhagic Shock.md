@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28975/
-scraped_date: 2025-07-22 12:45:02 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28975/ scraped_date: 2025-07-22 12:45:02 UTC
 
 # Hemorrhagic Shock
 
@@ -27,13 +26,13 @@ Shock refers to the inadequate perfusion of tissues due to the imbalance between
 
 **Objectives:**
 
-  * Explain the definition of shock.
+- Explain the definition of shock.
 
-  * Summarize the evaluation of hemorrhagic shock.
+- Summarize the evaluation of hemorrhagic shock.
 
-  * Outline management options available for the treatment of hemorrhagic shock.
+- Outline management options available for the treatment of hemorrhagic shock.
 
-  * Identify some interprofessional team strategies for improving care and communication to improve patient outcomes in patients with hemorrhagic shock.
+- Identify some interprofessional team strategies for improving care and communication to improve patient outcomes in patients with hemorrhagic shock.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28975&utm_source=pubmed&utm_campaign=reviews&utm_content=28975)
 
@@ -71,13 +70,13 @@ Trauma-induced coagulopathy is acutely worsened by the presence of acidosis and 
 
 Recognizing the degree of blood loss via vital signs and mental status abnormalities is important. The American College of Surgeons Advanced Trauma Life Support (ATLS) hemorrhagic shock classification links the amount of blood loss to expected physiologic responses in a healthy 70 kg patient. As total circulating blood volume accounts for approximately 7% of total body weight, this equals approximately five liters in the average 70 kg male patient.
 
-  * Class 1: Volume loss up to 15% of total blood volume, approximately 750 mL. Heart rate is minimally elevated or normal. Typically, there is no change in blood pressure, pulse pressure, or respiratory rate.
+- Class 1: Volume loss up to 15% of total blood volume, approximately 750 mL. Heart rate is minimally elevated or normal. Typically, there is no change in blood pressure, pulse pressure, or respiratory rate.
 
-  * Class 2: Volume loss from 15% to 30% of total blood volume, from 750 mL to 1500 mL. Heart rate and respiratory rate become elevated (100 BPM to 120 BPM, 20 RR to 24 RR). Pulse pressure begins to narrow, but systolic blood pressure may be unchanged to slightly decreased.
+- Class 2: Volume loss from 15% to 30% of total blood volume, from 750 mL to 1500 mL. Heart rate and respiratory rate become elevated (100 BPM to 120 BPM, 20 RR to 24 RR). Pulse pressure begins to narrow, but systolic blood pressure may be unchanged to slightly decreased.
 
-  * Class 3: Volume loss from 30% to 40% of total blood volume, from 1500 mL to 2000 mL. A significant drop in blood pressure and changes in mental status occurs. Heart rate and respiratory rate are significantly elevated (more than 120 BPM). Urine output declines. Capillary refill is delayed.
+- Class 3: Volume loss from 30% to 40% of total blood volume, from 1500 mL to 2000 mL. A significant drop in blood pressure and changes in mental status occurs. Heart rate and respiratory rate are significantly elevated (more than 120 BPM). Urine output declines. Capillary refill is delayed.
 
-  * Class 4: Volume loss over 40% of total blood volume. Hypotension with narrow pulse pressure (less than 25 mmHg). Tachycardia becomes more pronounced (more than 120 BPM), and mental status becomes increasingly altered. Urine output is minimal or absent. Capillary refill is delayed.
+- Class 4: Volume loss over 40% of total blood volume. Hypotension with narrow pulse pressure (less than 25 mmHg). Tachycardia becomes more pronounced (more than 120 BPM), and mental status becomes increasingly altered. Urine output is minimal or absent. Capillary refill is delayed.
 
 Again, the above is outlined for a healthy 70 kg individual. Clinical factors must be taken into account when assessing patients. For example, elderly patients taking beta-blockers can alter the patient’s physiologic response to decreased blood volume by inhibiting mechanisms from increasing heart rate. As another, patients with baseline hypertension may be functionally hypotensive with a systolic blood pressure of 110 mmHg.
 
@@ -117,7 +116,7 @@ Trauma-induced coagulopathy can occur in the absence of the hemodilution of resu
 
 Damage control resuscitation is based on three principles: permissive hypotension, hemostatic resuscitation, and damage control surgery. Permissive hypotension targets a systolic blood pressure of 90 mmHg, accepting suboptimal perfusion to end organs for a limited time to achieve hemostasis.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 There are many causes of shock, and it is important to find the cause as soon as possible. Because shock carries high morbidity and mortality, the condition is best managed by an interprofessional team that includes a trauma surgeon, emergency department physician, ICU nurses, general surgeon, internist, and intensivist.
 
@@ -127,93 +126,74 @@ The outcomes depend on the cause, patient age, associated comorbidity, and patie
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28975&utm_source=pubmed&utm_campaign=reviews&utm_content=28975)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28975&utm_source=pubmed&utm_campaign=reviews&utm_content=28975)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/health/hemorrhagic-shock/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=28975)
+- [Click here for a simplified version.](https://mdsearchlight.com/health/hemorrhagic-shock/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=28975)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/28975/?utm_source=pubmed&utm_campaign=comments&utm_content=28975)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/28975/?utm_source=pubmed&utm_campaign=comments&utm_content=28975)
 
 ## References
 
 1.
-    
 
-Kornblith LZ, Moore HB, Cohen MJ. Trauma-induced coagulopathy: The past, present, and future. J Thromb Haemost. 2019 Jun;17(6):852-862. [[PMC free article: PMC6545123](/pmc/articles/PMC6545123/)] [[PubMed: 30985957](https://pubmed.ncbi.nlm.nih.gov/30985957)]
+Kornblith LZ, Moore HB, Cohen MJ. Trauma-induced coagulopathy: The past, present, and future. J Thromb Haemost. 2019 Jun;17(6):852-862. \[[PMC free article: PMC6545123](/pmc/articles/PMC6545123/)\] \[[PubMed: 30985957](https://pubmed.ncbi.nlm.nih.gov/30985957)\]
 
 2.
-    
 
-Karasu E, Nilsson B, Köhl J, Lambris JD, Huber-Lang M. Targeting Complement Pathways in Polytrauma- and Sepsis-Induced Multiple-Organ Dysfunction. Front Immunol. 2019;10:543. [[PMC free article: PMC6437067](/pmc/articles/PMC6437067/)] [[PubMed: 30949180](https://pubmed.ncbi.nlm.nih.gov/30949180)]
+Karasu E, Nilsson B, Köhl J, Lambris JD, Huber-Lang M. Targeting Complement Pathways in Polytrauma- and Sepsis-Induced Multiple-Organ Dysfunction. Front Immunol. 2019;10:543. \[[PMC free article: PMC6437067](/pmc/articles/PMC6437067/)\] \[[PubMed: 30949180](https://pubmed.ncbi.nlm.nih.gov/30949180)\]
 
 3.
-    
 
-Deng M, Scott MJ, Fan J, Billiar TR. Location is the key to function: HMGB1 in sepsis and trauma-induced inflammation. J Leukoc Biol. 2019 Jul;106(1):161-169. [[PMC free article: PMC6597316](/pmc/articles/PMC6597316/)] [[PubMed: 30946496](https://pubmed.ncbi.nlm.nih.gov/30946496)]
+Deng M, Scott MJ, Fan J, Billiar TR. Location is the key to function: HMGB1 in sepsis and trauma-induced inflammation. J Leukoc Biol. 2019 Jul;106(1):161-169. \[[PMC free article: PMC6597316](/pmc/articles/PMC6597316/)\] \[[PubMed: 30946496](https://pubmed.ncbi.nlm.nih.gov/30946496)\]
 
 4.
-    
 
-Eastridge BJ, Holcomb JB, Shackelford S. Outcomes of traumatic hemorrhagic shock and the epidemiology of preventable death from injury. Transfusion. 2019 Apr;59(S2):1423-1428. [[PubMed: 30980749](https://pubmed.ncbi.nlm.nih.gov/30980749)]
+Eastridge BJ, Holcomb JB, Shackelford S. Outcomes of traumatic hemorrhagic shock and the epidemiology of preventable death from injury. Transfusion. 2019 Apr;59(S2):1423-1428. \[[PubMed: 30980749](https://pubmed.ncbi.nlm.nih.gov/30980749)\]
 
 5.
-    
 
-Owattanapanich N, Chittawatanarat K, Benyakorn T, Sirikun J. Risks and benefits of hypotensive resuscitation in patients with traumatic hemorrhagic shock: a meta-analysis. Scand J Trauma Resusc Emerg Med. 2018 Dec 17;26(1):107. [[PMC free article: PMC6296142](/pmc/articles/PMC6296142/)] [[PubMed: 30558650](https://pubmed.ncbi.nlm.nih.gov/30558650)]
+Owattanapanich N, Chittawatanarat K, Benyakorn T, Sirikun J. Risks and benefits of hypotensive resuscitation in patients with traumatic hemorrhagic shock: a meta-analysis. Scand J Trauma Resusc Emerg Med. 2018 Dec 17;26(1):107. \[[PMC free article: PMC6296142](/pmc/articles/PMC6296142/)\] \[[PubMed: 30558650](https://pubmed.ncbi.nlm.nih.gov/30558650)\]
 
 6.
-    
 
-Scerbo MH, Holcomb JB, Taub E, Gates K, Love JD, Wade CE, Cotton BA. The trauma center is too late: Major limb trauma without a pre-hospital tourniquet has increased death from hemorrhagic shock. J Trauma Acute Care Surg. 2017 Dec;83(6):1165-1172. [[PubMed: 29190257](https://pubmed.ncbi.nlm.nih.gov/29190257)]
+Scerbo MH, Holcomb JB, Taub E, Gates K, Love JD, Wade CE, Cotton BA. The trauma center is too late: Major limb trauma without a pre-hospital tourniquet has increased death from hemorrhagic shock. J Trauma Acute Care Surg. 2017 Dec;83(6):1165-1172. \[[PubMed: 29190257](https://pubmed.ncbi.nlm.nih.gov/29190257)\]
 
 7.
-    
 
-Erdman MO, Chardavoyne P, Olympia RP. School Nurses on the Front Lines of Medicine: The Approach to a Student With Severe Traumatic Bleeding. NASN Sch Nurse. 2019 Sep;34(5):280-286. [[PubMed: 30920935](https://pubmed.ncbi.nlm.nih.gov/30920935)]
+Erdman MO, Chardavoyne P, Olympia RP. School Nurses on the Front Lines of Medicine: The Approach to a Student With Severe Traumatic Bleeding. NASN Sch Nurse. 2019 Sep;34(5):280-286. \[[PubMed: 30920935](https://pubmed.ncbi.nlm.nih.gov/30920935)\]
 
 8.
-    
 
-Nagata N, Ishii N, Manabe N, Tomizawa K, Urita Y, Funabiki T, Fujimori S, Kaise M. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion. 2019;99 Suppl 1:1-26. [[PubMed: 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484)]
+Nagata N, Ishii N, Manabe N, Tomizawa K, Urita Y, Funabiki T, Fujimori S, Kaise M. Guidelines for Colonic Diverticular Bleeding and Colonic Diverticulitis: Japan Gastroenterological Association. Digestion. 2019;99 Suppl 1:1-26. \[[PubMed: 30625484](https://pubmed.ncbi.nlm.nih.gov/30625484)\]
 
 9.
-    
 
-Butler FK, Holcomb JB, Shackelford SA, Barbabella S, Bailey JA, Baker JB, Cap AP, Conklin CC, Cunningham CW, Davis MS, DeLellis SM, Dorlac WC, DuBose JJ, Eastridge BJ, Fisher AD, Glasser JJ, Gurney JM, Jenkins DA, Johannigman J, King DR, Kotwal RS, Littlejohn LF, Mabry RL, Martin MJ, Miles EA, Montgomery HR, Northern DM, O'Connor KC, Rasmussen TE, Riesberg JC, Spinella PC, Stockinger Z, Strandenes G, Via DK, Weber MA. Advanced Resuscitative Care in Tactical Combat Casualty Care: TCCC Guidelines Change 18-01:14 October 2018. J Spec Oper Med. 2018 Winter;18(4):37-55. [[PubMed: 30566723](https://pubmed.ncbi.nlm.nih.gov/30566723)]
+Butler FK, Holcomb JB, Shackelford SA, Barbabella S, Bailey JA, Baker JB, Cap AP, Conklin CC, Cunningham CW, Davis MS, DeLellis SM, Dorlac WC, DuBose JJ, Eastridge BJ, Fisher AD, Glasser JJ, Gurney JM, Jenkins DA, Johannigman J, King DR, Kotwal RS, Littlejohn LF, Mabry RL, Martin MJ, Miles EA, Montgomery HR, Northern DM, O'Connor KC, Rasmussen TE, Riesberg JC, Spinella PC, Stockinger Z, Strandenes G, Via DK, Weber MA. Advanced Resuscitative Care in Tactical Combat Casualty Care: TCCC Guidelines Change 18-01:14 October 2018. J Spec Oper Med. 2018 Winter;18(4):37-55. \[[PubMed: 30566723](https://pubmed.ncbi.nlm.nih.gov/30566723)\]
 
 10.
-    
 
-Martel MJ. No. 115-Hemorrhagic Shock. J Obstet Gynaecol Can. 2018 Dec;40(12):e874-e882. [[PubMed: 30527081](https://pubmed.ncbi.nlm.nih.gov/30527081)]
+Martel MJ. No. 115-Hemorrhagic Shock. J Obstet Gynaecol Can. 2018 Dec;40(12):e874-e882. \[[PubMed: 30527081](https://pubmed.ncbi.nlm.nih.gov/30527081)\]
 
 11.
-    
 
-Kowalski A, Brandis D. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 22, 2023. Shock Resuscitation. [[PubMed: 30521251](https://pubmed.ncbi.nlm.nih.gov/30521251)]
+Kowalski A, Brandis D. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): May 22, 2023. Shock Resuscitation. \[[PubMed: 30521251](https://pubmed.ncbi.nlm.nih.gov/30521251)\]
 
 12.
-    
 
-Valentine SL, Bembea MM, Muszynski JA, Cholette JM, Doctor A, Spinella PC, Steiner ME, Tucci M, Hassan NE, Parker RI, Lacroix J, Argent A, Carson JL, Remy KE, Demaret P, Emeriaud G, Kneyber MCJ, Guzzetta N, Hall MW, Macrae D, Karam O, Russell RT, Stricker PA, Vogel AM, Tasker RC, Turgeon AF, Schwartz SM, Willems A, Josephson CD, Luban NLC, Lehmann LE, Stanworth SJ, Zantek ND, Bunchman TE, Cheifetz IM, Fortenberry JD, Delaney M, van de Watering L, Robinson KA, Malone S, Steffen KM, Bateman ST., Pediatric Critical Care Transfusion and Anemia Expertise Initiative (TAXI). Pediatric Critical Care Blood Research Network (BloodNet), and the Pediatric Acute Lung Injury and Sepsis Investigators (PALISI) Network. Consensus Recommendations for RBC Transfusion Practice in Critically Ill Children From the Pediatric Critical Care Transfusion and Anemia Expertise Initiative. Pediatr Crit Care Med. 2018 Sep;19(9):884-898. [[PMC free article: PMC6126913](/pmc/articles/PMC6126913/)] [[PubMed: 30180125](https://pubmed.ncbi.nlm.nih.gov/30180125)]
+Valentine SL, Bembea MM, Muszynski JA, Cholette JM, Doctor A, Spinella PC, Steiner ME, Tucci M, Hassan NE, Parker RI, Lacroix J, Argent A, Carson JL, Remy KE, Demaret P, Emeriaud G, Kneyber MCJ, Guzzetta N, Hall MW, Macrae D, Karam O, Russell RT, Stricker PA, Vogel AM, Tasker RC, Turgeon AF, Schwartz SM, Willems A, Josephson CD, Luban NLC, Lehmann LE, Stanworth SJ, Zantek ND, Bunchman TE, Cheifetz IM, Fortenberry JD, Delaney M, van de Watering L, Robinson KA, Malone S, Steffen KM, Bateman ST., Pediatric Critical Care Transfusion and Anemia Expertise Initiative (TAXI). Pediatric Critical Care Blood Research Network (BloodNet), and the Pediatric Acute Lung Injury and Sepsis Investigators (PALISI) Network. Consensus Recommendations for RBC Transfusion Practice in Critically Ill Children From the Pediatric Critical Care Transfusion and Anemia Expertise Initiative. Pediatr Crit Care Med. 2018 Sep;19(9):884-898. \[[PMC free article: PMC6126913](/pmc/articles/PMC6126913/)\] \[[PubMed: 30180125](https://pubmed.ncbi.nlm.nih.gov/30180125)\]
 
 13.
-    
 
-Tang J, Shi Z, Hu J, Wu H, Yang C, Le G, Zhao J. Optimal sequence of surgical procedures for hemodynamically unstable patients with pelvic fracture: A network meta-analysis. Am J Emerg Med. 2019 Apr;37(4):571-578. [[PubMed: 29933894](https://pubmed.ncbi.nlm.nih.gov/29933894)]
+Tang J, Shi Z, Hu J, Wu H, Yang C, Le G, Zhao J. Optimal sequence of surgical procedures for hemodynamically unstable patients with pelvic fracture: A network meta-analysis. Am J Emerg Med. 2019 Apr;37(4):571-578. \[[PubMed: 29933894](https://pubmed.ncbi.nlm.nih.gov/29933894)\]
 
 14.
-    
 
-Dickson JM, Wang X, St John AE, Lim EB, Stern SA, White NJ. Damage Control Resuscitation Supplemented with Vasopressin in a Severe Polytrauma Model with Traumatic Brain Injury and Uncontrolled Internal Hemorrhage. Mil Med. 2018 Sep 01;183(9-10):e460-e466. [[PubMed: 29547998](https://pubmed.ncbi.nlm.nih.gov/29547998)]
+Dickson JM, Wang X, St John AE, Lim EB, Stern SA, White NJ. Damage Control Resuscitation Supplemented with Vasopressin in a Severe Polytrauma Model with Traumatic Brain Injury and Uncontrolled Internal Hemorrhage. Mil Med. 2018 Sep 01;183(9-10):e460-e466. \[[PubMed: 29547998](https://pubmed.ncbi.nlm.nih.gov/29547998)\]
 
 15.
-    
 
-Hussmann B, Schoeneberg C, Jungbluth P, Heuer M, Lefering R, Maek T, Hildebrand F, Lendemans S, Pape HC. Enhanced prehospital volume therapy does not lead to improved outcomes in severely injured patients with severe traumatic brain injury. BMC Emerg Med. 2019 Jan 23;19(1):13. [[PMC free article: PMC6343344](/pmc/articles/PMC6343344/)] [[PubMed: 30674281](https://pubmed.ncbi.nlm.nih.gov/30674281)]
-
-    
+Hussmann B, Schoeneberg C, Jungbluth P, Heuer M, Lefering R, Maek T, Hildebrand F, Lendemans S, Pape HC. Enhanced prehospital volume therapy does not lead to improved outcomes in severely injured patients with severe traumatic brain injury. BMC Emerg Med. 2019 Jan 23;19(1):13. \[[PMC free article: PMC6343344](/pmc/articles/PMC6343344/)\] \[[PubMed: 30674281](https://pubmed.ncbi.nlm.nih.gov/30674281)\]
 
 **Disclosure:** Nicholas Hooper declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Tyler Armstrong declares no relevant financial relationships with ineligible companies.

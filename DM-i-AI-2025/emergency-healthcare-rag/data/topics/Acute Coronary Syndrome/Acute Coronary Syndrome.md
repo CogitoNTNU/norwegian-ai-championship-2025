@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20023/
-scraped_date: 2025-07-22 12:34:36 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20023/ scraped_date: 2025-07-22 12:34:36 UTC
 
 # Acute Coronary Syndrome
 
@@ -27,13 +26,13 @@ Acute coronary syndrome refers to a group of diseases in which blood flow to the
 
 **Objectives:**
 
-  * Identify risk factors for acute coronary syndrome.
+- Identify risk factors for acute coronary syndrome.
 
-  * Identify how a patient with acute coronary syndrome might present, and describe the evaluation that should be done.
+- Identify how a patient with acute coronary syndrome might present, and describe the evaluation that should be done.
 
-  * Describe the treatment of acute coronary syndrome.
+- Describe the treatment of acute coronary syndrome.
 
-  * Describe the importance of well-coordinated interprofessional teamwork in caring for patients with acute coronary syndrome.
+- Describe the importance of well-coordinated interprofessional teamwork in caring for patients with acute coronary syndrome.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20023&utm_source=pubmed&utm_campaign=reviews&utm_content=20023)
 
@@ -73,127 +72,106 @@ Beta-blockers, statin, and ACE inhibitors should be initiated in all ACS cases a
 
 ## Differential Diagnosis
 
-  * Acute pericarditis
+- Acute pericarditis
 
-  * Anxiety disorders
+- Anxiety disorders
 
-  * Aortic stenosis
+- Aortic stenosis
 
-  * Asthma
+- Asthma
 
-  * Dilated cardiomyopathy
+- Dilated cardiomyopathy
 
-  * Emergent treatment of gastroenteritis
+- Emergent treatment of gastroenteritis
 
-  * Esophagitis
+- Esophagitis
 
-  * Hypertensive emergencies in emergency medicine
+- Hypertensive emergencies in emergency medicine
 
-  * Myocardial infarction
+- Myocardial infarction
 
-  * Myocarditis
+- Myocarditis
 
 ## Pearls and Other Issues
 
 Coronary heart disease and acute coronary syndrome remain widely prevalent and still is the top cause of death in people over 35 years of age. It is essential that providers all over the world maintain a high degree of suspicion and vigilance while assessing patients with possible ACS. Along with this, public education and recognition of symptoms are crucial. Another important aspect of controlling this disease is public education about lifestyle modification and making people aware of healthier life choices. A critical aspect of STEMI and ACS timely treatment depends on adequate emergency medical services availability and training. Another crucial step of ACS control and prevention is education about lifestyle modification including smoking cessation, regular physical activity, and dietary modifications. Only through this multi-prong approach can practitioners control this high mortality disease.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 ACS is associated with very high morbidity and mortality and is best managed by an interprofessional team that includes the emergency department physician, cardiologist, internist, pharmacist, and primary caregivers. The condition is primarily managed by the cadiologist but the prevention is managed by the primary care provider and nurse practitioner. The patient should be urged to stop smoking, maintain a healthy body weight, exercise regularly and remain compliant with the medications. The outlook for patients who are treated promptly is good but those with severe disease and non-compliance have high morbidity including premature death.[13][14][15] (Level V)
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20023&utm_source=pubmed&utm_campaign=reviews&utm_content=20023)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20023&utm_source=pubmed&utm_campaign=reviews&utm_content=20023)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/acute-coronary-syndrome/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=20023)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/acute-coronary-syndrome/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=20023)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20023/?utm_source=pubmed&utm_campaign=comments&utm_content=20023)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20023/?utm_source=pubmed&utm_campaign=comments&utm_content=20023)
 
 ## References
 
 1.
-    
 
-Zègre-Hemsey JK, Asafu-Adjei J, Fernandez A, Brice J. Characteristics of Prehospital Electrocardiogram Use in North Carolina Using a Novel Linkage of Emergency Medical Services and Emergency Department Data. Prehosp Emerg Care. 2019 Nov-Dec;23(6):772-779. [[PMC free article: PMC6751030](/pmc/articles/PMC6751030/)] [[PubMed: 30885071](https://pubmed.ncbi.nlm.nih.gov/30885071)]
+Zègre-Hemsey JK, Asafu-Adjei J, Fernandez A, Brice J. Characteristics of Prehospital Electrocardiogram Use in North Carolina Using a Novel Linkage of Emergency Medical Services and Emergency Department Data. Prehosp Emerg Care. 2019 Nov-Dec;23(6):772-779. \[[PMC free article: PMC6751030](/pmc/articles/PMC6751030/)\] \[[PubMed: 30885071](https://pubmed.ncbi.nlm.nih.gov/30885071)\]
 
 2.
-    
 
-Alomari M, Bratton H, Musmar A, Al Momani LA, Young M. Ticagrelor-induced Diarrhea in a Patient with Acute Coronary Syndrome Requiring Percutaneous Coronary Artery Intervention. Cureus. 2019 Jan 12;11(1):e3874. [[PMC free article: PMC6414296](/pmc/articles/PMC6414296/)] [[PubMed: 30899625](https://pubmed.ncbi.nlm.nih.gov/30899625)]
+Alomari M, Bratton H, Musmar A, Al Momani LA, Young M. Ticagrelor-induced Diarrhea in a Patient with Acute Coronary Syndrome Requiring Percutaneous Coronary Artery Intervention. Cureus. 2019 Jan 12;11(1):e3874. \[[PMC free article: PMC6414296](/pmc/articles/PMC6414296/)\] \[[PubMed: 30899625](https://pubmed.ncbi.nlm.nih.gov/30899625)\]
 
 3.
-    
 
-Kerneis M, Nafee T, Yee MK, Kazmi HA, Datta S, Zeitouni M, Afzal MK, Jafarizade M, Walia SS, Qamar I, Pitliya A, Kalayci A, Al Khalfan F, Gibson CM. Most Promising Therapies in Interventional Cardiology. Curr Cardiol Rep. 2019 Mar 13;21(4):26. [[PubMed: 30868280](https://pubmed.ncbi.nlm.nih.gov/30868280)]
+Kerneis M, Nafee T, Yee MK, Kazmi HA, Datta S, Zeitouni M, Afzal MK, Jafarizade M, Walia SS, Qamar I, Pitliya A, Kalayci A, Al Khalfan F, Gibson CM. Most Promising Therapies in Interventional Cardiology. Curr Cardiol Rep. 2019 Mar 13;21(4):26. \[[PubMed: 30868280](https://pubmed.ncbi.nlm.nih.gov/30868280)\]
 
 4.
-    
 
-Bracey A, Meyers HP. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Apr 7, 2023. Posterior Myocardial Ischemia (Archived) [[PubMed: 30860754](https://pubmed.ncbi.nlm.nih.gov/30860754)]
+Bracey A, Meyers HP. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Apr 7, 2023. Posterior Myocardial Ischemia (Archived) \[[PubMed: 30860754](https://pubmed.ncbi.nlm.nih.gov/30860754)\]
 
 5.
-    
 
-Voudris KV, Kavinsky CJ. Advances in Management of Stable Coronary Artery Disease: the Role of Revascularization? Curr Treat Options Cardiovasc Med. 2019 Mar 11;21(3):15. [[PubMed: 30854580](https://pubmed.ncbi.nlm.nih.gov/30854580)]
+Voudris KV, Kavinsky CJ. Advances in Management of Stable Coronary Artery Disease: the Role of Revascularization? Curr Treat Options Cardiovasc Med. 2019 Mar 11;21(3):15. \[[PubMed: 30854580](https://pubmed.ncbi.nlm.nih.gov/30854580)\]
 
 6.
-    
 
-Pop C, Matei C, Petris A. Anticoagulation in Acute Coronary Syndrome: Review of Major Therapeutic Advances. Am J Ther. 2019 Mar/Apr;26(2):e184-e197. [[PubMed: 30839367](https://pubmed.ncbi.nlm.nih.gov/30839367)]
+Pop C, Matei C, Petris A. Anticoagulation in Acute Coronary Syndrome: Review of Major Therapeutic Advances. Am J Ther. 2019 Mar/Apr;26(2):e184-e197. \[[PubMed: 30839367](https://pubmed.ncbi.nlm.nih.gov/30839367)\]
 
 7.
-    
 
-Luciano LSC, Silva RLD, Londero Filho OM, Waldrich L, Panata L, Trombetta AP, Preve JC, Fattah T, Giuliano LC, Thiago LEKS. Analysis of the Appropriate Use Criteria for Coronary Angiography in Two Cardiology Services of Southern Brazil. Arq Bras Cardiol. 2019 May;112(5):526-531. [[PMC free article: PMC6555578](/pmc/articles/PMC6555578/)] [[PubMed: 30892387](https://pubmed.ncbi.nlm.nih.gov/30892387)]
+Luciano LSC, Silva RLD, Londero Filho OM, Waldrich L, Panata L, Trombetta AP, Preve JC, Fattah T, Giuliano LC, Thiago LEKS. Analysis of the Appropriate Use Criteria for Coronary Angiography in Two Cardiology Services of Southern Brazil. Arq Bras Cardiol. 2019 May;112(5):526-531. \[[PMC free article: PMC6555578](/pmc/articles/PMC6555578/)\] \[[PubMed: 30892387](https://pubmed.ncbi.nlm.nih.gov/30892387)\]
 
 8.
-    
 
-Campanile A, Castellani C, Santucci A, Annunziata R, Tutarini C, Reccia MR, Del Pinto M, Verdecchia P, Cavallini C. Predictors of in-hospital and long-term mortality in unselected patients admitted to a modern coronary care unit. J Cardiovasc Med (Hagerstown). 2019 May;20(5):327-334. [[PubMed: 30865139](https://pubmed.ncbi.nlm.nih.gov/30865139)]
+Campanile A, Castellani C, Santucci A, Annunziata R, Tutarini C, Reccia MR, Del Pinto M, Verdecchia P, Cavallini C. Predictors of in-hospital and long-term mortality in unselected patients admitted to a modern coronary care unit. J Cardiovasc Med (Hagerstown). 2019 May;20(5):327-334. \[[PubMed: 30865139](https://pubmed.ncbi.nlm.nih.gov/30865139)\]
 
 9.
-    
 
-Chen WWC, Law KK, Li SK, Chan WCK, Cheong A, Fong PC, Hung YT, Lai SWK, Leung GTC, Wong EML, Wong RWK, Yan CT, Yan VWT, Au Yeong TCK. Extended dual antiplatelet therapy for Asian patients with acute coronary syndrome: expert recommendations. Intern Med J. 2019 Mar;49 Suppl 1:5-8. [[PubMed: 30815979](https://pubmed.ncbi.nlm.nih.gov/30815979)]
+Chen WWC, Law KK, Li SK, Chan WCK, Cheong A, Fong PC, Hung YT, Lai SWK, Leung GTC, Wong EML, Wong RWK, Yan CT, Yan VWT, Au Yeong TCK. Extended dual antiplatelet therapy for Asian patients with acute coronary syndrome: expert recommendations. Intern Med J. 2019 Mar;49 Suppl 1:5-8. \[[PubMed: 30815979](https://pubmed.ncbi.nlm.nih.gov/30815979)\]
 
 10.
-    
 
-Duarte GS, Nunes-Ferreira A, Rodrigues FB, Pinto FJ, Ferreira JJ, Costa J, Caldeira D. Morphine in acute coronary syndrome: systematic review and meta-analysis. BMJ Open. 2019 Mar 15;9(3):e025232. [[PMC free article: PMC6429865](/pmc/articles/PMC6429865/)] [[PubMed: 30878985](https://pubmed.ncbi.nlm.nih.gov/30878985)]
+Duarte GS, Nunes-Ferreira A, Rodrigues FB, Pinto FJ, Ferreira JJ, Costa J, Caldeira D. Morphine in acute coronary syndrome: systematic review and meta-analysis. BMJ Open. 2019 Mar 15;9(3):e025232. \[[PMC free article: PMC6429865](/pmc/articles/PMC6429865/)\] \[[PubMed: 30878985](https://pubmed.ncbi.nlm.nih.gov/30878985)\]
 
 11.
-    
 
-Gilutz H, Shindel S, Shoham-Vardi I. Adherence to NSTEMI Guidelines in the Emergency Department: Regression to Reality. Crit Pathw Cardiol. 2019 Mar;18(1):40-46. [[PubMed: 30747764](https://pubmed.ncbi.nlm.nih.gov/30747764)]
+Gilutz H, Shindel S, Shoham-Vardi I. Adherence to NSTEMI Guidelines in the Emergency Department: Regression to Reality. Crit Pathw Cardiol. 2019 Mar;18(1):40-46. \[[PubMed: 30747764](https://pubmed.ncbi.nlm.nih.gov/30747764)\]
 
 12.
-    
 
-Klein MD, Williams AK, Lee CR, Stouffer GA. Clinical Utility of CYP2C19 Genotyping to Guide Antiplatelet Therapy in Patients With an Acute Coronary Syndrome or Undergoing Percutaneous Coronary Intervention. Arterioscler Thromb Vasc Biol. 2019 Apr;39(4):647-652. [[PubMed: 30760018](https://pubmed.ncbi.nlm.nih.gov/30760018)]
+Klein MD, Williams AK, Lee CR, Stouffer GA. Clinical Utility of CYP2C19 Genotyping to Guide Antiplatelet Therapy in Patients With an Acute Coronary Syndrome or Undergoing Percutaneous Coronary Intervention. Arterioscler Thromb Vasc Biol. 2019 Apr;39(4):647-652. \[[PubMed: 30760018](https://pubmed.ncbi.nlm.nih.gov/30760018)\]
 
 13.
-    
 
-Abdur Rehman K, Wazni OM, Barakat AF, Saliba WI, Shah S, Tarakji KG, Rickard J, Bassiouny M, Baranowski B, Tchou PJ, Bhargava M, Dresing TJ, Callahan TD, Cantillon DJ, Chung M, Kanj M, Irefin S, Lindsay B, Hussein AA. Life-Threatening Complications of Atrial Fibrillation Ablation: 16-Year Experience in a Large Prospective Tertiary Care Cohort. JACC Clin Electrophysiol. 2019 Mar;5(3):284-291. [[PubMed: 30898229](https://pubmed.ncbi.nlm.nih.gov/30898229)]
+Abdur Rehman K, Wazni OM, Barakat AF, Saliba WI, Shah S, Tarakji KG, Rickard J, Bassiouny M, Baranowski B, Tchou PJ, Bhargava M, Dresing TJ, Callahan TD, Cantillon DJ, Chung M, Kanj M, Irefin S, Lindsay B, Hussein AA. Life-Threatening Complications of Atrial Fibrillation Ablation: 16-Year Experience in a Large Prospective Tertiary Care Cohort. JACC Clin Electrophysiol. 2019 Mar;5(3):284-291. \[[PubMed: 30898229](https://pubmed.ncbi.nlm.nih.gov/30898229)\]
 
 14.
-    
 
-Xia K, Wang LF, Yang XC, Jiang HY, Zhang LJ, Yao DK, Hu DY, Ding RJ. Comparing the effects of depression, anxiety, and comorbidity on quality-of-life, adverse outcomes, and medical expenditure in Chinese patients with acute coronary syndrome. Chin Med J (Engl). 2019 May 05;132(9):1045-1052. [[PMC free article: PMC6595882](/pmc/articles/PMC6595882/)] [[PubMed: 30896567](https://pubmed.ncbi.nlm.nih.gov/30896567)]
+Xia K, Wang LF, Yang XC, Jiang HY, Zhang LJ, Yao DK, Hu DY, Ding RJ. Comparing the effects of depression, anxiety, and comorbidity on quality-of-life, adverse outcomes, and medical expenditure in Chinese patients with acute coronary syndrome. Chin Med J (Engl). 2019 May 05;132(9):1045-1052. \[[PMC free article: PMC6595882](/pmc/articles/PMC6595882/)\] \[[PubMed: 30896567](https://pubmed.ncbi.nlm.nih.gov/30896567)\]
 
 15.
-    
 
-Ahn KT, Seong SW, Choi UL, Jin SA, Kim JH, Lee JH, Choi SW, Jeong MH, Chae SC, Kim YJ, Kim CJ, Kim HS, Cho MC, Gwon HC, Jeong JO, Seong IW., Korea Acute Myocardial Infarction Registry - National Institute of Health (KAMIR-NIH) Investigators. Comparison of 1-year clinical outcomes between prasugrel and ticagrelor versus clopidogrel in type 2 diabetes patients with acute myocardial infarction underwent successful percutaneous coronary intervention. Medicine (Baltimore). 2019 Mar;98(11):e14833. [[PMC free article: PMC6426627](/pmc/articles/PMC6426627/)] [[PubMed: 30882670](https://pubmed.ncbi.nlm.nih.gov/30882670)]
-
-    
+Ahn KT, Seong SW, Choi UL, Jin SA, Kim JH, Lee JH, Choi SW, Jeong MH, Chae SC, Kim YJ, Kim CJ, Kim HS, Cho MC, Gwon HC, Jeong JO, Seong IW., Korea Acute Myocardial Infarction Registry - National Institute of Health (KAMIR-NIH) Investigators. Comparison of 1-year clinical outcomes between prasugrel and ticagrelor versus clopidogrel in type 2 diabetes patients with acute myocardial infarction underwent successful percutaneous coronary intervention. Medicine (Baltimore). 2019 Mar;98(11):e14833. \[[PMC free article: PMC6426627](/pmc/articles/PMC6426627/)\] \[[PubMed: 30882670](https://pubmed.ncbi.nlm.nih.gov/30882670)\]
 
 **Disclosure:** Anumeha Singh declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Abdulrahman Museedi declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Shamai Grossman declares no relevant financial relationships with ineligible companies.

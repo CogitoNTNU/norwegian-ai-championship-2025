@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18657/
-scraped_date: 2025-07-22 12:55:17 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18657/ scraped_date: 2025-07-22 12:55:17 UTC
 
 # Bronchoscopy
 
@@ -29,13 +28,13 @@ A bronchoscopy is an essential tool for clinicians and health care providers tre
 
 **Objectives:**
 
-  * Describe the technique of flexible and rigid bronchoscopy.
+- Describe the technique of flexible and rigid bronchoscopy.
 
-  * Review the indications for bronchoscopy.
+- Review the indications for bronchoscopy.
 
-  * Summarize the contraindications of bronchoscopy.
+- Summarize the contraindications of bronchoscopy.
 
-  * Outline the importance of improving care coordination among the interprofessional team to enhance the delivery of care for patients undergoing bronchoscopy.
+- Outline the importance of improving care coordination among the interprofessional team to enhance the delivery of care for patients undergoing bronchoscopy.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18657&utm_source=pubmed&utm_campaign=reviews&utm_content=18657)
 
@@ -61,35 +60,35 @@ Foreign body retrieval, tracheal and bronchial stent placement balloon dilatatio
 
 There are diseases in which bronchoscopy is commonly done, however, the diagnostic and therapeutic yield is poor. Deshwal et al have grouped these into the following categories[7]
 
-_1\. Infectious causes:_
+_1. Infectious causes:_
 
-  * Cystic fibrosis
+- Cystic fibrosis
 
-  * Smear negative pulmonary tuberculosis
+- Smear negative pulmonary tuberculosis
 
-_2\. Hemoptysis_
+_2. Hemoptysis_
 
-_3\. Radiological findings_
+_3. Radiological findings_
 
-  * Atelectasis in a patient on mechanical ventilation
+- Atelectasis in a patient on mechanical ventilation
 
-  * fibrosing mediastinitis
+- fibrosing mediastinitis
 
-  * Pleural effusion
+- Pleural effusion
 
-_4\. Mediastinal lymphadenopathy from the following causes_
+_4. Mediastinal lymphadenopathy from the following causes_
 
-  * Idiopathic pulmonary fibrosis
+- Idiopathic pulmonary fibrosis
 
-  * Stage 1 Sarcoidosis 
+- Stage 1 Sarcoidosis
 
-  * Congestive lymphadenopathy
+- Congestive lymphadenopathy
 
-  * Calcified lymphadenopathy
+- Calcified lymphadenopathy
 
-  * Lymphoma
+- Lymphoma
 
-  * COPD exacerbation and lymphadenopathy
+- COPD exacerbation and lymphadenopathy
 
 ## Contraindications
 
@@ -111,120 +110,100 @@ The bronchoscope may be introduced into the nasal cavity or the mouth (or throug
 
 **Medication-related complications:[8][9]**
 
-  * An overdose of local anesthetics can result in central nervous system (CNS)-toxicity like neuropathy, seizures, and coma.
+- An overdose of local anesthetics can result in central nervous system (CNS)-toxicity like neuropathy, seizures, and coma.
 
-  * Methemoglobinemia
+- Methemoglobinemia
 
-  * Most sedative medications can result in hemodynamic effects including low blood pressure or low heart rate.
+- Most sedative medications can result in hemodynamic effects including low blood pressure or low heart rate.
 
-  * General anesthetics may result in malignant hyperthermia and prolonged neuromuscular paralysis.
+- General anesthetics may result in malignant hyperthermia and prolonged neuromuscular paralysis.
 
 **Procedure-related complications** :
 
-  * Bleeding: In most cases, bleeding is usually self-limited. The pulmonologists should carefully ascertain for hemostasis, and in the event of severe bleeding prompt management should be immediately instituted.
+- Bleeding: In most cases, bleeding is usually self-limited. The pulmonologists should carefully ascertain for hemostasis, and in the event of severe bleeding prompt management should be immediately instituted.
 
-  * Pneumothorax: In 1% to 3% of patients, pneumothorax may occur after transbronchial biopsies. Small pneumothoraces may be managed conservatively, while symptomatic and large pneumothorax will require chest tube insertion and hospitalization. A tension pneumothorax results in hemodynamic instability and should be recognized even without imaging studies. Appropriate life-saving measures such as chest tube insertion should be undertaken immediately. Most pneumothoraces after bronchoscopy develop within the first hour of the procedure but can be delayed up to 24 hours. Appropriate instructions to the patient and appropriate follow up should be arranged.
+- Pneumothorax: In 1% to 3% of patients, pneumothorax may occur after transbronchial biopsies. Small pneumothoraces may be managed conservatively, while symptomatic and large pneumothorax will require chest tube insertion and hospitalization. A tension pneumothorax results in hemodynamic instability and should be recognized even without imaging studies. Appropriate life-saving measures such as chest tube insertion should be undertaken immediately. Most pneumothoraces after bronchoscopy develop within the first hour of the procedure but can be delayed up to 24 hours. Appropriate instructions to the patient and appropriate follow up should be arranged.
 
-  * Cardiac arrhythmias may also occur especially in patients with pre-existing cardiac disease.
+- Cardiac arrhythmias may also occur especially in patients with pre-existing cardiac disease.
 
-  * Other potential complications of the procedure include trauma to the vocal cords, pneumomediastinum, hypoxia, and rarely death.
+- Other potential complications of the procedure include trauma to the vocal cords, pneumomediastinum, hypoxia, and rarely death.
 
 ## Clinical Significance
 
 Bronchoscopy is helpful in the diagnosis and management of various airway and lung diseases. With further advances in technology, a bronchoscopy will not only continue its current role in clinical practice but will expand its scope as a minimally invasive advanced diagnostic and therapeutic tool.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 an interprofessional team skilled in the care of patients with airways and lung disease and adept in the use of bronchoscopy equipment is essential to performing bronchoscopy safely and manage complications. In addition to a skilled bronchoscopist, personnel includes an endoscopy nurse and respiratory therapist or technician trained in the use of bronchoscopy equipment. If general anesthesia is used for the procedure, additional personnel include anesthesiologist and/or nurse anesthetist. Many bronchoscopy suites also use rapid on-site cytologic evaluation of specimens by a pathologist or cytology technician.[10][11][12]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18657&utm_source=pubmed&utm_campaign=reviews&utm_content=18657)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18657&utm_source=pubmed&utm_campaign=reviews&utm_content=18657)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/bronchoscopy/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18657)
+- [Click here for a simplified version.](https://mdsearchlight.com/diagnostics/bronchoscopy/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=18657)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18657/?utm_source=pubmed&utm_campaign=comments&utm_content=18657)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18657/?utm_source=pubmed&utm_campaign=comments&utm_content=18657)
 
 [![Image ](/books/NBK448152/bin/Bronchoscopy__image.gif)](/books/NBK448152/figure/article-18657.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK448152/figure/article-18657.image.f1/?report=objectonly)
 
-Bronchoscopy parts and bronchoscopic view of the airways Contributed by Mahmoud Naser 
+Bronchoscopy parts and bronchoscopic view of the airways Contributed by Mahmoud Naser
 
 ## References
 
 1.
-    
 
-Ninan N, Wahidi MM. Basic Bronchoscopy: Technology, Techniques, and Professional Fees. Chest. 2019 May;155(5):1067-1074. [[PubMed: 30779915](https://pubmed.ncbi.nlm.nih.gov/30779915)]
+Ninan N, Wahidi MM. Basic Bronchoscopy: Technology, Techniques, and Professional Fees. Chest. 2019 May;155(5):1067-1074. \[[PubMed: 30779915](https://pubmed.ncbi.nlm.nih.gov/30779915)\]
 
 2.
-    
 
-Sakpal SV, Donahue S, Crespo HS, Auvenshine C, Agarwal SK, Nazir J, Santella RN, Steers J. Utility of fiber-optic bronchoscopy in pulmonary infections among abdominal solid-organ transplant patients: A comprehensive review. Respir Med. 2019 Jan;146:81-86. [[PubMed: 30665523](https://pubmed.ncbi.nlm.nih.gov/30665523)]
+Sakpal SV, Donahue S, Crespo HS, Auvenshine C, Agarwal SK, Nazir J, Santella RN, Steers J. Utility of fiber-optic bronchoscopy in pulmonary infections among abdominal solid-organ transplant patients: A comprehensive review. Respir Med. 2019 Jan;146:81-86. \[[PubMed: 30665523](https://pubmed.ncbi.nlm.nih.gov/30665523)\]
 
 3.
-    
 
-Biswas A, Mehta HJ, Sriram PS. Diagnostic Yield of the Virtual Bronchoscopic Navigation System Guided Sampling of Peripheral Lung Lesions using Ultrathin Bronchoscope and Protected Bronchial Brush. Turk Thorac J. 2019 Jan 01;20(1):6-11. [[PMC free article: PMC6340692](/pmc/articles/PMC6340692/)] [[PubMed: 30664420](https://pubmed.ncbi.nlm.nih.gov/30664420)]
+Biswas A, Mehta HJ, Sriram PS. Diagnostic Yield of the Virtual Bronchoscopic Navigation System Guided Sampling of Peripheral Lung Lesions using Ultrathin Bronchoscope and Protected Bronchial Brush. Turk Thorac J. 2019 Jan 01;20(1):6-11. \[[PMC free article: PMC6340692](/pmc/articles/PMC6340692/)\] \[[PubMed: 30664420](https://pubmed.ncbi.nlm.nih.gov/30664420)\]
 
 4.
-    
 
-O'Shea C, Khan KA, Tugwell J, Cantillon-Murphy P, Kennedy MP. Loss of flexion during bronchoscopy: a physical experiment and case study of commercially available systems. Lung Cancer Manag. 2017 Dec;6(3):109-118. [[PMC free article: PMC6322587](/pmc/articles/PMC6322587/)] [[PubMed: 30643576](https://pubmed.ncbi.nlm.nih.gov/30643576)]
+O'Shea C, Khan KA, Tugwell J, Cantillon-Murphy P, Kennedy MP. Loss of flexion during bronchoscopy: a physical experiment and case study of commercially available systems. Lung Cancer Manag. 2017 Dec;6(3):109-118. \[[PMC free article: PMC6322587](/pmc/articles/PMC6322587/)\] \[[PubMed: 30643576](https://pubmed.ncbi.nlm.nih.gov/30643576)\]
 
 5.
-    
 
-Mohan A, Harris K, Bowling MR, Brown C, Hohenforst-Schmidt W. Therapeutic bronchoscopy in the era of genotype directed lung cancer management. J Thorac Dis. 2018 Nov;10(11):6298-6309. [[PMC free article: PMC6297425](/pmc/articles/PMC6297425/)] [[PubMed: 30622805](https://pubmed.ncbi.nlm.nih.gov/30622805)]
+Mohan A, Harris K, Bowling MR, Brown C, Hohenforst-Schmidt W. Therapeutic bronchoscopy in the era of genotype directed lung cancer management. J Thorac Dis. 2018 Nov;10(11):6298-6309. \[[PMC free article: PMC6297425](/pmc/articles/PMC6297425/)\] \[[PubMed: 30622805](https://pubmed.ncbi.nlm.nih.gov/30622805)\]
 
 6.
-    
 
-Gendeh BS, Gendeh HS, Purnima S, Comoretto RI, Gregori D, Gulati A. Inhaled Foreign Body Impaction: A Review of Literature in Malaysian Children. Indian J Pediatr. 2019 Jan;86(Suppl 1):20-24. [[PubMed: 30623311](https://pubmed.ncbi.nlm.nih.gov/30623311)]
+Gendeh BS, Gendeh HS, Purnima S, Comoretto RI, Gregori D, Gulati A. Inhaled Foreign Body Impaction: A Review of Literature in Malaysian Children. Indian J Pediatr. 2019 Jan;86(Suppl 1):20-24. \[[PubMed: 30623311](https://pubmed.ncbi.nlm.nih.gov/30623311)\]
 
 7.
-    
 
-Deshwal H, Avasarala SK, Ghosh S, Mehta AC. Forbearance With Bronchoscopy: A Review of Gratuitous Indications. Chest. 2019 Apr;155(4):834-847. [[PubMed: 30171862](https://pubmed.ncbi.nlm.nih.gov/30171862)]
+Deshwal H, Avasarala SK, Ghosh S, Mehta AC. Forbearance With Bronchoscopy: A Review of Gratuitous Indications. Chest. 2019 Apr;155(4):834-847. \[[PubMed: 30171862](https://pubmed.ncbi.nlm.nih.gov/30171862)\]
 
 8.
-    
 
-Choo R, Naser NSH, Nadkarni NV, Anantham D. Utility of bronchoalveolar lavage in the management of immunocompromised patients presenting with lung infiltrates. BMC Pulm Med. 2019 Feb 26;19(1):51. [[PMC free article: PMC6390608](/pmc/articles/PMC6390608/)] [[PubMed: 30808314](https://pubmed.ncbi.nlm.nih.gov/30808314)]
+Choo R, Naser NSH, Nadkarni NV, Anantham D. Utility of bronchoalveolar lavage in the management of immunocompromised patients presenting with lung infiltrates. BMC Pulm Med. 2019 Feb 26;19(1):51. \[[PMC free article: PMC6390608](/pmc/articles/PMC6390608/)\] \[[PubMed: 30808314](https://pubmed.ncbi.nlm.nih.gov/30808314)\]
 
 9.
-    
 
-Agarwal S, Hoda W, Mittal S, Madan K, Hadda V, Mohan A, Bharti SJ. Anesthesia and anesthesiologist concerns for bronchial thermoplasty. Saudi J Anaesth. 2019 Jan-Mar;13(1):78-80. [[PMC free article: PMC6329243](/pmc/articles/PMC6329243/)] [[PubMed: 30692896](https://pubmed.ncbi.nlm.nih.gov/30692896)]
+Agarwal S, Hoda W, Mittal S, Madan K, Hadda V, Mohan A, Bharti SJ. Anesthesia and anesthesiologist concerns for bronchial thermoplasty. Saudi J Anaesth. 2019 Jan-Mar;13(1):78-80. \[[PMC free article: PMC6329243](/pmc/articles/PMC6329243/)\] \[[PubMed: 30692896](https://pubmed.ncbi.nlm.nih.gov/30692896)\]
 
 10.
-    
 
-Jakubczyc A, Neurohr C. [Diagnosis and Treatment of Interstitial Lung Diseases]. Dtsch Med Wochenschr. 2018 Dec;143(24):1774-1777. [[PubMed: 30508858](https://pubmed.ncbi.nlm.nih.gov/30508858)]
+Jakubczyc A, Neurohr C. [Diagnosis and Treatment of Interstitial Lung Diseases]. Dtsch Med Wochenschr. 2018 Dec;143(24):1774-1777. \[[PubMed: 30508858](https://pubmed.ncbi.nlm.nih.gov/30508858)\]
 
 11.
-    
 
-Krishnan S, Kniese CM, Mankins M, Heitkamp DE, Sheski FD, Kesler KA. Management of broncholithiasis. J Thorac Dis. 2018 Oct;10(Suppl 28):S3419-S3427. [[PMC free article: PMC6218369](/pmc/articles/PMC6218369/)] [[PubMed: 30505529](https://pubmed.ncbi.nlm.nih.gov/30505529)]
+Krishnan S, Kniese CM, Mankins M, Heitkamp DE, Sheski FD, Kesler KA. Management of broncholithiasis. J Thorac Dis. 2018 Oct;10(Suppl 28):S3419-S3427. \[[PMC free article: PMC6218369](/pmc/articles/PMC6218369/)\] \[[PubMed: 30505529](https://pubmed.ncbi.nlm.nih.gov/30505529)\]
 
 12.
-    
 
-Thakkar HS, Hewitt R, Cross K, Hannon E, De Bie F, Blackburn S, Eaton S, McLaren CA, Roebuck DJ, Elliott MJ, Curry JI, Muthialu N, De Coppi P. The multi-disciplinary management of complex congenital and acquired tracheo-oesophageal fistulae. Pediatr Surg Int. 2019 Jan;35(1):97-105. [[PMC free article: PMC6325990](/pmc/articles/PMC6325990/)] [[PubMed: 30392126](https://pubmed.ncbi.nlm.nih.gov/30392126)]
-
-    
+Thakkar HS, Hewitt R, Cross K, Hannon E, De Bie F, Blackburn S, Eaton S, McLaren CA, Roebuck DJ, Elliott MJ, Curry JI, Muthialu N, De Coppi P. The multi-disciplinary management of complex congenital and acquired tracheo-oesophageal fistulae. Pediatr Surg Int. 2019 Jan;35(1):97-105. \[[PMC free article: PMC6325990](/pmc/articles/PMC6325990/)\] \[[PubMed: 30392126](https://pubmed.ncbi.nlm.nih.gov/30392126)\]
 
 **Disclosure:** Naser Mahmoud declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Rishik Vashisht declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Devang Sanghavi declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Satish Kalanjeri declares no relevant financial relationships with ineligible companies.

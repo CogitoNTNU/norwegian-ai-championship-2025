@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-164817/
-scraped_date: 2025-07-22 12:34:48 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-164817/ scraped_date: 2025-07-22 12:34:48 UTC
 
 # Heart Failure With Preserved Ejection Fraction (HFpEF)
 
@@ -27,13 +26,13 @@ This activity reviews the epidemiology, etiology, pathophysiology, signs, sympto
 
 **Objectives:**
 
-  * Correlate the pathophysiologic processes of heart failure with preserved ejection fraction with the clinical signs and symptoms of the disease.
+- Correlate the pathophysiologic processes of heart failure with preserved ejection fraction with the clinical signs and symptoms of the disease.
 
-  * Identify patients with exertional dyspnea and fatigue who are at increased risk of having heart failure with preserved ejection fraction.
+- Identify patients with exertional dyspnea and fatigue who are at increased risk of having heart failure with preserved ejection fraction.
 
-  * Apply guideline-directed medical therapies when treating patients with heart failure with preserved ejection fraction.
+- Apply guideline-directed medical therapies when treating patients with heart failure with preserved ejection fraction.
 
-  * Develop and implement effective interprofessional team strategies to improve outcomes and quality of life for patients with heart failure with preserved ejection fraction.
+- Develop and implement effective interprofessional team strategies to improve outcomes and quality of life for patients with heart failure with preserved ejection fraction.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=164817&utm_source=pubmed&utm_campaign=reviews&utm_content=164817)
 
@@ -43,33 +42,33 @@ Heart failure is a clinical syndrome resulting from complex pathophysiological p
 
 Heart failure is a significant public health issue; the incidence and prevalence of heart failure are increasing in the United States and across the globe. Additionally, heart failure is the end stage of many disease processes, and the risk of developing heart failure increases with increasing age.[3] Heart failure is frequently a progressive disease process, and progression is associated with decreased survival, regardless of underlying etiology.[1][4] To underline these risks and the progression of disease, the American College of Cardiology and American Heart Association (ACC/AHA) have described and defined the following stages of heart failure:
 
-  * **Stage A: At Risk for Heart Failure** \- patients at risk for heart failure without symptoms, structural heart disease, or cardiac biomarkers of (ventricular) stretch or injury. Therapeutic interventions at this stage aim to modify underlying risk factors for the development of heart failure.
+- **Stage A: At Risk for Heart Failure** - patients at risk for heart failure without symptoms, structural heart disease, or cardiac biomarkers of (ventricular) stretch or injury. Therapeutic interventions at this stage aim to modify underlying risk factors for the development of heart failure.
 
-  * **Stage B: Pre-Heart Failure** \- patients with evidence of increased filling pressures by invasive or noninvasive methods or patients with risk factors and increased biomarkers of stretch or cardiac injury that are not explained by other disease processes. Therapeutic interventions at this stage aim to treat risk and structural heart disease to prevent heart failure.
+- **Stage B: Pre-Heart Failure** - patients with evidence of increased filling pressures by invasive or noninvasive methods or patients with risk factors and increased biomarkers of stretch or cardiac injury that are not explained by other disease processes. Therapeutic interventions at this stage aim to treat risk and structural heart disease to prevent heart failure.
 
-  * **Stage C: Symptomatic Heart Failure** \- patients with structural heart disease with current or previous symptoms of heart failure. Therapeutic interventions at this stage aim to reduce symptoms, morbidity, and mortality.
+- **Stage C: Symptomatic Heart Failure** - patients with structural heart disease with current or previous symptoms of heart failure. Therapeutic interventions at this stage aim to reduce symptoms, morbidity, and mortality.
 
-  * **Stage D: Advanced Heart Failure** \- patients with marked symptoms of heart failure that interfere with daily life and with recurrent hospitalizations despite attempts to optimize guideline-directed medical therapy. Therapeutic interventions at this stage aim to reduce symptoms, morbidity, and mortality.[1]
+- **Stage D: Advanced Heart Failure** - patients with marked symptoms of heart failure that interfere with daily life and with recurrent hospitalizations despite attempts to optimize guideline-directed medical therapy. Therapeutic interventions at this stage aim to reduce symptoms, morbidity, and mortality.[1]
 
 Separate from the ACC/AHA Stage of Heart Failure is the New York Heart Association (NYHA) Classification of Heart Failure. This classification is a subjective assessment by a clinician to characterize the functional capacity and symptoms of patients with ACC/AHA stage C or D heart failure.[1] The NYHA Classification is an independent predictor of mortality and is employed clinically to determine the suitability of therapeutic interventions for patients with stage C or D heart failure.[5][1] The 4 NYHA heart failure classes are as follows:
 
-  * **Class I** : asymptomatic
+- **Class I** : asymptomatic
 
-  * **Class II** : symptomatic with moderate activity
+- **Class II** : symptomatic with moderate activity
 
-  * **Class III** : symptomatic with mild activity
+- **Class III** : symptomatic with mild activity
 
-  * **Class IV** : symptomatic at rest.
+- **Class IV** : symptomatic at rest.
 
 Heart failure is further classified by left ventricular ejection fraction (LVEF).[1] The prognosis and response to treatment of patients with heart failure differs significantly when patients are stratified based on LVEF. In 2022, the ACC, AHA, and Heart Failure Society of America (HFSA) released guidelines for the management of heart failure that incorporate the following classification of heart failure by LVEF:
 
-  * **Heart Failure with Reduced Ejection Fraction (HFrEF)** : patients with an LVEF ≤40%
+- **Heart Failure with Reduced Ejection Fraction (HFrEF)** : patients with an LVEF ≤40%
 
-  * **Heart Failure with Improved Ejection Fraction (HFimpEF)** : patients with a previous LVEF ≤40% and a subsequent measurement of LVEF >40%
+- **Heart Failure with Improved Ejection Fraction (HFimpEF)** : patients with a previous LVEF ≤40% and a subsequent measurement of LVEF >40%
 
-  * **Heart Failure with Mildly Reduced Ejection Fraction (HFmrEF)** : patients with an LVEF 41% to 49% with evidence of spontaneous or provokable increased left ventricular filling pressures (LVFPs), characterized by elevated natriuretic peptides or hemodynamic measurements. HFmrEF is sometimes referred to as heart failure with midrange ejection fraction in the literature.
+- **Heart Failure with Mildly Reduced Ejection Fraction (HFmrEF)** : patients with an LVEF 41% to 49% with evidence of spontaneous or provokable increased left ventricular filling pressures (LVFPs), characterized by elevated natriuretic peptides or hemodynamic measurements. HFmrEF is sometimes referred to as heart failure with midrange ejection fraction in the literature.
 
-  * **Heart Failure with Preserved Ejection Fraction (HFpEF)** : patients with an LVEF ≥50% with evidence of spontaneous or provokable increased left ventricular filling pressures (LVFPs), characterized by elevated natriuretic peptides or hemodynamic measurements.[1]
+- **Heart Failure with Preserved Ejection Fraction (HFpEF)** : patients with an LVEF ≥50% with evidence of spontaneous or provokable increased left ventricular filling pressures (LVFPs), characterized by elevated natriuretic peptides or hemodynamic measurements.[1]
 
 The diagnosis of HFpEF can be challenging, particularly in patients with overt signs or symptoms of congestion.[6] However, approximately 50% of patients with heart failure are classified as HFpEF; not all patients with HFpEF will progress to HFrEF.[7][8] HFpEF is a heterogeneous clinical syndrome with many phenotypes, and the underlying pathophysiological processes of HFpEF differ from those of HFrEF.[9][10] While all patients with heart failure have ventricular diastolic dysfunction, diastolic dysfunction is considered part of the normal again process and is not synonymous with HFpEF.[11]
 
@@ -87,29 +86,29 @@ This same increased influence is seen for atrial fibrillation, female sex, and p
 
 HFpEF is rarely due to a single identifiable clinical condition but arises in patients with various risk factors; the predominant risk factor may or may not indicate a specific phenotype of HFpEF—thus, the heterogeneity of the disease.[16] Risk factors for the development of HFpEF appear to include but are not limited to:
 
-  * Increasing age
+- Increasing age
 
-  * Female sex
+- Female sex
 
-  * Type 2 diabetes 
+- Type 2 diabetes
 
-  * Obesity
+- Obesity
 
-  * Sleep apnea
+- Sleep apnea
 
-  * Hypertension
+- Hypertension
 
-  * Pulmonary hypertension
+- Pulmonary hypertension
 
-  * Chronic obstructive pulmonary disease
+- Chronic obstructive pulmonary disease
 
-  * Iron deficiency, with or without anemia
+- Iron deficiency, with or without anemia
 
-  * Coronary artery disease
+- Coronary artery disease
 
-  * Atrial fibrillation
+- Atrial fibrillation
 
-  * Dysrhythmias [16]
+- Dysrhythmias [16]
 
 The exact pathogenic role of each risk factor is poorly understood.
 
@@ -121,23 +120,23 @@ Secondary HFpEF occurs in a clinical condition that directly causes the heart to
 
 Patients with HFpEF are at increased risk for deterioration of cardiac function in the setting of various commonly encountered clinical conditions. The development of a clinical condition requiring increased cardiac output that the failing heart cannot meet increases the risk of acute pulmonary and systemic venous congestion.[22] Examples of cardiovascular and noncardiovascular conditions that may induce the acute decompensation of patients with HFpEF include but are not limited to:
 
-  * Acute kidney injury or worsening chronic kidney disease
+- Acute kidney injury or worsening chronic kidney disease
 
-  * Anemia
+- Anemia
 
-  * Chronic pulmonary disease, or the exacerbation thereof
+- Chronic pulmonary disease, or the exacerbation thereof
 
-  * Dysrhythmia, particularly tachyarrhythmia, especially new-onset atrial fibrillation
+- Dysrhythmia, particularly tachyarrhythmia, especially new-onset atrial fibrillation
 
-  * Infection
+- Infection
 
-  * Ischemia
+- Ischemia
 
-  * Increased salt intake or water retention
+- Increased salt intake or water retention
 
-  * Medication noncompliance, including antihypertensive or diuretics
+- Medication noncompliance, including antihypertensive or diuretics
 
-  * Poorly controlled or uncontrolled hypertension.
+- Poorly controlled or uncontrolled hypertension.
 
 ## Epidemiology
 
@@ -193,19 +192,19 @@ Evidence of diaphoresis, tachycardia, tachypnea, and hypoxia are indicative of s
 
 Exertional dyspnea is a common clinical complaint. The clinical signs and symptoms of heart failure are reported and observed in many disease processes. Additionally, the overt manifestations of HFpEF are common to all subtypes of heart failure, making diagnosing HFpEF challenging.[60] It is reasonable to suspect HFpEF as a possible diagnosis in any patient with exertional dyspnea and one of the following clinical parameters not otherwise explained by an alternative diagnosis:
 
-  * Age 60 or older
+- Age 60 or older
 
-  * Atrial fibrillation[61]
+- Atrial fibrillation[61]
 
-  * Chronic kidney disease
+- Chronic kidney disease
 
-  * Coronary artery disease
+- Coronary artery disease
 
-  * Diabetes
+- Diabetes
 
-  * Hypertension
+- Hypertension
 
-  * Overweight/obesity [1]
+- Overweight/obesity [1]
 
 Diagnostic algorithms such as the HFA-PEFF (Heart Failure Association. **P** retest Assessment, **E** chocardiography and natriuretic peptide, **F** unctional testing, **F** inal etiology) and H2FPEF (**H** eavy, **2** or more hypertensive drugs, atrial **F** ibrillation, **P** ulmonary hypertension, **E** lder older than 60, elevated **F** illing pressures) have been developed and evaluated to identify HFpEF noninvasively. Additional testing, such as echocardiography and measurement of natriuretic peptides, is required to apply these algorithms and confirm a diagnosis of HFpEF.[60]
 
@@ -293,17 +292,17 @@ There is no substantial evidence supporting the early initiation of angiotensin-
 
 The differential diagnosis of exertional dyspnea with or without generalized fatigue is extensive and includes cardiac and noncardiac etiologies. Additionally, because the clinical syndrome of heart failure is the common endpoint for many disease processes, the overarching differential diagnosis for heart failure is similarly broad. However, in patients with exertional dyspnea and an underlying risk factor for HFpEF or comorbidity strongly associated with the development of HFpEF, the following diagnoses should be considered:[7][16]
 
-  * Coronary artery disease
+- Coronary artery disease
 
-  * Hypertension
+- Hypertension
 
-  * Valvular disease, particularly left-sided valvular disease
+- Valvular disease, particularly left-sided valvular disease
 
-  * Infiltrative cardiac diseases such as amyloidosis, hemochromatosis, and sarcoidosis
+- Infiltrative cardiac diseases such as amyloidosis, hemochromatosis, and sarcoidosis
 
-  * Hypertrophic cardiomyopathy
+- Hypertrophic cardiomyopathy
 
-  * Constrictive pericarditis.
+- Constrictive pericarditis.
 
 ## Prognosis
 
@@ -311,33 +310,33 @@ Patients with HFpEF have increased rates of morbidity and mortality compared wit
 
 Independent predictors of mortality in patients with HFpEF confer a poor prognosis.[10][52][36][53][94] These predictors include but are not limited to:
 
-  * Older age
+- Older age
 
-  * Male sex
+- Male sex
 
-  * NYHA class C or D
+- NYHA class C or D
 
-  * Lower LVEF and the degree of diastolic dysfunction
+- Lower LVEF and the degree of diastolic dysfunction
 
-  * Extent of coronary artery disease
+- Extent of coronary artery disease
 
-  * Peripheral artery disease
+- Peripheral artery disease
 
-  * Diabetes
+- Diabetes
 
-  * Functional renal impairment
+- Functional renal impairment
 
-  * Pulmonary hypertension
+- Pulmonary hypertension
 
-  * Right ventricular dysfunction
+- Right ventricular dysfunction
 
-  * Atrial fibrillation
+- Atrial fibrillation
 
-  * Increased red cell distribution width.
+- Increased red cell distribution width.
 
 ## Complications
 
-Complications stemming from HFpEF are multifaceted, reflecting the intricate interplay of diverse risk factors, complex pathophysiological processes, and the heterogeneous nature of this clinical syndrome. Left atrial dysfunction, atrial fibrillation, and pulmonary hypertension often develop, placing an increased workload on the right ventricle and increasing the risk of biventricular failure. 
+Complications stemming from HFpEF are multifaceted, reflecting the intricate interplay of diverse risk factors, complex pathophysiological processes, and the heterogeneous nature of this clinical syndrome. Left atrial dysfunction, atrial fibrillation, and pulmonary hypertension often develop, placing an increased workload on the right ventricle and increasing the risk of biventricular failure.
 
 Beyond cardiovascular implications, HFpEF introduces complications associated with comorbidities such as obesity, diabetes, and chronic kidney disease. Impaired exercise tolerance and functional decline are common, as diminished physiologic reserve manifests in more severe dyspnea and fatigue, impacting daily activities.
 
@@ -353,23 +352,23 @@ All patients with HFpEF should receive counseling and education that emphasizes 
 
 Free, printable patient education handout materials are available here:
 
-[What is Heart Failure?](https://www.veteranshealthlibrary.va.gov/Search/3,82055) A discussion of HFrEF, HFmrEF, and HFpEF explaining LVEF and the signs and symptoms of heart failure. 
+[What is Heart Failure?](https://www.veteranshealthlibrary.va.gov/Search/3,82055) A discussion of HFrEF, HFmrEF, and HFpEF explaining LVEF and the signs and symptoms of heart failure.
 
-[Coping With Heart Failure](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,86175). A discussion of patient-led lifestyle behaviors to improve overall well-being and strategies to garner assistance. 
+[Coping With Heart Failure](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,86175). A discussion of patient-led lifestyle behaviors to improve overall well-being and strategies to garner assistance.
 
-[Heart Failure: How to be Active](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,82088). A discussion of ways to safely improve physical activity in patients with heart failure. 
+[Heart Failure: How to be Active](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,82088). A discussion of ways to safely improve physical activity in patients with heart failure.
 
 [Heart Failure: Assessing Your Heart](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,86179). A generalized discussion of diagnostic testing and therapeutic interventions for heart failure.
 
-[Heart Failure: Making Changes to Your Diet](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,86177). A discussion of the adverse effects of fluid overload and excess sodium, including daily sodium goals, how to read food labels, and when to contact a healthcare practitioner. 
+[Heart Failure: Making Changes to Your Diet](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,86177). A discussion of the adverse effects of fluid overload and excess sodium, including daily sodium goals, how to read food labels, and when to contact a healthcare practitioner.
 
 [Heart Failure: Tracking Your Weight](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,82087). A discussion of the importance of regular weight tracking, including instructions for properly using a weight chart.
 
-[Heart Failure: Warning Signs of a Flare-Up](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,82086). A discussion of the signs and symptoms that may indicate the acute decompensation of heart failure and when to contact a healthcare practitioner. 
+[Heart Failure: Warning Signs of a Flare-Up](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,82086). A discussion of the signs and symptoms that may indicate the acute decompensation of heart failure and when to contact a healthcare practitioner.
 
 [Taking Medicine to Control Heart Failure](https://www.veteranshealthlibrary.va.gov/RelatedItems/142,82026_VA). A discussion of strategies to include compliance with heart failure medications, including diuretics, SGLT2 inhibitors, aldosterone blockers, beta blockers, angiotensin receptor neprilysin inhibitors, angiotensin receptor blockers, ACE inhibitors, hydralazine and nitrates, digoxin, sinus node I-f channel blockers, and statins.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The management of HFpEF requires a collaborative effort among healthcare professionals, including physicians, advanced practice providers, nurses, pharmacists, and others, to enhance patient-centered care, improve outcomes, ensure patient safety, and optimize team performance. Given that heart failure represents a common endpoint for various disease processes, including ischemic heart disease secondary to coronary artery disease, addressing the underlying etiologies and risk factors is crucial.
 
@@ -385,515 +384,414 @@ The 2022 ACC/AHA Guideline emphasizes palliative and supportive care for all pat
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=164817&utm_source=pubmed&utm_campaign=reviews&utm_content=164817)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=164817&utm_source=pubmed&utm_campaign=reviews&utm_content=164817)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/heart-failure-with-preserved-ejection-fraction-hfpef-heart-failure/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=164817)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/heart-failure-with-preserved-ejection-fraction-hfpef-heart-failure/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=164817)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/164817/?utm_source=pubmed&utm_campaign=comments&utm_content=164817)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/164817/?utm_source=pubmed&utm_campaign=comments&utm_content=164817)
 
 [![Image ](/books/NBK599960/bin/Image__.__Pathophysiology__of__heart__failure.gif)](/books/NBK599960/figure/article-164817.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK599960/figure/article-164817.image.f1/?report=objectonly)
 
-Pathophysiology of Heart Failure Contributed by MS Golla, MD 
+Pathophysiology of Heart Failure Contributed by MS Golla, MD
 
 [![Image ](/books/NBK599960/bin/Heart__failure__assessment.gif)](/books/NBK599960/figure/article-164817.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK599960/figure/article-164817.image.f2/?report=objectonly)
 
-Assessment of Patients with Suspected Heart Failure Flowsheet Contributed by MS Golla, MD 
+Assessment of Patients with Suspected Heart Failure Flowsheet Contributed by MS Golla, MD
 
 ## References
 
 1.
-    
 
-Heidenreich PA, Bozkurt B, Aguilar D, Allen LA, Byun JJ, Colvin MM, Deswal A, Drazner MH, Dunlay SM, Evers LR, Fang JC, Fedson SE, Fonarow GC, Hayek SS, Hernandez AF, Khazanie P, Kittleson MM, Lee CS, Link MS, Milano CA, Nnacheta LC, Sandhu AT, Stevenson LW, Vardeny O, Vest AR, Yancy CW. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2022 May 03;79(17):e263-e421. [[PubMed: 35379503](https://pubmed.ncbi.nlm.nih.gov/35379503)]
+Heidenreich PA, Bozkurt B, Aguilar D, Allen LA, Byun JJ, Colvin MM, Deswal A, Drazner MH, Dunlay SM, Evers LR, Fang JC, Fedson SE, Fonarow GC, Hayek SS, Hernandez AF, Khazanie P, Kittleson MM, Lee CS, Link MS, Milano CA, Nnacheta LC, Sandhu AT, Stevenson LW, Vardeny O, Vest AR, Yancy CW. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2022 May 03;79(17):e263-e421. \[[PubMed: 35379503](https://pubmed.ncbi.nlm.nih.gov/35379503)\]
 
 2.
-    
 
-Pfeffer MA, Shah AM, Borlaug BA. Heart Failure With Preserved Ejection Fraction In Perspective. Circ Res. 2019 May 24;124(11):1598-1617. [[PMC free article: PMC6534165](/pmc/articles/PMC6534165/)] [[PubMed: 31120821](https://pubmed.ncbi.nlm.nih.gov/31120821)]
+Pfeffer MA, Shah AM, Borlaug BA. Heart Failure With Preserved Ejection Fraction In Perspective. Circ Res. 2019 May 24;124(11):1598-1617. \[[PMC free article: PMC6534165](/pmc/articles/PMC6534165/)\] \[[PubMed: 31120821](https://pubmed.ncbi.nlm.nih.gov/31120821)\]
 
 3.
-    
 
-Ziaeian B, Fonarow GC. Epidemiology and aetiology of heart failure. Nat Rev Cardiol. 2016 Jun;13(6):368-78. [[PMC free article: PMC4868779](/pmc/articles/PMC4868779/)] [[PubMed: 26935038](https://pubmed.ncbi.nlm.nih.gov/26935038)]
+Ziaeian B, Fonarow GC. Epidemiology and aetiology of heart failure. Nat Rev Cardiol. 2016 Jun;13(6):368-78. \[[PMC free article: PMC4868779](/pmc/articles/PMC4868779/)\] \[[PubMed: 26935038](https://pubmed.ncbi.nlm.nih.gov/26935038)\]
 
 4.
-    
 
-Ammar KA, Jacobsen SJ, Mahoney DW, Kors JA, Redfield MM, Burnett JC, Rodeheffer RJ. Prevalence and prognostic significance of heart failure stages: application of the American College of Cardiology/American Heart Association heart failure staging criteria in the community. Circulation. 2007 Mar 27;115(12):1563-70. [[PubMed: 17353436](https://pubmed.ncbi.nlm.nih.gov/17353436)]
+Ammar KA, Jacobsen SJ, Mahoney DW, Kors JA, Redfield MM, Burnett JC, Rodeheffer RJ. Prevalence and prognostic significance of heart failure stages: application of the American College of Cardiology/American Heart Association heart failure staging criteria in the community. Circulation. 2007 Mar 27;115(12):1563-70. \[[PubMed: 17353436](https://pubmed.ncbi.nlm.nih.gov/17353436)\]
 
 5.
-    
 
-Ahmed A, Aronow WS, Fleg JL. Higher New York Heart Association classes and increased mortality and hospitalization in patients with heart failure and preserved left ventricular function. Am Heart J. 2006 Feb;151(2):444-50. [[PMC free article: PMC2771182](/pmc/articles/PMC2771182/)] [[PubMed: 16442912](https://pubmed.ncbi.nlm.nih.gov/16442912)]
+Ahmed A, Aronow WS, Fleg JL. Higher New York Heart Association classes and increased mortality and hospitalization in patients with heart failure and preserved left ventricular function. Am Heart J. 2006 Feb;151(2):444-50. \[[PMC free article: PMC2771182](/pmc/articles/PMC2771182/)\] \[[PubMed: 16442912](https://pubmed.ncbi.nlm.nih.gov/16442912)\]
 
 6.
-    
 
-Reddy YNV, Kaye DM, Handoko ML, van de Bovenkamp AA, Tedford RJ, Keck C, Andersen MJ, Sharma K, Trivedi RK, Carter RE, Obokata M, Verbrugge FH, Redfield MM, Borlaug BA. Diagnosis of Heart Failure With Preserved Ejection Fraction Among Patients With Unexplained Dyspnea. JAMA Cardiol. 2022 Sep 01;7(9):891-899. [[PMC free article: PMC9280610](/pmc/articles/PMC9280610/)] [[PubMed: 35830183](https://pubmed.ncbi.nlm.nih.gov/35830183)]
+Reddy YNV, Kaye DM, Handoko ML, van de Bovenkamp AA, Tedford RJ, Keck C, Andersen MJ, Sharma K, Trivedi RK, Carter RE, Obokata M, Verbrugge FH, Redfield MM, Borlaug BA. Diagnosis of Heart Failure With Preserved Ejection Fraction Among Patients With Unexplained Dyspnea. JAMA Cardiol. 2022 Sep 01;7(9):891-899. \[[PMC free article: PMC9280610](/pmc/articles/PMC9280610/)\] \[[PubMed: 35830183](https://pubmed.ncbi.nlm.nih.gov/35830183)\]
 
 7.
-    
 
-Gazewood JD, Turner PL. Heart Failure with Preserved Ejection Fraction: Diagnosis and Management. Am Fam Physician. 2017 Nov 01;96(9):582-588. [[PubMed: 29094875](https://pubmed.ncbi.nlm.nih.gov/29094875)]
+Gazewood JD, Turner PL. Heart Failure with Preserved Ejection Fraction: Diagnosis and Management. Am Fam Physician. 2017 Nov 01;96(9):582-588. \[[PubMed: 29094875](https://pubmed.ncbi.nlm.nih.gov/29094875)\]
 
 8.
-    
 
-Rame JE, Ramilo M, Spencer N, Blewett C, Mehta SK, Dries DL, Drazner MH. Development of a depressed left ventricular ejection fraction in patients with left ventricular hypertrophy and a normal ejection fraction. Am J Cardiol. 2004 Jan 15;93(2):234-7. [[PubMed: 14715358](https://pubmed.ncbi.nlm.nih.gov/14715358)]
+Rame JE, Ramilo M, Spencer N, Blewett C, Mehta SK, Dries DL, Drazner MH. Development of a depressed left ventricular ejection fraction in patients with left ventricular hypertrophy and a normal ejection fraction. Am J Cardiol. 2004 Jan 15;93(2):234-7. \[[PubMed: 14715358](https://pubmed.ncbi.nlm.nih.gov/14715358)\]
 
 9.
-    
 
-Tromp J, Shen L, Jhund PS, Anand IS, Carson PE, Desai AS, Granger CB, Komajda M, McKelvie RS, Pfeffer MA, Solomon SD, Køber L, Swedberg K, Zile MR, Pitt B, Lam CSP, McMurray JJV. Age-Related Characteristics and Outcomes of Patients With Heart Failure With Preserved Ejection Fraction. J Am Coll Cardiol. 2019 Aug 06;74(5):601-612. [[PubMed: 31370950](https://pubmed.ncbi.nlm.nih.gov/31370950)]
+Tromp J, Shen L, Jhund PS, Anand IS, Carson PE, Desai AS, Granger CB, Komajda M, McKelvie RS, Pfeffer MA, Solomon SD, Køber L, Swedberg K, Zile MR, Pitt B, Lam CSP, McMurray JJV. Age-Related Characteristics and Outcomes of Patients With Heart Failure With Preserved Ejection Fraction. J Am Coll Cardiol. 2019 Aug 06;74(5):601-612. \[[PubMed: 31370950](https://pubmed.ncbi.nlm.nih.gov/31370950)\]
 
 10.
-    
 
-Melenovsky V, Hwang SJ, Redfield MM, Zakeri R, Lin G, Borlaug BA. Left atrial remodeling and function in advanced heart failure with preserved or reduced ejection fraction. Circ Heart Fail. 2015 Mar;8(2):295-303. [[PubMed: 25593126](https://pubmed.ncbi.nlm.nih.gov/25593126)]
+Melenovsky V, Hwang SJ, Redfield MM, Zakeri R, Lin G, Borlaug BA. Left atrial remodeling and function in advanced heart failure with preserved or reduced ejection fraction. Circ Heart Fail. 2015 Mar;8(2):295-303. \[[PubMed: 25593126](https://pubmed.ncbi.nlm.nih.gov/25593126)\]
 
 11.
-    
 
-Zile MR, Baicu CF, Bonnema DD. Diastolic heart failure: definitions and terminology. Prog Cardiovasc Dis. 2005 Mar-Apr;47(5):307-13. [[PubMed: 16003645](https://pubmed.ncbi.nlm.nih.gov/16003645)]
+Zile MR, Baicu CF, Bonnema DD. Diastolic heart failure: definitions and terminology. Prog Cardiovasc Dis. 2005 Mar-Apr;47(5):307-13. \[[PubMed: 16003645](https://pubmed.ncbi.nlm.nih.gov/16003645)\]
 
 12.
-    
 
-Kittleson MM, Panjrath GS, Amancherla K, Davis LL, Deswal A, Dixon DL, Januzzi JL, Yancy CW. 2023 ACC Expert Consensus Decision Pathway on Management of Heart Failure With Preserved Ejection Fraction: A Report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2023 May 09;81(18):1835-1878. [[PubMed: 37137593](https://pubmed.ncbi.nlm.nih.gov/37137593)]
+Kittleson MM, Panjrath GS, Amancherla K, Davis LL, Deswal A, Dixon DL, Januzzi JL, Yancy CW. 2023 ACC Expert Consensus Decision Pathway on Management of Heart Failure With Preserved Ejection Fraction: A Report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2023 May 09;81(18):1835-1878. \[[PubMed: 37137593](https://pubmed.ncbi.nlm.nih.gov/37137593)\]
 
 13.
-    
 
-He J, Ogden LG, Bazzano LA, Vupputuri S, Loria C, Whelton PK. Risk factors for congestive heart failure in US men and women: NHANES I epidemiologic follow-up study. Arch Intern Med. 2001 Apr 09;161(7):996-1002. [[PubMed: 11295963](https://pubmed.ncbi.nlm.nih.gov/11295963)]
+He J, Ogden LG, Bazzano LA, Vupputuri S, Loria C, Whelton PK. Risk factors for congestive heart failure in US men and women: NHANES I epidemiologic follow-up study. Arch Intern Med. 2001 Apr 09;161(7):996-1002. \[[PubMed: 11295963](https://pubmed.ncbi.nlm.nih.gov/11295963)\]
 
 14.
-    
 
-Narita K, Amiya E. Social and environmental risks as contributors to the clinical course of heart failure. Heart Fail Rev. 2022 Jul;27(4):1001-1016. [[PubMed: 33945055](https://pubmed.ncbi.nlm.nih.gov/33945055)]
+Narita K, Amiya E. Social and environmental risks as contributors to the clinical course of heart failure. Heart Fail Rev. 2022 Jul;27(4):1001-1016. \[[PubMed: 33945055](https://pubmed.ncbi.nlm.nih.gov/33945055)\]
 
 15.
-    
 
-White-Williams C, Rossi LP, Bittner VA, Driscoll A, Durant RW, Granger BB, Graven LJ, Kitko L, Newlin K, Shirey M., American Heart Association Council on Cardiovascular and Stroke Nursing; Council on Clinical Cardiology; and Council on Epidemiology and Prevention. Addressing Social Determinants of Health in the Care of Patients With Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2020 Jun 02;141(22):e841-e863. [[PubMed: 32349541](https://pubmed.ncbi.nlm.nih.gov/32349541)]
+White-Williams C, Rossi LP, Bittner VA, Driscoll A, Durant RW, Granger BB, Graven LJ, Kitko L, Newlin K, Shirey M., American Heart Association Council on Cardiovascular and Stroke Nursing; Council on Clinical Cardiology; and Council on Epidemiology and Prevention. Addressing Social Determinants of Health in the Care of Patients With Heart Failure: A Scientific Statement From the American Heart Association. Circulation. 2020 Jun 02;141(22):e841-e863. \[[PubMed: 32349541](https://pubmed.ncbi.nlm.nih.gov/32349541)\]
 
 16.
-    
 
-Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, Adamo M, Chopra VK, Cicoira M, Cosentino F, Filippatos G, Jankowska EA, Lund LH, Moura B, Mullens W, Pieske B, Ponikowski P, Gonzalez-Juanatey JR, Rakisheva A, Savarese G, Seferovic P, Teerlink JR, Tschöpe C, Volterrani M, von Haehling S, Zhang J, Zhang Y, Bauersachs J, Landmesser U, Zieroth S, Tsioufis K, Bayes-Genis A, Chioncel O, Andreotti F, Agabiti-Rosei E, Merino JL, Metra M, Coats AJS, Rosano GMC. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. Eur J Heart Fail. 2023 Jul;25(7):936-955. [[PubMed: 37461163](https://pubmed.ncbi.nlm.nih.gov/37461163)]
+Anker SD, Usman MS, Anker MS, Butler J, Böhm M, Abraham WT, Adamo M, Chopra VK, Cicoira M, Cosentino F, Filippatos G, Jankowska EA, Lund LH, Moura B, Mullens W, Pieske B, Ponikowski P, Gonzalez-Juanatey JR, Rakisheva A, Savarese G, Seferovic P, Teerlink JR, Tschöpe C, Volterrani M, von Haehling S, Zhang J, Zhang Y, Bauersachs J, Landmesser U, Zieroth S, Tsioufis K, Bayes-Genis A, Chioncel O, Andreotti F, Agabiti-Rosei E, Merino JL, Metra M, Coats AJS, Rosano GMC. Patient phenotype profiling in heart failure with preserved ejection fraction to guide therapeutic decision making. A scientific statement of the Heart Failure Association, the European Heart Rhythm Association of the European Society of Cardiology, and the European Society of Hypertension. Eur J Heart Fail. 2023 Jul;25(7):936-955. \[[PubMed: 37461163](https://pubmed.ncbi.nlm.nih.gov/37461163)\]
 
 17.
-    
 
-Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS. Global burden of heart failure: a comprehensive and updated review of epidemiology. Cardiovasc Res. 2023 Jan 18;118(17):3272-3287. [[PubMed: 35150240](https://pubmed.ncbi.nlm.nih.gov/35150240)]
+Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS. Global burden of heart failure: a comprehensive and updated review of epidemiology. Cardiovasc Res. 2023 Jan 18;118(17):3272-3287. \[[PubMed: 35150240](https://pubmed.ncbi.nlm.nih.gov/35150240)\]
 
 18.
-    
 
-Lee MP, Glynn RJ, Schneeweiss S, Lin KJ, Patorno E, Barberio J, Levin R, Evers T, Wang SV, Desai RJ. Risk Factors for Heart Failure with Preserved or Reduced Ejection Fraction Among Medicare Beneficiaries: Application of Competing Risks Analysis and Gradient Boosted Model. Clin Epidemiol. 2020;12:607-616. [[PMC free article: PMC7304674](/pmc/articles/PMC7304674/)] [[PubMed: 32606986](https://pubmed.ncbi.nlm.nih.gov/32606986)]
+Lee MP, Glynn RJ, Schneeweiss S, Lin KJ, Patorno E, Barberio J, Levin R, Evers T, Wang SV, Desai RJ. Risk Factors for Heart Failure with Preserved or Reduced Ejection Fraction Among Medicare Beneficiaries: Application of Competing Risks Analysis and Gradient Boosted Model. Clin Epidemiol. 2020;12:607-616. \[[PMC free article: PMC7304674](/pmc/articles/PMC7304674/)\] \[[PubMed: 32606986](https://pubmed.ncbi.nlm.nih.gov/32606986)\]
 
 19.
-    
 
-Reddy YNV, Lewis GD, Shah SJ, Obokata M, Abou-Ezzedine OF, Fudim M, Sun JL, Chakraborty H, McNulty S, LeWinter MM, Mann DL, Stevenson LW, Redfield MM, Borlaug BA. Characterization of the Obese Phenotype of Heart Failure With Preserved Ejection Fraction: A RELAX Trial Ancillary Study. Mayo Clin Proc. 2019 Jul;94(7):1199-1209. [[PubMed: 31272568](https://pubmed.ncbi.nlm.nih.gov/31272568)]
+Reddy YNV, Lewis GD, Shah SJ, Obokata M, Abou-Ezzedine OF, Fudim M, Sun JL, Chakraborty H, McNulty S, LeWinter MM, Mann DL, Stevenson LW, Redfield MM, Borlaug BA. Characterization of the Obese Phenotype of Heart Failure With Preserved Ejection Fraction: A RELAX Trial Ancillary Study. Mayo Clin Proc. 2019 Jul;94(7):1199-1209. \[[PubMed: 31272568](https://pubmed.ncbi.nlm.nih.gov/31272568)\]
 
 20.
-    
 
-Eaton CB, Pettinger M, Rossouw J, Martin LW, Foraker R, Quddus A, Liu S, Wampler NS, Hank Wu WC, Manson JE, Margolis K, Johnson KC, Allison M, Corbie-Smith G, Rosamond W, Breathett K, Klein L. Risk Factors for Incident Hospitalized Heart Failure With Preserved Versus Reduced Ejection Fraction in a Multiracial Cohort of Postmenopausal Women. Circ Heart Fail. 2016 Oct;9(10) [[PMC free article: PMC5111360](/pmc/articles/PMC5111360/)] [[PubMed: 27682440](https://pubmed.ncbi.nlm.nih.gov/27682440)]
+Eaton CB, Pettinger M, Rossouw J, Martin LW, Foraker R, Quddus A, Liu S, Wampler NS, Hank Wu WC, Manson JE, Margolis K, Johnson KC, Allison M, Corbie-Smith G, Rosamond W, Breathett K, Klein L. Risk Factors for Incident Hospitalized Heart Failure With Preserved Versus Reduced Ejection Fraction in a Multiracial Cohort of Postmenopausal Women. Circ Heart Fail. 2016 Oct;9(10) \[[PMC free article: PMC5111360](/pmc/articles/PMC5111360/)\] \[[PubMed: 27682440](https://pubmed.ncbi.nlm.nih.gov/27682440)\]
 
 21.
-    
 
-Chin CWL, Ding ZP, Lam CSP, Ling LH. Paradoxical Low-Gradient Aortic Stenosis: The HFpEF of Aortic Stenosis. J Am Coll Cardiol. 2016 May 24;67(20):2447-2448. [[PubMed: 27199070](https://pubmed.ncbi.nlm.nih.gov/27199070)]
+Chin CWL, Ding ZP, Lam CSP, Ling LH. Paradoxical Low-Gradient Aortic Stenosis: The HFpEF of Aortic Stenosis. J Am Coll Cardiol. 2016 May 24;67(20):2447-2448. \[[PubMed: 27199070](https://pubmed.ncbi.nlm.nih.gov/27199070)\]
 
 22.
-    
 
-Yancy CW, Lopatin M, Stevenson LW, De Marco T, Fonarow GC., ADHERE Scientific Advisory Committee and Investigators. Clinical presentation, management, and in-hospital outcomes of patients admitted with acute decompensated heart failure with preserved systolic function: a report from the Acute Decompensated Heart Failure National Registry (ADHERE) Database. J Am Coll Cardiol. 2006 Jan 03;47(1):76-84. [[PubMed: 16386668](https://pubmed.ncbi.nlm.nih.gov/16386668)]
+Yancy CW, Lopatin M, Stevenson LW, De Marco T, Fonarow GC., ADHERE Scientific Advisory Committee and Investigators. Clinical presentation, management, and in-hospital outcomes of patients admitted with acute decompensated heart failure with preserved systolic function: a report from the Acute Decompensated Heart Failure National Registry (ADHERE) Database. J Am Coll Cardiol. 2006 Jan 03;47(1):76-84. \[[PubMed: 16386668](https://pubmed.ncbi.nlm.nih.gov/16386668)\]
 
 23.
-    
 
-Bozkurt B, Ahmad T, Alexander KM, Baker WL, Bosak K, Breathett K, Fonarow GC, Heidenreich P, Ho JE, Hsich E, Ibrahim NE, Jones LM, Khan SS, Khazanie P, Koelling T, Krumholz HM, Khush KK, Lee C, Morris AA, Page RL, Pandey A, Piano MR, Stehlik J, Stevenson LW, Teerlink JR, Vaduganathan M, Ziaeian B., Writing Committee Members. Heart Failure Epidemiology and Outcomes Statistics: A Report of the Heart Failure Society of America. J Card Fail. 2023 Oct;29(10):1412-1451. [[PMC free article: PMC10864030](/pmc/articles/PMC10864030/)] [[PubMed: 37797885](https://pubmed.ncbi.nlm.nih.gov/37797885)]
+Bozkurt B, Ahmad T, Alexander KM, Baker WL, Bosak K, Breathett K, Fonarow GC, Heidenreich P, Ho JE, Hsich E, Ibrahim NE, Jones LM, Khan SS, Khazanie P, Koelling T, Krumholz HM, Khush KK, Lee C, Morris AA, Page RL, Pandey A, Piano MR, Stehlik J, Stevenson LW, Teerlink JR, Vaduganathan M, Ziaeian B., Writing Committee Members. Heart Failure Epidemiology and Outcomes Statistics: A Report of the Heart Failure Society of America. J Card Fail. 2023 Oct;29(10):1412-1451. \[[PMC free article: PMC10864030](/pmc/articles/PMC10864030/)\] \[[PubMed: 37797885](https://pubmed.ncbi.nlm.nih.gov/37797885)\]
 
 24.
-    
 
-Vasan RS, Enserro DM, Beiser AS, Xanthakis V. Lifetime Risk of Heart Failure Among Participants in the Framingham Study. J Am Coll Cardiol. 2022 Jan 25;79(3):250-263. [[PMC free article: PMC8820638](/pmc/articles/PMC8820638/)] [[PubMed: 35057911](https://pubmed.ncbi.nlm.nih.gov/35057911)]
+Vasan RS, Enserro DM, Beiser AS, Xanthakis V. Lifetime Risk of Heart Failure Among Participants in the Framingham Study. J Am Coll Cardiol. 2022 Jan 25;79(3):250-263. \[[PMC free article: PMC8820638](/pmc/articles/PMC8820638/)\] \[[PubMed: 35057911](https://pubmed.ncbi.nlm.nih.gov/35057911)\]
 
 25.
-    
 
-Pandey A, Omar W, Ayers C, LaMonte M, Klein L, Allen NB, Kuller LH, Greenland P, Eaton CB, Gottdiener JS, Lloyd-Jones DM, Berry JD. Sex and Race Differences in Lifetime Risk of Heart Failure With Preserved Ejection Fraction and Heart Failure With Reduced Ejection Fraction. Circulation. 2018 Apr 24;137(17):1814-1823. [[PMC free article: PMC6417883](/pmc/articles/PMC6417883/)] [[PubMed: 29352072](https://pubmed.ncbi.nlm.nih.gov/29352072)]
+Pandey A, Omar W, Ayers C, LaMonte M, Klein L, Allen NB, Kuller LH, Greenland P, Eaton CB, Gottdiener JS, Lloyd-Jones DM, Berry JD. Sex and Race Differences in Lifetime Risk of Heart Failure With Preserved Ejection Fraction and Heart Failure With Reduced Ejection Fraction. Circulation. 2018 Apr 24;137(17):1814-1823. \[[PMC free article: PMC6417883](/pmc/articles/PMC6417883/)\] \[[PubMed: 29352072](https://pubmed.ncbi.nlm.nih.gov/29352072)\]
 
 26.
-    
 
-Chang PP, Wruck LM, Shahar E, Rossi JS, Loehr LR, Russell SD, Agarwal SK, Konety SH, Rodriguez CJ, Rosamond WD. Trends in Hospitalizations and Survival of Acute Decompensated Heart Failure in Four US Communities (2005-2014): ARIC Study Community Surveillance. Circulation. 2018 Jul 03;138(1):12-24. [[PMC free article: PMC6030442](/pmc/articles/PMC6030442/)] [[PubMed: 29519849](https://pubmed.ncbi.nlm.nih.gov/29519849)]
+Chang PP, Wruck LM, Shahar E, Rossi JS, Loehr LR, Russell SD, Agarwal SK, Konety SH, Rodriguez CJ, Rosamond WD. Trends in Hospitalizations and Survival of Acute Decompensated Heart Failure in Four US Communities (2005-2014): ARIC Study Community Surveillance. Circulation. 2018 Jul 03;138(1):12-24. \[[PMC free article: PMC6030442](/pmc/articles/PMC6030442/)\] \[[PubMed: 29519849](https://pubmed.ncbi.nlm.nih.gov/29519849)\]
 
 27.
-    
 
-Tsao CW, Lyass A, Enserro D, Larson MG, Ho JE, Kizer JR, Gottdiener JS, Psaty BM, Vasan RS. Temporal Trends in the Incidence of and Mortality Associated With Heart Failure With Preserved and Reduced Ejection Fraction. JACC Heart Fail. 2018 Aug;6(8):678-685. [[PMC free article: PMC6076350](/pmc/articles/PMC6076350/)] [[PubMed: 30007560](https://pubmed.ncbi.nlm.nih.gov/30007560)]
+Tsao CW, Lyass A, Enserro D, Larson MG, Ho JE, Kizer JR, Gottdiener JS, Psaty BM, Vasan RS. Temporal Trends in the Incidence of and Mortality Associated With Heart Failure With Preserved and Reduced Ejection Fraction. JACC Heart Fail. 2018 Aug;6(8):678-685. \[[PMC free article: PMC6076350](/pmc/articles/PMC6076350/)\] \[[PubMed: 30007560](https://pubmed.ncbi.nlm.nih.gov/30007560)\]
 
 28.
-    
 
-Shiga T, Suzuki A, Haruta S, Mori F, Ota Y, Yagi M, Oka T, Tanaka H, Murasaki S, Yamauchi T, Katoh J, Hattori H, Kikuchi N, Watanabe E, Yamada Y, Haruki S, Kogure T, Suzuki T, Uetsuka Y, Hagiwara N., HIJ-HF II Investigators. Clinical characteristics of hospitalized heart failure patients with preserved, mid-range, and reduced ejection fractions in Japan. ESC Heart Fail. 2019 Jun;6(3):475-486. [[PMC free article: PMC6487690](/pmc/articles/PMC6487690/)] [[PubMed: 30829002](https://pubmed.ncbi.nlm.nih.gov/30829002)]
+Shiga T, Suzuki A, Haruta S, Mori F, Ota Y, Yagi M, Oka T, Tanaka H, Murasaki S, Yamauchi T, Katoh J, Hattori H, Kikuchi N, Watanabe E, Yamada Y, Haruki S, Kogure T, Suzuki T, Uetsuka Y, Hagiwara N., HIJ-HF II Investigators. Clinical characteristics of hospitalized heart failure patients with preserved, mid-range, and reduced ejection fractions in Japan. ESC Heart Fail. 2019 Jun;6(3):475-486. \[[PMC free article: PMC6487690](/pmc/articles/PMC6487690/)\] \[[PubMed: 30829002](https://pubmed.ncbi.nlm.nih.gov/30829002)\]
 
 29.
-    
 
-Wang N, Hales S, Barin E, Tofler G. Characteristics and outcome for heart failure patients with mid-range ejection fraction. J Cardiovasc Med (Hagerstown). 2018 Jun;19(6):297-303. [[PubMed: 29570491](https://pubmed.ncbi.nlm.nih.gov/29570491)]
+Wang N, Hales S, Barin E, Tofler G. Characteristics and outcome for heart failure patients with mid-range ejection fraction. J Cardiovasc Med (Hagerstown). 2018 Jun;19(6):297-303. \[[PubMed: 29570491](https://pubmed.ncbi.nlm.nih.gov/29570491)\]
 
 30.
-    
 
-Chioncel O, Lainscak M, Seferovic PM, Anker SD, Crespo-Leiro MG, Harjola VP, Parissis J, Laroche C, Piepoli MF, Fonseca C, Mebazaa A, Lund L, Ambrosio GA, Coats AJ, Ferrari R, Ruschitzka F, Maggioni AP, Filippatos G. Epidemiology and one-year outcomes in patients with chronic heart failure and preserved, mid-range and reduced ejection fraction: an analysis of the ESC Heart Failure Long-Term Registry. Eur J Heart Fail. 2017 Dec;19(12):1574-1585. [[PubMed: 28386917](https://pubmed.ncbi.nlm.nih.gov/28386917)]
+Chioncel O, Lainscak M, Seferovic PM, Anker SD, Crespo-Leiro MG, Harjola VP, Parissis J, Laroche C, Piepoli MF, Fonseca C, Mebazaa A, Lund L, Ambrosio GA, Coats AJ, Ferrari R, Ruschitzka F, Maggioni AP, Filippatos G. Epidemiology and one-year outcomes in patients with chronic heart failure and preserved, mid-range and reduced ejection fraction: an analysis of the ESC Heart Failure Long-Term Registry. Eur J Heart Fail. 2017 Dec;19(12):1574-1585. \[[PubMed: 28386917](https://pubmed.ncbi.nlm.nih.gov/28386917)\]
 
 31.
-    
 
-Kenchaiah S, Evans JC, Levy D, Wilson PW, Benjamin EJ, Larson MG, Kannel WB, Vasan RS. Obesity and the risk of heart failure. N Engl J Med. 2002 Aug 01;347(5):305-13. [[PubMed: 12151467](https://pubmed.ncbi.nlm.nih.gov/12151467)]
+Kenchaiah S, Evans JC, Levy D, Wilson PW, Benjamin EJ, Larson MG, Kannel WB, Vasan RS. Obesity and the risk of heart failure. N Engl J Med. 2002 Aug 01;347(5):305-13. \[[PubMed: 12151467](https://pubmed.ncbi.nlm.nih.gov/12151467)\]
 
 32.
-    
 
-Kitzman DW, Shah SJ. The HFpEF Obesity Phenotype: The Elephant in the Room. J Am Coll Cardiol. 2016 Jul 12;68(2):200-3. [[PubMed: 27386774](https://pubmed.ncbi.nlm.nih.gov/27386774)]
+Kitzman DW, Shah SJ. The HFpEF Obesity Phenotype: The Elephant in the Room. J Am Coll Cardiol. 2016 Jul 12;68(2):200-3. \[[PubMed: 27386774](https://pubmed.ncbi.nlm.nih.gov/27386774)\]
 
 33.
-    
 
-Wong CY, O'Moore-Sullivan T, Leano R, Byrne N, Beller E, Marwick TH. Alterations of left ventricular myocardial characteristics associated with obesity. Circulation. 2004 Nov 09;110(19):3081-7. [[PubMed: 15520317](https://pubmed.ncbi.nlm.nih.gov/15520317)]
+Wong CY, O'Moore-Sullivan T, Leano R, Byrne N, Beller E, Marwick TH. Alterations of left ventricular myocardial characteristics associated with obesity. Circulation. 2004 Nov 09;110(19):3081-7. \[[PubMed: 15520317](https://pubmed.ncbi.nlm.nih.gov/15520317)\]
 
 34.
-    
 
-Russo C, Jin Z, Homma S, Rundek T, Elkind MS, Sacco RL, Di Tullio MR. Effect of obesity and overweight on left ventricular diastolic function: a community-based study in an elderly cohort. J Am Coll Cardiol. 2011 Mar 22;57(12):1368-74. [[PMC free article: PMC3077126](/pmc/articles/PMC3077126/)] [[PubMed: 21414533](https://pubmed.ncbi.nlm.nih.gov/21414533)]
+Russo C, Jin Z, Homma S, Rundek T, Elkind MS, Sacco RL, Di Tullio MR. Effect of obesity and overweight on left ventricular diastolic function: a community-based study in an elderly cohort. J Am Coll Cardiol. 2011 Mar 22;57(12):1368-74. \[[PMC free article: PMC3077126](/pmc/articles/PMC3077126/)\] \[[PubMed: 21414533](https://pubmed.ncbi.nlm.nih.gov/21414533)\]
 
 35.
-    
 
-Wohlfahrt P, Redfield MM, Lopez-Jimenez F, Melenovsky V, Kane GC, Rodeheffer RJ, Borlaug BA. Impact of general and central adiposity on ventricular-arterial aging in women and men. JACC Heart Fail. 2014 Oct;2(5):489-99. [[PMC free article: PMC4194131](/pmc/articles/PMC4194131/)] [[PubMed: 25194285](https://pubmed.ncbi.nlm.nih.gov/25194285)]
+Wohlfahrt P, Redfield MM, Lopez-Jimenez F, Melenovsky V, Kane GC, Rodeheffer RJ, Borlaug BA. Impact of general and central adiposity on ventricular-arterial aging in women and men. JACC Heart Fail. 2014 Oct;2(5):489-99. \[[PMC free article: PMC4194131](/pmc/articles/PMC4194131/)\] \[[PubMed: 25194285](https://pubmed.ncbi.nlm.nih.gov/25194285)\]
 
 36.
-    
 
-Gorter TM, van Veldhuisen DJ, Bauersachs J, Borlaug BA, Celutkiene J, Coats AJS, Crespo-Leiro MG, Guazzi M, Harjola VP, Heymans S, Hill L, Lainscak M, Lam CSP, Lund LH, Lyon AR, Mebazaa A, Mueller C, Paulus WJ, Pieske B, Piepoli MF, Ruschitzka F, Rutten FH, Seferovic PM, Solomon SD, Shah SJ, Triposkiadis F, Wachter R, Tschöpe C, de Boer RA. Right heart dysfunction and failure in heart failure with preserved ejection fraction: mechanisms and management. Position statement on behalf of the Heart Failure Association of the European Society of Cardiology. Eur J Heart Fail. 2018 Jan;20(1):16-37. [[PubMed: 29044932](https://pubmed.ncbi.nlm.nih.gov/29044932)]
+Gorter TM, van Veldhuisen DJ, Bauersachs J, Borlaug BA, Celutkiene J, Coats AJS, Crespo-Leiro MG, Guazzi M, Harjola VP, Heymans S, Hill L, Lainscak M, Lam CSP, Lund LH, Lyon AR, Mebazaa A, Mueller C, Paulus WJ, Pieske B, Piepoli MF, Ruschitzka F, Rutten FH, Seferovic PM, Solomon SD, Shah SJ, Triposkiadis F, Wachter R, Tschöpe C, de Boer RA. Right heart dysfunction and failure in heart failure with preserved ejection fraction: mechanisms and management. Position statement on behalf of the Heart Failure Association of the European Society of Cardiology. Eur J Heart Fail. 2018 Jan;20(1):16-37. \[[PubMed: 29044932](https://pubmed.ncbi.nlm.nih.gov/29044932)\]
 
 37.
-    
 
-Obokata M, Reddy YNV, Pislaru SV, Melenovsky V, Borlaug BA. Evidence Supporting the Existence of a Distinct Obese Phenotype of Heart Failure With Preserved Ejection Fraction. Circulation. 2017 Jul 04;136(1):6-19. [[PMC free article: PMC5501170](/pmc/articles/PMC5501170/)] [[PubMed: 28381470](https://pubmed.ncbi.nlm.nih.gov/28381470)]
+Obokata M, Reddy YNV, Pislaru SV, Melenovsky V, Borlaug BA. Evidence Supporting the Existence of a Distinct Obese Phenotype of Heart Failure With Preserved Ejection Fraction. Circulation. 2017 Jul 04;136(1):6-19. \[[PMC free article: PMC5501170](/pmc/articles/PMC5501170/)\] \[[PubMed: 28381470](https://pubmed.ncbi.nlm.nih.gov/28381470)\]
 
 38.
-    
 
-Borlaug BA, Carter RE, Melenovsky V, DeSimone CV, Gaba P, Killu A, Naksuk N, Lerman L, Asirvatham SJ. Percutaneous Pericardial Resection: A Novel Potential Treatment for Heart Failure With Preserved Ejection Fraction. Circ Heart Fail. 2017 Apr;10(4):e003612. [[PMC free article: PMC5390814](/pmc/articles/PMC5390814/)] [[PubMed: 28396500](https://pubmed.ncbi.nlm.nih.gov/28396500)]
+Borlaug BA, Carter RE, Melenovsky V, DeSimone CV, Gaba P, Killu A, Naksuk N, Lerman L, Asirvatham SJ. Percutaneous Pericardial Resection: A Novel Potential Treatment for Heart Failure With Preserved Ejection Fraction. Circ Heart Fail. 2017 Apr;10(4):e003612. \[[PMC free article: PMC5390814](/pmc/articles/PMC5390814/)\] \[[PubMed: 28396500](https://pubmed.ncbi.nlm.nih.gov/28396500)\]
 
 39.
-    
 
-Borlaug BA, Olson TP, Lam CS, Flood KS, Lerman A, Johnson BD, Redfield MM. Global cardiovascular reserve dysfunction in heart failure with preserved ejection fraction. J Am Coll Cardiol. 2010 Sep 07;56(11):845-54. [[PMC free article: PMC2950645](/pmc/articles/PMC2950645/)] [[PubMed: 20813282](https://pubmed.ncbi.nlm.nih.gov/20813282)]
+Borlaug BA, Olson TP, Lam CS, Flood KS, Lerman A, Johnson BD, Redfield MM. Global cardiovascular reserve dysfunction in heart failure with preserved ejection fraction. J Am Coll Cardiol. 2010 Sep 07;56(11):845-54. \[[PMC free article: PMC2950645](/pmc/articles/PMC2950645/)\] \[[PubMed: 20813282](https://pubmed.ncbi.nlm.nih.gov/20813282)\]
 
 40.
-    
 
-Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW. Determinants of exercise intolerance in elderly heart failure patients with preserved ejection fraction. J Am Coll Cardiol. 2011 Jul 12;58(3):265-74. [[PMC free article: PMC3272542](/pmc/articles/PMC3272542/)] [[PubMed: 21737017](https://pubmed.ncbi.nlm.nih.gov/21737017)]
+Haykowsky MJ, Brubaker PH, John JM, Stewart KP, Morgan TM, Kitzman DW. Determinants of exercise intolerance in elderly heart failure patients with preserved ejection fraction. J Am Coll Cardiol. 2011 Jul 12;58(3):265-74. \[[PMC free article: PMC3272542](/pmc/articles/PMC3272542/)\] \[[PubMed: 21737017](https://pubmed.ncbi.nlm.nih.gov/21737017)\]
 
 41.
-    
 
-Haykowsky MJ, Kouba EJ, Brubaker PH, Nicklas BJ, Eggebeen J, Kitzman DW. Skeletal muscle composition and its relation to exercise intolerance in older patients with heart failure and preserved ejection fraction. Am J Cardiol. 2014 Apr 01;113(7):1211-6. [[PMC free article: PMC4282135](/pmc/articles/PMC4282135/)] [[PubMed: 24507172](https://pubmed.ncbi.nlm.nih.gov/24507172)]
+Haykowsky MJ, Kouba EJ, Brubaker PH, Nicklas BJ, Eggebeen J, Kitzman DW. Skeletal muscle composition and its relation to exercise intolerance in older patients with heart failure and preserved ejection fraction. Am J Cardiol. 2014 Apr 01;113(7):1211-6. \[[PMC free article: PMC4282135](/pmc/articles/PMC4282135/)\] \[[PubMed: 24507172](https://pubmed.ncbi.nlm.nih.gov/24507172)\]
 
 42.
-    
 
-Dhakal BP, Malhotra R, Murphy RM, Pappagianopoulos PP, Baggish AL, Weiner RB, Houstis NE, Eisman AS, Hough SS, Lewis GD. Mechanisms of exercise intolerance in heart failure with preserved ejection fraction: the role of abnormal peripheral oxygen extraction. Circ Heart Fail. 2015 Mar;8(2):286-94. [[PMC free article: PMC5771713](/pmc/articles/PMC5771713/)] [[PubMed: 25344549](https://pubmed.ncbi.nlm.nih.gov/25344549)]
+Dhakal BP, Malhotra R, Murphy RM, Pappagianopoulos PP, Baggish AL, Weiner RB, Houstis NE, Eisman AS, Hough SS, Lewis GD. Mechanisms of exercise intolerance in heart failure with preserved ejection fraction: the role of abnormal peripheral oxygen extraction. Circ Heart Fail. 2015 Mar;8(2):286-94. \[[PMC free article: PMC5771713](/pmc/articles/PMC5771713/)\] \[[PubMed: 25344549](https://pubmed.ncbi.nlm.nih.gov/25344549)\]
 
 43.
-    
 
-Molina AJ, Bharadwaj MS, Van Horn C, Nicklas BJ, Lyles MF, Eggebeen J, Haykowsky MJ, Brubaker PH, Kitzman DW. Skeletal Muscle Mitochondrial Content, Oxidative Capacity, and Mfn2 Expression Are Reduced in Older Patients With Heart Failure and Preserved Ejection Fraction and Are Related to Exercise Intolerance. JACC Heart Fail. 2016 Aug;4(8):636-45. [[PMC free article: PMC4967040](/pmc/articles/PMC4967040/)] [[PubMed: 27179829](https://pubmed.ncbi.nlm.nih.gov/27179829)]
+Molina AJ, Bharadwaj MS, Van Horn C, Nicklas BJ, Lyles MF, Eggebeen J, Haykowsky MJ, Brubaker PH, Kitzman DW. Skeletal Muscle Mitochondrial Content, Oxidative Capacity, and Mfn2 Expression Are Reduced in Older Patients With Heart Failure and Preserved Ejection Fraction and Are Related to Exercise Intolerance. JACC Heart Fail. 2016 Aug;4(8):636-45. \[[PMC free article: PMC4967040](/pmc/articles/PMC4967040/)\] \[[PubMed: 27179829](https://pubmed.ncbi.nlm.nih.gov/27179829)\]
 
 44.
-    
 
-Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA. Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction. J Am Coll Cardiol. 2017 Jul 11;70(2):136-148. [[PMC free article: PMC5520668](/pmc/articles/PMC5520668/)] [[PubMed: 28683960](https://pubmed.ncbi.nlm.nih.gov/28683960)]
+Reddy YNV, Andersen MJ, Obokata M, Koepp KE, Kane GC, Melenovsky V, Olson TP, Borlaug BA. Arterial Stiffening With Exercise in Patients With Heart Failure and Preserved Ejection Fraction. J Am Coll Cardiol. 2017 Jul 11;70(2):136-148. \[[PMC free article: PMC5520668](/pmc/articles/PMC5520668/)\] \[[PubMed: 28683960](https://pubmed.ncbi.nlm.nih.gov/28683960)\]
 
 45.
-    
 
-Houstis NE, Eisman AS, Pappagianopoulos PP, Wooster L, Bailey CS, Wagner PD, Lewis GD. Exercise Intolerance in Heart Failure With Preserved Ejection Fraction: Diagnosing and Ranking Its Causes Using Personalized O2 Pathway Analysis. Circulation. 2018 Jan 09;137(2):148-161. [[PMC free article: PMC5760316](/pmc/articles/PMC5760316/)] [[PubMed: 28993402](https://pubmed.ncbi.nlm.nih.gov/28993402)]
+Houstis NE, Eisman AS, Pappagianopoulos PP, Wooster L, Bailey CS, Wagner PD, Lewis GD. Exercise Intolerance in Heart Failure With Preserved Ejection Fraction: Diagnosing and Ranking Its Causes Using Personalized O2 Pathway Analysis. Circulation. 2018 Jan 09;137(2):148-161. \[[PMC free article: PMC5760316](/pmc/articles/PMC5760316/)\] \[[PubMed: 28993402](https://pubmed.ncbi.nlm.nih.gov/28993402)\]
 
 46.
-    
 
-Shah AM, Cikes M, Prasad N, Li G, Getchevski S, Claggett B, Rizkala A, Lukashevich I, O'Meara E, Ryan JJ, Shah SJ, Mullens W, Zile MR, Lam CSP, McMurray JJV, Solomon SD., PARAGON-HF Investigators. Echocardiographic Features of Patients With Heart Failure and Preserved Left Ventricular Ejection Fraction. J Am Coll Cardiol. 2019 Dec 10;74(23):2858-2873. [[PubMed: 31806129](https://pubmed.ncbi.nlm.nih.gov/31806129)]
+Shah AM, Cikes M, Prasad N, Li G, Getchevski S, Claggett B, Rizkala A, Lukashevich I, O'Meara E, Ryan JJ, Shah SJ, Mullens W, Zile MR, Lam CSP, McMurray JJV, Solomon SD., PARAGON-HF Investigators. Echocardiographic Features of Patients With Heart Failure and Preserved Left Ventricular Ejection Fraction. J Am Coll Cardiol. 2019 Dec 10;74(23):2858-2873. \[[PubMed: 31806129](https://pubmed.ncbi.nlm.nih.gov/31806129)\]
 
 47.
-    
 
-Reddy YNV, Olson TP, Obokata M, Melenovsky V, Borlaug BA. Hemodynamic Correlates and Diagnostic Role of Cardiopulmonary Exercise Testing in Heart Failure With Preserved Ejection Fraction. JACC Heart Fail. 2018 Aug;6(8):665-675. [[PMC free article: PMC6076329](/pmc/articles/PMC6076329/)] [[PubMed: 29803552](https://pubmed.ncbi.nlm.nih.gov/29803552)]
+Reddy YNV, Olson TP, Obokata M, Melenovsky V, Borlaug BA. Hemodynamic Correlates and Diagnostic Role of Cardiopulmonary Exercise Testing in Heart Failure With Preserved Ejection Fraction. JACC Heart Fail. 2018 Aug;6(8):665-675. \[[PMC free article: PMC6076329](/pmc/articles/PMC6076329/)\] \[[PubMed: 29803552](https://pubmed.ncbi.nlm.nih.gov/29803552)\]
 
 48.
-    
 
-Borbély A, van der Velden J, Papp Z, Bronzwaer JG, Edes I, Stienen GJ, Paulus WJ. Cardiomyocyte stiffness in diastolic heart failure. Circulation. 2005 Feb 15;111(6):774-81. [[PubMed: 15699264](https://pubmed.ncbi.nlm.nih.gov/15699264)]
+Borbély A, van der Velden J, Papp Z, Bronzwaer JG, Edes I, Stienen GJ, Paulus WJ. Cardiomyocyte stiffness in diastolic heart failure. Circulation. 2005 Feb 15;111(6):774-81. \[[PubMed: 15699264](https://pubmed.ncbi.nlm.nih.gov/15699264)\]
 
 49.
-    
 
-van Heerebeek L, Borbély A, Niessen HW, Bronzwaer JG, van der Velden J, Stienen GJ, Linke WA, Laarman GJ, Paulus WJ. Myocardial structure and function differ in systolic and diastolic heart failure. Circulation. 2006 Apr 25;113(16):1966-73. [[PubMed: 16618817](https://pubmed.ncbi.nlm.nih.gov/16618817)]
+van Heerebeek L, Borbély A, Niessen HW, Bronzwaer JG, van der Velden J, Stienen GJ, Linke WA, Laarman GJ, Paulus WJ. Myocardial structure and function differ in systolic and diastolic heart failure. Circulation. 2006 Apr 25;113(16):1966-73. \[[PubMed: 16618817](https://pubmed.ncbi.nlm.nih.gov/16618817)\]
 
 50.
-    
 
-Zile MR, Baicu CF, Gaasch WH. Diastolic heart failure--abnormalities in active relaxation and passive stiffness of the left ventricle. N Engl J Med. 2004 May 06;350(19):1953-9. [[PubMed: 15128895](https://pubmed.ncbi.nlm.nih.gov/15128895)]
+Zile MR, Baicu CF, Gaasch WH. Diastolic heart failure--abnormalities in active relaxation and passive stiffness of the left ventricle. N Engl J Med. 2004 May 06;350(19):1953-9. \[[PubMed: 15128895](https://pubmed.ncbi.nlm.nih.gov/15128895)\]
 
 51.
-    
 
-Zakeri R, Chamberlain AM, Roger VL, Redfield MM. Temporal relationship and prognostic significance of atrial fibrillation in heart failure patients with preserved ejection fraction: a community-based study. Circulation. 2013 Sep 03;128(10):1085-93. [[PMC free article: PMC3910441](/pmc/articles/PMC3910441/)] [[PubMed: 23908348](https://pubmed.ncbi.nlm.nih.gov/23908348)]
+Zakeri R, Chamberlain AM, Roger VL, Redfield MM. Temporal relationship and prognostic significance of atrial fibrillation in heart failure patients with preserved ejection fraction: a community-based study. Circulation. 2013 Sep 03;128(10):1085-93. \[[PMC free article: PMC3910441](/pmc/articles/PMC3910441/)\] \[[PubMed: 23908348](https://pubmed.ncbi.nlm.nih.gov/23908348)\]
 
 52.
-    
 
-Vanderpool RR, Saul M, Nouraie M, Gladwin MT, Simon MA. Association Between Hemodynamic Markers of Pulmonary Hypertension and Outcomes in Heart Failure With Preserved Ejection Fraction. JAMA Cardiol. 2018 Apr 01;3(4):298-306. [[PMC free article: PMC5875307](/pmc/articles/PMC5875307/)] [[PubMed: 29541759](https://pubmed.ncbi.nlm.nih.gov/29541759)]
+Vanderpool RR, Saul M, Nouraie M, Gladwin MT, Simon MA. Association Between Hemodynamic Markers of Pulmonary Hypertension and Outcomes in Heart Failure With Preserved Ejection Fraction. JAMA Cardiol. 2018 Apr 01;3(4):298-306. \[[PMC free article: PMC5875307](/pmc/articles/PMC5875307/)\] \[[PubMed: 29541759](https://pubmed.ncbi.nlm.nih.gov/29541759)\]
 
 53.
-    
 
-Mohammed SF, Hussain I, AbouEzzeddine OF, Takahama H, Kwon SH, Forfia P, Roger VL, Redfield MM. Right ventricular function in heart failure with preserved ejection fraction: a community-based study. Circulation. 2014 Dec 23;130(25):2310-20. [[PMC free article: PMC4276536](/pmc/articles/PMC4276536/)] [[PubMed: 25391518](https://pubmed.ncbi.nlm.nih.gov/25391518)]
+Mohammed SF, Hussain I, AbouEzzeddine OF, Takahama H, Kwon SH, Forfia P, Roger VL, Redfield MM. Right ventricular function in heart failure with preserved ejection fraction: a community-based study. Circulation. 2014 Dec 23;130(25):2310-20. \[[PMC free article: PMC4276536](/pmc/articles/PMC4276536/)\] \[[PubMed: 25391518](https://pubmed.ncbi.nlm.nih.gov/25391518)\]
 
 54.
-    
 
-Paulus WJ, Tschöpe C. A novel paradigm for heart failure with preserved ejection fraction: comorbidities drive myocardial dysfunction and remodeling through coronary microvascular endothelial inflammation. J Am Coll Cardiol. 2013 Jul 23;62(4):263-71. [[PubMed: 23684677](https://pubmed.ncbi.nlm.nih.gov/23684677)]
+Paulus WJ, Tschöpe C. A novel paradigm for heart failure with preserved ejection fraction: comorbidities drive myocardial dysfunction and remodeling through coronary microvascular endothelial inflammation. J Am Coll Cardiol. 2013 Jul 23;62(4):263-71. \[[PubMed: 23684677](https://pubmed.ncbi.nlm.nih.gov/23684677)\]
 
 55.
-    
 
-Franssen C, Chen S, Unger A, Korkmaz HI, De Keulenaer GW, Tschöpe C, Leite-Moreira AF, Musters R, Niessen HW, Linke WA, Paulus WJ, Hamdani N. Myocardial Microvascular Inflammatory Endothelial Activation in Heart Failure With Preserved Ejection Fraction. JACC Heart Fail. 2016 Apr;4(4):312-24. [[PubMed: 26682792](https://pubmed.ncbi.nlm.nih.gov/26682792)]
+Franssen C, Chen S, Unger A, Korkmaz HI, De Keulenaer GW, Tschöpe C, Leite-Moreira AF, Musters R, Niessen HW, Linke WA, Paulus WJ, Hamdani N. Myocardial Microvascular Inflammatory Endothelial Activation in Heart Failure With Preserved Ejection Fraction. JACC Heart Fail. 2016 Apr;4(4):312-24. \[[PubMed: 26682792](https://pubmed.ncbi.nlm.nih.gov/26682792)\]
 
 56.
-    
 
-Zile MR, Baicu CF, Ikonomidis JS, Stroud RE, Nietert PJ, Bradshaw AD, Slater R, Palmer BM, Van Buren P, Meyer M, Redfield MM, Bull DA, Granzier HL, LeWinter MM. Myocardial stiffness in patients with heart failure and a preserved ejection fraction: contributions of collagen and titin. Circulation. 2015 Apr 07;131(14):1247-59. [[PMC free article: PMC4390480](/pmc/articles/PMC4390480/)] [[PubMed: 25637629](https://pubmed.ncbi.nlm.nih.gov/25637629)]
+Zile MR, Baicu CF, Ikonomidis JS, Stroud RE, Nietert PJ, Bradshaw AD, Slater R, Palmer BM, Van Buren P, Meyer M, Redfield MM, Bull DA, Granzier HL, LeWinter MM. Myocardial stiffness in patients with heart failure and a preserved ejection fraction: contributions of collagen and titin. Circulation. 2015 Apr 07;131(14):1247-59. \[[PMC free article: PMC4390480](/pmc/articles/PMC4390480/)\] \[[PubMed: 25637629](https://pubmed.ncbi.nlm.nih.gov/25637629)\]
 
 57.
-    
 
-Bishu K, Hamdani N, Mohammed SF, Kruger M, Ohtani T, Ogut O, Brozovich FV, Burnett JC, Linke WA, Redfield MM. Sildenafil and B-type natriuretic peptide acutely phosphorylate titin and improve diastolic distensibility in vivo. Circulation. 2011 Dec 20;124(25):2882-91. [[PMC free article: PMC3412357](/pmc/articles/PMC3412357/)] [[PubMed: 22144574](https://pubmed.ncbi.nlm.nih.gov/22144574)]
+Bishu K, Hamdani N, Mohammed SF, Kruger M, Ohtani T, Ogut O, Brozovich FV, Burnett JC, Linke WA, Redfield MM. Sildenafil and B-type natriuretic peptide acutely phosphorylate titin and improve diastolic distensibility in vivo. Circulation. 2011 Dec 20;124(25):2882-91. \[[PMC free article: PMC3412357](/pmc/articles/PMC3412357/)\] \[[PubMed: 22144574](https://pubmed.ncbi.nlm.nih.gov/22144574)\]
 
 58.
-    
 
-Solomon SD, Rizkala AR, Lefkowitz MP, Shi VC, Gong J, Anavekar N, Anker SD, Arango JL, Arenas JL, Atar D, Ben-Gal T, Boytsov SA, Chen CH, Chopra VK, Cleland J, Comin-Colet J, Duengen HD, Echeverría Correa LE, Filippatos G, Flammer AJ, Galinier M, Godoy A, Goncalvesova E, Janssens S, Katova T, Køber L, Lelonek M, Linssen G, Lund LH, O'Meara E, Merkely B, Milicic D, Oh BH, Perrone SV, Ranjith N, Saito Y, Saraiva JF, Shah S, Seferovic PM, Senni M, Sibulo AS, Sim D, Sweitzer NK, Taurio J, Vinereanu D, Vrtovec B, Widimský J, Yilmaz MB, Zhou J, Zweiker R, Anand IS, Ge J, Lam CSP, Maggioni AP, Martinez F, Packer M, Pfeffer MA, Pieske B, Redfield MM, Rouleau JL, Van Veldhuisen DJ, Zannad F, Zile MR, McMurray JJV. Baseline Characteristics of Patients With Heart Failure and Preserved Ejection Fraction in the PARAGON-HF Trial. Circ Heart Fail. 2018 Jul;11(7):e004962. [[PubMed: 29980595](https://pubmed.ncbi.nlm.nih.gov/29980595)]
+Solomon SD, Rizkala AR, Lefkowitz MP, Shi VC, Gong J, Anavekar N, Anker SD, Arango JL, Arenas JL, Atar D, Ben-Gal T, Boytsov SA, Chen CH, Chopra VK, Cleland J, Comin-Colet J, Duengen HD, Echeverría Correa LE, Filippatos G, Flammer AJ, Galinier M, Godoy A, Goncalvesova E, Janssens S, Katova T, Køber L, Lelonek M, Linssen G, Lund LH, O'Meara E, Merkely B, Milicic D, Oh BH, Perrone SV, Ranjith N, Saito Y, Saraiva JF, Shah S, Seferovic PM, Senni M, Sibulo AS, Sim D, Sweitzer NK, Taurio J, Vinereanu D, Vrtovec B, Widimský J, Yilmaz MB, Zhou J, Zweiker R, Anand IS, Ge J, Lam CSP, Maggioni AP, Martinez F, Packer M, Pfeffer MA, Pieske B, Redfield MM, Rouleau JL, Van Veldhuisen DJ, Zannad F, Zile MR, McMurray JJV. Baseline Characteristics of Patients With Heart Failure and Preserved Ejection Fraction in the PARAGON-HF Trial. Circ Heart Fail. 2018 Jul;11(7):e004962. \[[PubMed: 29980595](https://pubmed.ncbi.nlm.nih.gov/29980595)\]
 
 59.
-    
 
-Malik A, Chhabra L. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Nov 5, 2023. Congestive Heart Failure. [[PubMed: 28613623](https://pubmed.ncbi.nlm.nih.gov/28613623)]
+Malik A, Chhabra L. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Nov 5, 2023. Congestive Heart Failure. \[[PubMed: 28613623](https://pubmed.ncbi.nlm.nih.gov/28613623)\]
 
 60.
-    
 
-Faxen UL, Venkateshvaran A, Shah SJ, Lam CSP, Svedlund S, Saraste A, Beussink-Nelson L, Lagerstrom Fermer M, Gan LM, Hage C, Lund LH. Generalizability of HFA-PEFF and H2FPEF Diagnostic Algorithms and Associations With Heart Failure Indices and Proteomic Biomarkers: Insights From PROMIS-HFpEF. J Card Fail. 2021 Jul;27(7):756-765. [[PubMed: 33647474](https://pubmed.ncbi.nlm.nih.gov/33647474)]
+Faxen UL, Venkateshvaran A, Shah SJ, Lam CSP, Svedlund S, Saraste A, Beussink-Nelson L, Lagerstrom Fermer M, Gan LM, Hage C, Lund LH. Generalizability of HFA-PEFF and H2FPEF Diagnostic Algorithms and Associations With Heart Failure Indices and Proteomic Biomarkers: Insights From PROMIS-HFpEF. J Card Fail. 2021 Jul;27(7):756-765. \[[PubMed: 33647474](https://pubmed.ncbi.nlm.nih.gov/33647474)\]
 
 61.
-    
 
-Leggat J, Bidault G, Vidal-Puig A. Lipotoxicity: a driver of heart failure with preserved ejection fraction? Clin Sci (Lond). 2021 Oct 15;135(19):2265-2283. [[PMC free article: PMC8543140](/pmc/articles/PMC8543140/)] [[PubMed: 34643676](https://pubmed.ncbi.nlm.nih.gov/34643676)]
+Leggat J, Bidault G, Vidal-Puig A. Lipotoxicity: a driver of heart failure with preserved ejection fraction? Clin Sci (Lond). 2021 Oct 15;135(19):2265-2283. \[[PMC free article: PMC8543140](/pmc/articles/PMC8543140/)\] \[[PubMed: 34643676](https://pubmed.ncbi.nlm.nih.gov/34643676)\]
 
 62.
-    
 
-Gerhardt LMS, Kordsmeyer M, Sehner S, Güder G, Störk S, Edelmann F, Wachter R, Pankuweit S, Prettin C, Ertl G, Wanner C, Angermann CE. Prevalence and prognostic impact of chronic kidney disease and anaemia across ACC/AHA precursor and symptomatic heart failure stages. Clin Res Cardiol. 2023 Jul;112(7):868-879. [[PMC free article: PMC10293329](/pmc/articles/PMC10293329/)] [[PubMed: 35648270](https://pubmed.ncbi.nlm.nih.gov/35648270)]
+Gerhardt LMS, Kordsmeyer M, Sehner S, Güder G, Störk S, Edelmann F, Wachter R, Pankuweit S, Prettin C, Ertl G, Wanner C, Angermann CE. Prevalence and prognostic impact of chronic kidney disease and anaemia across ACC/AHA precursor and symptomatic heart failure stages. Clin Res Cardiol. 2023 Jul;112(7):868-879. \[[PMC free article: PMC10293329](/pmc/articles/PMC10293329/)\] \[[PubMed: 35648270](https://pubmed.ncbi.nlm.nih.gov/35648270)\]
 
 63.
-    
 
-Cuthbert JJ, Pellicori P, Rigby A, Pan D, Kazmi S, Shah P, Clark AL. Low serum chloride in patients with chronic heart failure: clinical associations and prognostic significance. Eur J Heart Fail. 2018 Oct;20(10):1426-1435. [[PubMed: 29943886](https://pubmed.ncbi.nlm.nih.gov/29943886)]
+Cuthbert JJ, Pellicori P, Rigby A, Pan D, Kazmi S, Shah P, Clark AL. Low serum chloride in patients with chronic heart failure: clinical associations and prognostic significance. Eur J Heart Fail. 2018 Oct;20(10):1426-1435. \[[PubMed: 29943886](https://pubmed.ncbi.nlm.nih.gov/29943886)\]
 
 64.
-    
 
-Li Y, Li J. Analysis of Risk Factors for Heart Failure with Preserved Ejection Fraction and Observations on Blood Lipid Metabolism. Altern Ther Health Med. 2023 Nov;29(8):396-400. [[PubMed: 37632969](https://pubmed.ncbi.nlm.nih.gov/37632969)]
+Li Y, Li J. Analysis of Risk Factors for Heart Failure with Preserved Ejection Fraction and Observations on Blood Lipid Metabolism. Altern Ther Health Med. 2023 Nov;29(8):396-400. \[[PubMed: 37632969](https://pubmed.ncbi.nlm.nih.gov/37632969)\]
 
 65.
-    
 
-Zhou Q, Yang J, Tang H, Guo Z, Dong W, Wang Y, Meng X, Zhang K, Wang W, Shao C, Hua X, Tang YD. High triglyceride-glucose (TyG) index is associated with poor prognosis of heart failure with preserved ejection fraction. Cardiovasc Diabetol. 2023 Sep 29;22(1):263. [[PMC free article: PMC10541699](/pmc/articles/PMC10541699/)] [[PubMed: 37775762](https://pubmed.ncbi.nlm.nih.gov/37775762)]
+Zhou Q, Yang J, Tang H, Guo Z, Dong W, Wang Y, Meng X, Zhang K, Wang W, Shao C, Hua X, Tang YD. High triglyceride-glucose (TyG) index is associated with poor prognosis of heart failure with preserved ejection fraction. Cardiovasc Diabetol. 2023 Sep 29;22(1):263. \[[PMC free article: PMC10541699](/pmc/articles/PMC10541699/)\] \[[PubMed: 37775762](https://pubmed.ncbi.nlm.nih.gov/37775762)\]
 
 66.
-    
 
-Salah HM, Pandey A, Soloveva A, Abdelmalek MF, Diehl AM, Moylan CA, Wegermann K, Rao VN, Hernandez AF, Tedford RJ, Parikh KS, Mentz RJ, McGarrah RW, Fudim M. Relationship of Nonalcoholic Fatty Liver Disease and Heart Failure With Preserved Ejection Fraction. JACC Basic Transl Sci. 2021 Nov;6(11):918-932. [[PMC free article: PMC8617573](/pmc/articles/PMC8617573/)] [[PubMed: 34869957](https://pubmed.ncbi.nlm.nih.gov/34869957)]
+Salah HM, Pandey A, Soloveva A, Abdelmalek MF, Diehl AM, Moylan CA, Wegermann K, Rao VN, Hernandez AF, Tedford RJ, Parikh KS, Mentz RJ, McGarrah RW, Fudim M. Relationship of Nonalcoholic Fatty Liver Disease and Heart Failure With Preserved Ejection Fraction. JACC Basic Transl Sci. 2021 Nov;6(11):918-932. \[[PMC free article: PMC8617573](/pmc/articles/PMC8617573/)\] \[[PubMed: 34869957](https://pubmed.ncbi.nlm.nih.gov/34869957)\]
 
 67.
-    
 
-Ponikowski P, van Veldhuisen DJ, Comin-Colet J, Ertl G, Komajda M, Mareev V, McDonagh T, Parkhomenko A, Tavazzi L, Levesque V, Mori C, Roubert B, Filippatos G, Ruschitzka F, Anker SD., CONFIRM-HF Investigators. Beneficial effects of long-term intravenous iron therapy with ferric carboxymaltose in patients with symptomatic heart failure and iron deficiency†. Eur Heart J. 2015 Mar 14;36(11):657-68. [[PMC free article: PMC4359359](/pmc/articles/PMC4359359/)] [[PubMed: 25176939](https://pubmed.ncbi.nlm.nih.gov/25176939)]
+Ponikowski P, van Veldhuisen DJ, Comin-Colet J, Ertl G, Komajda M, Mareev V, McDonagh T, Parkhomenko A, Tavazzi L, Levesque V, Mori C, Roubert B, Filippatos G, Ruschitzka F, Anker SD., CONFIRM-HF Investigators. Beneficial effects of long-term intravenous iron therapy with ferric carboxymaltose in patients with symptomatic heart failure and iron deficiency†. Eur Heart J. 2015 Mar 14;36(11):657-68. \[[PMC free article: PMC4359359](/pmc/articles/PMC4359359/)\] \[[PubMed: 25176939](https://pubmed.ncbi.nlm.nih.gov/25176939)\]
 
 68.
-    
 
-De Luca M, Crisci G, Giardino F, Valente V, Amaranto I, Iacono O, D'Assante R, Giallauria F, Marra AM. Anabolic hormones and heart failure with preserved ejection fraction: looking for Ariadne's thread. Monaldi Arch Chest Dis. 2021 Aug 03;92(1) [[PubMed: 34351104](https://pubmed.ncbi.nlm.nih.gov/34351104)]
+De Luca M, Crisci G, Giardino F, Valente V, Amaranto I, Iacono O, D'Assante R, Giallauria F, Marra AM. Anabolic hormones and heart failure with preserved ejection fraction: looking for Ariadne's thread. Monaldi Arch Chest Dis. 2021 Aug 03;92(1) \[[PubMed: 34351104](https://pubmed.ncbi.nlm.nih.gov/34351104)\]
 
 69.
-    
 
-Waddell-Smith KE, Donoghue T, Oates S, Graham A, Crawford J, Stiles MK, Aitken A, Skinner JR. Inpatient detection of cardiac-inherited disease: the impact of improving family history taking. Open Heart. 2016;3(1):e000329. [[PMC free article: PMC4762189](/pmc/articles/PMC4762189/)] [[PubMed: 26925241](https://pubmed.ncbi.nlm.nih.gov/26925241)]
+Waddell-Smith KE, Donoghue T, Oates S, Graham A, Crawford J, Stiles MK, Aitken A, Skinner JR. Inpatient detection of cardiac-inherited disease: the impact of improving family history taking. Open Heart. 2016;3(1):e000329. \[[PMC free article: PMC4762189](/pmc/articles/PMC4762189/)\] \[[PubMed: 26925241](https://pubmed.ncbi.nlm.nih.gov/26925241)\]
 
 70.
-    
 
-Ovchinnikov AG, Ageev FT, Alekhin MN, Belenkov YN, Vasyuk YA, Galyavich AS, Gilyarevskiy SR, Lopatin YM, Mareev VY, Mareev YV, Mitkov VV, Potekhina AV, Prostakova TS, Rybakova MK, Saidova MA, Khadzegova AB, Chernov MY, Yuschuk EN, Boytsov SA. [The role of diastolic transthoracic stress echocardiography with incremental workload in the evaluation of heart failure with preserved ejection fraction: indications, methodology, interpretation. Expert consensus developed under the auspices of the National Medical Research Center of Cardiology, Society of Experts in Heart Failure (SEHF), and Russian Association of Experts in Ultrasound Diagnosis in Medicine (REUDM)]. Kardiologiia. 2021 Jan 19;60(12):48-63. [[PubMed: 33522468](https://pubmed.ncbi.nlm.nih.gov/33522468)]
+Ovchinnikov AG, Ageev FT, Alekhin MN, Belenkov YN, Vasyuk YA, Galyavich AS, Gilyarevskiy SR, Lopatin YM, Mareev VY, Mareev YV, Mitkov VV, Potekhina AV, Prostakova TS, Rybakova MK, Saidova MA, Khadzegova AB, Chernov MY, Yuschuk EN, Boytsov SA. [The role of diastolic transthoracic stress echocardiography with incremental workload in the evaluation of heart failure with preserved ejection fraction: indications, methodology, interpretation. Expert consensus developed under the auspices of the National Medical Research Center of Cardiology, Society of Experts in Heart Failure (SEHF), and Russian Association of Experts in Ultrasound Diagnosis in Medicine (REUDM)]. Kardiologiia. 2021 Jan 19;60(12):48-63. \[[PubMed: 33522468](https://pubmed.ncbi.nlm.nih.gov/33522468)\]
 
 71.
-    
 
-Pandey A, Parashar A, Kumbhani D, Agarwal S, Garg J, Kitzman D, Levine B, Drazner M, Berry J. Exercise training in patients with heart failure and preserved ejection fraction: meta-analysis of randomized control trials. Circ Heart Fail. 2015 Jan;8(1):33-40. [[PMC free article: PMC4792111](/pmc/articles/PMC4792111/)] [[PubMed: 25399909](https://pubmed.ncbi.nlm.nih.gov/25399909)]
+Pandey A, Parashar A, Kumbhani D, Agarwal S, Garg J, Kitzman D, Levine B, Drazner M, Berry J. Exercise training in patients with heart failure and preserved ejection fraction: meta-analysis of randomized control trials. Circ Heart Fail. 2015 Jan;8(1):33-40. \[[PMC free article: PMC4792111](/pmc/articles/PMC4792111/)\] \[[PubMed: 25399909](https://pubmed.ncbi.nlm.nih.gov/25399909)\]
 
 72.
-    
 
-Mueller S, Winzer EB, Duvinage A, Gevaert AB, Edelmann F, Haller B, Pieske-Kraigher E, Beckers P, Bobenko A, Hommel J, Van de Heyning CM, Esefeld K, von Korn P, Christle JW, Haykowsky MJ, Linke A, Wisløff U, Adams V, Pieske B, van Craenenbroeck EM, Halle M., OptimEx-Clin Study Group. Effect of High-Intensity Interval Training, Moderate Continuous Training, or Guideline-Based Physical Activity Advice on Peak Oxygen Consumption in Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. JAMA. 2021 Feb 09;325(6):542-551. [[PMC free article: PMC7873782](/pmc/articles/PMC7873782/)] [[PubMed: 33560320](https://pubmed.ncbi.nlm.nih.gov/33560320)]
+Mueller S, Winzer EB, Duvinage A, Gevaert AB, Edelmann F, Haller B, Pieske-Kraigher E, Beckers P, Bobenko A, Hommel J, Van de Heyning CM, Esefeld K, von Korn P, Christle JW, Haykowsky MJ, Linke A, Wisløff U, Adams V, Pieske B, van Craenenbroeck EM, Halle M., OptimEx-Clin Study Group. Effect of High-Intensity Interval Training, Moderate Continuous Training, or Guideline-Based Physical Activity Advice on Peak Oxygen Consumption in Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. JAMA. 2021 Feb 09;325(6):542-551. \[[PMC free article: PMC7873782](/pmc/articles/PMC7873782/)\] \[[PubMed: 33560320](https://pubmed.ncbi.nlm.nih.gov/33560320)\]
 
 73.
-    
 
-Kitzman DW, Brubaker P, Morgan T, Haykowsky M, Hundley G, Kraus WE, Eggebeen J, Nicklas BJ. Effect of Caloric Restriction or Aerobic Exercise Training on Peak Oxygen Consumption and Quality of Life in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. JAMA. 2016 Jan 05;315(1):36-46. [[PMC free article: PMC4787295](/pmc/articles/PMC4787295/)] [[PubMed: 26746456](https://pubmed.ncbi.nlm.nih.gov/26746456)]
+Kitzman DW, Brubaker P, Morgan T, Haykowsky M, Hundley G, Kraus WE, Eggebeen J, Nicklas BJ. Effect of Caloric Restriction or Aerobic Exercise Training on Peak Oxygen Consumption and Quality of Life in Obese Older Patients With Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial. JAMA. 2016 Jan 05;315(1):36-46. \[[PMC free article: PMC4787295](/pmc/articles/PMC4787295/)\] \[[PubMed: 26746456](https://pubmed.ncbi.nlm.nih.gov/26746456)\]
 
 74.
-    
 
-Hummel SL, Seymour EM, Brook RD, Sheth SS, Ghosh E, Zhu S, Weder AB, Kovács SJ, Kolias TJ. Low-sodium DASH diet improves diastolic function and ventricular-arterial coupling in hypertensive heart failure with preserved ejection fraction. Circ Heart Fail. 2013 Nov;6(6):1165-71. [[PMC free article: PMC4017662](/pmc/articles/PMC4017662/)] [[PubMed: 23985432](https://pubmed.ncbi.nlm.nih.gov/23985432)]
+Hummel SL, Seymour EM, Brook RD, Sheth SS, Ghosh E, Zhu S, Weder AB, Kovács SJ, Kolias TJ. Low-sodium DASH diet improves diastolic function and ventricular-arterial coupling in hypertensive heart failure with preserved ejection fraction. Circ Heart Fail. 2013 Nov;6(6):1165-71. \[[PMC free article: PMC4017662](/pmc/articles/PMC4017662/)\] \[[PubMed: 23985432](https://pubmed.ncbi.nlm.nih.gov/23985432)\]
 
 75.
-    
 
-Faselis C, Arundel C, Patel S, Lam PH, Gottlieb SS, Zile MR, Deedwania P, Filippatos G, Sheriff HM, Zeng Q, Morgan CJ, Wopperer S, Nguyen T, Allman RM, Fonarow GC, Ahmed A. Loop Diuretic Prescription and 30-Day Outcomes in Older Patients With Heart Failure. J Am Coll Cardiol. 2020 Aug 11;76(6):669-679. [[PMC free article: PMC9067440](/pmc/articles/PMC9067440/)] [[PubMed: 32762901](https://pubmed.ncbi.nlm.nih.gov/32762901)]
+Faselis C, Arundel C, Patel S, Lam PH, Gottlieb SS, Zile MR, Deedwania P, Filippatos G, Sheriff HM, Zeng Q, Morgan CJ, Wopperer S, Nguyen T, Allman RM, Fonarow GC, Ahmed A. Loop Diuretic Prescription and 30-Day Outcomes in Older Patients With Heart Failure. J Am Coll Cardiol. 2020 Aug 11;76(6):669-679. \[[PMC free article: PMC9067440](/pmc/articles/PMC9067440/)\] \[[PubMed: 32762901](https://pubmed.ncbi.nlm.nih.gov/32762901)\]
 
 76.
-    
 
-Cleland JGF, Bunting KV, Flather MD, Altman DG, Holmes J, Coats AJS, Manzano L, McMurray JJV, Ruschitzka F, van Veldhuisen DJ, von Lueder TG, Böhm M, Andersson B, Kjekshus J, Packer M, Rigby AS, Rosano G, Wedel H, Hjalmarson Å, Wikstrand J, Kotecha D., Beta-blockers in Heart Failure Collaborative Group. Beta-blockers for heart failure with reduced, mid-range, and preserved ejection fraction: an individual patient-level analysis of double-blind randomized trials. Eur Heart J. 2018 Jan 01;39(1):26-35. [[PMC free article: PMC5837435](/pmc/articles/PMC5837435/)] [[PubMed: 29040525](https://pubmed.ncbi.nlm.nih.gov/29040525)]
+Cleland JGF, Bunting KV, Flather MD, Altman DG, Holmes J, Coats AJS, Manzano L, McMurray JJV, Ruschitzka F, van Veldhuisen DJ, von Lueder TG, Böhm M, Andersson B, Kjekshus J, Packer M, Rigby AS, Rosano G, Wedel H, Hjalmarson Å, Wikstrand J, Kotecha D., Beta-blockers in Heart Failure Collaborative Group. Beta-blockers for heart failure with reduced, mid-range, and preserved ejection fraction: an individual patient-level analysis of double-blind randomized trials. Eur Heart J. 2018 Jan 01;39(1):26-35. \[[PMC free article: PMC5837435](/pmc/articles/PMC5837435/)\] \[[PubMed: 29040525](https://pubmed.ncbi.nlm.nih.gov/29040525)\]
 
 77.
-    
 
-Pitt B, Pfeffer MA, Assmann SF, Boineau R, Anand IS, Claggett B, Clausell N, Desai AS, Diaz R, Fleg JL, Gordeev I, Harty B, Heitner JF, Kenwood CT, Lewis EF, O'Meara E, Probstfield JL, Shaburishvili T, Shah SJ, Solomon SD, Sweitzer NK, Yang S, McKinlay SM., TOPCAT Investigators. Spironolactone for heart failure with preserved ejection fraction. N Engl J Med. 2014 Apr 10;370(15):1383-92. [[PubMed: 24716680](https://pubmed.ncbi.nlm.nih.gov/24716680)]
+Pitt B, Pfeffer MA, Assmann SF, Boineau R, Anand IS, Claggett B, Clausell N, Desai AS, Diaz R, Fleg JL, Gordeev I, Harty B, Heitner JF, Kenwood CT, Lewis EF, O'Meara E, Probstfield JL, Shaburishvili T, Shah SJ, Solomon SD, Sweitzer NK, Yang S, McKinlay SM., TOPCAT Investigators. Spironolactone for heart failure with preserved ejection fraction. N Engl J Med. 2014 Apr 10;370(15):1383-92. \[[PubMed: 24716680](https://pubmed.ncbi.nlm.nih.gov/24716680)\]
 
 78.
-    
 
-Pfeffer MA, Claggett B, Assmann SF, Boineau R, Anand IS, Clausell N, Desai AS, Diaz R, Fleg JL, Gordeev I, Heitner JF, Lewis EF, O'Meara E, Rouleau JL, Probstfield JL, Shaburishvili T, Shah SJ, Solomon SD, Sweitzer NK, McKinlay SM, Pitt B. Regional variation in patients and outcomes in the Treatment of Preserved Cardiac Function Heart Failure With an Aldosterone Antagonist (TOPCAT) trial. Circulation. 2015 Jan 06;131(1):34-42. [[PubMed: 25406305](https://pubmed.ncbi.nlm.nih.gov/25406305)]
+Pfeffer MA, Claggett B, Assmann SF, Boineau R, Anand IS, Clausell N, Desai AS, Diaz R, Fleg JL, Gordeev I, Heitner JF, Lewis EF, O'Meara E, Rouleau JL, Probstfield JL, Shaburishvili T, Shah SJ, Solomon SD, Sweitzer NK, McKinlay SM, Pitt B. Regional variation in patients and outcomes in the Treatment of Preserved Cardiac Function Heart Failure With an Aldosterone Antagonist (TOPCAT) trial. Circulation. 2015 Jan 06;131(1):34-42. \[[PubMed: 25406305](https://pubmed.ncbi.nlm.nih.gov/25406305)\]
 
 79.
-    
 
-McMurray JJV, Jackson AM, Lam CSP, Redfield MM, Anand IS, Ge J, Lefkowitz MP, Maggioni AP, Martinez F, Packer M, Pfeffer MA, Pieske B, Rizkala AR, Sabarwal SV, Shah AM, Shah SJ, Shi VC, van Veldhuisen DJ, Zannad F, Zile MR, Cikes M, Goncalvesova E, Katova T, Kosztin A, Lelonek M, Sweitzer N, Vardeny O, Claggett B, Jhund PS, Solomon SD. Effects of Sacubitril-Valsartan Versus Valsartan in Women Compared With Men With Heart Failure and Preserved Ejection Fraction: Insights From PARAGON-HF. Circulation. 2020 Feb 04;141(5):338-351. [[PubMed: 31736337](https://pubmed.ncbi.nlm.nih.gov/31736337)]
+McMurray JJV, Jackson AM, Lam CSP, Redfield MM, Anand IS, Ge J, Lefkowitz MP, Maggioni AP, Martinez F, Packer M, Pfeffer MA, Pieske B, Rizkala AR, Sabarwal SV, Shah AM, Shah SJ, Shi VC, van Veldhuisen DJ, Zannad F, Zile MR, Cikes M, Goncalvesova E, Katova T, Kosztin A, Lelonek M, Sweitzer N, Vardeny O, Claggett B, Jhund PS, Solomon SD. Effects of Sacubitril-Valsartan Versus Valsartan in Women Compared With Men With Heart Failure and Preserved Ejection Fraction: Insights From PARAGON-HF. Circulation. 2020 Feb 04;141(5):338-351. \[[PubMed: 31736337](https://pubmed.ncbi.nlm.nih.gov/31736337)\]
 
 80.
-    
 
-Rist A, Sevre K, Wachtell K, Devereux RB, Aurigemma GP, Smiseth OA, Kjeldsen SE, Julius S, Pitt B, Burnier M, Kreutz R, Oparil S, Mancia G, Zannad F. The current best drug treatment for hypertensive heart failure with preserved ejection fraction. Eur J Intern Med. 2024 Feb;120:3-10. [[PubMed: 37865559](https://pubmed.ncbi.nlm.nih.gov/37865559)]
+Rist A, Sevre K, Wachtell K, Devereux RB, Aurigemma GP, Smiseth OA, Kjeldsen SE, Julius S, Pitt B, Burnier M, Kreutz R, Oparil S, Mancia G, Zannad F. The current best drug treatment for hypertensive heart failure with preserved ejection fraction. Eur J Intern Med. 2024 Feb;120:3-10. \[[PubMed: 37865559](https://pubmed.ncbi.nlm.nih.gov/37865559)\]
 
 81.
-    
 
-Solomon SD, McMurray JJV, Claggett B, de Boer RA, DeMets D, Hernandez AF, Inzucchi SE, Kosiborod MN, Lam CSP, Martinez F, Shah SJ, Desai AS, Jhund PS, Belohlavek J, Chiang CE, Borleffs CJW, Comin-Colet J, Dobreanu D, Drozdz J, Fang JC, Alcocer-Gamba MA, Al Habeeb W, Han Y, Cabrera Honorio JW, Janssens SP, Katova T, Kitakaze M, Merkely B, O'Meara E, Saraiva JFK, Tereshchenko SN, Thierer J, Vaduganathan M, Vardeny O, Verma S, Pham VN, Wilderäng U, Zaozerska N, Bachus E, Lindholm D, Petersson M, Langkilde AM., DELIVER Trial Committees and Investigators. Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. N Engl J Med. 2022 Sep 22;387(12):1089-1098. [[PubMed: 36027570](https://pubmed.ncbi.nlm.nih.gov/36027570)]
+Solomon SD, McMurray JJV, Claggett B, de Boer RA, DeMets D, Hernandez AF, Inzucchi SE, Kosiborod MN, Lam CSP, Martinez F, Shah SJ, Desai AS, Jhund PS, Belohlavek J, Chiang CE, Borleffs CJW, Comin-Colet J, Dobreanu D, Drozdz J, Fang JC, Alcocer-Gamba MA, Al Habeeb W, Han Y, Cabrera Honorio JW, Janssens SP, Katova T, Kitakaze M, Merkely B, O'Meara E, Saraiva JFK, Tereshchenko SN, Thierer J, Vaduganathan M, Vardeny O, Verma S, Pham VN, Wilderäng U, Zaozerska N, Bachus E, Lindholm D, Petersson M, Langkilde AM., DELIVER Trial Committees and Investigators. Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction. N Engl J Med. 2022 Sep 22;387(12):1089-1098. \[[PubMed: 36027570](https://pubmed.ncbi.nlm.nih.gov/36027570)\]
 
 82.
-    
 
-Anker SD, Butler J, Filippatos G, Ferreira JP, Bocchi E, Böhm M, Brunner-La Rocca HP, Choi DJ, Chopra V, Chuquiure-Valenzuela E, Giannetti N, Gomez-Mesa JE, Janssens S, Januzzi JL, Gonzalez-Juanatey JR, Merkely B, Nicholls SJ, Perrone SV, Piña IL, Ponikowski P, Senni M, Sim D, Spinar J, Squire I, Taddei S, Tsutsui H, Verma S, Vinereanu D, Zhang J, Carson P, Lam CSP, Marx N, Zeller C, Sattar N, Jamal W, Schnaidt S, Schnee JM, Brueckmann M, Pocock SJ, Zannad F, Packer M., EMPEROR-Preserved Trial Investigators. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. N Engl J Med. 2021 Oct 14;385(16):1451-1461. [[PubMed: 34449189](https://pubmed.ncbi.nlm.nih.gov/34449189)]
+Anker SD, Butler J, Filippatos G, Ferreira JP, Bocchi E, Böhm M, Brunner-La Rocca HP, Choi DJ, Chopra V, Chuquiure-Valenzuela E, Giannetti N, Gomez-Mesa JE, Janssens S, Januzzi JL, Gonzalez-Juanatey JR, Merkely B, Nicholls SJ, Perrone SV, Piña IL, Ponikowski P, Senni M, Sim D, Spinar J, Squire I, Taddei S, Tsutsui H, Verma S, Vinereanu D, Zhang J, Carson P, Lam CSP, Marx N, Zeller C, Sattar N, Jamal W, Schnaidt S, Schnee JM, Brueckmann M, Pocock SJ, Zannad F, Packer M., EMPEROR-Preserved Trial Investigators. Empagliflozin in Heart Failure with a Preserved Ejection Fraction. N Engl J Med. 2021 Oct 14;385(16):1451-1461. \[[PubMed: 34449189](https://pubmed.ncbi.nlm.nih.gov/34449189)\]
 
 83.
-    
 
-Böhm M, Butler J, Filippatos G, Ferreira JP, Pocock SJ, Abdin A, Mahfoud F, Brueckmann M, Gollop ND, Iwata T, Ponikowski P, Wanner C, Zannad F, Packer M, Anker SD., EMPEROR-Preserved Trial Committees and Investigators. Empagliflozin Improves Outcomes in Patients With Heart Failure and Preserved Ejection Fraction Irrespective of Age. J Am Coll Cardiol. 2022 Jul 05;80(1):1-18. [[PubMed: 35772911](https://pubmed.ncbi.nlm.nih.gov/35772911)]
+Böhm M, Butler J, Filippatos G, Ferreira JP, Pocock SJ, Abdin A, Mahfoud F, Brueckmann M, Gollop ND, Iwata T, Ponikowski P, Wanner C, Zannad F, Packer M, Anker SD., EMPEROR-Preserved Trial Committees and Investigators. Empagliflozin Improves Outcomes in Patients With Heart Failure and Preserved Ejection Fraction Irrespective of Age. J Am Coll Cardiol. 2022 Jul 05;80(1):1-18. \[[PubMed: 35772911](https://pubmed.ncbi.nlm.nih.gov/35772911)\]
 
 84.
-    
 
-Joglar JA, Chung MK, Armbruster AL, Benjamin EJ, Chyou JY, Cronin EM, Deswal A, Eckhardt LL, Goldberger ZD, Gopinathannair R, Gorenek B, Hess PL, Hlatky M, Hogan G, Ibeh C, Indik JH, Kido K, Kusumoto F, Link MS, Linta KT, Marcus GM, McCarthy PM, Patel N, Patton KK, Perez MV, Piccini JP, Russo AM, Sanders P, Streur MM, Thomas KL, Times S, Tisdale JE, Valente AM, Van Wagoner DR., Peer Review Committee Members. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2024 Jan 02;149(1):e1-e156. [[PMC free article: PMC11095842](/pmc/articles/PMC11095842/)] [[PubMed: 38033089](https://pubmed.ncbi.nlm.nih.gov/38033089)]
+Joglar JA, Chung MK, Armbruster AL, Benjamin EJ, Chyou JY, Cronin EM, Deswal A, Eckhardt LL, Goldberger ZD, Gopinathannair R, Gorenek B, Hess PL, Hlatky M, Hogan G, Ibeh C, Indik JH, Kido K, Kusumoto F, Link MS, Linta KT, Marcus GM, McCarthy PM, Patel N, Patton KK, Perez MV, Piccini JP, Russo AM, Sanders P, Streur MM, Thomas KL, Times S, Tisdale JE, Valente AM, Van Wagoner DR., Peer Review Committee Members. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2024 Jan 02;149(1):e1-e156. \[[PMC free article: PMC11095842](/pmc/articles/PMC11095842/)\] \[[PubMed: 38033089](https://pubmed.ncbi.nlm.nih.gov/38033089)\]
 
 85.
-    
 
-Alam A, Van Zyl J, Nayyar N, Hall S, Jermyn R. Improvement in Metabolic Co-Morbidities after Implantation of CardioMEMS in Patients with Heart Failure with Preserved Ejection Fraction Phenotype. J Clin Med. 2021 Sep 22;10(19) [[PMC free article: PMC8509547](/pmc/articles/PMC8509547/)] [[PubMed: 34640323](https://pubmed.ncbi.nlm.nih.gov/34640323)]
+Alam A, Van Zyl J, Nayyar N, Hall S, Jermyn R. Improvement in Metabolic Co-Morbidities after Implantation of CardioMEMS in Patients with Heart Failure with Preserved Ejection Fraction Phenotype. J Clin Med. 2021 Sep 22;10(19) \[[PMC free article: PMC8509547](/pmc/articles/PMC8509547/)\] \[[PubMed: 34640323](https://pubmed.ncbi.nlm.nih.gov/34640323)\]
 
 86.
-    
 
-Golla MSG, Brown KN, Gupta N. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Mar 4, 2023. Percutaneous Transluminal Coronary Arteriography. [[PubMed: 30844185](https://pubmed.ncbi.nlm.nih.gov/30844185)]
+Golla MSG, Brown KN, Gupta N. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Mar 4, 2023. Percutaneous Transluminal Coronary Arteriography. \[[PubMed: 30844185](https://pubmed.ncbi.nlm.nih.gov/30844185)\]
 
 87.
-    
 
-Datla S, Verberkt CA, Hoye A, Janssen DJA, Johnson MJ. Multi-disciplinary palliative care is effective in people with symptomatic heart failure: A systematic review and narrative synthesis. Palliat Med. 2019 Sep;33(8):1003-1016. [[PubMed: 31307276](https://pubmed.ncbi.nlm.nih.gov/31307276)]
+Datla S, Verberkt CA, Hoye A, Janssen DJA, Johnson MJ. Multi-disciplinary palliative care is effective in people with symptomatic heart failure: A systematic review and narrative synthesis. Palliat Med. 2019 Sep;33(8):1003-1016. \[[PubMed: 31307276](https://pubmed.ncbi.nlm.nih.gov/31307276)\]
 
 88.
-    
 
-Casarett D, Fishman J, O'Dwyer PJ, Barg FK, Naylor M, Asch DA. How should we design supportive cancer care? The patient's perspective. J Clin Oncol. 2008 Mar 10;26(8):1296-301. [[PubMed: 18323553](https://pubmed.ncbi.nlm.nih.gov/18323553)]
+Casarett D, Fishman J, O'Dwyer PJ, Barg FK, Naylor M, Asch DA. How should we design supportive cancer care? The patient's perspective. J Clin Oncol. 2008 Mar 10;26(8):1296-301. \[[PubMed: 18323553](https://pubmed.ncbi.nlm.nih.gov/18323553)\]
 
 89.
-    
 
-Waagstein F, Caidahl K, Wallentin I, Bergh CH, Hjalmarson A. Long-term beta-blockade in dilated cardiomyopathy. Effects of short- and long-term metoprolol treatment followed by withdrawal and readministration of metoprolol. Circulation. 1989 Sep;80(3):551-63. [[PubMed: 2548768](https://pubmed.ncbi.nlm.nih.gov/2548768)]
+Waagstein F, Caidahl K, Wallentin I, Bergh CH, Hjalmarson A. Long-term beta-blockade in dilated cardiomyopathy. Effects of short- and long-term metoprolol treatment followed by withdrawal and readministration of metoprolol. Circulation. 1989 Sep;80(3):551-63. \[[PubMed: 2548768](https://pubmed.ncbi.nlm.nih.gov/2548768)\]
 
 90.
-    
 
-Felker GM, Lee KL, Bull DA, Redfield MM, Stevenson LW, Goldsmith SR, LeWinter MM, Deswal A, Rouleau JL, Ofili EO, Anstrom KJ, Hernandez AF, McNulty SE, Velazquez EJ, Kfoury AG, Chen HH, Givertz MM, Semigran MJ, Bart BA, Mascette AM, Braunwald E, O'Connor CM., NHLBI Heart Failure Clinical Research Network. Diuretic strategies in patients with acute decompensated heart failure. N Engl J Med. 2011 Mar 03;364(9):797-805. [[PMC free article: PMC3412356](/pmc/articles/PMC3412356/)] [[PubMed: 21366472](https://pubmed.ncbi.nlm.nih.gov/21366472)]
+Felker GM, Lee KL, Bull DA, Redfield MM, Stevenson LW, Goldsmith SR, LeWinter MM, Deswal A, Rouleau JL, Ofili EO, Anstrom KJ, Hernandez AF, McNulty SE, Velazquez EJ, Kfoury AG, Chen HH, Givertz MM, Semigran MJ, Bart BA, Mascette AM, Braunwald E, O'Connor CM., NHLBI Heart Failure Clinical Research Network. Diuretic strategies in patients with acute decompensated heart failure. N Engl J Med. 2011 Mar 03;364(9):797-805. \[[PMC free article: PMC3412356](/pmc/articles/PMC3412356/)\] \[[PubMed: 21366472](https://pubmed.ncbi.nlm.nih.gov/21366472)\]
 
 91.
-    
 
-Brisco-Bacik MA, Ter Maaten JM, Houser SR, Vedage NA, Rao V, Ahmad T, Wilson FP, Testani JM. Outcomes Associated With a Strategy of Adjuvant Metolazone or High-Dose Loop Diuretics in Acute Decompensated Heart Failure: A Propensity Analysis. J Am Heart Assoc. 2018 Sep 18;7(18):e009149. [[PMC free article: PMC6222930](/pmc/articles/PMC6222930/)] [[PubMed: 30371181](https://pubmed.ncbi.nlm.nih.gov/30371181)]
+Brisco-Bacik MA, Ter Maaten JM, Houser SR, Vedage NA, Rao V, Ahmad T, Wilson FP, Testani JM. Outcomes Associated With a Strategy of Adjuvant Metolazone or High-Dose Loop Diuretics in Acute Decompensated Heart Failure: A Propensity Analysis. J Am Heart Assoc. 2018 Sep 18;7(18):e009149. \[[PMC free article: PMC6222930](/pmc/articles/PMC6222930/)\] \[[PubMed: 30371181](https://pubmed.ncbi.nlm.nih.gov/30371181)\]
 
 92.
-    
 
-Mullens W, Dauw J, Martens P, Verbrugge FH, Nijst P, Meekers E, Tartaglia K, Chenot F, Moubayed S, Dierckx R, Blouard P, Troisfontaines P, Derthoo D, Smolders W, Bruckers L, Droogne W, Ter Maaten JM, Damman K, Lassus J, Mebazaa A, Filippatos G, Ruschitzka F, Dupont M., ADVOR Study Group. Acetazolamide in Acute Decompensated Heart Failure with Volume Overload. N Engl J Med. 2022 Sep 29;387(13):1185-1195. [[PubMed: 36027559](https://pubmed.ncbi.nlm.nih.gov/36027559)]
+Mullens W, Dauw J, Martens P, Verbrugge FH, Nijst P, Meekers E, Tartaglia K, Chenot F, Moubayed S, Dierckx R, Blouard P, Troisfontaines P, Derthoo D, Smolders W, Bruckers L, Droogne W, Ter Maaten JM, Damman K, Lassus J, Mebazaa A, Filippatos G, Ruschitzka F, Dupont M., ADVOR Study Group. Acetazolamide in Acute Decompensated Heart Failure with Volume Overload. N Engl J Med. 2022 Sep 29;387(13):1185-1195. \[[PubMed: 36027559](https://pubmed.ncbi.nlm.nih.gov/36027559)\]
 
 93.
-    
 
-Kitai T, Miyakoshi C, Morimoto T, Yaku H, Murai R, Kaji S, Furukawa Y, Inuzuka Y, Nagao K, Tamaki Y, Yamamoto E, Ozasa N, Tang WHW, Kato T, Kimura T. Mode of Death Among Japanese Adults With Heart Failure With Preserved, Midrange, and Reduced Ejection Fraction. JAMA Netw Open. 2020 May 01;3(5):e204296. [[PMC free article: PMC7206504](/pmc/articles/PMC7206504/)] [[PubMed: 32379331](https://pubmed.ncbi.nlm.nih.gov/32379331)]
+Kitai T, Miyakoshi C, Morimoto T, Yaku H, Murai R, Kaji S, Furukawa Y, Inuzuka Y, Nagao K, Tamaki Y, Yamamoto E, Ozasa N, Tang WHW, Kato T, Kimura T. Mode of Death Among Japanese Adults With Heart Failure With Preserved, Midrange, and Reduced Ejection Fraction. JAMA Netw Open. 2020 May 01;3(5):e204296. \[[PMC free article: PMC7206504](/pmc/articles/PMC7206504/)\] \[[PubMed: 32379331](https://pubmed.ncbi.nlm.nih.gov/32379331)\]
 
 94.
-    
 
-Jones RC, Francis GS, Lauer MS. Predictors of mortality in patients with heart failure and preserved systolic function in the Digitalis Investigation Group trial. J Am Coll Cardiol. 2004 Sep 01;44(5):1025-9. [[PubMed: 15337214](https://pubmed.ncbi.nlm.nih.gov/15337214)]
+Jones RC, Francis GS, Lauer MS. Predictors of mortality in patients with heart failure and preserved systolic function in the Digitalis Investigation Group trial. J Am Coll Cardiol. 2004 Sep 01;44(5):1025-9. \[[PubMed: 15337214](https://pubmed.ncbi.nlm.nih.gov/15337214)\]
 
 95.
-    
 
-Schjødt I, Johnsen SP, Strömberg A, DeVore AD, Valentin JB, Løgstrup BB. Evidence-Based Process Performance Measures and Clinical Outcomes in Patients With Incident Heart Failure With Reduced Ejection Fraction: A Danish Nationwide Cohort Study. Circ Cardiovasc Qual Outcomes. 2022 Apr;15(4):e007973. [[PMC free article: PMC9015036](/pmc/articles/PMC9015036/)] [[PubMed: 35272503](https://pubmed.ncbi.nlm.nih.gov/35272503)]
+Schjødt I, Johnsen SP, Strömberg A, DeVore AD, Valentin JB, Løgstrup BB. Evidence-Based Process Performance Measures and Clinical Outcomes in Patients With Incident Heart Failure With Reduced Ejection Fraction: A Danish Nationwide Cohort Study. Circ Cardiovasc Qual Outcomes. 2022 Apr;15(4):e007973. \[[PMC free article: PMC9015036](/pmc/articles/PMC9015036/)\] \[[PubMed: 35272503](https://pubmed.ncbi.nlm.nih.gov/35272503)\]
 
 96.
-    
 
-Murray MD, Tu W, Wu J, Morrow D, Smith F, Brater DC. Factors associated with exacerbation of heart failure include treatment adherence and health literacy skills. Clin Pharmacol Ther. 2009 Jun;85(6):651-8. [[PMC free article: PMC2855238](/pmc/articles/PMC2855238/)] [[PubMed: 19262464](https://pubmed.ncbi.nlm.nih.gov/19262464)]
+Murray MD, Tu W, Wu J, Morrow D, Smith F, Brater DC. Factors associated with exacerbation of heart failure include treatment adherence and health literacy skills. Clin Pharmacol Ther. 2009 Jun;85(6):651-8. \[[PMC free article: PMC2855238](/pmc/articles/PMC2855238/)\] \[[PubMed: 19262464](https://pubmed.ncbi.nlm.nih.gov/19262464)\]
 
 97.
-    
 
-DeWalt DA, Schillinger D, Ruo B, Bibbins-Domingo K, Baker DW, Holmes GM, Weinberger M, Macabasco-O'Connell A, Broucksou K, Hawk V, Grady KL, Erman B, Sueta CA, Chang PP, Cene CW, Wu JR, Jones CD, Pignone M. Multisite randomized trial of a single-session versus multisession literacy-sensitive self-care intervention for patients with heart failure. Circulation. 2012 Jun 12;125(23):2854-62. [[PMC free article: PMC3400336](/pmc/articles/PMC3400336/)] [[PubMed: 22572916](https://pubmed.ncbi.nlm.nih.gov/22572916)]
-
-    
+DeWalt DA, Schillinger D, Ruo B, Bibbins-Domingo K, Baker DW, Holmes GM, Weinberger M, Macabasco-O'Connell A, Broucksou K, Hawk V, Grady KL, Erman B, Sueta CA, Chang PP, Cene CW, Wu JR, Jones CD, Pignone M. Multisite randomized trial of a single-session versus multisession literacy-sensitive self-care intervention for patients with heart failure. Circulation. 2012 Jun 12;125(23):2854-62. \[[PMC free article: PMC3400336](/pmc/articles/PMC3400336/)\] \[[PubMed: 22572916](https://pubmed.ncbi.nlm.nih.gov/22572916)\]
 
 **Disclosure:** Maheswara Satya Golla declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Pirbhat Shams declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19916/
-scraped_date: 2025-07-22 12:36:21 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19916/ scraped_date: 2025-07-22 12:36:21 UTC
 
 # Constrictive Pericarditis
 
@@ -27,13 +26,13 @@ The pericardium is the fibroelastic sac that covers the heart. Besides acting as
 
 **Objectives:**
 
-  * Identify the pathophysiology of constrictive pericarditis.
+- Identify the pathophysiology of constrictive pericarditis.
 
-  * Evaluate the presentation of a patient with constrictive pericarditis.
+- Evaluate the presentation of a patient with constrictive pericarditis.
 
-  * Differentiate the treatment options for constrictive pericarditis.
+- Differentiate the treatment options for constrictive pericarditis.
 
-  * Explain the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by constrictive pericarditis.
+- Explain the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected by constrictive pericarditis.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19916&utm_source=pubmed&utm_campaign=reviews&utm_content=19916)
 
@@ -67,19 +66,19 @@ The American College of Cardiology and the European Society of Cardiology guidel
 
 The M mode is very important to rule out constrictive pericarditis. The following features are frequently seen in constrictive pericarditis and An absence these features on M mode makes the diagnosis of constrictive pericarditis very unlikely.
 
-  * Posterior motion of ventricular septum on early diastole in inspiration 
+- Posterior motion of ventricular septum on early diastole in inspiration
 
-  * Absence of increase in systemic venous return with inspiration 
+- Absence of increase in systemic venous return with inspiration
 
-  * Premature opening of the pulmonic valve due to higher right ventricular diastolic pressure compared to pulmonary arterial pressure
+- Premature opening of the pulmonic valve due to higher right ventricular diastolic pressure compared to pulmonary arterial pressure
 
 Doppler ECHO is used to evaluate hemodynamics of the disease and may reveal the following:
 
-  * Abnormal passive filling of the ventricles in early diastole 
+- Abnormal passive filling of the ventricles in early diastole
 
-  * Increase in diastolic flow velocity across the tricuspid valve during inspiration and decrease during expiration 
+- Increase in diastolic flow velocity across the tricuspid valve during inspiration and decrease during expiration
 
-  * Exaggerated reduction in flow velocity in the pulmonary veins and across the mitral valve in inspiration and a leftward shift of ventricular septum 
+- Exaggerated reduction in flow velocity in the pulmonary veins and across the mitral valve in inspiration and a leftward shift of ventricular septum
 
 **Electrocardiogram**
 
@@ -95,142 +94,122 @@ A subset of patients may have a spontaneous resolution or may respond to medical
 
 The differential diagnosis for constrictive pericarditis includes:
 
-  * Cardiac sarcoma
+- Cardiac sarcoma
 
-  * Cardiac tamponade
+- Cardiac tamponade
 
-  * Dilated cardiac myopathy
+- Dilated cardiac myopathy
 
-  * HIV infections and AIDS
+- HIV infections and AIDS
 
-  * Hemochromatosis
+- Hemochromatosis
 
-  * Nephrotic syndrome
+- Nephrotic syndrome
 
-  * Ovarian cancer
+- Ovarian cancer
 
-  * Pericardial effusion
+- Pericardial effusion
 
-  * Sarcoidosis
+- Sarcoidosis
 
-  * Tricuspid regurgitation
+- Tricuspid regurgitation
 
 ## Complications
 
 The complications that can manifest with constrictive pericarditis are as follows:
 
-  * Pulmonary hypertension
+- Pulmonary hypertension
 
-  * Hepatomegaly
+- Hepatomegaly
 
-  * Renal failure
+- Renal failure
 
-  * Metabolic acidosis
+- Metabolic acidosis
 
-  * Hypoxia
+- Hypoxia
 
-  * Shock
+- Shock
 
-  * Death
+- Death
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 In the US, constrictive pericarditis is not common, and long-term data are scarce. Anecdotal reports suggest that when the diagnosis is made early, the outcomes are good. But if the disorder is misdiagnosed or untreated, mortality rates in excess of 90% are common. For patients who undergo pericardiectomy, the 10-year survival is about 50%. Medical therapy alone leads to a poor life expectancy. The long-term survival after constrictive pericarditis depends on the cause. The worst outcomes are in patients with radiation-induced constrictive pericarditis and the best outcomes are seen in patients following open heart surgery. Negative prognostic factors include advanced age, renal malfunction, low ejection fraction and elevated pulmonary artery pressures. Most patients who are untreated quickly develop multiorgan dysfunction, hypoxia and metabolic acidosis. Patients should be promptly referred to a tertiary care center which specializes in the management of constrictive pericarditis when treatment is not available at the presenting hospital.[14][15][16]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19916&utm_source=pubmed&utm_campaign=reviews&utm_content=19916)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=19916&utm_source=pubmed&utm_campaign=reviews&utm_content=19916)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/constrictive-pericarditis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=19916)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/constrictive-pericarditis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=19916)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19916/?utm_source=pubmed&utm_campaign=comments&utm_content=19916)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/19916/?utm_source=pubmed&utm_campaign=comments&utm_content=19916)
 
 ## References
 
 1.
-    
 
-Maisch B. [Management of pericarditis and pericardial effusion, constrictive and effusive-constrictive pericarditis]. Herz. 2018 Nov;43(7):663-678. [[PubMed: 30315402](https://pubmed.ncbi.nlm.nih.gov/30315402)]
+Maisch B. [Management of pericarditis and pericardial effusion, constrictive and effusive-constrictive pericarditis]. Herz. 2018 Nov;43(7):663-678. \[[PubMed: 30315402](https://pubmed.ncbi.nlm.nih.gov/30315402)\]
 
 2.
-    
 
-Mukai-Yatagai N, Haruki N, Kinugasa Y, Ohta Y, Ishibashi-Ueda H, Akasaka T, Kato M, Ogawa T, Yamamoto K. Assessment of myocardial fibrosis using T1-mapping and extracellular volume measurement on cardiac magnetic resonance imaging for the diagnosis of radiation-induced cardiomyopathy. J Cardiol Cases. 2018 Oct;18(4):132-135. [[PMC free article: PMC6149610](/pmc/articles/PMC6149610/)] [[PubMed: 30279930](https://pubmed.ncbi.nlm.nih.gov/30279930)]
+Mukai-Yatagai N, Haruki N, Kinugasa Y, Ohta Y, Ishibashi-Ueda H, Akasaka T, Kato M, Ogawa T, Yamamoto K. Assessment of myocardial fibrosis using T1-mapping and extracellular volume measurement on cardiac magnetic resonance imaging for the diagnosis of radiation-induced cardiomyopathy. J Cardiol Cases. 2018 Oct;18(4):132-135. \[[PMC free article: PMC6149610](/pmc/articles/PMC6149610/)\] \[[PubMed: 30279930](https://pubmed.ncbi.nlm.nih.gov/30279930)\]
 
 3.
-    
 
-Pessinaba S, Sonhaye L, Agbétiafa M, Wossinu Quacoe M, Aloumon M, Yayehd K, Amadou L, d'Alméida R, Damorou F. [The chronic constrictive pericarditis, a real calcified gangue realizing a mid-ventricular bottleneck: A case report]. Ann Cardiol Angeiol (Paris). 2019 Apr;68(2):125-128. [[PubMed: 30149893](https://pubmed.ncbi.nlm.nih.gov/30149893)]
+Pessinaba S, Sonhaye L, Agbétiafa M, Wossinu Quacoe M, Aloumon M, Yayehd K, Amadou L, d'Alméida R, Damorou F. [The chronic constrictive pericarditis, a real calcified gangue realizing a mid-ventricular bottleneck: A case report]. Ann Cardiol Angeiol (Paris). 2019 Apr;68(2):125-128. \[[PubMed: 30149893](https://pubmed.ncbi.nlm.nih.gov/30149893)\]
 
 4.
-    
 
-Wang FF, Hsu J, Jia FW, Lin X, Miao Q, Chen W, Fang LG. Left ventricular strain is associated with acute postoperative refractory hypotension in patients with constrictive pericarditis and preserved ejection fraction. J Thorac Dis. 2018 Jul;10(7):4147-4155. [[PMC free article: PMC6105971](/pmc/articles/PMC6105971/)] [[PubMed: 30174859](https://pubmed.ncbi.nlm.nih.gov/30174859)]
+Wang FF, Hsu J, Jia FW, Lin X, Miao Q, Chen W, Fang LG. Left ventricular strain is associated with acute postoperative refractory hypotension in patients with constrictive pericarditis and preserved ejection fraction. J Thorac Dis. 2018 Jul;10(7):4147-4155. \[[PMC free article: PMC6105971](/pmc/articles/PMC6105971/)\] \[[PubMed: 30174859](https://pubmed.ncbi.nlm.nih.gov/30174859)\]
 
 5.
-    
 
-Albarrán AA, González JAB, García JMM. "Malignant" Chronic Constrictive Pericarditis. Eurasian J Med. 2018 Jun;50(2):140. [[PMC free article: PMC6039145](/pmc/articles/PMC6039145/)] [[PubMed: 30002587](https://pubmed.ncbi.nlm.nih.gov/30002587)]
+Albarrán AA, González JAB, García JMM. "Malignant" Chronic Constrictive Pericarditis. Eurasian J Med. 2018 Jun;50(2):140. \[[PMC free article: PMC6039145](/pmc/articles/PMC6039145/)\] \[[PubMed: 30002587](https://pubmed.ncbi.nlm.nih.gov/30002587)\]
 
 6.
-    
 
-Fernandes F, Melo DTP, Ramires FJA, Dias RR, Tonini M, Fernandes VDS, Rochitte CE, Moreira CHV, Mady C. Importance of Clinical and Laboratory Findings in the Diagnosis and Surgical Prognosis of Patients with Constrictive Pericarditis. Arq Bras Cardiol. 2017 Nov;109(5):457-465. [[PMC free article: PMC5729782](/pmc/articles/PMC5729782/)] [[PubMed: 28977057](https://pubmed.ncbi.nlm.nih.gov/28977057)]
+Fernandes F, Melo DTP, Ramires FJA, Dias RR, Tonini M, Fernandes VDS, Rochitte CE, Moreira CHV, Mady C. Importance of Clinical and Laboratory Findings in the Diagnosis and Surgical Prognosis of Patients with Constrictive Pericarditis. Arq Bras Cardiol. 2017 Nov;109(5):457-465. \[[PMC free article: PMC5729782](/pmc/articles/PMC5729782/)\] \[[PubMed: 28977057](https://pubmed.ncbi.nlm.nih.gov/28977057)\]
 
 7.
-    
 
-Murashita T, Schaff HV, Daly RC, Oh JK, Dearani JA, Stulak JM, King KS, Greason KL. Experience With Pericardiectomy for Constrictive Pericarditis Over Eight Decades. Ann Thorac Surg. 2017 Sep;104(3):742-750. [[PubMed: 28760468](https://pubmed.ncbi.nlm.nih.gov/28760468)]
+Murashita T, Schaff HV, Daly RC, Oh JK, Dearani JA, Stulak JM, King KS, Greason KL. Experience With Pericardiectomy for Constrictive Pericarditis Over Eight Decades. Ann Thorac Surg. 2017 Sep;104(3):742-750. \[[PubMed: 28760468](https://pubmed.ncbi.nlm.nih.gov/28760468)\]
 
 8.
-    
 
-Klein AL, Cremer PC. Ephemeral Effusive Constrictive Pathophysiology. JACC Cardiovasc Imaging. 2018 Apr;11(4):542-545. [[PubMed: 29622178](https://pubmed.ncbi.nlm.nih.gov/29622178)]
+Klein AL, Cremer PC. Ephemeral Effusive Constrictive Pathophysiology. JACC Cardiovasc Imaging. 2018 Apr;11(4):542-545. \[[PubMed: 29622178](https://pubmed.ncbi.nlm.nih.gov/29622178)\]
 
 9.
-    
 
-Welch TD, Oh JK. Constrictive Pericarditis. Cardiol Clin. 2017 Nov;35(4):539-549. [[PubMed: 29025545](https://pubmed.ncbi.nlm.nih.gov/29025545)]
+Welch TD, Oh JK. Constrictive Pericarditis. Cardiol Clin. 2017 Nov;35(4):539-549. \[[PubMed: 29025545](https://pubmed.ncbi.nlm.nih.gov/29025545)\]
 
 10.
-    
 
-Akiyama K, Itatani K, Yamashita A, Sawa T. Visualization of suppressed intraventricular flow by constrictive pericarditis. J Clin Anesth. 2017 Nov;42:40-41. [[PubMed: 28800477](https://pubmed.ncbi.nlm.nih.gov/28800477)]
+Akiyama K, Itatani K, Yamashita A, Sawa T. Visualization of suppressed intraventricular flow by constrictive pericarditis. J Clin Anesth. 2017 Nov;42:40-41. \[[PubMed: 28800477](https://pubmed.ncbi.nlm.nih.gov/28800477)\]
 
 11.
-    
 
-Imazio M. [Ten questions about constrictive pericarditis]. G Ital Cardiol (Rome). 2018 Jul-Aug;19(7):412-419. [[PubMed: 29989598](https://pubmed.ncbi.nlm.nih.gov/29989598)]
+Imazio M. [Ten questions about constrictive pericarditis]. G Ital Cardiol (Rome). 2018 Jul-Aug;19(7):412-419. \[[PubMed: 29989598](https://pubmed.ncbi.nlm.nih.gov/29989598)\]
 
 12.
-    
 
-Rehman KA, Betancor J, Xu B, Kumar A, Rivas CG, Sato K, Wong LP, Asher CR, Klein AL. Uremic pericarditis, pericardial effusion, and constrictive pericarditis in end-stage renal disease: Insights and pathophysiology. Clin Cardiol. 2017 Oct;40(10):839-846. [[PMC free article: PMC6490618](/pmc/articles/PMC6490618/)] [[PubMed: 28873222](https://pubmed.ncbi.nlm.nih.gov/28873222)]
+Rehman KA, Betancor J, Xu B, Kumar A, Rivas CG, Sato K, Wong LP, Asher CR, Klein AL. Uremic pericarditis, pericardial effusion, and constrictive pericarditis in end-stage renal disease: Insights and pathophysiology. Clin Cardiol. 2017 Oct;40(10):839-846. \[[PMC free article: PMC6490618](/pmc/articles/PMC6490618/)\] \[[PubMed: 28873222](https://pubmed.ncbi.nlm.nih.gov/28873222)\]
 
 13.
-    
 
-Fardman A, Charron P, Imazio M, Adler Y. European Guidelines on Pericardial Diseases: a Focused Review of Novel Aspects. Curr Cardiol Rep. 2016 May;18(5):46. [[PubMed: 27007597](https://pubmed.ncbi.nlm.nih.gov/27007597)]
+Fardman A, Charron P, Imazio M, Adler Y. European Guidelines on Pericardial Diseases: a Focused Review of Novel Aspects. Curr Cardiol Rep. 2016 May;18(5):46. \[[PubMed: 27007597](https://pubmed.ncbi.nlm.nih.gov/27007597)\]
 
 14.
-    
 
-Armanious MA, Mohammadi H, Khodor S, Oliver DE, Johnstone PA, Fradley MG. Cardiovascular effects of radiation therapy. Curr Probl Cancer. 2018 Jul;42(4):433-442. [[PubMed: 30006103](https://pubmed.ncbi.nlm.nih.gov/30006103)]
+Armanious MA, Mohammadi H, Khodor S, Oliver DE, Johnstone PA, Fradley MG. Cardiovascular effects of radiation therapy. Curr Probl Cancer. 2018 Jul;42(4):433-442. \[[PubMed: 30006103](https://pubmed.ncbi.nlm.nih.gov/30006103)\]
 
 15.
-    
 
-Nachum E, Sternik L, Kassif Y, Raanani E, Hay I, Shalabi A, Buber J. Surgical Pericardiectomy for Constrictive Pericarditis: A Single Tertiary Center Experience. Thorac Cardiovasc Surg. 2020 Dec;68(8):730-736. [[PubMed: 29804284](https://pubmed.ncbi.nlm.nih.gov/29804284)]
+Nachum E, Sternik L, Kassif Y, Raanani E, Hay I, Shalabi A, Buber J. Surgical Pericardiectomy for Constrictive Pericarditis: A Single Tertiary Center Experience. Thorac Cardiovasc Surg. 2020 Dec;68(8):730-736. \[[PubMed: 29804284](https://pubmed.ncbi.nlm.nih.gov/29804284)\]
 
 16.
-    
 
-Nozohoor S, Johansson M, Koul B, Cunha-Goncalves D. Radical pericardiectomy for chronic constrictive pericarditis. J Card Surg. 2018 Jun;33(6):301-307. [[PubMed: 29761570](https://pubmed.ncbi.nlm.nih.gov/29761570)]
-
-    
+Nozohoor S, Johansson M, Koul B, Cunha-Goncalves D. Radical pericardiectomy for chronic constrictive pericarditis. J Card Surg. 2018 Jun;33(6):301-307. \[[PubMed: 29761570](https://pubmed.ncbi.nlm.nih.gov/29761570)\]
 
 **Disclosure:** Niraj Yadav declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Momin Siddique declares no relevant financial relationships with ineligible companies.

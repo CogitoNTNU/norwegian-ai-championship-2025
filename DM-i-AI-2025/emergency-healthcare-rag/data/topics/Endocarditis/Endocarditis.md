@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17751/
-scraped_date: 2025-07-22 12:36:37 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17751/ scraped_date: 2025-07-22 12:36:37 UTC
 
 # Aortic Valve Endocarditis
 
@@ -29,13 +28,13 @@ Infective endocarditis occurs globally and is defined by the infection of the en
 
 **Objectives:**
 
-  * Describe the etiologic pathogens commonly associated with infective endocarditis.
+- Describe the etiologic pathogens commonly associated with infective endocarditis.
 
-  * Outline the common signs and symptoms associated with infective endocarditis.
+- Outline the common signs and symptoms associated with infective endocarditis.
 
-  * Summarize the management of infective endocarditis based on pathogen susceptibility.
+- Summarize the management of infective endocarditis based on pathogen susceptibility.
 
-  * Explain the importance of interprofessional team strategies for improving care coordination and communication to aid in the diagnosis and management of infective endocarditis and improving outcomes in patients diagnosed with the condition.
+- Explain the importance of interprofessional team strategies for improving care coordination and communication to aid in the diagnosis and management of infective endocarditis and improving outcomes in patients diagnosed with the condition.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17751&utm_source=pubmed&utm_campaign=reviews&utm_content=17751)
 
@@ -67,31 +66,31 @@ Signs of neurological dysfunction due to an embolic stroke may be found in at le
 
 The Modified Duke Criteria are applicable in the evaluation of patients suspected of infective endocarditis. Three categories include definite infective endocarditis, possible infective endocarditis, or rejected infective endocarditis.[5]
 
-Definite infective endocarditis further subclassifies into[6][5][7]:
+Definite infective endocarditis further subclassifies into[6][5]\[7\]:
 
-  * Definite infective endocarditis by pathological criteria: where microorganisms are present on culture or histologic examination of the vegetation, embolized vegetation or an intracardiac abscess, or pathological lesions demonstrating active endocarditis
+- Definite infective endocarditis by pathological criteria: where microorganisms are present on culture or histologic examination of the vegetation, embolized vegetation or an intracardiac abscess, or pathological lesions demonstrating active endocarditis
 
-  * Definite infective endocarditis by clinical criteria: defined by the presence of two major criteria, one major criterion plus three minor criteria, or five minor criteria in The Modified Duke Criteria
+- Definite infective endocarditis by clinical criteria: defined by the presence of two major criteria, one major criterion plus three minor criteria, or five minor criteria in The Modified Duke Criteria
 
-Major clinical criteria are defined as follows[5]:
+Major clinical criteria are defined as follows\[5\]:
 
-  * Multiple positive blood cultures, single positive culture for _Coxiella burnetii_ or antiphase I IgG antibody titer greater than 1 to 800
+- Multiple positive blood cultures, single positive culture for _Coxiella burnetii_ or antiphase I IgG antibody titer greater than 1 to 800
 
-  * Endocardial involvement (presence of new valvular regurgitation)
+- Endocardial involvement (presence of new valvular regurgitation)
 
-  * Presence of vegetation, abscess, or dehiscence (worsening or a change of pre-existing murmur does not meet criteria)
+- Presence of vegetation, abscess, or dehiscence (worsening or a change of pre-existing murmur does not meet criteria)
 
-Minor clinical criteria are as follows[5]:
+Minor clinical criteria are as follows\[5\]:
 
-  * Predisposing heart condition or use of intravenous drug use
+- Predisposing heart condition or use of intravenous drug use
 
-  * Fever with body temperature greater than 38 degrees C (100.4 degrees F)
+- Fever with body temperature greater than 38 degrees C (100.4 degrees F)
 
-  * Vascular phenomena: arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, and Janeway lesion
+- Vascular phenomena: arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, and Janeway lesion
 
-  * Immunologic phenomena: glomerulonephritis, Osler nodes, Roth spots, rheumatoid factor, and
+- Immunologic phenomena: glomerulonephritis, Osler nodes, Roth spots, rheumatoid factor, and
 
-  * Positive blood culture that does not meet the major criteria
+- Positive blood culture that does not meet the major criteria
 
 Possible infective endocarditis criteria are when there are one major criterion and one minor criterion or three minor criteria present. Rejected infective endocarditis is defined when there is likely an alternative diagnosis, or there is no pathological evidence of IE with fewer than 4 days of antibiotic therapy or there is the resolution of clinical symptoms with fewer than 4 days of antibiotic therapy.[5]
 
@@ -99,13 +98,13 @@ It is important to note that prior antibiotic therapy may mask the histopatholog
 
 Significant echocardiographic findings include:
 
-  * Myocardial abscess
+- Myocardial abscess
 
-  * New-onset valvular regurgitation
+- New-onset valvular regurgitation
 
-  * Oscillating intracardiac mass on a valve
+- Oscillating intracardiac mass on a valve
 
-  * Partial dehiscence of a prosthetic valve
+- Partial dehiscence of a prosthetic valve
 
 The ECG may show a conduction block or delay in about 10% of patients. A new conduction block usually indicates the involvement of the septum and is a poor prognostic sign.
 
@@ -113,41 +112,41 @@ CT of the head is done in patients who exhibit neurological deficits.
 
 ## Treatment / Management
 
-The American Heart Association published its updated guidelines for infective endocarditis in 2015.[8] In those guidelines, specific recommendations are for the following[8]:
+The American Heart Association published its updated guidelines for infective endocarditis in 2015.[8] In those guidelines, specific recommendations are for the following\[8\]:
 
-  * Native valve highly susceptible (MIC less than or equal to 0.12 mcg/ml) viridans group streptococci (VGS) infective endocarditis
+- Native valve highly susceptible (MIC less than or equal to 0.12 mcg/ml) viridans group streptococci (VGS) infective endocarditis
 
-  * VGS and _S. gallolyticus_ (_bovis_) with MIC greater than 0.12 to less than 0.5 mcg/ml
+- VGS and _S. gallolyticus_ (_bovis_) with MIC greater than 0.12 to less than 0.5 mcg/ml
 
-  * A defective and Granulicatella species, and VGS with penicillin MIC greater than or equal to 0.5 mcg/ml
+- A defective and Granulicatella species, and VGS with penicillin MIC greater than or equal to 0.5 mcg/ml
 
-  * VGS or _S. gallolyticus_ involving prosthetic material
+- VGS or _S. gallolyticus_ involving prosthetic material
 
-  * Staphylococci, Staphylococci involving prosthetic material
+- Staphylococci, Staphylococci involving prosthetic material
 
-  * Enterococci, HACEK micro-organisms
+- Enterococci, HACEK micro-organisms
 
-  * Non-HACEK gram-negative bacilli, culture-negative endocarditis, and fungi
+- Non-HACEK gram-negative bacilli, culture-negative endocarditis, and fungi
 
 Recommendations for antimicrobial therapy, according to the causative pathogen are complex and well summarized in the 2015 American Heart Association practice guidelines.[8] Treatment for left-sided infective endocarditis (aortic and mitral) is similar, and the recommendations are based on the pathogen, its susceptibility, timeline (acute vs. subacute), and whether it is native or prosthetic valve infective endocarditis. Generally speaking, for subacute native valve infective endocarditis, _S. viridans_ and _enterococci_ need to be covered, and the usual treatment involves IV penicillin (2.4 g, every 4 hours) for up to 4 weeks with gentamicin (1 mg/kg, every 12 hours) for 2 weeks (for suspected aminoglycoside-susceptible enterococci).
 
 Adjunctive therapy with aminoglycosides for native valve infective endocarditis is not recommended because of the risk of renal toxicity and because it doesn’t decrease mortality. Likewise, rifampin is not recommended because of the risk of hepatotoxicity. However, if the culprit is aminoglycoside-susceptible enterococci, then gentamicin can be added to the regimen.[9] Additionally, for prosthetic valve infective endocarditis, the combination therapy of vancomycin and aminoglycoside or rifampin is acceptable. For acute native valve, infective endocarditis treatment _S. aureus_ needs to be covered. The treatment includes nafcillin for methicillin-susceptible _S. aureus_ (MSSA) or cefazolin if patients are allergic to nafcillin. For methicillin-resistant _Staphylococcus aureus_ (MRSA), vancomycin is the recommended antibiotic. The alternative is daptomycin, which requires closer monitoring for dosing. _Candida_ and _Aspergillus_ may respond to medical therapy 5-fluorouracil and amphotericin B respectively, however, these patients frequently require surgical therapy. Among patients with mechanical valve endocarditis who have experienced a central nervous system embolic event, it is reasonable to discontinue for 2 weeks all forms of anticoagulation.[8]
 
-If medical therapy fails, surgical intervention is often necessary. Class I indications for surgery in patients with infective endocarditis include valvular dysfunction with symptoms of congestive heart failure, left-sided infective endocarditis caused by _Staphylococcus aureus_ , fungal, or other highly resistant microorganisms, infective endocarditis with conduction defects or heart block, annular or aortic abscess, persistent infection 5 to 7 days after initiation of antibiotic therapy [10]. For native valve endocarditis, eradication of the infected valvular tissue with subsequent valve repair or replacement is the primary therapy. 
+If medical therapy fails, surgical intervention is often necessary. Class I indications for surgery in patients with infective endocarditis include valvular dysfunction with symptoms of congestive heart failure, left-sided infective endocarditis caused by _Staphylococcus aureus_ , fungal, or other highly resistant microorganisms, infective endocarditis with conduction defects or heart block, annular or aortic abscess, persistent infection 5 to 7 days after initiation of antibiotic therapy [10]. For native valve endocarditis, eradication of the infected valvular tissue with subsequent valve repair or replacement is the primary therapy.
 
 Indications for Surgery
 
-  * CHF that is refractory to treatment
+- CHF that is refractory to treatment
 
-  * Fungal endocarditis
+- Fungal endocarditis
 
-  * Recurrent septic emboli despite antibiotic treatment
+- Recurrent septic emboli despite antibiotic treatment
 
-  * Persistent sepsis despite antibiotic treatment
+- Persistent sepsis despite antibiotic treatment
 
-  * Rupture sinus of Valsalva aneurysm
+- Rupture sinus of Valsalva aneurysm
 
-  * Conduction defect due to a septal abscess
+- Conduction defect due to a septal abscess
 
 There are several options for treating aortic valve endocarditis depending on the surgeon's experience and preferences. In the past, cryopreserved homografts were often utilized and had good outcomes. But these homografts have fallen out of favor because of recalcification and the need for another surgery. In addition, the implantation of a homograft does require skill. Today, aortic valve endocarditis is managed with the use of biological stentless valves. These valves have a long shelf life and are available in many sizes. However, they still require some technical skills to get the best outcomes.
 
@@ -157,15 +156,15 @@ For native valve endocarditis limited to the leaflets/cusps, repair should be pe
 
 The principal differential diagnoses for infective endocarditis include the following:
 
-  1. Nonbacterial thrombotic endocarditis which was formerly known as marantic endocarditis - causes small sterile vegetations on the valve leaflets; predisposing conditions for this include certain malignancies and hypercoagulable states
+1. Nonbacterial thrombotic endocarditis which was formerly known as marantic endocarditis - causes small sterile vegetations on the valve leaflets; predisposing conditions for this include certain malignancies and hypercoagulable states
 
-  2. Libman–Sacks endocarditis: causes verrucous vegetations and is associated with systemic lupus erythematosus
+1. Libman–Sacks endocarditis: causes verrucous vegetations and is associated with systemic lupus erythematosus
 
-  3. Vasculitis
+1. Vasculitis
 
-  4. Connective tissue disease
+1. Connective tissue disease
 
-  5. Fever of unknown origin
+1. Fever of unknown origin
 
 ## Prognosis
 
@@ -177,9 +176,9 @@ Aortic valve endocarditis complications include congestive heart failure due to 
 
 ## Deterrence and Patient Education
 
-Early recognition and timely management of infective endocarditis are imperative to ensure optimal clinical outcomes. Patients should receive education regarding the prognosis, risk factors, signs and symptoms, and management aspects of infective endocarditis. 
+Early recognition and timely management of infective endocarditis are imperative to ensure optimal clinical outcomes. Patients should receive education regarding the prognosis, risk factors, signs and symptoms, and management aspects of infective endocarditis.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Aortic valve infective endocarditis is a life-threatening condition with a poor prognosis. Despite technological advances over the past few decades, mortality remains high. Early recognition and prompt institution of antimicrobial therapy can help optimize patient outcomes. an interprofessional approach involves physicians, specialists, specialty-trained nurses, physician assistants, and pharmacists, all collaborating across disciplines to achieve optimal patient results. [Level 5]
 
@@ -191,82 +190,64 @@ Open communication between the clinicians and specialists is vital to ensure tha
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17751&utm_source=pubmed&utm_campaign=reviews&utm_content=17751)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=17751&utm_source=pubmed&utm_campaign=reviews&utm_content=17751)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/aortic-valve-endocarditis-infective-endocarditis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17751)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/aortic-valve-endocarditis-infective-endocarditis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=17751)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17751/?utm_source=pubmed&utm_campaign=comments&utm_content=17751)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/17751/?utm_source=pubmed&utm_campaign=comments&utm_content=17751)
 
 ## References
 
 1.
-    
 
-Cahill TJ, Prendergast BD. Infective endocarditis. Lancet. 2016 Feb 27;387(10021):882-93. [[PubMed: 26341945](https://pubmed.ncbi.nlm.nih.gov/26341945)]
+Cahill TJ, Prendergast BD. Infective endocarditis. Lancet. 2016 Feb 27;387(10021):882-93. \[[PubMed: 26341945](https://pubmed.ncbi.nlm.nih.gov/26341945)\]
 
 2.
-    
 
-Pant S, Patel NJ, Deshmukh A, Golwala H, Patel N, Badheka A, Hirsch GA, Mehta JL. Trends in infective endocarditis incidence, microbiology, and valve replacement in the United States from 2000 to 2011. J Am Coll Cardiol. 2015 May 19;65(19):2070-6. [[PubMed: 25975469](https://pubmed.ncbi.nlm.nih.gov/25975469)]
+Pant S, Patel NJ, Deshmukh A, Golwala H, Patel N, Badheka A, Hirsch GA, Mehta JL. Trends in infective endocarditis incidence, microbiology, and valve replacement in the United States from 2000 to 2011. J Am Coll Cardiol. 2015 May 19;65(19):2070-6. \[[PubMed: 25975469](https://pubmed.ncbi.nlm.nih.gov/25975469)\]
 
 3.
-    
 
-Bishop MA, Chhabra L, Parekh A, Bhyan P, Khalid N. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Feb 2, 2024. Minimally Invasive Aortic Valve Surgery. [[PubMed: 29261951](https://pubmed.ncbi.nlm.nih.gov/29261951)]
+Bishop MA, Chhabra L, Parekh A, Bhyan P, Khalid N. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Feb 2, 2024. Minimally Invasive Aortic Valve Surgery. \[[PubMed: 29261951](https://pubmed.ncbi.nlm.nih.gov/29261951)\]
 
 4.
-    
 
-Sullam PM, Drake TA, Sande MA. Pathogenesis of endocarditis. Am J Med. 1985 Jun 28;78(6B):110-5. [[PubMed: 4014276](https://pubmed.ncbi.nlm.nih.gov/4014276)]
+Sullam PM, Drake TA, Sande MA. Pathogenesis of endocarditis. Am J Med. 1985 Jun 28;78(6B):110-5. \[[PubMed: 4014276](https://pubmed.ncbi.nlm.nih.gov/4014276)\]
 
 5.
-    
 
-Nishimura RA, Otto CM, Bonow RO, Carabello BA, Erwin JP, Guyton RA, O'Gara PT, Ruiz CE, Skubas NJ, Sorajja P, Sundt TM, Thomas JD, Anderson JL, Halperin JL, Albert NM, Bozkurt B, Brindis RG, Creager MA, Curtis LH, DeMets D, Guyton RA, Hochman JS, Kovacs RJ, Ohman EM, Pressler SJ, Sellke FW, Shen WK, Stevenson WG, Yancy CW., American College of Cardiology. American College of Cardiology/American Heart Association. American Heart Association. 2014 AHA/ACC guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Thorac Cardiovasc Surg. 2014 Jul;148(1):e1-e132. [[PubMed: 24939033](https://pubmed.ncbi.nlm.nih.gov/24939033)]
+Nishimura RA, Otto CM, Bonow RO, Carabello BA, Erwin JP, Guyton RA, O'Gara PT, Ruiz CE, Skubas NJ, Sorajja P, Sundt TM, Thomas JD, Anderson JL, Halperin JL, Albert NM, Bozkurt B, Brindis RG, Creager MA, Curtis LH, DeMets D, Guyton RA, Hochman JS, Kovacs RJ, Ohman EM, Pressler SJ, Sellke FW, Shen WK, Stevenson WG, Yancy CW., American College of Cardiology. American College of Cardiology/American Heart Association. American Heart Association. 2014 AHA/ACC guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Thorac Cardiovasc Surg. 2014 Jul;148(1):e1-e132. \[[PubMed: 24939033](https://pubmed.ncbi.nlm.nih.gov/24939033)\]
 
 6.
-    
 
-Durack DT, Lukes AS, Bright DK. New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic findings. Duke Endocarditis Service. Am J Med. 1994 Mar;96(3):200-9. [[PubMed: 8154507](https://pubmed.ncbi.nlm.nih.gov/8154507)]
+Durack DT, Lukes AS, Bright DK. New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic findings. Duke Endocarditis Service. Am J Med. 1994 Mar;96(3):200-9. \[[PubMed: 8154507](https://pubmed.ncbi.nlm.nih.gov/8154507)\]
 
 7.
-    
 
-Li JS, Sexton DJ, Mick N, Nettles R, Fowler VG, Ryan T, Bashore T, Corey GR. Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis. Clin Infect Dis. 2000 Apr;30(4):633-8. [[PubMed: 10770721](https://pubmed.ncbi.nlm.nih.gov/10770721)]
+Li JS, Sexton DJ, Mick N, Nettles R, Fowler VG, Ryan T, Bashore T, Corey GR. Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis. Clin Infect Dis. 2000 Apr;30(4):633-8. \[[PubMed: 10770721](https://pubmed.ncbi.nlm.nih.gov/10770721)\]
 
 8.
-    
 
-Baddour LM, Wilson WR, Bayer AS, Fowler VG, Tleyjeh IM, Rybak MJ, Barsic B, Lockhart PB, Gewitz MH, Levison ME, Bolger AF, Steckelberg JM, Baltimore RS, Fink AM, O'Gara P, Taubert KA., American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, Council on Clinical Cardiology, Council on Cardiovascular Surgery and Anesthesia, and Stroke Council. Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association. Circulation. 2015 Oct 13;132(15):1435-86. [[PubMed: 26373316](https://pubmed.ncbi.nlm.nih.gov/26373316)]
+Baddour LM, Wilson WR, Bayer AS, Fowler VG, Tleyjeh IM, Rybak MJ, Barsic B, Lockhart PB, Gewitz MH, Levison ME, Bolger AF, Steckelberg JM, Baltimore RS, Fink AM, O'Gara P, Taubert KA., American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, Council on Clinical Cardiology, Council on Cardiovascular Surgery and Anesthesia, and Stroke Council. Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association. Circulation. 2015 Oct 13;132(15):1435-86. \[[PubMed: 26373316](https://pubmed.ncbi.nlm.nih.gov/26373316)\]
 
 9.
-    
 
-Wang A, Gaca JG, Chu VH. Management Considerations in Infective Endocarditis: A Review. JAMA. 2018 Jul 03;320(1):72-83. [[PubMed: 29971402](https://pubmed.ncbi.nlm.nih.gov/29971402)]
+Wang A, Gaca JG, Chu VH. Management Considerations in Infective Endocarditis: A Review. JAMA. 2018 Jul 03;320(1):72-83. \[[PubMed: 29971402](https://pubmed.ncbi.nlm.nih.gov/29971402)\]
 
 10.
-    
 
-AATS Surgical Treatment of Infective Endocarditis Consensus Guidelines Writing Committee Chairs. Pettersson GB, Coselli JS, Writing Committee. Pettersson GB, Coselli JS, Hussain ST, Griffin B, Blackstone EH, Gordon SM, LeMaire SA, Woc-Colburn LE. 2016 The American Association for Thoracic Surgery (AATS) consensus guidelines: Surgical treatment of infective endocarditis: Executive summary. J Thorac Cardiovasc Surg. 2017 Jun;153(6):1241-1258.e29. [[PubMed: 28365016](https://pubmed.ncbi.nlm.nih.gov/28365016)]
+AATS Surgical Treatment of Infective Endocarditis Consensus Guidelines Writing Committee Chairs. Pettersson GB, Coselli JS, Writing Committee. Pettersson GB, Coselli JS, Hussain ST, Griffin B, Blackstone EH, Gordon SM, LeMaire SA, Woc-Colburn LE. 2016 The American Association for Thoracic Surgery (AATS) consensus guidelines: Surgical treatment of infective endocarditis: Executive summary. J Thorac Cardiovasc Surg. 2017 Jun;153(6):1241-1258.e29. \[[PubMed: 28365016](https://pubmed.ncbi.nlm.nih.gov/28365016)\]
 
 11.
-    
 
-Dickerman SA, Abrutyn E, Barsic B, Bouza E, Cecchi E, Moreno A, Doco-Lecompte T, Eisen DP, Fortes CQ, Fowler VG, Lerakis S, Miro JM, Pappas P, Peterson GE, Rubinstein E, Sexton DJ, Suter F, Tornos P, Verhagen DW, Cabell CH., ICE Investigators. The relationship between the initiation of antimicrobial therapy and the incidence of stroke in infective endocarditis: an analysis from the ICE Prospective Cohort Study (ICE-PCS). Am Heart J. 2007 Dec;154(6):1086-94. [[PubMed: 18035080](https://pubmed.ncbi.nlm.nih.gov/18035080)]
+Dickerman SA, Abrutyn E, Barsic B, Bouza E, Cecchi E, Moreno A, Doco-Lecompte T, Eisen DP, Fortes CQ, Fowler VG, Lerakis S, Miro JM, Pappas P, Peterson GE, Rubinstein E, Sexton DJ, Suter F, Tornos P, Verhagen DW, Cabell CH., ICE Investigators. The relationship between the initiation of antimicrobial therapy and the incidence of stroke in infective endocarditis: an analysis from the ICE Prospective Cohort Study (ICE-PCS). Am Heart J. 2007 Dec;154(6):1086-94. \[[PubMed: 18035080](https://pubmed.ncbi.nlm.nih.gov/18035080)\]
 
 12.
-    
 
-Mylonakis E, Calderwood SB. Infective endocarditis in adults. N Engl J Med. 2001 Nov 01;345(18):1318-30. [[PubMed: 11794152](https://pubmed.ncbi.nlm.nih.gov/11794152)]
-
-    
+Mylonakis E, Calderwood SB. Infective endocarditis in adults. N Engl J Med. 2001 Nov 01;345(18):1318-30. \[[PubMed: 11794152](https://pubmed.ncbi.nlm.nih.gov/11794152)\]
 
 **Disclosure:** Nauman Khalid declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Evan Shlofmitz declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Sarah Ahmad declares no relevant financial relationships with ineligible companies.

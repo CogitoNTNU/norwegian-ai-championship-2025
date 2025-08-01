@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20929/
-scraped_date: 2025-07-22 13:00:33 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20929/ scraped_date: 2025-07-22 13:00:33 UTC
 
 # Pleural Effusion
 
@@ -31,13 +30,13 @@ This activity for healthcare professionals reviews the evaluation and management
 
 **Objectives:**
 
-  * Identify the causes of pleural effusion based on a patient's clinical presentation and diagnostic test results.
+- Identify the causes of pleural effusion based on a patient's clinical presentation and diagnostic test results.
 
-  * Differentiate between transudative and exudative pleural effusions based on laboratory pleural fluid analysis and clinical judgment.
+- Differentiate between transudative and exudative pleural effusions based on laboratory pleural fluid analysis and clinical judgment.
 
-  * Determine a personalized management strategy for a patient with pleural effusion.
+- Determine a personalized management strategy for a patient with pleural effusion.
 
-  * Implement interprofessional team strategies for improving care coordination and communication to advance retrobulbar block and improve outcomes.
+- Implement interprofessional team strategies for improving care coordination and communication to advance retrobulbar block and improve outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20929&utm_source=pubmed&utm_campaign=reviews&utm_content=20929)
 
@@ -61,21 +60,21 @@ Disorders affecting the pleurae, such as pleural effusion or pleurisy, can disru
 
 Pleural effusion is caused by various conditions and is classified by Light's criteria as either a transudate or exudate. Differentiating between exudative and transudative fluids is essential in determining the underlying pathophysiology and subsequent diagnostic planning. Light's criteria serve as a reference standard for assessing pleural fluid parameters, including the quantitative ratio of pleural fluid lactate dehydrogenase (LDH) to serum LDH levels and the ratio of pleural fluid protein to serum protein levels. An exudative effusion is diagnosed if one or more of the following criteria are met:
 
-  * Pleural fluid protein/serum protein ratio of more than 0.5
+- Pleural fluid protein/serum protein ratio of more than 0.5
 
-  * Pleural fluid LDH/serum LDH ratio of more than 0.6
+- Pleural fluid LDH/serum LDH ratio of more than 0.6
 
-  * Pleural fluid LDH is more than two-thirds of the upper limit of the normal serum LDH value [5][6]
+- Pleural fluid LDH is more than two-thirds of the upper limit of the normal serum LDH value [5][6]
 
 If none of these criteria are met, the fluid is considered transudative.
 
 According to Heffner's criteria, a modification to Light's, an exudative effusion is characterized by one or more of the following:
 
-  * Pleural fluid protein level exceeding 2.9 g/dL
+- Pleural fluid protein level exceeding 2.9 g/dL
 
-  * Pleural fluid cholesterol level greater than 45 mg/dL
+- Pleural fluid cholesterol level greater than 45 mg/dL
 
-  * Pleural LDH level greater than two-thirds of the upper limit of normal serum LDH [7]
+- Pleural LDH level greater than two-thirds of the upper limit of normal serum LDH [7]
 
 Common causes of transudative pleural effusion include conditions that alter the hydrostatic or oncotic pressures in the pleural space, such as left heart failure, nephrotic syndrome, liver cirrhosis, hypoalbuminemia, or peritoneal dialysis. Common causes of exudative pleural effusion include pulmonary infections, such as pneumonia or tuberculosis; malignancy; inflammatory disorders, such as pancreatitis, lupus, and rheumatoid arthritis; postcardiac injury syndrome; chylothorax; hemothorax; post-coronary artery bypass grafting (post-CABG); and benign asbestos pleural effusion.
 
@@ -125,21 +124,21 @@ Management primarily focuses on identifying and treating the underlying cause of
 
 Thoracentesis is a diagnostic and therapeutic procedure. Current recommendations when performing a thoracentesis include the following:
 
-  * Bedside ultrasound improves success rates and reduces the risk of pneumothorax during fluid aspiration.[18]
+- Bedside ultrasound improves success rates and reduces the risk of pneumothorax during fluid aspiration.[18]
 
-  * Ultrasound can detect pleural fluid sequestrations.
+- Ultrasound can detect pleural fluid sequestrations.
 
-  * Always send fluid for biochemistry, culture, and cytology.
+- Always send fluid for biochemistry, culture, and cytology.
 
-  * Use Light's criteria to distinguish exudate from transudate.[19]
+- Use Light's criteria to distinguish exudate from transudate.[19]
 
-  * Lymphocyte-predominant effusions are typically due to malignancy and tuberculosis.[20]
+- Lymphocyte-predominant effusions are typically due to malignancy and tuberculosis.[20]
 
-  * Check pH when aspirating pleural effusions.
+- Check pH when aspirating pleural effusions.
 
-  * Do not inject air or local anesthetic into the sample, which may alter the fluid's pH.
+- Do not inject air or local anesthetic into the sample, which may alter the fluid's pH.
 
-  * Malignant effusions can be detected on cytology (40% to 60%).
+- Malignant effusions can be detected on cytology (40% to 60%).
 
 Chest tube drainage with antibiotic treatment is warranted in complex parapneumonic effusions or empyema. Small-bore drains, ranging from 10- to 14-gauge, are as effective as larger drains and may be preferable due to their ease of placement and reduced patient discomfort. Intrapleural fibrinolytic and DNase administration can be utilized to enhance drainage. However, thoracoscopic decortication may be necessary when these measures fail.[21]
 
@@ -151,42 +150,45 @@ The differential diagnosis of pleural effusion includes the following:
 
 **Transudative Effusions** :
 
-  * Cardiovascular: Common causes include congestive heart failure and pulmonary embolism.
+- Cardiovascular: Common causes include congestive heart failure and pulmonary embolism.
 
-  * Infradiaphragmatic: Conditions such as cirrhosis and peritoneal dialysis often result in transudative effusions.
+- Infradiaphragmatic: Conditions such as cirrhosis and peritoneal dialysis often result in transudative effusions.
 
-  * Other: Additional causes include nephrotic syndrome and hypoalbuminemia, which may arise from malnutrition, and renal or liver failure.
+- Other: Additional causes include nephrotic syndrome and hypoalbuminemia, which may arise from malnutrition, and renal or liver failure.
 
 **Exudative Effusions** :
 
-  * Infections (most common): 
-    * Bacterial: Includes sepsis and pneumonia.
+- Infections (most common):
 
-    * Tuberculosis: Still a significant cause of exudative effusion in developing countries.
+  - Bacterial: Includes sepsis and pneumonia.
 
-    * Viral: Often associated with respiratory, hepatic, and cardiac infections.
+  - Tuberculosis: Still a significant cause of exudative effusion in developing countries.
 
-    * Fungal and parasitic: Less common but notable etiologies, especially in Africa and South America.
+  - Viral: Often associated with respiratory, hepatic, and cardiac infections.
 
-  * Neoplasm: 
-    * Primary lung cancer: A frequent cause of exudative effusions.
+  - Fungal and parasitic: Less common but notable etiologies, especially in Africa and South America.
 
-    * Metastatic disease: Most commonly from lung, breast, colon, and ovarian cancers.
+- Neoplasm:
 
-    * Mesothelioma: An important differential to consider, especially in patients with a history of exposure to carcinogenic agents, such as asbestos.
+  - Primary lung cancer: A frequent cause of exudative effusions.
 
-  * Infradiaphragmatic: 
-    * Conditions such as pancreatitis, peritonitis, bilothorax due to biliopleural fistula or bile duct obstruction, inflammatory bowel disease, intraabdominal abscess, and postendoscopic esophageal sclerotherapy are notable causes.
+  - Metastatic disease: Most commonly from lung, breast, colon, and ovarian cancers.
 
-    * Meigs syndrome: Characterized by pleural effusion and ascites in the presence of pelvic tumors.
+  - Mesothelioma: An important differential to consider, especially in patients with a history of exposure to carcinogenic agents, such as asbestos.
 
-  * Autoimmune: Various autoimmune conditions can lead to exudative effusions.
+- Infradiaphragmatic:
 
-  * Drugs: Certain medications may induce pleural effusion.
+  - Conditions such as pancreatitis, peritonitis, bilothorax due to biliopleural fistula or bile duct obstruction, inflammatory bowel disease, intraabdominal abscess, and postendoscopic esophageal sclerotherapy are notable causes.
 
-  * Post-operative: Surgical procedures can result in exudative effusions, such as chylothorax and hemothorax.
+  - Meigs syndrome: Characterized by pleural effusion and ascites in the presence of pelvic tumors.
 
-  * Other: Includes amyloidosis, esophageal rupture, and benign asbestos-related effusion.
+- Autoimmune: Various autoimmune conditions can lead to exudative effusions.
+
+- Drugs: Certain medications may induce pleural effusion.
+
+- Post-operative: Surgical procedures can result in exudative effusions, such as chylothorax and hemothorax.
+
+- Other: Includes amyloidosis, esophageal rupture, and benign asbestos-related effusion.
 
 A thorough clinical evaluation and appropriate use of imaging and laboratory tests can differentiate pleural effusion from these conditions.
 
@@ -204,9 +206,9 @@ Another potential complication of pleural effusion is pleural thickening from fi
 
 The following consultations are recommended:
 
-  * Pulmonology: To assess the severity of pleural effusion, determine treatment options, and coordinate care with other team members.
+- Pulmonology: To assess the severity of pleural effusion, determine treatment options, and coordinate care with other team members.
 
-  * Thoracic surgery: To perform surgical procedures involving the chest, including interventions that address complicated pleural effusion.
+- Thoracic surgery: To perform surgical procedures involving the chest, including interventions that address complicated pleural effusion.
 
 These medical specialists can help provide comprehensive care tailored to the patient's requirements.
 
@@ -220,7 +222,7 @@ Secondary preventive measures focus on early detection and intervention to preve
 
 Pleural effusion is characterized by an abnormal accumulation of fluid in the pleural space, resulting from various underlying conditions such as heart failure, infection, or malignancy. Diagnosis typically involves imaging studies such as radiography and CT scanning, followed by thoracentesis for fluid analysis. Treatment depends on the cause and severity of symptoms, ranging from addressing the underlying condition to draining the fluid and performing pleurodesis in some cases. Complications, including respiratory compromise and infection, require prompt recognition and management. Multidisciplinary collaboration among healthcare specialties is often necessary for comprehensive care.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The interprofessional team managing pleural effusions includes specialists from various fields collaborating to ensure comprehensive patient care. Pulmonologists play a central role in diagnosing and treating respiratory conditions, assessing effusion severity, and coordinating care plans. These specialists collaborate closely with cardiothoracic surgeons who perform procedures to treat complex cases or prevent recurrence. Radiologists provide expertise in interpreting imaging studies, aiding in accurate diagnosis and treatment planning. Pathologists analyze fluid and tissue samples to confirm diagnoses and rule out malignancies or infections. Additional specialists, such as oncologists, infectious disease experts, cardiologists, interventional radiologists, and hepatologists, may be involved depending on the underlying cause of the pleural effusion.
 
@@ -228,17 +230,17 @@ Respiratory therapists offer respiratory care and assist in managing symptoms th
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20929&utm_source=pubmed&utm_campaign=reviews&utm_content=20929)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20929&utm_source=pubmed&utm_campaign=reviews&utm_content=20929)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/pleural-effusion/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=20929)
+- [Click here for a simplified version.](https://mdsearchlight.com/lung-disease-respiratory-health/pleural-effusion/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=20929)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20929/?utm_source=pubmed&utm_campaign=comments&utm_content=20929)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20929/?utm_source=pubmed&utm_campaign=comments&utm_content=20929)
 
 [![Bilateral Pleural Effusions on Chest Computed Tomography](/books/NBK448189/bin/bilateral__pleural__effusions.gif)](/books/NBK448189/figure/article-20929.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK448189/figure/article-20929.image.f1/?report=objectonly)
 
-Bilateral Pleural Effusions on Chest Computed Tomography. This chest computed tomography shows bilateral pleural effusions draining toward the dependent posterior pleural regions (the patient is supine). Contributed by S Dulebohn, MD 
+Bilateral Pleural Effusions on Chest Computed Tomography. This chest computed tomography shows bilateral pleural effusions draining toward the dependent posterior pleural regions (the patient is supine). Contributed by S Dulebohn, MD
 
 [![Pleural Effusion Radiograph, Lateral Decubitus](/books/NBK448189/bin/Pleural_effusion.gif)](/books/NBK448189/figure/article-20929.image.f2/?report=objectonly "Figure")
 
@@ -250,152 +252,118 @@ Pleural Effusion Radiograph, Lateral Decubitus. This lateral decubitus-view ches
 
 #### [Figure](/books/NBK448189/figure/article-20929.image.f3/?report=objectonly)
 
-Right Lung Pleural Effusion Radiograph, Posteroanterior. This upright posteroanterior chest x-ray reveals a pleural effusion of the right lung. Contributed by S Bhimji, MD 
+Right Lung Pleural Effusion Radiograph, Posteroanterior. This upright posteroanterior chest x-ray reveals a pleural effusion of the right lung. Contributed by S Bhimji, MD
 
 ## References
 
 1.
-    
 
-Saguil A, Wyrick K, Hallgren J. Diagnostic approach to pleural effusion. Am Fam Physician. 2014 Jul 15;90(2):99-104. [[PubMed: 25077579](https://pubmed.ncbi.nlm.nih.gov/25077579)]
+Saguil A, Wyrick K, Hallgren J. Diagnostic approach to pleural effusion. Am Fam Physician. 2014 Jul 15;90(2):99-104. \[[PubMed: 25077579](https://pubmed.ncbi.nlm.nih.gov/25077579)\]
 
 2.
-    
 
-Kookoolis AS, Puchalski JT, Murphy TE, Araujo KL, Pisani MA. Mortality of Hospitalized Patients with Pleural Effusions. J Pulm Respir Med. 2014 Jun;4(3):184. [[PMC free article: PMC4428160](/pmc/articles/PMC4428160/)] [[PubMed: 25977841](https://pubmed.ncbi.nlm.nih.gov/25977841)]
+Kookoolis AS, Puchalski JT, Murphy TE, Araujo KL, Pisani MA. Mortality of Hospitalized Patients with Pleural Effusions. J Pulm Respir Med. 2014 Jun;4(3):184. \[[PMC free article: PMC4428160](/pmc/articles/PMC4428160/)\] \[[PubMed: 25977841](https://pubmed.ncbi.nlm.nih.gov/25977841)\]
 
 3.
-    
 
-Walker SP, Morley AJ, Stadon L, De Fonseka D, Arnold DT, Medford ARL, Maskell NA. Nonmalignant Pleural Effusions: A Prospective Study of 356 Consecutive Unselected Patients. Chest. 2017 May;151(5):1099-1105. [[PubMed: 28025056](https://pubmed.ncbi.nlm.nih.gov/28025056)]
+Walker SP, Morley AJ, Stadon L, De Fonseka D, Arnold DT, Medford ARL, Maskell NA. Nonmalignant Pleural Effusions: A Prospective Study of 356 Consecutive Unselected Patients. Chest. 2017 May;151(5):1099-1105. \[[PubMed: 28025056](https://pubmed.ncbi.nlm.nih.gov/28025056)\]
 
 4.
-    
 
-Lai-Fook SJ. Mechanics of the pleural space: fundamental concepts. Lung. 1987;165(5):249-67. [[PubMed: 3116350](https://pubmed.ncbi.nlm.nih.gov/3116350)]
+Lai-Fook SJ. Mechanics of the pleural space: fundamental concepts. Lung. 1987;165(5):249-67. \[[PubMed: 3116350](https://pubmed.ncbi.nlm.nih.gov/3116350)\]
 
 5.
-    
 
-Lepus CM, Vivero M. Updates in Effusion Cytology. Surg Pathol Clin. 2018 Sep;11(3):523-544. [[PubMed: 30190139](https://pubmed.ncbi.nlm.nih.gov/30190139)]
+Lepus CM, Vivero M. Updates in Effusion Cytology. Surg Pathol Clin. 2018 Sep;11(3):523-544. \[[PubMed: 30190139](https://pubmed.ncbi.nlm.nih.gov/30190139)\]
 
 6.
-    
 
-Bedawi EO, Hassan M, Rahman NM. Recent developments in the management of pleural infection: A comprehensive review. Clin Respir J. 2018 Aug;12(8):2309-2320. [[PubMed: 30005142](https://pubmed.ncbi.nlm.nih.gov/30005142)]
+Bedawi EO, Hassan M, Rahman NM. Recent developments in the management of pleural infection: A comprehensive review. Clin Respir J. 2018 Aug;12(8):2309-2320. \[[PubMed: 30005142](https://pubmed.ncbi.nlm.nih.gov/30005142)\]
 
 7.
-    
 
-Gautam S, K C SR, Bhattarai B, K C G, Adhikari G, Gyawali P, Rijal K, Sijapati MJ. Diagnostic value of pleural cholesterol in differentiating exudative and transudative pleural effusion. Ann Med Surg (Lond). 2022 Oct;82:104479. [[PMC free article: PMC9577431](/pmc/articles/PMC9577431/)] [[PubMed: 36268319](https://pubmed.ncbi.nlm.nih.gov/36268319)]
+Gautam S, K C SR, Bhattarai B, K C G, Adhikari G, Gyawali P, Rijal K, Sijapati MJ. Diagnostic value of pleural cholesterol in differentiating exudative and transudative pleural effusion. Ann Med Surg (Lond). 2022 Oct;82:104479. \[[PMC free article: PMC9577431](/pmc/articles/PMC9577431/)\] \[[PubMed: 36268319](https://pubmed.ncbi.nlm.nih.gov/36268319)\]
 
 8.
-    
 
-Tan S, Baggio D, Porch K, Nerlekar N, Shortt J, Ko B. An association between Dasatinib, elevated left atrial pressure and pleural effusion. Int J Cardiol. 2024 Sep 01;410:132216. [[PubMed: 38821121](https://pubmed.ncbi.nlm.nih.gov/38821121)]
+Tan S, Baggio D, Porch K, Nerlekar N, Shortt J, Ko B. An association between Dasatinib, elevated left atrial pressure and pleural effusion. Int J Cardiol. 2024 Sep 01;410:132216. \[[PubMed: 38821121](https://pubmed.ncbi.nlm.nih.gov/38821121)\]
 
 9.
-    
 
-Zhao W, Wang K, Yu L, Guo Y, Li Z. Dasatinib-induced pleural effusions, pericardial effusion and pulmonary arterial hypertension: a case report. Transl Pediatr. 2024 Apr 30;13(4):673-681. [[PMC free article: PMC11071029](/pmc/articles/PMC11071029/)] [[PubMed: 38715671](https://pubmed.ncbi.nlm.nih.gov/38715671)]
+Zhao W, Wang K, Yu L, Guo Y, Li Z. Dasatinib-induced pleural effusions, pericardial effusion and pulmonary arterial hypertension: a case report. Transl Pediatr. 2024 Apr 30;13(4):673-681. \[[PMC free article: PMC11071029](/pmc/articles/PMC11071029/)\] \[[PubMed: 38715671](https://pubmed.ncbi.nlm.nih.gov/38715671)\]
 
 10.
-    
 
-Mummadi SR, Stoller JK, Lopez R, Kailasam K, Gillespie CT, Hahn PY. Epidemiology of Adult Pleural Disease in the United States. Chest. 2021 Oct;160(4):1534-1551. [[PubMed: 34023322](https://pubmed.ncbi.nlm.nih.gov/34023322)]
+Mummadi SR, Stoller JK, Lopez R, Kailasam K, Gillespie CT, Hahn PY. Epidemiology of Adult Pleural Disease in the United States. Chest. 2021 Oct;160(4):1534-1551. \[[PubMed: 34023322](https://pubmed.ncbi.nlm.nih.gov/34023322)\]
 
 11.
-    
 
-Guinde J, Georges S, Bourinet V, Laroumagne S, Dutau H, Astoul P. Recent developments in pleurodesis for malignant pleural disease. Clin Respir J. 2018 Oct;12(10):2463-2468. [[PubMed: 30252207](https://pubmed.ncbi.nlm.nih.gov/30252207)]
+Guinde J, Georges S, Bourinet V, Laroumagne S, Dutau H, Astoul P. Recent developments in pleurodesis for malignant pleural disease. Clin Respir J. 2018 Oct;12(10):2463-2468. \[[PubMed: 30252207](https://pubmed.ncbi.nlm.nih.gov/30252207)\]
 
 12.
-    
 
-Arnold DT, De Fonseka D, Perry S, Morley A, Harvey JE, Medford A, Brett M, Maskell NA. Investigating unilateral pleural effusions: the role of cytology. Eur Respir J. 2018 Nov;52(5) [[PubMed: 30262573](https://pubmed.ncbi.nlm.nih.gov/30262573)]
+Arnold DT, De Fonseka D, Perry S, Morley A, Harvey JE, Medford A, Brett M, Maskell NA. Investigating unilateral pleural effusions: the role of cytology. Eur Respir J. 2018 Nov;52(5) \[[PubMed: 30262573](https://pubmed.ncbi.nlm.nih.gov/30262573)\]
 
 13.
-    
 
-Iyer NP, Reddy CB, Wahidi MM, Lewis SZ, Diekemper RL, Feller-Kopman D, Gould MK, Balekian AA. Indwelling Pleural Catheter versus Pleurodesis for Malignant Pleural Effusions. A Systematic Review and Meta-Analysis. Ann Am Thorac Soc. 2019 Jan;16(1):124-131. [[PubMed: 30272486](https://pubmed.ncbi.nlm.nih.gov/30272486)]
+Iyer NP, Reddy CB, Wahidi MM, Lewis SZ, Diekemper RL, Feller-Kopman D, Gould MK, Balekian AA. Indwelling Pleural Catheter versus Pleurodesis for Malignant Pleural Effusions. A Systematic Review and Meta-Analysis. Ann Am Thorac Soc. 2019 Jan;16(1):124-131. \[[PubMed: 30272486](https://pubmed.ncbi.nlm.nih.gov/30272486)\]
 
 14.
-    
 
-Diacon AH, Brutsche MH, Solèr M. Accuracy of pleural puncture sites: a prospective comparison of clinical examination with ultrasound. Chest. 2003 Feb;123(2):436-41. [[PubMed: 12576363](https://pubmed.ncbi.nlm.nih.gov/12576363)]
+Diacon AH, Brutsche MH, Solèr M. Accuracy of pleural puncture sites: a prospective comparison of clinical examination with ultrasound. Chest. 2003 Feb;123(2):436-41. \[[PubMed: 12576363](https://pubmed.ncbi.nlm.nih.gov/12576363)\]
 
 15.
-    
 
-Soni NJ, Franco R, Velez MI, Schnobrich D, Dancel R, Restrepo MI, Mayo PH. Ultrasound in the diagnosis and management of pleural effusions. J Hosp Med. 2015 Dec;10(12):811-6. [[PMC free article: PMC4715558](/pmc/articles/PMC4715558/)] [[PubMed: 26218493](https://pubmed.ncbi.nlm.nih.gov/26218493)]
+Soni NJ, Franco R, Velez MI, Schnobrich D, Dancel R, Restrepo MI, Mayo PH. Ultrasound in the diagnosis and management of pleural effusions. J Hosp Med. 2015 Dec;10(12):811-6. \[[PMC free article: PMC4715558](/pmc/articles/PMC4715558/)\] \[[PubMed: 26218493](https://pubmed.ncbi.nlm.nih.gov/26218493)\]
 
 16.
-    
 
-Roth BJ, O'Meara TF, Cragun WH. The serum-effusion albumin gradient in the evaluation of pleural effusions. Chest. 1990 Sep;98(3):546-9. [[PubMed: 2152757](https://pubmed.ncbi.nlm.nih.gov/2152757)]
+Roth BJ, O'Meara TF, Cragun WH. The serum-effusion albumin gradient in the evaluation of pleural effusions. Chest. 1990 Sep;98(3):546-9. \[[PubMed: 2152757](https://pubmed.ncbi.nlm.nih.gov/2152757)\]
 
 17.
-    
 
-Pairman L, Beckert LEL, Dagger M, Maze MJ. Evaluation of pleural fluid cytology for the diagnosis of malignant pleural effusion: a retrospective cohort study. Intern Med J. 2022 Jul;52(7):1154-1159. [[PMC free article: PMC9542185](/pmc/articles/PMC9542185/)] [[PubMed: 35191191](https://pubmed.ncbi.nlm.nih.gov/35191191)]
+Pairman L, Beckert LEL, Dagger M, Maze MJ. Evaluation of pleural fluid cytology for the diagnosis of malignant pleural effusion: a retrospective cohort study. Intern Med J. 2022 Jul;52(7):1154-1159. \[[PMC free article: PMC9542185](/pmc/articles/PMC9542185/)\] \[[PubMed: 35191191](https://pubmed.ncbi.nlm.nih.gov/35191191)\]
 
 18.
-    
 
-Helgeson SA, Fritz AV, Tatari MM, Daniels CE, Diaz-Gomez JL. Reducing Iatrogenic Pneumothoraces: Using Real-Time Ultrasound Guidance for Pleural Procedures. Crit Care Med. 2019 Jul;47(7):903-909. [[PubMed: 30985389](https://pubmed.ncbi.nlm.nih.gov/30985389)]
+Helgeson SA, Fritz AV, Tatari MM, Daniels CE, Diaz-Gomez JL. Reducing Iatrogenic Pneumothoraces: Using Real-Time Ultrasound Guidance for Pleural Procedures. Crit Care Med. 2019 Jul;47(7):903-909. \[[PubMed: 30985389](https://pubmed.ncbi.nlm.nih.gov/30985389)\]
 
 19.
-    
 
-Keller RR. Once more: Light's criteria revisited. Respiration. 2000;67(1):11-2. [[PubMed: 10787354](https://pubmed.ncbi.nlm.nih.gov/10787354)]
+Keller RR. Once more: Light's criteria revisited. Respiration. 2000;67(1):11-2. \[[PubMed: 10787354](https://pubmed.ncbi.nlm.nih.gov/10787354)\]
 
 20.
-    
 
-Das DK. Age and sex distribution in malignant and tuberculous serous effusions: A study of 127 patients and review of the literature. Geriatr Gerontol Int. 2015 Sep;15(9):1143-50. [[PubMed: 25407466](https://pubmed.ncbi.nlm.nih.gov/25407466)]
+Das DK. Age and sex distribution in malignant and tuberculous serous effusions: A study of 127 patients and review of the literature. Geriatr Gerontol Int. 2015 Sep;15(9):1143-50. \[[PubMed: 25407466](https://pubmed.ncbi.nlm.nih.gov/25407466)\]
 
 21.
-    
 
-Rahman NM, Maskell NA, West A, Teoh R, Arnold A, Mackinlay C, Peckham D, Davies CW, Ali N, Kinnear W, Bentley A, Kahan BC, Wrightson JM, Davies HE, Hooper CE, Lee YC, Hedley EL, Crosthwaite N, Choo L, Helm EJ, Gleeson FV, Nunn AJ, Davies RJ. Intrapleural use of tissue plasminogen activator and DNase in pleural infection. N Engl J Med. 2011 Aug 11;365(6):518-26. [[PubMed: 21830966](https://pubmed.ncbi.nlm.nih.gov/21830966)]
+Rahman NM, Maskell NA, West A, Teoh R, Arnold A, Mackinlay C, Peckham D, Davies CW, Ali N, Kinnear W, Bentley A, Kahan BC, Wrightson JM, Davies HE, Hooper CE, Lee YC, Hedley EL, Crosthwaite N, Choo L, Helm EJ, Gleeson FV, Nunn AJ, Davies RJ. Intrapleural use of tissue plasminogen activator and DNase in pleural infection. N Engl J Med. 2011 Aug 11;365(6):518-26. \[[PubMed: 21830966](https://pubmed.ncbi.nlm.nih.gov/21830966)\]
 
 22.
-    
 
-DeBiasi EM, Pisani MA, Murphy TE, Araujo K, Kookoolis A, Argento AC, Puchalski J. Mortality among patients with pleural effusion undergoing thoracentesis. Eur Respir J. 2015 Aug;46(2):495-502. [[PMC free article: PMC4857137](/pmc/articles/PMC4857137/)] [[PubMed: 25837039](https://pubmed.ncbi.nlm.nih.gov/25837039)]
+DeBiasi EM, Pisani MA, Murphy TE, Araujo K, Kookoolis A, Argento AC, Puchalski J. Mortality among patients with pleural effusion undergoing thoracentesis. Eur Respir J. 2015 Aug;46(2):495-502. \[[PMC free article: PMC4857137](/pmc/articles/PMC4857137/)\] \[[PubMed: 25837039](https://pubmed.ncbi.nlm.nih.gov/25837039)\]
 
 23.
-    
 
-Yang Y, Du J, Wang YS, Kang HY, Zhai K, Shi HZ. Prognostic impact of pleural effusion in patients with malignancy: A systematic review and meta-analysis. Clin Transl Sci. 2022 Jun;15(6):1340-1354. [[PMC free article: PMC9199884](/pmc/articles/PMC9199884/)] [[PubMed: 35212454](https://pubmed.ncbi.nlm.nih.gov/35212454)]
+Yang Y, Du J, Wang YS, Kang HY, Zhai K, Shi HZ. Prognostic impact of pleural effusion in patients with malignancy: A systematic review and meta-analysis. Clin Transl Sci. 2022 Jun;15(6):1340-1354. \[[PMC free article: PMC9199884](/pmc/articles/PMC9199884/)\] \[[PubMed: 35212454](https://pubmed.ncbi.nlm.nih.gov/35212454)\]
 
 24.
-    
 
-Markatis E, Perlepe G, Afthinos A, Pagkratis K, Varsamas C, Chaini E, Papanikolaou IC, Gourgoulianis KI. Mortality Among Hospitalized Patients With Pleural Effusions. A Multicenter, Observational, Prospective Study. Front Med (Lausanne). 2022;9:828783. [[PMC free article: PMC8907663](/pmc/articles/PMC8907663/)] [[PubMed: 35280903](https://pubmed.ncbi.nlm.nih.gov/35280903)]
+Markatis E, Perlepe G, Afthinos A, Pagkratis K, Varsamas C, Chaini E, Papanikolaou IC, Gourgoulianis KI. Mortality Among Hospitalized Patients With Pleural Effusions. A Multicenter, Observational, Prospective Study. Front Med (Lausanne). 2022;9:828783. \[[PMC free article: PMC8907663](/pmc/articles/PMC8907663/)\] \[[PubMed: 35280903](https://pubmed.ncbi.nlm.nih.gov/35280903)\]
 
 25.
-    
 
-Shu M, Wang BY, Zhang J, Guo CY, Wang XH. Analysis of specialized nursing on respiratory functions in thoracotomy patients. J Biol Regul Homeost Agents. 2017 Oct-Dec;31(4):971-976. [[PubMed: 29254301](https://pubmed.ncbi.nlm.nih.gov/29254301)]
+Shu M, Wang BY, Zhang J, Guo CY, Wang XH. Analysis of specialized nursing on respiratory functions in thoracotomy patients. J Biol Regul Homeost Agents. 2017 Oct-Dec;31(4):971-976. \[[PubMed: 29254301](https://pubmed.ncbi.nlm.nih.gov/29254301)\]
 
 26.
-    
 
-Lu C, Jin YH, Gao W, Shi YX, Xia X, Sun WX, Tang Q, Wang Y, Li G, Si J. Variation in nurse self-reported practice of managing chest tubes: A cross-sectional study. J Clin Nurs. 2018 Mar;27(5-6):e1013-e1021. [[PubMed: 29076204](https://pubmed.ncbi.nlm.nih.gov/29076204)]
-
-    
+Lu C, Jin YH, Gao W, Shi YX, Xia X, Sun WX, Tang Q, Wang Y, Li G, Si J. Variation in nurse self-reported practice of managing chest tubes: A cross-sectional study. J Clin Nurs. 2018 Mar;27(5-6):e1013-e1021. \[[PubMed: 29076204](https://pubmed.ncbi.nlm.nih.gov/29076204)\]
 
 **Disclosure:** Rachana Krishna declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Marsha Antoine declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Mohamed Alahmadi declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Mohan Rudrappa declares no relevant financial relationships with ineligible companies.

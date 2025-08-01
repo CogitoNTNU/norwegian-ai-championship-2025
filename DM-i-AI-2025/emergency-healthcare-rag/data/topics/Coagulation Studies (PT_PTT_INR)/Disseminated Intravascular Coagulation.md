@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20610/
-scraped_date: 2025-07-22 12:51:15 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20610/ scraped_date: 2025-07-22 12:51:15 UTC
 
 # Disseminated Intravascular Coagulation
 
@@ -27,13 +26,13 @@ Disseminated intravascular coagulation is a complex condition characterized by a
 
 **Objectives:**
 
-  * Identify the etiology of disseminated intravascular coagulation.
+- Identify the etiology of disseminated intravascular coagulation.
 
-  * Assess the clinical manifestations of disseminated intravascular coagulation.
+- Assess the clinical manifestations of disseminated intravascular coagulation.
 
-  * Implement management considerations for disseminated intravascular coagulation.
+- Implement management considerations for disseminated intravascular coagulation.
 
-  * Explain the importance of utilizing an interprofessional team to manage patients with disseminated intravascular coagulation.
+- Explain the importance of utilizing an interprofessional team to manage patients with disseminated intravascular coagulation.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20610&utm_source=pubmed&utm_campaign=reviews&utm_content=20610)
 
@@ -73,157 +72,128 @@ Likewise, fresh frozen plasma, typically at 15 mL/kg to 30 mL/kg, and cryoprecip
 
 The differential diagnosis for disseminated intravascular coagulation includes:
 
-  * Dysfibrinogenemia
+- Dysfibrinogenemia
 
-  * Hemolytic uremic syndrome
+- Hemolytic uremic syndrome
 
-  * Heparin-induced thrombocytopenia
+- Heparin-induced thrombocytopenia
 
-  * Immune thrombocytopenia 
+- Immune thrombocytopenia
 
-  * Thrombotic thrombocytopenic purpura 
+- Thrombotic thrombocytopenic purpura
 
 ## Pearls and Other Issues
 
 Disseminated intravascular coagulation can quickly lead to multiorgan failure and death, particularly if early recognition and treatment fail to occur. A high index of suspicion of this high-mortality disease in critically ill patients remains paramount to improving outcomes in patients with DIC.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 The diagnosis and management of DIC are complex and challenging. The condition is best managed by an interprofessional team that could consist of a hematologist, surgeon, intensivist, infectious disease consultant, pathologist, and internist. The key is to address the underlying disorder that ultimately led to this condition developing. Consequently, therapies such as antibiotics for severe sepsis, possible delivery for placental abruption, and consideration for exploratory surgical intervention in trauma-related cases represent the mainstays of treatment for DIC. Platelet and plasma transfusions should only be considered in patients with active bleeding or a high risk of bleeding or those patients requiring an invasive procedure. Despite optimal treatment, DIC carries a very high mortality rate. Because DIC affects multiple organ systems, most survivors have a prolonged recovery period.[16][23]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20610&utm_source=pubmed&utm_campaign=reviews&utm_content=20610)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=20610&utm_source=pubmed&utm_campaign=reviews&utm_content=20610)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/blood-disorders/disseminated-intravascular-coagulation/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=20610)
+- [Click here for a simplified version.](https://mdsearchlight.com/blood-disorders/disseminated-intravascular-coagulation/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=20610)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20610/?utm_source=pubmed&utm_campaign=comments&utm_content=20610)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/20610/?utm_source=pubmed&utm_campaign=comments&utm_content=20610)
 
 ## References
 
 1.
-    
 
-Passmore MR, Obonyo NG, Byrne L, Boon AC, Diab SD, Dunster KR, Fung YL, Spanevello MM, Fauzi MH, Pedersen SE, Simonova G, Anstey CM, Shekar K, Tung JP, Maitland K, Fraser JF. Fluid resuscitation with 0.9% saline alters haemostasis in an ovine model of endotoxemic shock. Thromb Res. 2019 Apr;176:39-45. [[PMC free article: PMC7613520](/pmc/articles/PMC7613520/)] [[PubMed: 30776686](https://pubmed.ncbi.nlm.nih.gov/30776686)]
+Passmore MR, Obonyo NG, Byrne L, Boon AC, Diab SD, Dunster KR, Fung YL, Spanevello MM, Fauzi MH, Pedersen SE, Simonova G, Anstey CM, Shekar K, Tung JP, Maitland K, Fraser JF. Fluid resuscitation with 0.9% saline alters haemostasis in an ovine model of endotoxemic shock. Thromb Res. 2019 Apr;176:39-45. \[[PMC free article: PMC7613520](/pmc/articles/PMC7613520/)\] \[[PubMed: 30776686](https://pubmed.ncbi.nlm.nih.gov/30776686)\]
 
 2.
-    
 
-Gonzalez MG, Wei RM, Hatch KD, Gries LM, Hill MG. A Novel Treatment for Massive Hemorrhage after Maternal Trauma in Pregnancy. AJP Rep. 2019 Jan;9(1):e27-e29. [[PMC free article: PMC6374146](/pmc/articles/PMC6374146/)] [[PubMed: 30775107](https://pubmed.ncbi.nlm.nih.gov/30775107)]
+Gonzalez MG, Wei RM, Hatch KD, Gries LM, Hill MG. A Novel Treatment for Massive Hemorrhage after Maternal Trauma in Pregnancy. AJP Rep. 2019 Jan;9(1):e27-e29. \[[PMC free article: PMC6374146](/pmc/articles/PMC6374146/)\] \[[PubMed: 30775107](https://pubmed.ncbi.nlm.nih.gov/30775107)\]
 
 3.
-    
 
-Nolan S, Czuzoj-Shulman N, Abenhaim HA. Obstetrical and newborn outcomes among women with acute leukemias in pregnancy: a population-based study. J Matern Fetal Neonatal Med. 2020 Oct;33(20):3514-3520. [[PubMed: 30773954](https://pubmed.ncbi.nlm.nih.gov/30773954)]
+Nolan S, Czuzoj-Shulman N, Abenhaim HA. Obstetrical and newborn outcomes among women with acute leukemias in pregnancy: a population-based study. J Matern Fetal Neonatal Med. 2020 Oct;33(20):3514-3520. \[[PubMed: 30773954](https://pubmed.ncbi.nlm.nih.gov/30773954)\]
 
 4.
-    
 
-Karakike E, Giamarellos-Bourboulis EJ. Macrophage Activation-Like Syndrome: A Distinct Entity Leading to Early Death in Sepsis. Front Immunol. 2019;10:55. [[PMC free article: PMC6365431](/pmc/articles/PMC6365431/)] [[PubMed: 30766533](https://pubmed.ncbi.nlm.nih.gov/30766533)]
+Karakike E, Giamarellos-Bourboulis EJ. Macrophage Activation-Like Syndrome: A Distinct Entity Leading to Early Death in Sepsis. Front Immunol. 2019;10:55. \[[PMC free article: PMC6365431](/pmc/articles/PMC6365431/)\] \[[PubMed: 30766533](https://pubmed.ncbi.nlm.nih.gov/30766533)\]
 
 5.
-    
 
-Levi M, Ten Cate H. Disseminated intravascular coagulation. N Engl J Med. 1999 Aug 19;341(8):586-92. [[PubMed: 10451465](https://pubmed.ncbi.nlm.nih.gov/10451465)]
+Levi M, Ten Cate H. Disseminated intravascular coagulation. N Engl J Med. 1999 Aug 19;341(8):586-92. \[[PubMed: 10451465](https://pubmed.ncbi.nlm.nih.gov/10451465)\]
 
 6.
-    
 
-Šibíková M, Živný J, Janota J. Cell Membrane-Derived Microvesicles in Systemic Inflammatory Response. Folia Biol (Praha). 2018;64(4):113-124. [[PubMed: 30724157](https://pubmed.ncbi.nlm.nih.gov/30724157)]
+Šibíková M, Živný J, Janota J. Cell Membrane-Derived Microvesicles in Systemic Inflammatory Response. Folia Biol (Praha). 2018;64(4):113-124. \[[PubMed: 30724157](https://pubmed.ncbi.nlm.nih.gov/30724157)\]
 
 7.
-    
 
-Komo T, Kohashi T, Aoki Y, Hihara J, Oishi K, Tokumoto N, Kanou M, Nakashima A, Shimomura M, Miguchi M, Mukaida H, Hirabayashi N. Successful surgical management of non-perforating acute appendicitis with septic disseminated intravascular coagulation: A case report and review of the literature. Int J Surg Case Rep. 2019;55:103-106. [[PMC free article: PMC6360458](/pmc/articles/PMC6360458/)] [[PubMed: 30716702](https://pubmed.ncbi.nlm.nih.gov/30716702)]
+Komo T, Kohashi T, Aoki Y, Hihara J, Oishi K, Tokumoto N, Kanou M, Nakashima A, Shimomura M, Miguchi M, Mukaida H, Hirabayashi N. Successful surgical management of non-perforating acute appendicitis with septic disseminated intravascular coagulation: A case report and review of the literature. Int J Surg Case Rep. 2019;55:103-106. \[[PMC free article: PMC6360458](/pmc/articles/PMC6360458/)\] \[[PubMed: 30716702](https://pubmed.ncbi.nlm.nih.gov/30716702)\]
 
 8.
-    
 
-Thachil J. The Elusive Diagnosis of Disseminated Intravascular Coagulation: Does a Diagnosis of DIC Exist Anymore? Semin Thromb Hemost. 2019 Feb;45(1):100-107. [[PubMed: 30634199](https://pubmed.ncbi.nlm.nih.gov/30634199)]
+Thachil J. The Elusive Diagnosis of Disseminated Intravascular Coagulation: Does a Diagnosis of DIC Exist Anymore? Semin Thromb Hemost. 2019 Feb;45(1):100-107. \[[PubMed: 30634199](https://pubmed.ncbi.nlm.nih.gov/30634199)\]
 
 9.
-    
 
-Hashimoto D, Okawa T, Maruyama R, Matsumura F, Shibata Y, Kohrogi H. Anticoagulant Therapy for Disseminated Intravascular Coagulation After Gastrointestinal Surgery. Anticancer Res. 2019 Jan;39(1):25-31. [[PubMed: 30591437](https://pubmed.ncbi.nlm.nih.gov/30591437)]
+Hashimoto D, Okawa T, Maruyama R, Matsumura F, Shibata Y, Kohrogi H. Anticoagulant Therapy for Disseminated Intravascular Coagulation After Gastrointestinal Surgery. Anticancer Res. 2019 Jan;39(1):25-31. \[[PubMed: 30591437](https://pubmed.ncbi.nlm.nih.gov/30591437)\]
 
 10.
-    
 
-Bone RC. Gram-positive organisms and sepsis. Arch Intern Med. 1994 Jan 10;154(1):26-34. [[PubMed: 8267486](https://pubmed.ncbi.nlm.nih.gov/8267486)]
+Bone RC. Gram-positive organisms and sepsis. Arch Intern Med. 1994 Jan 10;154(1):26-34. \[[PubMed: 8267486](https://pubmed.ncbi.nlm.nih.gov/8267486)\]
 
 11.
-    
 
-Slofstra SH, Spek CA, ten Cate H. Disseminated intravascular coagulation. Hematol J. 2003;4(5):295-302. [[PubMed: 14502252](https://pubmed.ncbi.nlm.nih.gov/14502252)]
+Slofstra SH, Spek CA, ten Cate H. Disseminated intravascular coagulation. Hematol J. 2003;4(5):295-302. \[[PubMed: 14502252](https://pubmed.ncbi.nlm.nih.gov/14502252)\]
 
 12.
-    
 
-Matsuda T. Clinical aspects of DIC--disseminated intravascular coagulation. Pol J Pharmacol. 1996 Jan-Feb;48(1):73-5. [[PubMed: 9112631](https://pubmed.ncbi.nlm.nih.gov/9112631)]
+Matsuda T. Clinical aspects of DIC--disseminated intravascular coagulation. Pol J Pharmacol. 1996 Jan-Feb;48(1):73-5. \[[PubMed: 9112631](https://pubmed.ncbi.nlm.nih.gov/9112631)\]
 
 13.
-    
 
-Okajima K, Sakamoto Y, Uchiba M. Heterogeneity in the incidence and clinical manifestations of disseminated intravascular coagulation: a study of 204 cases. Am J Hematol. 2000 Nov;65(3):215-22. [[PubMed: 11074538](https://pubmed.ncbi.nlm.nih.gov/11074538)]
+Okajima K, Sakamoto Y, Uchiba M. Heterogeneity in the incidence and clinical manifestations of disseminated intravascular coagulation: a study of 204 cases. Am J Hematol. 2000 Nov;65(3):215-22. \[[PubMed: 11074538](https://pubmed.ncbi.nlm.nih.gov/11074538)\]
 
 14.
-    
 
-Sibai BM, Ramadan MK, Usta I, Salama M, Mercer BM, Friedman SA. Maternal morbidity and mortality in 442 pregnancies with hemolysis, elevated liver enzymes, and low platelets (HELLP syndrome). Am J Obstet Gynecol. 1993 Oct;169(4):1000-6. [[PubMed: 8238109](https://pubmed.ncbi.nlm.nih.gov/8238109)]
+Sibai BM, Ramadan MK, Usta I, Salama M, Mercer BM, Friedman SA. Maternal morbidity and mortality in 442 pregnancies with hemolysis, elevated liver enzymes, and low platelets (HELLP syndrome). Am J Obstet Gynecol. 1993 Oct;169(4):1000-6. \[[PubMed: 8238109](https://pubmed.ncbi.nlm.nih.gov/8238109)\]
 
 15.
-    
 
-Levi M. Disseminated intravascular coagulation. Crit Care Med. 2007 Sep;35(9):2191-5. [[PubMed: 17855836](https://pubmed.ncbi.nlm.nih.gov/17855836)]
+Levi M. Disseminated intravascular coagulation. Crit Care Med. 2007 Sep;35(9):2191-5. \[[PubMed: 17855836](https://pubmed.ncbi.nlm.nih.gov/17855836)\]
 
 16.
-    
 
-Endo S, Shimazaki R., Antithrombin Gamma Study Group. An open-label, randomized, phase 3 study of the efficacy and safety of antithrombin gamma in patients with sepsis-induced disseminated intravascular coagulation syndrome. J Intensive Care. 2018;6:75. [[PMC free article: PMC6240214](/pmc/articles/PMC6240214/)] [[PubMed: 30473794](https://pubmed.ncbi.nlm.nih.gov/30473794)]
+Endo S, Shimazaki R., Antithrombin Gamma Study Group. An open-label, randomized, phase 3 study of the efficacy and safety of antithrombin gamma in patients with sepsis-induced disseminated intravascular coagulation syndrome. J Intensive Care. 2018;6:75. \[[PMC free article: PMC6240214](/pmc/articles/PMC6240214/)\] \[[PubMed: 30473794](https://pubmed.ncbi.nlm.nih.gov/30473794)\]
 
 17.
-    
 
-Chen W, Qi J, Shang Y, Ren L, Guo Y. Amniotic fluid embolism and spontaneous hepatic rupture during uncomplicated pregnancy: a case report and literature review. J Matern Fetal Neonatal Med. 2020 May;33(10):1759-1766. [[PubMed: 30394159](https://pubmed.ncbi.nlm.nih.gov/30394159)]
+Chen W, Qi J, Shang Y, Ren L, Guo Y. Amniotic fluid embolism and spontaneous hepatic rupture during uncomplicated pregnancy: a case report and literature review. J Matern Fetal Neonatal Med. 2020 May;33(10):1759-1766. \[[PubMed: 30394159](https://pubmed.ncbi.nlm.nih.gov/30394159)\]
 
 18.
-    
 
-Gando S, Nanzaki S, Kemmotsu O. Disseminated intravascular coagulation and sustained systemic inflammatory response syndrome predict organ dysfunctions after trauma: application of clinical decision analysis. Ann Surg. 1999 Jan;229(1):121-7. [[PMC free article: PMC1191617](/pmc/articles/PMC1191617/)] [[PubMed: 9923809](https://pubmed.ncbi.nlm.nih.gov/9923809)]
+Gando S, Nanzaki S, Kemmotsu O. Disseminated intravascular coagulation and sustained systemic inflammatory response syndrome predict organ dysfunctions after trauma: application of clinical decision analysis. Ann Surg. 1999 Jan;229(1):121-7. \[[PMC free article: PMC1191617](/pmc/articles/PMC1191617/)\] \[[PubMed: 9923809](https://pubmed.ncbi.nlm.nih.gov/9923809)\]
 
 19.
-    
 
-Venugopal A. Disseminated intravascular coagulation. Indian J Anaesth. 2014 Sep;58(5):603-8. [[PMC free article: PMC4260307](/pmc/articles/PMC4260307/)] [[PubMed: 25535423](https://pubmed.ncbi.nlm.nih.gov/25535423)]
+Venugopal A. Disseminated intravascular coagulation. Indian J Anaesth. 2014 Sep;58(5):603-8. \[[PMC free article: PMC4260307](/pmc/articles/PMC4260307/)\] \[[PubMed: 25535423](https://pubmed.ncbi.nlm.nih.gov/25535423)\]
 
 20.
-    
 
-Wada H, Thachil J, Di Nisio M, Mathew P, Kurosawa S, Gando S, Kim HK, Nielsen JD, Dempfle CE, Levi M, Toh CH., The Scientific Standardization Committee on DIC of the International Society on Thrombosis Haemostasis. Guidance for diagnosis and treatment of DIC from harmonization of the recommendations from three guidelines. J Thromb Haemost. 2013 Feb 04; [[PubMed: 23379279](https://pubmed.ncbi.nlm.nih.gov/23379279)]
+Wada H, Thachil J, Di Nisio M, Mathew P, Kurosawa S, Gando S, Kim HK, Nielsen JD, Dempfle CE, Levi M, Toh CH., The Scientific Standardization Committee on DIC of the International Society on Thrombosis Haemostasis. Guidance for diagnosis and treatment of DIC from harmonization of the recommendations from three guidelines. J Thromb Haemost. 2013 Feb 04; \[[PubMed: 23379279](https://pubmed.ncbi.nlm.nih.gov/23379279)\]
 
 21.
-    
 
-Toh CH, Hoots WK., SSC on Disseminated Intravascular Coagulation of the ISTH. The scoring system of the Scientific and Standardisation Committee on Disseminated Intravascular Coagulation of the International Society on Thrombosis and Haemostasis: a 5-year overview. J Thromb Haemost. 2007 Mar;5(3):604-6. [[PubMed: 17096704](https://pubmed.ncbi.nlm.nih.gov/17096704)]
+Toh CH, Hoots WK., SSC on Disseminated Intravascular Coagulation of the ISTH. The scoring system of the Scientific and Standardisation Committee on Disseminated Intravascular Coagulation of the International Society on Thrombosis and Haemostasis: a 5-year overview. J Thromb Haemost. 2007 Mar;5(3):604-6. \[[PubMed: 17096704](https://pubmed.ncbi.nlm.nih.gov/17096704)\]
 
 22.
-    
 
-Levi M, Toh CH, Thachil J, Watson HG. Guidelines for the diagnosis and management of disseminated intravascular coagulation. British Committee for Standards in Haematology. Br J Haematol. 2009 Apr;145(1):24-33. [[PubMed: 19222477](https://pubmed.ncbi.nlm.nih.gov/19222477)]
+Levi M, Toh CH, Thachil J, Watson HG. Guidelines for the diagnosis and management of disseminated intravascular coagulation. British Committee for Standards in Haematology. Br J Haematol. 2009 Apr;145(1):24-33. \[[PubMed: 19222477](https://pubmed.ncbi.nlm.nih.gov/19222477)\]
 
 23.
-    
 
-Yoshimura J, Yamakawa K, Kodate A, Kodate M, Fujimi S. Prognostic accuracy of different disseminated intravascular coagulation criteria in critically ill adult patients: a protocol for a systematic review and meta-analysis. BMJ Open. 2018 Dec 04;8(12):e024878. [[PMC free article: PMC6286491](/pmc/articles/PMC6286491/)] [[PubMed: 30518591](https://pubmed.ncbi.nlm.nih.gov/30518591)]
-
-    
+Yoshimura J, Yamakawa K, Kodate A, Kodate M, Fujimi S. Prognostic accuracy of different disseminated intravascular coagulation criteria in critically ill adult patients: a protocol for a systematic review and meta-analysis. BMJ Open. 2018 Dec 04;8(12):e024878. \[[PMC free article: PMC6286491](/pmc/articles/PMC6286491/)\] \[[PubMed: 30518591](https://pubmed.ncbi.nlm.nih.gov/30518591)\]
 
 **Disclosure:** Ryan Costello declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Stephen Leslie declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Sara Nehring declares no relevant financial relationships with ineligible companies.

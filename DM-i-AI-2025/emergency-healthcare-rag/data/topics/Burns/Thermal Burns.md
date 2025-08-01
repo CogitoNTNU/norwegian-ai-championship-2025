@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23152/
-scraped_date: 2025-07-22 12:49:21 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23152/ scraped_date: 2025-07-22 12:49:21 UTC
 
 # Hyperbaric Treatment of Thermal Burns
 
@@ -27,13 +26,13 @@ Thermal burns are common in the United States, and approximately 2 million peopl
 
 **Objectives:**
 
-  * Summarize the classification of thermal burns.
+- Summarize the classification of thermal burns.
 
-  * Describe the presentation of a patient with a thermal burn.
+- Describe the presentation of a patient with a thermal burn.
 
-  * List the treatment options for a patient with a thermal burn
+- List the treatment options for a patient with a thermal burn
 
-  * Explain the importance of improving care coordination amongst the interprofessional team to enhance the delivery of care for patients with thermal burns.
+- Explain the importance of improving care coordination amongst the interprofessional team to enhance the delivery of care for patients with thermal burns.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23152&utm_source=pubmed&utm_campaign=reviews&utm_content=23152)
 
@@ -81,119 +80,104 @@ Pulmonary barotrauma, though less common, is another important complication to r
 
 **In summary, HBO therapy during the first 24 hours of burn has shown to:**
 
-  1. Decrease edema by vasoconstriction and decrease the chance of burn shock
+1. Decrease edema by vasoconstriction and decrease the chance of burn shock
 
-  2. Decrease wound infections
+1. Decrease wound infections
 
-  3. Promote epithelialization
+1. Promote epithelialization
 
-  4. Increase the viability of skin flaps and grafts
+1. Increase the viability of skin flaps and grafts
 
-  5. Be effective against carbon monoxide and smoke inhalation injury
+1. Be effective against carbon monoxide and smoke inhalation injury
 
-  6. Reduce fluid requirements of the patient
+1. Reduce fluid requirements of the patient
 
-  7. Counteract ischemia in tissue by raising oxygen levels in hypoxic tissue to supraphysiologic levels
+1. Counteract ischemia in tissue by raising oxygen levels in hypoxic tissue to supraphysiologic levels
 
 **Twenty-four hours after thermal burn injuries, HBO has shown to:**
 
-  1. Relieve a paralytic ileus 
+1. Relieve a paralytic ileus
 
-  2. Decrease the incidence of Cushing ulcers
+1. Decrease the incidence of Cushing ulcers
 
-  3. Reduce hypertrophic scarring and ulceration
+1. Reduce hypertrophic scarring and ulceration
 
-  4. Counteracts burn encephalopathy/cerebral edema
+1. Counteracts burn encephalopathy/cerebral edema
 
-  5. Reduce the length of hospital stay
+1. Reduce the length of hospital stay
 
-  6. Reduce the need for surgery
+1. Reduce the need for surgery
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Thermal burns are best managed by an interprofessional team, including a wound care nurse. While the treatment in most patients is supportive, recent evidence indicates that HBO therapy may help wounds heal faster. However, the vascular status of the wound must be assessed because without adequate blood supply, HBO therapy may not always work, and empirically sending every patient for HBO therapy is not cost-effective.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23152&utm_source=pubmed&utm_campaign=reviews&utm_content=23152)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=23152&utm_source=pubmed&utm_campaign=reviews&utm_content=23152)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/thermal-injury-treatment/hyperbaric-treatment-of-thermal-burns-hyperbaric-oxygen-therapy/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=23152)
+- [Click here for a simplified version.](https://mdsearchlight.com/thermal-injury-treatment/hyperbaric-treatment-of-thermal-burns-hyperbaric-oxygen-therapy/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=23152)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/23152/?utm_source=pubmed&utm_campaign=comments&utm_content=23152)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/23152/?utm_source=pubmed&utm_campaign=comments&utm_content=23152)
 
 [![Image ](/books/NBK470524/bin/thermal__burn.gif)](/books/NBK470524/figure/article-23152.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470524/figure/article-23152.image.f1/?report=objectonly)
 
-Thermal Burn DermNet New Zealand 
+Thermal Burn DermNet New Zealand
 
 [![Thermal Burn, Third Degree](/books/NBK470524/bin/Thermal__Burn__3rd__degree.gif)](/books/NBK470524/figure/article-23152.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK470524/figure/article-23152.image.f2/?report=objectonly)
 
-Thermal Burn, Third Degree. The image shows a third-degree thermal burn to the foot, with a total body surface area of less than 1%. Contributed by MA Dreyer, DPM, FACFAS 
+Thermal Burn, Third Degree. The image shows a third-degree thermal burn to the foot, with a total body surface area of less than 1%. Contributed by MA Dreyer, DPM, FACFAS
 
 ## References
 
 1.
-    
 
-Hart GB, O'Reilly RR, Broussard ND, Cave RH, Goodman DB, Yanda RL. Treatment of burns with hyperbaric oxygen. Surg Gynecol Obstet. 1974 Nov;139(5):693-6. [[PubMed: 4610853](https://pubmed.ncbi.nlm.nih.gov/4610853)]
+Hart GB, O'Reilly RR, Broussard ND, Cave RH, Goodman DB, Yanda RL. Treatment of burns with hyperbaric oxygen. Surg Gynecol Obstet. 1974 Nov;139(5):693-6. \[[PubMed: 4610853](https://pubmed.ncbi.nlm.nih.gov/4610853)\]
 
 2.
-    
 
-Aguayo-Becerra OA, Torres-Garibay C, Macías-Amezcua MD, Fuentes-Orozco C, Chávez-Tostado Mde G, Andalón-Dueñas E, Espinosa Partida A, Alvarez-Villaseñor Adel S, Cortés-Flores AO, González-Ojeda A. Serum albumin level as a risk factor for mortality in burn patients. Clinics (Sao Paulo). 2013 Jul;68(7):940-5. [[PMC free article: PMC3714858](/pmc/articles/PMC3714858/)] [[PubMed: 23917657](https://pubmed.ncbi.nlm.nih.gov/23917657)]
+Aguayo-Becerra OA, Torres-Garibay C, Macías-Amezcua MD, Fuentes-Orozco C, Chávez-Tostado Mde G, Andalón-Dueñas E, Espinosa Partida A, Alvarez-Villaseñor Adel S, Cortés-Flores AO, González-Ojeda A. Serum albumin level as a risk factor for mortality in burn patients. Clinics (Sao Paulo). 2013 Jul;68(7):940-5. \[[PMC free article: PMC3714858](/pmc/articles/PMC3714858/)\] \[[PubMed: 23917657](https://pubmed.ncbi.nlm.nih.gov/23917657)\]
 
 3.
-    
 
-Niezgoda JA, Cianci P, Folden BW, Ortega RL, Slade JB, Storrow AB. The effect of hyperbaric oxygen therapy on a burn wound model in human volunteers. Plast Reconstr Surg. 1997 May;99(6):1620-5. [[PubMed: 9145132](https://pubmed.ncbi.nlm.nih.gov/9145132)]
+Niezgoda JA, Cianci P, Folden BW, Ortega RL, Slade JB, Storrow AB. The effect of hyperbaric oxygen therapy on a burn wound model in human volunteers. Plast Reconstr Surg. 1997 May;99(6):1620-5. \[[PubMed: 9145132](https://pubmed.ncbi.nlm.nih.gov/9145132)\]
 
 4.
-    
 
-Cianci P, Lueders HW, Lee H, Shapiro RL, Sexton J, Williams C, Sato R. Adjunctive hyperbaric oxygen therapy reduces length of hospitalization in thermal burns. J Burn Care Rehabil. 1989 Sep-Oct;10(5):432-5. [[PubMed: 2793923](https://pubmed.ncbi.nlm.nih.gov/2793923)]
+Cianci P, Lueders HW, Lee H, Shapiro RL, Sexton J, Williams C, Sato R. Adjunctive hyperbaric oxygen therapy reduces length of hospitalization in thermal burns. J Burn Care Rehabil. 1989 Sep-Oct;10(5):432-5. \[[PubMed: 2793923](https://pubmed.ncbi.nlm.nih.gov/2793923)\]
 
 5.
-    
 
-Villanueva E, Bennett MH, Wasiak J, Lehm JP. Hyperbaric oxygen therapy for thermal burns. Cochrane Database Syst Rev. 2004;2004(3):CD004727. [[PMC free article: PMC8846294](/pmc/articles/PMC8846294/)] [[PubMed: 15266540](https://pubmed.ncbi.nlm.nih.gov/15266540)]
+Villanueva E, Bennett MH, Wasiak J, Lehm JP. Hyperbaric oxygen therapy for thermal burns. Cochrane Database Syst Rev. 2004;2004(3):CD004727. \[[PMC free article: PMC8846294](/pmc/articles/PMC8846294/)\] \[[PubMed: 15266540](https://pubmed.ncbi.nlm.nih.gov/15266540)\]
 
 6.
-    
 
-Jones MW, Cooper JS. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 24, 2023. Hyperbaric Therapy for Skin Grafts and Flaps. [[PubMed: 29262046](https://pubmed.ncbi.nlm.nih.gov/29262046)]
+Jones MW, Cooper JS. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 24, 2023. Hyperbaric Therapy for Skin Grafts and Flaps. \[[PubMed: 29262046](https://pubmed.ncbi.nlm.nih.gov/29262046)\]
 
 7.
-    
 
-Niinikoski JH. Clinical hyperbaric oxygen therapy, wound perfusion, and transcutaneous oximetry. World J Surg. 2004 Mar;28(3):307-11. [[PubMed: 14961187](https://pubmed.ncbi.nlm.nih.gov/14961187)]
+Niinikoski JH. Clinical hyperbaric oxygen therapy, wound perfusion, and transcutaneous oximetry. World J Surg. 2004 Mar;28(3):307-11. \[[PubMed: 14961187](https://pubmed.ncbi.nlm.nih.gov/14961187)\]
 
 8.
-    
 
-Camporesi EM, Bosco G. Mechanisms of action of hyperbaric oxygen therapy. Undersea Hyperb Med. 2014 May-Jun;41(3):247-52. [[PubMed: 24984320](https://pubmed.ncbi.nlm.nih.gov/24984320)]
+Camporesi EM, Bosco G. Mechanisms of action of hyperbaric oxygen therapy. Undersea Hyperb Med. 2014 May-Jun;41(3):247-52. \[[PubMed: 24984320](https://pubmed.ncbi.nlm.nih.gov/24984320)\]
 
 9.
-    
 
-Leach RM, Rees PJ, Wilmshurst P. Hyperbaric oxygen therapy. BMJ. 1998 Oct 24;317(7166):1140-3. [[PMC free article: PMC1114115](/pmc/articles/PMC1114115/)] [[PubMed: 9784458](https://pubmed.ncbi.nlm.nih.gov/9784458)]
+Leach RM, Rees PJ, Wilmshurst P. Hyperbaric oxygen therapy. BMJ. 1998 Oct 24;317(7166):1140-3. \[[PMC free article: PMC1114115](/pmc/articles/PMC1114115/)\] \[[PubMed: 9784458](https://pubmed.ncbi.nlm.nih.gov/9784458)\]
 
 10.
-    
 
-Hadanny A, Meir O, Bechor Y, Fishlev G, Bergan J, Efrati S. Seizures during hyperbaric oxygen therapy: retrospective analysis of 62,614 treatment sessions. Undersea Hyperb Med. 2016 Jan-Feb;43(1):21-8. [[PubMed: 27000010](https://pubmed.ncbi.nlm.nih.gov/27000010)]
+Hadanny A, Meir O, Bechor Y, Fishlev G, Bergan J, Efrati S. Seizures during hyperbaric oxygen therapy: retrospective analysis of 62,614 treatment sessions. Undersea Hyperb Med. 2016 Jan-Feb;43(1):21-8. \[[PubMed: 27000010](https://pubmed.ncbi.nlm.nih.gov/27000010)\]
 
 11.
-    
 
-Roth RN, Weiss LD. Hyperbaric oxygen and wound healing. Clin Dermatol. 1994 Jan-Mar;12(1):141-56. [[PubMed: 8180937](https://pubmed.ncbi.nlm.nih.gov/8180937)]
-
-    
+Roth RN, Weiss LD. Hyperbaric oxygen and wound healing. Clin Dermatol. 1994 Jan-Mar;12(1):141-56. \[[PubMed: 8180937](https://pubmed.ncbi.nlm.nih.gov/8180937)\]
 
 **Disclosure:** Matthew Edwards declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Jeffrey Cooper declares no relevant financial relationships with ineligible companies.

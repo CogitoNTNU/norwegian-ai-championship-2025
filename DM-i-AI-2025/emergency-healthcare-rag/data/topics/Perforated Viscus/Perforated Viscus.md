@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26938/
-scraped_date: 2025-07-22 12:48:05 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26938/ scraped_date: 2025-07-22 12:48:05 UTC
 
 # Peptic Ulcer Perforated
 
@@ -29,13 +28,13 @@ Peptic ulcer disease refers to an insult to the mucosa of the upper digestive tr
 
 **Objectives:**
 
-  * Describe the pathophysiology of peptic ulcer disease.
+- Describe the pathophysiology of peptic ulcer disease.
 
-  * Outline the presentation of a patient with a perforated peptic ulcer.
+- Outline the presentation of a patient with a perforated peptic ulcer.
 
-  * Summarize the treatment options for perforated peptic ulcers.
+- Summarize the treatment options for perforated peptic ulcers.
 
-  * Explain the importance of care coordination among interprofessional team members in order to improve outcomes for patients affected by perforated peptic ulcers.
+- Explain the importance of care coordination among interprofessional team members in order to improve outcomes for patients affected by perforated peptic ulcers.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26938&utm_source=pubmed&utm_campaign=reviews&utm_content=26938)
 
@@ -59,13 +58,13 @@ The ulcerogenic process occurs as a result of damage to the protective mucosal l
 
 Gastric ulcers are classified into four types based on location.[8]
 
-  * **Type 1** : in the antrum, near the lesser curvature
+- **Type 1** : in the antrum, near the lesser curvature
 
-  * **Type 2** : combined gastric and duodenal ulcer
+- **Type 2** : combined gastric and duodenal ulcer
 
-  * **Type 3** : Prepyloric ulcer
+- **Type 3** : Prepyloric ulcer
 
-  * **Type 4** : ulcer in the proximal stomach or cardia
+- **Type 4** : ulcer in the proximal stomach or cardia
 
 Gastric ulcers are most commonly found in the lesser curvature (55%), followed by a combination of duodenal and gastric ulcers. Duodenal ulcers are most commonly located in the first part of the duodenum.
 
@@ -75,13 +74,13 @@ Gastric ulcers have malignant potential compared to duodenal ulcers that do not 
 
 Microscopically, a peptic ulcer consists of chronic inflammatory cells and granulation tissue, endarteritis obliterans, and epithelial proliferation. Peptic ulcers have four prototypical zones:
 
-  1. Superficially located neutrophils, bacteria, and necrotic areas
+1. Superficially located neutrophils, bacteria, and necrotic areas
 
-  2. Fibrinoid necrosis at base of the ulcers and its margins
+1. Fibrinoid necrosis at base of the ulcers and its margins
 
-  3. Chronic inflammatory cells with accompanying granulation tissue
+1. Chronic inflammatory cells with accompanying granulation tissue
 
-  4. Fibrous scars in the muscularis propria layer showing blood vessels with underlying endarteritis obliterans
+1. Fibrous scars in the muscularis propria layer showing blood vessels with underlying endarteritis obliterans
 
 ## History and Physical
 
@@ -111,49 +110,49 @@ The mainstay treatment for a perforated peptic ulcer is early operative interven
 
 Differential diagnosis includes but is not limited to the following:
 
-  * Abdominal aortic aneurysm (AAA)
+- Abdominal aortic aneurysm (AAA)
 
-  * Acute coronary syndrome
+- Acute coronary syndrome
 
-  * Aortic dissection
+- Aortic dissection
 
-  * Appendicitis
+- Appendicitis
 
-  * Boerhaave syndrome
+- Boerhaave syndrome
 
-  * Cholecystitis
+- Cholecystitis
 
-  * Cholelithiasis
+- Cholelithiasis
 
-  * Choledocholithiasis
+- Choledocholithiasis
 
-  * Diverticulitis
+- Diverticulitis
 
-  * Duodenitis
+- Duodenitis
 
-  * Esophagitis
+- Esophagitis
 
-  * Foreign body ingestion
+- Foreign body ingestion
 
-  * Gastritis
+- Gastritis
 
-  * Hepatitis
+- Hepatitis
 
-  * Hernia
+- Hernia
 
-  * Mesenteric ischemia
+- Mesenteric ischemia
 
-  * Neoplasm
+- Neoplasm
 
-  * Nephrolithiasis
+- Nephrolithiasis
 
-  * Pyelonephritis
+- Pyelonephritis
 
-  * Small bowel obstruction
+- Small bowel obstruction
 
-  * Ureterolithiasis
+- Ureterolithiasis
 
-  * Volvulus
+- Volvulus
 
 ## Surgical Oncology
 
@@ -167,116 +166,96 @@ The mortality rate of perforated peptic ulcer is ten times higher than that seen
 
 Complications of untreated peptic ulcer perforation are severe and will eventually lead to patient demise. Short-term complications include:
 
-  * Hypovolemia
+- Hypovolemia
 
-  * Shock
+- Shock
 
-  * Sepsis
+- Sepsis
 
-  * Gastrocolic fistula formation
+- Gastrocolic fistula formation
 
 ## Deterrence and Patient Education
 
 Patients with peptic ulcer disease should be warned about the possible complication of perforation. They should be counseled on medication compliance to ensure adequate healing of the ulcer occurs. Smoking cessation should be emphasized and other aggravating agents should be avoided as much as possible. These include nonsteroidal anti-inflammatory drugs (NSAIDs), alcohol, and caffeinated beverages.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Managing a patient with a perforated peptic ulcer can be challenging given the morbidity and mortality associated with the disease. Hence it requires an interprofessional approach to maximize the chances of a favorable outcome. Diagnosis relies on suspicion of the underlying disorder. This treatment begins with the nurse triaging the patient and continues with the emergency medicine provider. Once suspected, resuscitative measures must be initiated while diagnostic studies are being obtained. This takes a coordinated effort between the ED provider and staff members of the nursing, pharmacy, and radiology departments. Once the diagnosis is made, further communication is required between the ED provider and the on-call surgeon. Interprofessional communication is central to an expedited workup and treatment with the ultimate goal of getting the appropriate patient to the operating room promptly as the surgical delay has been related to mortality.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26938&utm_source=pubmed&utm_campaign=reviews&utm_content=26938)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=26938&utm_source=pubmed&utm_campaign=reviews&utm_content=26938)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/gut-health/peptic-ulcer-perforated/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26938)
+- [Click here for a simplified version.](https://mdsearchlight.com/gut-health/peptic-ulcer-perforated/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=26938)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26938/?utm_source=pubmed&utm_campaign=comments&utm_content=26938)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/26938/?utm_source=pubmed&utm_campaign=comments&utm_content=26938)
 
 [![Image ](/books/NBK538326/bin/free__air.gif)](/books/NBK538326/figure/article-26938.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK538326/figure/article-26938.image.f1/?report=objectonly)
 
-Pneumoperitoneum Image courtesy S Bhimji MD 
+Pneumoperitoneum Image courtesy S Bhimji MD
 
 ## References
 
 1.
-    
 
-Lanas A, Chan FKL. Peptic ulcer disease. Lancet. 2017 Aug 05;390(10094):613-624. [[PubMed: 28242110](https://pubmed.ncbi.nlm.nih.gov/28242110)]
+Lanas A, Chan FKL. Peptic ulcer disease. Lancet. 2017 Aug 05;390(10094):613-624. \[[PubMed: 28242110](https://pubmed.ncbi.nlm.nih.gov/28242110)\]
 
 2.
-    
 
-Gisbert JP, Legido J, García-Sanz I, Pajares JM. Helicobacter pylori and perforated peptic ulcer prevalence of the infection and role of non-steroidal anti-inflammatory drugs. Dig Liver Dis. 2004 Feb;36(2):116-20. [[PubMed: 15002818](https://pubmed.ncbi.nlm.nih.gov/15002818)]
+Gisbert JP, Legido J, García-Sanz I, Pajares JM. Helicobacter pylori and perforated peptic ulcer prevalence of the infection and role of non-steroidal anti-inflammatory drugs. Dig Liver Dis. 2004 Feb;36(2):116-20. \[[PubMed: 15002818](https://pubmed.ncbi.nlm.nih.gov/15002818)\]
 
 3.
-    
 
-Kavitt RT, Lipowska AM, Anyane-Yeboa A, Gralnek IM. Diagnosis and Treatment of Peptic Ulcer Disease. Am J Med. 2019 Apr;132(4):447-456. [[PubMed: 30611829](https://pubmed.ncbi.nlm.nih.gov/30611829)]
+Kavitt RT, Lipowska AM, Anyane-Yeboa A, Gralnek IM. Diagnosis and Treatment of Peptic Ulcer Disease. Am J Med. 2019 Apr;132(4):447-456. \[[PubMed: 30611829](https://pubmed.ncbi.nlm.nih.gov/30611829)\]
 
 4.
-    
 
-Rosenstock S, Jørgensen T, Bonnevie O, Andersen L. Risk factors for peptic ulcer disease: a population based prospective cohort study comprising 2416 Danish adults. Gut. 2003 Feb;52(2):186-93. [[PMC free article: PMC1774958](/pmc/articles/PMC1774958/)] [[PubMed: 12524398](https://pubmed.ncbi.nlm.nih.gov/12524398)]
+Rosenstock S, Jørgensen T, Bonnevie O, Andersen L. Risk factors for peptic ulcer disease: a population based prospective cohort study comprising 2416 Danish adults. Gut. 2003 Feb;52(2):186-93. \[[PMC free article: PMC1774958](/pmc/articles/PMC1774958/)\] \[[PubMed: 12524398](https://pubmed.ncbi.nlm.nih.gov/12524398)\]
 
 5.
-    
 
-Kempenich JW, Sirinek KR. Acid Peptic Disease. Surg Clin North Am. 2018 Oct;98(5):933-944. [[PubMed: 30243454](https://pubmed.ncbi.nlm.nih.gov/30243454)]
+Kempenich JW, Sirinek KR. Acid Peptic Disease. Surg Clin North Am. 2018 Oct;98(5):933-944. \[[PubMed: 30243454](https://pubmed.ncbi.nlm.nih.gov/30243454)\]
 
 6.
-    
 
-Lau JY, Sung J, Hill C, Henderson C, Howden CW, Metz DC. Systematic review of the epidemiology of complicated peptic ulcer disease: incidence, recurrence, risk factors and mortality. Digestion. 2011;84(2):102-13. [[PubMed: 21494041](https://pubmed.ncbi.nlm.nih.gov/21494041)]
+Lau JY, Sung J, Hill C, Henderson C, Howden CW, Metz DC. Systematic review of the epidemiology of complicated peptic ulcer disease: incidence, recurrence, risk factors and mortality. Digestion. 2011;84(2):102-13. \[[PubMed: 21494041](https://pubmed.ncbi.nlm.nih.gov/21494041)\]
 
 7.
-    
 
-Søreide K, Thorsen K, Harrison EM, Bingener J, Møller MH, Ohene-Yeboah M, Søreide JA. Perforated peptic ulcer. Lancet. 2015 Sep 26;386(10000):1288-1298. [[PMC free article: PMC4618390](/pmc/articles/PMC4618390/)] [[PubMed: 26460663](https://pubmed.ncbi.nlm.nih.gov/26460663)]
+Søreide K, Thorsen K, Harrison EM, Bingener J, Møller MH, Ohene-Yeboah M, Søreide JA. Perforated peptic ulcer. Lancet. 2015 Sep 26;386(10000):1288-1298. \[[PMC free article: PMC4618390](/pmc/articles/PMC4618390/)\] \[[PubMed: 26460663](https://pubmed.ncbi.nlm.nih.gov/26460663)\]
 
 8.
-    
 
-Chernyshev VN, Aleksandrov IK. [Classification of stomach ulcers and choice of the surgery method]. Khirurgiia (Mosk). 1992 Sep-Oct;(9-10):3-8. [[PubMed: 1474788](https://pubmed.ncbi.nlm.nih.gov/1474788)]
+Chernyshev VN, Aleksandrov IK. [Classification of stomach ulcers and choice of the surgery method]. Khirurgiia (Mosk). 1992 Sep-Oct;(9-10):3-8. \[[PubMed: 1474788](https://pubmed.ncbi.nlm.nih.gov/1474788)\]
 
 9.
-    
 
-Lv SX, Gan JH, Ma XG, Wang CC, Chen HM, Luo EP, Huang XP, Wu SH, Qin AL, Ke-Chen, Wang XH, Wei-Sun, Li-Chen, Ying-Xie, Hu FX, Dan-Niu, Walia S, Zhu J. Biopsy from the base and edge of gastric ulcer healing or complete healing may lead to detection of gastric cancer earlier: an 8 years endoscopic follow-up study. Hepatogastroenterology. 2012 May;59(115):947-50. [[PubMed: 22469743](https://pubmed.ncbi.nlm.nih.gov/22469743)]
+Lv SX, Gan JH, Ma XG, Wang CC, Chen HM, Luo EP, Huang XP, Wu SH, Qin AL, Ke-Chen, Wang XH, Wei-Sun, Li-Chen, Ying-Xie, Hu FX, Dan-Niu, Walia S, Zhu J. Biopsy from the base and edge of gastric ulcer healing or complete healing may lead to detection of gastric cancer earlier: an 8 years endoscopic follow-up study. Hepatogastroenterology. 2012 May;59(115):947-50. \[[PubMed: 22469743](https://pubmed.ncbi.nlm.nih.gov/22469743)\]
 
 10.
-    
 
-Amorena Muro E, Borda Celaya F, Martínez-Peñuela Virseda JM, Borobio Aguilar E, Oquiñena Legaz S, Jiménez Pérez FJ. [Analysis of the clinical benefits and cost-effectiveness of performing a systematic second-look gastroscopy in benign gastric ulcer]. Gastroenterol Hepatol. 2009 Jan;32(1):2-8. [[PubMed: 19174093](https://pubmed.ncbi.nlm.nih.gov/19174093)]
+Amorena Muro E, Borda Celaya F, Martínez-Peñuela Virseda JM, Borobio Aguilar E, Oquiñena Legaz S, Jiménez Pérez FJ. [Analysis of the clinical benefits and cost-effectiveness of performing a systematic second-look gastroscopy in benign gastric ulcer]. Gastroenterol Hepatol. 2009 Jan;32(1):2-8. \[[PubMed: 19174093](https://pubmed.ncbi.nlm.nih.gov/19174093)\]
 
 11.
-    
 
-Møller MH, Adamsen S, Thomsen RW, Møller AM. Preoperative prognostic factors for mortality in peptic ulcer perforation: a systematic review. Scand J Gastroenterol. 2010 Aug;45(7-8):785-805. [[PubMed: 20384526](https://pubmed.ncbi.nlm.nih.gov/20384526)]
+Møller MH, Adamsen S, Thomsen RW, Møller AM. Preoperative prognostic factors for mortality in peptic ulcer perforation: a systematic review. Scand J Gastroenterol. 2010 Aug;45(7-8):785-805. \[[PubMed: 20384526](https://pubmed.ncbi.nlm.nih.gov/20384526)\]
 
 12.
-    
 
-Krobot K, Yin D, Zhang Q, Sen S, Altendorf-Hofmann A, Scheele J, Sendt W. Effect of inappropriate initial empiric antibiotic therapy on outcome of patients with community-acquired intra-abdominal infections requiring surgery. Eur J Clin Microbiol Infect Dis. 2004 Sep;23(9):682-7. [[PubMed: 15322931](https://pubmed.ncbi.nlm.nih.gov/15322931)]
+Krobot K, Yin D, Zhang Q, Sen S, Altendorf-Hofmann A, Scheele J, Sendt W. Effect of inappropriate initial empiric antibiotic therapy on outcome of patients with community-acquired intra-abdominal infections requiring surgery. Eur J Clin Microbiol Infect Dis. 2004 Sep;23(9):682-7. \[[PubMed: 15322931](https://pubmed.ncbi.nlm.nih.gov/15322931)\]
 
 13.
-    
 
-Satoh K, Yoshino J, Akamatsu T, Itoh T, Kato M, Kamada T, Takagi A, Chiba T, Nomura S, Mizokami Y, Murakami K, Sakamoto C, Hiraishi H, Ichinose M, Uemura N, Goto H, Joh T, Miwa H, Sugano K, Shimosegawa T. Evidence-based clinical practice guidelines for peptic ulcer disease 2015. J Gastroenterol. 2016 Mar;51(3):177-94. [[PubMed: 26879862](https://pubmed.ncbi.nlm.nih.gov/26879862)]
+Satoh K, Yoshino J, Akamatsu T, Itoh T, Kato M, Kamada T, Takagi A, Chiba T, Nomura S, Mizokami Y, Murakami K, Sakamoto C, Hiraishi H, Ichinose M, Uemura N, Goto H, Joh T, Miwa H, Sugano K, Shimosegawa T. Evidence-based clinical practice guidelines for peptic ulcer disease 2015. J Gastroenterol. 2016 Mar;51(3):177-94. \[[PubMed: 26879862](https://pubmed.ncbi.nlm.nih.gov/26879862)\]
 
 14.
-    
 
-Surapaneni S, S R, Reddy A VB. The Perforation-Operation time Interval; An Important Mortality Indicator in Peptic Ulcer Perforation. J Clin Diagn Res. 2013 May;7(5):880-2. [[PMC free article: PMC3681060](/pmc/articles/PMC3681060/)] [[PubMed: 23814733](https://pubmed.ncbi.nlm.nih.gov/23814733)]
-
-    
+Surapaneni S, S R, Reddy A VB. The Perforation-Operation time Interval; An Important Mortality Indicator in Peptic Ulcer Perforation. J Clin Diagn Res. 2013 May;7(5):880-2. \[[PMC free article: PMC3681060](/pmc/articles/PMC3681060/)\] \[[PubMed: 23814733](https://pubmed.ncbi.nlm.nih.gov/23814733)\]
 
 **Disclosure:** Evan Stern declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Kavin Sugumar declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Jonathan Journey declares no relevant financial relationships with ineligible companies.

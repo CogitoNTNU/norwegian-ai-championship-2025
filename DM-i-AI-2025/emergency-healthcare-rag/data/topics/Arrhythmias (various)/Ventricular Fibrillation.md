@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-31086/
-scraped_date: 2025-07-22 12:37:29 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-31086/ scraped_date: 2025-07-22 12:37:29 UTC
 
 # Ventricular Fibrillation
 
@@ -29,13 +28,13 @@ Arrhythmias originating from the ventricular myocardium or His-Purkinje system a
 
 **Objectives:**
 
-  * Describe the causes of VF.
+- Describe the causes of VF.
 
-  * Recall the pathophysiology of VF.
+- Recall the pathophysiology of VF.
 
-  * Summarize the treatment options for VF.
+- Summarize the treatment options for VF.
 
-  * Review the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected with VF.
+- Review the importance of improving care coordination among interprofessional team members to improve outcomes for patients affected with VF.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=31086&utm_source=pubmed&utm_campaign=reviews&utm_content=31086)
 
@@ -57,15 +56,15 @@ In 2017 the American Heart Association (AHA) update estimated the total annual b
 
 VF occurs when parts of ventricular myocardium depolarize erratically in an uncoordinated manner. VF results from the following:
 
-**_Abnormal Impulse Formation_ **
+\*\*_Abnormal Impulse Formation_ \*\*
 
-  * _Increased automaticity:_ Purkinje cells around ischemic areas during MI can initiate ventricular tachycardia.
+- _Increased automaticity:_ Purkinje cells around ischemic areas during MI can initiate ventricular tachycardia.
 
-  * _Triggered activity:_ Early and late after depolarization can overcome refractory threshold and generate triggered potential causing extrasystoles.
+- _Triggered activity:_ Early and late after depolarization can overcome refractory threshold and generate triggered potential causing extrasystoles.
 
-**_Impulse Conduction_ **
+\*\*_Impulse Conduction_ \*\*
 
-  * Functional and anatomical reentry circuits help sustain ventricular arrhythmia.
+- Functional and anatomical reentry circuits help sustain ventricular arrhythmia.
 
 ## History and Physical
 
@@ -75,13 +74,13 @@ The most common presentation for VF is sudden collapse from cardiac arrest leadi
 
 Acute presentation of symptoms and ECG findings lead to the diagnosis.
 
-**_ECG Findings_ **
+\*\*_ECG Findings_ \*\*
 
-  * Fibrillation waves of varying amplitude and shape.
+- Fibrillation waves of varying amplitude and shape.
 
-  * No identifiable P waves, QRS complexes, or T waves
+- No identifiable P waves, QRS complexes, or T waves
 
-  * Heart rate anywhere between 150 to 500 per minute
+- Heart rate anywhere between 150 to 500 per minute
 
 _VF storm:_ Identified by 3 or more episodes of VF or appropriate shocks from ICD within 24 hours
 
@@ -89,33 +88,33 @@ Patients surviving VF should have a thorough history and physical examination. A
 
 Appropriate laboratory studies include:
 
-  * Serum electrolytes
+- Serum electrolytes
 
-  * Arterial blood gas
+- Arterial blood gas
 
-  * Complete blood cell count
+- Complete blood cell count
 
-  * Cardiac enzymes
+- Cardiac enzymes
 
-  * Levels of drugs
+- Levels of drugs
 
-  * Toxicology screen
+- Toxicology screen
 
-  * BNP levels
+- BNP levels
 
 The ECG may reveal:
 
-  * MI
+- MI
 
-  * Brugada syndrome
+- Brugada syndrome
 
-  * Long or short QT interval
+- Long or short QT interval
 
-  * WPW
+- WPW
 
-  * Digitalis toxicity
+- Digitalis toxicity
 
-  * Epsilon sign (arrhythmogenic right ventricular cardiomyopathy)
+- Epsilon sign (arrhythmogenic right ventricular cardiomyopathy)
 
 ECHO is usually done to assess the wall motion, ejection fraction and any valvular problems. In addition, Echo will identify any pericardial fluid that may have resulted from CPR.
 
@@ -131,11 +130,11 @@ Due to the high mortality rate and extreme acuity of the condition, VF patients 
 
 Primary prevention has been a significant factor in reducing VF-related SCDs. Most VF transition from VT and other VA and hence identifying such arrhythmias at an early stage can help prevent VF. In patients with symptoms suspected to be related to VA, detection using ambulatory electrocardiography and implanted cardiac monitors is recommended. [7]. Healthcare professionals should offer family members of patients with inherited arrhythmia syndromes genetic testing and counseling for risk stratification.
 
-**_Medication Therapy_ **
+\*\*_Medication Therapy_ \*\*
 
 Amiodarone is the most commonly studied antiarrhythmic for prevention of SCD. The overall effect of amiodarone on survival is controversial. Most studies have failed to show any added benefit when compared to placebo or ICD.[12] Sotalol, on the other hand, is associated with an increased risk of mortality by decreasing the defibrillation threshold. A meta-analysis published in 2007 showed a significant reduction in risk of SCD with statin treatment.[13] Lower SCD incidence has been reported in patients on chronic beta-blocker therapy for heart failure with reduced ejection fraction.
 
-**_Defibrillators_ **
+\*\*_Defibrillators_ \*\*
 
 Randomized control trials such as MADIT-I (Multicenter Automated Defibrillator Implantation Trial), MADIT-II, SCD-HeFT (Sudden Cardiac Death in Heart Failure Trial) have clearly demonstrated mortality benefits with ICD when compared to standard medical therapy. Trials comparing ICD with antiarrhythmic therapy such as AVID (Antiarrhythmic Versus Implantable Defibrillator) have shown similar results.
 
@@ -145,25 +144,25 @@ ICD placement is recommended for primary prevention of SCD in patients at increa
 
 It is important to differentiate VF from pulseless electrical activity (PEA)/asystole as both these conditions are managed differently as per ACLS protocol. Other causes of sudden collapse such as aortic dissection and pulmonary embolism should be considered. The following conditions can be easily confused with VF on an ECG and should be ruled out.
 
-  * Polymorphic ventricular tachycardia
+- Polymorphic ventricular tachycardia
 
-  * Torsade de pointes
+- Torsade de pointes
 
-  * Ventricular flutter
+- Ventricular flutter
 
-  * Pulseless electrical activity
+- Pulseless electrical activity
 
-  * Accelerated idioventricular rhythm
+- Accelerated idioventricular rhythm
 
-  * SVT with aberrancy
+- SVT with aberrancy
 
 ## Staging
 
 **Types of VF on ECG**
 
-  * _Coarse VF:_ Majority of the waveforms measure 3 mm or greater
+- _Coarse VF:_ Majority of the waveforms measure 3 mm or greater
 
-  *  _Fine VF:_ Majority of the waveforms measure less than 3 mm
+- _Fine VF:_ Majority of the waveforms measure less than 3 mm
 
 ## Prognosis
 
@@ -173,25 +172,25 @@ VF outside the hospital can be reversed as today there are defibrillators availa
 
 ## Complications
 
-  * Anoxic brain injury
+- Anoxic brain injury
 
-  * Post defibrillation arrhythmias
+- Post defibrillation arrhythmias
 
-  * Injuries from CPR and resuscitation
+- Injuries from CPR and resuscitation
 
-  * Skin burns
+- Skin burns
 
-  * Long terms disabilities
+- Long terms disabilities
 
-  * Myocardial injury
+- Myocardial injury
 
-  * Death
+- Death
 
 ## Consultations
 
 Consultations should include cardiology, electrophysiology, and interventional cardiology.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Cardiac arrest is a near-death experience impacting not only the patient but family members too. A variety of health care professionals should be involved from the onset of arrest up to hospital discharge. Studies have continuously demonstrated the importance of Interprofessional communication and teamwork while resuscitating patients. Successful resuscitation is an outcome of good communication and understanding your responsibilities. (LOE-1) Physicians, nurses, pharmacists, laboratory technicians all come together and commit to the success of the team.
 
@@ -205,109 +204,88 @@ Patient outcomes can be improved by spreading awareness about the condition and 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=31086&utm_source=pubmed&utm_campaign=reviews&utm_content=31086)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=31086&utm_source=pubmed&utm_campaign=reviews&utm_content=31086)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/heart-health/ventricular-fibrillation/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=31086)
+- [Click here for a simplified version.](https://mdsearchlight.com/heart-health/ventricular-fibrillation/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=31086)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/31086/?utm_source=pubmed&utm_campaign=comments&utm_content=31086)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/31086/?utm_source=pubmed&utm_campaign=comments&utm_content=31086)
 
 [![Image ](/books/NBK537120/bin/venfib.gif)](/books/NBK537120/figure/article-31086.image.f1/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK537120/figure/article-31086.image.f1/?report=objectonly)
 
-Ventricular fibrillation Image courtesy S Bhimji MD 
+Ventricular fibrillation Image courtesy S Bhimji MD
 
 [![Image ](/books/NBK537120/bin/venfib.gif)](/books/NBK537120/figure/article-31086.image.f2/?report=objectonly "Figure")
 
 #### [Figure](/books/NBK537120/figure/article-31086.image.f2/?report=objectonly)
 
-Ventricular fibrillation Image courtesy S Bhimji MD 
+Ventricular fibrillation Image courtesy S Bhimji MD
 
 ## References
 
 1.
-    
 
-American College of Cardiology/American Heart Association Task Force on Clinical Data Standards (ACC/AHA/HRS Writing Committee to Develop Data Standards on Electrophysiology). Buxton AE, Calkins H, Callans DJ, DiMarco JP, Fisher JD, Greene HL, Haines DE, Hayes DL, Heidenreich PA, Miller JM, Poppas A, Prystowsky EN, Schoenfeld MH, Zimetbaum PJ, Goff DC, Grover FL, Malenka DJ, Peterson ED, Radford MJ, Redberg RF. ACC/AHA/HRS 2006 key data elements and definitions for electrophysiological studies and procedures: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Data Standards (ACC/AHA/HRS Writing Committee to Develop Data Standards on Electrophysiology). Circulation. 2006 Dec 05;114(23):2534-70. [[PubMed: 17130345](https://pubmed.ncbi.nlm.nih.gov/17130345)]
+American College of Cardiology/American Heart Association Task Force on Clinical Data Standards (ACC/AHA/HRS Writing Committee to Develop Data Standards on Electrophysiology). Buxton AE, Calkins H, Callans DJ, DiMarco JP, Fisher JD, Greene HL, Haines DE, Hayes DL, Heidenreich PA, Miller JM, Poppas A, Prystowsky EN, Schoenfeld MH, Zimetbaum PJ, Goff DC, Grover FL, Malenka DJ, Peterson ED, Radford MJ, Redberg RF. ACC/AHA/HRS 2006 key data elements and definitions for electrophysiological studies and procedures: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Data Standards (ACC/AHA/HRS Writing Committee to Develop Data Standards on Electrophysiology). Circulation. 2006 Dec 05;114(23):2534-70. \[[PubMed: 17130345](https://pubmed.ncbi.nlm.nih.gov/17130345)\]
 
 2.
-    
 
-Glinge C, Sattler S, Jabbari R, Tfelt-Hansen J. Epidemiology and genetics of ventricular fibrillation during acute myocardial infarction. J Geriatr Cardiol. 2016 Sep;13(9):789-797. [[PMC free article: PMC5122505](/pmc/articles/PMC5122505/)] [[PubMed: 27899944](https://pubmed.ncbi.nlm.nih.gov/27899944)]
+Glinge C, Sattler S, Jabbari R, Tfelt-Hansen J. Epidemiology and genetics of ventricular fibrillation during acute myocardial infarction. J Geriatr Cardiol. 2016 Sep;13(9):789-797. \[[PMC free article: PMC5122505](/pmc/articles/PMC5122505/)\] \[[PubMed: 27899944](https://pubmed.ncbi.nlm.nih.gov/27899944)\]
 
 3.
-    
 
-Jabbari R, Engstrøm T, Glinge C, Risgaard B, Jabbari J, Winkel BG, Terkelsen CJ, Tilsted HH, Jensen LO, Hougaard M, Chiuve SE, Pedersen F, Svendsen JH, Haunsø S, Albert CM, Tfelt-Hansen J. Incidence and risk factors of ventricular fibrillation before primary angioplasty in patients with first ST-elevation myocardial infarction: a nationwide study in Denmark. J Am Heart Assoc. 2015 Jan 05;4(1):e001399. [[PMC free article: PMC4330064](/pmc/articles/PMC4330064/)] [[PubMed: 25559012](https://pubmed.ncbi.nlm.nih.gov/25559012)]
+Jabbari R, Engstrøm T, Glinge C, Risgaard B, Jabbari J, Winkel BG, Terkelsen CJ, Tilsted HH, Jensen LO, Hougaard M, Chiuve SE, Pedersen F, Svendsen JH, Haunsø S, Albert CM, Tfelt-Hansen J. Incidence and risk factors of ventricular fibrillation before primary angioplasty in patients with first ST-elevation myocardial infarction: a nationwide study in Denmark. J Am Heart Assoc. 2015 Jan 05;4(1):e001399. \[[PMC free article: PMC4330064](/pmc/articles/PMC4330064/)\] \[[PubMed: 25559012](https://pubmed.ncbi.nlm.nih.gov/25559012)\]
 
 4.
-    
 
-Samie FH, Jalife J. Mechanisms underlying ventricular tachycardia and its transition to ventricular fibrillation in the structurally normal heart. Cardiovasc Res. 2001 May;50(2):242-50. [[PubMed: 11334828](https://pubmed.ncbi.nlm.nih.gov/11334828)]
+Samie FH, Jalife J. Mechanisms underlying ventricular tachycardia and its transition to ventricular fibrillation in the structurally normal heart. Cardiovasc Res. 2001 May;50(2):242-50. \[[PubMed: 11334828](https://pubmed.ncbi.nlm.nih.gov/11334828)\]
 
 5.
-    
 
-Bezzina CR, Pazoki R, Bardai A, Marsman RF, de Jong JSSG, Blom MT, Scicluna BP, Jukema JW, Bindraban NR, Lichtner P, Pfeufer A, Bishopric NH, Roden DM, Meitinger T, Chugh SS, Myerburg RJ, Jouven X, Kääb S, Dekker LRC, Tan HL, Tanck MWT, Wilde AAM. Genome-wide association study identifies a susceptibility locus at 21q21 for ventricular fibrillation in acute myocardial infarction. Nat Genet. 2010 Aug;42(8):688-691. [[PMC free article: PMC3966292](/pmc/articles/PMC3966292/)] [[PubMed: 20622880](https://pubmed.ncbi.nlm.nih.gov/20622880)]
+Bezzina CR, Pazoki R, Bardai A, Marsman RF, de Jong JSSG, Blom MT, Scicluna BP, Jukema JW, Bindraban NR, Lichtner P, Pfeufer A, Bishopric NH, Roden DM, Meitinger T, Chugh SS, Myerburg RJ, Jouven X, Kääb S, Dekker LRC, Tan HL, Tanck MWT, Wilde AAM. Genome-wide association study identifies a susceptibility locus at 21q21 for ventricular fibrillation in acute myocardial infarction. Nat Genet. 2010 Aug;42(8):688-691. \[[PMC free article: PMC3966292](/pmc/articles/PMC3966292/)\] \[[PubMed: 20622880](https://pubmed.ncbi.nlm.nih.gov/20622880)\]
 
 6.
-    
 
-Adabag AS, Luepker RV, Roger VL, Gersh BJ. Sudden cardiac death: epidemiology and risk factors. Nat Rev Cardiol. 2010 Apr;7(4):216-25. [[PMC free article: PMC5014372](/pmc/articles/PMC5014372/)] [[PubMed: 20142817](https://pubmed.ncbi.nlm.nih.gov/20142817)]
+Adabag AS, Luepker RV, Roger VL, Gersh BJ. Sudden cardiac death: epidemiology and risk factors. Nat Rev Cardiol. 2010 Apr;7(4):216-25. \[[PMC free article: PMC5014372](/pmc/articles/PMC5014372/)\] \[[PubMed: 20142817](https://pubmed.ncbi.nlm.nih.gov/20142817)\]
 
 7.
-    
 
-Al-Khatib SM, Stevenson WG, Ackerman MJ, Bryant WJ, Callans DJ, Curtis AB, Deal BJ, Dickfeld T, Field ME, Fonarow GC, Gillis AM, Granger CB, Hammill SC, Hlatky MA, Joglar JA, Kay GN, Matlock DD, Myerburg RJ, Page RL. 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018 Oct 02;72(14):1677-1749. [[PubMed: 29097294](https://pubmed.ncbi.nlm.nih.gov/29097294)]
+Al-Khatib SM, Stevenson WG, Ackerman MJ, Bryant WJ, Callans DJ, Curtis AB, Deal BJ, Dickfeld T, Field ME, Fonarow GC, Gillis AM, Granger CB, Hammill SC, Hlatky MA, Joglar JA, Kay GN, Matlock DD, Myerburg RJ, Page RL. 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018 Oct 02;72(14):1677-1749. \[[PubMed: 29097294](https://pubmed.ncbi.nlm.nih.gov/29097294)\]
 
 8.
-    
 
-Dumas F, Cariou A, Manzo-Silberman S, Grimaldi D, Vivien B, Rosencher J, Empana JP, Carli P, Mira JP, Jouven X, Spaulding C. Immediate percutaneous coronary intervention is associated with better survival after out-of-hospital cardiac arrest: insights from the PROCAT (Parisian Region Out of hospital Cardiac ArresT) registry. Circ Cardiovasc Interv. 2010 Jun 01;3(3):200-7. [[PubMed: 20484098](https://pubmed.ncbi.nlm.nih.gov/20484098)]
+Dumas F, Cariou A, Manzo-Silberman S, Grimaldi D, Vivien B, Rosencher J, Empana JP, Carli P, Mira JP, Jouven X, Spaulding C. Immediate percutaneous coronary intervention is associated with better survival after out-of-hospital cardiac arrest: insights from the PROCAT (Parisian Region Out of hospital Cardiac ArresT) registry. Circ Cardiovasc Interv. 2010 Jun 01;3(3):200-7. \[[PubMed: 20484098](https://pubmed.ncbi.nlm.nih.gov/20484098)\]
 
 9.
-    
 
-Honarmand K, Mepham C, Ainsworth C, Khalid Z. Adherence to advanced cardiovascular life support (ACLS) guidelines during in-hospital cardiac arrest is associated with improved outcomes. Resuscitation. 2018 Aug;129:76-81. [[PubMed: 29885353](https://pubmed.ncbi.nlm.nih.gov/29885353)]
+Honarmand K, Mepham C, Ainsworth C, Khalid Z. Adherence to advanced cardiovascular life support (ACLS) guidelines during in-hospital cardiac arrest is associated with improved outcomes. Resuscitation. 2018 Aug;129:76-81. \[[PubMed: 29885353](https://pubmed.ncbi.nlm.nih.gov/29885353)\]
 
 10.
-    
 
-Chan PS, Krumholz HM, Nichol G, Nallamothu BK., American Heart Association National Registry of Cardiopulmonary Resuscitation Investigators. Delayed time to defibrillation after in-hospital cardiac arrest. N Engl J Med. 2008 Jan 03;358(1):9-17. [[PubMed: 18172170](https://pubmed.ncbi.nlm.nih.gov/18172170)]
+Chan PS, Krumholz HM, Nichol G, Nallamothu BK., American Heart Association National Registry of Cardiopulmonary Resuscitation Investigators. Delayed time to defibrillation after in-hospital cardiac arrest. N Engl J Med. 2008 Jan 03;358(1):9-17. \[[PubMed: 18172170](https://pubmed.ncbi.nlm.nih.gov/18172170)\]
 
 11.
-    
 
-Laina A, Karlis G, Liakos A, Georgiopoulos G, Oikonomou D, Kouskouni E, Chalkias A, Xanthos T. Amiodarone and cardiac arrest: Systematic review and meta-analysis. Int J Cardiol. 2016 Oct 15;221:780-8. [[PubMed: 27434349](https://pubmed.ncbi.nlm.nih.gov/27434349)]
+Laina A, Karlis G, Liakos A, Georgiopoulos G, Oikonomou D, Kouskouni E, Chalkias A, Xanthos T. Amiodarone and cardiac arrest: Systematic review and meta-analysis. Int J Cardiol. 2016 Oct 15;221:780-8. \[[PubMed: 27434349](https://pubmed.ncbi.nlm.nih.gov/27434349)\]
 
 12.
-    
 
-Bardy GH, Lee KL, Mark DB, Poole JE, Packer DL, Boineau R, Domanski M, Troutman C, Anderson J, Johnson G, McNulty SE, Clapp-Channing N, Davidson-Ray LD, Fraulo ES, Fishbein DP, Luceri RM, Ip JH., Sudden Cardiac Death in Heart Failure Trial (SCD-HeFT) Investigators. Amiodarone or an implantable cardioverter-defibrillator for congestive heart failure. N Engl J Med. 2005 Jan 20;352(3):225-37. [[PubMed: 15659722](https://pubmed.ncbi.nlm.nih.gov/15659722)]
+Bardy GH, Lee KL, Mark DB, Poole JE, Packer DL, Boineau R, Domanski M, Troutman C, Anderson J, Johnson G, McNulty SE, Clapp-Channing N, Davidson-Ray LD, Fraulo ES, Fishbein DP, Luceri RM, Ip JH., Sudden Cardiac Death in Heart Failure Trial (SCD-HeFT) Investigators. Amiodarone or an implantable cardioverter-defibrillator for congestive heart failure. N Engl J Med. 2005 Jan 20;352(3):225-37. \[[PubMed: 15659722](https://pubmed.ncbi.nlm.nih.gov/15659722)\]
 
 13.
-    
 
-Levantesi G, Scarano M, Marfisi R, Borrelli G, Rutjes AW, Silletta MG, Tognoni G, Marchioli R. Meta-analysis of effect of statin treatment on risk of sudden death. Am J Cardiol. 2007 Dec 01;100(11):1644-50. [[PubMed: 18036362](https://pubmed.ncbi.nlm.nih.gov/18036362)]
+Levantesi G, Scarano M, Marfisi R, Borrelli G, Rutjes AW, Silletta MG, Tognoni G, Marchioli R. Meta-analysis of effect of statin treatment on risk of sudden death. Am J Cardiol. 2007 Dec 01;100(11):1644-50. \[[PubMed: 18036362](https://pubmed.ncbi.nlm.nih.gov/18036362)\]
 
 14.
-    
 
-Holmberg M, Holmberg S, Herlitz J. Incidence, duration and survival of ventricular fibrillation in out-of-hospital cardiac arrest patients in sweden. Resuscitation. 2000 Mar;44(1):7-17. [[PubMed: 10699695](https://pubmed.ncbi.nlm.nih.gov/10699695)]
+Holmberg M, Holmberg S, Herlitz J. Incidence, duration and survival of ventricular fibrillation in out-of-hospital cardiac arrest patients in sweden. Resuscitation. 2000 Mar;44(1):7-17. \[[PubMed: 10699695](https://pubmed.ncbi.nlm.nih.gov/10699695)\]
 
 15.
-    
 
-Demidova MM, Smith JG, Höijer CJ, Holmqvist F, Erlinge D, Platonov PG. Prognostic impact of early ventricular fibrillation in patients with ST-elevation myocardial infarction treated with primary PCI. Eur Heart J Acute Cardiovasc Care. 2012 Dec;1(4):302-11. [[PMC free article: PMC3760561](/pmc/articles/PMC3760561/)] [[PubMed: 24062921](https://pubmed.ncbi.nlm.nih.gov/24062921)]
-
-    
+Demidova MM, Smith JG, Höijer CJ, Holmqvist F, Erlinge D, Platonov PG. Prognostic impact of early ventricular fibrillation in patients with ST-elevation myocardial infarction treated with primary PCI. Eur Heart J Acute Cardiovasc Care. 2012 Dec;1(4):302-11. \[[PMC free article: PMC3760561](/pmc/articles/PMC3760561/)\] \[[PubMed: 24062921](https://pubmed.ncbi.nlm.nih.gov/24062921)\]
 
 **Disclosure:** Dipesh Ludhwani declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Amandeep Goyal declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Mandar Jagtap declares no relevant financial relationships with ineligible companies.

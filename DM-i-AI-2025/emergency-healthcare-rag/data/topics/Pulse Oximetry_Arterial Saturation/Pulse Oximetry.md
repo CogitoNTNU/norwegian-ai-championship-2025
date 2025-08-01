@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18831/
-scraped_date: 2025-07-22 12:55:23 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18831/ scraped_date: 2025-07-22 12:55:23 UTC
 
 # Capnography and Pulse Oximetry
 
@@ -27,13 +26,13 @@ Pulse oximetry is a noninvasive measure of oxygen saturation. Capnography is a m
 
 **Objectives:**
 
-  * Review the possible uses of capnography in monitoring patients with lung disease.
+- Review the possible uses of capnography in monitoring patients with lung disease.
 
-  * Summarize the applications of capnography in monitoring patients with acute asthma exacerbations.
+- Summarize the applications of capnography in monitoring patients with acute asthma exacerbations.
 
-  * Identify the limitations of capnography and pulse oximetry.
+- Identify the limitations of capnography and pulse oximetry.
 
-  * Explain the importance of improving care coordination among the interprofessional team to enhance the delivery of care when using capnography and pulse oximetry.
+- Explain the importance of improving care coordination among the interprofessional team to enhance the delivery of care when using capnography and pulse oximetry.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18831&utm_source=pubmed&utm_campaign=reviews&utm_content=18831)
 
@@ -47,47 +46,47 @@ The products of cellular metabolism are water and carbon dioxide. Carbon dioxide
 
 ## Function
 
-There are multiple current clinical uses of pulse oximetry in primary care. In stable underlying lung disease patients, pulse oximetry (SpO2) is helpful for the following[3]:
+There are multiple current clinical uses of pulse oximetry in primary care. In stable underlying lung disease patients, pulse oximetry (SpO2) is helpful for the following\[3\]:
 
-  * To establish a baseline value.
+- To establish a baseline value.
 
-  * Monitoring the patients with exercise-related dyspnea.
+- Monitoring the patients with exercise-related dyspnea.
 
-  * A screening tool to identify patients with underlying lung disease (with SpO2 less than 92%)
+- A screening tool to identify patients with underlying lung disease (with SpO2 less than 92%)
 
-  * Stable underlying lung disease or recovering from an exacerbation; a SpO2 88% or less qualifies for oxygen therapy
+- Stable underlying lung disease or recovering from an exacerbation; a SpO2 88% or less qualifies for oxygen therapy
 
-  * Titrating the rate of flow of oxygen in patients on long-term oxygen therapy - the target is resting and ambulatory pulse oximetry around 88% to 92%
+- Titrating the rate of flow of oxygen in patients on long-term oxygen therapy - the target is resting and ambulatory pulse oximetry around 88% to 92%
 
 During a chronic obstructive pulmonary disease (COPD) or an asthma exacerbation, pulse oximetry is helpful to:[4]
 
-  * Evaluate patients with severe disease (defined as forced expiratory volume in 1 sec (FEV1) of less than 50% predicted), cyanosis, or cor pulmonale for possible respiratory insufficiency/failure
+- Evaluate patients with severe disease (defined as forced expiratory volume in 1 sec (FEV1) of less than 50% predicted), cyanosis, or cor pulmonale for possible respiratory insufficiency/failure
 
-  * Assess patients with acutely worsening symptoms, especially shortness of breath
+- Assess patients with acutely worsening symptoms, especially shortness of breath
 
-  * Determine how severe is the exacerbation based on pulse oximetry and partial pressure of oxygen in an arterial blood gas - based on this physician can determine whether the patient is treatable on an outpatient basis or needs in-hospital treatment
+- Determine how severe is the exacerbation based on pulse oximetry and partial pressure of oxygen in an arterial blood gas - based on this physician can determine whether the patient is treatable on an outpatient basis or needs in-hospital treatment
 
-  * Titrating oxygen therapy during exacerbation of any underlying lung disease - COPD, asthma, interstitial lung diseases, pulmonary fibrosis, etc.
+- Titrating oxygen therapy during exacerbation of any underlying lung disease - COPD, asthma, interstitial lung diseases, pulmonary fibrosis, etc.
 
-Clinical uses of Capnography[5][6]:
+Clinical uses of Capnography[5]\[6\]:
 
-  * Confirmation of tracheal intubation
+- Confirmation of tracheal intubation
 
-  * Assessing tracheal tube and tracheostomy patency and position
+- Assessing tracheal tube and tracheostomy patency and position
 
-  * Monitor adequate ventilator support
+- Monitor adequate ventilator support
 
-  * During percutaneous tracheostomy placement
+- During percutaneous tracheostomy placement
 
-  * Monitoring patients with raised intracranial pressure
+- Monitoring patients with raised intracranial pressure
 
-  * Monitoring response to treatment of bronchospasm
+- Monitoring response to treatment of bronchospasm
 
-  * Estimation of cardiac output
+- Estimation of cardiac output
 
-  * Use during cardiac arrest
+- Use during cardiac arrest
 
-  * Measures kinetics of carbon dioxide (CO2) elimination on a breath-by-breath basis
+- Measures kinetics of carbon dioxide (CO2) elimination on a breath-by-breath basis
 
 ## Issues of Concern
 
@@ -97,7 +96,7 @@ Pulse oximeters have some limitations. They can only employ light at two wavelen
 
 The oxygen that reaches the trachea is calculated as the percent of oxygen in the air, i.e., that is 0.21 times the atmospheric partial pressure. This number comes to 160 mmHg. The amount of oxygen that reaches our alveoli gets calculated via the alveolar gas equation.
 
-  * PAO2 = (Patm - PH2O) FiO2 - PaCO2/RQ[8]
+- PAO2 = (Patm - PH2O) FiO2 - PaCO2/RQ[8]
 
 Patm is the atmospheric pressure (at sea level 760 mmHg), PH2O is the partial pressure of water (approximately 45 mmHg). FiO2 is the fraction of inspired oxygen. PaCO2 is the partial pressure of carbon dioxide in alveoli (in normal physiological conditions around 40 to 45 mmHg). RQ is the respiratory quotient. The value of the RQ can vary depending upon the type of diet and metabolic state. RQ is different for carbohydrates, fats, and proteins (average value is around 0.82 for the average human diet).
 
@@ -105,15 +104,15 @@ The calculated partial pressure of oxygen, from the alveolar gas equation that r
 
 **Five Causes of Hypoxemia**
 
-  * Diffusion limitation
+- Diffusion limitation
 
-  * Hypoventilation
+- Hypoventilation
 
-  * Decreased FiO2
+- Decreased FiO2
 
-  * Low ventilation-perfusion quotient
+- Low ventilation-perfusion quotient
 
-  * Shunt [9]
+- Shunt [9]
 
 Oxygen diffuses through the alveolar-capillary membrane and into the blood. It is carried in the blood bound to hemoglobin and transported to the tissues. Approximately 98.5% of all oxygen is bound to hemoglobin, and 1.5% dissolves in plasma. The hemoglobin molecule is composed of 4 subunits. Hydrophilic or charged amino acids (for example, Asp, Glu, Lys, Arg) form ionic bonds and hold the four subunits of heme in a quaternary structure. Oxygen can only bind when the hemoglobin switches from a tense to a relaxed form. One oxygen molecule binding increases the affinity of other oxygen molecules to bind to the heme molecule, thus promoting cooperative binding, which produces a sigmoidal dissociation curve.[10]
 
@@ -123,25 +122,25 @@ Hemoglobin molecule transports oxygen from the lungs to peripheral tissues and p
 
 Carbon dioxide homeostasis regulation is by the pulmonary and the renal system. The partial pressure of PCO2 in arterial blood is directly proportional to the CO2 that is generated by metabolic processes and inversely related to the rate of CO2 elimination via alveolar ventilation. Mathematically, alveolar ventilation can be derived as follows:
 
-  * PaCO2 = 0.863 x VCO2/ VA
+- PaCO2 = 0.863 x VCO2/ VA
 
-  * VA = VE - VD
+- VA = VE - VD
 
-  * VE = RR x TV
+- VE = RR x TV
 
-  * TV = RR x dead-space volume
+- TV = RR x dead-space volume
 
 VCO2 is the metabolic production of CO2, VA is alveolar ventilation, VE is minute ventilation, VD is dead space ventilation, RR is the respiratory rate, and TV is tidal volume.[12]
 
 The partial pressure of alveolar CO2 is calculated by simply rearranging the alveolar equation. The alveolar partial pressure of CO2 is proportional to the body’s metabolic rate and is inversely proportional to the alveolar ventilation rate. We can understand this principle in the context of exercise. During exercise, our body’s metabolic rate of CO2 productions was to double, then the alveolar partial pressure of CO2 would also double if alveolar ventilation remains the same. Conversely, if the rate of alveolar ventilation doubles, then the alveolar partial pressure of carbon dioxide would become half, given a constant metabolic CO2 production.
 
-Ventilation is physiologically controlled by respiratory rate and tidal volume. Increase or decrease in either of the two changes ventilation. In cases of hypoxia, the body tends to hyperventilate, and thus the partial pressure of CO2 reduces as more gets expelled from the body. The causes of hypoxia can be divided into the following categories[13]:
+Ventilation is physiologically controlled by respiratory rate and tidal volume. Increase or decrease in either of the two changes ventilation. In cases of hypoxia, the body tends to hyperventilate, and thus the partial pressure of CO2 reduces as more gets expelled from the body. The causes of hypoxia can be divided into the following categories\[13\]:
 
-  * Central: Head injuries, stroke, hyperthyroidism, anxiety, pain, fear, stress, drugs, medication-induced, and toxin-induced
+- Central: Head injuries, stroke, hyperthyroidism, anxiety, pain, fear, stress, drugs, medication-induced, and toxin-induced
 
-  * Pulmonary causes: Embolism, pneumothorax, pneumonia, acute asthma or COPD exacerbations
+- Pulmonary causes: Embolism, pneumothorax, pneumonia, acute asthma or COPD exacerbations
 
-  * Iatrogenic causes primarily occur in intubated patients on mechanical ventilation
+- Iatrogenic causes primarily occur in intubated patients on mechanical ventilation
 
 While ventilation is measured best by looking at CO2 partial pressures, oxygenation is measured by looking at oxygen partial pressures. In the clinical setting, the measurement of the amount of oxygen saturation in blood is via pulse oximeters. They provide a warning about the presence of hypoxemia to patients. The basis of pulse oximetry is on two principles: (1) the presence of a pulsatile signal that is generated by the arterial blood in the finger and (2) the different wavelengths generated by oxyhemoglobin and reduced hemoglobin.
 
@@ -157,107 +156,86 @@ In conditions like an obstructed airway, weakened respiratory muscle, or lung dy
 
 In conclusion, pulse oximetry and capnography individually offer two useful non-invasive techniques to facilitate respiratory monitoring in clinical settings. A proper grasp of the benefits and limitations of each of the techniques can significantly aid in patient management and safety.[17]
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 Pulse oximetry and capnography can help elucidate underlying pathology and help the medical team provide appropriate care without invasive monitoring. Understanding the indications and limitations of these techniques can help the medical team improve patient care and outcomes. The nursing staff is an essential contributor to the management of patients using these techniques. The critical care and emergency specialized nurse can help assist the medical team make the correct diagnosis, verify correct endotracheal intubation, and assure the quality of cardiopulmonary resuscitation using these techniques. The respiratory therapist can assist the medical team achieve adequate mechanical ventilation in patients using capnography and pulse oximetry waveforms. A collaborative interprofessional team of clinicians, nurses, and respiratory therapists can help assure appropriate and judicious use of capnography and pulse oximetry to provide optimal medical care. [Level V]
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18831&utm_source=pubmed&utm_campaign=reviews&utm_content=18831)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=18831&utm_source=pubmed&utm_campaign=reviews&utm_content=18831)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18831/?utm_source=pubmed&utm_campaign=comments&utm_content=18831)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/18831/?utm_source=pubmed&utm_campaign=comments&utm_content=18831)
 
 ## References
 
 1.
-    
 
-Martin D, Thompson A, Stewart I, Gilbert E, Hope K, Kawai G, Griffiths A. A paradigm of fragile Earth in Priestley's bell jar. Extrem Physiol Med. 2012 Sep 04;1(1):4. [[PMC free article: PMC3707099](/pmc/articles/PMC3707099/)] [[PubMed: 23849304](https://pubmed.ncbi.nlm.nih.gov/23849304)]
+Martin D, Thompson A, Stewart I, Gilbert E, Hope K, Kawai G, Griffiths A. A paradigm of fragile Earth in Priestley's bell jar. Extrem Physiol Med. 2012 Sep 04;1(1):4. \[[PMC free article: PMC3707099](/pmc/articles/PMC3707099/)\] \[[PubMed: 23849304](https://pubmed.ncbi.nlm.nih.gov/23849304)\]
 
 2.
-    
 
-Kummer DJ, Walden BJ. Capnography Monitoring for Patients Undergoing Moderate Sedation: An SGNA Fellowship Project. Gastroenterol Nurs. 2019 Jan/Feb;42(1):49-54. [[PubMed: 30688708](https://pubmed.ncbi.nlm.nih.gov/30688708)]
+Kummer DJ, Walden BJ. Capnography Monitoring for Patients Undergoing Moderate Sedation: An SGNA Fellowship Project. Gastroenterol Nurs. 2019 Jan/Feb;42(1):49-54. \[[PubMed: 30688708](https://pubmed.ncbi.nlm.nih.gov/30688708)\]
 
 3.
-    
 
-Jubran A. Pulse oximetry. Crit Care. 1999;3(2):R11-R17. [[PMC free article: PMC137227](/pmc/articles/PMC137227/)] [[PubMed: 11094477](https://pubmed.ncbi.nlm.nih.gov/11094477)]
+Jubran A. Pulse oximetry. Crit Care. 1999;3(2):R11-R17. \[[PMC free article: PMC137227](/pmc/articles/PMC137227/)\] \[[PubMed: 11094477](https://pubmed.ncbi.nlm.nih.gov/11094477)\]
 
 4.
-    
 
-Fox BD, Sheffy N, Vainshelboim B, Fuks L, Kramer MR. Step oximetry test: a validation study. BMJ Open Respir Res. 2018;5(1):e000320. [[PMC free article: PMC6089267](/pmc/articles/PMC6089267/)] [[PubMed: 30116538](https://pubmed.ncbi.nlm.nih.gov/30116538)]
+Fox BD, Sheffy N, Vainshelboim B, Fuks L, Kramer MR. Step oximetry test: a validation study. BMJ Open Respir Res. 2018;5(1):e000320. \[[PMC free article: PMC6089267](/pmc/articles/PMC6089267/)\] \[[PubMed: 30116538](https://pubmed.ncbi.nlm.nih.gov/30116538)\]
 
 5.
-    
 
-Nielsen JR, Lim KS. Airway plans and capnography. Anaesthesia. 2019 Mar;74(3):397. [[PubMed: 30734942](https://pubmed.ncbi.nlm.nih.gov/30734942)]
+Nielsen JR, Lim KS. Airway plans and capnography. Anaesthesia. 2019 Mar;74(3):397. \[[PubMed: 30734942](https://pubmed.ncbi.nlm.nih.gov/30734942)\]
 
 6.
-    
 
-Cook TM, Harrop-Griffiths W. Capnography prevents avoidable deaths. BMJ. 2019 Feb 05;364:l439. [[PubMed: 30723083](https://pubmed.ncbi.nlm.nih.gov/30723083)]
+Cook TM, Harrop-Griffiths W. Capnography prevents avoidable deaths. BMJ. 2019 Feb 05;364:l439. \[[PubMed: 30723083](https://pubmed.ncbi.nlm.nih.gov/30723083)\]
 
 7.
-    
 
-Burk KM, Sakata DJ, Kuck K, Orr JA. Comparing Nasal End-Tidal Carbon Dioxide Measurement Variation and Agreement While Delivering Pulsed and Continuous Flow Oxygen in Volunteers and Patients. Anesth Analg. 2020 Mar;130(3):715-724. [[PubMed: 30633057](https://pubmed.ncbi.nlm.nih.gov/30633057)]
+Burk KM, Sakata DJ, Kuck K, Orr JA. Comparing Nasal End-Tidal Carbon Dioxide Measurement Variation and Agreement While Delivering Pulsed and Continuous Flow Oxygen in Volunteers and Patients. Anesth Analg. 2020 Mar;130(3):715-724. \[[PubMed: 30633057](https://pubmed.ncbi.nlm.nih.gov/30633057)\]
 
 8.
-    
 
-Sharma S, Hashmi MF, Hendrix JM, Burns B. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 11, 2024. Alveolar Gas Equation. [[PubMed: 29489223](https://pubmed.ncbi.nlm.nih.gov/29489223)]
+Sharma S, Hashmi MF, Hendrix JM, Burns B. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Sep 11, 2024. Alveolar Gas Equation. \[[PubMed: 29489223](https://pubmed.ncbi.nlm.nih.gov/29489223)\]
 
 9.
-    
 
-Hafen BB, Sharma S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Nov 23, 2022. Oxygen Saturation. [[PubMed: 30247849](https://pubmed.ncbi.nlm.nih.gov/30247849)]
+Hafen BB, Sharma S. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Nov 23, 2022. Oxygen Saturation. \[[PubMed: 30247849](https://pubmed.ncbi.nlm.nih.gov/30247849)\]
 
 10.
-    
 
-Gomez-Cambronero J. THE OXYGEN DISSOCIATION CURVE OF HEMOGLOBIN: BRIDGING THE GAP BETWEEN BIOCHEMISTRY AND PHYSIOLOGY. J Chem Educ. 2001 Jun;78(6):757. [[PMC free article: PMC3230298](/pmc/articles/PMC3230298/)] [[PubMed: 22163370](https://pubmed.ncbi.nlm.nih.gov/22163370)]
+Gomez-Cambronero J. THE OXYGEN DISSOCIATION CURVE OF HEMOGLOBIN: BRIDGING THE GAP BETWEEN BIOCHEMISTRY AND PHYSIOLOGY. J Chem Educ. 2001 Jun;78(6):757. \[[PMC free article: PMC3230298](/pmc/articles/PMC3230298/)\] \[[PubMed: 22163370](https://pubmed.ncbi.nlm.nih.gov/22163370)\]
 
 11.
-    
 
-Benner A, Patel AK, Singh K, Dua A. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Aug 8, 2023. Physiology, Bohr Effect. [[PubMed: 30252284](https://pubmed.ncbi.nlm.nih.gov/30252284)]
+Benner A, Patel AK, Singh K, Dua A. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Aug 8, 2023. Physiology, Bohr Effect. \[[PubMed: 30252284](https://pubmed.ncbi.nlm.nih.gov/30252284)\]
 
 12.
-    
 
-Castro D, Patil SM, Zubair M, Keenaghan M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jan 8, 2024. Arterial Blood Gas. [[PubMed: 30725604](https://pubmed.ncbi.nlm.nih.gov/30725604)]
+Castro D, Patil SM, Zubair M, Keenaghan M. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jan 8, 2024. Arterial Blood Gas. \[[PubMed: 30725604](https://pubmed.ncbi.nlm.nih.gov/30725604)\]
 
 13.
-    
 
-Cafaro RP. Hypoxia: Its Causes and Symptoms. J Am Dent Soc Anesthesiol. 1960 Apr;7(4):4-8. [[PMC free article: PMC2067517](/pmc/articles/PMC2067517/)] [[PubMed: 19598857](https://pubmed.ncbi.nlm.nih.gov/19598857)]
+Cafaro RP. Hypoxia: Its Causes and Symptoms. J Am Dent Soc Anesthesiol. 1960 Apr;7(4):4-8. \[[PMC free article: PMC2067517](/pmc/articles/PMC2067517/)\] \[[PubMed: 19598857](https://pubmed.ncbi.nlm.nih.gov/19598857)\]
 
 14.
-    
 
-Hara N, Tanaka T, Minami T. [Anesthetic circle system failure caused by a plastic film--a case report]. Masui. 2006 Feb;55(2):209-11. [[PubMed: 16491902](https://pubmed.ncbi.nlm.nih.gov/16491902)]
+Hara N, Tanaka T, Minami T. [Anesthetic circle system failure caused by a plastic film--a case report]. Masui. 2006 Feb;55(2):209-11. \[[PubMed: 16491902](https://pubmed.ncbi.nlm.nih.gov/16491902)\]
 
 15.
-    
 
-Ortega R, Connor C, Kim S, Djang R, Patel K. Monitoring ventilation with capnography. N Engl J Med. 2012 Nov 08;367(19):e27. [[PubMed: 23134404](https://pubmed.ncbi.nlm.nih.gov/23134404)]
+Ortega R, Connor C, Kim S, Djang R, Patel K. Monitoring ventilation with capnography. N Engl J Med. 2012 Nov 08;367(19):e27. \[[PubMed: 23134404](https://pubmed.ncbi.nlm.nih.gov/23134404)\]
 
 16.
-    
 
-Cacho G, Pérez-Calle JL, Barbado A, Lledó JL, Ojea R, Fernández-Rodríguez CM. Capnography is superior to pulse oximetry for the detection of respiratory depression during colonoscopy. Rev Esp Enferm Dig. 2010 Feb;102(2):86-9. [[PubMed: 20361844](https://pubmed.ncbi.nlm.nih.gov/20361844)]
+Cacho G, Pérez-Calle JL, Barbado A, Lledó JL, Ojea R, Fernández-Rodríguez CM. Capnography is superior to pulse oximetry for the detection of respiratory depression during colonoscopy. Rev Esp Enferm Dig. 2010 Feb;102(2):86-9. \[[PubMed: 20361844](https://pubmed.ncbi.nlm.nih.gov/20361844)\]
 
 17.
-    
 
-Gallagher JJ. Capnography Monitoring During Procedural Sedation and Analgesia. AACN Adv Crit Care. 2018 Winter;29(4):405-414. [[PubMed: 30523011](https://pubmed.ncbi.nlm.nih.gov/30523011)]
-
-    
+Gallagher JJ. Capnography Monitoring During Procedural Sedation and Analgesia. AACN Adv Crit Care. 2018 Winter;29(4):405-414. \[[PubMed: 30523011](https://pubmed.ncbi.nlm.nih.gov/30523011)\]
 
 **Disclosure:** Nirzari Pandya declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Sandeep Sharma declares no relevant financial relationships with ineligible companies.

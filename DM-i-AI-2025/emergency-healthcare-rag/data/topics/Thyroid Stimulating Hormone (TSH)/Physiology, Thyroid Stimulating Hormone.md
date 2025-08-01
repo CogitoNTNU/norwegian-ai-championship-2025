@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30149/
-scraped_date: 2025-07-22 12:51:22 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30149/ scraped_date: 2025-07-22 12:51:22 UTC
 
 # Physiology, Thyroid
 
@@ -33,7 +32,7 @@ The thyroid follicular cells within the thyroid gland respond to the TSH release
 
 The disease originates in the anterior pituitary for secondary disease or central hyperthyroid or hypothyroid disease. If a tumor in the anterior pituitary is secreting excessively high TSH, this stimulates the thyroid follicular cells to secrete high levels of T3/T4. If the anterior pituitary is secreting low TSH levels, such as in pan-hypopituitarism, this lack of stimulation of thyroid follicular cells causes them to secrete low levels of T4.[3] One must assay the TSH in conjunction with T3/T4 levels to assess whether thyroid disease is primary or secondary. If TSH and T3/T4 increase or decrease together, this indicates either secondary (central) hypothyroidism or secondary hyperthyroidism. However, if the TSH and T3/T4 change in opposite directions, this indicates primary thyroid disease.
 
-## Cellular Level 
+## Cellular Level
 
 The thyroid gland comprises thyroid follicles that synthesize and store thyroid hormone. These follicles have lost all luminal connections with other parts of the body. They are the primary units of the organ that are responsible for the secretion of the thyroid hormone. The epithelium of the normal gland is cuboidal. Blood vessels surround follicular epithelial cells, and the colloid is within the follicular lumen, where the thyroid hormone is synthesized. The acinar surface of thyroid parenchymal cells is smooth and is covered with tiny villi and some pseudopods. Each cell has a cilium in the follicular lumen. The colloid is eosinophilic in hyperactive follicles resorption vacuoles scallop the margin of the colloid.
 
@@ -79,135 +78,106 @@ Iodotyrosine deiodinase controls the reuse of iodide for thyroid hormone synthes
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30149&utm_source=pubmed&utm_campaign=reviews&utm_content=30149)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=30149&utm_source=pubmed&utm_campaign=reviews&utm_content=30149)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30149/?utm_source=pubmed&utm_campaign=comments&utm_content=30149)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/30149/?utm_source=pubmed&utm_campaign=comments&utm_content=30149)
 
 ## References
 
 1.
-    
 
-Nussey S, Whitehead S. Endocrinology: An Integrated Approach. BIOS Scientific Publishers; Oxford: 2001. [[PubMed: 20821847](https://pubmed.ncbi.nlm.nih.gov/20821847)]
+Nussey S, Whitehead S. Endocrinology: An Integrated Approach. BIOS Scientific Publishers; Oxford: 2001. \[[PubMed: 20821847](https://pubmed.ncbi.nlm.nih.gov/20821847)\]
 
 2.
-    
 
-Mariotti S, Beck-Peccoz P. Physiology of the Hypothalamic-Pituitary-Thyroid Axis. In: Feingold KR, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, New M, Purnell J, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Apr 20, 2021. [[PubMed: 25905193](https://pubmed.ncbi.nlm.nih.gov/25905193)]
+Mariotti S, Beck-Peccoz P. Physiology of the Hypothalamic-Pituitary-Thyroid Axis. In: Feingold KR, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, New M, Purnell J, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Apr 20, 2021. \[[PubMed: 25905193](https://pubmed.ncbi.nlm.nih.gov/25905193)\]
 
 3.
-    
 
-Gupta V, Lee M. Central hypothyroidism. Indian J Endocrinol Metab. 2011 Jul;15(Suppl 2):S99-S106. [[PMC free article: PMC3169862](/pmc/articles/PMC3169862/)] [[PubMed: 21966662](https://pubmed.ncbi.nlm.nih.gov/21966662)]
+Gupta V, Lee M. Central hypothyroidism. Indian J Endocrinol Metab. 2011 Jul;15(Suppl 2):S99-S106. \[[PMC free article: PMC3169862](/pmc/articles/PMC3169862/)\] \[[PubMed: 21966662](https://pubmed.ncbi.nlm.nih.gov/21966662)\]
 
 4.
-    
 
-Maenhaut C, Christophe D, Vassart G, Dumont J, Roger PP, Opitz R. Ontogeny, Anatomy, Metabolism and Physiology of the Thyroid. In: Feingold KR, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, New M, Purnell J, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Jul 15, 2015. [[PubMed: 25905409](https://pubmed.ncbi.nlm.nih.gov/25905409)]
+Maenhaut C, Christophe D, Vassart G, Dumont J, Roger PP, Opitz R. Ontogeny, Anatomy, Metabolism and Physiology of the Thyroid. In: Feingold KR, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, New M, Purnell J, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Jul 15, 2015. \[[PubMed: 25905409](https://pubmed.ncbi.nlm.nih.gov/25905409)\]
 
 5.
-    
 
-Medici M, Visser TJ, Peeters RP. Genetics of thyroid function. Best Pract Res Clin Endocrinol Metab. 2017 Mar;31(2):129-142. [[PubMed: 28648503](https://pubmed.ncbi.nlm.nih.gov/28648503)]
+Medici M, Visser TJ, Peeters RP. Genetics of thyroid function. Best Pract Res Clin Endocrinol Metab. 2017 Mar;31(2):129-142. \[[PubMed: 28648503](https://pubmed.ncbi.nlm.nih.gov/28648503)\]
 
 6.
-    
 
-Chattergoon NN. Thyroid hormone signaling and consequences for cardiac development. J Endocrinol. 2019 Jul 01;242(1):T145-T160. [[PMC free article: PMC6613780](/pmc/articles/PMC6613780/)] [[PubMed: 31117055](https://pubmed.ncbi.nlm.nih.gov/31117055)]
+Chattergoon NN. Thyroid hormone signaling and consequences for cardiac development. J Endocrinol. 2019 Jul 01;242(1):T145-T160. \[[PMC free article: PMC6613780](/pmc/articles/PMC6613780/)\] \[[PubMed: 31117055](https://pubmed.ncbi.nlm.nih.gov/31117055)\]
 
 7.
-    
 
-Grasberger H, Refetoff S. Resistance to thyrotropin. Best Pract Res Clin Endocrinol Metab. 2017 Mar;31(2):183-194. [[PMC free article: PMC5569899](/pmc/articles/PMC5569899/)] [[PubMed: 28648507](https://pubmed.ncbi.nlm.nih.gov/28648507)]
+Grasberger H, Refetoff S. Resistance to thyrotropin. Best Pract Res Clin Endocrinol Metab. 2017 Mar;31(2):183-194. \[[PMC free article: PMC5569899](/pmc/articles/PMC5569899/)\] \[[PubMed: 28648507](https://pubmed.ncbi.nlm.nih.gov/28648507)\]
 
 8.
-    
 
-Brent GA. Mechanisms of thyroid hormone action. J Clin Invest. 2012 Sep;122(9):3035-43. [[PMC free article: PMC3433956](/pmc/articles/PMC3433956/)] [[PubMed: 22945636](https://pubmed.ncbi.nlm.nih.gov/22945636)]
+Brent GA. Mechanisms of thyroid hormone action. J Clin Invest. 2012 Sep;122(9):3035-43. \[[PMC free article: PMC3433956](/pmc/articles/PMC3433956/)\] \[[PubMed: 22945636](https://pubmed.ncbi.nlm.nih.gov/22945636)\]
 
 9.
-    
 
-Endres D, Leypoldt F, Bechter K, Hasan A, Steiner J, Domschke K, Wandinger KP, Falkai P, Arolt V, Stich O, Rauer S, Prüss H, van Elst LT. Autoimmune encephalitis as a differential diagnosis of schizophreniform psychosis: clinical symptomatology, pathophysiology, diagnostic approach, and therapeutic considerations. Eur Arch Psychiatry Clin Neurosci. 2020 Oct;270(7):803-818. [[PMC free article: PMC7474714](/pmc/articles/PMC7474714/)] [[PubMed: 32166503](https://pubmed.ncbi.nlm.nih.gov/32166503)]
+Endres D, Leypoldt F, Bechter K, Hasan A, Steiner J, Domschke K, Wandinger KP, Falkai P, Arolt V, Stich O, Rauer S, Prüss H, van Elst LT. Autoimmune encephalitis as a differential diagnosis of schizophreniform psychosis: clinical symptomatology, pathophysiology, diagnostic approach, and therapeutic considerations. Eur Arch Psychiatry Clin Neurosci. 2020 Oct;270(7):803-818. \[[PMC free article: PMC7474714](/pmc/articles/PMC7474714/)\] \[[PubMed: 32166503](https://pubmed.ncbi.nlm.nih.gov/32166503)\]
 
 10.
-    
 
-Rousset B, Dupuy C, Miot F, Dumont J. Chapter 2 Thyroid Hormone Synthesis And Secretion. In: Feingold KR, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, New M, Purnell J, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Sep 2, 2015. [[PubMed: 25905405](https://pubmed.ncbi.nlm.nih.gov/25905405)]
+Rousset B, Dupuy C, Miot F, Dumont J. Chapter 2 Thyroid Hormone Synthesis And Secretion. In: Feingold KR, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, New M, Purnell J, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Sep 2, 2015. \[[PubMed: 25905405](https://pubmed.ncbi.nlm.nih.gov/25905405)\]
 
 11.
-    
 
-Stathatos N. Thyroid physiology. Med Clin North Am. 2012 Mar;96(2):165-73. [[PubMed: 22443969](https://pubmed.ncbi.nlm.nih.gov/22443969)]
+Stathatos N. Thyroid physiology. Med Clin North Am. 2012 Mar;96(2):165-73. \[[PubMed: 22443969](https://pubmed.ncbi.nlm.nih.gov/22443969)\]
 
 12.
-    
 
-Esfandiari NH, Papaleontiou M. Biochemical Testing in Thyroid Disorders. Endocrinol Metab Clin North Am. 2017 Sep;46(3):631-648. [[PMC free article: PMC5957513](/pmc/articles/PMC5957513/)] [[PubMed: 28760230](https://pubmed.ncbi.nlm.nih.gov/28760230)]
+Esfandiari NH, Papaleontiou M. Biochemical Testing in Thyroid Disorders. Endocrinol Metab Clin North Am. 2017 Sep;46(3):631-648. \[[PMC free article: PMC5957513](/pmc/articles/PMC5957513/)\] \[[PubMed: 28760230](https://pubmed.ncbi.nlm.nih.gov/28760230)\]
 
 13.
-    
 
-Sheehan MT. Biochemical Testing of the Thyroid: TSH is the Best and, Oftentimes, Only Test Needed - A Review for Primary Care. Clin Med Res. 2016 Jun;14(2):83-92. [[PMC free article: PMC5321289](/pmc/articles/PMC5321289/)] [[PubMed: 27231117](https://pubmed.ncbi.nlm.nih.gov/27231117)]
+Sheehan MT. Biochemical Testing of the Thyroid: TSH is the Best and, Oftentimes, Only Test Needed - A Review for Primary Care. Clin Med Res. 2016 Jun;14(2):83-92. \[[PMC free article: PMC5321289](/pmc/articles/PMC5321289/)\] \[[PubMed: 27231117](https://pubmed.ncbi.nlm.nih.gov/27231117)\]
 
 14.
-    
 
-Koulouri O, Moran C, Halsall D, Chatterjee K, Gurnell M. Pitfalls in the measurement and interpretation of thyroid function tests. Best Pract Res Clin Endocrinol Metab. 2013 Dec;27(6):745-62. [[PMC free article: PMC3857600](/pmc/articles/PMC3857600/)] [[PubMed: 24275187](https://pubmed.ncbi.nlm.nih.gov/24275187)]
+Koulouri O, Moran C, Halsall D, Chatterjee K, Gurnell M. Pitfalls in the measurement and interpretation of thyroid function tests. Best Pract Res Clin Endocrinol Metab. 2013 Dec;27(6):745-62. \[[PMC free article: PMC3857600](/pmc/articles/PMC3857600/)\] \[[PubMed: 24275187](https://pubmed.ncbi.nlm.nih.gov/24275187)\]
 
 15.
-    
 
-Feldt-Rasmussen U, Klose M. Clinical Strategies in the Testing of Thyroid Function. In: Feingold KR, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, New M, Purnell J, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Nov 20, 2020. [[PubMed: 25905413](https://pubmed.ncbi.nlm.nih.gov/25905413)]
+Feldt-Rasmussen U, Klose M. Clinical Strategies in the Testing of Thyroid Function. In: Feingold KR, Anawalt B, Blackman MR, Boyce A, Chrousos G, Corpas E, de Herder WW, Dhatariya K, Dungan K, Hofland J, Kalra S, Kaltsas G, Kapoor N, Koch C, Kopp P, Korbonits M, Kovacs CS, Kuohung W, Laferrère B, Levy M, McGee EA, McLachlan R, New M, Purnell J, Sahay R, Shah AS, Singer F, Sperling MA, Stratakis CA, Trence DL, Wilson DP, editors. Endotext [Internet]. MDText.com, Inc.; South Dartmouth (MA): Nov 20, 2020. \[[PubMed: 25905413](https://pubmed.ncbi.nlm.nih.gov/25905413)\]
 
 16.
-    
 
-Mincer DL, Jialal I. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 29, 2023. Hashimoto Thyroiditis. [[PubMed: 29083758](https://pubmed.ncbi.nlm.nih.gov/29083758)]
+Mincer DL, Jialal I. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 29, 2023. Hashimoto Thyroiditis. \[[PubMed: 29083758](https://pubmed.ncbi.nlm.nih.gov/29083758)\]
 
 17.
-    
 
-Blick C, Nguyen M, Jialal I. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 4, 2023. Thyrotoxicosis. [[PubMed: 29489233](https://pubmed.ncbi.nlm.nih.gov/29489233)]
+Blick C, Nguyen M, Jialal I. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 4, 2023. Thyrotoxicosis. \[[PubMed: 29489233](https://pubmed.ncbi.nlm.nih.gov/29489233)\]
 
 18.
-    
 
-Leung AM, Braverman LE. Consequences of excess iodine. Nat Rev Endocrinol. 2014 Mar;10(3):136-42. [[PMC free article: PMC3976240](/pmc/articles/PMC3976240/)] [[PubMed: 24342882](https://pubmed.ncbi.nlm.nih.gov/24342882)]
+Leung AM, Braverman LE. Consequences of excess iodine. Nat Rev Endocrinol. 2014 Mar;10(3):136-42. \[[PMC free article: PMC3976240](/pmc/articles/PMC3976240/)\] \[[PubMed: 24342882](https://pubmed.ncbi.nlm.nih.gov/24342882)\]
 
 19.
-    
 
-Chakera AJ, Pearce SH, Vaidya B. Treatment for primary hypothyroidism: current approaches and future possibilities. Drug Des Devel Ther. 2012;6:1-11. [[PMC free article: PMC3267517](/pmc/articles/PMC3267517/)] [[PubMed: 22291465](https://pubmed.ncbi.nlm.nih.gov/22291465)]
+Chakera AJ, Pearce SH, Vaidya B. Treatment for primary hypothyroidism: current approaches and future possibilities. Drug Des Devel Ther. 2012;6:1-11. \[[PMC free article: PMC3267517](/pmc/articles/PMC3267517/)\] \[[PubMed: 22291465](https://pubmed.ncbi.nlm.nih.gov/22291465)\]
 
 20.
-    
 
-Hannoush ZC, Weiss RE. Defects of Thyroid Hormone Synthesis and Action. Endocrinol Metab Clin North Am. 2017 Jun;46(2):375-388. [[PMC free article: PMC5424610](/pmc/articles/PMC5424610/)] [[PubMed: 28476227](https://pubmed.ncbi.nlm.nih.gov/28476227)]
+Hannoush ZC, Weiss RE. Defects of Thyroid Hormone Synthesis and Action. Endocrinol Metab Clin North Am. 2017 Jun;46(2):375-388. \[[PMC free article: PMC5424610](/pmc/articles/PMC5424610/)\] \[[PubMed: 28476227](https://pubmed.ncbi.nlm.nih.gov/28476227)\]
 
 21.
-    
 
-Stoupa A, Chaabane R, Guériouz M, Raynaud-Ravni C, Nitschke P, Bole-Feysot C, Mnif M, Ammar Keskes L, Hachicha M, Belguith N, Polak M, Carré A. Thyroid Hypoplasia in Congenital Hypothyroidism Associated with Thyroid Peroxidase Mutations. Thyroid. 2018 Jul;28(7):941-944. [[PubMed: 29790453](https://pubmed.ncbi.nlm.nih.gov/29790453)]
+Stoupa A, Chaabane R, Guériouz M, Raynaud-Ravni C, Nitschke P, Bole-Feysot C, Mnif M, Ammar Keskes L, Hachicha M, Belguith N, Polak M, Carré A. Thyroid Hypoplasia in Congenital Hypothyroidism Associated with Thyroid Peroxidase Mutations. Thyroid. 2018 Jul;28(7):941-944. \[[PubMed: 29790453](https://pubmed.ncbi.nlm.nih.gov/29790453)\]
 
 22.
-    
 
-Moreno JC, Klootwijk W, van Toor H, Pinto G, D'Alessandro M, Lèger A, Goudie D, Polak M, Grüters A, Visser TJ. Mutations in the iodotyrosine deiodinase gene and hypothyroidism. N Engl J Med. 2008 Apr 24;358(17):1811-8. [[PubMed: 18434651](https://pubmed.ncbi.nlm.nih.gov/18434651)]
+Moreno JC, Klootwijk W, van Toor H, Pinto G, D'Alessandro M, Lèger A, Goudie D, Polak M, Grüters A, Visser TJ. Mutations in the iodotyrosine deiodinase gene and hypothyroidism. N Engl J Med. 2008 Apr 24;358(17):1811-8. \[[PubMed: 18434651](https://pubmed.ncbi.nlm.nih.gov/18434651)\]
 
 23.
-    
 
-Sarret C, Oliver Petit I, Tonduti D. Allan-Herndon-Dudley Syndrome. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews® [Internet]. University of Washington, Seattle; Seattle (WA): Mar 9, 2010. [[PMC free article: PMC26373](/pmc/articles/PMC26373/)] [[PubMed: 20301789](https://pubmed.ncbi.nlm.nih.gov/20301789)]
-
-    
+Sarret C, Oliver Petit I, Tonduti D. Allan-Herndon-Dudley Syndrome. In: Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews® [Internet]. University of Washington, Seattle; Seattle (WA): Mar 9, 2010. \[[PMC free article: PMC26373](/pmc/articles/PMC26373/)\] \[[PubMed: 20301789](https://pubmed.ncbi.nlm.nih.gov/20301789)\]
 
 **Disclosure:** Yasaman Pirahanchi declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Muhammad Ali Tariq declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Ishwarlal Jialal declares no relevant financial relationships with ineligible companies.

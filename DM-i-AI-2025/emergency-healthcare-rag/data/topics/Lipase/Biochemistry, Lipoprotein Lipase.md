@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24324/
-scraped_date: 2025-07-22 12:50:52 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24324/ scraped_date: 2025-07-22 12:50:52 UTC
 
 # Biochemistry, Lipoprotein Lipase
 
@@ -27,7 +26,7 @@ Last Update: July 30, 2023.
 
 Lipoprotein lipase (LPL) is an extracellular enzyme on the vascular endothelial surface that degrades circulating triglycerides in the bloodstream. These triglycerides are embedded in very low-density lipoproteins (VLDL) and chylomicrons traveling through the bloodstream. The role of lipoprotein lipase is significant in understanding the pathophysiology of type one familial dyslipidemias, or hyperchylomicronemia, and its clinical manifestations. LPL also plays an essential role in understanding the cardiac pharmacology of fibrates as a class of medications and in managing patients with high levels of serum triglycerides. This review will explore lipoprotein lipase's function, pathophysiology, and clinical relevance.[1]
 
-## Molecular Level 
+## Molecular Level
 
 The structure of lipoprotein lipase is similar to the enzymes in the lipase family and comprises two distinct regions. LPL has an N-terminal domain with a lipolytic active site and a C-terminal domain. These two regions attach using a peptide link. Recent x-ray crystallography and biochemical experiments have provided more structural evidence revealing that lipoprotein lipase can be active as a monomer.[2][3] Also, Cryo-EM studies have shown that the inactive form of lipoprotein lipase is a polymer.[4]
 
@@ -61,70 +60,54 @@ Clinically, LPL plays a significant role in the progression of atherosclerosis. 
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24324&utm_source=pubmed&utm_campaign=reviews&utm_content=24324)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=24324&utm_source=pubmed&utm_campaign=reviews&utm_content=24324)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24324/?utm_source=pubmed&utm_campaign=comments&utm_content=24324)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/24324/?utm_source=pubmed&utm_campaign=comments&utm_content=24324)
 
 ## References
 
 1.
-    
 
-Mead JR, Irvine SA, Ramji DP. Lipoprotein lipase: structure, function, regulation, and role in disease. J Mol Med (Berl). 2002 Dec;80(12):753-69. [[PubMed: 12483461](https://pubmed.ncbi.nlm.nih.gov/12483461)]
+Mead JR, Irvine SA, Ramji DP. Lipoprotein lipase: structure, function, regulation, and role in disease. J Mol Med (Berl). 2002 Dec;80(12):753-69. \[[PubMed: 12483461](https://pubmed.ncbi.nlm.nih.gov/12483461)\]
 
 2.
-    
 
-Beigneux AP, Allan CM, Sandoval NP, Cho GW, Heizer PJ, Jung RS, Stanhope KL, Havel PJ, Birrane G, Meiyappan M, Gill JE, Murakami M, Miyashita K, Nakajima K, Ploug M, Fong LG, Young SG. Lipoprotein lipase is active as a monomer. Proc Natl Acad Sci U S A. 2019 Mar 26;116(13):6319-6328. [[PMC free article: PMC6442593](/pmc/articles/PMC6442593/)] [[PubMed: 30850549](https://pubmed.ncbi.nlm.nih.gov/30850549)]
+Beigneux AP, Allan CM, Sandoval NP, Cho GW, Heizer PJ, Jung RS, Stanhope KL, Havel PJ, Birrane G, Meiyappan M, Gill JE, Murakami M, Miyashita K, Nakajima K, Ploug M, Fong LG, Young SG. Lipoprotein lipase is active as a monomer. Proc Natl Acad Sci U S A. 2019 Mar 26;116(13):6319-6328. \[[PMC free article: PMC6442593](/pmc/articles/PMC6442593/)\] \[[PubMed: 30850549](https://pubmed.ncbi.nlm.nih.gov/30850549)\]
 
 3.
-    
 
-Arora R, Nimonkar AV, Baird D, Wang C, Chiu CH, Horton PA, Hanrahan S, Cubbon R, Weldon S, Tschantz WR, Mueller S, Brunner R, Lehr P, Meier P, Ottl J, Voznesensky A, Pandey P, Smith TM, Stojanovic A, Flyer A, Benson TE, Romanowski MJ, Trauger JW. Structure of lipoprotein lipase in complex with GPIHBP1. Proc Natl Acad Sci U S A. 2019 May 21;116(21):10360-10365. [[PMC free article: PMC6534989](/pmc/articles/PMC6534989/)] [[PubMed: 31072929](https://pubmed.ncbi.nlm.nih.gov/31072929)]
+Arora R, Nimonkar AV, Baird D, Wang C, Chiu CH, Horton PA, Hanrahan S, Cubbon R, Weldon S, Tschantz WR, Mueller S, Brunner R, Lehr P, Meier P, Ottl J, Voznesensky A, Pandey P, Smith TM, Stojanovic A, Flyer A, Benson TE, Romanowski MJ, Trauger JW. Structure of lipoprotein lipase in complex with GPIHBP1. Proc Natl Acad Sci U S A. 2019 May 21;116(21):10360-10365. \[[PMC free article: PMC6534989](/pmc/articles/PMC6534989/)\] \[[PubMed: 31072929](https://pubmed.ncbi.nlm.nih.gov/31072929)\]
 
 4.
-    
 
-Gunn KH, Roberts BS, Wang F, Strauss JD, Borgnia MJ, Egelman EH, Neher SB. The structure of helical lipoprotein lipase reveals an unexpected twist in lipase storage. Proc Natl Acad Sci U S A. 2020 May 12;117(19):10254-10264. [[PMC free article: PMC7229681](/pmc/articles/PMC7229681/)] [[PubMed: 32332168](https://pubmed.ncbi.nlm.nih.gov/32332168)]
+Gunn KH, Roberts BS, Wang F, Strauss JD, Borgnia MJ, Egelman EH, Neher SB. The structure of helical lipoprotein lipase reveals an unexpected twist in lipase storage. Proc Natl Acad Sci U S A. 2020 May 12;117(19):10254-10264. \[[PMC free article: PMC7229681](/pmc/articles/PMC7229681/)\] \[[PubMed: 32332168](https://pubmed.ncbi.nlm.nih.gov/32332168)\]
 
 5.
-    
 
-Falko JM. Familial Chylomicronemia Syndrome: A Clinical Guide For Endocrinologists. Endocr Pract. 2018 Aug;24(8):756-763. [[PubMed: 30183397](https://pubmed.ncbi.nlm.nih.gov/30183397)]
+Falko JM. Familial Chylomicronemia Syndrome: A Clinical Guide For Endocrinologists. Endocr Pract. 2018 Aug;24(8):756-763. \[[PubMed: 30183397](https://pubmed.ncbi.nlm.nih.gov/30183397)\]
 
 6.
-    
 
-Blom DJ, O'Dea L, Digenio A, Alexander VJ, Karwatowska-Prokopczuk E, Williams KR, Hemphill L, Muñiz-Grijalvo O, Santos RD, Baum S, Witztum JL. Characterizing familial chylomicronemia syndrome: Baseline data of the APPROACH study. J Clin Lipidol. 2018 Sep-Oct;12(5):1234-1243.e5. [[PubMed: 30318066](https://pubmed.ncbi.nlm.nih.gov/30318066)]
+Blom DJ, O'Dea L, Digenio A, Alexander VJ, Karwatowska-Prokopczuk E, Williams KR, Hemphill L, Muñiz-Grijalvo O, Santos RD, Baum S, Witztum JL. Characterizing familial chylomicronemia syndrome: Baseline data of the APPROACH study. J Clin Lipidol. 2018 Sep-Oct;12(5):1234-1243.e5. \[[PubMed: 30318066](https://pubmed.ncbi.nlm.nih.gov/30318066)\]
 
 7.
-    
 
-Yuan G, Al-Shali KZ, Hegele RA. Hypertriglyceridemia: its etiology, effects and treatment. CMAJ. 2007 Apr 10;176(8):1113-20. [[PMC free article: PMC1839776](/pmc/articles/PMC1839776/)] [[PubMed: 17420495](https://pubmed.ncbi.nlm.nih.gov/17420495)]
+Yuan G, Al-Shali KZ, Hegele RA. Hypertriglyceridemia: its etiology, effects and treatment. CMAJ. 2007 Apr 10;176(8):1113-20. \[[PMC free article: PMC1839776](/pmc/articles/PMC1839776/)\] \[[PubMed: 17420495](https://pubmed.ncbi.nlm.nih.gov/17420495)\]
 
 8.
-    
 
-Blackett P, Tryggestad J, Krishnan S, Li S, Xu W, Alaupovic P, Quiroga C, Copeland K. Lipoprotein abnormalities in compound heterozygous lipoprotein lipase deficiency after treatment with a low-fat diet and orlistat. J Clin Lipidol. 2013 Mar-Apr;7(2):132-9. [[PubMed: 23415432](https://pubmed.ncbi.nlm.nih.gov/23415432)]
+Blackett P, Tryggestad J, Krishnan S, Li S, Xu W, Alaupovic P, Quiroga C, Copeland K. Lipoprotein abnormalities in compound heterozygous lipoprotein lipase deficiency after treatment with a low-fat diet and orlistat. J Clin Lipidol. 2013 Mar-Apr;7(2):132-9. \[[PubMed: 23415432](https://pubmed.ncbi.nlm.nih.gov/23415432)\]
 
 9.
-    
 
-Okopień B, Bułdak Ł, Bołdys A. Benefits and risks of the treatment with fibrates--a comprehensive summary. Expert Rev Clin Pharmacol. 2018 Nov;11(11):1099-1112. [[PubMed: 30328735](https://pubmed.ncbi.nlm.nih.gov/30328735)]
+Okopień B, Bułdak Ł, Bołdys A. Benefits and risks of the treatment with fibrates--a comprehensive summary. Expert Rev Clin Pharmacol. 2018 Nov;11(11):1099-1112. \[[PubMed: 30328735](https://pubmed.ncbi.nlm.nih.gov/30328735)\]
 
 10.
-    
 
-Kobayashi J, Mabuchi H. Lipoprotein lipase and atherosclerosis. Ann Clin Biochem. 2015 Nov;52(Pt 6):632-7. [[PubMed: 25995285](https://pubmed.ncbi.nlm.nih.gov/25995285)]
-
-    
+Kobayashi J, Mabuchi H. Lipoprotein lipase and atherosclerosis. Ann Clin Biochem. 2015 Nov;52(Pt 6):632-7. \[[PubMed: 25995285](https://pubmed.ncbi.nlm.nih.gov/25995285)\]
 
 **Disclosure:** Yasaman Pirahanchi declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** McDamian Anoruo declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Sandeep Sharma declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28607/
-scraped_date: 2025-07-22 12:50:19 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28607/ scraped_date: 2025-07-22 12:50:19 UTC
 
 # Ringer's Lactate
 
@@ -29,13 +28,13 @@ Ringer's lactate solution, or lactated Ringer's solution, is a type of isotonic,
 
 **Objectives:**
 
-  * Explain the indications for using Ringer's lactate.
+- Explain the indications for using Ringer's lactate.
 
-  * Describe the physiology behind the therapeutic effect of Ringer's lactate.
+- Describe the physiology behind the therapeutic effect of Ringer's lactate.
 
-  * Summarize potential adverse effects from the use of Ringer's lactate.
+- Summarize potential adverse effects from the use of Ringer's lactate.
 
-  * Summarize interprofessional team strategies for improving care coordination and communication to advance Ringer's lactate use and improve patient outcomes.
+- Summarize interprofessional team strategies for improving care coordination and communication to advance Ringer's lactate use and improve patient outcomes.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28607&utm_source=pubmed&utm_campaign=reviews&utm_content=28607)
 
@@ -49,9 +48,9 @@ Understanding the metabolism of lactate and briefly reviewing its biochemistry a
 
 Administering a liter of Ringer’s lactate does two important things:
 
-  1. Volume resuscitation: In that intravascular volume expands, increasing preload and thus, perfusion 
+1. Volume resuscitation: In that intravascular volume expands, increasing preload and thus, perfusion
 
-  2. Provides the body with sodium lactate: Sodium lactate is a bioenergetic fuel that the human body is designed to metabolize under ischemic conditions, thus decreasing cellular death from ischemia.[3]
+1. Provides the body with sodium lactate: Sodium lactate is a bioenergetic fuel that the human body is designed to metabolize under ischemic conditions, thus decreasing cellular death from ischemia.[3]
 
 Volume kinetics is a complex topic but can be simplified with the following fluid characteristics: osmolarity and tonicity. By way of review, the intracellular fluid compartment is about 67% of total body water, while the extracellular fluid compartment is about 33%. The extracellular fluid compartment can further be broken down into the interstitial fluid, approximately 75% to 80% of the extracellular compartment, and intravascular, approximately 20% to 25% of the extracellular compartment. Osmolarity among all fluid compartments at any given time will remain equal or actively equalizing, as water-free flows between all compartments. Tonicity is a measure of the osmotic (water) gradient between 2 fluids across a semipermeable membrane and is a relative concept between these two fluids. When describing a fluid in terms of tonicity, in other words, hypotonic, isotonic, or hypertonic, tonicity refers to the osmotic gradient between the intracellular and extracellular compartments. Thus, isotonic fluid is given intravenously (IV) does not move across into the intracellular compartment but does distribute across the entire extracellular compartment (interstitial and intravascular), usually proportionally to the compartment volumes (interstitial 75% to 80%, intravascular 20% to 25%).
 
@@ -89,91 +88,72 @@ Monitoring of the site of infusion and IV access is necessary to make sure that 
 
 The toxicity of Ringer’s lactate is more associated with volume overload due to IV fluid administration rather than the contents of Ringer’s lactate itself. As previously stated, excessive IV fluid administration can cause fluid overload. Patients may present anywhere on the spectrum from mild peripheral edema to respiratory distress secondary pulmonary edema. Symptomatic patients should be given diuretic therapy and have serum electrolytes monitored closely. In the most severe cases of respiratory distress, patients may require noninvasive positive pressure ventilation or even intubation. Asymptomatic fluid overload can be managed conservatively with fluid restriction and continued monitoring.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 All interprofessional healthcare team members should be familiar with Ringer's lactate and its indications. Ringer’s lactate is a versatile IV-fluid choice for resuscitation. Ringer’s lactate is superior to normal saline in many ways; however, at times avoided by clinicians due to the stigma of containing lactate. Again, the lactate in Ringer’s lactate is only a problem in patients who have liver dysfunction. In many clinical scenarios, lactate is a beneficial molecule, given its metabolism. Ringer’s lactate is surprisingly cost-effective, better understood, and much more studied than the newer buffered solution and has a role in many illnesses as a strong choice for physiologic fluid replacement. The solution is safe; the only drawback results not from electrolyte changes but the fluid overload that may occur. Hence attention should be paid to the amount of volume infused.
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28607&utm_source=pubmed&utm_campaign=reviews&utm_content=28607)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=28607&utm_source=pubmed&utm_campaign=reviews&utm_content=28607)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/28607/?utm_source=pubmed&utm_campaign=comments&utm_content=28607)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/28607/?utm_source=pubmed&utm_campaign=comments&utm_content=28607)
 
 ## References
 
 1.
-    
 
-Iqbal U, Anwar H, Scribani M. Ringer's lactate versus normal saline in acute pancreatitis: A systematic review and meta-analysis. J Dig Dis. 2018 Jun;19(6):335-341. [[PubMed: 29732686](https://pubmed.ncbi.nlm.nih.gov/29732686)]
+Iqbal U, Anwar H, Scribani M. Ringer's lactate versus normal saline in acute pancreatitis: A systematic review and meta-analysis. J Dig Dis. 2018 Jun;19(6):335-341. \[[PubMed: 29732686](https://pubmed.ncbi.nlm.nih.gov/29732686)\]
 
 2.
-    
 
-Gladden LB. Lactate metabolism: a new paradigm for the third millennium. J Physiol. 2004 Jul 01;558(Pt 1):5-30. [[PMC free article: PMC1664920](/pmc/articles/PMC1664920/)] [[PubMed: 15131240](https://pubmed.ncbi.nlm.nih.gov/15131240)]
+Gladden LB. Lactate metabolism: a new paradigm for the third millennium. J Physiol. 2004 Jul 01;558(Pt 1):5-30. \[[PMC free article: PMC1664920](/pmc/articles/PMC1664920/)\] \[[PubMed: 15131240](https://pubmed.ncbi.nlm.nih.gov/15131240)\]
 
 3.
-    
 
-Ichai C, Orban JC, Fontaine E. Sodium lactate for fluid resuscitation: the preferred solution for the coming decades? Crit Care. 2014 Jul 07;18(4):163. [[PMC free article: PMC4095570](/pmc/articles/PMC4095570/)] [[PubMed: 25043707](https://pubmed.ncbi.nlm.nih.gov/25043707)]
+Ichai C, Orban JC, Fontaine E. Sodium lactate for fluid resuscitation: the preferred solution for the coming decades? Crit Care. 2014 Jul 07;18(4):163. \[[PMC free article: PMC4095570](/pmc/articles/PMC4095570/)\] \[[PubMed: 25043707](https://pubmed.ncbi.nlm.nih.gov/25043707)\]
 
 4.
-    
 
-Piper GL, Kaplan LJ. Fluid and electrolyte management for the surgical patient. Surg Clin North Am. 2012 Apr;92(2):189-205, vii. [[PubMed: 22414407](https://pubmed.ncbi.nlm.nih.gov/22414407)]
+Piper GL, Kaplan LJ. Fluid and electrolyte management for the surgical patient. Surg Clin North Am. 2012 Apr;92(2):189-205, vii. \[[PubMed: 22414407](https://pubmed.ncbi.nlm.nih.gov/22414407)\]
 
 5.
-    
 
-HUGGINS RA, BRECKENRIDGE CG, HOFF HE. Volume of distribution of potassium and its alteration by sympatholytic and antihistaminic drugs. Am J Physiol. 1950 Oct;163(1):153-8. [[PubMed: 14771288](https://pubmed.ncbi.nlm.nih.gov/14771288)]
+HUGGINS RA, BRECKENRIDGE CG, HOFF HE. Volume of distribution of potassium and its alteration by sympatholytic and antihistaminic drugs. Am J Physiol. 1950 Oct;163(1):153-8. \[[PubMed: 14771288](https://pubmed.ncbi.nlm.nih.gov/14771288)\]
 
 6.
-    
 
-O'Malley CMN, Frumento RJ, Hardy MA, Benvenisty AI, Brentjens TE, Mercer JS, Bennett-Guerrero E. A randomized, double-blind comparison of lactated Ringer's solution and 0.9% NaCl during renal transplantation. Anesth Analg. 2005 May;100(5):1518-1524. [[PubMed: 15845718](https://pubmed.ncbi.nlm.nih.gov/15845718)]
+O'Malley CMN, Frumento RJ, Hardy MA, Benvenisty AI, Brentjens TE, Mercer JS, Bennett-Guerrero E. A randomized, double-blind comparison of lactated Ringer's solution and 0.9% NaCl during renal transplantation. Anesth Analg. 2005 May;100(5):1518-1524. \[[PubMed: 15845718](https://pubmed.ncbi.nlm.nih.gov/15845718)\]
 
 7.
-    
 
-Modi MP, Vora KS, Parikh GP, Shah VR. A comparative study of impact of infusion of Ringer's Lactate solution versus normal saline on acid-base balance and serum electrolytes during live related renal transplantation. Saudi J Kidney Dis Transpl. 2012 Jan;23(1):135-7. [[PubMed: 22237237](https://pubmed.ncbi.nlm.nih.gov/22237237)]
+Modi MP, Vora KS, Parikh GP, Shah VR. A comparative study of impact of infusion of Ringer's Lactate solution versus normal saline on acid-base balance and serum electrolytes during live related renal transplantation. Saudi J Kidney Dis Transpl. 2012 Jan;23(1):135-7. \[[PubMed: 22237237](https://pubmed.ncbi.nlm.nih.gov/22237237)\]
 
 8.
-    
 
-Cooper DJ, Myles PS, McDermott FT, Murray LJ, Laidlaw J, Cooper G, Tremayne AB, Bernard SS, Ponsford J., HTS Study Investigators. Prehospital hypertonic saline resuscitation of patients with hypotension and severe traumatic brain injury: a randomized controlled trial. JAMA. 2004 Mar 17;291(11):1350-7. [[PubMed: 15026402](https://pubmed.ncbi.nlm.nih.gov/15026402)]
+Cooper DJ, Myles PS, McDermott FT, Murray LJ, Laidlaw J, Cooper G, Tremayne AB, Bernard SS, Ponsford J., HTS Study Investigators. Prehospital hypertonic saline resuscitation of patients with hypotension and severe traumatic brain injury: a randomized controlled trial. JAMA. 2004 Mar 17;291(11):1350-7. \[[PubMed: 15026402](https://pubmed.ncbi.nlm.nih.gov/15026402)\]
 
 9.
-    
 
-Pfortmueller CA, Faeh L, Müller M, Eberle B, Jenni H, Zante B, Prazak J, Englberger L, Takala J, Jakob SM. Fluid management in patients undergoing cardiac surgery: effects of an acetate- versus lactate-buffered balanced infusion solution on hemodynamic stability (HEMACETAT). Crit Care. 2019 May 06;23(1):159. [[PMC free article: PMC6503387](/pmc/articles/PMC6503387/)] [[PubMed: 31060591](https://pubmed.ncbi.nlm.nih.gov/31060591)]
+Pfortmueller CA, Faeh L, Müller M, Eberle B, Jenni H, Zante B, Prazak J, Englberger L, Takala J, Jakob SM. Fluid management in patients undergoing cardiac surgery: effects of an acetate- versus lactate-buffered balanced infusion solution on hemodynamic stability (HEMACETAT). Crit Care. 2019 May 06;23(1):159. \[[PMC free article: PMC6503387](/pmc/articles/PMC6503387/)\] \[[PubMed: 31060591](https://pubmed.ncbi.nlm.nih.gov/31060591)\]
 
 10.
-    
 
-Liamis G, Filippatos TD, Elisaf MS. Correction of hypovolemia with crystalloid fluids: Individualizing infusion therapy. Postgrad Med. 2015 May;127(4):405-12. [[PubMed: 25812486](https://pubmed.ncbi.nlm.nih.gov/25812486)]
+Liamis G, Filippatos TD, Elisaf MS. Correction of hypovolemia with crystalloid fluids: Individualizing infusion therapy. Postgrad Med. 2015 May;127(4):405-12. \[[PubMed: 25812486](https://pubmed.ncbi.nlm.nih.gov/25812486)\]
 
 11.
-    
 
-Zampieri FG, Ranzani OT, Azevedo LC, Martins ID, Kellum JA, Libório AB. Lactated Ringer Is Associated With Reduced Mortality and Less Acute Kidney Injury in Critically Ill Patients: A Retrospective Cohort Analysis. Crit Care Med. 2016 Dec;44(12):2163-2170. [[PubMed: 27495820](https://pubmed.ncbi.nlm.nih.gov/27495820)]
+Zampieri FG, Ranzani OT, Azevedo LC, Martins ID, Kellum JA, Libório AB. Lactated Ringer Is Associated With Reduced Mortality and Less Acute Kidney Injury in Critically Ill Patients: A Retrospective Cohort Analysis. Crit Care Med. 2016 Dec;44(12):2163-2170. \[[PubMed: 27495820](https://pubmed.ncbi.nlm.nih.gov/27495820)\]
 
 12.
-    
 
-Gelbenegger G, Shapiro NI, Zeitlinger M, Jilma B, Douglas IS, Jorda A. Lactated Ringer's or Normal Saline for Initial Fluid Resuscitation in Sepsis-Induced Hypotension. Crit Care Med. 2025 May 01;53(5):e1140-e1144. [[PMC free article: PMC12047640](/pmc/articles/PMC12047640/)] [[PubMed: 39969246](https://pubmed.ncbi.nlm.nih.gov/39969246)]
+Gelbenegger G, Shapiro NI, Zeitlinger M, Jilma B, Douglas IS, Jorda A. Lactated Ringer's or Normal Saline for Initial Fluid Resuscitation in Sepsis-Induced Hypotension. Crit Care Med. 2025 May 01;53(5):e1140-e1144. \[[PMC free article: PMC12047640](/pmc/articles/PMC12047640/)\] \[[PubMed: 39969246](https://pubmed.ncbi.nlm.nih.gov/39969246)\]
 
 13.
-    
 
-Self WH, Semler MW, Wanderer JP, Wang L, Byrne DW, Collins SP, Slovis CM, Lindsell CJ, Ehrenfeld JM, Siew ED, Shaw AD, Bernard GR, Rice TW., SALT-ED Investigators. Balanced Crystalloids versus Saline in Noncritically Ill Adults. N Engl J Med. 2018 Mar 01;378(9):819-828. [[PMC free article: PMC5846618](/pmc/articles/PMC5846618/)] [[PubMed: 29485926](https://pubmed.ncbi.nlm.nih.gov/29485926)]
-
-    
+Self WH, Semler MW, Wanderer JP, Wang L, Byrne DW, Collins SP, Slovis CM, Lindsell CJ, Ehrenfeld JM, Siew ED, Shaw AD, Bernard GR, Rice TW., SALT-ED Investigators. Balanced Crystalloids versus Saline in Noncritically Ill Adults. N Engl J Med. 2018 Mar 01;378(9):819-828. \[[PMC free article: PMC5846618](/pmc/articles/PMC5846618/)\] \[[PubMed: 29485926](https://pubmed.ncbi.nlm.nih.gov/29485926)\]
 
 **Disclosure:** Shashank Singh declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Connor Kerndt declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** David Davis declares no relevant financial relationships with ineligible companies.

@@ -1,7 +1,6 @@
----
-source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-51594/
-scraped_date: 2025-07-22 12:35:54 UTC
----
+______________________________________________________________________
+
+## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-51594/ scraped_date: 2025-07-22 12:35:54 UTC
 
 # Catheter-Directed Thrombolysis of Pulmonary Embolism
 
@@ -29,13 +28,13 @@ This activity on CDT for pulmonary embolism is crucial for healthcare profession
 
 **Objectives:**
 
-  * Identify appropriate candidates for catheter-directed thrombolysis in acute pulmonary embolism management based on clinical presentation, risk factors, and imaging findings.
+- Identify appropriate candidates for catheter-directed thrombolysis in acute pulmonary embolism management based on clinical presentation, risk factors, and imaging findings.
 
-  * Apply evidence-based guidelines and protocols for catheter-directed thrombolysis administration, dosage, and monitoring in managing acute pulmonary embolism.
+- Apply evidence-based guidelines and protocols for catheter-directed thrombolysis administration, dosage, and monitoring in managing acute pulmonary embolism.
 
-  * Select appropriate catheterization techniques and thrombolytic agents based on patient characteristics and clot location for catheter-directed thrombolysis.
+- Select appropriate catheterization techniques and thrombolytic agents based on patient characteristics and clot location for catheter-directed thrombolysis.
 
-  * Collaborate with interventional radiologists and cardiologists to optimize catheter-directed thrombolysis procedures and outcomes in acute pulmonary embolism management.
+- Collaborate with interventional radiologists and cardiologists to optimize catheter-directed thrombolysis procedures and outcomes in acute pulmonary embolism management.
 
 [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=51594&utm_source=pubmed&utm_campaign=reviews&utm_content=51594)
 
@@ -55,26 +54,27 @@ The resultant right ventricular dilation alters the myocardium's contractile pro
 
 Meticulous patient selection remains the cornerstone of endovascular strategies in pulmonary embolism management. Three critical considerations guide the decision to proceed with CDT:
 
-  1. Disease severity and acuity: 
-     1. Massive pulmonary embolism: Systemic thrombolysis is the primary choice, offering lower all-cause mortality.[10] In cases where systemic thrombolysis fails, endovascular approaches, including CDT, become potential options within a pulmonary embolism response team (PERT) approach, considering extracorporeal membrane oxygenation and surgical embolectomy for life-saving situations.[11][12]
+1. Disease severity and acuity:
 
-     2. Submassive pulmonary embolism: Systemic thrombolysis provides a mortality benefit but raises major bleeding risk, especially intracranial hemorrhage.[10][13]. American College of Cardiology (ACC) and American Heart Association guidelines consider CDT for deterioration or when adverse prognosis indicators are present. The European Society of Cardiology advocates 2-step risk stratification with validated tools like the pulmonary embolism Severity Index followed by imaging and biomarker assessment.[3][14] If both clinical and objective assessments indicate high risk and impending cardiopulmonary deterioration is likely, CDT may be considered. This reflects the ongoing need for robust randomized trials. Existing data on ultrasound-assisted CDT shows promise; exceeding heparin alone improves right ventricular size within 24 hours without major bleeding or recurrent venous thromboembolism.[15]
+   1. Massive pulmonary embolism: Systemic thrombolysis is the primary choice, offering lower all-cause mortality.[10] In cases where systemic thrombolysis fails, endovascular approaches, including CDT, become potential options within a pulmonary embolism response team (PERT) approach, considering extracorporeal membrane oxygenation and surgical embolectomy for life-saving situations.[11][12]
 
-     3. Low-risk pulmonary embolism: Endovascular interventions are generally contraindicated due to low morbidity and mortality. The exception might be large saddle emboli without hemodynamic or right ventricular issues. Ongoing trials on optimal dosing and duration are underway.[16]
+   1. Submassive pulmonary embolism: Systemic thrombolysis provides a mortality benefit but raises major bleeding risk, especially intracranial hemorrhage.[10][13]. American College of Cardiology (ACC) and American Heart Association guidelines consider CDT for deterioration or when adverse prognosis indicators are present. The European Society of Cardiology advocates 2-step risk stratification with validated tools like the pulmonary embolism Severity Index followed by imaging and biomarker assessment.[3][14] If both clinical and objective assessments indicate high risk and impending cardiopulmonary deterioration is likely, CDT may be considered. This reflects the ongoing need for robust randomized trials. Existing data on ultrasound-assisted CDT shows promise; exceeding heparin alone improves right ventricular size within 24 hours without major bleeding or recurrent venous thromboembolism.[15]
 
-  2. Major adverse bleeding risk: Balancing potential CDT benefits with individual bleeding risks is crucial. Comorbidities and bleeding history require careful evaluation.
+   1. Low-risk pulmonary embolism: Endovascular interventions are generally contraindicated due to low morbidity and mortality. The exception might be large saddle emboli without hemodynamic or right ventricular issues. Ongoing trials on optimal dosing and duration are underway.[16]
 
-  3. Patient-specific considerations: Shared decision-making, incorporating patient values, preferences, and goals, is paramount. It ensures that treatment aligns with individual circumstances and desires.
+1. Major adverse bleeding risk: Balancing potential CDT benefits with individual bleeding risks is crucial. Comorbidities and bleeding history require careful evaluation.
+
+1. Patient-specific considerations: Shared decision-making, incorporating patient values, preferences, and goals, is paramount. It ensures that treatment aligns with individual circumstances and desires.
 
 ## Contraindications
 
-Though thrombolysis is administered locally during CDT, there is a risk of systemic effects associated with thrombolysis therapy. Systemic thrombolytic therapy is implicated in many severe CDT complications, such as severe bleeding. Hence, practitioners must thoroughly review the patient's medical history before considering thrombolytic therapy (see **Table.** Contraindication for Thrombolytic Therapy). 
+Though thrombolysis is administered locally during CDT, there is a risk of systemic effects associated with thrombolysis therapy. Systemic thrombolytic therapy is implicated in many severe CDT complications, such as severe bleeding. Hence, practitioners must thoroughly review the patient's medical history before considering thrombolytic therapy (see **Table.** Contraindication for Thrombolytic Therapy).
 
 [![Table Icon](/corehtml/pmc/css/bookshelf/2.26/img/table-icon.gif)](/books/NBK536918/table/article-51594.table0/?report=objectonly "Table")
 
 #### [Table](/books/NBK536918/table/article-51594.table0/?report=objectonly)
 
-Table 1. Contraindication for Thrombolytic Therapy. 
+Table 1. Contraindication for Thrombolytic Therapy.
 
 ## Equipment
 
@@ -88,7 +88,7 @@ While the evidence base for CDT is evolving, it shows promise. Ongoing clinical 
 
 #### [Table](/books/NBK536918/table/article-51594.table1/?report=objectonly)
 
-Table 2. Catheter-Directed Thrombolysis Trials . 
+Table 2. Catheter-Directed Thrombolysis Trials .
 
 AC = Anticoagulation, tPA = Tissue plasminogen activator, USAT = Ultrasound assisted thrombolysis
 
@@ -98,73 +98,75 @@ Several CDT devices are available, each with unique mechanisms. Two such mechani
 
 **EKOS-CDT**
 
-  * Central conductor: The EKOS-IDDC serves as the central conduit for intervention. This multi-lumen catheter allows simultaneous delivery of a thrombolytic agent (eg, rt-PA) and saline coolant directly to the target thrombus.
+- Central conductor: The EKOS-IDDC serves as the central conduit for intervention. This multi-lumen catheter allows simultaneous delivery of a thrombolytic agent (eg, rt-PA) and saline coolant directly to the target thrombus.
 
-  * Sonic disruption module: The MicroSonic Device (MSD) nested within the IDDC harbors multiple ultrasound transducers that emit targeted low-frequency sonic waves to facilitate clot fragmentation and enhance drug penetration.
+- Sonic disruption module: The MicroSonic Device (MSD) nested within the IDDC harbors multiple ultrasound transducers that emit targeted low-frequency sonic waves to facilitate clot fragmentation and enhance drug penetration.
 
-  * Hemodynamic monitoring: Continuous monitoring of hemodynamic parameters (eg, pulmonary artery pressure and cardiac output) and electrocardiogram (ECG) is essential for ensuring patient safety throughout the procedure and guiding therapeutic adjustments.[22]
+- Hemodynamic monitoring: Continuous monitoring of hemodynamic parameters (eg, pulmonary artery pressure and cardiac output) and electrocardiogram (ECG) is essential for ensuring patient safety throughout the procedure and guiding therapeutic adjustments.[22]
 
 **BEC-CDT**
 
-  * Expandable catheter: The 7-F BEC-CDT occupies the central role in this system. Its unique feature is an expandable "basket" equipped with 48 orifices, allowing for strategic deployment and maximizing drug-thrombus contact within the clot.
+- Expandable catheter: The 7-F BEC-CDT occupies the central role in this system. Its unique feature is an expandable "basket" equipped with 48 orifices, allowing for strategic deployment and maximizing drug-thrombus contact within the clot.
 
-  * Pulse spray delivery: A dedicated syringe administers controlled "pulse sprays" of the thrombolytic agent, creating initial fissures within the clot. Subsequently, a continuous infusion pump ensures sustained thrombolysis.
+- Pulse spray delivery: A dedicated syringe administers controlled "pulse sprays" of the thrombolytic agent, creating initial fissures within the clot. Subsequently, a continuous infusion pump ensures sustained thrombolysis.
 
-  * Fluoroscopic visualization: Real-time fluoroscopy offers visual guidance for catheter placement, ensuring optimal positioning of the expanding basket within the target thrombus.[21]
+- Fluoroscopic visualization: Real-time fluoroscopy offers visual guidance for catheter placement, ensuring optimal positioning of the expanding basket within the target thrombus.[21]
 
 **Shared Instrumental Landscape**
 
-  * Venous access establishment: Both procedures require initial venous access, typically achieved using a micropuncture needle and introducer sheath, contingent upon individual patient anatomy and institutional protocols.
+- Venous access establishment: Both procedures require initial venous access, typically achieved using a micropuncture needle and introducer sheath, contingent upon individual patient anatomy and institutional protocols.
 
-  * Guidewire navigation: A guidewire serves as the forerunner, facilitating the catheters' navigation to the target thrombus within the pulmonary artery.
+- Guidewire navigation: A guidewire serves as the forerunner, facilitating the catheters' navigation to the target thrombus within the pulmonary artery.
 
-  * Anticoagulation support: Anticoagulant therapy plays a crucial role in both paradigms, preventing further clot formation and maintaining vascular patency throughout the procedure.
+- Anticoagulation support: Anticoagulant therapy plays a crucial role in both paradigms, preventing further clot formation and maintaining vascular patency throughout the procedure.
 
 ## Personnel
 
 The new guidelines recommend a PERT approach at healthcare facilities.[23] The PERT is a multidisciplinary team specialized in diagnosing and managing acute pulmonary embolism. It brings together experts from various specialties to collaborate on optimal patient care. PERTs usually focus on submassive and massive pulmonary embolism cases but can also benefit low-risk patients with major contraindications to standard anticoagulation, such as intracranial hemorrhage. Critical considerations for PERT activation include the following:
 
-  * The initiation of anticoagulation remains crucial and should not be delayed unless contraindicated.
+- The initiation of anticoagulation remains crucial and should not be delayed unless contraindicated.
 
-  * PERT activation should occur concurrently with implementing treatment recommendations.
+- PERT activation should occur concurrently with implementing treatment recommendations.
 
-  * The PERT structure varies by institution but may involve specialties such as critical care, pulmonology, cardiology, interventional radiology, and more.
+- The PERT structure varies by institution but may involve specialties such as critical care, pulmonology, cardiology, interventional radiology, and more.
 
-  * Each member plays a specific role in patient care, from diagnosis and risk stratification to procedures and medication management.
+- Each member plays a specific role in patient care, from diagnosis and risk stratification to procedures and medication management.
 
 The PERT algorithm provides a general framework and may require adaptation based on specific institutional protocols and patient needs.[24] The following steps encompass the PERT approach to the management of pulmonary embolism:
 
-  1. **Patient identification:** Identify patients with suspected or confirmed acute pulmonary embolism, especially submassive or massive cases. Consider low-risk pulmonary embolism with significant contraindications to anticoagulation.
+1. **Patient identification:** Identify patients with suspected or confirmed acute pulmonary embolism, especially submassive or massive cases. Consider low-risk pulmonary embolism with significant contraindications to anticoagulation.
 
-  2. **PERT activation:** Trigger activation based on predefined criteria (eg, pulmonary embolism severity and comorbidities). Ensure a precise mechanism for team notification and assembly.
+1. **PERT activation:** Trigger activation based on predefined criteria (eg, pulmonary embolism severity and comorbidities). Ensure a precise mechanism for team notification and assembly.
 
-  3. **Initial assessment:** The emergency medicine or admitting team performs initial patient evaluation and diagnosis. They gather relevant data such as clinical presentation, risk factors, vital signs, laboratory findings, and imaging studies.
+1. **Initial assessment:** The emergency medicine or admitting team performs initial patient evaluation and diagnosis. They gather relevant data such as clinical presentation, risk factors, vital signs, laboratory findings, and imaging studies.
 
-  4. **Multidisciplinary consultation:** PERT convenes to discuss the case and treatment options. Consider the potential roles of each specialty: 
-     * Critical care: Hemodynamic management, respiratory support
+1. **Multidisciplinary consultation:** PERT convenes to discuss the case and treatment options. Consider the potential roles of each specialty:
 
-     * Pulmonology: Diagnosis, risk stratification, follow-up
+   - Critical care: Hemodynamic management, respiratory support
 
-     * Cardiology: Medical management, thrombolysis consideration
+   - Pulmonology: Diagnosis, risk stratification, follow-up
 
-     * Radiology: Advanced imaging, procedures (eg, catheter embolectomy)
+   - Cardiology: Medical management, thrombolysis consideration
 
-     * Vascular surgery: Surgical thrombectomy if needed
+   - Radiology: Advanced imaging, procedures (eg, catheter embolectomy)
 
-     * Hematology: Anticoagulation selection, thrombophilia evaluation
+   - Vascular surgery: Surgical thrombectomy if needed
 
-     * Pharmacy: Medication dosing and monitoring
+   - Hematology: Anticoagulation selection, thrombophilia evaluation
 
-  5. **Treatment decision:** PERT collaboratively determines the most appropriate treatment approach based on patient factors and available resources. Options may include: 
-     * Anticoagulation alone
+   - Pharmacy: Medication dosing and monitoring
 
-     * Thrombolysis (systemic or catheter-directed)
+1. **Treatment decision:** PERT collaboratively determines the most appropriate treatment approach based on patient factors and available resources. Options may include:
 
-     * Mechanical thrombectomy (catheter or surgical)
+   - Anticoagulation alone
 
-     * Combination therapies
+   - Thrombolysis (systemic or catheter-directed)
 
-  6. **Ongoing management:** PERT remains involved in monitoring and follow-up care, adjusting treatment as needed. Patients receive necessary interventions such as oxygen and hemodynamic support. Regular reassessment and monitoring for complications are conducted to ensure optimal patient outcomes.
+   - Mechanical thrombectomy (catheter or surgical)
+
+   - Combination therapies
+
+1. **Ongoing management:** PERT remains involved in monitoring and follow-up care, adjusting treatment as needed. Patients receive necessary interventions such as oxygen and hemodynamic support. Regular reassessment and monitoring for complications are conducted to ensure optimal patient outcomes.
 
 PERT is a new team approach to improving coordinated care in acute pulmonary embolism. It brings together specialists for rapid consultations and shared decision-making, improving communication and streamlining treatment. Studies indicate the feasibility of creating PERT teams, and the PERT consortium, a collaborative effort, is gathering data to assess its impact.[24][25][24] This data provides valuable insights into PERT's effectiveness in enhancing patient outcomes, care practices, cost-efficiency, and overall pulmonary embolism treatment knowledge.
 
@@ -204,7 +206,7 @@ There are several possible complications from CDT for pulmonary embolism, with m
 
 Systemic thrombolysis remains the standard for high-risk acute pulmonary embolism patients, but its bleeding risk, particularly in older individuals, raises concerns. The optimal strategy remains unclear for those with intermediate-high-risk pulmonary embolism and right ventricular dysfunction. Full-dose systemic thrombolysis offers minimal mortality benefits while exposing patients to potential bleeding complications. CDT emerges as a potential game-changer. This precise approach delivers clot-busting medication directly to the blockage, offering the possibility of reduced bleeding by lowering the thrombolytic dose. This makes it particularly attractive for high-risk pulmonary embolism patients with contraindications to systemic thrombolysis. Early data, though primarily observational, paints a promising picture. CDT reduces right ventricular dysfunction, a key predictor of mortality in patients with pulmonary embolism, and shows promise in improving short-term functional limitations and hemodynamic measures.[30] However, definitive recommendations await more robust evidence from ongoing randomized controlled trials like PE-TRACT and HI-PEITHO, which compare CDT to standard anticoagulation in intermediate-high-risk pulmonary embolism patients. Until then, expert interventional cardiologists must rely on individualized assessments and collaborative decision-making within pulmonary embolism response teams.[25] These teams, empowered by local protocols and resources, can tailor therapy to each patient's needs. Implementing pulmonary embolism response teams and encouraging participation in clinical trials are key to unlocking CDT's full potential and improving outcomes for this vulnerable population.
 
-## Enhancing Healthcare Team Outcomes 
+## Enhancing Healthcare Team Outcomes
 
 CDT offers improved clinical outcomes in patients with severe, hemodynamically unstable, massive, or submassive pulmonary embolisms. Without CDT, these patients are at a higher risk of morbidity and mortality. The current guidelines recommend that all healthcare facilities treating pulmonary embolisms establish a PERT.[31] The PERT team is an interprofessional team comprising specialists from various clinical fields, including emergency medicine, critical care, cardiology, internal medicine, radiology, and specialty-trained nurses from critical care, radiology, and emergency care. Clinical pharmacists, especially those trained in critical care, cardiac care, and anticoagulation, are also essential members of this team. Working collaboratively, they can efficiently and effectively deliver CDT to improve patient care.
 
@@ -216,182 +218,144 @@ Due to the risk of complications during CDT, close monitoring during thrombolyti
 
 ## Review Questions
 
-  * [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=51594&utm_source=pubmed&utm_campaign=reviews&utm_content=51594)
+- [Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=51594&utm_source=pubmed&utm_campaign=reviews&utm_content=51594)
 
-  * [Click here for a simplified version.](https://mdsearchlight.com/therapeutics/catheter-directed-thrombolysis-of-pulmonary-embolism-pulmonary-thrombolysis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=51594)
+- [Click here for a simplified version.](https://mdsearchlight.com/therapeutics/catheter-directed-thrombolysis-of-pulmonary-embolism-pulmonary-thrombolysis/?utm_source=pubmedlink&utm_campaign=MDS&utm_content=51594)
 
-  * [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/51594/?utm_source=pubmed&utm_campaign=comments&utm_content=51594)
+- [Comment on this article.](https://www.statpearls.com/articlelibrary/commentarticle/51594/?utm_source=pubmed&utm_campaign=comments&utm_content=51594)
 
 ## References
 
 1.
-    
 
-The Lancet Haematology Thromboembolism: an under appreciated cause of death. Lancet Haematol. 2015 Oct;2(10):e393. [[PubMed: 26686033](https://pubmed.ncbi.nlm.nih.gov/26686033)]
+The Lancet Haematology Thromboembolism: an under appreciated cause of death. Lancet Haematol. 2015 Oct;2(10):e393. \[[PubMed: 26686033](https://pubmed.ncbi.nlm.nih.gov/26686033)\]
 
 2.
-    
 
-Freund Y, Cohen-Aubart F, Bloom B. Acute Pulmonary Embolism: A Review. JAMA. 2022 Oct 04;328(13):1336-1345. [[PubMed: 36194215](https://pubmed.ncbi.nlm.nih.gov/36194215)]
+Freund Y, Cohen-Aubart F, Bloom B. Acute Pulmonary Embolism: A Review. JAMA. 2022 Oct 04;328(13):1336-1345. \[[PubMed: 36194215](https://pubmed.ncbi.nlm.nih.gov/36194215)\]
 
 3.
-    
 
-Giri J, Sista AK, Weinberg I, Kearon C, Kumbhani DJ, Desai ND, Piazza G, Gladwin MT, Chatterjee S, Kobayashi T, Kabrhel C, Barnes GD. Interventional Therapies for Acute Pulmonary Embolism: Current Status and Principles for the Development of Novel Evidence: A Scientific Statement From the American Heart Association. Circulation. 2019 Nov 12;140(20):e774-e801. [[PubMed: 31585051](https://pubmed.ncbi.nlm.nih.gov/31585051)]
+Giri J, Sista AK, Weinberg I, Kearon C, Kumbhani DJ, Desai ND, Piazza G, Gladwin MT, Chatterjee S, Kobayashi T, Kabrhel C, Barnes GD. Interventional Therapies for Acute Pulmonary Embolism: Current Status and Principles for the Development of Novel Evidence: A Scientific Statement From the American Heart Association. Circulation. 2019 Nov 12;140(20):e774-e801. \[[PubMed: 31585051](https://pubmed.ncbi.nlm.nih.gov/31585051)\]
 
 4.
-    
 
-Xue X, Sista AK. Catheter-Directed Thrombolysis for Pulmonary Embolism: The State of Practice. Tech Vasc Interv Radiol. 2018 Jun;21(2):78-84. [[PubMed: 29784125](https://pubmed.ncbi.nlm.nih.gov/29784125)]
+Xue X, Sista AK. Catheter-Directed Thrombolysis for Pulmonary Embolism: The State of Practice. Tech Vasc Interv Radiol. 2018 Jun;21(2):78-84. \[[PubMed: 29784125](https://pubmed.ncbi.nlm.nih.gov/29784125)\]
 
 5.
-    
 
-Dudzinski DM, Giri J, Rosenfield K. Interventional Treatment of Pulmonary Embolism. Circ Cardiovasc Interv. 2017 Feb;10(2) [[PubMed: 28213377](https://pubmed.ncbi.nlm.nih.gov/28213377)]
+Dudzinski DM, Giri J, Rosenfield K. Interventional Treatment of Pulmonary Embolism. Circ Cardiovasc Interv. 2017 Feb;10(2) \[[PubMed: 28213377](https://pubmed.ncbi.nlm.nih.gov/28213377)\]
 
 6.
-    
 
-McIntyre KM, Sasahara AA. The hemodynamic response to pulmonary embolism in patients without prior cardiopulmonary disease. Am J Cardiol. 1971 Sep;28(3):288-94. [[PubMed: 5155756](https://pubmed.ncbi.nlm.nih.gov/5155756)]
+McIntyre KM, Sasahara AA. The hemodynamic response to pulmonary embolism in patients without prior cardiopulmonary disease. Am J Cardiol. 1971 Sep;28(3):288-94. \[[PubMed: 5155756](https://pubmed.ncbi.nlm.nih.gov/5155756)\]
 
 7.
-    
 
-Smulders YM. Pathophysiology and treatment of haemodynamic instability in acute pulmonary embolism: the pivotal role of pulmonary vasoconstriction. Cardiovasc Res. 2000 Oct;48(1):23-33. [[PubMed: 11033105](https://pubmed.ncbi.nlm.nih.gov/11033105)]
+Smulders YM. Pathophysiology and treatment of haemodynamic instability in acute pulmonary embolism: the pivotal role of pulmonary vasoconstriction. Cardiovasc Res. 2000 Oct;48(1):23-33. \[[PubMed: 11033105](https://pubmed.ncbi.nlm.nih.gov/11033105)\]
 
 8.
-    
 
-Begieneman MP, van de Goot FR, van der Bilt IA, Vonk Noordegraaf A, Spreeuwenberg MD, Paulus WJ, van Hinsbergh VW, Visser FC, Niessen HW. Pulmonary embolism causes endomyocarditis in the human heart. Heart. 2008 Apr;94(4):450-6. [[PubMed: 17646195](https://pubmed.ncbi.nlm.nih.gov/17646195)]
+Begieneman MP, van de Goot FR, van der Bilt IA, Vonk Noordegraaf A, Spreeuwenberg MD, Paulus WJ, van Hinsbergh VW, Visser FC, Niessen HW. Pulmonary embolism causes endomyocarditis in the human heart. Heart. 2008 Apr;94(4):450-6. \[[PubMed: 17646195](https://pubmed.ncbi.nlm.nih.gov/17646195)\]
 
 9.
-    
 
-Burrowes KS, Clark AR, Tawhai MH. Blood flow redistribution and ventilation-perfusion mismatch during embolic pulmonary arterial occlusion. Pulm Circ. 2011 Jul-Sep;1(3):365-76. [[PMC free article: PMC3224428](/pmc/articles/PMC3224428/)] [[PubMed: 22140626](https://pubmed.ncbi.nlm.nih.gov/22140626)]
+Burrowes KS, Clark AR, Tawhai MH. Blood flow redistribution and ventilation-perfusion mismatch during embolic pulmonary arterial occlusion. Pulm Circ. 2011 Jul-Sep;1(3):365-76. \[[PMC free article: PMC3224428](/pmc/articles/PMC3224428/)\] \[[PubMed: 22140626](https://pubmed.ncbi.nlm.nih.gov/22140626)\]
 
 10.
-    
 
-Marti C, John G, Konstantinides S, Combescure C, Sanchez O, Lankeit M, Meyer G, Perrier A. Systemic thrombolytic therapy for acute pulmonary embolism: a systematic review and meta-analysis. Eur Heart J. 2015 Mar 07;36(10):605-14. [[PMC free article: PMC4352209](/pmc/articles/PMC4352209/)] [[PubMed: 24917641](https://pubmed.ncbi.nlm.nih.gov/24917641)]
+Marti C, John G, Konstantinides S, Combescure C, Sanchez O, Lankeit M, Meyer G, Perrier A. Systemic thrombolytic therapy for acute pulmonary embolism: a systematic review and meta-analysis. Eur Heart J. 2015 Mar 07;36(10):605-14. \[[PMC free article: PMC4352209](/pmc/articles/PMC4352209/)\] \[[PubMed: 24917641](https://pubmed.ncbi.nlm.nih.gov/24917641)\]
 
 11.
-    
 
-Dudzinski DM, Piazza G. Multidisciplinary Pulmonary Embolism Response Teams. Circulation. 2016 Jan 05;133(1):98-103. [[PubMed: 26719388](https://pubmed.ncbi.nlm.nih.gov/26719388)]
+Dudzinski DM, Piazza G. Multidisciplinary Pulmonary Embolism Response Teams. Circulation. 2016 Jan 05;133(1):98-103. \[[PubMed: 26719388](https://pubmed.ncbi.nlm.nih.gov/26719388)\]
 
 12.
-    
 
-Yusuff HO, Zochios V, Vuylsteke A. Extracorporeal membrane oxygenation in acute massive pulmonary embolism: a systematic review. Perfusion. 2015 Nov;30(8):611-6. [[PubMed: 25910837](https://pubmed.ncbi.nlm.nih.gov/25910837)]
+Yusuff HO, Zochios V, Vuylsteke A. Extracorporeal membrane oxygenation in acute massive pulmonary embolism: a systematic review. Perfusion. 2015 Nov;30(8):611-6. \[[PubMed: 25910837](https://pubmed.ncbi.nlm.nih.gov/25910837)\]
 
 13.
-    
 
-Meyer G, Vicaut E, Danays T, Agnelli G, Becattini C, Beyer-Westendorf J, Bluhmki E, Bouvaist H, Brenner B, Couturaud F, Dellas C, Empen K, Franca A, Galiè N, Geibel A, Goldhaber SZ, Jimenez D, Kozak M, Kupatt C, Kucher N, Lang IM, Lankeit M, Meneveau N, Pacouret G, Palazzini M, Petris A, Pruszczyk P, Rugolotto M, Salvi A, Schellong S, Sebbane M, Sobkowicz B, Stefanovic BS, Thiele H, Torbicki A, Verschuren F, Konstantinides SV., PEITHO Investigators. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med. 2014 Apr 10;370(15):1402-11. [[PubMed: 24716681](https://pubmed.ncbi.nlm.nih.gov/24716681)]
+Meyer G, Vicaut E, Danays T, Agnelli G, Becattini C, Beyer-Westendorf J, Bluhmki E, Bouvaist H, Brenner B, Couturaud F, Dellas C, Empen K, Franca A, Galiè N, Geibel A, Goldhaber SZ, Jimenez D, Kozak M, Kupatt C, Kucher N, Lang IM, Lankeit M, Meneveau N, Pacouret G, Palazzini M, Petris A, Pruszczyk P, Rugolotto M, Salvi A, Schellong S, Sebbane M, Sobkowicz B, Stefanovic BS, Thiele H, Torbicki A, Verschuren F, Konstantinides SV., PEITHO Investigators. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med. 2014 Apr 10;370(15):1402-11. \[[PubMed: 24716681](https://pubmed.ncbi.nlm.nih.gov/24716681)\]
 
 14.
-    
 
-Konstantinides SV, Meyer G, Becattini C, Bueno H, Geersing GJ, Harjola VP, Huisman MV, Humbert M, Jennings CS, Jiménez D, Kucher N, Lang IM, Lankeit M, Lorusso R, Mazzolai L, Meneveau N, Áinle FN, Prandoni P, Pruszczyk P, Righini M, Torbicki A, Van Belle E, Zamorano JL., The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). Eur Respir J. 2019 Sep;54(3) [[PubMed: 31473594](https://pubmed.ncbi.nlm.nih.gov/31473594)]
+Konstantinides SV, Meyer G, Becattini C, Bueno H, Geersing GJ, Harjola VP, Huisman MV, Humbert M, Jennings CS, Jiménez D, Kucher N, Lang IM, Lankeit M, Lorusso R, Mazzolai L, Meneveau N, Áinle FN, Prandoni P, Pruszczyk P, Righini M, Torbicki A, Van Belle E, Zamorano JL., The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS): The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (ESC). Eur Respir J. 2019 Sep;54(3) \[[PubMed: 31473594](https://pubmed.ncbi.nlm.nih.gov/31473594)\]
 
 15.
-    
 
-Piazza G, Hohlfelder B, Jaff MR, Ouriel K, Engelhardt TC, Sterling KM, Jones NJ, Gurley JC, Bhatheja R, Kennedy RJ, Goswami N, Natarajan K, Rundback J, Sadiq IR, Liu SK, Bhalla N, Raja ML, Weinstock BS, Cynamon J, Elmasri FF, Garcia MJ, Kumar M, Ayerdi J, Soukas P, Kuo W, Liu PY, Goldhaber SZ., SEATTLE II Investigators. A Prospective, Single-Arm, Multicenter Trial of Ultrasound-Facilitated, Catheter-Directed, Low-Dose Fibrinolysis for Acute Massive and Submassive Pulmonary Embolism: The SEATTLE II Study. JACC Cardiovasc Interv. 2015 Aug 24;8(10):1382-1392. [[PubMed: 26315743](https://pubmed.ncbi.nlm.nih.gov/26315743)]
+Piazza G, Hohlfelder B, Jaff MR, Ouriel K, Engelhardt TC, Sterling KM, Jones NJ, Gurley JC, Bhatheja R, Kennedy RJ, Goswami N, Natarajan K, Rundback J, Sadiq IR, Liu SK, Bhalla N, Raja ML, Weinstock BS, Cynamon J, Elmasri FF, Garcia MJ, Kumar M, Ayerdi J, Soukas P, Kuo W, Liu PY, Goldhaber SZ., SEATTLE II Investigators. A Prospective, Single-Arm, Multicenter Trial of Ultrasound-Facilitated, Catheter-Directed, Low-Dose Fibrinolysis for Acute Massive and Submassive Pulmonary Embolism: The SEATTLE II Study. JACC Cardiovasc Interv. 2015 Aug 24;8(10):1382-1392. \[[PubMed: 26315743](https://pubmed.ncbi.nlm.nih.gov/26315743)\]
 
 16.
-    
 
-Jiménez D, Kopecna D, Tapson V, Briese B, Schreiber D, Lobo JL, Monreal M, Aujesky D, Sanchez O, Meyer G, Konstantinides S, Yusen RD, On Behalf Of The Protect Investigators Derivation and validation of multimarker prognostication for normotensive patients with acute symptomatic pulmonary embolism. Am J Respir Crit Care Med. 2014 Mar 15;189(6):718-26. [[PubMed: 24471575](https://pubmed.ncbi.nlm.nih.gov/24471575)]
+Jiménez D, Kopecna D, Tapson V, Briese B, Schreiber D, Lobo JL, Monreal M, Aujesky D, Sanchez O, Meyer G, Konstantinides S, Yusen RD, On Behalf Of The Protect Investigators Derivation and validation of multimarker prognostication for normotensive patients with acute symptomatic pulmonary embolism. Am J Respir Crit Care Med. 2014 Mar 15;189(6):718-26. \[[PubMed: 24471575](https://pubmed.ncbi.nlm.nih.gov/24471575)\]
 
 17.
-    
 
-Kearon C, Akl EA, Ornelas J, Blaivas A, Jimenez D, Bounameaux H, Huisman M, King CS, Morris TA, Sood N, Stevens SM, Vintch JRE, Wells P, Woller SC, Moores L. Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report. Chest. 2016 Feb;149(2):315-352. [[PubMed: 26867832](https://pubmed.ncbi.nlm.nih.gov/26867832)]
+Kearon C, Akl EA, Ornelas J, Blaivas A, Jimenez D, Bounameaux H, Huisman M, King CS, Morris TA, Sood N, Stevens SM, Vintch JRE, Wells P, Woller SC, Moores L. Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report. Chest. 2016 Feb;149(2):315-352. \[[PubMed: 26867832](https://pubmed.ncbi.nlm.nih.gov/26867832)\]
 
 18.
-    
 
-Sadeghipour P, Jenab Y, Moosavi J, Hosseini K, Mohebbi B, Hosseinsabet A, Chatterjee S, Pouraliakbar H, Shirani S, Shishehbor MH, Alizadehasl A, Farrashi M, Rezvani MA, Rafiee F, Jalali A, Rashedi S, Shafe O, Giri J, Monreal M, Jimenez D, Lang I, Maleki M, Goldhaber SZ, Krumholz HM, Piazza G, Bikdeli B. Catheter-Directed Thrombolysis vs Anticoagulation in Patients With Acute Intermediate-High-risk Pulmonary Embolism: The CANARY Randomized Clinical Trial. JAMA Cardiol. 2022 Dec 01;7(12):1189-1197. [[PMC free article: PMC9582964](/pmc/articles/PMC9582964/)] [[PubMed: 36260302](https://pubmed.ncbi.nlm.nih.gov/36260302)]
+Sadeghipour P, Jenab Y, Moosavi J, Hosseini K, Mohebbi B, Hosseinsabet A, Chatterjee S, Pouraliakbar H, Shirani S, Shishehbor MH, Alizadehasl A, Farrashi M, Rezvani MA, Rafiee F, Jalali A, Rashedi S, Shafe O, Giri J, Monreal M, Jimenez D, Lang I, Maleki M, Goldhaber SZ, Krumholz HM, Piazza G, Bikdeli B. Catheter-Directed Thrombolysis vs Anticoagulation in Patients With Acute Intermediate-High-risk Pulmonary Embolism: The CANARY Randomized Clinical Trial. JAMA Cardiol. 2022 Dec 01;7(12):1189-1197. \[[PMC free article: PMC9582964](/pmc/articles/PMC9582964/)\] \[[PubMed: 36260302](https://pubmed.ncbi.nlm.nih.gov/36260302)\]
 
 19.
-    
 
-Kucher N, Boekstegers P, Müller OJ, Kupatt C, Beyer-Westendorf J, Heitzer T, Tebbe U, Horstkotte J, Müller R, Blessing E, Greif M, Lange P, Hoffmann RT, Werth S, Barmeyer A, Härtel D, Grünwald H, Empen K, Baumgartner I. Randomized, controlled trial of ultrasound-assisted catheter-directed thrombolysis for acute intermediate-risk pulmonary embolism. Circulation. 2014 Jan 28;129(4):479-86. [[PubMed: 24226805](https://pubmed.ncbi.nlm.nih.gov/24226805)]
+Kucher N, Boekstegers P, Müller OJ, Kupatt C, Beyer-Westendorf J, Heitzer T, Tebbe U, Horstkotte J, Müller R, Blessing E, Greif M, Lange P, Hoffmann RT, Werth S, Barmeyer A, Härtel D, Grünwald H, Empen K, Baumgartner I. Randomized, controlled trial of ultrasound-assisted catheter-directed thrombolysis for acute intermediate-risk pulmonary embolism. Circulation. 2014 Jan 28;129(4):479-86. \[[PubMed: 24226805](https://pubmed.ncbi.nlm.nih.gov/24226805)\]
 
 20.
-    
 
-Tapson VF, Sterling K, Jones N, Elder M, Tripathy U, Brower J, Maholic RL, Ross CB, Natarajan K, Fong P, Greenspon L, Tamaddon H, Piracha AR, Engelhardt T, Katopodis J, Marques V, Sharp ASP, Piazza G, Goldhaber SZ. A Randomized Trial of the Optimum Duration of Acoustic Pulse Thrombolysis Procedure in Acute Intermediate-Risk Pulmonary Embolism: The OPTALYSE PE Trial. JACC Cardiovasc Interv. 2018 Jul 23;11(14):1401-1410. [[PubMed: 30025734](https://pubmed.ncbi.nlm.nih.gov/30025734)]
+Tapson VF, Sterling K, Jones N, Elder M, Tripathy U, Brower J, Maholic RL, Ross CB, Natarajan K, Fong P, Greenspon L, Tamaddon H, Piracha AR, Engelhardt T, Katopodis J, Marques V, Sharp ASP, Piazza G, Goldhaber SZ. A Randomized Trial of the Optimum Duration of Acoustic Pulse Thrombolysis Procedure in Acute Intermediate-Risk Pulmonary Embolism: The OPTALYSE PE Trial. JACC Cardiovasc Interv. 2018 Jul 23;11(14):1401-1410. \[[PubMed: 30025734](https://pubmed.ncbi.nlm.nih.gov/30025734)\]
 
 21.
-    
 
-Bashir R, Foster M, Iskander A, Darki A, Jaber W, Rali PM, Lakhter V, Gandhi R, Klein A, Bhatheja R, Ross C, Natarajan K, Nanjundappa A, Angle JF, Ouriel K, Amoroso NE, Firth BG, Comerota AJ, Piazza G, Rosenfield K, Sista AK. Pharmacomechanical Catheter-Directed Thrombolysis With the Bashir Endovascular Catheter for Acute Pulmonary Embolism: The RESCUE Study. JACC Cardiovasc Interv. 2022 Dec 12;15(23):2427-2436. [[PubMed: 36121244](https://pubmed.ncbi.nlm.nih.gov/36121244)]
+Bashir R, Foster M, Iskander A, Darki A, Jaber W, Rali PM, Lakhter V, Gandhi R, Klein A, Bhatheja R, Ross C, Natarajan K, Nanjundappa A, Angle JF, Ouriel K, Amoroso NE, Firth BG, Comerota AJ, Piazza G, Rosenfield K, Sista AK. Pharmacomechanical Catheter-Directed Thrombolysis With the Bashir Endovascular Catheter for Acute Pulmonary Embolism: The RESCUE Study. JACC Cardiovasc Interv. 2022 Dec 12;15(23):2427-2436. \[[PubMed: 36121244](https://pubmed.ncbi.nlm.nih.gov/36121244)\]
 
 22.
-    
 
-Engelhardt TC, Taylor AJ, Simprini LA, Kucher N. Catheter-directed ultrasound-accelerated thrombolysis for the treatment of acute pulmonary embolism. Thromb Res. 2011 Aug;128(2):149-54. [[PubMed: 21641020](https://pubmed.ncbi.nlm.nih.gov/21641020)]
+Engelhardt TC, Taylor AJ, Simprini LA, Kucher N. Catheter-directed ultrasound-accelerated thrombolysis for the treatment of acute pulmonary embolism. Thromb Res. 2011 Aug;128(2):149-54. \[[PubMed: 21641020](https://pubmed.ncbi.nlm.nih.gov/21641020)\]
 
 23.
-    
 
-Provias T, Dudzinski DM, Jaff MR, Rosenfield K, Channick R, Baker J, Weinberg I, Donaldson C, Narayan R, Rassi AN, Kabrhel C. The Massachusetts General Hospital Pulmonary Embolism Response Team (MGH PERT): creation of a multidisciplinary program to improve care of patients with massive and submassive pulmonary embolism. Hosp Pract (1995). 2014 Feb;42(1):31-7. [[PubMed: 24566594](https://pubmed.ncbi.nlm.nih.gov/24566594)]
+Provias T, Dudzinski DM, Jaff MR, Rosenfield K, Channick R, Baker J, Weinberg I, Donaldson C, Narayan R, Rassi AN, Kabrhel C. The Massachusetts General Hospital Pulmonary Embolism Response Team (MGH PERT): creation of a multidisciplinary program to improve care of patients with massive and submassive pulmonary embolism. Hosp Pract (1995). 2014 Feb;42(1):31-7. \[[PubMed: 24566594](https://pubmed.ncbi.nlm.nih.gov/24566594)\]
 
 24.
-    
 
-Rosovsky R, Zhao K, Sista A, Rivera-Lebron B, Kabrhel C. Pulmonary embolism response teams: Purpose, evidence for efficacy, and future research directions. Res Pract Thromb Haemost. 2019 Jul;3(3):315-330. [[PMC free article: PMC6611377](/pmc/articles/PMC6611377/)] [[PubMed: 31294318](https://pubmed.ncbi.nlm.nih.gov/31294318)]
+Rosovsky R, Zhao K, Sista A, Rivera-Lebron B, Kabrhel C. Pulmonary embolism response teams: Purpose, evidence for efficacy, and future research directions. Res Pract Thromb Haemost. 2019 Jul;3(3):315-330. \[[PMC free article: PMC6611377](/pmc/articles/PMC6611377/)\] \[[PubMed: 31294318](https://pubmed.ncbi.nlm.nih.gov/31294318)\]
 
 25.
-    
 
-Mahar JH, Haddadin I, Sadana D, Gadre A, Evans N, Hornacek D, Mahlay NF, Gomes M, Joseph D, Serhal M, Tong MZ, Bauer SR, Militello M, Silver B, Shishehbor M, Bartholomew JR, Heresi GA. A pulmonary embolism response team (PERT) approach: initial experience from the Cleveland Clinic. J Thromb Thrombolysis. 2018 Aug;46(2):186-192. [[PubMed: 29855780](https://pubmed.ncbi.nlm.nih.gov/29855780)]
+Mahar JH, Haddadin I, Sadana D, Gadre A, Evans N, Hornacek D, Mahlay NF, Gomes M, Joseph D, Serhal M, Tong MZ, Bauer SR, Militello M, Silver B, Shishehbor M, Bartholomew JR, Heresi GA. A pulmonary embolism response team (PERT) approach: initial experience from the Cleveland Clinic. J Thromb Thrombolysis. 2018 Aug;46(2):186-192. \[[PubMed: 29855780](https://pubmed.ncbi.nlm.nih.gov/29855780)\]
 
 26.
-    
 
-Braaten JV, Goss RA, Francis CW. Ultrasound reversibly disaggregates fibrin fibers. Thromb Haemost. 1997 Sep;78(3):1063-8. [[PubMed: 9308755](https://pubmed.ncbi.nlm.nih.gov/9308755)]
+Braaten JV, Goss RA, Francis CW. Ultrasound reversibly disaggregates fibrin fibers. Thromb Haemost. 1997 Sep;78(3):1063-8. \[[PubMed: 9308755](https://pubmed.ncbi.nlm.nih.gov/9308755)\]
 
 27.
-    
 
-Goldhaber SZ, Visani L, De Rosa M. Acute pulmonary embolism: clinical outcomes in the International Cooperative Pulmonary Embolism Registry (ICOPER). Lancet. 1999 Apr 24;353(9162):1386-9. [[PubMed: 10227218](https://pubmed.ncbi.nlm.nih.gov/10227218)]
+Goldhaber SZ, Visani L, De Rosa M. Acute pulmonary embolism: clinical outcomes in the International Cooperative Pulmonary Embolism Registry (ICOPER). Lancet. 1999 Apr 24;353(9162):1386-9. \[[PubMed: 10227218](https://pubmed.ncbi.nlm.nih.gov/10227218)\]
 
 28.
-    
 
-Avgerinos ED, Saadeddin Z, Abou Ali AN, Fish L, Toma C, Chaer M, Rivera-Lebron BN, Chaer RA. A meta-analysis of outcomes of catheter-directed thrombolysis for high- and intermediate-risk pulmonary embolism. J Vasc Surg Venous Lymphat Disord. 2018 Jul;6(4):530-540. [[PubMed: 29909859](https://pubmed.ncbi.nlm.nih.gov/29909859)]
+Avgerinos ED, Saadeddin Z, Abou Ali AN, Fish L, Toma C, Chaer M, Rivera-Lebron BN, Chaer RA. A meta-analysis of outcomes of catheter-directed thrombolysis for high- and intermediate-risk pulmonary embolism. J Vasc Surg Venous Lymphat Disord. 2018 Jul;6(4):530-540. \[[PubMed: 29909859](https://pubmed.ncbi.nlm.nih.gov/29909859)\]
 
 29.
-    
 
-Mostafa A, Briasoulis A, Telila T, Belgrave K, Grines C. Treatment of Massive or Submassive Acute Pulmonary Embolism With Catheter-Directed Thrombolysis. Am J Cardiol. 2016 Mar 15;117(6):1014-20. [[PubMed: 26833207](https://pubmed.ncbi.nlm.nih.gov/26833207)]
+Mostafa A, Briasoulis A, Telila T, Belgrave K, Grines C. Treatment of Massive or Submassive Acute Pulmonary Embolism With Catheter-Directed Thrombolysis. Am J Cardiol. 2016 Mar 15;117(6):1014-20. \[[PubMed: 26833207](https://pubmed.ncbi.nlm.nih.gov/26833207)\]
 
 30.
-    
 
-de Winter MA, Vlachojannis GJ, Ruigrok D, Nijkeuter M, Kraaijeveld AO. Rationale for catheter-based therapies in acute pulmonary embolism. Eur Heart J Suppl. 2019 Nov;21(Suppl I):I16-I22. [[PMC free article: PMC6868359](/pmc/articles/PMC6868359/)] [[PubMed: 31777453](https://pubmed.ncbi.nlm.nih.gov/31777453)]
+de Winter MA, Vlachojannis GJ, Ruigrok D, Nijkeuter M, Kraaijeveld AO. Rationale for catheter-based therapies in acute pulmonary embolism. Eur Heart J Suppl. 2019 Nov;21(Suppl I):I16-I22. \[[PMC free article: PMC6868359](/pmc/articles/PMC6868359/)\] \[[PubMed: 31777453](https://pubmed.ncbi.nlm.nih.gov/31777453)\]
 
 31.
-    
 
-Giri JS, Piazza G. A midterm report card for pulmonary embolism response teams. Vasc Med. 2018 Feb;23(1):72-74. [[PubMed: 29034789](https://pubmed.ncbi.nlm.nih.gov/29034789)]
+Giri JS, Piazza G. A midterm report card for pulmonary embolism response teams. Vasc Med. 2018 Feb;23(1):72-74. \[[PubMed: 29034789](https://pubmed.ncbi.nlm.nih.gov/29034789)\]
 
 32.
-    
 
-Porres-Aguilar M, Anaya-Ayala JE, Heresi GA, Rivera-Lebron BN. Pulmonary Embolism Response Teams: A Novel Approach for the Care of Complex Patients With Pulmonary Embolism. Clin Appl Thromb Hemost. 2018 Dec;24(9_suppl):48S-55S. [[PMC free article: PMC6714822](/pmc/articles/PMC6714822/)] [[PubMed: 30453745](https://pubmed.ncbi.nlm.nih.gov/30453745)]
-
-    
+Porres-Aguilar M, Anaya-Ayala JE, Heresi GA, Rivera-Lebron BN. Pulmonary Embolism Response Teams: A Novel Approach for the Care of Complex Patients With Pulmonary Embolism. Clin Appl Thromb Hemost. 2018 Dec;24(9_suppl):48S-55S. \[[PMC free article: PMC6714822](/pmc/articles/PMC6714822/)\] \[[PubMed: 30453745](https://pubmed.ncbi.nlm.nih.gov/30453745)\]
 
 **Disclosure:** Irfan Shafi declares no relevant financial relationships with ineligible companies.
 
-    
-
 **Disclosure:** Santhosh Reddy Devarapally declares no relevant financial relationships with ineligible companies.
-
-    
 
 **Disclosure:** Nagendra Gupta declares no relevant financial relationships with ineligible companies.
