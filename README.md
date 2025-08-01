@@ -20,23 +20,38 @@ This repository contains the code and documentation for Cogito NTNU's submission
 ## ⚙️ Getting Started
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/CogitoNTNU/norwegian-ai-championship-2025.git
    cd norwegian-ai-championship-2025
    ```
+
 1. Set up the Python virtual environment and install dependencies:
+
    ```bash
    uv sync
    ```
+
    This will create a virtual environment and install all project dependencies from the lock file.
+
 1. Install the pre-commit hooks:
+
    ```bash
    uv run pre-commit install
    ```
+
    Ensures code quality checks (linting, formatting, safety) run before every commit.
+
 1. Copy the `.env.example` file to `.env` and fill in the required environment variables:
+
    ```bash
    cp .env.example .env
+   ```
+
+1. Run the endpoints:
+
+   ```bash
+   uv run uvicorn src.main:app --reload
    ```
 
 ## � Managing Dependencies with UV

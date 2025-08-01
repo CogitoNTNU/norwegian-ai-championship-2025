@@ -36,10 +36,11 @@ _This document outlines the previous experiences and strengths of the team membe
 ## Maia Austigard
 
 ## Mari Hove Gusdal
+
 - Datasyn(hackathon)
 - Reinforcement learning, supervised, unsupervised, finetuning
 - Performance engineering, eval-metrikker
-- Python, SQL, Java, C++, Go 
+- Python, SQL, Java, C++, Go
 - LLM: Ollama, HuggingFace, litt RAG, API, Grafana, litt prometheus
 - Litt docker og kubernetes
 

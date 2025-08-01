@@ -4,7 +4,9 @@ version = "0.0.1"
 description = "This is a project for Cogito NTNU's submissions to the Norwegian AI Championship 2025."
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "fastapi[standard]>=0.116.1",
+]
 
 [dependency-groups]
 dev = [
