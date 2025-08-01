@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "fastapi[standard]>=0.116.1",
+    "gymnasium>=1.2.0",
+    "pygame>=2.6.1",
+    "stable-baselines3>=2.7.0",
 ]
 
 [dependency-groups]
