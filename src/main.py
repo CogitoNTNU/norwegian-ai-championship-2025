@@ -2,9 +2,9 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 
-from task1.main import task1_router
-from task2.main import task2_router
-from task3.main import task3_router
+from src.task1.route import task1_router
+from src.task2.route import task2_router
+from src.task3.route import task3_router
 
 load_dotenv()
 
@@ -20,6 +20,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 @app.get("/")
 def main():
