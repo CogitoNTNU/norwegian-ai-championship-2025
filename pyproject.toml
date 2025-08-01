@@ -5,6 +5,7 @@ description = "This is a project for Cogito NTNU's submissions to the Norwegian 
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "albumentations>=2.0.8",
     "fastapi[standard]>=0.116.1",
 ]
 
