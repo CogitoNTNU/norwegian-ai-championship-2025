@@ -211,3 +211,6 @@ experiments/*
 
 # Generated files
 requirements.txt
+
+
+data_augmented/
