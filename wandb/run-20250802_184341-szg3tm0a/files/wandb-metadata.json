@@ -1,0 +1,68 @@
+{
+  "os":  "Linux-5.14.0-427.13.1.el9_4.x86_64-x86_64-with-glibc2.34",
+  "python":  "CPython 3.11.13",
+  "startedAt":  "2025-08-02T16:43:41.097457Z",
+  "args":  [
+    "--rounds",
+    "10000"
+  ],
+  "program":  "/cluster/home/chrisfjo/NM-ai/norwegian-ai-championship-2025/DM-i-AI-2025/race-car/train_ppo_real.py",
+  "codePath":  "DM-i-AI-2025/race-car/train_ppo_real.py",
+  "codePathLocal":  "DM-i-AI-2025/race-car/train_ppo_real.py",
+  "git":  {
+    "remote":  "git@github.com:CogitoNTNU/norwegian-ai-championship-2025.git",
+    "commit":  "66febbdb24047095f399b5ae42a6fd462a37e768"
+  },
+  "email":  "ludvigho@stud.ntnu.no",
+  "root":  "/cluster/home/chrisfjo/NM-ai/norwegian-ai-championship-2025",
+  "host":  "idun-03-09",
+  "executable":  "/cluster/home/chrisfjo/NM-ai/norwegian-ai-championship-2025/.venv/bin/python3",
+  "cpu_count":  56,
+  "cpu_count_logical":  56,
+  "disk":  {
+    "/":  {
+      "total":  "479342551040",
+      "used":  "9692815360"
+    }
+  },
+  "memory":  {
+    "total":  "269345300480"
+  },
+  "slurm":  {
+    "cluster_name":  "idun",
+    "conf":  "/var/slurm_spool/conf-cache/slurm.conf",
+    "cpus_on_node":  "30",
+    "cpus_per_task":  "30",
+    "gtids":  "0",
+    "job_account":  "studiegrupper-cogito",
+    "job_cpus_per_node":  "30",
+    "job_end_time":  "1754163794",
+    "job_gid":  "13401",
+    "job_id":  "22979073",
+    "job_name":  "RL-carRacing",
+    "job_nodelist":  "idun-03-09",
+    "job_num_nodes":  "1",
+    "job_partition":  "CPUQ",
+    "job_qos":  "normal",
+    "job_start_time":  "1754152994",
+    "job_uid":  "1349963",
+    "job_user":  "chrisfjo",
+    "jobid":  "22979073",
+    "localid":  "0",
+    "mem_per_node":  "8192",
+    "nnodes":  "1",
+    "nodeid":  "0",
+    "nodelist":  "idun-03-09",
+    "oom_kill_step":  "0",
+    "prio_process":  "0",
+    "procid":  "0",
+    "submit_dir":  "/cluster/home/chrisfjo/NM-ai/norwegian-ai-championship-2025",
+    "submit_host":  "idun-login1",
+    "task_pid":  "201960",
+    "tasks_per_node":  "1",
+    "topology_addr":  "ibsw03.idun-03-09",
+    "topology_addr_pattern":  "switch.node",
+    "tres_per_task":  "cpu=30"
+  },
+  "writerId":  "7edqndfzd5yvboyv5p59gm0nkpxvqd2a"
+}

@@ -13,6 +13,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+cv-env/
 .Python
 build/
 develop-eggs/
@@ -220,3 +221,5 @@ requirements.txt
 
 
 data_augmented/
+idun-log.err
+idun-log.txt
