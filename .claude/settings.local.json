@@ -3,7 +3,9 @@
   "permissions": {
     "allow": [
       "Bash(git add \"DM-i-AI-2025/race-car/logs/evaluations.npz\")",
-      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: complete PPO race car implementation with real game integration\n\n- Add comprehensive PPO training with real game environment\n- Implement checkpoint management system for model versioning\n- Add trained models (best_model.zip, ppo_racecar_real_final.zip)\n- Include evaluation logs and training metrics\n- Update test_endpoint.py to use trained PPO model with fallback\n- Add wandb dependency for experiment tracking\n- Configure Claude settings for extended development workflow\n\n🤖 Generated with [Claude Code](https://claude.ai/code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: complete PPO race car implementation with real game integration\n\n- Add comprehensive PPO training with real game environment\n- Implement checkpoint management system for model versioning\n- Add trained models (best_model.zip, ppo_racecar_real_final.zip)\n- Include evaluation logs and training metrics\n- Update test_endpoint.py to use trained PPO model with fallback\n- Add wandb dependency for experiment tracking\n- Configure Claude settings for extended development workflow\n\n🤖 Generated with [Claude Code](https://claude.ai/code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }
