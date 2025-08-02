@@ -18,8 +18,8 @@ from test import test
 
 # Rainbow DQN for Race Car Environment
 parser = argparse.ArgumentParser(description="Rainbow DQN for Race Car")
-parser.add_argument("--id", type=str, default="race_car", help="Experiment ID")
-parser.add_argument("--seed", type=int, default=123, help="Random seed")
+parser.add_argument("--id", type=str, default="race_car_training", help="Experiment ID")
+parser.add_argument("--seed", type=int, default=None, help="Random seed")
 parser.add_argument("--disable-cuda", action="store_true", help="Disable CUDA")
 parser.add_argument(
     "--T-max",
@@ -191,7 +191,7 @@ parser.add_argument(
 )
 parser.add_argument(
     "--checkpoint-interval",
-    default=0,
+    default=1_000,
     help="How often to checkpoint the model, defaults to 0 (never checkpoint)",
 )
 parser.add_argument("--memory", help="Path to save/load the memory from")
@@ -343,9 +343,13 @@ def main(custom_args=None):
                 if (args.checkpoint_interval != 0) and (
                     T % args.checkpoint_interval == 0
                 ):
+                    print("Saving rainbow dqn model!")
+                    print("T: ", T)
                     dqn.save(results_dir, "checkpoint.pth")
 
             state = next_state
+
+        dqn.save(results_dir, "model.pth")  # Save final model
 
     env.close()
 
@@ -380,7 +384,7 @@ def watch_rainbow_model(args):
 
     # Check if model exists
     results_dir = os.path.join(os.path.dirname(__file__), "results", args.id)
-    model_path = os.path.join(results_dir, "model.pth")
+    model_path = os.path.join(results_dir, "checkpoint.pth")
 
     if not os.path.exists(model_path):
         print(f"Model file {model_path} not found!")
@@ -403,7 +407,7 @@ def watch_rainbow_model(args):
 
     # Agent
     dqn = Agent(args, env)
-    dqn.load_state_dict(torch.load(model_path, map_location=args.device))
+    dqn.online_net.load_state_dict(torch.load(model_path, map_location=args.device))
     dqn.eval()  # Set to evaluation mode
     print("Model loaded successfully!")
 
