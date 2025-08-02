@@ -1,10 +1,19 @@
 import pygame
 import os
+import sys
+import cv2
+import numpy as np
+from datetime import datetime
 from stable_baselines3 import PPO
+
+# Add parent directory to path so we can import src modules
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from src.environments.race_car_env import RealRaceCarEnv
 
 
-def watch_real_ppo_model(model_path="models/ppo_racecar_real_final", episodes=3):
+def watch_real_ppo_model(
+    model_path="models/ppo_racecar_real_final", episodes=3, record_video=False
+):
     """
     Watch the trained PPO model play the race car game using REAL game logic.
     """
@@ -27,6 +36,16 @@ def watch_real_ppo_model(model_path="models/ppo_racecar_real_final", episodes=3)
     screen = pygame.display.set_mode((1600, 1200))
     pygame.display.set_caption("PPO Race Car Agent - REAL Game")
     clock = pygame.time.Clock()
+
+    # Setup video recording if requested
+    video_writer = None
+    if record_video:
+        os.makedirs("videos", exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        video_filename = f"videos/ppo_real_demo_{timestamp}.mp4"
+        fourcc = cv2.VideoWriter_fourcc(*"mp4v")
+        video_writer = cv2.VideoWriter(video_filename, fourcc, 60.0, (1600, 1200))
+        print(f"Recording video to: {video_filename}")
 
     print(f"\nWatching PPO model for {episodes} episodes...")
     print("Press ESC to quit, SPACE to pause")
@@ -176,9 +195,26 @@ def watch_real_ppo_model(model_path="models/ppo_racecar_real_final", episodes=3)
                 )
 
             pygame.display.flip()
+
+            # Record frame if video recording is enabled
+            if video_writer is not None:
+                # Capture the screen surface
+                frame = pygame.surfarray.array3d(screen)
+                # Convert from (width, height, channels) to (height, width, channels)
+                frame = np.transpose(frame, (1, 0, 2))
+                # Convert RGB to BGR for OpenCV
+                frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
+                video_writer.write(frame)
+
             clock.tick(60)  # 60 FPS
 
     print("\nDemo complete!")
+
+    # Clean up video recording
+    if video_writer is not None:
+        video_writer.release()
+        print(f"Video saved to: {video_filename}")
+
     pygame.quit()
     env.close()
 
@@ -195,10 +231,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "--episodes", type=int, default=3, help="Number of episodes to watch"
     )
+    parser.add_argument(
+        "--record", action="store_true", help="Record video of the gameplay"
+    )
 
     args = parser.parse_args()
 
     print("PPO Race Car Visualization - REAL Game Mode")
     print("=" * 50)
 
-    watch_real_ppo_model(args.model, args.episodes)
+    watch_real_ppo_model(args.model, args.episodes, args.record)

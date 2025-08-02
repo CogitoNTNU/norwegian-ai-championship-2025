@@ -1,9 +1,18 @@
 import numpy as np
 import gymnasium as gym
 from gymnasium import spaces
-import pygame
 import src.game.core as core
 from src.game.core import initialize_game_state, update_game, intersects
+
+# Try to import pygame, but make it optional for headless training
+try:
+    import pygame
+
+    PYGAME_AVAILABLE = True
+except ImportError as e:
+    PYGAME_AVAILABLE = False
+    print(f"Warning: pygame not available: {e}")
+    print("Running in headless mode only")
 
 
 class RealRaceCarEnv(gym.Env):
@@ -18,7 +27,7 @@ class RealRaceCarEnv(gym.Env):
         self.seed_value = seed_value
         self.headless = headless
         self.max_steps_per_game = 3600  # 60 seconds at 60 FPS per game
-        self.games_per_batch = 1  # 3 games per batch
+        self.games_per_batch = 1
         self.current_step = 0
         self.current_game = 0
         self.crashed_steps = 0
@@ -28,8 +37,13 @@ class RealRaceCarEnv(gym.Env):
         self.batch_rewards = []
         self.batch_distances = []
 
-        # Pygame init (required for asset loading)
-        pygame.init()
+        # Initialize pygame only if available and not headless
+        if not self.headless and not PYGAME_AVAILABLE:
+            print("Warning: pygame not available, forcing headless mode")
+            self.headless = True
+
+        if not self.headless and PYGAME_AVAILABLE:
+            pygame.init()
 
         # Action and observation spaces
         self.action_space = spaces.Discrete(5)
@@ -192,148 +206,23 @@ class RealRaceCarEnv(gym.Env):
                     return
 
     def _calculate_reward(self, crashed_before):
-        reward = 0.00  # Small base survival reward
-        reward_breakdown = {"survival": 0.02}
-        progress_reward = (
-            core.STATE.distance - getattr(self, "_last_distance", 0)
-        ) / 70.0
-        self._last_distance = core.STATE.distance
-        reward += progress_reward
-        reward_breakdown["distance"] = progress_reward
-
         speed = core.STATE.ego.velocity.x
-        speed_reward = 0
-        if speed > 15:
-            speed_reward = 0.15
-        elif speed > 10:
-            speed_reward = 0.1
-        elif speed > 5:
-            speed_reward = 0.05
-        elif speed > 1:
-            speed_reward = -0.01
+        if speed < 5:
+            reward = -0.1
         else:
-            speed_reward = -0.05
-        reward += speed_reward
-        reward_breakdown["speed"] = speed_reward
-
-        lane_reward = 0
-        if core.STATE.ego.lane:
-            lane_center = (core.STATE.ego.lane.y_start + core.STATE.ego.lane.y_end) / 2
-            distance_from_center = abs(core.STATE.ego.y - lane_center)
-            max_lane_deviation = 120
-            if distance_from_center > max_lane_deviation:
-                lane_reward = -0.05
-        reward += lane_reward
-        reward_breakdown["lane_position"] = lane_reward
-
-        cars_ahead = 0
-        closest_ahead_distance = float("inf")
-        for car in core.STATE.cars:
-            if car != core.STATE.ego:
-                x_diff = car.x - core.STATE.ego.x
-                y_diff = abs(car.y - core.STATE.ego.y)
-                total_distance = abs(x_diff) + y_diff
-                if x_diff > 0 and x_diff < 300:
-                    cars_ahead += 1
-                    closest_ahead_distance = min(closest_ahead_distance, total_distance)
-        proximity_penalty = 0
-        if cars_ahead > 0 and closest_ahead_distance < 200:
-            if closest_ahead_distance < 100:
-                proximity_penalty = -0.1
-            elif closest_ahead_distance < 150:
-                proximity_penalty = -0.05
-            else:
-                proximity_penalty = -0.02
-        reward += proximity_penalty
-        reward_breakdown["following_penalty"] = proximity_penalty
-
-        # Directional collision avoidance reward based on sensor positions
-        collision_avoidance_reward = 0
-
-        # Get sensor readings by direction for smart collision avoidance
-        sensor_by_direction = {}
-        for sensor in core.STATE.sensors:
-            if sensor.reading is not None:
-                sensor_by_direction[sensor.name] = sensor.reading
-
-        # Punish getting too close to walls/cars in specific directions
-        danger_threshold = 150  # Distance threshold for danger
-        warning_threshold = 300  # Distance threshold for warning
-
-        # Check front sensors - most critical for collision avoidance
-        front_sensors = ["front", "front_left_front", "left_front", "right_front"]
-        min_front_distance = float("inf")
-        for sensor_name in front_sensors:
-            if sensor_name in sensor_by_direction:
-                min_front_distance = min(
-                    min_front_distance, sensor_by_direction[sensor_name]
-                )
-
-        if min_front_distance < danger_threshold:
-            collision_avoidance_reward = -0.2  # Strong penalty for front danger
-        elif min_front_distance < warning_threshold:
-            collision_avoidance_reward = -0.05  # Mild penalty for front warning
-
-        # Check side sensors - important for lane changes
-        side_sensors = ["left_side", "right_side", "left_side_front", "left_side_back"]
-        for sensor_name in side_sensors:
-            if sensor_name in sensor_by_direction:
-                distance = sensor_by_direction[sensor_name]
-                if distance < 100:  # Very close on sides
-                    collision_avoidance_reward -= 0.1
-
-        # Don't punish close objects behind us - we want to overtake
-        # Back sensors: 'back', 'right_back', 'left_back', etc.
-
-        reward += collision_avoidance_reward
-        reward_breakdown["collision_avoidance"] = collision_avoidance_reward
-
-        # Overtaking reward - reward for having cars behind us
-        overtaking_reward = 0
-        back_sensors = ["back", "right_back", "left_back", "back_left_back"]
-        cars_behind = 0
-        for sensor_name in back_sensors:
-            if sensor_name in sensor_by_direction:
-                distance = sensor_by_direction[sensor_name]
-                if distance < 300:  # Car detected behind us
-                    cars_behind += 1
-
-        if cars_behind > 0:
-            overtaking_reward = 0.1 * cars_behind  # Reward for cars behind
-
-        reward += overtaking_reward
-        reward_breakdown["overtaking"] = overtaking_reward
-
-        # Lane change bonus - reward for successful lane positioning
-        lane_change_reward = 0
-        if core.STATE.ego.lane:
-            # Reward staying in lane center when safe
-            lane_center = (core.STATE.ego.lane.y_start + core.STATE.ego.lane.y_end) / 2
-            distance_from_center = abs(core.STATE.ego.y - lane_center)
-            if distance_from_center < 30 and min_front_distance > warning_threshold:
-                lane_change_reward = 0.02  # Small bonus for good lane discipline
-
-        reward += lane_change_reward
-        reward_breakdown["lane_change"] = lane_change_reward
-
-        # Crash penalty
-        crash_penalty = 0
-        if core.STATE.crashed and not crashed_before:
-            crash_penalty = -1000.0
-        elif core.STATE.crashed:
-            crash_penalty = 0
-        reward += crash_penalty
-        reward_breakdown["crash_penalty"] = crash_penalty
-
-        # Completion bonus
-        completion_bonus = 0
-        if self.current_step >= self.max_steps_per_game and not core.STATE.crashed:
-            completion_bonus = 1000.0
-        reward += completion_bonus
-        reward_breakdown["completion_bonus"] = completion_bonus
-
-        # Always add breakdown to info for logging
-        self._reward_breakdown = reward_breakdown
+            reward = speed / 20.0
+        crash_penalty = -1000.0 if (core.STATE.crashed and not crashed_before) else 0.0
+        completion_bonus = (
+            1000.0
+            if self.current_step >= self.max_steps_per_game and not core.STATE.crashed
+            else 0.0
+        )
+        reward = reward + crash_penalty + completion_bonus
+        self._reward_breakdown = {
+            "speed_or_slow": reward,
+            "crash_penalty": crash_penalty,
+            "completion_bonus": completion_bonus,
+        }
         return reward
 
     def _get_info(self):

@@ -51,20 +51,26 @@ class CheckpointCallback(BaseCallback):
 
             # Upload to W&B if enabled
             if self.save_to_wandb and wandb.run is not None:
-                wandb.save(path + ".zip", base_path=self.save_path)
+                try:
+                    # Use policy="now" to avoid symlink issues on Windows
+                    wandb.save(path + ".zip", base_path=self.save_path, policy="now")
 
-                # Log metrics about the checkpoint
-                wandb.log(
-                    {
-                        "checkpoint/timesteps": self.num_timesteps,
-                        "checkpoint/episodes": len(self.model.ep_info_buffer),
-                        "checkpoint/saved": 1,
-                    },
-                    step=self.num_timesteps,
-                )
+                    # Log metrics about the checkpoint
+                    wandb.log(
+                        {
+                            "checkpoint/timesteps": self.num_timesteps,
+                            "checkpoint/episodes": len(self.model.ep_info_buffer),
+                            "checkpoint/saved": 1,
+                        },
+                        step=self.num_timesteps,
+                    )
 
-                if self.verbose > 0:
-                    print("   Uploaded to W&B")
+                    if self.verbose > 0:
+                        print("   Uploaded to W&B")
+                except Exception as e:
+                    if self.verbose > 0:
+                        print(f"   Warning: Failed to upload to W&B: {e}")
+                        print("   Checkpoint saved locally")
 
         return True
 
@@ -80,12 +86,21 @@ class CheckpointCallback(BaseCallback):
 
         # Upload final model to W&B
         if self.save_to_wandb and wandb.run is not None:
-            wandb.save(final_path + ".zip", base_path=self.save_path)
+            try:
+                # Use policy="now" to avoid symlink issues on Windows
+                wandb.save(final_path + ".zip", base_path=self.save_path, policy="now")
 
-            # Save list of all checkpoints
-            checkpoint_list = {
-                "checkpoints": self.saved_models + [final_path + ".zip"],
-                "total_timesteps": self.num_timesteps,
-                "save_freq": self.save_freq,
-            }
-            wandb.log({"checkpoint_summary": checkpoint_list})
+                # Save list of all checkpoints
+                checkpoint_list = {
+                    "checkpoints": self.saved_models + [final_path + ".zip"],
+                    "total_timesteps": self.num_timesteps,
+                    "save_freq": self.save_freq,
+                }
+                wandb.log({"checkpoint_summary": checkpoint_list})
+
+                if self.verbose > 0:
+                    print("   Final model uploaded to W&B")
+            except Exception as e:
+                if self.verbose > 0:
+                    print(f"   Warning: Failed to upload final model to W&B: {e}")
+                    print("   Final model saved locally")

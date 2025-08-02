@@ -1,36 +1,100 @@
 import os
+import sys
 import numpy as np
 from stable_baselines3 import PPO
 from stable_baselines3.common.env_util import make_vec_env
 from stable_baselines3.common.callbacks import (
     EvalCallback,
     StopTrainingOnRewardThreshold,
+    BaseCallback,
 )
 from stable_baselines3.common.monitor import Monitor
 import torch
 import wandb
-from callbacks import WandbCallback
+
+# If you use your own CheckpointCallback, import it here!
 from checkpoint_callback import CheckpointCallback
+
+# Add parent directory to path so we can import src modules
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from src.environments.race_car_env import RealRaceCarEnv
+
+
+class CustomWandbCallback(BaseCallback):
+    """
+    Logs per-episode reward breakdown, PPO loss, and hyperparameters to wandb.
+    """
+
+    def __init__(self, verbose=0):
+        super().__init__(verbose)
+        self.episode_counter = 0
+        self.initialized = False
+
+    def _on_training_start(self):
+        if not self.initialized:
+            config = {
+                "n_steps": self.model.n_steps,
+                "batch_size": self.model.batch_size,
+                "learning_rate": float(self.model.learning_rate),
+                "n_epochs": self.model.n_epochs,
+                "gamma": self.model.gamma,
+                "gae_lambda": self.model.gae_lambda,
+                "ent_coef": self.model.ent_coef,
+                "vf_coef": self.model.vf_coef,
+                "clip_range": self.model.clip_range,
+                "policy_arch": getattr(self.model.policy, "net_arch", None),
+            }
+            wandb.config.update(config)
+            self.initialized = True
+
+    def _on_step(self) -> bool:
+        # Per-episode logging (NO `step=`, wandb will auto-increment)
+        for info in self.locals.get("infos", []):
+            if "episode" in info:
+                self.episode_counter += 1
+                # Log all the keys you want per episode
+                wandb.log(
+                    {
+                        "Episode/Reward": info["episode"]["r"],
+                        "Episode/Length": info["episode"]["l"],
+                        "Episode/CrashPenalty": info.get("reward_breakdown", {}).get(
+                            "crash_penalty", 0
+                        ),
+                        "Episode/Distance": info.get("distance", 0),
+                        "Episode/Speed": info.get("speed", 0),
+                        "Episode/CompletionBonus": info.get("reward_breakdown", {}).get(
+                            "completion_bonus", 0
+                        ),
+                    }
+                )
+        return True
+
+    def _on_rollout_end(self):
+        # Log PPO stats with correct global step
+        metrics = {}
+        if hasattr(self.model, "logger") and hasattr(
+            self.model.logger, "name_to_value"
+        ):
+            for key, value in self.model.logger.name_to_value.items():
+                if key.startswith(("train/", "rollout/")):
+                    metrics[key] = value
+        if metrics:
+            wandb.log(metrics, step=self.model.num_timesteps)
 
 
 def train_real_ppo_model(
     project_name="race-car-real-ppo-batch",
     run_name=None,
-    timesteps=90000,  # Increased default to account for 3x longer episodes
+    timesteps=90000,
     training_rounds=None,
     use_wandb=True,
     resume_from=None,
 ):
-    """Train PPO model using the real race car game with 3-game batches."""
-
     n_envs = 4
-    eval_freq = 50_000  # Adjusted for longer episodes
+    eval_freq = 50_000
 
-    # Convert training rounds to timesteps if specified
     if training_rounds is not None:
-        # Each batch now contains 3 games, so episodes are ~3x longer
-        n_steps = 3600  # 3 games * 3600 steps per game = 10800 steps per batch
+        n_steps = 3600
         timesteps = training_rounds * n_steps
         print(f"Training for {training_rounds} rounds ({timesteps:,} timesteps)")
         print("Each batch contains 3 games of 1 minute each")
@@ -39,22 +103,25 @@ def train_real_ppo_model(
         print(f"Training for {timesteps:,} timesteps")
         print("Each episode is now a batch of 3 games (3 minutes total)")
 
+    # WANDB INIT
+    run = None
     if use_wandb:
         config = {
             "algorithm": "PPO",
             "total_timesteps": timesteps,
             "n_envs": n_envs,
             "learning_rate": 3e-4,
-            "reward_threshold": 600,  # Increased for 3-game batches
+            "reward_threshold": 600,
             "environment": "real_race_car_batch_game",
             "games_per_batch": 3,
             "game_duration_seconds": 60,
         }
-
         run = wandb.init(
             project=project_name,
             name=run_name,
             config=config,
+            sync_tensorboard=True,
+            save_code=True,
             tags=["ppo", "race-car", "real-game", "rl", "batch-training"],
         )
 
@@ -65,7 +132,8 @@ def train_real_ppo_model(
 
     def make_env(rank=0):
         env = RealRaceCarEnv(seed_value=np.random.randint(0, 10000), headless=True)
-        return Monitor(env)
+        env = Monitor(env)
+        return env
 
     train_env = make_vec_env(make_env, n_envs=n_envs)
     eval_env = Monitor(RealRaceCarEnv(seed_value=42, headless=True))
@@ -82,27 +150,23 @@ def train_real_ppo_model(
             train_env,
             verbose=1,
             learning_rate=3e-4,
-            n_steps=2048,  # Collect more steps since episodes are longer (3 games)
+            n_steps=2048,
             batch_size=64,
             n_epochs=10,
-            gamma=0.99,  # Keep standard discount factor
+            gamma=0.99,
             gae_lambda=0.95,
             clip_range=0.2,
             ent_coef=0.01,
             vf_coef=0.5,
             max_grad_norm=0.5,
-            policy_kwargs=dict(
-                net_arch=dict(pi=[256, 256], vf=[256, 256])
-            ),  # Larger network for complex batch learning
+            policy_kwargs=dict(net_arch=dict(pi=[256, 256], vf=[256, 256])),
             device="cuda" if torch.cuda.is_available() else "cpu",
         )
 
     print(f"Using device: {model.device}")
 
-    # Callbacks
-    callback_on_best = StopTrainingOnRewardThreshold(
-        reward_threshold=1200, verbose=1
-    )  # ~Full race completion
+    # Callbacks: evaluation, checkpoint, and custom wandb logging
+    callback_on_best = StopTrainingOnRewardThreshold(reward_threshold=1200, verbose=1)
     eval_callback = EvalCallback(
         eval_env,
         best_model_save_path="./models/",
@@ -113,28 +177,18 @@ def train_real_ppo_model(
         callback_on_new_best=callback_on_best,
         verbose=1,
     )
-
     callbacks = [eval_callback]
 
-    if use_wandb:
-        wandb_callback = WandbCallback(verbose=1)
-        callbacks.append(wandb_callback)
-
-    # Add checkpoint callback to save models periodically
+    # Add checkpoint callback
     checkpoint_freq = 5000  # Save every 5000 steps
-
     # Generate unique run identifier
-    if use_wandb:
+    if use_wandb and run:
         run_identifier = run.id
     else:
         import datetime
 
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        run_name_part = (
-            run_name.replace(" ", "_").replace("-", "_") if run_name else "training"
-        )
-        run_identifier = f"local_{run_name_part}_{timestamp}"
-
+        run_identifier = f"local_{run_name or 'training'}_{timestamp}"
     checkpoint_path = f"./models/checkpoints/{run_identifier}"
     checkpoint_callback = CheckpointCallback(
         save_freq=checkpoint_freq,
@@ -148,11 +202,15 @@ def train_real_ppo_model(
         f"Checkpoints will be saved every {checkpoint_freq} steps to: {checkpoint_path}"
     )
 
+    # Add custom per-episode+loss logging callback
+    if use_wandb:
+        wandb_callback = CustomWandbCallback(verbose=1)
+        callbacks.append(wandb_callback)
+
     print(f"Starting REAL batch training for {timesteps:,} timesteps...")
     print("Each episode contains 3 consecutive 1-minute games")
     print("PPO updates after completing each 3-game batch")
 
-    # Train
     model.learn(total_timesteps=timesteps, callback=callbacks, progress_bar=True)
 
     # Save final model
