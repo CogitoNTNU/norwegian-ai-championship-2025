@@ -105,6 +105,9 @@ uv run pytest
 
 # Activate the shell (alternative to running individual commands)
 uv shell
+
+# Run Pre-commit
+uv run pre-commit run --all-files
 ```
 
 ### Updating Dependencies
