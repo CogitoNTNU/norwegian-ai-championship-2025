@@ -15,14 +15,14 @@ Directory structure expected (relative to the project root)::
 Controls ship without ground-truth masks; if you choose to include them they will automatically receive an all-zero mask so that the network can be trained with explicit negatives.
 """
 
+import math
 import os
 from glob import glob
 
-
-import monai
-from monai.data import list_data_collate, DataLoader
+from monai.data import list_data_collate, DataLoader, Dataset
 from monai.transforms import (
     EnsureChannelFirstd,
+    Transform,
     Compose,
     LoadImaged,
     RandCropByPosNegLabeld,
@@ -34,15 +34,15 @@ from monai.transforms import (
 def create_tumor_dataset(
     dataset_dir: str = "data/raw/tumor-segmentation",
     val_size: float = 0.8,
-    train_transforms: Compose = None,
-    val_transforms: Compose = None,
-) -> tuple[monai.data.Dataset, monai.data.Dataset]:
+    train_transforms: list[Transform] = [],
+    val_transforms: list[Transform] = [],
+) -> tuple[Dataset, Dataset]:
     """
     Create a dataset for tumor segmentation.
 
     Args:
         dataset_dir (str): Path to the dataset directory.
-        val_size (float): Proportion of the dataset to include in the validation split (default is 0.8).
+        val_size (float): Proportion of the dataset to include in the validation split from 0 to 1 (default is 0.8).
         train_transforms (Compose): Transforms to apply to the training dataset.
         val_transforms (Compose): Transforms to apply to the validation dataset.
     Returns:
@@ -62,18 +62,15 @@ def create_tumor_dataset(
         {"img": img, "seg": seg} for img, seg in zip(patient_imgs, patient_segs)
     ]
 
-    # train_test_split(all_pairs, test_size=val_size, random_state=42)
-    mid = len(all_pairs) // 2
-    train_files = all_pairs[:mid]
-    val_files = all_pairs[mid:]
+    split = math.floor(len(all_pairs) * val_size)
+    train_files = all_pairs[:split]
+    val_files = all_pairs[split:]
 
-    default_transforms = Compose(
-        [
-            LoadImaged(keys=["img", "seg"]),
-            EnsureChannelFirstd(keys=["img", "seg"]),
-            ScaleIntensityd(keys=["img", "seg"]),
-        ]
-    )
+    default_transforms = [
+        LoadImaged(keys=["img", "seg"]),
+        EnsureChannelFirstd(keys=["img", "seg"]),
+        ScaleIntensityd(keys=["img", "seg"]),
+    ]
     # 3) Transforms
     train_transforms = Compose(
         [
@@ -92,14 +89,14 @@ def create_tumor_dataset(
     val_transforms = Compose([*default_transforms])
 
     # 4) Datasets og dataloaders
-    train_ds = monai.data.Dataset(data=train_files, transform=train_transforms)
-    val_ds = monai.data.Dataset(data=val_files, transform=val_transforms)
+    train_ds = Dataset(data=train_files, transform=train_transforms)
+    val_ds = Dataset(data=val_files, transform=val_transforms)
 
     return train_ds, val_ds
 
 
 def create_tumor_dataloader(
-    dataset: monai.data.Dataset,
+    dataset: Dataset,
     batch_size: int = 4,
     num_workers: int = 0,
     shuffle: bool = True,

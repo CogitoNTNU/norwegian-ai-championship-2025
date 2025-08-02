@@ -207,6 +207,8 @@ __marimo__/
 # Local development environment files
 .env
 experiments/*
+# Keep juyter notebooks in experiments
+!experiments/*.ipynb
 !experiments/.gitkeep
 
 # Generated files

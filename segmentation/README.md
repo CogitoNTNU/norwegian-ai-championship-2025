@@ -104,21 +104,21 @@ validate_segmentation
 
 <table>
   <tr>
-    <td>  <img src="data/controls/imgs/control_050.png" width=200> </td>
+    <td>  <img src="../data/raw/tumor-segmentation/controls/imgs/control_050.png" width=200> </td>
     <td>  <h3>Control 50</h3> <p>Symmetric high sugar consumption around neck and esophagus, usually caused by the patient being too cold during the scan.</p></td>
    </tr> 
   <tr>
-    <td>  <img src="data/controls/imgs/control_399.png" width=200> </td>
+    <td>  <img src="../data/raw/tumor-segmentation/controls/imgs/control_399.png" width=200> </td>
     <td>  <h3>Control 399</h3> <p>Uniform high sugar consumption in the bones, usually caused by recent chemotherapy or other treatment.
 </p></td>
    </tr> 
     <tr>
-    <td>  <img src="data/controls/imgs/control_381.png" width=200> </td>
+    <td>  <img src="../data/raw/tumor-segmentation/controls/imgs/control_381.png" width=200> </td>
     <td>  <h3>Control 381</h3> <p>Slightly increased sugar consumption in the upper body muscles, usually caused by the subject forgetting to fast before the scan.
 </p></td>
    </tr> 
     <tr>
-    <td>  <img src="data/controls/imgs/control_398.png" width=200> </td>
+    <td>  <img src="../data/raw/tumor-segmentation/controls/imgs/control_398.png" width=200> </td>
     <td>  <h3>Control 398</h3> <p>High sugar consumption in the colon, usually caused by constipation.
 </p></td>
    </tr> 
