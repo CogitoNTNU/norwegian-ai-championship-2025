@@ -1,93 +1,1042 @@
 [
-{
-"name": "obc-check-button",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/input-chip/input-chip.js';"
-],
-"description": "The obc-check-button is a versatile toggle component specifically designed for managing state rather than triggering actions. It provides two distinct interaction patterns for different use cases, focusing on on/off, enabled/disabled, and selected/unselected states rather than executing commands or operations. It features two primary variants: regular and checkbox, each designed for specific state management scenarios. Regular Type: This variant functions as a toggle button where the entire button changes color to indicate its checked/unchecked state. It's ideal for equipment controls, system modes, and feature toggles where users need clear visual feedback about operational status. An optional icon can be included to provide context about the button's function - the same icon is used for both states, with the button's background color serving as the primary state indicator. This makes it perfect for controls where the state change is communicated through the button's visual appearance rather than icon transformation. The icon is controlled through the showIcon property and uses the 'icon' slot. Checkbox Type: This variant displays a traditional checkbox container but allows for custom icons within the checked and unchecked states. Unlike the simpler obc-checkbox component (which provides standard checkbox functionality with fixed check/mixed/unchecked icons), the checkbox type of check-button enables users to slot their own meaningful icons for both states. Custom icons are provided through the 'checked-icon' and 'unchecked-icon' slots, allowing for semantic icon changes such as microphone mute/unmute (showing microphone vs. muted microphone icons), volume on/off, or communication system active/inactive states. If no custom icons are provided, it falls back to default checkbox icons (obi-checkbox-checked-filled for checked state and obi-checkbox-uncheck-google for unchecked state). The checkbox container provides familiar interaction patterns while the custom icons give immediate context about what the toggle controls. Icon Slot Usage: For checkbox type, developers can customize both states using: checked-icon slot for the active/selected state icon, and unchecked-icon slot for the inactive/unselected state icon. The component automatically switches between these slotted icons based on the current checked state, providing clear visual feedback about the current setting. Key Differentiators from obc-checkbox: While the standard obc-checkbox component is designed for simple selection tasks with built-in check marks and mixed states, the check-button's checkbox type allows complete customization of the icons within the checkbox frame. The check-button also provides the hugText property for width control (fitting content vs. full width), width property for specific sizing, and showIcon control for the regular type - features not available in the basic checkbox component. State Management Focus: The component operates as a controlled element for managing binary states, requiring developers to implement their own event handling through the check-button-click event to create functional behavior. This design pattern ensures proper integration with larger systems while maintaining clear separation between UI state and business logic. Unlike action buttons that execute commands, check-buttons are specifically designed for persistent state management where the visual feedback indicates the current setting or mode."
-},
-{
-"name": "obc-elevated-card",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/elevated-card/elevated-card.js';"
-],
-"description": "The obc-elevated-card is a versatile container component that provides elevated styling for displaying content in card-based layouts. It serves as the foundation for many other components and can function as both interactive and display-only elements depending on configuration. Core Functionality: The component supports multiple content areas through slots including leading-icon, label, description, status, trailing-icon, graphic, and action. It automatically adapts its HTML element type based on usage - rendering as a button for interactions, anchor for links, or article for display-only content. The component handles various visual states and sizes to accommodate different content types and interface requirements. Flexible Sizing and Positioning: Three size variants control content layout - single-line for compact entries, double-line for items with status information, and multi-line for detailed descriptions. Position options (regular, top, center, bottom) enable visual connection when cards are grouped together, creating seamless card stacks and connected interfaces. Visual Features: The component supports graphics headers, optional borders, info styling variants, and customizable positioning. Graphics can be displayed with or without borders at the top of the card, while the info variant provides alternative styling for special content types. Border options help create visual separation or connection depending on interface needs. Foundation Component: This component serves as the building block for enhanced card variants like obc-elevated-card-radio. It provides the core elevated card functionality that other components extend with specific behaviors. Future implementations may include obc-elevated-card-stack, which would function as a dropdown container creating multiple connected elevated cards in a grouped layout, similar to how obc-elevated-card-radio-group manages radio button collections. Use Cases: Perfect for navigation menus, settings panels, content lists, information displays, action panels, and any interface requiring card-based organization. Use for both clickable items (navigation, selection) and display content (information, status). The flexible slot system makes it adaptable to diverse content types while maintaining consistent visual presentation. Interactive Modes: Can render as interactive buttons, navigation links, or static content displays. The href property enables link functionality, while the notClickable property forces display-only behavior. Action buttons can be integrated for secondary interactions within cards, and custom events handle user interactions across different interaction patterns."
-},
-{
-"name": "obc-radio",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/radio/radio.js';"
-],
-"description": "The obc-radio is a standard radio button component that provides the foundation for single-selection form inputs. It offers both standalone radio buttons and labeled radio buttons, maintaining proper form semantics and browser radio button group management through light DOM rendering. Core Functionality: The component renders a standard HTML radio input with enhanced styling and optional label integration. When a label is provided, it creates a clickable label element that properly associates with the radio input. Without a label, it renders a standalone radio button suitable for custom layouts or integration into other components like obc-elevated-card-radio. Light DOM Architecture: The component deliberately renders into light DOM rather than shadow DOM to ensure proper radio button group behavior. This allows the browser to correctly manage mutual exclusivity between radio buttons that share the same name attribute, which is essential for proper radio button group functionality across multiple component instances. Use Cases and When to Choose: Use obc-radio for standard form inputs where you need basic radio button functionality without enhanced visual styling. Ideal for compact forms, simple option selection, embedded selection within other components, or when you need the minimal footprint of traditional radio buttons. Choose this over elevated card radios when space is limited, when building custom radio interfaces, or when the selection options don't need prominent visual emphasis. Form Integration: The component supports all standard radio button properties including name (for grouping), value, checked state, disabled state, and required validation. The inputId property allows for proper label-input association when using the labeled version. Multiple radio buttons with the same name automatically form a group with mutual exclusivity. Component Foundation: This component serves as the underlying input element for more complex radio interfaces like obc-elevated-card-radio. When building custom radio button layouts or integrating radio functionality into other components, obc-radio provides the reliable form foundation while allowing complete control over the surrounding presentation and interaction patterns."
-},
-{
-"name": "obc-elevated-card-radio",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/elevated-card-radio/elevated-card-radio.js';"
-],
-"description": "The obc-elevated-card-radio is a form input component that combines an elevated card container with radio button functionality, creating a more visual and touch-friendly alternative to standard radio buttons. It renders an interactive card that users can click anywhere on to select the radio option. The component integrates an obc-radio element within an obc-elevated-card to provide enhanced visual presentation while maintaining proper radio button form behavior. Core Functionality: The component wraps an obc-radio element within an obc-elevated-card, placing the radio button in the leading-icon slot and the label text in the label slot. The entire card surface is clickable, making it easier to interact with on touch devices or when larger target areas are needed. When clicked, it triggers the underlying radio input selection. Use Cases and When to Choose: This component is ideal when you need radio button functionality but want a more prominent, modern interface that's easier to interact with. Perfect for configuration panels, settings screens, mode selection interfaces, equipment selection, or any scenario where you want to present options as distinct, selectable cards rather than small radio buttons. Particularly effective for touch interfaces, accessibility improvements (larger click targets), or when you want to display options with more visual hierarchy and spacing. The elevated card styling makes it suitable for important selection decisions that need visual emphasis. Choose this over standard obc-radio when you want enhanced visual prominence and larger interaction areas. How to Use: Individual elevated card radios are typically used within forms or selection interfaces. Set the name property to group related options, assign unique values to each option, and use the checked property to indicate the selected state. The component works best when multiple instances share the same name to create proper radio button groups. For positioning in connected groups, use the position property (top, center, bottom) to create visually connected card sequences. Card Integration: The component inherits the visual properties of elevated cards, including position styling (top, center, bottom), size options, and border configurations. This allows radio buttons to be styled consistently with other elevated card elements while maintaining proper form input behavior and accessibility features. Form Properties: Standard radio button properties are supported including name (for grouping), value, checked state, disabled state, and required validation. The component maintains proper form semantics and accessibility features while providing the enhanced visual presentation of the elevated card container. Light DOM Rendering: The component renders into light DOM rather than shadow DOM, ensuring proper form integration and accessibility. Each instance generates a unique ID to maintain proper label-input associations and form functionality across multiple radio button instances."
-},
-{
-"name": "obc-elevated-card-radio-group",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/elevated-card-radio-group/elevated-card-radio-group.js';"
-],
-"description": "The obc-elevated-card-radio-group creates visually connected groups of elevated card radio buttons from a simple options array. Instead of manually creating and positioning multiple elevated card radio components, this component automatically generates a complete radio group with proper visual connection and form behavior. Core Function: Provide an options array and the component creates individual elevated card radio buttons, handles their visual positioning to appear connected, manages radio grouping with mutual exclusivity, and coordinates state across the entire group. Each option becomes a clickable elevated card with radio button functionality. Use Cases: Perfect for 3-6 related choices that need prominent visual presentation - system modes (Auto/Manual/Override), configuration options, operational states, or priority levels. Use when you want the enhanced visual impact of elevated card radio buttons without managing multiple components manually. How to Use: Pass an options array with label and value properties, set a group name, and optionally specify a pre-selected value. The component handles the rest - creating connected cards, managing selection state, and dispatching change events. Listen for change events to respond to user selections and integrate with form systems."
-},
-{
-"name": "obc-command-button",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/command-button/command-button.js';"
-],
-"description": "The obc-command-button is a specialized button component designed for command and control operations. It provides a simple, visual indicator of command state through automatic icon switching and is typically used in conjunction with the obc-command-menu component for comprehensive command management interfaces. Core Functionality: The component displays one of two built-in command icons based on the inCommand boolean property - showing a command-in icon when in command mode and a command-no icon when not in command. The visual state automatically updates to reflect the current command status, providing immediate feedback about operational control. The button renders as a clickable element that can trigger command-related actions or state changes. Command State Indication: The component serves as a visual indicator and interactive element for command control systems. When inCommand is true, it displays the command-in icon (typically showing active command status), and when false, it shows the command-no icon (indicating no command or released state). This automatic icon switching eliminates the need for manual icon management while ensuring consistent visual communication of command states. Integration with Command Menu: The command button is designed to work alongside the obc-command-menu component, often serving as a compact representation or trigger for more detailed command interfaces. While the command menu provides comprehensive command management with detailed status information and controls, the command button offers a minimal footprint solution for displaying and interacting with command states in space-constrained interfaces like top bars, toolbars, or status indicators. Minimal Design: This is a streamlined version of command interface components, focusing specifically on the essential command state indication without additional customization options. The component automatically handles icon selection and styling based on the command state, making it ideal for situations where consistent, standardized command indication is needed without the complexity of fully customizable command interfaces."
-},
-{
-"name": "obc-command-menu",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/command-menu/command-menu.js';"
-],
-"description": "The obc-command-menu is a comprehensive and highly adaptable command and control interface component that provides detailed command status information and interactive controls for managing operational command states. It is designed to be tailored to specific application types and provides a comprehensive view of current command and control mode status. The component works in tandem with the obc-command-button to create complete command management workflows. Core Functionality: The component displays detailed command information including status, description, and optional location data, while providing interactive controls for taking or releasing command through an integrated start-stop switch. The inCommand property controls the overall state, while hasLocation determines whether location information is displayed. The component uses multiple slots to allow complete customization of command details and control labels. Adaptive Design: The command menu should be tailored to the specific application type to provide the most relevant and comprehensive view of command and control mode status. This means the component can present different layouts, information hierarchies, and control options depending on the operational context - from simple single-command scenarios to complex multi-system command structures with subsystems, partial command states, and location-specific controls. Command Information Display: The menu presents command data through several content slots - command-icon for visual identification, command-status for current state, command-description for detailed information, and command-location for station or system location. This structured approach allows for rich, contextual information about the command being managed while maintaining consistent layout and visual hierarchy across different application contexts. Interactive Command Control: The component includes an integrated obc-start-stop-switch that handles the actual command state toggling. Multiple slots control the switch behavior and labeling: toogle-action-to-in-command-label and toogle-action-to-no-command-label for action buttons, toogle-state-in-command-label and toogle-state-no-command-label for status display, and toogle-state-in-command-icon for custom state iconography. This provides complete control over the command interaction workflow while adapting to different operational requirements. Event Handling and Integration: The component dispatches change events with inCommand boolean values when the command state is modified through the integrated switch. This allows parent components to respond to command changes and update related systems or interfaces accordingly. The event-driven architecture ensures proper integration with larger command and control systems while supporting various application-specific command management patterns."
-},
-{
-"name": "obc-button",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/button/button.js';"
-],
-"description": "The obc-button is a versatile button component designed for triggering actions and commands rather than managing state. It supports multiple visual styles and flexible icon configurations for executing one-time operations like form submissions, navigation, command execution, and workflow triggers. It can render as either a standard button element or as a link when an href is provided, making it adaptable to various interaction patterns. Visual Variants and Priority: The component offers three distinct visual styles that establish clear action hierarchy - normal for standard actions, flat for subtle secondary actions, and raised for primary or prioritized actions that require emphasis. The raised variant is specifically used when you have multiple actions side by side and need to indicate which is the primary choice. For example, in OK/Cancel button pairs, the OK button would use raised style to show it's the preferred action, while Cancel remains normal or flat. This visual prioritization helps users quickly identify the most important action in any given context. Icon Integration: The button supports optional leading and trailing icons through dedicated slots, with boolean properties (showLeadingIcon and showTrailingIcon) controlling their visibility. Icons can be used independently or together, allowing for flexible visual communication - leading icons often indicate the action type while trailing icons might show state or direction. The component automatically adjusts spacing and layout based on which icons are present. Properties and Configuration: Key properties include variant for styling (normal, raised, flat), fullWidth for layout control, disabled for interaction states, and href/target for link behavior. When href is provided, the component automatically renders as an anchor element while maintaining the same visual appearance and API. Action-Oriented Design: Unlike toggle components that manage on/off states, this button is specifically designed for executing discrete actions. Whether submitting forms, opening dialogs, navigating to new pages, or triggering system operations, the button provides clear visual feedback about actionable elements while maintaining consistent interaction patterns across different contexts and use cases."
-},
-{
-"name": "obc-checkbox",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/checkbox/checkbox.js';"
-],
-"description": "The obc-checkbox is a standard form input component designed for selection and state indication. It provides a clean, accessible checkbox implementation with three distinct states: checked, unchecked, and mixed (indeterminate). Core Functionality: This component renders a traditional checkbox with a built-in label system, using standard checkmark icons for visual state indication. The checked state displays a filled checkmark icon, unchecked shows an empty checkbox, and mixed state shows a dash/minus icon - ideal for hierarchical selections where a parent checkbox represents a partially selected group of child items. Professional Interface Design: Unlike basic HTML checkboxes, this component is specifically designed for professional environments with enhanced accessibility features, proper ARIA attributes, and keyboard navigation support (spacebar activation). The component includes built-in focus management, screen reader compatibility, and follows maritime interface standards for touch targets and visual clarity. Use Cases: The checkbox is perfect for simple binary selections such as enabling/disabling system features, selecting items from lists, confirming operational procedures, or managing user preferences. The mixed state is particularly valuable in complex interfaces where users need to manage hierarchical selections - for example, selecting equipment groups where some individual items are active and others are inactive. Key Differentiators from obc-check-button: While the obc-check-button provides extensive customization with different visual styles and custom icon slots, the obc-checkbox focuses on standard checkbox behavior with minimal configuration. It includes a built-in label property, automatic state management with proper event dispatching, and doesn't require custom styling or icon management. The checkbox component is ideal when you need reliable, accessible form input behavior without the complexity of custom visual states or the button-like appearance of the check-button component. The component automatically handles state transitions, dispatches appropriate change events, and maintains proper disabled state behavior. It's designed as a drop-in solution for forms and selection interfaces where standard checkbox functionality is sufficient, providing the reliability and accessibility required for professional operational environments without the overhead of extensive customization options."
-},
-{
-"name": "obc-input-chip",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/input-chip/input-chip.js';"
-],
-"description": "The obc-input-chip is a removable display component that appears as a compact, pill-shaped element containing a text label and a close icon. It provides a simple way to show individual items that users can remove by clicking anywhere on the chip. Core Functionality: The component displays a text label alongside a close (X) icon. The entire chip is clickable - when clicked anywhere, it dispatches a remove-chip event containing the chip's label, allowing parent components to handle the removal action. Visual Elements: The chip includes an optional leading icon slot (controlled by the showIcon property) that can display any slotted content to provide visual context for the label. The close icon is always displayed on the right side to indicate the chip's removable nature. Interaction Pattern: The component is designed around a single action - removal. The entire chip surface is interactive, so users can click anywhere on it to trigger removal. It communicates its label back to the parent component through an event, enabling the parent to update its data or interface accordingly. The component can be disabled to prevent removal when needed."
-},
-{
-"name": "obc-filter-chip",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/filter-chip/filter-chip.js';"
-],
-"description": "The obc-filter-chip is a simple toggleable selection component that functions as a clickable pill-shaped button with checked and unchecked states. It provides clear visual feedback when toggled, making it useful for basic on/off selection interfaces where users need to enable or disable individual options. Core Functionality: This component acts as a standalone toggle control that maintains its own checked/unchecked state. When unchecked, it appears in a subdued state with an optional custom icon. When checked, it becomes visually prominent and automatically displays a checkmark icon alongside any custom icon, providing immediate feedback about its active status. Interaction Pattern: Users click the chip to toggle between states, and the component automatically updates its visual appearance and dispatches a chip-toggle event with the new state information. This allows parent components to respond to state changes as needed for their specific functionality. Icon Integration: The component supports an optional custom icon through a slot (controlled by the showIcon property) that can provide visual context about what the chip represents. When checked, both the custom icon and an automatic checkmark can be displayed together."
-},
-{
-"name": "obc-user-button",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/user-button/user-button.js';"
-],
-"description": "The obc-user-button is a circular user avatar component designed to represent individual users. It provides a compact, recognizable way to display user identity and can function as either an interactive button or a static display element. Core Functionality: The component displays user information in a circular container with two content options: user initials (up to 2 characters, automatically formatted to uppercase) or a user icon. When configured as interactive, it renders as a clickable button suitable for triggering user menus, profile access, or authentication workflows. When set to static mode, it serves as a pure display element for user identification. Visual Variants: The component offers two primary variants - initials mode displays user-provided initials in a clean, readable format, while icon mode shows either a slotted custom icon or falls back to a default user icon. The initials are automatically processed to remove whitespace, convert to uppercase, and truncate to 2 characters if longer input is provided. Style Options: Three visual styles are available to match different interface contexts: flat for subtle integration, normal for standard prominence, and selected for indicating active or focused user states. These styles allow the component to adapt to various interface requirements while maintaining consistency. Professional Integration: The component includes proper accessibility features with ARIA labels and supports disabled states for system maintenance or restricted access scenarios. An optional label property can display the user's name alongside the avatar, useful in user management interfaces or detailed user listings. Interactive Modes: The static property controls whether the component renders as an interactive button element or a display-only div element. This flexibility allows the same component to serve both navigation purposes (clickable for user menus) and identification purposes (static display in lists or headers) within operational interfaces. The user button serves as a standard building block for user identification and interaction."
-},
-{
-"name": "obc-app-button",
-"import-paths": [
-"import '@oicl/openbridge-webcomponents/dist/components/app-button/app-button.js';"
-],
-"description": "The obc-app-button is a circular icon-based button component designed for application navigation and action triggers. It always renders as a clickable button element, providing consistent interactive behavior across all use cases. Core Functionality: The component displays a custom icon within a circular container with a text label positioned below it. The icon content is customizable through the icon slot, allowing any icon or symbol to be displayed. The component includes a checked state that provides visual feedback for active or selected applications, and supports two size variants - normal and small - to accommodate different layout requirements and interface densities. Properties and Configuration: The component accepts a label property for the text displayed below the icon, a checked boolean property for indicating active/selected state, and a size property that can be set to either 'normal' or 'small'. The checked state changes the visual appearance to clearly indicate when an application or feature is currently active or selected. Interactive Design: As a button element, it supports standard button interactions including click events, focus states, and accessibility features. The consistent circular design with customizable icons makes it ideal for application launchers, feature toggles, system controls, and navigation elements where users need clear visual feedback about interactive elements and their current states. Integration Patterns: The component is commonly used in application grids and menus (such as with a grid icon for launching app selection interfaces), toolbar controls, and as contextual action buttons within larger interface components. The size variants allow it to adapt to different interface contexts - normal size for primary application launchers and feature controls, and small size for compact toolbars or secondary actions. Visual Consistency: The circular design maintains visual harmony across different contexts while the checked state and size options provide the flexibility needed for various interface requirements. Whether used for launching applications, toggling system features, or triggering specific actions, the component ensures consistent user interaction patterns throughout operational interfaces."
-}
+  {
+    "name": "Chest Pain",
+    "path": "Chest Pain (non-cardiac)/Chest Pain.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19382/ scraped_date: 2025-07-22 12:37:41 UTC\n\n# Chest Pain\n\nKen Johnson; Sassan Ghassemzadeh.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKen Johnson1; Sassan Ghassemzadeh2.\n\n#### Affiliations\n\n1 Riverside Community Hospital\n\n2 Riverside Comm Hosp, UC Riverside\n\nLast Update: December 14, 2022.\n\n## Continuing Education Activity\n\nChest pain is a common ..."
+  },
+  {
+    "name": "Atypical Chest Pain",
+    "path": "Chest Pain (non-cardiac)/Atypical Chest Pain.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19382/ scraped_date: 2025-07-22 12:37:46 UTC\n\n# Chest Pain\n\nKen Johnson; Sassan Ghassemzadeh.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKen Johnson1; Sassan Ghassemzadeh2.\n\n#### Affiliations\n\n1 Riverside Community Hospital\n\n2 Riverside Comm Hosp, UC Riverside\n\nLast Update: December 14, 2022.\n\n## Continuing Education Activity\n\nChest pain is a common ..."
+  },
+  {
+    "name": "Placental Abruption",
+    "path": "Placental Abruption/Placental Abruption.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17041/ scraped_date: 2025-07-22 12:48:57 UTC\n\n# Placental Abruption\n\nPamela Schmidt; Christy L. Skelly; Deborah A. Raines.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPamela Schmidt1; Christy L. Skelly2; Deborah A. Raines3.\n\n#### Affiliations\n\n1 Sisters of Charity Hospital\n\n2 Florida Southern College\n\n3 Univ at Buffalo\n\nLast Update: December 19, 2022...."
+  },
+  {
+    "name": "Perforated Viscus",
+    "path": "Perforated Viscus/Perforated Viscus.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26938/ scraped_date: 2025-07-22 12:48:05 UTC\n\n# Peptic Ulcer Perforated\n\nEvan Stern; Kavin Sugumar; Jonathan D. Journey.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEvan Stern1; Kavin Sugumar2; Jonathan D. Journey3.\n\n#### Affiliations\n\n1 North Florida Regional Medical Center\n\n2 Department of Surgery, Tulane University\n\n3 Un of Central Florida/North Fl..."
+  },
+  {
+    "name": "Upper Airway Obstruction",
+    "path": "Upper Airway Obstruction/Upper Airway Obstruction.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17310/ scraped_date: 2025-07-22 12:41:31 UTC\n\n# Airway Obstruction\n\nMark F. Brady; Bracken Burns.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMark F. Brady1; Bracken Burns2.\n\n#### Affiliations\n\n1 Alpert Medical School of Brown University\n\n2 East Tennessee State University (ETSU)\n\nLast Update: August 7, 2023.\n\n## Continuing Education Activity\n\nAirway o..."
+  },
+  {
+    "name": "Traumatic Brain Injury",
+    "path": "Traumatic Brain Injury/Traumatic Brain Injury.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22607/ scraped_date: 2025-07-22 12:46:35 UTC\n\n# Traumatic Brain Injury\n\nJoshua Ginsburg; Travis Smith.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJoshua Ginsburg; Travis Smith1.\n\n#### Affiliations\n\n1 LECOM at Jacksonville University\n\nLast Update: February 17, 2025.\n\n## Continuing Education Activity\n\nTraumatic brain injury (TBI) is an injury to the br..."
+  },
+  {
+    "name": "Aortic Stenosis",
+    "path": "Aortic Stenosis/Aortic Stenosis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17744/ scraped_date: 2025-07-22 12:36:48 UTC\n\n# Aortic Stenosis\n\nSai Harika Pujari; Pradyumna Agasthi.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nSai Harika Pujari1; Pradyumna Agasthi2.\n\n#### Affiliations\n\n1 Mayo Clinic\n\n2 Saint Francis Heart Hospital\n\nLast Update: April 16, 2023.\n\n## Continuing Education Activity\n\nAortic stenosis is a common valvula..."
+  },
+  {
+    "name": "Hemoglobin A1C",
+    "path": "Hemoglobin A1C/Hemoglobin A1C.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22729/ scraped_date: 2025-07-22 12:51:28 UTC\n\n# Hemoglobin A1C\n\nEmily Eyth; Muhammad Zubair; Roopa Naik.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEmily Eyth1; Muhammad Zubair2; Roopa Naik3.\n\n#### Affiliations\n\n1 University of South Florida\n\n2 Pakistan Kidney & Liver Institute and Research Centre - PKLI\n\n3 Centra Southside Community Hospital\n\nLast U..."
+  },
+  {
+    "name": "Compartment Syndrome",
+    "path": "Compartment Syndrome/Compartment Syndrome.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19771/ scraped_date: 2025-07-22 12:45:47 UTC\n\n# Abdominal Compartment Syndrome\n\nPatrycja Popowicz; Richard K. Newman; Elvita Dominique.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPatrycja Popowicz1; Richard K. Newman2; Elvita Dominique3.\n\n#### Affiliations\n\n1 East Carolina University Health\n\n2 UC Davis Medical Center\n\n3 Wyckoff Heights Medical Center..."
+  },
+  {
+    "name": "Acute Compartment Syndrome",
+    "path": "Compartment Syndrome/Acute Compartment Syndrome.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19772/ scraped_date: 2025-07-22 12:45:53 UTC\n\n# Acute Compartment Syndrome\n\nAllison M. Torlincasi; Richard A. Lopez; Muhammad Waseem.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAllison M. Torlincasi1; Richard A. Lopez2; Muhammad Waseem3.\n\n#### Affiliations\n\n1 Lincoln Medical Center\n\n2 Geisinger Medical Center\n\n3 Weill Cornell Medicine New York and Ne..."
+  },
+  {
+    "name": "Hypoglycemia",
+    "path": "Hypoglycemia/Hypoglycemia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-37214/ scraped_date: 2025-07-22 12:42:47 UTC\n\n# Factitious Hypoglycemia\n\nDana H. Awad; Srinivasa B. Gokarakonda; Marium Ilahi.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDana H. Awad; Srinivasa B. Gokarakonda1; Marium Ilahi2.\n\n#### Affiliations\n\n1 University of Arkansas For Medical Sciences\n\n2 Creighton University\n\nLast Update: September 4, 2023.\n\n##..."
+  },
+  {
+    "name": "Arterial Blood Gas",
+    "path": "Arterial Blood Gas (ABG)/Arterial Blood Gas.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17837/ scraped_date: 2025-07-22 12:49:34 UTC\n\n# Arterial Blood Gas\n\nDanny Castro; Sachin M. Patil; Muhammad Zubair; Michael Keenaghan.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDanny Castro1; Sachin M. Patil2; Muhammad Zubair3; Michael Keenaghan4.\n\n#### Affiliations\n\n1 Baylor College of Med & TX Children Hosp\n\n2 University of Missouri Columbia MO\n\n3..."
+  },
+  {
+    "name": "Adjusting Ventilator Settings Based on ABG Results",
+    "path": "Arterial Blood Gas (ABG)/Adjusting Ventilator Settings Based on ABG Results.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-161107/ scraped_date: 2025-07-22 12:49:46 UTC\n\n# Adjusting Ventilator Settings Based on ABG Results\n\nWael Hassan; Mohamed Elkhatieb.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nWael Hassan1; Mohamed Elkhatieb2.\n\n#### Affiliations\n\n1 Beaumont Hospital, Dublin, Ireland\n\n2 Tallaght University Hospital\n\nLast Update: August 11, 2024.\n\n## Definition/Introdu..."
+  },
+  {
+    "name": "Arterial Blood Gas Sampling [ABG Machine Use]",
+    "path": "Arterial Blood Gas (ABG)/Arterial Blood Gas Sampling [ABG Machine Use].md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17837/ scraped_date: 2025-07-22 12:49:39 UTC\n\n# Arterial Blood Gas\n\nDanny Castro; Sachin M. Patil; Muhammad Zubair; Michael Keenaghan.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDanny Castro1; Sachin M. Patil2; Muhammad Zubair3; Michael Keenaghan4.\n\n#### Affiliations\n\n1 Baylor College of Med & TX Children Hosp\n\n2 University of Missouri Columbia MO\n\n3..."
+  },
+  {
+    "name": "C-Reactive Protein",
+    "path": "C-Reactive Protein (CRP)/C-Reactive Protein.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18744/ scraped_date: 2025-07-22 12:51:34 UTC\n\n# C-Reactive Protein: Clinical Relevance and Interpretation\n\nBaltej Singh; Amandeep Goyal; Bhupendra C. Patel.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nBaltej Singh1; Amandeep Goyal2; Bhupendra C. Patel3.\n\n#### Affiliations\n\n1 Christiana Care Health System\n\n2 University of Kansas Medical Center\n\n3 Unive..."
+  },
+  {
+    "name": "Multi-organ Failure",
+    "path": "Multi-organ Failure/Multi-organ Failure.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24369/ scraped_date: 2025-07-22 12:46:24 UTC\n\n# Acute Liver Failure\n\nNiraj J. Shah; Amor Royer; Savio John.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNiraj J. Shah1; Amor Royer2; Savio John3.\n\n#### Affiliations\n\n1 University Of Mississippi Medical Center\n\n2 University of Mississippi Medical Center\n\n3 SUNY Upstate Medical University\n\nLast Update: Apr..."
+  },
+  {
+    "name": "Cervical Spine Injury",
+    "path": "Cervical Spine Injury/Cervical Spine Injury.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-38689/ scraped_date: 2025-07-22 12:46:41 UTC\n\n# Geriatric Cervical Spine Injury\n\nRebecca Jeanmonod; Matthew A. Varacallo.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nRebecca Jeanmonod1; Matthew A. Varacallo2.\n\n#### Affiliations\n\n1 St. Luke's University Health Network\n\n2 Penn Highlands Healthcare System\n\nLast Update: August 4, 2023.\n\n## Continuing Educ..."
+  },
+  {
+    "name": "EMS Field Identification Of Chronic Obstructive Pulmonary Disease (COPD)",
+    "path": "COPD Exacerbation/EMS Field Identification Of Chronic Obstructive Pulmonary Disease (COPD).md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26083/ scraped_date: 2025-07-22 12:38:53 UTC\n\n# Chronic Obstructive Pulmonary Disease\n\nAnuj K. Agarwal; Avais Raja; Brandon D. Brown.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAnuj K. Agarwal1; Avais Raja2; Brandon D. Brown3.\n\n#### Affiliations\n\n1 University of Miami Hospital\n\n2 University of Western States, Portland, Oregon\n\n3 Medical University of..."
+  },
+  {
+    "name": "Asthma and COPD Overlap",
+    "path": "COPD Exacerbation/Asthma and COPD Overlap.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17920/ scraped_date: 2025-07-22 12:38:58 UTC\n\n# Asthma\n\nJennifer Goldin; Muhammad F. Hashmi; Mary E. Cataletto.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJennifer Goldin1; Muhammad F. Hashmi2; Mary E. Cataletto3.\n\n#### Affiliations\n\n1 Wright State University School of Medicine\n\n2 National Health Service\n\n3 NYU Winthrop University Hospital\n\nLast Upda..."
+  },
+  {
+    "name": "Acute Liver Failure",
+    "path": "Acute Liver Failure/Acute Liver Failure.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24369/ scraped_date: 2025-07-22 12:45:36 UTC\n\n# Acute Liver Failure\n\nNiraj J. Shah; Amor Royer; Savio John.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNiraj J. Shah1; Amor Royer2; Savio John3.\n\n#### Affiliations\n\n1 University Of Mississippi Medical Center\n\n2 University of Mississippi Medical Center\n\n3 SUNY Upstate Medical University\n\nLast Update: Apr..."
+  },
+  {
+    "name": "Hyponatremia",
+    "path": "Hyponatremia_Hypernatremia/Hyponatremia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-133173/ scraped_date: 2025-07-22 12:44:13 UTC\n\n# Exercise-Associated Hyponatremia\n\nEmily Buck; Rebecca McAllister; Jeremy D. Schroeder.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEmily Buck1; Rebecca McAllister2; Jeremy D. Schroeder3.\n\n#### Affiliations\n\n1 Madigan Army Medical Center\n\n2 Uniformed Services University of the Health Sciences\n\n3 Madigan ..."
+  },
+  {
+    "name": "Hypernatremia",
+    "path": "Hyponatremia_Hypernatremia/Hypernatremia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23192/ scraped_date: 2025-07-22 12:44:18 UTC\n\n# Hypernatremia\n\nBhavin Sonani; Srividya Naganathan; Mohammed A. Al-Dhahir.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nBhavin Sonani1; Srividya Naganathan2; Mohammed A. Al-Dhahir3.\n\n#### Affiliations\n\n1 HSHS St John's Hospital\n\n2 Jersey Shore University Medical center\n\n3 Independent Medical Professional \u2013..."
+  },
+  {
+    "name": "Appendicitis",
+    "path": "Acute Appendicitis/Appendicitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17784/ scraped_date: 2025-07-22 12:47:42 UTC\n\n# Appendicitis\n\nSaran Lotfollahzadeh; Richard A. Lopez; Jeffrey G. Deppen.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nSaran Lotfollahzadeh1; Richard A. Lopez2; Jeffrey G. Deppen3.\n\n#### Affiliations\n\n1 Vascular Research, Department of Medicine, Boston University School of Medicine, Boston, MA 02118, USA, ..."
+  },
+  {
+    "name": "Pediatric Appendicitis",
+    "path": "Acute Appendicitis/Pediatric Appendicitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17784/ scraped_date: 2025-07-22 12:47:48 UTC\n\n# Appendicitis\n\nSaran Lotfollahzadeh; Richard A. Lopez; Jeffrey G. Deppen.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nSaran Lotfollahzadeh1; Richard A. Lopez2; Jeffrey G. Deppen3.\n\n#### Affiliations\n\n1 Vascular Research, Department of Medicine, Boston University School of Medicine, Boston, MA 02118, USA, ..."
+  },
+  {
+    "name": "Bacteremia",
+    "path": "Blood Cultures/Bacteremia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18093/ scraped_date: 2025-07-22 12:50:29 UTC\n\n# Bacteremia\n\nDavid A. Smith; Sara M. Nehring.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDavid A. Smith1; Sara M. Nehring2.\n\n#### Affiliations\n\n1 Salus University/PVAMC\n\n2 St Bernards Medical Center\n\nLast Update: July 17, 2023.\n\n## Continuing Education Activity\n\nBacteremia, in the strictest sense, refers..."
+  },
+  {
+    "name": "Troponin",
+    "path": "Troponin I_T/Troponin.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30637/ scraped_date: 2025-07-22 12:49:52 UTC\n\n# Troponin\n\nMatthew Stark; Sandeep Sharma.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMatthew Stark1; Sandeep Sharma2.\n\n#### Affiliations\n\n1 Carl R. Darnall Army Medical Center\n\n2 Mery Fitzgerald Hospital\n\nLast Update: April 23, 2023.\n\n## Introduction\n\nDiagnosing cardiac emergencies is one of the most cru..."
+  },
+  {
+    "name": "Distributive Shock",
+    "path": "Shock (various types)/Distributive Shock.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28974/ scraped_date: 2025-07-22 12:44:57 UTC\n\n# Distributive Shock\n\nNicholas Smith; Richard A. Lopez; Michael Silberman.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNicholas Smith1; Richard A. Lopez2; Michael Silberman3.\n\n#### Affiliations\n\n1 University of Tennessee\n\n2 Geisinger Medical Center\n\n3 University of Tennessee\n\nLast Update: July 24, 2023.\n\n#..."
+  },
+  {
+    "name": "Cardiogenic Shock",
+    "path": "Shock (various types)/Cardiogenic Shock.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18914/ scraped_date: 2025-07-22 12:45:08 UTC\n\n# Cardiogenic Shock\n\nAteet Kosaraju; Venkata Satish Pendela; Ofek Hai.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAteet Kosaraju1; Venkata Satish Pendela2; Ofek Hai3.\n\n#### Affiliations\n\n1 Nassau University Medical Center\n\n2 Rochester General Hospital\n\n3 Nassau University Medical Center\n\nLast Update: Apri..."
+  },
+  {
+    "name": "Hemorrhagic Shock",
+    "path": "Shock (various types)/Hemorrhagic Shock.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28975/ scraped_date: 2025-07-22 12:45:02 UTC\n\n# Hemorrhagic Shock\n\nNicholas Hooper; Tyler J. Armstrong.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNicholas Hooper1; Tyler J. Armstrong2.\n\n#### Affiliations\n\n1 University of Tennessee: Nashville\n\n2 University of Tennessee - Nashville\n\nLast Update: September 26, 2022.\n\n## Continuing Education Activity\n\nS..."
+  },
+  {
+    "name": "Shock",
+    "path": "Shock (various types)/Shock.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18914/ scraped_date: 2025-07-22 12:44:51 UTC\n\n# Cardiogenic Shock\n\nAteet Kosaraju; Venkata Satish Pendela; Ofek Hai.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAteet Kosaraju1; Venkata Satish Pendela2; Ofek Hai3.\n\n#### Affiliations\n\n1 Nassau University Medical Center\n\n2 Rochester General Hospital\n\n3 Nassau University Medical Center\n\nLast Update: Apri..."
+  },
+  {
+    "name": "Biochemistry, Lipase",
+    "path": "Lipase/Biochemistry, Lipase.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24303/ scraped_date: 2025-07-22 12:50:47 UTC\n\n# Biochemistry, Lipase\n\nYasaman Pirahanchi; Sandeep Sharma.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nYasaman Pirahanchi1; Sandeep Sharma2.\n\n#### Affiliations\n\n1 California Northstate College Medicine\n\n2 Mery Fitzgerald Hospital\n\nLast Update: June 26, 2023.\n\n## Introduction\n\nLipases are a family of enzym..."
+  },
+  {
+    "name": "Biochemistry, Lipoprotein Lipase",
+    "path": "Lipase/Biochemistry, Lipoprotein Lipase.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24324/ scraped_date: 2025-07-22 12:50:52 UTC\n\n# Biochemistry, Lipoprotein Lipase\n\nYasaman Pirahanchi; McDamian Anoruo; Sandeep Sharma.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nYasaman Pirahanchi1; McDamian Anoruo2; Sandeep Sharma3.\n\n#### Affiliations\n\n1 California Northstate College Medicine\n\n2 Saint James School of Medicine, Anguilla\n\n3 Mery Fitzg..."
+  },
+  {
+    "name": "Biochemistry, Phospholipase A2",
+    "path": "Lipase/Biochemistry, Phospholipase A2.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27140/ scraped_date: 2025-07-22 12:50:57 UTC\n\n# Biochemistry, Phospholipase A2\n\nJarett Casale; Salah Eddine O. Kacimi; Matthew A. Varacallo.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJarett Casale1; Salah Eddine O. Kacimi2; Matthew A. Varacallo3.\n\n#### Affiliations\n\n1 Campbell University School of Osteopathic Medicine\n\n2 Faculty of Medicine, Univers..."
+  },
+  {
+    "name": "The de Winter ECG Pattern",
+    "path": "12-lead ECG/The de Winter ECG Pattern.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-98283/ scraped_date: 2025-07-22 12:52:19 UTC\n\n# The de Winter ECG Pattern\n\nEduardo M. Vilela; Jose P. Braga.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEduardo M. Vilela1; Jose P. Braga2.\n\n#### Affiliations\n\n1 Cardiology Department, Centro Hospitalar de Vila Nova de Gaia / Espinho\n\n2 Centro Hospitalar de Vila Nova de Gaia\n\nLast Update: January 31, 20..."
+  },
+  {
+    "name": "Electrocardiogram",
+    "path": "12-lead ECG/Electrocardiogram.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20969/ scraped_date: 2025-07-22 12:51:56 UTC\n\n# Electrocardiogram\n\nYasar Sattar; Lovely Chhabra.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nYasar Sattar1; Lovely Chhabra2.\n\n#### Affiliations\n\n1 Icahn School of Medicine at Mount Sinai\n\n2 New York Medical College\n\nLast Update: June 5, 2023.\n\n## Continuing Education Activity\n\nAn electrocardiogram (abbre..."
+  },
+  {
+    "name": "Ambulatory ECG Monitoring",
+    "path": "12-lead ECG/Ambulatory ECG Monitoring.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-149164/ scraped_date: 2025-07-22 12:52:13 UTC\n\n# Ambulatory ECG Monitoring\n\nDaniel Fabian; Intisar Ahmed.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDaniel Fabian1; Intisar Ahmed2.\n\n#### Affiliations\n\n1 Guthrie Robert Packer Hospital\n\n2 Aga Khan University Pakistan\n\nLast Update: November 2, 2023.\n\n## Continuing Education Activity\n\nAmbulatory electroc..."
+  },
+  {
+    "name": "EKG Rhythm",
+    "path": "12-lead ECG/EKG Rhythm.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20938/ scraped_date: 2025-07-22 12:52:02 UTC\n\n# EKG Rhythm\n\nBryan Rogoff; Yuri B. Pride.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nBryan Rogoff1; Yuri B. Pride2.\n\n#### Affiliations\n\n1 PBCGME\n\n2 Northside Hospital Gwinnett\n\nLast Update: February 10, 2022.\n\n## Continuing Education Activity\n\nSuccessful EKG interpretation requires the same stepwise meth..."
+  },
+  {
+    "name": "ECG T Wave",
+    "path": "12-lead ECG/ECG T Wave.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20859/ scraped_date: 2025-07-22 12:52:07 UTC\n\n# ECG T Wave\n\nBrian J. Kenny; Kristen N. Brown.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nBrian J. Kenny1; Kristen N. Brown2.\n\n#### Affiliations\n\n1 Kansas City University of Medicine\n\n2 Augusta University\n\nLast Update: December 22, 2022.\n\n## Continuing Education Activity\n\nNormally, the T wave on an elect..."
+  },
+  {
+    "name": "Atypical Bacterial Pneumonia",
+    "path": "Pneumonia (bacterial_viral_atypical)/Atypical Bacterial Pneumonia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27355/ scraped_date: 2025-07-22 12:38:19 UTC\n\n# Atypical Bacterial Pneumonia\n\nAndrew D. Nguyen; Dustin R. Stamm; Holly A. Stankewicz.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAndrew D. Nguyen1; Dustin R. Stamm2; Holly A. Stankewicz3.\n\n#### Affiliations\n\n1 University of Queensland\n\n2 St Luke's University Hospital Bethlehem\n\n3 St. Luke's University H..."
+  },
+  {
+    "name": "Nosocomial Pneumonia",
+    "path": "Pneumonia (bacterial_viral_atypical)/Nosocomial Pneumonia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-25995/ scraped_date: 2025-07-22 12:38:25 UTC\n\n# Nosocomial Pneumonia\n\nEman Shebl; Peter G. Gulick.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEman Shebl1; Peter G. Gulick2.\n\n#### Affiliations\n\n1 Zagazig University Faculty of Medicine\n\n2 Michigan State University\n\nLast Update: June 26, 2023.\n\n## Continuing Education Activity\n\nNosocomial pneumonia or h..."
+  },
+  {
+    "name": "Bacterial Pneumonia",
+    "path": "Pneumonia (bacterial_viral_atypical)/Bacterial Pneumonia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27355/ scraped_date: 2025-07-22 12:38:07 UTC\n\n# Atypical Bacterial Pneumonia\n\nAndrew D. Nguyen; Dustin R. Stamm; Holly A. Stankewicz.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAndrew D. Nguyen1; Dustin R. Stamm2; Holly A. Stankewicz3.\n\n#### Affiliations\n\n1 University of Queensland\n\n2 St Luke's University Hospital Bethlehem\n\n3 St. Luke's University H..."
+  },
+  {
+    "name": "Community-Acquired Pneumonia",
+    "path": "Pneumonia (bacterial_viral_atypical)/Community-Acquired Pneumonia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27357/ scraped_date: 2025-07-22 12:38:02 UTC\n\n# Community-Acquired Pneumonia\n\nHariharan Regunath; Yuji Oba.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nHariharan Regunath1; Yuji Oba.\n\n#### Affiliations\n\n1 University of Maryland - Baltimore Washington Medical Center\n\nLast Update: January 26, 2024.\n\n## Continuing Education Activity\n\nThis comprehensive c..."
+  },
+  {
+    "name": "Viral Pneumonia",
+    "path": "Pneumonia (bacterial_viral_atypical)/Viral Pneumonia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27367/ scraped_date: 2025-07-22 12:38:13 UTC\n\n# Viral Pneumonia\n\nAndrew M. Freeman; Townes R. Leigh, Jr.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAndrew M. Freeman1; Townes R. Leigh, Jr2.\n\n#### Affiliations\n\n1 Southeastern Regional Medical Center\n\n2 Southeastern Health; Campbell Un SOM\n\nLast Update: July 4, 2023.\n\n## Continuing Education Activity\n\n..."
+  },
+  {
+    "name": "Malignant Hypertension",
+    "path": "Hypertensive Emergency/Malignant Hypertension.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28035/ scraped_date: 2025-07-22 12:36:05 UTC\n\n# Altitude-Induced Pulmonary Hypertension\n\nNicolas A. Ulloa; Jessica Cook.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNicolas A. Ulloa1; Jessica Cook2.\n\n#### Affiliations\n\n1 Aventura Hospital and Medical Center\n\n2 Aventura Hospital and Medical Center\n\nLast Update: January 30, 2023.\n\n## Continuing Educatio..."
+  },
+  {
+    "name": "Hypertensive Emergency",
+    "path": "Hypertensive Emergency/Hypertensive Emergency.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23224/ scraped_date: 2025-07-22 12:35:59 UTC\n\n# Hypertensive Emergency\n\nWilliam D. Alley; Michael A. Schick.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nWilliam D. Alley; Michael A. Schick1.\n\n#### Affiliations\n\n1 UC Davis Medical Center\n\nLast Update: July 24, 2023.\n\n## Continuing Education Activity\n\nA hypertensive emergency is an acute, marked elevati..."
+  },
+  {
+    "name": "Embolic Stroke",
+    "path": "Stroke (Ischemic_Hemorrhagic)/Embolic Stroke.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18913/ scraped_date: 2025-07-22 12:43:11 UTC\n\n# Cardioembolic Stroke\n\nAshwin A. Pillai; Prasanna Tadi; Arun Kanmanthareddy.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAshwin A. Pillai1; Prasanna Tadi2; Arun Kanmanthareddy3.\n\n#### Affiliations\n\n1 University of Connecticut\n\n2 Asram Medical College, Eluru, India\n\n3 Creighton University School of Medicin..."
+  },
+  {
+    "name": "Acute Stroke",
+    "path": "Stroke (Ischemic_Hemorrhagic)/Acute Stroke.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17174/ scraped_date: 2025-07-22 12:42:53 UTC\n\n# Acute Stroke\n\nPrasanna Tadi; Forshing Lui.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPrasanna Tadi1; Forshing Lui2.\n\n#### Affiliations\n\n1 Asram Medical College, Eluru, India\n\n2 CA Northstate Uni, College of Med\n\nLast Update: August 17, 2023.\n\n## Continuing Education Activity\n\nStroke ranks as the second..."
+  },
+  {
+    "name": "Ischemic Stroke",
+    "path": "Stroke (Ischemic_Hemorrhagic)/Ischemic Stroke.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23776/ scraped_date: 2025-07-22 12:42:59 UTC\n\n# Ischemic Stroke\n\nForshing Lui; Mahammed Z. Khan Suheb; Laryssa Patti.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nForshing Lui1; Mahammed Z. Khan Suheb2; Laryssa Patti3.\n\n#### Affiliations\n\n1 CA Northstate Uni, College of Med\n\n2 University of Wisconsin\n\n3 Rutgers Rutgers Robert Wood Johnson Medical Schoo..."
+  },
+  {
+    "name": "Cardioembolic Stroke",
+    "path": "Stroke (Ischemic_Hemorrhagic)/Cardioembolic Stroke.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18913/ scraped_date: 2025-07-22 12:43:18 UTC\n\n# Cardioembolic Stroke\n\nAshwin A. Pillai; Prasanna Tadi; Arun Kanmanthareddy.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAshwin A. Pillai1; Prasanna Tadi2; Arun Kanmanthareddy3.\n\n#### Affiliations\n\n1 University of Connecticut\n\n2 Asram Medical College, Eluru, India\n\n3 Creighton University School of Medicin..."
+  },
+  {
+    "name": "Hemorrhagic Stroke",
+    "path": "Stroke (Ischemic_Hemorrhagic)/Hemorrhagic Stroke.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-90188/ scraped_date: 2025-07-22 12:43:05 UTC\n\n# Hemorrhagic Stroke\n\nAjaya Kumar A. Unnithan; Joe M. Das; Parth Mehta.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAjaya Kumar A. Unnithan1; Joe M. Das2; Parth Mehta.\n\n#### Affiliations\n\n1 Muthoot Hospital, Kozhencherry\n\n2 Imperial College Healthcare NHS Trust, London\n\nLast Update: May 8, 2023.\n\n## Contin..."
+  },
+  {
+    "name": "Pleural Effusion",
+    "path": "Pleural Effusion/Pleural Effusion.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20929/ scraped_date: 2025-07-22 13:00:33 UTC\n\n# Pleural Effusion\n\nRachana Krishna; Marsha H. Antoine; Mohamed H. Alahmadi; Mohan Rudrappa.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nRachana Krishna; Marsha H. Antoine; Mohamed H. Alahmadi1; Mohan Rudrappa2.\n\n#### Affiliations\n\n1 University of Health Sciences, Lahore\n\n2 Lousiana State University\n\nLast ..."
+  },
+  {
+    "name": "Acute Abdomen",
+    "path": "Acute Abdomen/Acute Abdomen.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17142/ scraped_date: 2025-07-22 12:45:14 UTC\n\n# Acute Abdomen\n\nNancy L. Kopitnik; Sarang Kashyap; Elvita Dominique.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNancy L. Kopitnik1; Sarang Kashyap2; Elvita Dominique3.\n\n#### Affiliations\n\n1 West Virginia School of Osteopathic Medicine, Lewisburg, WV\n\n2 Beckley Appalachian Regional Healthcare Hospital\n\n3 ..."
+  },
+  {
+    "name": "Chronic Pancreatitis",
+    "path": "Pancreatitis/Chronic Pancreatitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26580/ scraped_date: 2025-07-22 12:48:29 UTC\n\n# Chronic Pancreatitis\n\nEric Goosenberg; Sarah L. Lappin.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEric Goosenberg1; Sarah L. Lappin2.\n\n#### Affiliations\n\n1 Temple University School of Medicine\n\n2 Upstate University Hospital\n\nLast Update: April 4, 2025.\n\n## Continuing Education Activity\n\nChronic pancrea..."
+  },
+  {
+    "name": "Acute Pancreatitis",
+    "path": "Pancreatitis/Acute Pancreatitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26578/ scraped_date: 2025-07-22 12:48:22 UTC\n\n# Acute Pancreatitis\n\nJonathan Gapp; Amina Tariq; Subhash Chandra.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJonathan Gapp1; Amina Tariq2; Subhash Chandra3.\n\n#### Affiliations\n\n1 Creighton University\n\n2 Bacha khan medical complex\n\n3 Creighton University\n\nLast Update: February 9, 2023.\n\n## Continuing Educ..."
+  },
+  {
+    "name": "Anaphylaxis",
+    "path": "Anaphylaxis/Anaphylaxis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17514/ scraped_date: 2025-07-22 12:42:12 UTC\n\n# Anaphylaxis\n\nKevin McLendon; Britni T. Sternard.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKevin McLendon1; Britni T. Sternard2.\n\n#### Affiliations\n\n1 Merit Health Wesley\n\n2 Louisiana State University\n\nLast Update: January 26, 2023.\n\n## Continuing Education Activity\n\nAnaphylaxis is an acute, life-threa..."
+  },
+  {
+    "name": "Hyperventilation Syndrome",
+    "path": "Hyperventilation Syndrome/Hyperventilation Syndrome.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19771/ scraped_date: 2025-07-22 12:41:26 UTC\n\n# Abdominal Compartment Syndrome\n\nPatrycja Popowicz; Richard K. Newman; Elvita Dominique.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPatrycja Popowicz1; Richard K. Newman2; Elvita Dominique3.\n\n#### Affiliations\n\n1 East Carolina University Health\n\n2 UC Davis Medical Center\n\n3 Wyckoff Heights Medical Center..."
+  },
+  {
+    "name": "Delirium",
+    "path": "Delirium/Delirium.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20325/ scraped_date: 2025-07-22 12:46:11 UTC\n\n# Delirium\n\nMar\u00eda de Lourdes Ram\u00edrez Echeverr\u00eda; Caroline Schoo; Manju Paul.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMar\u00eda de Lourdes Ram\u00edrez Echeverr\u00eda1; Caroline Schoo2; Manju Paul3.\n\n#### Affiliations\n\n1 Universidad de Guadalajara\n\n2 VOLUNTEERS OF AMERICA PACE\n\n3 SUNY Upstate Medical University\n\nLas..."
+  },
+  {
+    "name": "Bronchoscopy",
+    "path": "Bronchoscopy with BAL/Bronchoscopy.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18657/ scraped_date: 2025-07-22 12:55:17 UTC\n\n# Bronchoscopy\n\nNaser Mahmoud; Rishik Vashisht; Devang K. Sanghavi; Satish Kalanjeri.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNaser Mahmoud1; Rishik Vashisht; Devang K. Sanghavi2; Satish Kalanjeri3.\n\n#### Affiliations\n\n1 Louisiana State University/Shreveport\n\n2 Mayo Clinic\n\n3 Louisiana State University..."
+  },
+  {
+    "name": "Syncope",
+    "path": "Syncope/Syncope.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-38171/ scraped_date: 2025-07-22 12:37:35 UTC\n\n# Cardiac Syncope\n\nEsther M. Mizrachi; Kranthi K. Sitammagari.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEsther M. Mizrachi1; Kranthi K. Sitammagari2.\n\n#### Affiliations\n\n1 Northwell\n\n2 Methodist Un, Campbell Un School of OM\n\nLast Update: April 10, 2023.\n\n## Continuing Education Activity\n\nSyncope, a sudd..."
+  },
+  {
+    "name": "Ovarian Torsion",
+    "path": "Ovarian Torsion/Ovarian Torsion.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-95361/ scraped_date: 2025-07-22 12:48:47 UTC\n\n# Ovarian Torsion\n\nShelby L. Baron; Josephin K. Mathai.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nShelby L. Baron1; Josephin K. Mathai2.\n\n#### Affiliations\n\n1 Palm Beach Consortium\n\n2 PBCGME/St.Lucie Medical Center\n\nLast Update: July 17, 2023.\n\n## Continuing Education Activity\n\nOvarian torsion is caused ..."
+  },
+  {
+    "name": "Acute Bronchitis",
+    "path": "Bronchitis/Acute Bronchitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18645/ scraped_date: 2025-07-22 12:39:57 UTC\n\n# Acute Bronchitis\n\nAnumeha Singh; Akshay Avula; Elise Zahn.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAnumeha Singh; Akshay Avula; Elise Zahn1.\n\n#### Affiliations\n\n1 University of Florida\n\nLast Update: March 9, 2024.\n\n## Continuing Education Activity\n\nAcute bronchitis, characterized by inflammation in t..."
+  },
+  {
+    "name": "Bronchitis",
+    "path": "Bronchitis/Bronchitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18645/ scraped_date: 2025-07-22 12:39:51 UTC\n\n# Acute Bronchitis\n\nAnumeha Singh; Akshay Avula; Elise Zahn.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAnumeha Singh; Akshay Avula; Elise Zahn1.\n\n#### Affiliations\n\n1 University of Florida\n\nLast Update: March 9, 2024.\n\n## Continuing Education Activity\n\nAcute bronchitis, characterized by inflammation in t..."
+  },
+  {
+    "name": "Status Epilepticus",
+    "path": "Seizures_Status Epilepticus/Status Epilepticus.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-64969/ scraped_date: 2025-07-22 12:43:24 UTC\n\n# Electrical Status Epilepticus in Sleep\n\nDebopam Samanta; Yasir Al Khalili.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDebopam Samanta1; Yasir Al Khalili2.\n\n#### Affiliations\n\n1 University of Arkansas for Medical Sciences\n\n2 Virginia Commonwealth University\n\nLast Update: September 2, 2024.\n\n## Continuing..."
+  },
+  {
+    "name": "New Onset Refractory Status Epilepticus",
+    "path": "Seizures_Status Epilepticus/New Onset Refractory Status Epilepticus.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-129235/ scraped_date: 2025-07-22 12:43:31 UTC\n\n# New Onset Refractory Status Epilepticus\n\nKunal Bhatia; Orlando De Jesus.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKunal Bhatia1; Orlando De Jesus2.\n\n#### Affiliations\n\n1 University of Mississippi Medical Center\n\n2 University of Puerto Rico, Medical Sciences Campus, Neurosurgery Section\n\nLast Update: ..."
+  },
+  {
+    "name": "Febrile Seizure",
+    "path": "Seizures_Status Epilepticus/Febrile Seizure.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21653/ scraped_date: 2025-07-22 12:43:42 UTC\n\n# Febrile Seizure\n\nKathryn L. Xixis; Debopam Samanta; Travis Smith; Michael Keenaghan.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKathryn L. Xixis1; Debopam Samanta2; Travis Smith3; Michael Keenaghan4.\n\n#### Affiliations\n\n1 East Tennessee State University\n\n2 University of Arkansas for Medical Sciences\n\n3 ..."
+  },
+  {
+    "name": "Absence Seizure",
+    "path": "Seizures_Status Epilepticus/Absence Seizure.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28842/ scraped_date: 2025-07-22 12:43:37 UTC\n\n# Absence Seizure\n\nAna C. Albuja; Eseosa T. Ighodaro; Gulam Qutubuddin Khan.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAna C. Albuja; Eseosa T. Ighodaro1; Gulam Qutubuddin Khan2.\n\n#### Affiliations\n\n1 Emory University Hospital\n\n2 University of Kentucky\n\nLast Update: April 20, 2024.\n\n## Continuing Educati..."
+  },
+  {
+    "name": "Pulmonary Hypertension",
+    "path": "Pulmonary Hypertension/Pulmonary Hypertension.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28035/ scraped_date: 2025-07-22 12:40:02 UTC\n\n# Altitude-Induced Pulmonary Hypertension\n\nNicolas A. Ulloa; Jessica Cook.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNicolas A. Ulloa1; Jessica Cook2.\n\n#### Affiliations\n\n1 Aventura Hospital and Medical Center\n\n2 Aventura Hospital and Medical Center\n\nLast Update: January 30, 2023.\n\n## Continuing Educatio..."
+  },
+  {
+    "name": "Cardiac Contusion",
+    "path": "Cardiac Contusion/Cardiac Contusion.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26956/ scraped_date: 2025-07-22 12:46:48 UTC\n\n# Acute Cardiac Tamponade\n\nNitish K. Sharma; James R. Waymack.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNitish K. Sharma1; James R. Waymack2.\n\n#### Affiliations\n\n1 Saint Vincent Hospital, Worcester\n\n2 Southern Illinois University\n\nLast Update: July 31, 2023.\n\n## Continuing Education Activity\n\nCardiac ta..."
+  },
+  {
+    "name": "Endocarditis",
+    "path": "Endocarditis/Endocarditis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17751/ scraped_date: 2025-07-22 12:36:37 UTC\n\n# Aortic Valve Endocarditis\n\nNauman Khalid; Evan Shlofmitz; Sarah A. Ahmad.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNauman Khalid1; Evan Shlofmitz2; Sarah A. Ahmad3.\n\n#### Affiliations\n\n1 MedStar Washington Hospital Center\n\n2 MedStar Washington/Georgetown University\n\n3 Saint Francis Medical Group\n\nLast..."
+  },
+  {
+    "name": "Infective Endocarditis",
+    "path": "Endocarditis/Infective Endocarditis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21086/ scraped_date: 2025-07-22 12:36:42 UTC\n\n# Endocarditis\n\nAditi Gupta; Magda D. Mendez.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAditi Gupta1; Magda D. Mendez2.\n\n#### Affiliations\n\n1 Lincoln Medical Center\n\n2 Lincoln Medical Center/Weil Cornell\n\nLast Update: July 17, 2023.\n\n## Continuing Education Activity\n\nInfective endocarditis is a substanti..."
+  },
+  {
+    "name": "Computed Tomography Angiography",
+    "path": "CT Angiogram/Computed Tomography Angiography.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17570/ scraped_date: 2025-07-22 12:53:50 UTC\n\n# Angiography\n\nDemian J. Omeh; Evan Shlofmitz.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDemian J. Omeh1; Evan Shlofmitz2.\n\n#### Affiliations\n\n1 Nassau University Medical Center\n\n2 MedStar Washington/Georgetown University\n\nLast Update: August 7, 2023.\n\n## Continuing Education Activity\n\nAngiography is per..."
+  },
+  {
+    "name": "CT Angiography of the Head and Neck",
+    "path": "CT Angiogram/CT Angiography of the Head and Neck.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17570/ scraped_date: 2025-07-22 12:53:57 UTC\n\n# Angiography\n\nDemian J. Omeh; Evan Shlofmitz.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDemian J. Omeh1; Evan Shlofmitz2.\n\n#### Affiliations\n\n1 Nassau University Medical Center\n\n2 MedStar Washington/Georgetown University\n\nLast Update: August 7, 2023.\n\n## Continuing Education Activity\n\nAngiography is per..."
+  },
+  {
+    "name": "Central Venous Pressure",
+    "path": "Central Venous Pressure/Central Venous Pressure.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19150/ scraped_date: 2025-07-22 12:53:05 UTC\n\n# Physiology, Central Venous Pressure\n\nParth Shah; Martine A. Louis.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nParth Shah1; Martine A. Louis2.\n\n#### Affiliations\n\n1 Northwell Health\n\n2 Flushing Hospital Medical Center\n\nLast Update: July 10, 2023.\n\n## Introduction\n\nCentral venous pressure, which is a meas..."
+  },
+  {
+    "name": "Cardiac Catheterization",
+    "path": "Cardiac Catheterization/Cardiac Catheterization.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-42055/ scraped_date: 2025-07-22 12:52:59 UTC\n\n# Cardiac Catheterization Risks and Complications\n\nYugandhar R. Manda; Krishna M. Baradhi.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nYugandhar R. Manda1; Krishna M. Baradhi2.\n\n#### Affiliations\n\n1 Baylor College of Medicine\n\n2 University of Oklahoma\n\nLast Update: June 5, 2023.\n\n## Continuing Education Ac..."
+  },
+  {
+    "name": "Acalculous Cholecystitis",
+    "path": "Acute Cholecystitis/Acalculous Cholecystitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17050/ scraped_date: 2025-07-22 12:48:16 UTC\n\n# Acalculous Cholecystitis\n\nMark W. Jones; Gregory Santos; Parth J. Patel.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMark W. Jones1; Gregory Santos2; Parth J. Patel3.\n\n#### Affiliations\n\n1 McLaren Greater Lansing, MSUCOM\n\n2 Michigan State University\n\n3 Northwell Health/Donald and Barbara Zucker School of..."
+  },
+  {
+    "name": "Acute Cholecystitis",
+    "path": "Acute Cholecystitis/Acute Cholecystitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19448/ scraped_date: 2025-07-22 12:48:11 UTC\n\n# Acute Cholecystitis\n\nMark W. Jones; Rafaella Genova; Maria C. O'Rourke.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMark W. Jones1; Rafaella Genova2; Maria C. O'Rourke3.\n\n#### Affiliations\n\n1 McLaren Greater Lansing, MSUCOM\n\n2 Univ. Tennessee- St Thomas West\n\n3 Dignity Health - STMC - Stockton, CA\n\nLast ..."
+  },
+  {
+    "name": "Acute Kidney Injury",
+    "path": "Acute Kidney Injury/Acute Kidney Injury.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17169/ scraped_date: 2025-07-22 12:42:18 UTC\n\n# Acute Kidney Injury\n\nAbhinav Goyal; Parnaz Daneshpajouhnejad; Muhammad F. Hashmi; Khalid Bashir.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAbhinav Goyal1; Parnaz Daneshpajouhnejad2; Muhammad F. Hashmi3; Khalid Bashir4.\n\n#### Affiliations\n\n1 Einstein Medical Center\n\n2 Johns Hopkins University School of ..."
+  },
+  {
+    "name": "Perioperative Acute Kidney Injury",
+    "path": "Acute Kidney Injury/Perioperative Acute Kidney Injury.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17169/ scraped_date: 2025-07-22 12:42:24 UTC\n\n# Acute Kidney Injury\n\nAbhinav Goyal; Parnaz Daneshpajouhnejad; Muhammad F. Hashmi; Khalid Bashir.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAbhinav Goyal1; Parnaz Daneshpajouhnejad2; Muhammad F. Hashmi3; Khalid Bashir4.\n\n#### Affiliations\n\n1 Einstein Medical Center\n\n2 Johns Hopkins University School of ..."
+  },
+  {
+    "name": "Large Bowel Obstruction",
+    "path": "Bowel Obstruction/Large Bowel Obstruction.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26080/ scraped_date: 2025-07-22 12:47:59 UTC\n\n# Large Bowel Obstruction\n\nBettina Lieske; Mia Marietta; Marcelle Meseeha.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nBettina Lieske1; Mia Marietta2; Marcelle Meseeha.\n\n#### Affiliations\n\n1 National University Hospital Singapore\n\n2 University of Colorado Health Sciences\n\nLast Update: November 9, 2024.\n\n##..."
+  },
+  {
+    "name": "Small Bowel Obstruction",
+    "path": "Bowel Obstruction/Small Bowel Obstruction.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26081/ scraped_date: 2025-07-22 12:47:53 UTC\n\n# Small Bowel Obstruction\n\nMichael A. Schick; Sarang Kashyap; Sara A. Collier; Marcelle Meseeha.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMichael A. Schick1; Sarang Kashyap2; Sara A. Collier3; Marcelle Meseeha.\n\n#### Affiliations\n\n1 UC Davis Medical Center\n\n2 Beckley Appalachian Regional Healthcare Hosp..."
+  },
+  {
+    "name": "Sudden Cardiac Arrest",
+    "path": "Cardiac Arrest/Sudden Cardiac Arrest.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18878/ scraped_date: 2025-07-22 12:36:15 UTC\n\n# Cardiac Arrest\n\nKevin Patel; John E. Hipskind.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKevin Patel1; John E. Hipskind2.\n\n#### Affiliations\n\n1 Western Michigan University\n\n2 Kaweah Health\n\nLast Update: April 7, 2023.\n\n## Continuing Education Activity\n\nAs defined by the American Heart Association and t..."
+  },
+  {
+    "name": "Cardiac Arrest",
+    "path": "Cardiac Arrest/Cardiac Arrest.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18878/ scraped_date: 2025-07-22 12:36:10 UTC\n\n# Cardiac Arrest\n\nKevin Patel; John E. Hipskind.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKevin Patel1; John E. Hipskind2.\n\n#### Affiliations\n\n1 Western Michigan University\n\n2 Kaweah Health\n\nLast Update: April 7, 2023.\n\n## Continuing Education Activity\n\nAs defined by the American Heart Association and t..."
+  },
+  {
+    "name": "Ultrasound Adult Echocardiography Assessment, Protocols, and Interpretation",
+    "path": "Echocardiogram/Ultrasound Adult Echocardiography Assessment, Protocols, and Interpretation.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-129469/ scraped_date: 2025-07-22 12:53:16 UTC\n\n# Ultrasound Adult Echocardiography Assessment, Protocols, and Interpretation\n\nGhufran Adnan; Muhammad Nasir Rahman.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nGhufran Adnan1; Muhammad Nasir Rahman2.\n\n#### Affiliations\n\n1 Aga Khan University Hospital\n\n2 Aga Khan University Hospital\n\nLast Update: March 13..."
+  },
+  {
+    "name": "Echocardiogram",
+    "path": "Echocardiogram/Echocardiogram.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20863/ scraped_date: 2025-07-22 12:53:11 UTC\n\n# Echocardiogram\n\nSilvan Omerovic; Ashika Jain.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nSilvan Omerovic1; Ashika Jain2.\n\n#### Affiliations\n\n1 McLaren Greater Lansing\n\n2 New York University Langone Health\n\nLast Update: July 24, 2023.\n\n## Continuing Education Activity\n\nCardiac echocardiography is a safe ..."
+  },
+  {
+    "name": "Transesophageal Echocardiogram",
+    "path": "Echocardiogram/Transesophageal Echocardiogram.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20863/ scraped_date: 2025-07-22 12:53:21 UTC\n\n# Echocardiogram\n\nSilvan Omerovic; Ashika Jain.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nSilvan Omerovic1; Ashika Jain2.\n\n#### Affiliations\n\n1 McLaren Greater Lansing\n\n2 New York University Langone Health\n\nLast Update: July 24, 2023.\n\n## Continuing Education Activity\n\nCardiac echocardiography is a safe ..."
+  },
+  {
+    "name": "Hypothermia",
+    "path": "Hypothermia_Hyperthermia/Hypothermia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23300/ scraped_date: 2025-07-22 12:44:40 UTC\n\n# Hypothermia\n\nHieu Duong; Gaurav Patel.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nHieu Duong; Gaurav Patel1.\n\n#### Affiliations\n\n1 Aventura Hospital and Medical Center\n\nLast Update: January 19, 2024.\n\n## Continuing Education Activity\n\nHypothermia occurs when the body dissipates more heat than it absorbs..."
+  },
+  {
+    "name": "Hyperthermia",
+    "path": "Hypothermia_Hyperthermia/Hyperthermia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19961/ scraped_date: 2025-07-22 12:44:46 UTC\n\n# Cooling Techniques for Hyperthermia\n\nDeena D. Wasserman; Julie A. Creech; Megan Healy.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDeena D. Wasserman1; Julie A. Creech2; Megan Healy.\n\n#### Affiliations\n\n1 Temple University Hospital\n\n2 Eglin AFB Hospital\n\nLast Update: October 17, 2022.\n\n## Continuing Educ..."
+  },
+  {
+    "name": "Pneumothorax",
+    "path": "Pneumothorax/Pneumothorax.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27372/ scraped_date: 2025-07-22 12:39:04 UTC\n\n# Acute Pneumothorax Evaluation and Treatment\n\nAbdulghani Sankari; Nagendra Gupta.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAbdulghani Sankari1; Nagendra Gupta2.\n\n#### Affiliations\n\n1 Wayne State University\n\n2 Texas Health Resources\n\nLast Update: February 15, 2025.\n\n## Continuing Education Activity\n\nPne..."
+  },
+  {
+    "name": "Spontaneous Pneumothorax",
+    "path": "Pneumothorax/Spontaneous Pneumothorax.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27370/ scraped_date: 2025-07-22 12:39:10 UTC\n\n# Pneumothorax\n\nCatherine L. McKnight; Bracken Burns.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nCatherine L. McKnight; Bracken Burns1.\n\n#### Affiliations\n\n1 East Tennessee State University (ETSU)\n\nLast Update: February 15, 2023.\n\n## Continuing Education Activity\n\nA pneumothorax is a collection of air out..."
+  },
+  {
+    "name": "Tension Pneumothorax",
+    "path": "Pneumothorax/Tension Pneumothorax.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27370/ scraped_date: 2025-07-22 12:39:15 UTC\n\n# Pneumothorax\n\nCatherine L. McKnight; Bracken Burns.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nCatherine L. McKnight; Bracken Burns1.\n\n#### Affiliations\n\n1 East Tennessee State University (ETSU)\n\nLast Update: February 15, 2023.\n\n## Continuing Education Activity\n\nA pneumothorax is a collection of air out..."
+  },
+  {
+    "name": "Urosepsis",
+    "path": "Sepsis_Septic Shock/Urosepsis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30873/ scraped_date: 2025-07-22 12:42:06 UTC\n\n# Urosepsis\n\nAvital Porat; Beenish S. Bhutta; Stuart Kesler.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAvital Porat1; Beenish S. Bhutta2; Stuart Kesler3.\n\n#### Affiliations\n\n1 University Of Connecticut\n\n2 Sheikh Zayed Hospital, Lahore\n\n3 Hartford Hospital\n\nLast Update: August 17, 2023.\n\n## Continuing Edu..."
+  },
+  {
+    "name": "Bacterial Sepsis",
+    "path": "Sepsis_Septic Shock/Bacterial Sepsis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28901/ scraped_date: 2025-07-22 12:41:56 UTC\n\n# Bacterial Sepsis\n\nBenjamin Bullock; Michael D. Benham.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nBenjamin Bullock1; Michael D. Benham2.\n\n#### Affiliations\n\n1 Baylor Scott & White\n\n2 Baylor Scott and White\n\nLast Update: May 21, 2023.\n\n## Continuing Education Activity\n\nBacterial sepsis is a life-threaten..."
+  },
+  {
+    "name": "Neonatal Sepsis",
+    "path": "Sepsis_Septic Shock/Neonatal Sepsis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-25678/ scraped_date: 2025-07-22 12:42:01 UTC\n\n# Neonatal Sepsis\n\nMeenakshi Singh; Mahdi Alsaleem; Cory P. Gray.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMeenakshi Singh1; Mahdi Alsaleem2; Cory P. Gray.\n\n#### Affiliations\n\n1 Penn State Milton S. Hershey Med. Center\n\n2 University of Kansas /Children's Mercy Hospital\n\nLast Update: September 29, 2022.\n..."
+  },
+  {
+    "name": "Septic Shock",
+    "path": "Sepsis_Septic Shock/Septic Shock.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28981/ scraped_date: 2025-07-22 12:41:49 UTC\n\n# Septic Shock\n\nSidharth Mahapatra; Alan C. Heffner.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nSidharth Mahapatra1; Alan C. Heffner.\n\n#### Affiliations\n\n1 University of Nebraska Medical Center\n\nLast Update: June 12, 2023.\n\n## Continuing Education Activity\n\nSepsis syndromes span a clinical continuum with ..."
+  },
+  {
+    "name": "Pediatric Asthma",
+    "path": "Asthma Exacerbation/Pediatric Asthma.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17920/ scraped_date: 2025-07-22 12:38:48 UTC\n\n# Asthma\n\nJennifer Goldin; Muhammad F. Hashmi; Mary E. Cataletto.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJennifer Goldin1; Muhammad F. Hashmi2; Mary E. Cataletto3.\n\n#### Affiliations\n\n1 Wright State University School of Medicine\n\n2 National Health Service\n\n3 NYU Winthrop University Hospital\n\nLast Upda..."
+  },
+  {
+    "name": "Status Asthmaticus",
+    "path": "Asthma Exacerbation/Status Asthmaticus.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17920/ scraped_date: 2025-07-22 12:38:42 UTC\n\n# Asthma\n\nJennifer Goldin; Muhammad F. Hashmi; Mary E. Cataletto.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJennifer Goldin1; Muhammad F. Hashmi2; Mary E. Cataletto3.\n\n#### Affiliations\n\n1 Wright State University School of Medicine\n\n2 National Health Service\n\n3 NYU Winthrop University Hospital\n\nLast Upda..."
+  },
+  {
+    "name": "Asthma",
+    "path": "Asthma Exacerbation/Asthma.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17922/ scraped_date: 2025-07-22 12:38:36 UTC\n\n# Allergic and Environmentally Induced Asthma\n\nRina Chabra; Mohit Gupta.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nRina Chabra1; Mohit Gupta2.\n\n#### Affiliations\n\n1 UPMC\n\n2 Cleveland Clinic Foundation\n\nLast Update: August 7, 2023.\n\n## Continuing Education Activity\n\nAsthma is a major cause of morbidity an..."
+  },
+  {
+    "name": "Acute Respiratory Distress Syndrome",
+    "path": "Acute Respiratory Distress Syndrome/Acute Respiratory Distress Syndrome.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17172/ scraped_date: 2025-07-22 12:38:31 UTC\n\n# Acute Respiratory Distress Syndrome\n\nMatthew Diamond; Hector L. Peniston; Devang K. Sanghavi; Sidharth Mahapatra.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMatthew Diamond1; Hector L. Peniston2; Devang K. Sanghavi3; Sidharth Mahapatra4.\n\n#### Affiliations\n\n1 Zucker School of Medicine at Hofstra/Northwe..."
+  },
+  {
+    "name": "Hypertrophic Cardiomyopathy",
+    "path": "Cardiomyopathy/Hypertrophic Cardiomyopathy.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-128201/ scraped_date: 2025-07-22 12:37:13 UTC\n\n# Catheter Management of Hypertrophic Cardiomyopathy\n\nRanjan Dahal; Tariq Siddiqui; Ghufran Adnan.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nRanjan Dahal1; Tariq Siddiqui; Ghufran Adnan2.\n\n#### Affiliations\n\n1 Texas Tech University Health Sciences Center, El Paso, TX\n\n2 Aga Khan University Hospital\n\nLas..."
+  },
+  {
+    "name": "Dilated Cardiomyopathy",
+    "path": "Cardiomyopathy/Dilated Cardiomyopathy.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18918/ scraped_date: 2025-07-22 12:37:07 UTC\n\n# Dilated Cardiomyopathy\n\nHadi Mahmaljy; Varun S. Yelamanchili; Mayank Singhal.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nHadi Mahmaljy1; Varun S. Yelamanchili2; Mayank Singhal3.\n\n#### Affiliations\n\n1 Southern Illinois University SOM\n\n2 Mclaren Hospital System\n\n3 Cape Fear Valley, Methodist University\n\nL..."
+  },
+  {
+    "name": "Cardiomyopathy",
+    "path": "Cardiomyopathy/Cardiomyopathy.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18916/ scraped_date: 2025-07-22 12:37:01 UTC\n\n# Alcoholic Cardiomyopathy\n\nAdnan Shaaban; Manesh Kumar Gangwani; Venkata Satish Pendela; Mohinder R. Vindhyal.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAdnan Shaaban1; Manesh Kumar Gangwani2; Venkata Satish Pendela3; Mohinder R. Vindhyal.\n\n#### Affiliations\n\n1 Lebanese University\n\n2 Mercy Hospital St. ..."
+  },
+  {
+    "name": "Lung Abscess",
+    "path": "Lung Abscess/Lung Abscess.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24485/ scraped_date: 2025-07-22 12:41:38 UTC\n\n# Lung Abscess\n\nBhanusivakumar R. Sabbula; Guhan Rammohan; Sanjeev Sharma; Jagadish Akella.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nBhanusivakumar R. Sabbula1; Guhan Rammohan2; Sanjeev Sharma; Jagadish Akella.\n\n#### Affiliations\n\n1 Nassau University Medical Center\n\n2 St Luke's University Health Network..."
+  },
+  {
+    "name": "Rhabdomyolysis",
+    "path": "Rhabdomyolysis/Rhabdomyolysis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28509/ scraped_date: 2025-07-22 12:45:42 UTC\n\n# Rhabdomyolysis\n\nMichael Stanley; Venu Chippa; Rotimi Adigun.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMichael Stanley1; Venu Chippa2; Rotimi Adigun3.\n\n#### Affiliations\n\n1 Kaweah Delta Hospital\n\n2 Indiana university\n\n3 Touro University College of Osteopathic Medicine\n\nLast Update: December 11, 2024.\n\n..."
+  },
+  {
+    "name": "Eclampsia",
+    "path": "Eclampsia/Eclampsia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27632/ scraped_date: 2025-07-22 12:49:03 UTC\n\n# Eclampsia\n\nMackenzie Magley; Melissa R. Hinson.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMackenzie Magley1; Melissa R. Hinson2.\n\n#### Affiliations\n\n1 Conemaugh Memorial Hospital\n\n2 Conemaugh Memorial\n\nLast Update: October 6, 2024.\n\n## Continuing Education Activity\n\nEclampsia is a life-threatening comp..."
+  },
+  {
+    "name": "Adult Diabetic Ketoacidosis",
+    "path": "Diabetic Ketoacidosis/Adult Diabetic Ketoacidosis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-74978/ scraped_date: 2025-07-22 12:42:30 UTC\n\n# Adult Diabetic Ketoacidosis\n\nJenna M. Lizzo; Amandeep Goyal; Vikas Gupta.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJenna M. Lizzo1; Amandeep Goyal2; Vikas Gupta3.\n\n#### Affiliations\n\n1 Washington University\n\n2 University of Kansas Medical Center\n\n3 Wellness Psychiatry P.C\n\nLast Update: July 10, 2023.\n..."
+  },
+  {
+    "name": "Euglycemic Diabetic Ketoacidosis",
+    "path": "Diabetic Ketoacidosis/Euglycemic Diabetic Ketoacidosis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-61065/ scraped_date: 2025-07-22 12:42:42 UTC\n\n# Euglycemic Diabetic Ketoacidosis\n\nMichael C. Plewa; Michael Bryant; Robin King-Thiele.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMichael C. Plewa; Michael Bryant1; Robin King-Thiele2.\n\n#### Affiliations\n\n1 Mercy St. Vincent Medical Center\n\n2 Campbell\n\nLast Update: January 29, 2023.\n\n## Continuing Educa..."
+  },
+  {
+    "name": "Pediatric Diabetic Ketoacidosis",
+    "path": "Diabetic Ketoacidosis/Pediatric Diabetic Ketoacidosis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23877/ scraped_date: 2025-07-22 12:42:35 UTC\n\n# Ketoacidosis\n\nPranita Ghimire; Amit S. Dhamoon.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPranita Ghimire; Amit S. Dhamoon1.\n\n#### Affiliations\n\n1 SUNY Upstate Medical University\n\nLast Update: August 8, 2023.\n\n## Continuing Education Activity\n\nKetoacidosis is a metabolic state associated with pathologi..."
+  },
+  {
+    "name": "Fluoroscopy Lumbar Puncture Assessment, Protocols, and Interpretation",
+    "path": "Lumbar Puncture_CSF Analysis/Fluoroscopy Lumbar Puncture Assessment, Protocols, and Interpretation.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-131416/ scraped_date: 2025-07-22 12:55:12 UTC\n\n# Fluoroscopy Lumbar Puncture Assessment, Protocols, and Interpretation\n\nAjit Karambelkar; Orlando De Jesus.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAjit Karambelkar1; Orlando De Jesus2.\n\n#### Affiliations\n\n1 Thomas Jefferson University and Hospital\n\n2 University of Puerto Rico, Medical Sciences Campu..."
+  },
+  {
+    "name": "Lumbar Puncture",
+    "path": "Lumbar Puncture_CSF Analysis/Lumbar Puncture.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-131416/ scraped_date: 2025-07-22 12:55:06 UTC\n\n# Fluoroscopy Lumbar Puncture Assessment, Protocols, and Interpretation\n\nAjit Karambelkar; Orlando De Jesus.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAjit Karambelkar1; Orlando De Jesus2.\n\n#### Affiliations\n\n1 Thomas Jefferson University and Hospital\n\n2 University of Puerto Rico, Medical Sciences Campu..."
+  },
+  {
+    "name": "Pericarditis",
+    "path": "Pericarditis/Pericarditis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19916/ scraped_date: 2025-07-22 12:36:21 UTC\n\n# Constrictive Pericarditis\n\nNiraj K. Yadav; Momin S. Siddique.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNiraj K. Yadav1; Momin S. Siddique2.\n\n#### Affiliations\n\n1 Creighton University Medical Center\n\n2 SIU\n\nLast Update: February 13, 2023.\n\n## Continuing Education Activity\n\nThe pericardium is the fibroe..."
+  },
+  {
+    "name": "Acute Pericarditis",
+    "path": "Pericarditis/Acute Pericarditis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26955/ scraped_date: 2025-07-22 12:36:26 UTC\n\n# Pericarditis\n\nEhab Dababneh; Momin S. Siddique.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEhab Dababneh1; Momin S. Siddique2.\n\n#### Affiliations\n\n1 Southern Illinois University\n\n2 SIU\n\nLast Update: August 8, 2023.\n\n## Continuing Education Activity\n\nPericarditis, the most common pathological condition a..."
+  },
+  {
+    "name": "Ultrasound Focused Assessment With Sonography in Trauma",
+    "path": "Ultrasound FAST exam/Ultrasound Focused Assessment With Sonography in Trauma.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17923/ scraped_date: 2025-07-22 12:54:32 UTC\n\n# Anesthesia Management in Patients with Asthma\n\nJoseph D. Kamassai; Titilopemi Aina; Joseph Maxwell Hendrix.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJoseph D. Kamassai1; Titilopemi Aina2; Joseph Maxwell Hendrix3.\n\n#### Affiliations\n\n1 R. Adams Cowley Shock Trauma Center\n\n2 Baylor College of Medicine/T..."
+  },
+  {
+    "name": "Pulmonary Fibrosis",
+    "path": "Pulmonary Fibrosis/Pulmonary Fibrosis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28027/ scraped_date: 2025-07-22 12:40:51 UTC\n\n# Idiopathic Pulmonary Fibrosis\n\nAbdulghani Sankari; Kyle Chapman; Saad Ullah.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAbdulghani Sankari1; Kyle Chapman2; Saad Ullah.\n\n#### Affiliations\n\n1 Wayne State University\n\n2 West Virginia University\n\nLast Update: April 23, 2024.\n\n## Continuing Education Activity..."
+  },
+  {
+    "name": "Idiopathic Pulmonary Fibrosis",
+    "path": "Pulmonary Fibrosis/Idiopathic Pulmonary Fibrosis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28027/ scraped_date: 2025-07-22 12:41:00 UTC\n\n# Idiopathic Pulmonary Fibrosis\n\nAbdulghani Sankari; Kyle Chapman; Saad Ullah.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAbdulghani Sankari1; Kyle Chapman2; Saad Ullah.\n\n#### Affiliations\n\n1 Wayne State University\n\n2 West Virginia University\n\nLast Update: April 23, 2024.\n\n## Continuing Education Activity..."
+  },
+  {
+    "name": "Aortic Dissection",
+    "path": "Aortic Dissection/Aortic Dissection.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20603/ scraped_date: 2025-07-22 12:35:43 UTC\n\n# Aortic Dissection\n\nDavid Levy; Sanjeev Sharma; Fabiola Farci; Jacqueline K. Le.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDavid Levy1; Sanjeev Sharma; Fabiola Farci2; Jacqueline K. Le3.\n\n#### Affiliations\n\n1 Waikato Hospital\n\n2 Pisa University\n\n3 Desert Regional Medical Center\n\nLast Update: October 6, ..."
+  },
+  {
+    "name": "Hemothorax",
+    "path": "Hemothorax/Hemothorax.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22763/ scraped_date: 2025-07-22 12:40:31 UTC\n\n# Hemothorax\n\nLaura Pumarejo Gomez; Vu H. Tran.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nLaura Pumarejo Gomez; Vu H. Tran1.\n\n#### Affiliations\n\n1 HCA Florida Aventura Hospital\n\nLast Update: August 8, 2023.\n\n## Continuing Education Activity\n\nHemothorax is a collection of blood in the space between the vi..."
+  },
+  {
+    "name": "Natriuretic Peptide B Type Test",
+    "path": "B-type Natriuretic Peptide (BNP)/Natriuretic Peptide B Type Test.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-84618/ scraped_date: 2025-07-22 12:49:57 UTC\n\n# Natriuretic Peptide B Type Test\n\nMadeline L. Novack; Muhammad Zubair.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMadeline L. Novack; Muhammad Zubair1.\n\n#### Affiliations\n\n1 Pakistan Kidney & Liver Institute and Research Centre - PKLI\n\nLast Update: April 23, 2023.\n\n## Introduction\n\nNatriuretic peptides (..."
+  },
+  {
+    "name": "Physiology, Thyroid Stimulating Hormone",
+    "path": "Thyroid Stimulating Hormone (TSH)/Physiology, Thyroid Stimulating Hormone.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30149/ scraped_date: 2025-07-22 12:51:22 UTC\n\n# Physiology, Thyroid\n\nYasaman Pirahanchi; Muhammad Ali Tariq; Ishwarlal Jialal.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nYasaman Pirahanchi1; Muhammad Ali Tariq2; Ishwarlal Jialal3.\n\n#### Affiliations\n\n1 California Northstate College Medicine\n\n2 Tower Health\n\n3 VA MEDICAL CENTER, MATHER , CA\n\nLast Upda..."
+  },
+  {
+    "name": "Mitral Regurgitation",
+    "path": "Mitral Regurgitation/Mitral Regurgitation.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-179/ scraped_date: 2025-07-22 12:36:55 UTC\n\n# Catheter Management of Mitral Regurgitation\n\nVaibhav Bora; Kristen N. Brown; Michael J. Lim.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nVaibhav Bora1; Kristen N. Brown2; Michael J. Lim3.\n\n#### Affiliations\n\n1 Augusta University- Medical College of Georgia\n\n2 Augusta University\n\n3 Saint Louis University\n\nL..."
+  },
+  {
+    "name": "Interpretation of Blood Clotting Studies and Values (PT, PTT, aPTT, INR, Anti-Factor Xa, D-Dimer)",
+    "path": "Coagulation Studies (PT_PTT_INR)/Interpretation of Blood Clotting Studies and Values (PT, PTT, aPTT, INR, Anti-Factor Xa, D-Dimer).md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-161112/ scraped_date: 2025-07-22 12:51:03 UTC\n\n# Interpretation of Blood Clotting Studies and Values (PT, PTT, aPTT, INR, Anti-Factor Xa, D-Dimer)\n\nSyed Rafay H. Zaidi; Preeti Rout.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nSyed Rafay H. Zaidi1; Preeti Rout2.\n\n#### Affiliations\n\n1 Parkview Medical Center\n\n2 Wilson Case Western University\n\nLast Updat..."
+  },
+  {
+    "name": "Anticoagulation",
+    "path": "Coagulation Studies (PT_PTT_INR)/Anticoagulation.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17685/ scraped_date: 2025-07-22 12:51:09 UTC\n\n# Anticoagulation\n\nChinazor o. Umerah; Ifeanyi I. Momodu.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nChinazor o. Umerah1; Ifeanyi I. Momodu2.\n\n#### Affiliations\n\n1 Campbell University\n\n2 Campbell University School of OM\n\nLast Update: July 17, 2023.\n\n## Continuing Education Activity\n\nThis activity reviews ..."
+  },
+  {
+    "name": "Disseminated Intravascular Coagulation",
+    "path": "Coagulation Studies (PT_PTT_INR)/Disseminated Intravascular Coagulation.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20610/ scraped_date: 2025-07-22 12:51:15 UTC\n\n# Disseminated Intravascular Coagulation\n\nRyan A. Costello; Stephen W. Leslie; Sara M. Nehring.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nRyan A. Costello; Stephen W. Leslie1; Sara M. Nehring2.\n\n#### Affiliations\n\n1 Creighton University School of Medicine\n\n2 St Bernards Medical Center\n\nLast Update: May 1..."
+  },
+  {
+    "name": "Testicular Torsion",
+    "path": "Testicular Torsion/Testicular Torsion.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-29993/ scraped_date: 2025-07-22 12:48:41 UTC\n\n# Testicular Torsion\n\nMichael A. Schick; Britni T. Sternard.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMichael A. Schick1; Britni T. Sternard2.\n\n#### Affiliations\n\n1 UC Davis Medical Center\n\n2 Louisiana State University\n\nLast Update: June 12, 2023.\n\n## Continuing Education Activity\n\nScrotal complaints ar..."
+  },
+  {
+    "name": "24-Hour Urinalysis",
+    "path": "Urinalysis/24-Hour Urinalysis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30861/ scraped_date: 2025-07-22 12:50:41 UTC\n\n# 24-Hour Urinalysis\n\nChristopher J. Corder; Banshi M. Rathi; Sairah Sharif; Stephen W. Leslie.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nChristopher J. Corder1; Banshi M. Rathi2; Sairah Sharif3; Stephen W. Leslie4.\n\n#### Affiliations\n\n1 University of Nebraska Medical Center\n\n2 Kingwood Medical Center, K..."
+  },
+  {
+    "name": "Urinalysis",
+    "path": "Urinalysis/Urinalysis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30861/ scraped_date: 2025-07-22 12:50:36 UTC\n\n# 24-Hour Urinalysis\n\nChristopher J. Corder; Banshi M. Rathi; Sairah Sharif; Stephen W. Leslie.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nChristopher J. Corder1; Banshi M. Rathi2; Sairah Sharif3; Stephen W. Leslie4.\n\n#### Affiliations\n\n1 University of Nebraska Medical Center\n\n2 Kingwood Medical Center, K..."
+  },
+  {
+    "name": "Atrial Fibrillation",
+    "path": "Atrial Fibrillation/Atrial Fibrillation.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17962/ scraped_date: 2025-07-22 12:35:13 UTC\n\n# Atrial Fibrillation\n\nZeid Nesheiwat; Amandeep Goyal; Mandar Jagtap.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nZeid Nesheiwat1; Amandeep Goyal2; Mandar Jagtap3.\n\n#### Affiliations\n\n1 The University of Toledo\n\n2 University of Kansas Medical Center\n\n3 Magnolia Regional Health Center\n\nLast Update: April 26..."
+  },
+  {
+    "name": "Paroxysmal Atrial Fibrillation",
+    "path": "Atrial Fibrillation/Paroxysmal Atrial Fibrillation.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17962/ scraped_date: 2025-07-22 12:35:19 UTC\n\n# Atrial Fibrillation\n\nZeid Nesheiwat; Amandeep Goyal; Mandar Jagtap.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nZeid Nesheiwat1; Amandeep Goyal2; Mandar Jagtap3.\n\n#### Affiliations\n\n1 The University of Toledo\n\n2 University of Kansas Medical Center\n\n3 Magnolia Regional Health Center\n\nLast Update: April 26..."
+  },
+  {
+    "name": "Ringer's Lactate",
+    "path": "Lactate/Ringer's Lactate.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28607/ scraped_date: 2025-07-22 12:50:19 UTC\n\n# Ringer's Lactate\n\nShashank Singh; Connor C. Kerndt; David Davis.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nShashank Singh1; Connor C. Kerndt2; David Davis3.\n\n#### Affiliations\n\n1 Louisiana State Un Health Science Center\n\n2 Spectrum Health/Michigan State University College of Human Medicine\n\n3 Orange Pa..."
+  },
+  {
+    "name": "Biochemistry, Lactate Dehydrogenase",
+    "path": "Lactate/Biochemistry, Lactate Dehydrogenase.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24001/ scraped_date: 2025-07-22 12:50:14 UTC\n\n# Biochemistry, Lactate Dehydrogenase\n\nAisha Farhana; Sarah L. Lappin.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAisha Farhana1; Sarah L. Lappin2.\n\n#### Affiliations\n\n1 College of Applied Medical Sciences, Jouf University, Saudi Arabia\n\n2 Upstate University Hospital\n\nLast Update: May 1, 2023.\n\n## Introdu..."
+  },
+  {
+    "name": "Respiratory Acidosis",
+    "path": "Respiratory Acidosis/Respiratory Acidosis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17096/ scraped_date: 2025-07-22 12:41:20 UTC\n\n# Respiratory Acidosis\n\nShivani Patel; Sandeep Sharma.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nShivani Patel1; Sandeep Sharma2.\n\n#### Affiliations\n\n1 NYITCOM\n\n2 Mery Fitzgerald Hospital\n\nLast Update: June 12, 2023.\n\n## Continuing Education Activity\n\nRespiratory acidosis typically occurs due to failure ..."
+  },
+  {
+    "name": "Sleep Apnea",
+    "path": "Sleep Apnea/Sleep Apnea.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-141286/ scraped_date: 2025-07-22 12:41:06 UTC\n\n# Central Sleep Apnea\n\nAbdul M. Rana; Abdulghani Sankari.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAbdul M. Rana1; Abdulghani Sankari2.\n\n#### Affiliations\n\n1 CMH Lahore Medical College, University of Health Sciences, Lahore, Pakistan\n\n2 Wayne State University\n\nLast Update: June 11, 2023.\n\n## Continuing..."
+  },
+  {
+    "name": "Obstructive Sleep Apnea",
+    "path": "Sleep Apnea/Obstructive Sleep Apnea.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26084/ scraped_date: 2025-07-22 12:41:13 UTC\n\n# Obstructive Sleep Apnea\n\nJennifer M. Slowik; Abdulghani Sankari; Jacob F. Collen.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJennifer M. Slowik1; Abdulghani Sankari2; Jacob F. Collen3.\n\n#### Affiliations\n\n1 Walter Reed National Military Medical Center\n\n2 Wayne State University\n\n3 Walter Reed National Mi..."
+  },
+  {
+    "name": "Abdominal Trauma",
+    "path": "Abdominal Trauma/Abdominal Trauma.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17020/ scraped_date: 2025-07-22 12:46:54 UTC\n\n# Blunt Abdominal Trauma\n\nMaria C. O'Rourke; Ryan Landis; Bracken Burns.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMaria C. O'Rourke1; Ryan Landis2; Bracken Burns3.\n\n#### Affiliations\n\n1 Dignity Health - STMC - Stockton, CA\n\n2 ETSU\n\n3 East Tennessee State University (ETSU)\n\nLast Update: July 24, 2023.\n\n#..."
+  },
+  {
+    "name": "Abdominal Gunshot Wounds",
+    "path": "Abdominal Trauma/Abdominal Gunshot Wounds.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22465/ scraped_date: 2025-07-22 12:47:01 UTC\n\n# Abdominal Gunshot Wounds\n\nJessica Forbes; Bracken Burns.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJessica Forbes1; Bracken Burns2.\n\n#### Affiliations\n\n1 Nova Southeastern College\n\n2 East Tennessee State University (ETSU)\n\nLast Update: July 20, 2023.\n\n## Continuing Education Activity\n\nAn abdominal guns..."
+  },
+  {
+    "name": "Acute Coronary Syndrome",
+    "path": "Acute Coronary Syndrome/Acute Coronary Syndrome.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20023/ scraped_date: 2025-07-22 12:34:36 UTC\n\n# Acute Coronary Syndrome\n\nAnumeha Singh; Abdulrahman S. Museedi; Shamai A. Grossman.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAnumeha Singh; Abdulrahman S. Museedi1; Shamai A. Grossman2.\n\n#### Affiliations\n\n1 University of Texas HSC\n\n2 HVD Med Sch\n\nLast Update: July 10, 2023.\n\n## Continuing Education A..."
+  },
+  {
+    "name": "Fat Embolism",
+    "path": "Embolism/Fat Embolism.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21632/ scraped_date: 2025-07-22 12:46:06 UTC\n\n# Fat Embolism\n\nAdebayo Adeyinka; Louisdon Pierre.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAdebayo Adeyinka1; Louisdon Pierre2.\n\n#### Affiliations\n\n1 The Brooklyn Hospital Center\n\n2 Ichan School of Medicine at Mount Sinai\n\nLast Update: October 31, 2022.\n\n## Continuing Education Activity\n\nFat embolism (..."
+  },
+  {
+    "name": "Embolism",
+    "path": "Embolism/Embolism.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-42576/ scraped_date: 2025-07-22 12:46:00 UTC\n\n# Acute Pulmonary Embolism\n\nVrinda Vyas; Abdulghani Sankari; Amandeep Goyal.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nVrinda Vyas1; Abdulghani Sankari2; Amandeep Goyal3.\n\n#### Affiliations\n\n1 SUNY Upstate Medical University\n\n2 Wayne State University\n\n3 University of Kansas Medical Center\n\nLast Update: D..."
+  },
+  {
+    "name": "Acute Respiratory Failure",
+    "path": "Respiratory Failure/Acute Respiratory Failure.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17142/ scraped_date: 2025-07-22 12:39:46 UTC\n\n# Acute Abdomen\n\nNancy L. Kopitnik; Sarang Kashyap; Elvita Dominique.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNancy L. Kopitnik1; Sarang Kashyap2; Elvita Dominique3.\n\n#### Affiliations\n\n1 West Virginia School of Osteopathic Medicine, Lewisburg, WV\n\n2 Beckley Appalachian Regional Healthcare Hospital\n\n3 ..."
+  },
+  {
+    "name": "Respiratory Failure",
+    "path": "Respiratory Failure/Respiratory Failure.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28416/ scraped_date: 2025-07-22 12:39:39 UTC\n\n# Respiratory Failure in Adults\n\nVincent S. Mirabile; Eman Shebl; Abdulghani Sankari; Bracken Burns.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nVincent S. Mirabile1; Eman Shebl2; Abdulghani Sankari3; Bracken Burns4.\n\n#### Affiliations\n\n1 Jefferson Washington Township Hospital\n\n2 Zagazig University Faculty..."
+  },
+  {
+    "name": "Encephalitis",
+    "path": "Encephalitis/Encephalitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17437/ scraped_date: 2025-07-22 12:44:08 UTC\n\n# Amebic Meningoencephalitis\n\nAngela Pana; Vini Vijayan; Arayamparambil C. Anilkumar.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAngela Pana1; Vini Vijayan2; Arayamparambil C. Anilkumar3.\n\n#### Affiliations\n\n1 Louisiana State University HSC\n\n2 Valley Children's Hospital\n\n3 SUNY Upstate Medical University\n..."
+  },
+  {
+    "name": "Toxicology Screening",
+    "path": "Toxicology Screen/Toxicology Screening.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-406/ scraped_date: 2025-07-22 12:51:51 UTC\n\n# Toxicology Screening\n\nPinaki Mukherji; Yusra Azhar; Sandeep Sharma.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPinaki Mukherji1; Yusra Azhar2; Sandeep Sharma3.\n\n#### Affiliations\n\n1 Long Island Jewish Medical Center\n\n2 Dow University of Health Sciences\n\n3 Mery Fitzgerald Hospital\n\nLast Update: August 7, 2..."
+  },
+  {
+    "name": "Supraventricular Tachycardia",
+    "path": "Arrhythmias (various)/Supraventricular Tachycardia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-155834/ scraped_date: 2025-07-22 12:37:23 UTC\n\n# Electrophysiology Lab Maneuvers to Differentiate Supraventricular Tachycardia\n\nAbdullah Sarkar; Maria S. Horenstein; Houman Khakpour.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAbdullah Sarkar1; Maria S. Horenstein2; Houman Khakpour3.\n\n#### Affiliations\n\n1 University of Miami\n\n2 CHOC (Children's Hospit..."
+  },
+  {
+    "name": "Ventricular Fibrillation",
+    "path": "Arrhythmias (various)/Ventricular Fibrillation.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-31086/ scraped_date: 2025-07-22 12:37:29 UTC\n\n# Ventricular Fibrillation\n\nDipesh Ludhwani; Amandeep Goyal; Mandar Jagtap.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDipesh Ludhwani1; Amandeep Goyal2; Mandar Jagtap3.\n\n#### Affiliations\n\n1 Rosalind Franklin University\n\n2 University of Kansas Medical Center\n\n3 Magnolia Regional Health Center\n\nLast Updat..."
+  },
+  {
+    "name": "Arrhythmias",
+    "path": "Arrhythmias (various)/Arrhythmias.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17827/ scraped_date: 2025-07-22 12:37:18 UTC\n\n# Arrhythmias\n\nDhaval S. Desai; Said Hajouli.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDhaval S. Desai; Said Hajouli1.\n\n#### Affiliations\n\n1 Logan Regional Medical Center\n\nLast Update: June 5, 2023.\n\n## Continuing Education Activity\n\nArrhythmia entails a broad spectrum of disorders of heart rate and rhy..."
+  },
+  {
+    "name": "Ultrasound Doppler",
+    "path": "Ultrasound Doppler (extremities)/Ultrasound Doppler.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-127284/ scraped_date: 2025-07-22 12:54:44 UTC\n\n# Arterial Doppler Imaging, ABI, and Plethysmography\n\nEthan Montemayor; Mohammed Ben Aziz.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEthan Montemayor1; Mohammed Ben Aziz2.\n\n#### Affiliations\n\n1 UTHSC/St. Thomas West\n\n2 ULB: Institut Jules Bordet (cancer research)\n\nLast Update: March 6, 2023.\n\n## Introdu..."
+  },
+  {
+    "name": "Deep Venous Thrombosis Ultrasound Evaluation",
+    "path": "Ultrasound Doppler (extremities)/Deep Venous Thrombosis Ultrasound Evaluation.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20298/ scraped_date: 2025-07-22 12:54:38 UTC\n\n# Deep Venous Thrombosis\n\nSheikh M. Waheed; Pujitha Kudaravalli; David T. Hotwagner.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nSheikh M. Waheed1; Pujitha Kudaravalli; David T. Hotwagner2.\n\n#### Affiliations\n\n1 Punjab Institute of Cardiology\n\n2 St Lucie Medical Center\n\nLast Update: January 19, 2023.\n\n## C..."
+  },
+  {
+    "name": "Penetrating Trauma",
+    "path": "Penetrating Trauma/Penetrating Trauma.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-149250/ scraped_date: 2025-07-22 12:47:32 UTC\n\n# Acute Acoustic Trauma\n\nVarduhi Ghazaryan; Andrew E. Sutton; Russell De Jong.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nVarduhi Ghazaryan1; Andrew E. Sutton2; Russell De Jong3.\n\n#### Affiliations\n\n1 Yerevan State Medical University\n\n2 University of Rochester School of Medicine and Dentistry\n\n3 Brooke A..."
+  },
+  {
+    "name": "Ultrafiltration in Acute Decompensated Heart Failure",
+    "path": "Heart Failure (Acute_Chronic)/Ultrafiltration in Acute Decompensated Heart Failure.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-39069/ scraped_date: 2025-07-22 12:35:01 UTC\n\n# Ultrafiltration in Acute Decompensated Heart Failure\n\nLuay Sarsam; Muhammad B. Malik; Khalid Bashir.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nLuay Sarsam1; Muhammad B. Malik; Khalid Bashir2.\n\n#### Affiliations\n\n1 Sharp Chula Vista Medical Center\n\n2 Creighton University School of Medicine\n\nLast Update:..."
+  },
+  {
+    "name": "Congestive Heart Failure and Pulmonary Edema",
+    "path": "Heart Failure (Acute_Chronic)/Congestive Heart Failure and Pulmonary Edema.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19880/ scraped_date: 2025-07-22 12:34:55 UTC\n\n# Congestive Heart Failure and Pulmonary Edema\n\nKevin C. King; Samuel Goldstein.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKevin C. King1; Samuel Goldstein2.\n\n#### Affiliations\n\n1 Muhlenberg Community Hospital Greenville\n\n2 Advocate Lutheran General Hospital\n\nLast Update: September 19, 2022.\n\n## Continui..."
+  },
+  {
+    "name": "Heart Failure (Congestive Heart Failure)",
+    "path": "Heart Failure (Acute_Chronic)/Heart Failure (Congestive Heart Failure).md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22661/ scraped_date: 2025-07-22 12:34:42 UTC\n\n# Heart Failure (Congestive Heart Failure)\n\nPirbhat Shams; Ahmad Malik; Lovely Chhabra.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPirbhat Shams; Ahmad Malik1; Lovely Chhabra2.\n\n#### Affiliations\n\n1 Apex Healthcare\n\n2 New York Medical College\n\nLast Update: February 26, 2025.\n\n## Continuing Education Activ..."
+  },
+  {
+    "name": "Heart Failure With Preserved Ejection Fraction (HFpEF)",
+    "path": "Heart Failure (Acute_Chronic)/Heart Failure With Preserved Ejection Fraction (HFpEF).md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-164817/ scraped_date: 2025-07-22 12:34:48 UTC\n\n# Heart Failure With Preserved Ejection Fraction (HFpEF)\n\nMaheswara Satya G. Golla; Pirbhat Shams.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMaheswara Satya G. Golla1; Pirbhat Shams.\n\n#### Affiliations\n\n1 West Virginia University\n\nLast Update: March 19, 2024.\n\n## Continuing Education Activity\n\nHeart fai..."
+  },
+  {
+    "name": "Interstitial Lung Disease",
+    "path": "Interstitial Lung Disease/Interstitial Lung Disease.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23648/ scraped_date: 2025-07-22 12:40:43 UTC\n\n# Interstitial Lung Disease\n\nMarsha H. Antoine; Mouna Mlika.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMarsha H. Antoine; Mouna Mlika1.\n\n#### Affiliations\n\n1 University of Medicine of Tunis\n\nLast Update: July 31, 2023.\n\n## Continuing Education Activity\n\nInterstitial lung disease (diffused parenchymal dis..."
+  },
+  {
+    "name": "Abdominal Aortic Aneurysm Rupture",
+    "path": "Ruptured AAA/Abdominal Aortic Aneurysm Rupture.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17011/ scraped_date: 2025-07-22 12:48:34 UTC\n\n# Abdominal Aortic Aneurysm\n\nPalma M. Shaw; John Loree; Alisha Oropallo.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPalma M. Shaw1; John Loree; Alisha Oropallo2.\n\n#### Affiliations\n\n1 Upstate Medical Center\n\n2 Zucker Hofstra Medical School\n\nLast Update: January 19, 2025.\n\n## Continuing Education Activity\n..."
+  },
+  {
+    "name": "Acute Myocardial Infarction",
+    "path": "Acute Myocardial Infarction (STEMI_NSTEMI)/Acute Myocardial Infarction.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17160/ scraped_date: 2025-07-22 12:34:03 UTC\n\n# Acute Myocardial Infarction\n\nOren J. Mechanic; Michael Gavin; Shamai A. Grossman.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nOren J. Mechanic1; Michael Gavin2; Shamai A. Grossman3.\n\n#### Affiliations\n\n1 Harvard Medical School/BIDMC\n\n2 Harvard Medical School\n\n3 HVD Med Sch\n\nLast Update: September 3, 2023..."
+  },
+  {
+    "name": "Acute ST-Segment Elevation Myocardial Infarction (STEMI)",
+    "path": "Acute Myocardial Infarction (STEMI_NSTEMI)/Acute ST-Segment Elevation Myocardial Infarction (STEMI).md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17173/ scraped_date: 2025-07-22 12:34:09 UTC\n\n# Acute ST-Segment Elevation Myocardial Infarction (STEMI)\n\nHina Akbar; Steven Mountfort.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nHina Akbar1; Steven Mountfort2.\n\n#### Affiliations\n\n1 University of Tennessee Health Sciences Center\n\n2 Aims Community College\n\nLast Update: October 6, 2024.\n\n## Continuing ..."
+  },
+  {
+    "name": "Non\u2013ST-Segment Elevation Myocardial Infarction",
+    "path": "Acute Myocardial Infarction (STEMI_NSTEMI)/Non\u2013ST-Segment Elevation Myocardial Infarction.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-25460/ scraped_date: 2025-07-22 12:34:14 UTC\n\n# Myocardial Infarction\n\nNiranjan Ojha; Amit S. Dhamoon.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNiranjan Ojha1; Amit S. Dhamoon2.\n\n#### Affiliations\n\n1 SUNY Upstate Medical University\n\n2 SUNY Upstate Medical University\n\nLast Update: August 8, 2023.\n\n## Continuing Education Activity\n\nMyocardial infarct..."
+  },
+  {
+    "name": "Anterior Myocardial Infarction",
+    "path": "Acute Myocardial Infarction (STEMI_NSTEMI)/Anterior Myocardial Infarction.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-695/ scraped_date: 2025-07-22 12:34:20 UTC\n\n# Anterior Myocardial Infarction\n\nKamna Bansal; Meghana Gore; Muriam Afzal; Pirbhat Shams; Poorna Nalabothu.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKamna Bansal1; Meghana Gore2; Muriam Afzal3; Pirbhat Shams; Poorna Nalabothu4.\n\n#### Affiliations\n\n1 Baylor College of Medicine\n\n2 Memorial Herman Hospital ..."
+  },
+  {
+    "name": "Inferior Myocardial Infarction",
+    "path": "Acute Myocardial Infarction (STEMI_NSTEMI)/Inferior Myocardial Infarction.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23500/ scraped_date: 2025-07-22 12:34:25 UTC\n\n# Inferior Myocardial Infarction\n\nMatthew J. Warner; Vijai S. Tivakaran.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMatthew J. Warner1; Vijai S. Tivakaran2.\n\n#### Affiliations\n\n1 Rowan Univ SOM, Inspira Health Network\n\n2 Kettering Health Network\n\nLast Update: February 12, 2023.\n\n## Continuing Education Ac..."
+  },
+  {
+    "name": "Creatine Phosphokinase",
+    "path": "Creatine Phosphokinase/Creatine Phosphokinase.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20105/ scraped_date: 2025-07-22 12:51:39 UTC\n\n# Creatine Phosphokinase\n\nRavinder S. Aujla; Muhammad Zubair; Roshan Patel.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nRavinder S. Aujla1; Muhammad Zubair2; Roshan Patel3.\n\n#### Affiliations\n\n1 Kasturba Medical College\n\n2 Pakistan Kidney & Liver Institute and Research Centre - PKLI\n\n3 University of Centra..."
+  },
+  {
+    "name": "Magnetic Resonance Imaging, Knee",
+    "path": "MRI/Magnetic Resonance Imaging, Knee.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24648/ scraped_date: 2025-07-22 12:54:27 UTC\n\n# Appropriate Magnetic Resonance Imaging Ordering\n\nKristen Ashby; Brooke N. Adams; Mrin Shetty.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKristen Ashby1; Brooke N. Adams2; Mrin Shetty3.\n\n#### Affiliations\n\n1 Virginia Commonwealth University School of Medicine, Medical College of Virginia\n\n2 Kansas City U..."
+  },
+  {
+    "name": "Magnetic Resonance Imaging, Brain",
+    "path": "MRI/Magnetic Resonance Imaging, Brain.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24648/ scraped_date: 2025-07-22 12:54:20 UTC\n\n# Appropriate Magnetic Resonance Imaging Ordering\n\nKristen Ashby; Brooke N. Adams; Mrin Shetty.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKristen Ashby1; Brooke N. Adams2; Mrin Shetty3.\n\n#### Affiliations\n\n1 Virginia Commonwealth University School of Medicine, Medical College of Virginia\n\n2 Kansas City U..."
+  },
+  {
+    "name": "Lung Cancer",
+    "path": "Lung Cancer/Lung Cancer.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24489/ scraped_date: 2025-07-22 12:40:08 UTC\n\n# Lung Cancer\n\nFaraz Siddiqui; Sarosh Vaqar; Abdul H. Siddiqui.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nFaraz Siddiqui; Sarosh Vaqar; Abdul H. Siddiqui1.\n\n#### Affiliations\n\n1 Northwell Health SIUH\n\nLast Update: May 8, 2023.\n\n## Continuing Education Activity\n\nLung cancer or bronchogenic carcinoma refer..."
+  },
+  {
+    "name": "Non-Small Cell Lung Cancer",
+    "path": "Lung Cancer/Non-Small Cell Lung Cancer.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24489/ scraped_date: 2025-07-22 12:40:14 UTC\n\n# Lung Cancer\n\nFaraz Siddiqui; Sarosh Vaqar; Abdul H. Siddiqui.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nFaraz Siddiqui; Sarosh Vaqar; Abdul H. Siddiqui1.\n\n#### Affiliations\n\n1 Northwell Health SIUH\n\nLast Update: May 8, 2023.\n\n## Continuing Education Activity\n\nLung cancer or bronchogenic carcinoma refer..."
+  },
+  {
+    "name": "Small Cell Lung Cancer",
+    "path": "Lung Cancer/Small Cell Lung Cancer.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24489/ scraped_date: 2025-07-22 12:40:19 UTC\n\n# Lung Cancer\n\nFaraz Siddiqui; Sarosh Vaqar; Abdul H. Siddiqui.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nFaraz Siddiqui; Sarosh Vaqar; Abdul H. Siddiqui1.\n\n#### Affiliations\n\n1 Northwell Health SIUH\n\nLast Update: May 8, 2023.\n\n## Continuing Education Activity\n\nLung cancer or bronchogenic carcinoma refer..."
+  },
+  {
+    "name": "Viral Meningitis",
+    "path": "Meningitis/Viral Meningitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24962/ scraped_date: 2025-07-22 12:44:00 UTC\n\n# Meningitis\n\nKenadeed Hersi; Francisco J. Gonzalez; Noah P. Kondamudi.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nKenadeed Hersi1; Francisco J. Gonzalez; Noah P. Kondamudi2.\n\n#### Affiliations\n\n1 Rutgers University - NJMS\n\n2 Icahn School of Medicine at Mount Sinai , The Brooklyn Hospital Center\n\nLast Upd..."
+  },
+  {
+    "name": "Meningitis",
+    "path": "Meningitis/Meningitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24964/ scraped_date: 2025-07-22 12:43:48 UTC\n\n# Aseptic Meningitis\n\nHersimran Kaur; Elodie M. Betances; Thomas B. Perera.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nHersimran Kaur1; Elodie M. Betances; Thomas B. Perera2.\n\n#### Affiliations\n\n1 Northshore/Long Island Jewish (Northwell)\n\n2 Hofstra Northwell\n\nLast Update: February 26, 2024.\n\n## Continuin..."
+  },
+  {
+    "name": "Bacterial Meningitis",
+    "path": "Meningitis/Bacterial Meningitis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-24965/ scraped_date: 2025-07-22 12:43:53 UTC\n\n# Bacterial Meningitis\n\nTyler J. Runde; Fatima Anjum; John W. Hafner.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nTyler J. Runde1; Fatima Anjum2; John W. Hafner3.\n\n#### Affiliations\n\n1 Un of Illinois College of Medicine\n\n2 Temple University, Lewis Katz School of Medicine\n\n3 Univ of Illinois at Chicago - Pe..."
+  },
+  {
+    "name": "Acetaminophen Toxicity",
+    "path": "Overdose_Poisoning/Acetaminophen Toxicity.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17074/ scraped_date: 2025-07-22 12:44:24 UTC\n\n# Acetaminophen\n\nValerie Gerriets; Jackie Anderson; Preeti Patel; Thomas M. Nappe.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nValerie Gerriets1; Jackie Anderson; Preeti Patel; Thomas M. Nappe2.\n\n#### Affiliations\n\n1 California Northstate University College of Medicine\n\n2 St. Luke's University Health Netwo..."
+  },
+  {
+    "name": "Opioid Toxicity",
+    "path": "Overdose_Poisoning/Opioid Toxicity.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26226/ scraped_date: 2025-07-22 12:44:35 UTC\n\n# Opioid Toxicity\n\nAngela C. Regina; Amandeep Goyal; Oren J. Mechanic.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAngela C. Regina1; Amandeep Goyal2; Oren J. Mechanic3.\n\n#### Affiliations\n\n1 St. Barnabas Health System\n\n2 University of Kansas Medical Center\n\n3 Harvard Medical School/BIDMC\n\nLast Update: Jan..."
+  },
+  {
+    "name": "Salicylate Toxicity",
+    "path": "Overdose_Poisoning/Salicylate Toxicity.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30349/ scraped_date: 2025-07-22 12:44:30 UTC\n\n# 3,4-Methylenedioxymethamphetamine (MDMA) Toxicity\n\nRick Figurasin; Vincent R. Lee; Nicole J. Maguire.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nRick Figurasin1; Vincent R. Lee2; Nicole J. Maguire3.\n\n#### Affiliations\n\n1 Newark Beth Israel Medical Center\n\n2 Northwell Health/Zucker School of Medicine at ..."
+  },
+  {
+    "name": "Burns",
+    "path": "Burns/Burns.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-132872/ scraped_date: 2025-07-22 12:49:14 UTC\n\n# Anesthesia for Patients With Burns\n\nNicholas E. Hill; Joseph Maxwell Hendrix; Sohail K. Mahboobi.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNicholas E. Hill1; Joseph Maxwell Hendrix2; Sohail K. Mahboobi.\n\n#### Affiliations\n\n1 PennState Hershey Medical Center\n\n2 Worldwide Clinical Trials\n\nLast Update: ..."
+  },
+  {
+    "name": "Thermal Burns",
+    "path": "Burns/Thermal Burns.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23152/ scraped_date: 2025-07-22 12:49:21 UTC\n\n# Hyperbaric Treatment of Thermal Burns\n\nMatthew Edwards; Jeffrey S. Cooper.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMatthew Edwards1; Jeffrey S. Cooper2.\n\n#### Affiliations\n\n1 University of Nebraska Medical Cener\n\n2 University of Nebraska Medical Center\n\nLast Update: February 27, 2023.\n\n## Continuing ..."
+  },
+  {
+    "name": "Acute Pulmonary Embolism",
+    "path": "Pulmonary Embolism/Acute Pulmonary Embolism.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-42576/ scraped_date: 2025-07-22 12:35:49 UTC\n\n# Acute Pulmonary Embolism\n\nVrinda Vyas; Abdulghani Sankari; Amandeep Goyal.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nVrinda Vyas1; Abdulghani Sankari2; Amandeep Goyal3.\n\n#### Affiliations\n\n1 SUNY Upstate Medical University\n\n2 Wayne State University\n\n3 University of Kansas Medical Center\n\nLast Update: D..."
+  },
+  {
+    "name": "Catheter-Directed Thrombolysis of Pulmonary Embolism",
+    "path": "Pulmonary Embolism/Catheter-Directed Thrombolysis of Pulmonary Embolism.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-51594/ scraped_date: 2025-07-22 12:35:54 UTC\n\n# Catheter-Directed Thrombolysis of Pulmonary Embolism\n\nIrfan Shafi; Santhosh Reddy Devarapally; Nagendra Gupta.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nIrfan Shafi; Santhosh Reddy Devarapally1; Nagendra Gupta2.\n\n#### Affiliations\n\n1 Statesville Cardiology\n\n2 Texas Health Resources\n\nLast Update: May 2,..."
+  },
+  {
+    "name": "Angiography",
+    "path": "Angiography (invasive)/Angiography.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17570/ scraped_date: 2025-07-22 12:53:38 UTC\n\n# Angiography\n\nDemian J. Omeh; Evan Shlofmitz.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDemian J. Omeh1; Evan Shlofmitz2.\n\n#### Affiliations\n\n1 Nassau University Medical Center\n\n2 MedStar Washington/Georgetown University\n\nLast Update: August 7, 2023.\n\n## Continuing Education Activity\n\nAngiography is per..."
+  },
+  {
+    "name": "Peripheral Angiography",
+    "path": "Angiography (invasive)/Peripheral Angiography.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17570/ scraped_date: 2025-07-22 12:53:33 UTC\n\n# Angiography\n\nDemian J. Omeh; Evan Shlofmitz.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDemian J. Omeh1; Evan Shlofmitz2.\n\n#### Affiliations\n\n1 Nassau University Medical Center\n\n2 MedStar Washington/Georgetown University\n\nLast Update: August 7, 2023.\n\n## Continuing Education Activity\n\nAngiography is per..."
+  },
+  {
+    "name": "Coronary Angiography",
+    "path": "Angiography (invasive)/Coronary Angiography.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17570/ scraped_date: 2025-07-22 12:53:27 UTC\n\n# Angiography\n\nDemian J. Omeh; Evan Shlofmitz.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDemian J. Omeh1; Evan Shlofmitz2.\n\n#### Affiliations\n\n1 Nassau University Medical Center\n\n2 MedStar Washington/Georgetown University\n\nLast Update: August 7, 2023.\n\n## Continuing Education Activity\n\nAngiography is per..."
+  },
+  {
+    "name": "Blunt Trauma",
+    "path": "Blunt Trauma/Blunt Trauma.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-149250/ scraped_date: 2025-07-22 12:47:37 UTC\n\n# Acute Acoustic Trauma\n\nVarduhi Ghazaryan; Andrew E. Sutton; Russell De Jong.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nVarduhi Ghazaryan1; Andrew E. Sutton2; Russell De Jong3.\n\n#### Affiliations\n\n1 Yerevan State Medical University\n\n2 University of Rochester School of Medicine and Dentistry\n\n3 Brooke A..."
+  },
+  {
+    "name": "Diagnostic Ultrasound Use in Undifferentiated Hypotension",
+    "path": "Ultrasound Other/Diagnostic Ultrasound Use in Undifferentiated Hypotension.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-36585/ scraped_date: 2025-07-22 12:55:01 UTC\n\n# Diagnostic Ultrasound Use in Undifferentiated Hypotension\n\nEthan Estoos; Damali Nakitende.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nEthan Estoos1; Damali Nakitende2.\n\n#### Affiliations\n\n1 Advocate Christ Medical Center\n\n2 Advocate Christ Medical Center\n\nLast Update: April 24, 2023.\n\n## Continuing Educ..."
+  },
+  {
+    "name": "Cardiac Ultrasound",
+    "path": "Ultrasound Other/Cardiac Ultrasound.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18908/ scraped_date: 2025-07-22 12:54:49 UTC\n\n# Cardiac Ultrasound\n\nMeghan K. Herbst; James Velasquez; Ghufran Adnan; Maria C. O'Rourke.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMeghan K. Herbst1; James Velasquez2; Ghufran Adnan3; Maria C. O'Rourke4.\n\n#### Affiliations\n\n1 University of Connecticut\n\n2 Wyckoff Heights Medical Center\n\n3 Aga Khan Unive..."
+  },
+  {
+    "name": "Thoracic and Lung Ultrasound",
+    "path": "Ultrasound Other/Thoracic and Lung Ultrasound.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-19391/ scraped_date: 2025-07-22 12:54:55 UTC\n\n# Thoracic and Lung Ultrasound\n\nAlan Taylor; Fatima Anjum; Maria C. O'Rourke.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAlan Taylor1; Fatima Anjum2; Maria C. O'Rourke3.\n\n#### Affiliations\n\n1 University Of Tennessee, Memphis\n\n2 Temple University, Lewis Katz School of Medicine\n\n3 Dignity Health - STMC - St..."
+  },
+  {
+    "name": "Right Heart Failure",
+    "path": "Right Heart Failure/Right Heart Failure.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-132871/ scraped_date: 2025-07-22 12:37:57 UTC\n\n# Anesthesia for Patients With Pulmonary Hypertension or Right Heart Failure\n\nHassam Zulfiqar; Brianna Granlund.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nHassam Zulfiqar1; Brianna Granlund2.\n\n#### Affiliations\n\n1 Hamad Medical Corporation, Doha, Qatar\n\n2 Michigan State University: College of Osteopathi..."
+  },
+  {
+    "name": "Pneumomediastinum",
+    "path": "Pneumomediastinum/Pneumomediastinum.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27350/ scraped_date: 2025-07-22 12:41:44 UTC\n\n# Pneumomediastinum\n\nAlexander J. Iteen; William Bianchi; Tariq Sharman.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAlexander J. Iteen; William Bianchi1; Tariq Sharman2.\n\n#### Affiliations\n\n1 NMCSD\n\n2 Summa Health\n\nLast Update: May 1, 2023.\n\n## Continuing Education Activity\n\nPneumomediastinum is defined a..."
+  },
+  {
+    "name": "Aspiration Pneumonia",
+    "path": "Aspiration Pneumonia/Aspiration Pneumonia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17897/ scraped_date: 2025-07-22 12:40:37 UTC\n\n# Aspiration Pneumonia\n\nRaghavendra R. Sanivarapu; Sarosh Vaqar; Joshua Gibson.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nRaghavendra R. Sanivarapu1; Sarosh Vaqar; Joshua Gibson2.\n\n#### Affiliations\n\n1 Nassau University Medical Center\n\n2 Michigan State University\n\nLast Update: March 20, 2024.\n\n## Continu..."
+  },
+  {
+    "name": "Takotsubo Cardiomyopathy",
+    "path": "Takotsubo Cardiomyopathy/Takotsubo Cardiomyopathy.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-89527/ scraped_date: 2025-07-22 12:37:51 UTC\n\n# Mid-Ventricular Takotsubo Cardiomyopathy\n\nYamama Hafeez; Ketan M. Gala.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nYamama Hafeez1; Ketan M. Gala2.\n\n#### Affiliations\n\n1 Saint Mary Hospital\n\n2 Cooper University\n\nLast Update: August 7, 2023.\n\n## Continuing Education Activity\n\nMid-ventricular Takotsubo car..."
+  },
+  {
+    "name": "Normal and Abnormal Complete Blood Count With Differential",
+    "path": "Complete Blood Count (CBC) with differential/Normal and Abnormal Complete Blood Count With Differential.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-161108/ scraped_date: 2025-07-22 12:49:27 UTC\n\n# Normal and Abnormal Complete Blood Count With Differential\n\nJason El Brihi; Surabhi Pathak.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJason El Brihi1; Surabhi Pathak2.\n\n#### Affiliations\n\n1 Austin Health\n\n2 Kings Daughters Medical Center\n\nLast Update: June 8, 2024.\n\n## Definition/Introduction\n\nThe com..."
+  },
+  {
+    "name": "Myocarditis",
+    "path": "Myocarditis/Myocarditis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17161/ scraped_date: 2025-07-22 12:36:31 UTC\n\n# Acute Myocarditis\n\nPirbhat Shams; Sara A. Collier.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPirbhat Shams; Sara A. Collier1.\n\n#### Affiliations\n\n1 Oklahoma Dept of Corrections\n\nLast Update: April 25, 2025.\n\n## Continuing Education Activity\n\nAcute myocarditis is an inflammatory disease of the myocardiu..."
+  },
+  {
+    "name": "Procalcitonin",
+    "path": "Procalcitonin/Procalcitonin.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18770/ scraped_date: 2025-07-22 12:50:24 UTC\n\n# Calcitonin\n\nMatthew B. McLaughlin; Ayoola O. Awosika; Ishwarlal Jialal.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nMatthew B. McLaughlin1; Ayoola O. Awosika2; Ishwarlal Jialal3.\n\n#### Affiliations\n\n1 California Northstate University\n\n2 University of Illinois College of Medicine\n\n3 VA MEDICAL CENTER, MAT..."
+  },
+  {
+    "name": "Human Chorionic Gonadotropin",
+    "path": "Urine Pregnancy Test/Human Chorionic Gonadotropin.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-23019/ scraped_date: 2025-07-22 12:51:45 UTC\n\n# Human Chorionic Gonadotropin\n\nDanielle Betz; Kathleen Fane.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nDanielle Betz1; Kathleen Fane2.\n\n#### Affiliations\n\n1 Temple University Hospital\n\n2 Temple University\n\nLast Update: April 27, 2025.\n\n## Introduction\n\nHuman chorionic gonadotropin (hCG) is a hormone pro..."
+  },
+  {
+    "name": "Computed Tomography, Abdomen and Pelvis",
+    "path": "CT Other/Computed Tomography, Abdomen and Pelvis.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30808/ scraped_date: 2025-07-22 12:54:14 UTC\n\n# Anatomy, Abdomen and Pelvis Ureter\n\nHernan A. Lescay; Jay Jiang; Stephen W. Leslie; Faiz Tuma.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nHernan A. Lescay1; Jay Jiang2; Stephen W. Leslie3; Faiz Tuma4.\n\n#### Affiliations\n\n1 Central Michigan University\n\n2 University of Nebraska Medical Center\n\n3 Creighton..."
+  },
+  {
+    "name": "CT Scan",
+    "path": "CT Other/CT Scan.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-127218/ scraped_date: 2025-07-22 12:54:03 UTC\n\n# CT Scan\n\nPaula R. Patel; Orlando De Jesus.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nPaula R. Patel1; Orlando De Jesus2.\n\n#### Affiliations\n\n1 Wyckoff Heights Medical Center\n\n2 University of Puerto Rico, Medical Sciences Campus, Neurosurgery Section\n\nLast Update: January 2, 2023.\n\n## Introduction\n\nA c..."
+  },
+  {
+    "name": "Computed Tomography, Head",
+    "path": "CT Other/Computed Tomography, Head.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-32266/ scraped_date: 2025-07-22 12:54:09 UTC\n\n# Anatomy, Head and Neck, Anterior: Common Carotid Arteries\n\nJohn D. Nguyen; Hieu Duong.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nJohn D. Nguyen1; Hieu Duong.\n\n#### Affiliations\n\n1 Florida Atlantic University\n\nLast Update: August 14, 2023.\n\n## Introduction\n\nThe neck makes the connection between the head..."
+  },
+  {
+    "name": "Treadmill Stress Testing",
+    "path": "Stress Test (exercise or pharmacologic)/Treadmill Stress Testing.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-30557/ scraped_date: 2025-07-22 12:52:43 UTC\n\n# Treadmill Stress Testing\n\nViliane Vilcant; Roman Zeltser.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nViliane Vilcant1; Roman Zeltser2.\n\n#### Affiliations\n\n1 Guthrie Lourdes Hospital\n\n2 Hofstra Northwell School of Medicine\n\nLast Update: June 20, 2023.\n\n## Continuing Education Activity\n\nTreadmill stress t..."
+  },
+  {
+    "name": "Pharmacologic Stress Testing",
+    "path": "Stress Test (exercise or pharmacologic)/Pharmacologic Stress Testing.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27092/ scraped_date: 2025-07-22 12:52:36 UTC\n\n# Pharmacologic Stress Testing\n\nHassan Mehmood Lak; Sagar Ranka; Amandeep Goyal.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nHassan Mehmood Lak1; Sagar Ranka2; Amandeep Goyal3.\n\n#### Affiliations\n\n1 Cleveland Clinic Foundation\n\n2 University of Kansas\n\n3 University of Kansas Medical Center\n\nLast Update: Jul..."
+  },
+  {
+    "name": "Dipyridamole Nuclear Stress Test",
+    "path": "Stress Test (exercise or pharmacologic)/Dipyridamole Nuclear Stress Test.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-20544/ scraped_date: 2025-07-22 12:52:25 UTC\n\n# Dipyridamole\n\nConnor C. Kerndt; Shivaraj Nagalli.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nConnor C. Kerndt1; Shivaraj Nagalli2.\n\n#### Affiliations\n\n1 Spectrum Health/Michigan State University College of Human Medicine\n\n2 Yuma Regional Medical Center\n\nLast Update: July 3, 2023.\n\n## Continuing Educatio..."
+  },
+  {
+    "name": "Nuclear Medicine Stress Test",
+    "path": "Stress Test (exercise or pharmacologic)/Nuclear Medicine Stress Test.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26009/ scraped_date: 2025-07-22 12:52:30 UTC\n\n# Nuclear Medicine Stress Test\n\nShwetha Gopal; Christie Murphy.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nShwetha Gopal1; Christie Murphy2.\n\n#### Affiliations\n\n1 Bassett Medical Center\n\n2 Ohio Health\n\nLast Update: April 24, 2023.\n\n## Introduction\n\nCoronary artery disease (CAD) remained the leading cause ..."
+  },
+  {
+    "name": "Empyema",
+    "path": "Empyema/Empyema.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21052/ scraped_date: 2025-07-22 12:40:25 UTC\n\n# Gallbladder Empyema\n\nSarang Kashyap; George Mathew; Kevin C. King.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nSarang Kashyap1; George Mathew2; Kevin C. King3.\n\n#### Affiliations\n\n1 Beckley Appalachian Regional Healthcare Hospital\n\n2 University of Pelita Harapan\n\n3 Muhlenberg Community Hospital Greenvill..."
+  },
+  {
+    "name": "Cardiac Tamponade",
+    "path": "Cardiac Tamponade/Cardiac Tamponade.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-26956/ scraped_date: 2025-07-22 12:35:38 UTC\n\n# Acute Cardiac Tamponade\n\nNitish K. Sharma; James R. Waymack.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNitish K. Sharma1; James R. Waymack2.\n\n#### Affiliations\n\n1 Saint Vincent Hospital, Worcester\n\n2 Southern Illinois University\n\nLast Update: July 31, 2023.\n\n## Continuing Education Activity\n\nCardiac ta..."
+  },
+  {
+    "name": "Chest and Mediastinal Imaging",
+    "path": "Chest X-ray/Chest and Mediastinal Imaging.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17034/ scraped_date: 2025-07-22 12:53:44 UTC\n\n# Chest and Mediastinal Imaging\n\nMaansi Parekh; Rashmi Balasubramanya.\n\nLast Update: October 3, 2022.\n\n## Introduction\n\nThe mediastinum is a complex anatomic space within the central thoracic cavity, surrounded by the lungs. It extends from the thoracic inlet superiorly to the diaphragm inferiorly. The mediastinum..."
+  },
+  {
+    "name": "Lower Gastrointestinal Bleeding",
+    "path": "GI Bleeding/Lower Gastrointestinal Bleeding.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22101/ scraped_date: 2025-07-22 12:45:31 UTC\n\n# Gastrointestinal Bleeding\n\nAlexander M. DiGregorio; Heidi Alvey.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAlexander M. DiGregorio1; Heidi Alvey2.\n\n#### Affiliations\n\n1 Wright State University Boonshoft School of Medicine\n\n2 Baylor Scott & White/Texas A&M SOM\n\nLast Update: June 5, 2023.\n\n## Continuing ..."
+  },
+  {
+    "name": "Upper Gastrointestinal Bleeding",
+    "path": "GI Bleeding/Upper Gastrointestinal Bleeding.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-22101/ scraped_date: 2025-07-22 12:45:25 UTC\n\n# Gastrointestinal Bleeding\n\nAlexander M. DiGregorio; Heidi Alvey.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAlexander M. DiGregorio1; Heidi Alvey2.\n\n#### Affiliations\n\n1 Wright State University Boonshoft School of Medicine\n\n2 Baylor Scott & White/Texas A&M SOM\n\nLast Update: June 5, 2023.\n\n## Continuing ..."
+  },
+  {
+    "name": "Gastrointestinal Bleeding",
+    "path": "GI Bleeding/Gastrointestinal Bleeding.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-117755/ scraped_date: 2025-07-22 12:45:19 UTC\n\n# Dieulafoys Lesion Causing Gastrointestinal Bleeding\n\nTalia F. Malik; Fatima Anjum.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nTalia F. Malik1; Fatima Anjum2.\n\n#### Affiliations\n\n1 Chicago Medical School at Rosalind Franklin University of Medicine and Science\n\n2 Temple University, Lewis Katz School of M..."
+  },
+  {
+    "name": "Unstable Angina",
+    "path": "Unstable Angina/Unstable Angina.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17555/ scraped_date: 2025-07-22 12:34:30 UTC\n\n# Angina\n\nChristine Hermiz; Yub Raj Sedhai.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nChristine Hermiz1; Yub Raj Sedhai2.\n\n#### Affiliations\n\n1 McLaren Oakland Hospital\n\n2 Virginia Commonwealth Un School of Med\n\nLast Update: June 6, 2023.\n\n## Continuing Education Activity\n\nAngina is the most common sympt..."
+  },
+  {
+    "name": "Ectopic Pregnancy",
+    "path": "Ectopic Pregnancy/Ectopic Pregnancy.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-27633/ scraped_date: 2025-07-22 12:48:52 UTC\n\n# Ectopic Pregnancy\n\nElsa S. Vadakekut; David M. Gnugnoli.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nElsa S. Vadakekut1; David M. Gnugnoli2.\n\n#### Affiliations\n\n1 American College of Osteopathic Obstetricians and Gynecologists\n\n2 DLP Conemaugh Memorial Medical Center\n\nLast Update: March 27, 2025.\n\n## Con..."
+  },
+  {
+    "name": "Pulse Oximetry",
+    "path": "Pulse Oximetry_Arterial Saturation/Pulse Oximetry.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18831/ scraped_date: 2025-07-22 12:55:23 UTC\n\n# Capnography and Pulse Oximetry\n\nNirzari K. Pandya; Sandeep Sharma.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nNirzari K. Pandya1; Sandeep Sharma2.\n\n#### Affiliations\n\n1 UPMC\n\n2 Mery Fitzgerald Hospital\n\nLast Update: August 28, 2023.\n\n## Continuing Education Activity\n\nPulse oximetry is a noninvasive meas..."
+  },
+  {
+    "name": "Brain Death",
+    "path": "Brain Death/Brain Death.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18522/ scraped_date: 2025-07-22 12:46:17 UTC\n\n# Brain Death\n\nRyan Starr; Prasanna Tadi; Nicholas Pfleghaar.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nRyan Starr1; Prasanna Tadi2; Nicholas Pfleghaar3.\n\n#### Affiliations\n\n1 Cape Fear Valley/Campbell University\n\n2 Asram Medical College, Eluru, India\n\n3 Firelands Regional Medical Center\n\nLast Update: Ma..."
+  },
+  {
+    "name": "Ventricular Tachycardia",
+    "path": "Ventricular Tachycardia/Ventricular Tachycardia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-155834/ scraped_date: 2025-07-22 12:35:26 UTC\n\n# Electrophysiology Lab Maneuvers to Differentiate Supraventricular Tachycardia\n\nAbdullah Sarkar; Maria S. Horenstein; Houman Khakpour.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAbdullah Sarkar1; Maria S. Horenstein2; Houman Khakpour3.\n\n#### Affiliations\n\n1 University of Miami\n\n2 CHOC (Children's Hospit..."
+  },
+  {
+    "name": "Pulseless Ventricular Tachycardia",
+    "path": "Ventricular Tachycardia/Pulseless Ventricular Tachycardia.md",
+    "content": "______________________________________________________________________\n\n## source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-28074/ scraped_date: 2025-07-22 12:35:32 UTC\n\n# Pulseless Ventricular Tachycardia\n\nAdam Foglesong; Dana Mathew.\n\nAuthor Information and Affiliations\n\n#### Authors\n\nAdam Foglesong1; Dana Mathew2.\n\n#### Affiliations\n\n1 Beaumont Royal Oak\n\n2 Harvard Medical School / Beth Israel Deaconess Medical Center\n\nLast Update: July 31, 2023.\n\n## Continuing Education Activi..."
+  }
 ]

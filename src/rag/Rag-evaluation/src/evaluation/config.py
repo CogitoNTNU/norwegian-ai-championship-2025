@@ -6,8 +6,7 @@ from ragas.metrics import (
 )
 
 EVALUATE_METHODS = [
-    "hybrid_retrieval_only",
-    "hybrid_retrieval_reranked",
+    "healthcare_rag",
     # "pocketflow_rag",  # Full RAG with LLM generation
     # "simple_rag",
     # "hybrid_rag",
@@ -25,7 +24,7 @@ EVALUATE_METHODS = [
     # "step_back_prompt",
     # "step_back_prompting"
 ]
-RUN_TAG = "retrieval_only_test"
+RUN_TAG = "healthcare_rag_qwen8b"
 RAGAS_METRICS = [
     context_precision,
     context_recall,

@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Emergency Healthcare RAG API for Norwegian AI Championship 2025"
 requires-python = ">=3.11"
 dependencies = [
+    # API and server dependencies
     "fastapi>=0.104.0",
     "uvicorn[standard]>=0.24.0",
     "pydantic>=2.0.0",
@@ -11,11 +12,33 @@ dependencies = [
     "requests>=2.31.0",
     "python-dotenv>=1.0.0",
     "colorama>=0.4.6",
+    # RAG and ML dependencies
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "scikit-learn",
+    "scipy",
+    "ollama>=0.1.0",
+    # RAGAS evaluation dependencies
+    "ragas",
+    "datasets",
+    "langchain",
+    "langchain-community",
+    "langchain-core",
+    "bm25s>=0.2.13",
+    "pystemmer>=3.0.0",
 ]
 
 [project.scripts]
 validate = "validate:main"
 check-status = "validate:check_status_cli"
+
+[tool.healthcare-rag]
+default_model = "qwen3:8b"
+supported_models = ["qwen3:8b", "qwen2.5:8b", "llama3.2:latest"]
+evaluation_limit = 10
 
 [build-system]
 requires = ["hatchling"]

@@ -82,4 +82,21 @@ def check_status_cli():
 
 def main():
     """Main entry point for validate command."""
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Validate Race Car model")
+    parser.add_argument(
+        "--model", default="baseline", help="Model variant to use (baseline, rl)"
+    )
+    parser.add_argument(
+        "--wait", action="store_true", help="Wait for validation to complete"
+    )
+    args = parser.parse_args()
+
+    # Set environment variable for model variant
+    import os
+
+    os.environ["RACECAR_MODEL_VARIANT"] = args.model
+
+    print(f"🎯 Using Race Car model variant: {args.model}")
     submit_validation()

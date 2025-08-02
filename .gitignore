@@ -217,3 +217,10 @@ data_augmented/
 
 # MONAI data
 runs/
+
+# RAG project specific
+src/rag/cache/
+src/rag/results/
+!src/rag/data/topics.json
+!src/rag/data/train/**/*.json
+!src/rag/Rag-evaluation/data/**/*.json

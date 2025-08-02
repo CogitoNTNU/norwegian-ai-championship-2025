@@ -7,10 +7,15 @@ import uvicorn
 import time
 import datetime
 import os
+import sys
+import signal
+import subprocess
 from fastapi import FastAPI, Body
 from pydantic import BaseModel
 from typing import Dict, List, Optional
 from loguru import logger
+
+# tomllib is available in Python 3.11+ for TOML parsing if needed
 
 # Host and port settings
 HOST = os.getenv("HOST", "0.0.0.0")
@@ -165,6 +170,7 @@ def predict_healthcare(request: MedicalStatementRequestDto):
     """
     Predict if a medical statement is true and classify its topic.
     """
+    print(f"\n🩺 [RAG] Received request: {request.statement[:100]}...")
     logger.info(f"Healthcare RAG request: {request.statement[:100]}...")
 
     try:
@@ -176,12 +182,16 @@ def predict_healthcare(request: MedicalStatementRequestDto):
             statement_is_true=statement_is_true, statement_topic=statement_topic
         )
 
+        print(
+            f"✅ [RAG] Response: statement_is_true={statement_is_true}, statement_topic={statement_topic}"
+        )
         logger.info(
             f"Healthcare response: true={statement_is_true}, topic={statement_topic}"
         )
         return response
 
     except Exception as e:
+        print(f"❌ [RAG] Error: {e}")
         logger.error(f"Healthcare prediction error: {e}")
         raise
 
@@ -276,27 +286,180 @@ def kill_process_on_port(port: int):
         logger.warning(f"Could not check/kill processes on port {port}: {e}")
 
 
-def main():
-    """Main entry point for the API."""
-    import sys
+def create_app_for_task(task: str):
+    """Create a FastAPI app for a specific task."""
+    if task == "rag":
+        task_app = FastAPI(
+            title="Emergency Healthcare RAG API",
+            description="Medical statement classification and topic identification",
+            version="1.0.0",
+        )
 
-    # Kill any existing process on the target port
-    logger.info(f"Checking for existing processes on port {PORT}...")
-    kill_process_on_port(PORT)
+        @task_app.get("/")
+        def rag_root():
+            return {"service": "emergency-healthcare-rag", "status": "running"}
+
+        @task_app.get("/api")
+        def rag_api():
+            return {"service": "emergency-healthcare-rag", "version": "1.0.0"}
+
+        @task_app.post("/predict", response_model=MedicalStatementResponseDto)
+        def rag_predict(request: MedicalStatementRequestDto):
+            return predict_healthcare(request)
+
+    elif task == "segmentation":
+        task_app = FastAPI(
+            title="Tumor Segmentation API",
+            description="Medical image tumor segmentation",
+            version="1.0.0",
+        )
+
+        @task_app.get("/")
+        def seg_root():
+            return {"service": "tumor-segmentation", "status": "running"}
+
+        @task_app.get("/api")
+        def seg_api():
+            return {"service": "tumor-segmentation", "version": "1.0.0"}
+
+        @task_app.post("/predict", response_model=TumorPredictResponseDto)
+        def seg_predict(request: TumorPredictRequestDto):
+            return predict_tumor(request)
+
+    elif task == "racecar":
+        task_app = FastAPI(
+            title="Race Car Control API",
+            description="AI race car control system",
+            version="1.0.0",
+        )
+
+        @task_app.get("/")
+        def car_root():
+            return {"service": "race-car", "status": "running"}
+
+        @task_app.get("/api")
+        def car_api():
+            return {"service": "race-car", "version": "1.0.0"}
+
+        @task_app.post("/predict", response_model=RaceCarPredictResponseDto)
+        def car_predict(request: RaceCarPredictRequestDto):
+            return predict_racecar(request)
+
+    return task_app
+
+
+def start_multi_port_server():
+    """Start the API on three different ports simultaneously."""
+    import threading
+
+    # Configuration for each service
+    services = [
+        {"task": "rag", "port": 8000, "name": "Emergency Healthcare RAG"},
+        {"task": "segmentation", "port": 9051, "name": "Tumor Segmentation"},
+        {"task": "racecar", "port": 9052, "name": "Race Car Control"},
+    ]
+
+    threads = []
+
+    for service in services:
+        # Kill any existing process on this port
+        logger.info(f"Checking for existing processes on port {service['port']}...")
+        kill_process_on_port(service["port"])
+
+        # Create app for this task
+        task_app = create_app_for_task(service["task"])
+
+        # Start server in a thread
+        def run_server(app, port, name):
+            logger.info(f"Starting {name} on {HOST}:{port}")
+            uvicorn.run(app, host=HOST, port=port, log_level="info")
+
+        thread = threading.Thread(
+            target=run_server, args=(task_app, service["port"], service["name"])
+        )
+        thread.daemon = True
+        thread.start()
+        threads.append(thread)
+
+        # Small delay between starts
+        time.sleep(0.5)
+
+    logger.info("🚀 All services started!")
+    logger.info("   - Emergency Healthcare RAG: http://localhost:8000")
+    logger.info("   - Tumor Segmentation: http://localhost:9051")
+    logger.info("   - Race Car Control: http://localhost:9052")
 
     try:
-        logger.info(
-            f"Starting Norwegian AI Championship 2025 Multi-Task API on {HOST}:{PORT}"
-        )
-        uvicorn.run("api:app", host=HOST, port=PORT, reload=True)
-    except OSError as e:
-        if "Address already in use" in str(e):
-            logger.error(
-                f"Port {PORT} is still in use after cleanup. Please wait a moment and try again."
-            )
+        # Keep main thread alive
+        while True:
+            time.sleep(1)
+    except KeyboardInterrupt:
+        logger.info("Shutting down all services...")
+
+
+def main():
+    """Main entry point for the API."""
+    start_multi_port_server()
+
+
+# =============================================================================
+# Background Management Functions
+# =============================================================================
+
+
+def start_background():
+    """Start API in the background."""
+    import subprocess
+    import os
+
+    # Kill any existing process on port 8000
+    kill_process_on_port(8000)
+
+    # Start the API in background using nohup
+    cmd = f"nohup {sys.executable} -c 'from api import main; main()' > api.log 2>&1 &"
+    subprocess.Popen(cmd, shell=True, preexec_fn=os.setsid)
+
+    # Give it a moment to start
+    time.sleep(2)
+
+    # Check if it's actually running by testing the port
+    import requests
+
+    try:
+        response = requests.get("http://localhost:8000/", timeout=5)
+        if response.status_code == 200:
+            print("✅ API started successfully and running on http://localhost:8000")
+            print("🔄 Check status with: uv run api-status")
         else:
-            logger.error(f"Failed to start API: {e}")
-        sys.exit(1)
+            print("⚠️ API started but may not be responding correctly")
+    except requests.exceptions.RequestException:
+        print("❌ API failed to start or is not responding")
+        print("📝 Check api.log for details")
+
+
+def stop_background():
+    """Stop the background API process."""
+    try:
+        with open(".api_pid", "r") as f:
+            pid = int(f.read())
+        os.kill(pid, signal.SIGTERM)
+        print("🛑 API stopped")
+    except Exception as e:
+        print(f"Error stopping API: {e}")
+
+
+def api_status():
+    """Check status of the background API process."""
+    try:
+        with open(".api_pid", "r") as f:
+            pid = int(f.read())
+        process = subprocess.run(["ps", "-p", str(pid)], capture_output=True, text=True)
+        if str(pid) in process.stdout:
+            print(f"✅ API is running (PID: {pid})")
+        else:
+            print("⚠️ API is not running")
+    except Exception:
+        print("⚠️ API is not running")
 
 
 if __name__ == "__main__":

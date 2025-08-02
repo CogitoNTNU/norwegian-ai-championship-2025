@@ -88,4 +88,23 @@ def check_status_cli():
 
 def main():
     """Main entry point for validate command."""
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Validate RAG model")
+    parser.add_argument(
+        "--model",
+        default="baseline",
+        help="Model variant to use (baseline, llm, rag_pipeline)",
+    )
+    parser.add_argument(
+        "--wait", action="store_true", help="Wait for validation to complete"
+    )
+    args = parser.parse_args()
+
+    # Set environment variable for model variant
+    import os
+
+    os.environ["RAG_MODEL_VARIANT"] = args.model
+
+    print(f"🎯 Using RAG model variant: {args.model}")
     submit_validation()

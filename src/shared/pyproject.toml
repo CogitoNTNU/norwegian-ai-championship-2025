@@ -15,6 +15,10 @@ dependencies = [
 
 [project.scripts]
 api = "api:main"
+api-start = "api:start_background"
+api-stop = "api:stop_background"
+api-status = "api:api_status"
+manage-services = "manage_services:main"
 
 [build-system]
 requires = ["hatchling"]

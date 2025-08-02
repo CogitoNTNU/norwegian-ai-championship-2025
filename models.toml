@@ -1,0 +1,47 @@
+# Model Configuration for Norwegian AI Championship 2025
+# Default models (can be overridden with command line args)
+
+[rag]
+default = "baseline"
+
+[rag.baseline]
+name = "Baseline Keyword Matching"
+module = "src.rag.models.baseline" 
+class = "BaselineRAG"
+
+[rag.llm]
+name = "LLM Classification"
+module = "src.rag.models.llm"
+class = "LLMRAG"
+params = { model_name = "llama3.2:3b" }
+
+[rag.rag_pipeline]
+name = "Full RAG Pipeline"
+module = "src.rag.models.rag_pipeline"
+class = "FullRAG"
+
+[segmentation]
+default = "baseline"
+
+[segmentation.baseline]
+name = "Baseline Segmentation"
+module = "src.segmentation.models.baseline"
+class = "BaselineSegmentation"
+
+[segmentation.unet]
+name = "U-Net Model"
+module = "src.segmentation.models.unet"
+class = "UNetSegmentation"
+
+[racecar]
+default = "baseline"
+
+[racecar.baseline]
+name = "Baseline Race Car"
+module = "src.race-car.models.baseline"
+class = "BaselineRaceCar"
+
+[racecar.rl]
+name = "RL Agent"
+module = "src.race-car.models.rl"
+class = "PPORaceCar"

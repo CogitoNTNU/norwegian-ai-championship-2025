@@ -44,6 +44,36 @@ Since this is an emergency department scenario, your solution must operate under
 
 During the week of the competition, you will be able to validate your solution against the validation set. You can do this multiple times, however, **you can only submit to the evaluation set once!** The best validation and evaluation score your model achieves will be displayed on the <a href="https://cases.dmiai.dk/teams"> scoreboard</a>. We encourage you to validate your code and API before you submit your final model to evaluation.
 
+## Setup Summary
+
+### System Overview
+
+This Emergency Healthcare RAG system uses:
+
+- **BM25s retrieval** with enhanced indexing including training data
+- **Mistral 7B-Instruct** via Ollama for fast, clean JSON outputs
+- **115 medical topics** covering emergency conditions and diagnostic procedures
+- **Optimized context selection** for improved topic classification accuracy
+- **Response times ~8-10 seconds** meeting performance constraints
+
+### Key Features
+
+- ✅ **Enhanced BM25s indexing** with training data for better context retrieval
+- ✅ **Topic diversity** - No longer stuck on single topics, proper adaptation
+- ✅ **Binary classification** with improved accuracy for true/false statements
+- ✅ **Context optimization** - Limited to top 5 contexts (200 chars each) for speed
+- ✅ **Cache system** - BM25s index cached for fast startup
+- ✅ **Offline operation** - No cloud API dependencies
+
+### Performance Metrics (Latest Evaluation)
+
+- **Context Recall:** 100%
+- **Context Precision:** 91.34%
+- **Binary Accuracy:** 50%
+- **Topic Accuracy:** 40%
+- **Response Time:** ~8.8 seconds
+- **Overall Accuracy:** 20%
+
 ## Quickstart
 
 Navigate to the Emergency Healthcare RAG directory:
@@ -58,10 +88,26 @@ Install dependencies:
 uv sync
 ```
 
-Make a local prediction using the baseline model:
+**Setup Ollama and Mistral model:**
+
+```bash
+# Start Ollama server
+ollama serve
+
+# Pull Mistral 7B-Instruct model
+ollama pull mistral:7b-instruct
+```
+
+Make a local prediction using the enhanced RAG model:
 
 ```bash
 uv run python example.py
+```
+
+**Run full evaluation:**
+
+```bash
+uv run python Rag-evaluation/src/evaluation/main.py
 ```
 
 ## Validation
