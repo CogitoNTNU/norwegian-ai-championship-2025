@@ -8,7 +8,9 @@ dependencies = [
     "fastapi[standard]>=0.116.1",
     "numpy>=2.3.2",
     "pygame>=2.6.1",
+    "rich>=14.1.0",
     "stable-baselines3>=2.7.0",
+    "tqdm>=4.67.1",
     "uvicorn>=0.35.0",
     "wandb>=0.21.0",
 ]
