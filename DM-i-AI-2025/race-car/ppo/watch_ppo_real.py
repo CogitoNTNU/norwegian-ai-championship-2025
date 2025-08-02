@@ -1,7 +1,7 @@
 import pygame
 import os
 from stable_baselines3 import PPO
-from train_ppo_real import RealRaceCarEnv
+from src.environments.race_car_env import RealRaceCarEnv
 
 
 def watch_real_ppo_model(model_path="models/ppo_racecar_real_final", episodes=3):
