@@ -189,8 +189,7 @@ def run_rainbow(args):
             str(args.rainbow_episodes),
         ]
 
-        if not args.headless:
-            cmd_args.append("--render")
+        cmd_args.append("--watch")
 
         try:
             # This will run the Rainbow evaluation
