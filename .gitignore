@@ -2,7 +2,9 @@
 .claude/*
 .claude/
 .claude
+
 wandb/
+models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -223,3 +225,5 @@ requirements.txt
 data_augmented/
 idun-log.err
 idun-log.txt
+
+data_augmented/
