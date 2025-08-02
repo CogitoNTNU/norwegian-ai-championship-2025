@@ -25,7 +25,7 @@ class Car:
         self.lane = lane
         self.x = 0
         self.y = 0
-        self.sprite = self.load_sprite(f"DM-i-AI-2025/race-car/public/assets/{color}car.png", target_height)
+        self.sprite = self.load_sprite(f"public/assets/{color}car.png", target_height)
 
     def update(self, ego: "Car"):
         """
