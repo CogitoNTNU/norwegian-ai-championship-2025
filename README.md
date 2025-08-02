@@ -40,6 +40,7 @@ This repository contains solutions for the Norwegian AI Championship 2025 multi-
 1. **Install pre-commit hooks (optional for development):**
 
    ```bash
+   cd rag # segmentation or race-car
    uv run pre-commit install
    ```
 
