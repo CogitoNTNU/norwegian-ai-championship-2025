@@ -11,7 +11,7 @@ def return_action(state):
     # Try to use PPO model if available
     if os.path.exists("models/best_model.zip"):
         try:
-            from ppo_agent import return_action as ppo_return_action
+            from ppo.ppo_agent import return_action as ppo_return_action
 
             return ppo_return_action(state)
         except Exception as e:
