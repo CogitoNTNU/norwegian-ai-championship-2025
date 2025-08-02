@@ -227,3 +227,6 @@ idun-log.err
 idun-log.txt
 
 data_augmented/
+
+# MONAI data
+runs/
