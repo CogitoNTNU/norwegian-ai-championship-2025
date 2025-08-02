@@ -1,15 +1,16 @@
-from langchain_community.document_loaders import *
-from langchain_community.embeddings import OllamaEmbeddings
+from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from operator import itemgetter
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableParallel, RunnableLambda
+from langchain_core.runnables import (
+    RunnablePassthrough,
+    RunnableParallel,
+    RunnableLambda,
+)
 from langchain.retrievers import MergerRetriever
-from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from langchain_community.llms import Ollama
-from langchain_community.embeddings import OllamaEmbeddings
+
 
 class SimpleRAG:
     def __init__(self, llm, embeddings):

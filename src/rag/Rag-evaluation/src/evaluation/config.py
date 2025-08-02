@@ -6,8 +6,8 @@ from ragas.metrics import (
 )
 
 EVALUATE_METHODS = [
-    "simple_rag", 
-    "hybrid_rag", 
+    "simple_rag",
+    "hybrid_rag",
     "hyde",
     "contextual_retriever",
     # "graph_rag_graph_retriever",
@@ -20,7 +20,7 @@ EVALUATE_METHODS = [
     "rrf",
     "semantic_chunker",
     "step_back_prompt",
-    "step_back_prompting"
+    "step_back_prompting",
 ]
 RUN_TAG = "initial_test"
 RAGAS_METRICS = [

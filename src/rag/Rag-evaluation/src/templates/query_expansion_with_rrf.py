@@ -4,9 +4,9 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableParallel, RunnableLambda
-from operator import itemgetter
+from langchain_core.runnables import RunnableLambda
 from langchain.load import dumps, loads
+
 
 class QueryExpansionRRF:
     def __init__(self, llm, embeddings):
@@ -25,16 +25,23 @@ class QueryExpansionRRF:
                 if doc_str not in fused_scores:
                     fused_scores[doc_str] = 0
                 fused_scores[doc_str] += 1 / (rank + k)
-        
-        reranked_results = [loads(doc) for doc, score in sorted(fused_scores.items(), key=lambda x: x[1], reverse=True)]
+
+        reranked_results = [
+            loads(doc)
+            for doc, score in sorted(
+                fused_scores.items(), key=lambda x: x[1], reverse=True
+            )
+        ]
         return reranked_results
 
-    def run(self, question: str, reference_contexts: List[str]) -> Dict[str, Union[str, List[str]]]:
+    def run(
+        self, question: str, reference_contexts: List[str]
+    ) -> Dict[str, Union[str, List[str]]]:
         docs = [Document(page_content=content) for content in reference_contexts]
-        
+
         splitter = RecursiveCharacterTextSplitter(chunk_size=1600, chunk_overlap=200)
         splits = splitter.split_documents(docs)
-        
+
         vectorstore = Chroma.from_documents(documents=splits, embedding=self.embeddings)
         retriever = vectorstore.as_retriever()
 
@@ -52,11 +59,11 @@ class QueryExpansionRRF:
 
         retrieval_chain_rag_fusion = generate_queries | retriever.map()
         results = retrieval_chain_rag_fusion.invoke({"question": question})
-        
+
         reranked_docs = self._rrf(results)
 
         context = self._format_docs(reranked_docs)
-        
+
         prompt_template_str = """
         You are a helpful AI assistant. Using the provided context, answer the user's question in a clear, factual manner (maximum 4 sentences).
         If the context does not contain sufficient information, simply reply that you don't know.
@@ -70,14 +77,12 @@ class QueryExpansionRRF:
         prompt = ChatPromptTemplate.from_template(prompt_template_str.strip())
 
         rag_chain = (
-            prompt
-            | RunnableLambda(self.llm.langchain_llm.invoke)
-            | StrOutputParser()
+            prompt | RunnableLambda(self.llm.langchain_llm.invoke) | StrOutputParser()
         )
 
         answer = rag_chain.invoke({"context": context, "question": question})
-        
+
         return {
             "answer": answer,
-            "context": [doc.page_content for doc in reranked_docs]
+            "context": [doc.page_content for doc in reranked_docs],
         }

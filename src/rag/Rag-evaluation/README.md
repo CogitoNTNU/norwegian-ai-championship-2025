@@ -48,6 +48,7 @@ Ensure you have a `testset.json` file in the root directory with the following s
 ```
 
 ## Usage
+
 Run the test-set generation:
 
 ```bash
@@ -61,26 +62,30 @@ python src/evaluation/rag_evaluation.py
 ```
 
 The script will:
+
 1. Load your test dataset
-2. Execute all RAG templates on each question
-3. Calculate RAGAS and additional metrics
-4. Generate visualizations
-5. Provide rankings and recommendations
-6. Save results to `rag_evaluation_results.json`
+1. Execute all RAG templates on each question
+1. Calculate RAGAS and additional metrics
+1. Generate visualizations
+1. Provide rankings and recommendations
+1. Save results to `rag_evaluation_results.json`
 
 ## RAG Templates
 
 ### Simple RAG
+
 - Basic vector similarity search
 - Uses Chroma vector database
 - Single retriever approach
 
 ### Hybrid RAG
+
 - Combines vector similarity and BM25 keyword search
 - Uses MergerRetriever to combine results
 - Better for diverse query types
 
 ### HyDE (Hypothetical Document Embeddings)
+
 - Generates hypothetical answers first
 - Uses hypothetical answer for retrieval
 - Better for complex reasoning tasks
@@ -88,12 +93,14 @@ The script will:
 ## Metrics Explained
 
 ### RAGAS Metrics
+
 - **Context Precision**: How relevant are the retrieved contexts?
 - **Context Recall**: How much of the relevant context was retrieved?
 - **Faithfulness**: How factually accurate is the generated answer?
 - **Answer Relevancy**: How relevant is the answer to the question?
 
 ### Additional Metrics
+
 - **NDCG**: Normalized Discounted Cumulative Gain
 - **Precision@K**: Precision at top K results
 - **Recall@K**: Recall at top K results
@@ -105,19 +112,21 @@ The script will:
 ### Common Issues
 
 1. **Missing Dependencies**: Install all packages from `requirements.txt`
-2. **API Key Issues**: Ensure `GOOGLE_API_KEY` is set in `.env`
-3. **Import Errors**: Make sure you're using the latest versions of langchain packages
-4. **Memory Issues**: Reduce batch size or use smaller test datasets
+1. **API Key Issues**: Ensure `GOOGLE_API_KEY` is set in `.env`
+1. **Import Errors**: Make sure you're using the latest versions of langchain packages
+1. **Memory Issues**: Reduce batch size or use smaller test datasets
 
 ### Environment Variables
 
 The script automatically handles environment variables:
+
 - `USER_AGENT`: Set automatically if not provided
 - LangSmith tracing is disabled by default (no API keys needed)
 
 ## Output
 
 The evaluation generates:
+
 - Console output with rankings and analysis
 - Interactive visualizations (radar charts, bar charts)
 - `rag_evaluation_results.json` with detailed results
@@ -128,8 +137,8 @@ The evaluation generates:
 ### Adding New RAG Templates
 
 1. Create a new template class in the `templates/` directory
-2. Implement the `run(question, context)` method
-3. Add it to the `templates` dictionary in `rag_evaluation.py`
+1. Implement the `run(question, context)` method
+1. Add it to the `templates` dictionary in `rag_evaluation.py`
 
 ### Modifying Metrics
 
@@ -161,10 +170,10 @@ Modify the `provide_recommendations()` function to change the recommendation log
 ## Contributing
 
 1. Fork the repository
-2. Create a feature branch
-3. Add your improvements
-4. Test thoroughly
-5. Submit a pull request
+1. Create a feature branch
+1. Add your improvements
+1. Test thoroughly
+1. Submit a pull request
 
 ## License
 

@@ -1,15 +1,9 @@
-from langchain_community.document_loaders import *
-from langchain_community.embeddings import OllamaEmbeddings
+from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
-from operator import itemgetter
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableParallel, RunnableLambda
-from langchain.retrievers import MergerRetriever
-from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from langchain_community.llms import Ollama
-from langchain_community.embeddings import OllamaEmbeddings
 from langchain_core.prompts import PromptTemplate
+
 
 class HyDE:
     def __init__(self, llm, embeddings):
@@ -26,8 +20,10 @@ class HyDE:
         This answer will be used to fetch documents related to the question.
         Question: """
         hyde_prompt = PromptTemplate.from_template(pre_prompt + "{question}")
-        hypothetical_answer_chain = hyde_prompt | self.llm.langchain_llm | StrOutputParser()
-        
+        hypothetical_answer_chain = (
+            hyde_prompt | self.llm.langchain_llm | StrOutputParser()
+        )
+
         # Get the hypothetical answer
         hypothetical_answer = hypothetical_answer_chain.invoke({"question": question})
 
@@ -45,11 +41,11 @@ class HyDE:
             embedding=self.embeddings,
             collection_name="testindex-ragbuilder",
         )
-        
+
         # Use hypothetical answer for retrieval instead of original question
         retriever = c.as_retriever(search_type="similarity", search_kwargs={"k": 5})
         retrieved_docs = retriever.invoke(hypothetical_answer)
-        
+
         # Now use original question with retrieved context for final answer
         rag_prompt_template = """You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the answer, just say that you don't know. Use three sentences maximum and keep the answer concise.
 
@@ -60,14 +56,10 @@ Context: {context}
 Answer:"""
         rag_prompt = PromptTemplate.from_template(rag_prompt_template)
         final_chain = rag_prompt | self.llm.langchain_llm | StrOutputParser()
-        
+
         formatted_context = format_docs(retrieved_docs)
-        final_answer = final_chain.invoke({
-            "context": formatted_context,
-            "question": question
-        })
-        
-        return {
-            "answer": final_answer,
-            "context": formatted_context
-        }
+        final_answer = final_chain.invoke(
+            {"context": formatted_context, "question": question}
+        )
+
+        return {"answer": final_answer, "context": formatted_context}

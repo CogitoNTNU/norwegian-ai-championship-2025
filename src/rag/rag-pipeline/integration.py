@@ -8,25 +8,27 @@ import os
 import shutil
 from pathlib import Path
 
+
 def backup_original_model():
     """Backup the original model.py file."""
     project_root = Path(__file__).parent.parent.parent
     competition_dir = project_root / "DM-i-AI-2025" / "emergency-healthcare-rag"
-    
+
     original_model = competition_dir / "model.py"
     backup_model = competition_dir / "model_original.py"
-    
+
     if original_model.exists() and not backup_model.exists():
         shutil.copy2(original_model, backup_model)
         print("✅ Original model.py backed up as model_original.py")
     else:
         print("ℹ️  Original model.py already backed up or doesn't exist")
 
+
 def create_new_model_py():
     """Create new model.py that uses our RAG classifier."""
     project_root = Path(__file__).parent.parent.parent
     competition_dir = project_root / "DM-i-AI-2025" / "emergency-healthcare-rag"
-    
+
     new_model_content = '''import sys
 import os
 from pathlib import Path
@@ -112,61 +114,64 @@ def match_topic(statement: str) -> int:
 
     return best_topic
 '''
-    
+
     new_model_file = competition_dir / "model.py"
-    with open(new_model_file, 'w') as f:
+    with open(new_model_file, "w") as f:
         f.write(new_model_content)
-    
+
     print("✅ New model.py created with RAG integration")
+
 
 def test_integration():
     """Test that the integration works."""
     project_root = Path(__file__).parent.parent.parent
     competition_dir = project_root / "DM-i-AI-2025" / "emergency-healthcare-rag"
-    
+
     # Change to competition directory for testing
     original_cwd = os.getcwd()
     os.chdir(competition_dir)
-    
+
     try:
         # Import and test the new model
         import sys
+
         sys.path.insert(0, str(competition_dir))
-        
+
         from model import predict
-        
+
         test_statement = "Testicular torsion requires immediate surgical intervention to prevent testicular loss."
         result = predict(test_statement)
-        
-        print(f"✅ Integration test successful!")
+
+        print("✅ Integration test successful!")
         print(f"   Statement: {test_statement}")
         print(f"   Result: {result}")
-        
+
         return True
-        
+
     except Exception as e:
         print(f"❌ Integration test failed: {e}")
         return False
     finally:
         os.chdir(original_cwd)
 
+
 def main():
     """Main integration function."""
     print("🔗 Integrating RAG system with competition framework")
     print("=" * 55)
-    
+
     # Step 1: Backup original model
     print("\n1. Backing up original model...")
     backup_original_model()
-    
+
     # Step 2: Create new model.py
     print("\n2. Creating new model.py...")
     create_new_model_py()
-    
+
     # Step 3: Test integration
     print("\n3. Testing integration...")
     success = test_integration()
-    
+
     print("\n" + "=" * 55)
     if success:
         print("🎉 Integration completed successfully!")
@@ -177,8 +182,9 @@ def main():
         print("3. python api.py")
     else:
         print("❌ Integration failed. Check the errors above.")
-    
+
     return success
+
 
 if __name__ == "__main__":
     main()
