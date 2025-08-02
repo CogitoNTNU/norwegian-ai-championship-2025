@@ -1,6 +1,10 @@
 # Norwegian AI Championship 2025
 
-This repository contains the code and documentation for Cogito NTNU's submissions to the Norwegian AI Championship 2025.
+This repository contains the unified codebase for the Norwegian AI Championship 2025, featuring three exciting AI challenges:
+
+1. **Emergency Healthcare RAG** - Medical statement verification using Retrieval-Augmented Generation
+1. **Tumor Segmentation** - Medical image segmentation for tumor detection
+1. **Race Car Control** - AI-powered autonomous race car control
 
 ## 🔎 5 questions to have on repeat
 
@@ -19,28 +23,25 @@ This repository contains the code and documentation for Cogito NTNU's submission
 
 ## ⚙️ Getting Started
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/CogitoNTNU/norwegian-ai-championship-2025.git
    cd norwegian-ai-championship-2025
    ```
 
-1. Set up the Python virtual environment and install dependencies:
+1. **Set up environment variables:**
 
    ```bash
-   uv sync
+   cp .env.example .env
+   # Edit .env with your competition token and other settings
    ```
 
-   This will create a virtual environment and install all project dependencies from the lock file.
-
-1. Install the pre-commit hooks:
+1. **Install pre-commit hooks (optional for development):**
 
    ```bash
    uv run pre-commit install
    ```
-
-   Ensures code quality checks (linting, formatting, safety) run before every commit.
 
    Can also do this manually by running:
 
@@ -48,17 +49,132 @@ This repository contains the code and documentation for Cogito NTNU's submission
    uv run pre-commit run --all-files
    ```
 
+## 🏗️ Project Structure
+
 1. Copy the `.env.example` file to `.env` and fill in the required environment variables:
 
-   ```bash
-   cp .env.example .env
-   ```
+```
+norwegian-ai-championship-2025/
+├── src/
+│   ├── shared/
+│   │   ├── api.py                   # 🎯 UNIFIED API FOR ALL TASKS
+│   │   └── validation/
+│   │       ├── utils.py             # Shared validation utilities │   │       ├── rag_validate.py      # RAG validation logic
+│   │       ├── segmentation_validate.py # Segmentation validation logic
+│   │       └── racecar_validate.py  # Race car validation logic
+│   ├── rag/                         # Emergency Healthcare RAG
+│   │   ├── validate.py              # Validation wrapper
+│   │   ├── example.py, model.py     # Task-specific files
+│   │   ├── pyproject.toml           # Task configuration
+│   │   └── data/, rag-pipeline/     # Task assets
+│   ├── segmentation/                # Tumor Segmentation
+│   │   ├── validate.py              # Validation wrapper
+│   │   ├── dtos.py, example.py      # Task-specific files
+│   │   ├── pyproject.toml           # Task configuration
+│   │   └── utilities/               # Task utilities
+│   └── race-car/                    # Race Car Control
+│       ├── validate.py              # Validation wrapper
+│       ├── dtos.py, example.py      # Task-specific files
+│       ├── pyproject.toml           # Task configuration
+│       └── src/, public/            # Game assets
+├── .env.example                     # Environment variables template
+├── pyproject.toml                   # Project dependencies
+└── README.md                        # This file
+```
 
-1. Run the endpoints:
+> > > > > > > 9c8f9044d787ce69f23accb8bec85d7827a2d808
 
-   ```bash
-   uv run uvicorn src.main:app --reload
-   ```
+## 🚀 Unified API
+
+The unified API serves all tasks from a single endpoint:
+
+```bash
+# Run the unified API
+cd src/shared
+uv sync
+uv run api
+```
+
+**Features:**
+
+- ✅ **Auto port cleanup** - Kills any existing process on port 8000
+- ✅ **Hot reload** - Automatically restarts when code changes
+- ✅ **All dependencies** - Includes FastAPI, NumPy, Loguru, and more
+
+API will be accessible at `http://localhost:8000` with endpoints:
+
+- `/healthcare/predict` for Emergency Healthcare RAG
+- `/tumor/predict` for Tumor Segmentation
+- `/racecar/predict` for Race Car Control
+
+## 🎯 Task-Specific Validation
+
+Each task has streamlined validation using shared utilities:
+
+### Emergency Healthcare RAG 🏥
+
+```bash
+cd src/rag
+uv run validate                    # Submit validation
+uv run check-status <uuid>         # Check status
+uv run validate --wait             # Submit and wait
+```
+
+### Tumor Segmentation 🔬
+
+```bash
+cd src/segmentation
+uv run validate                    # Submit validation
+uv run check-status <uuid>         # Check status
+uv run validate --wait             # Submit and wait
+```
+
+### Race Car Control 🏎️
+
+```bash
+cd src/race-car
+uv run validate                    # Submit validation
+uv run check-status <uuid>         # Check status
+uv run validate --wait             # Submit and wait
+```
+
+## 🏆 Competition Validation
+
+Once your API is running locally, validate it with the competition system:
+
+```bash
+# Set your environment variables
+export EVAL_API_TOKEN="your-token-here"
+
+# For Emergency Healthcare RAG
+export SERVICE_URL="http://0.0.0.0:8000"
+curl https://cases.ainm.no/api/v1/usecases/emergency-healthcare-rag/validate/queue \
+     -X POST --header "x-token: $EVAL_API_TOKEN" \
+     --data "{\"url\": \"$SERVICE_URL/predict\"}"
+
+# For Tumor Segmentation
+export SERVICE_URL="http://0.0.0.0:9051"
+curl https://cases.ainm.no/api/v1/usecases/tumor-segmentation/validate/queue \
+     -X POST --header "x-token: $EVAL_API_TOKEN" \
+     --data "{\"url\": \"$SERVICE_URL/predict\"}"
+
+# For Race Car Control
+export SERVICE_URL="http://0.0.0.0:9052"
+curl https://cases.ainm.no/api/v1/usecases/race-car/validate/queue \
+     -X POST --header "x-token: $EVAL_API_TOKEN" \
+     --data "{\"url\": \"$SERVICE_URL/predict\"}"
+```
+
+## 🛠️ Development Workflow
+
+1. **Choose your task** and navigate to the corresponding directory
+1. **Install dependencies** with `uv sync`
+1. **Customize the prediction logic** in the relevant files:
+   - Emergency Healthcare: `model.py`
+   - Tumor Segmentation: `example.py`
+   - Race Car: `test_endpoint.py`
+1. **Test locally** using the unified API or task-specific validation
+1. **Submit for validation** using `uv run validate`
 
 ## � Managing Dependencies with UV
 
@@ -111,6 +227,9 @@ uv run pytest
 
 # Activate the shell (alternative to running individual commands)
 uv shell
+
+# Run Pre-commit
+uv run pre-commit run --all-files
 ```
 
 ### Updating Dependencies
