@@ -1,7 +1,5 @@
 import os
 from typing import List, Dict, Union
-from langchain_core.documents import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_neo4j import Neo4jGraph
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -82,10 +80,9 @@ class GraphRAG:
     def run(
         self, question: str, reference_contexts: List[str]
     ) -> Dict[str, Union[str, List[str]]]:
-        docs = [Document(page_content=content) for content in reference_contexts]
-
-        splitter = RecursiveCharacterTextSplitter(chunk_size=1600, chunk_overlap=200)
-        splitter.split_documents(docs)
+        # docs = [Document(page_content=content) for content in reference_contexts]  # Commented out as it's not used
+        # splitter = RecursiveCharacterTextSplitter(chunk_size=1600, chunk_overlap=200)  # Commented out as it's not used
+        # documents = splitter.split_documents(docs)  # Commented out as it's not used
 
         # if os.getenv('NEO4J_LOAD', 'True').lower() == 'true':
         #     load_graph(documents, self.llm)

@@ -1,9 +1,57 @@
+# Python virtual environment
 .venv
-.DS_Store
-.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
 
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.local
+.env.production
+
+# Evaluation results and outputs
 results/
+temp_context_*.txt
+
+# Data files (large/sensitive)
+data/components.json
+data/datasets/
 testset.json
 
-temp_context_0.txt
-temp_context_1.txt
+# Model files and indexes
+*.faiss
+*.pkl
+*.index
+*.bin
+*.model
+
+# Logs
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+*.tmp
+*.temp
+
+# Legacy dependency files (use pyproject.toml instead)
+requirements.txt
+requirements-dev.txt
+Pipfile
+Pipfile.lock

@@ -173,6 +173,7 @@ async def main():
     # 4. Set up LLM, Embeddings and Transforms
     # ----------------------------
     llm = llm_factory()
+    # embedding = embedding_factory()  # Commented out as it's not used
 
     headline_extractor = HeadlinesExtractor(llm=llm)
     headline_splitter = HeadlineSplitter(min_tokens=300, max_tokens=1000)

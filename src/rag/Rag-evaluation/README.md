@@ -16,7 +16,7 @@ A comprehensive evaluation framework for comparing different RAG (Retrieval-Augm
 ### 1. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 ### 2. Environment Configuration
@@ -58,7 +58,7 @@ python src/testset-generation/testset_generator.py
 Run the evaluation:
 
 ```bash
-python src/evaluation/rag_evaluation.py
+uv run python src/evaluation/main.py
 ```
 
 The script will:
@@ -145,8 +145,14 @@ The evaluation generates:
 You can adjust the ranking weights in the `rank_templates()` function:
 
 ```python
-def rank_templates(template_ragas_scores, template_additional_scores, 
-                  recall_weight=0.6, precision_weight=0.4):
+def rank_templates(
+    template_ragas_scores,
+    template_additional_scores,
+    recall_weight=0.6,
+    precision_weight=0.4,
+):
+    # Your ranking logic here
+    pass
 ```
 
 ### Custom Evaluation Criteria

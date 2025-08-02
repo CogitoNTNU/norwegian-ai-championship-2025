@@ -18,17 +18,20 @@ import sys
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
-from src.templates.simple_rag import SimpleRAG
-from src.templates.hybrid_rag import HybridRAG
-from src.templates.hyde import HyDE
-from src.templates.contextual_retriever import ContextualRetrieverRAG
+from src.templates.hybrid_retrieval_only import HybridRetrievalOnly
+from src.templates.hybrid_retrieval_reranked import HybridRetrievalReranked
 
+# from src.templates.pocketflow_rag import PocketFlowRAG
+# from src.templates.simple_rag import SimpleRAG
+# from src.templates.hybrid_rag import HybridRAG
+# from src.templates.hyde import HyDE
+# from src.templates.contextual_retriever import ContextualRetrieverRAG
 # from src.templates.graph_rag_graph_retriever import GraphRAG
 # from src.templates.graph_rag_hybrid_retriever import GraphHybridRAG
-from src.templates.query_expansion_with_rrf import QueryExpansionRRF
-from src.templates.query_rewrite_rag import QueryRewriteRAG
-from src.templates.semantic_chunker import SemanticChunkerRAG
-from src.templates.step_back_prompt import StepBackPromptRAG
+# from src.templates.query_expansion_with_rrf import QueryExpansionRRF
+# from src.templates.query_rewrite_rag import QueryRewriteRAG
+# from src.templates.semantic_chunker import SemanticChunkerRAG
+# from src.templates.step_back_prompt import StepBackPromptRAG
 from src.evaluation.config import EVALUATE_METHODS, RUN_TAG, RAGAS_METRICS
 from src.evaluation.metrics import (
     calculate_context_overlap,
@@ -157,17 +160,20 @@ def main():
     print("Initializing RAG templates...")
 
     all_templates = {
-        "simple_rag": SimpleRAG,
-        "hybrid_rag": HybridRAG,
-        "hyde": HyDE,
-        "contextual_retriever": ContextualRetrieverRAG,
-        "query_expansion_with_rrf": QueryExpansionRRF,
-        "query_rewrite_rag": QueryRewriteRAG,
-        "query_rewrite": QueryRewriteRAG,
-        "rrf": QueryExpansionRRF,
-        "semantic_chunker": SemanticChunkerRAG,
-        "step_back_prompt": StepBackPromptRAG,
-        "step_back_prompting": StepBackPromptRAG,
+        "hybrid_retrieval_only": HybridRetrievalOnly,
+        "hybrid_retrieval_reranked": HybridRetrievalReranked,
+        # "pocketflow_rag": PocketFlowRAG,
+        # "simple_rag": SimpleRAG,
+        # "hybrid_rag": HybridRAG,
+        # "hyde": HyDE,
+        # "contextual_retriever": ContextualRetrieverRAG,
+        # "query_expansion_with_rrf": QueryExpansionRRF,
+        # "query_rewrite_rag": QueryRewriteRAG,
+        # "query_rewrite": QueryRewriteRAG,
+        # "rrf": QueryExpansionRRF,
+        # "semantic_chunker": SemanticChunkerRAG,
+        # "step_back_prompt": StepBackPromptRAG,
+        # "step_back_prompting": StepBackPromptRAG,
     }
     templates_to_run = {
         name: all_templates[name] for name in EVALUATE_METHODS if name in all_templates

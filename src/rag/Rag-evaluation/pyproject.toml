@@ -1,0 +1,43 @@
+[project]
+name = "rag-holygrail"
+version = "0.1.0"
+description = "Comprehensive RAG evaluation framework using RAGAS metrics"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "langchain",
+    "langchain-community",
+    "langchain-core", 
+    "langchain-google-genai",
+    "langchain_chroma",
+    "langchain_ollama",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "python-dotenv",
+    "scikit-learn",
+    "scipy",
+    "ragas",
+    "datasets",
+    "langchain-openai",
+    "langchain-experimental",
+    "neo4j",
+    "langchain-neo4j",
+    # PocketFlow RAG dependencies
+    "faiss-cpu>=1.11.0",
+    "fastapi>=0.115.0",
+    "google-genai>=1.20.0",
+    "openai>=1.50.0,<2.0.0",
+    "uvicorn>=0.34.0",
+    "certifi>=2024.0.0",
+    "bm25s>=0.2.6",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.uv]
+dev-dependencies = []
