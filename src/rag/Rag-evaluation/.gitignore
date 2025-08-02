@@ -1,0 +1,9 @@
+.venv
+.DS_Store
+.env
+
+results/
+testset.json
+
+temp_context_0.txt
+temp_context_1.txt
