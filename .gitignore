@@ -2,7 +2,7 @@
 .claude/*
 .claude/
 .claude
-
+wandb/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
