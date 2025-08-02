@@ -214,3 +214,6 @@ requirements.txt
 
 
 data_augmented/
+
+# MONAI data
+run/
