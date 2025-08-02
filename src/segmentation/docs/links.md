@@ -1,4 +1,4 @@
-# Links
+# Architectures and Data Augmentations for MIP-PET scans
 
 ## Useful articles
 
@@ -8,7 +8,7 @@ Faktisk beginner's guide, med en liten intro til ulike typer segmentation, og u-
 
 ### [Segmentation: U-Net, Mask R-CNN, and Medical Applications](https://glassboxmedicine.com/2020/01/21/segmentation-u-net-mask-r-cnn-and-medical-applications/)
 
-## Research papers
+## Strong architectures
 
 ### [U-Net](http://arxiv.org/pdf/1505.04597)
 
@@ -17,3 +17,7 @@ Faktisk beginner's guide, med en liten intro til ulike typer segmentation, og u-
 ### [Mask R-CNN](https://arxiv.org/pdf/1703.06870)
 
 ### [PSPNet](https://arxiv.org/pdf/1612.01105)
+
+## Data augmentations
+
+![alt text](dataAugmentations.png)
