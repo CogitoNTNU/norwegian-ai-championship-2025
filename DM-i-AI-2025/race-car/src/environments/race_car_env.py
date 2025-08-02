@@ -170,17 +170,14 @@ class RealRaceCarEnv(gym.Env):
         # Only crash if the car goes significantly beyond the wall boundary
         for wall in core.STATE.road.walls:
             if intersects(core.STATE.ego.rect, wall.rect):
-                # Check if the car is just touching the wall or actually crashed into it
-                # Allow some tolerance for wall proximity without immediate crash
-                ego_center_x = core.STATE.ego.rect.centerx
-                ego_center_y = core.STATE.ego.rect.centery
-                wall_center_x = wall.rect.centerx
-                wall_center_y = wall.rect.centery
-                
                 # Calculate overlap distance
-                x_overlap = min(core.STATE.ego.rect.right, wall.rect.right) - max(core.STATE.ego.rect.left, wall.rect.left)
-                y_overlap = min(core.STATE.ego.rect.bottom, wall.rect.bottom) - max(core.STATE.ego.rect.top, wall.rect.top)
-                
+                x_overlap = min(core.STATE.ego.rect.right, wall.rect.right) - max(
+                    core.STATE.ego.rect.left, wall.rect.left
+                )
+                y_overlap = min(core.STATE.ego.rect.bottom, wall.rect.bottom) - max(
+                    core.STATE.ego.rect.top, wall.rect.top
+                )
+
                 # Only crash if there's significant overlap (more than just touching)
                 overlap_threshold = 10  # pixels
                 if x_overlap > overlap_threshold and y_overlap > overlap_threshold:

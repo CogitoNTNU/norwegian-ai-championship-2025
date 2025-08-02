@@ -10,8 +10,8 @@ from stable_baselines3.common.monitor import Monitor
 import torch
 import wandb
 import sys
-import os
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from src.environments.race_car_env import RealRaceCarEnv
 from callbacks import WandbCallback
 
