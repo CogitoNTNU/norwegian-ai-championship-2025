@@ -15,7 +15,12 @@
       "Bash(pip install:*)",
       "Bash(del /Q \"C:\\Users\\light\\Documents\\ntnu\\Hackaton\\norwegian-ai-championship-2025\\DM-i-AI-2025\\race-car\\models\\*.*\")",
       "Bash(powershell:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(uv lock:*)",
+      "Bash(uv add:*)",
+      "Bash(del uv.lock)",
+      "Bash(dir models)",
+      "Bash(git add:*)"
     ],
     "deny": []
   }

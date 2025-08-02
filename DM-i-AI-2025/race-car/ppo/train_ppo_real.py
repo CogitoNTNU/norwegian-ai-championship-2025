@@ -9,18 +9,9 @@ from stable_baselines3.common.callbacks import (
 from stable_baselines3.common.monitor import Monitor
 import torch
 import wandb
-import sys
-
-sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
-from src.environments.race_car_env import RealRaceCarEnv
 from callbacks import WandbCallback
-
-
-# RealRaceCarEnv class has been moved to src/environments/race_car_env.py
-# WandbCallback class has been moved to callbacks.py
-
-# Classes are imported at the top of this file
-# All training logic remains in the train_real_ppo_model function below
+from checkpoint_callback import CheckpointCallback
+from src.environments.race_car_env import RealRaceCarEnv
 
 
 def train_real_ppo_model(
@@ -60,7 +51,7 @@ def train_real_ppo_model(
             "game_duration_seconds": 60,
         }
 
-        wandb.init(
+        run = wandb.init(
             project=project_name,
             name=run_name,
             config=config,
@@ -128,6 +119,34 @@ def train_real_ppo_model(
     if use_wandb:
         wandb_callback = WandbCallback(verbose=1)
         callbacks.append(wandb_callback)
+
+    # Add checkpoint callback to save models periodically
+    checkpoint_freq = 5000  # Save every 5000 steps
+
+    # Generate unique run identifier
+    if use_wandb:
+        run_identifier = run.id
+    else:
+        import datetime
+
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        run_name_part = (
+            run_name.replace(" ", "_").replace("-", "_") if run_name else "training"
+        )
+        run_identifier = f"local_{run_name_part}_{timestamp}"
+
+    checkpoint_path = f"./models/checkpoints/{run_identifier}"
+    checkpoint_callback = CheckpointCallback(
+        save_freq=checkpoint_freq,
+        save_path=checkpoint_path,
+        name_prefix="rl_model",
+        save_to_wandb=use_wandb,
+        verbose=1,
+    )
+    callbacks.append(checkpoint_callback)
+    print(
+        f"Checkpoints will be saved every {checkpoint_freq} steps to: {checkpoint_path}"
+    )
 
     print(f"Starting REAL batch training for {timesteps:,} timesteps...")
     print("Each episode contains 3 consecutive 1-minute games")

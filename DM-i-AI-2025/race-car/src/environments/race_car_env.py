@@ -132,15 +132,21 @@ class RealRaceCarEnv(gym.Env):
     def _get_observation(self):
         sensor_readings = []
         for sensor in core.STATE.sensors:
-            normalized_distance = (
-                min(sensor.reading, 1000.0) / 1000.0
-                if sensor.reading is not None
-                else 1.0
-            )
+            # Use inverse normalization: close objects = higher values (more urgent)
+            # This makes it easier for the model to learn that high sensor values = danger
+            if sensor.reading is not None:
+                # Clamp reading to max sensor range
+                clamped_reading = min(sensor.reading, 1000.0)
+                # Inverse normalize: 0=far/safe, 1=close/danger
+                # This way close objects (50) become 0.95, far objects (1000) become 0.0
+                normalized_distance = 1.0 - (clamped_reading / 1000.0)
+            else:
+                # No reading = nothing detected = safe = 0
+                normalized_distance = 0.0
             sensor_readings.append(normalized_distance)
 
         while len(sensor_readings) < 16:
-            sensor_readings.append(1.0)
+            sensor_readings.append(0.0)  # Padding with 0 = safe/far
         sensor_readings = sensor_readings[:16]
 
         ego_car = core.STATE.ego
@@ -241,8 +247,74 @@ class RealRaceCarEnv(gym.Env):
         reward += proximity_penalty
         reward_breakdown["following_penalty"] = proximity_penalty
 
-        # Collision avoidance, crash, and completion logic remain unchanged...
-        # [Truncated for brevity, paste your own code for sensors/collision/bonus]
+        # Directional collision avoidance reward based on sensor positions
+        collision_avoidance_reward = 0
+
+        # Get sensor readings by direction for smart collision avoidance
+        sensor_by_direction = {}
+        for sensor in core.STATE.sensors:
+            if sensor.reading is not None:
+                sensor_by_direction[sensor.name] = sensor.reading
+
+        # Punish getting too close to walls/cars in specific directions
+        danger_threshold = 150  # Distance threshold for danger
+        warning_threshold = 300  # Distance threshold for warning
+
+        # Check front sensors - most critical for collision avoidance
+        front_sensors = ["front", "front_left_front", "left_front", "right_front"]
+        min_front_distance = float("inf")
+        for sensor_name in front_sensors:
+            if sensor_name in sensor_by_direction:
+                min_front_distance = min(
+                    min_front_distance, sensor_by_direction[sensor_name]
+                )
+
+        if min_front_distance < danger_threshold:
+            collision_avoidance_reward = -0.2  # Strong penalty for front danger
+        elif min_front_distance < warning_threshold:
+            collision_avoidance_reward = -0.05  # Mild penalty for front warning
+
+        # Check side sensors - important for lane changes
+        side_sensors = ["left_side", "right_side", "left_side_front", "left_side_back"]
+        for sensor_name in side_sensors:
+            if sensor_name in sensor_by_direction:
+                distance = sensor_by_direction[sensor_name]
+                if distance < 100:  # Very close on sides
+                    collision_avoidance_reward -= 0.1
+
+        # Don't punish close objects behind us - we want to overtake
+        # Back sensors: 'back', 'right_back', 'left_back', etc.
+
+        reward += collision_avoidance_reward
+        reward_breakdown["collision_avoidance"] = collision_avoidance_reward
+
+        # Overtaking reward - reward for having cars behind us
+        overtaking_reward = 0
+        back_sensors = ["back", "right_back", "left_back", "back_left_back"]
+        cars_behind = 0
+        for sensor_name in back_sensors:
+            if sensor_name in sensor_by_direction:
+                distance = sensor_by_direction[sensor_name]
+                if distance < 300:  # Car detected behind us
+                    cars_behind += 1
+
+        if cars_behind > 0:
+            overtaking_reward = 0.1 * cars_behind  # Reward for cars behind
+
+        reward += overtaking_reward
+        reward_breakdown["overtaking"] = overtaking_reward
+
+        # Lane change bonus - reward for successful lane positioning
+        lane_change_reward = 0
+        if core.STATE.ego.lane:
+            # Reward staying in lane center when safe
+            lane_center = (core.STATE.ego.lane.y_start + core.STATE.ego.lane.y_end) / 2
+            distance_from_center = abs(core.STATE.ego.y - lane_center)
+            if distance_from_center < 30 and min_front_distance > warning_threshold:
+                lane_change_reward = 0.02  # Small bonus for good lane discipline
+
+        reward += lane_change_reward
+        reward_breakdown["lane_change"] = lane_change_reward
 
         # Crash penalty
         crash_penalty = 0
