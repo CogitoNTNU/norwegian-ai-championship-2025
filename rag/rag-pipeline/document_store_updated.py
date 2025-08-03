@@ -5,12 +5,12 @@ import faiss
 from tqdm import tqdm
 import sys
 
-# Add src to path to import rag.embeddings
-src_path = Path(__file__).parent.parent.parent.parent
-sys.path.insert(0, str(src_path))
+# Add parent directory to path for embeddings import
+rag_path = Path(__file__).parent.parent
+sys.path.insert(0, str(rag_path))
 
-from rag.embeddings.models import get_embedding_model  # noqa: E402
-from rag.embeddings.managers import IndexManager  # noqa: E402
+from embeddings.models import get_embedding_model  # noqa: E402
+from embeddings.managers import IndexManager  # noqa: E402
 
 
 class DocumentStore:
