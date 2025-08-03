@@ -110,8 +110,8 @@ class CustomWandbCallback(BaseCallback):
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             video_path = f"videos/training/episode_{episode_num}_{timestamp}.mp4"
 
-            fourcc = cv2.VideoWriter_fourcc(*"mp4v")
-            self.video_writer = cv2.VideoWriter(video_path, fourcc, 60.0, (1600, 1200))
+            fourcc = cv2.VideoWriter_fourcc(*"H264")
+            self.video_writer = cv2.VideoWriter(video_path, fourcc, 30.0, (1600, 1200))
             self.current_recording = video_path
             self.is_recording = True
             self.recording_episode = episode_num
