@@ -35,6 +35,7 @@ class SentenceTransformerModel(BaseEmbeddingModel):
 
         # Force CPU on macOS to avoid MPS issues
         import platform
+
         if platform.system() == "Darwin":
             self.device = "cpu"
         else:
@@ -92,10 +93,11 @@ class SentenceTransformerModel(BaseEmbeddingModel):
 
         # Force single-threaded processing on macOS to avoid multiprocessing issues
         import platform
+
         if platform.system() == "Darwin":
             # Override any multiprocessing settings
-            kwargs['num_workers'] = 0
-            
+            kwargs["num_workers"] = 0
+
         return self.model.encode(
             sentences,
             batch_size=batch_size,
@@ -208,3 +210,52 @@ class MedicalEmbeddingModel(SentenceTransformerModel):
                 sentences = [self.preprocessing_fn(s) for s in sentences]
 
         return super().encode(sentences, **kwargs)
+
+
+class E5Model(SentenceTransformerModel):
+    """Specialized model for E5 embeddings that require query prefixes."""
+
+    def __init__(self, model_name: str, **kwargs):
+        """Initialize E5 embedding model."""
+        super().__init__(model_name, **kwargs)
+        self.query_prefix = "query: "
+        self.passage_prefix = "passage: "
+
+    def encode(
+        self,
+        sentences: Union[str, List[str]],
+        batch_size: int = 32,
+        show_progress_bar: bool = False,
+        convert_to_numpy: bool = True,
+        is_query: bool = False,
+        **kwargs,
+    ) -> np.ndarray:
+        """
+        Encode sentences with E5-specific prefixes.
+
+        Args:
+            sentences: Input sentences
+            batch_size: Batch size for encoding
+            show_progress_bar: Whether to show progress
+            convert_to_numpy: Convert to numpy array
+            is_query: Whether these are queries (True) or passages (False)
+            **kwargs: Additional parameters
+        """
+        # Ensure sentences is a list
+        if isinstance(sentences, str):
+            sentences = [sentences]
+
+        # Add appropriate prefix
+        if is_query:
+            prefixed_sentences = [self.query_prefix + s for s in sentences]
+        else:
+            prefixed_sentences = [self.passage_prefix + s for s in sentences]
+
+        # Encode with parent method
+        return super().encode(
+            prefixed_sentences,
+            batch_size=batch_size,
+            show_progress_bar=show_progress_bar,
+            convert_to_numpy=convert_to_numpy,
+            **kwargs,
+        )

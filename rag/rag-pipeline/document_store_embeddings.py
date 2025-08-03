@@ -145,10 +145,19 @@ class EmbeddingsDocumentStore:
         if self.index is None:
             raise ValueError("Index not built. Call build_index first.")
 
-        # Encode query
-        query_embedding = self.embedding_model.encode(
-            [query], convert_to_numpy=True, show_progress_bar=False
-        )
+        # Encode query - check if model has E5-style encoding
+        if hasattr(self.embedding_model, "encode") and hasattr(
+            self.embedding_model, "query_prefix"
+        ):
+            # E5 model with query prefix
+            query_embedding = self.embedding_model.encode(
+                [query], convert_to_numpy=True, show_progress_bar=False, is_query=True
+            )
+        else:
+            # Standard encoding
+            query_embedding = self.embedding_model.encode(
+                [query], convert_to_numpy=True, show_progress_bar=False
+            )
 
         # Normalize for cosine similarity
         faiss.normalize_L2(query_embedding)

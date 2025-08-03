@@ -9,6 +9,7 @@ from .sentence_transformers import (
     SentenceTransformerModel,
     MatryoshkaModel,
     MedicalEmbeddingModel,
+    E5Model,
 )
 
 
@@ -52,6 +53,18 @@ class ModelRegistry:
             "class": SentenceTransformerModel,
             "params": {
                 "model_name": "BAAI/bge-large-en-v1.5",
+            },
+        },
+        "e5-base": {
+            "class": E5Model,
+            "params": {
+                "model_name": "intfloat/e5-base",
+            },
+        },
+        "e5-base-v2": {
+            "class": E5Model,
+            "params": {
+                "model_name": "intfloat/e5-base-v2",
             },
         },
         # Matryoshka models
