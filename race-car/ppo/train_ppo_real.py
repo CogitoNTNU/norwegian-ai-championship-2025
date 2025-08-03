@@ -169,22 +169,12 @@ def train_real_ppo_model(
             "algorithm": "PPO",
             "total_timesteps": timesteps,
             "n_envs": n_envs,
-            "learning_rate": 0.0003,
-            "n_steps": 512,
-            "batch_size": 512,
-            "n_epochs": 30,
-            "gamma": 0.8704453469948052,
-            "gae_lambda": 0.9205008767461947,
-            "clip_range": 0.3,
-            "ent_coef": 0.0001,
-            "vf_coef": 0.5,
-            "target_kl": 0.05,
-            "normalize_advantage": False,
-            "log_std_init": 1,
+            "ent_coef": 0.01,  # Only custom setting
             "reward_threshold": 600,
             "environment": "real_race_car_batch_game",
             "games_per_batch": 1,
             "game_duration_seconds": 60,
+            # All other PPO settings use defaults
         }
         run = wandb.init(
             project=project_name,
@@ -227,17 +217,7 @@ def train_real_ppo_model(
             "MlpPolicy",
             train_env,
             verbose=0,
-            learning_rate=0.0003,  # Your specified value
-            n_steps=512,  # Your specified value
-            batch_size=512,  # Your specified value
-            n_epochs=30,  # Your specified value
-            gamma=0.8704453469948052,  # Your specified value
-            gae_lambda=0.9205008767461947,  # Your specified value
-            clip_range=0.3,  # Your specified value
-            ent_coef=0.01,  # Your specified value
-            vf_coef=0.5,  # Your specified value
-            max_grad_norm=0.5,
-            normalize_advantage=False,  # Your specified value
+            ent_coef=0.01,  # Only custom setting
             policy_kwargs=policy_kwargs,
             device="cuda" if torch.cuda.is_available() else "cpu",
         )
