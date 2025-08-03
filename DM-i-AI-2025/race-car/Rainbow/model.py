@@ -57,8 +57,8 @@ class DQN(nn.Module):
         self.action_space = action_space
 
         # Replace CNN with fully connected layers for race car sensor data
-        # Input: history_length * 20 (sensor data)
-        input_size = args.history_length * 20
+        # Input: history_length * 16 (sensor data)
+        input_size = args.history_length * 16
 
         # Feature extraction layers
         self.feature_layers = nn.Sequential(

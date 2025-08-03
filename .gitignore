@@ -212,6 +212,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+models/
 
 # Local development environment files
 .env
@@ -227,6 +228,8 @@ idun-log.err
 idun-log.txt
 
 data_augmented/
+
+logs/
 
 # MONAI data
 runs/

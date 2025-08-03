@@ -176,6 +176,7 @@ def train_real_ppo_model(
             config=config,
             sync_tensorboard=True,
             save_code=True,
+            entity="nm-i-ki",
             tags=["ppo", "race-car", "real-game", "rl", "batch-training"],
         )
 

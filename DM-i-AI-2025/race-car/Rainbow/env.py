@@ -16,7 +16,7 @@ class Env:
         self.window = args.history_length  # Number of states to concatenate
         self.state_buffer = deque([], maxlen=args.history_length)
         self.training = True  # Consistent with model training mode
-        self.state_size = 20  # Race car environment observation size
+        self.state_size = 16  # Race car environment observation size
 
     def _get_state(self):
         # Get current observation from race car environment
