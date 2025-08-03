@@ -222,6 +222,13 @@ experiments/*
 # Generated files
 requirements.txt
 
+# Model files and indexes
+*.pkl
+
+# Logs
+*.log
+logs/
+
 
 data_augmented/
 idun-log.err
@@ -233,3 +240,15 @@ logs/
 
 # MONAI data
 runs/
+# RAG project specific
+src/rag/cache/
+src/rag/results/
+!src/rag/data/topics.json
+!src/rag/data/train/**/*.json
+!src/rag/Rag-evaluation/data/**/*.json
+
+# WandB
+# Ignore WandB logs and directories
+*/wandb/
+
+results/
