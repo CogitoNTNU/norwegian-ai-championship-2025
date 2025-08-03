@@ -22,6 +22,24 @@ The following architectures are commonly used for image segmentation tasks, espe
 
 ### [SwinUNETR](https://docs.monai.io/en/stable/networks.html#swinunetr)
 
-## Data augmentations
+## Data augmentations (ranked)
+
+### 1. Intensity (Brightness)
+
+- The model should handle variations in intensity calibrations and patient metabolic uptake levels.
+- A fixed threshold might fail if a tumor is dimmer or brighter than expected.
+
+### 2. Elastic Deformation (Non-Rigid Deformations)
+
+- Warping the image in a smooth manner.
+- Keep deformations **moderate** so the images still look realistic.
+
+### 3. Other Effective Techniques
+
+- **Scaling:** ±20%
+- **Rotation:** Random angle between 0°–90°
+- **Flipping**
+
+> **Note:** Combining augmentations does **not always** compound the benefits or improve results, so it may be best to **avoid overlapping** them.
 
 ![alt text](dataAugmentations.png)
