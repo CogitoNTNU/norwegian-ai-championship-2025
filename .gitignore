@@ -226,3 +226,7 @@ src/rag/results/
 !src/rag/data/topics.json
 !src/rag/data/train/**/*.json
 !src/rag/Rag-evaluation/data/**/*.json
+
+# WandB
+# Ignore WandB logs and directories
+*/wandb/
