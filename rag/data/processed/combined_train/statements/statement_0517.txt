@@ -1,0 +1,1 @@
+MRI diffusion-weighted imaging can detect brain infarcts within 3 hours of stroke onset, often before abnormalities appear on other imaging sequences.
