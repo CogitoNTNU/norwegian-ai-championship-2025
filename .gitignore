@@ -253,3 +253,5 @@ src/rag/results/
 wandb/
 
 results/
+
+videos/

@@ -47,11 +47,9 @@ class RealRaceCarEnv(gym.Env):
 
         # Action and observation spaces
         self.action_space = spaces.Discrete(5)
-        # Observation space: 16 sensors (0-1000) + 7 state features
-        obs_low = np.zeros(23, dtype=np.float32)
-        obs_high = np.full(23, 1000.0, dtype=np.float32)
-        # State features have different ranges
-        obs_high[16:] = 1.0  # Last 7 features are normalized 0-1
+        # Observation space: 16 sensors only (0-1)
+        obs_low = np.zeros(16, dtype=np.float32)
+        obs_high = np.ones(16, dtype=np.float32)
         self.observation_space = spaces.Box(
             low=obs_low, high=obs_high, dtype=np.float32
         )
@@ -192,16 +190,7 @@ class RealRaceCarEnv(gym.Env):
         cars_behind_normalized = min(cars_behind / 5.0, 1.0)
 
         observation = np.array(
-            sensor_readings
-            + [
-                velocity_x,
-                velocity_y,
-                position_y,
-                cars_ahead_normalized,
-                cars_behind_normalized,
-                closest_car_ahead_distance,
-                closest_car_behind_distance,
-            ],
+            sensor_readings,
             dtype=np.float32,
         )
         return observation
@@ -271,15 +260,9 @@ class RealRaceCarEnv(gym.Env):
 
         # Proximity penalty - discourage staying too close to other cars
         proximity_penalty = 0.0
-        min_distance = float("inf")
-        for sensor in core.STATE.sensors:
-            if sensor.reading is not None and sensor.reading < min_distance:
-                min_distance = sensor.reading
-
-        if min_distance < 50:  # Very close
-            proximity_penalty = -0.005
-        elif min_distance < 100:  # Close
-            proximity_penalty = -0.002
+        front_sensor = core.STATE.sensors[4]
+        if front_sensor.reading is not None:
+            proximity_penalty = front_sensor.reading / 1000.0
 
         # Remove steering penalty - we want the agent to steer for overtaking!
 
@@ -293,12 +276,11 @@ class RealRaceCarEnv(gym.Env):
 
         # Total reward - removed steering_penalty and survival_bonus
         reward = (
-            speed_reward
-            + overtaking_reward
-            + distance_reward
-            + proximity_penalty
-            + crash_penalty
-            + completion_bonus
+            # speed_reward
+            # + overtaking_reward
+            distance_reward + proximity_penalty
+            # + crash_penalty
+            # + completion_bonus
         )
 
         # Accumulate rewards throughout the episode
