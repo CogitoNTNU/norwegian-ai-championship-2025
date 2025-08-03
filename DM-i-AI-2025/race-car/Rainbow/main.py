@@ -24,7 +24,7 @@ parser.add_argument("--disable-cuda", action="store_true", help="Disable CUDA")
 parser.add_argument(
     "--T-max",
     type=int,
-    default=int(1e6),
+    default=int(1e12),
     metavar="STEPS",
     help="Number of training steps",
 )

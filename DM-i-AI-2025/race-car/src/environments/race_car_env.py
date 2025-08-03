@@ -134,34 +134,15 @@ class RealRaceCarEnv(gym.Env):
             # Use inverse normalization: close objects = higher values (more urgent)
             # This makes it easier for the model to learn that high sensor values = danger
             if sensor.reading is not None:
-                # Clamp reading to max sensor range
-                clamped_reading = min(sensor.reading, 1000.0)
                 # Inverse normalize: 0=far/safe, 1=close/danger
                 # This way close objects (50) become 0.95, far objects (1000) become 0.0
-                normalized_distance = 1.0 - (clamped_reading / 1000.0)
+                normalized_distance = (sensor.reading / 1000.0)
             else:
                 # No reading = nothing detected = safe = 0
-                normalized_distance = 0.0
+                normalized_distance = 1.0
             sensor_readings.append(normalized_distance)
 
-        while len(sensor_readings) < 16:
-            sensor_readings.append(0.0)  # Padding with 0 = safe/far
-        sensor_readings = sensor_readings[:16]
-
-        ego_car = core.STATE.ego
-        velocity_x = np.clip(ego_car.velocity.x / 20.0, 0.0, 1.0)
-        velocity_y = np.clip(abs(ego_car.velocity.y) / 10.0, 0.0, 1.0)
-        position_y = ego_car.y / 1200.0
-        lane_position = 0.5
-        if ego_car.lane:
-            lane_center = (ego_car.lane.y_start + ego_car.lane.y_end) / 2
-            lane_position = np.clip((ego_car.y - lane_center + 120) / 240.0, 0.0, 1.0)
-
-        observation = np.array(
-            sensor_readings + [velocity_x, velocity_y, position_y, lane_position],
-            dtype=np.float32,
-        )
-        return observation
+        return np.array(sensor_readings, dtype=np.float32)
 
     def _check_collisions(self):
         # Handle car collisions
@@ -200,7 +181,7 @@ class RealRaceCarEnv(gym.Env):
             if self.current_step >= self.max_steps_per_game and not core.STATE.crashed
             else 0.0
         )
-        reward = reward + crash_penalty + completion_bonus
+        reward = reward + crash_penalty + completion_bonus 
         self._reward_breakdown = {
             "speed_or_slow": reward,
             "crash_penalty": crash_penalty,

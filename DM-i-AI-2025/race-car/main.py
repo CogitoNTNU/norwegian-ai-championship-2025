@@ -34,7 +34,7 @@ def main():
     parser.add_argument(
         "--timesteps",
         type=int,
-        default=100000,
+        default=int(1e9),
         help="Number of training timesteps (for train mode)",
     )
     parser.add_argument(

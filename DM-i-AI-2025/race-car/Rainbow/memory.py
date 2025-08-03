@@ -7,13 +7,13 @@ import torch
 Transition_dtype = np.dtype(
     [
         ("timestep", np.int32),
-        ("state", np.float32, (20,)),
+        ("state", np.float32, (16,)),
         ("action", np.int32),
         ("reward", np.float32),
         ("nonterminal", np.bool_),
     ]
 )
-blank_trans = (0, np.zeros((20,), dtype=np.float32), 0, 0.0, False)
+blank_trans = (0, np.zeros((16,), dtype=np.float32), 0, 0.0, False)
 
 
 # Segment tree data structure where parent node values are sum/max of children node values
