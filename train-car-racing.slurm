@@ -30,9 +30,9 @@ conda create -y --prefix ${ENV_PATH} python=3.11
 conda activate ${ENV_PATH}
 
 # UV
+cd race-car
 pip install uv
 uv sync
 
 export WANDB_API_KEY=322fddbf7912adefb6bc85d1bfd7330515e2c042
-cd src/race-car
-uv run python ppo/sweep_and_train.py
+uv run python ppo/train_ppo_real.py --rounds 100
