@@ -86,7 +86,6 @@ class RealRaceCarEnv(gym.Env):
 
         # Initialize accumulated reward tracking
         self._accumulated_rewards = {
-            "overtaking_reward": 0.0,
             "distance_reward": 0.0,
             "proximity_penalty": 0.0,
             "crash_penalty": 0.0,
@@ -234,27 +233,8 @@ class RealRaceCarEnv(gym.Env):
         # Remove speed reward to eliminate correlation with episode length
         speed_reward = 0.0
 
-        # Overtaking reward - count cars that moved from ahead to behind
-        # Give significant one-time bonus for overtaking
+        # Remove overtaking reward - focus on distance and safety
         overtaking_reward = 0.0
-        if hasattr(self, "_last_cars_ahead"):
-            cars_ahead_now = sum(
-                1
-                for car in core.STATE.cars
-                if car != core.STATE.ego and car.x > core.STATE.ego.x
-            )
-            if cars_ahead_now < self._last_cars_ahead:
-                # Successfully overtook a car!
-                overtaking_reward = 0.5 * (
-                    self._last_cars_ahead - cars_ahead_now
-                )  # Divided by 10
-            self._last_cars_ahead = cars_ahead_now
-        else:
-            self._last_cars_ahead = sum(
-                1
-                for car in core.STATE.cars
-                if car != core.STATE.ego and car.x > core.STATE.ego.x
-            )
 
         # Total distance reward - reward based on how far the car has traveled
         # This encourages reaching farther points in the race (doubled)
@@ -285,17 +265,10 @@ class RealRaceCarEnv(gym.Env):
             else 0.0
         )
 
-        # Total reward - removed speed_reward, steering_penalty, and survival_bonus
-        reward = (
-            overtaking_reward
-            + distance_reward
-            + proximity_penalty
-            + crash_penalty
-            + completion_bonus
-        )
+        # Total reward - focus on distance, safety, and completion
+        reward = distance_reward + proximity_penalty + crash_penalty + completion_bonus
 
         # Accumulate rewards throughout the episode
-        self._accumulated_rewards["overtaking_reward"] += overtaking_reward
         self._accumulated_rewards["distance_reward"] = (
             distance_reward  # Current total distance reward
         )
