@@ -1,0 +1,1 @@
+The ACC/AHA staging system classifies Stage B heart failure as patients with structural heart disease and current or previous symptoms of heart failure, while Stage C represents asymptomatic patients with structural heart disease.

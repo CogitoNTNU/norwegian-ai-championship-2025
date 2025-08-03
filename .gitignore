@@ -207,6 +207,8 @@ __marimo__/
 # Local development environment files
 .env
 experiments/*
+# Keep juyter notebooks in experiments
+!experiments/*.ipynb
 !experiments/.gitkeep
 
 # Generated files
@@ -214,3 +216,17 @@ requirements.txt
 
 
 data_augmented/
+
+# MONAI data
+runs/
+
+# RAG project specific
+src/rag/cache/
+src/rag/results/
+!src/rag/data/topics.json
+!src/rag/data/train/**/*.json
+!src/rag/Rag-evaluation/data/**/*.json
+
+# WandB
+# Ignore WandB logs and directories
+*/wandb/

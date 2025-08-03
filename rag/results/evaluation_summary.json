@@ -1,0 +1,92 @@
+[
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_194106",
+        "template": "healthcare_rag",
+        "context_recall": 0.7230961671179063,
+        "context_precision": 0.6499999999615278,
+        "answer_relevancy": 0.7317713858898084,
+        "response_time": 7.864403343200683,
+        "avg_score": 0.7016225176564141
+    },
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_192906",
+        "template": "healthcare_rag",
+        "context_recall": 0.0,
+        "context_precision": 0.6305555555168981,
+        "answer_relevancy": 0.7305449827653163,
+        "response_time": 11.440795874595642,
+        "avg_score": 0.45370017942740476
+    },
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_214546",
+        "template": "healthcare_rag",
+        "context_recall": 1.0,
+        "context_precision": 0.9158766233389211,
+        "answer_relevancy": 0.21527322227273354,
+        "response_time": 7.80801842212677,
+        "avg_score": 0.7103832818705516
+    },
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_222703",
+        "template": "healthcare_rag",
+        "context_recall": 1.0,
+        "context_precision": 0.8795432900059812,
+        "answer_relevancy": 0.42648983119819883,
+        "response_time": 5.362586259841919,
+        "avg_score": 0.76867770706806
+    },
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_195038",
+        "template": "healthcare_rag",
+        "context_recall": 0.6837655943090726,
+        "context_precision": 0.6749999999545834,
+        "answer_relevancy": 0.7343322474871019,
+        "response_time": 3.1592544078826905,
+        "avg_score": 0.6976992805835861
+    },
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_212304",
+        "template": "healthcare_rag",
+        "context_recall": 0.8577715842933233,
+        "context_precision": 0.7766666666194832,
+        "answer_relevancy": 0.7354993941041077,
+        "response_time": 3.6418197631835936,
+        "avg_score": 0.7899792150056381
+    },
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_205949",
+        "template": "healthcare_rag",
+        "context_recall": 0.8577715842933233,
+        "context_precision": 0.6915079364710113,
+        "answer_relevancy": 0.7361854110745425,
+        "response_time": 3.1085376739501953,
+        "avg_score": 0.7618216439462925
+    },
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_193509",
+        "template": "healthcare_rag",
+        "context_recall": 0.0,
+        "context_precision": 0.6305555555168981,
+        "answer_relevancy": 0.7307436188624596,
+        "response_time": 8.80144670009613,
+        "avg_score": 0.453766391459786
+    },
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_190851",
+        "template": "healthcare_rag",
+        "context_recall": 0.0,
+        "context_precision": 0.0,
+        "answer_relevancy": 0.0,
+        "response_time": 8.62717628479004e-06,
+        "avg_score": 0.0
+    },
+    {
+        "run_folder": "M1_Q200_C208_healthcare_rag_qwen8b_20250802_230520",
+        "template": "healthcare_rag",
+        "context_recall": 1.0,
+        "context_precision": 0.9133766233389835,
+        "answer_relevancy": 0.6400955062131776,
+        "response_time": 8.807686376571656,
+        "avg_score": 0.8511573765173871
+    }
+]
