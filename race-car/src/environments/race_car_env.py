@@ -262,8 +262,7 @@ class RealRaceCarEnv(gym.Env):
             )  # Increased to incentivize forward progress
         self._last_distance = core.STATE.distance
 
-        # Survival bonus - reward staying alive each step
-        survival_bonus = 0.01
+        # Remove survival bonus - it creates false correlation with episode length
 
         # Proximity penalty - discourage staying too close to other cars
         proximity_penalty = 0.0
@@ -287,7 +286,7 @@ class RealRaceCarEnv(gym.Env):
             else 0.0
         )
 
-        # Total reward - removed steering_penalty, added survival_bonus
+        # Total reward - removed steering_penalty and survival_bonus
         reward = (
             speed_reward
             + overtaking_reward
@@ -295,7 +294,6 @@ class RealRaceCarEnv(gym.Env):
             + proximity_penalty
             + crash_penalty
             + completion_bonus
-            + survival_bonus
         )
 
         self._reward_breakdown = {
@@ -305,7 +303,6 @@ class RealRaceCarEnv(gym.Env):
             "proximity_penalty": proximity_penalty,
             "crash_penalty": crash_penalty,
             "completion_bonus": completion_bonus,
-            "survival_bonus": survival_bonus,
         }
         return reward
 
