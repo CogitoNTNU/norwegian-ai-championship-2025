@@ -80,7 +80,6 @@ class RealRaceCarEnv(gym.Env):
         core.STATE.cars = [core.STATE.ego]
         self.current_step = 0
         self.crashed_steps = 0
-        self._last_distance = core.STATE.distance
         self._following_steps = 0
         self._last_y = core.STATE.ego.y
         self._last_cars_ahead = 0  # Initialize overtaking tracker
@@ -253,14 +252,10 @@ class RealRaceCarEnv(gym.Env):
                 if car != core.STATE.ego and car.x > core.STATE.ego.x
             )
 
-        # Distance progress reward - make this more significant
-        distance_reward = 0.0
-        if hasattr(self, "_last_distance"):
-            distance_progress = core.STATE.distance - self._last_distance
-            distance_reward = (
-                distance_progress / 500.0
-            )  # Increased to incentivize forward progress
-        self._last_distance = core.STATE.distance
+        # Total distance reward - reward based on how far the car has traveled
+        # This encourages reaching farther points in the race
+        total_distance = core.STATE.distance
+        distance_reward = total_distance / 5000.0  # Normalize based on total distance
 
         # Remove survival bonus - it creates false correlation with episode length
 
