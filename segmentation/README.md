@@ -55,10 +55,10 @@ uv run api    # Start API with auto port cleanup
 - ✅ **Hot reload** - Automatically restarts when code changes
 - ✅ **All dependencies** - Includes FastAPI, NumPy, Loguru, and more
 
-Test the tumor segmentation endpoint at `http://localhost:8000/tumor/predict`:
+Test the tumor segmentation endpoint at `http://localhost:9051/predict`:
 
 ```bash
-curl -X POST http://localhost:8000/tumor/predict \
+curl -X POST http://localhost:9051/predict \
      -H "Content-Type: application/json" \
      -d '{"img": "base64-encoded-image-data"}'
 ```
@@ -68,6 +68,66 @@ curl -X POST http://localhost:8000/tumor/predict \
 ```json
 {"img": "base64-encoded-segmentation-mask"}
 ```
+
+## Validation Using Pinggy Tunnel
+
+To properly validate your local Tumor Segmentation server against the Norwegian AI Championship competition server, follow these steps:
+
+### 1. Run the Server Locally
+
+From your project root (e.g., `tumor-segmentation` folder), start the Tumor Segmentation API server:
+
+```bash
+uv run api
+```
+
+This will start the server locally at `http://localhost:9051`.
+
+### 1.5. Monitor Server Logs
+
+To follow the server logs in real-time:
+
+```bash
+tail -f logs/api.log
+```
+
+### 2. Open a New Terminal
+
+In a separate terminal window, navigate to the project directory where you want to run validation commands.
+
+### 3. Create a Pinggy Tunnel
+
+Use SSH to expose your local port 9051 to the internet via Pinggy:
+
+```bash
+ssh -p 443 -R0:localhost:9051 free.pinggy.io
+```
+
+Replace `9051` with the port your service is listening on if different.
+
+- The tunnel will allocate a public HTTPS URL forwarding to your local service.
+- Keep this terminal open as long as the tunnel should remain active.
+
+### 4. Use the Pinggy URL For Validation
+
+Go to the Norwegian AI Championship website: [https://cases.ainm.no/](https://cases.ainm.no/)
+
+- Navigate to the task you are working on (e.g., Tumor Segmentation).
+- Paste your Pinggy HTTPS URL (e.g., `https://rnxtd-....a.free.pinggy.link/predict`) as the endpoint URL.
+- Enter your competition token.
+- Submit the evaluation request.
+
+### 5. Monitor Validation Results
+
+- The remote competition server will send test queries to your exposed endpoint.
+- You can monitor logs locally and check the scoreboard.
+
+**Benefits of this method:**
+
+- Your server runs locally with all optimizations.
+- The competition server accesses your system reliably via HTTPS.
+- You avoid issues with local-only or cached API instances.
+- Validation runs smoothly and reflects your optimized model performance.
 
 ## MIP-PET
 

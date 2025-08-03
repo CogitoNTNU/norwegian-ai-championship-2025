@@ -61,7 +61,7 @@ norwegian-ai-championship-2025/
 │   ├── data/                    # RAG-specific data
 │   ├── cache/                   # Model cache
 │   ├── results/                 # Evaluation results
-│   └── Rag-evaluation/          # Evaluation framework
+│   └── rag-evaluation/          # Evaluation framework
 ├── segmentation/                # Tumor Segmentation
 │   ├── api.py                   # FastAPI application
 │   ├── example.py               # Prediction functions
@@ -101,22 +101,23 @@ Each task is completely independent. Navigate to the task folder and run:
 ```bash
 cd rag/
 uv sync                          # Install dependencies
-uv run uvicorn api:app --host 0.0.0.0 --port 8000
+uv run api                       # Start server on port 8000
 ```
 
 **Features:**
 
 - BM25s-powered retrieval system
 - Medical statement classification
-- Topic identification (140+ topics)
+- Topic identification (115+ topics)
 - Mistral 7B-Instruct integration
+- Auto port cleanup and logging
 
 ### Tumor Segmentation 🔬
 
 ```bash
 cd segmentation/
 uv sync                          # Install dependencies  
-uv run uvicorn api:app --host 0.0.0.0 --port 9051
+uv run api                       # Start server on port 9051
 ```
 
 **Features:**
@@ -125,13 +126,14 @@ uv run uvicorn api:app --host 0.0.0.0 --port 9051
 - Tumor detection and segmentation
 - Base64 image handling
 - PyTorch/scikit-learn support
+- Auto port cleanup and logging
 
 ### Race Car Control 🏎️
 
 ```bash
 cd race-car/
 uv sync                          # Install dependencies
-uv run uvicorn api:app --host 0.0.0.0 --port 9052
+uv run api                       # Start server on port 9052
 ```
 
 **Features:**
@@ -140,6 +142,7 @@ uv run uvicorn api:app --host 0.0.0.0 --port 9052
 - Action prediction (ACCELERATE, STEER_LEFT, etc.)
 - Pygame-based simulation
 - Sensor data integration
+- Auto port cleanup and logging
 
 ## 🎯 API Endpoints
 
@@ -189,6 +192,12 @@ curl -X POST "http://localhost:9052/predict" \
    - **Race Car Control**: Edit `example.py` → `predict_race_car_action()`
 
 1. **Test locally**:
+
+   ```bash
+   uv run api                      # Start with auto port cleanup and logging
+   ```
+
+   Or for development with hot reload:
 
    ```bash
    uv run uvicorn api:app --host 0.0.0.0 --port [PORT] --reload
@@ -245,6 +254,56 @@ curl https://cases.ainm.no/api/v1/usecases/race-car/validate/queue \
      -X POST --header "x-token: $EVAL_API_TOKEN" \
      --data "{\"url\": \"$SERVICE_URL/predict\"}"
 ```
+
+## 🌐 External Validation with Pinggy Tunnels
+
+For proper validation against the Norwegian AI Championship competition server, expose your local API via Pinggy tunnels:
+
+### 1. Start Your Local Server
+
+From any task directory:
+
+```bash
+cd rag/          # or segmentation/ or race-car/
+uv run api       # Starts server with auto port cleanup
+```
+
+### 2. Monitor Server Logs
+
+In the same directory, follow the logs in real-time:
+
+```bash
+tail -f logs/api.log
+```
+
+### 3. Create Pinggy Tunnel (New Terminal)
+
+Expose your local server to the internet:
+
+```bash
+# For Emergency Healthcare RAG (port 8000)
+ssh -p 443 -R0:localhost:8000 free.pinggy.io
+
+# For Tumor Segmentation (port 9051)
+ssh -p 443 -R0:localhost:9051 free.pinggy.io
+
+# For Race Car Control (port 9052)
+ssh -p 443 -R0:localhost:9052 free.pinggy.io
+```
+
+### 4. Submit to Competition Website
+
+1. Go to [https://cases.ainm.no/](https://cases.ainm.no/)
+1. Navigate to your task (Emergency Healthcare RAG, Tumor Segmentation, or Race Car)
+1. Paste your Pinggy HTTPS URL (e.g., `https://rnxtd-....a.free.pinggy.link/predict`)
+1. Enter your competition token
+1. Submit the evaluation request
+
+### 5. Monitor Results
+
+- Watch the real-time logs: `tail -f logs/api.log`
+- Check the competition scoreboard for results
+- Keep both the server and tunnel running during validation
 
 ## 📦 Managing Dependencies with UV
 
@@ -383,7 +442,7 @@ This will build the documentation and start a local server at [http://127.0.0.1:
 1. Navigate to the task directory (`cd rag/` or `cd segmentation/` or `cd race-car/`)
 1. Install dependencies (`uv sync`)
 1. Make your changes
-1. Test locally (`uv run uvicorn api:app --reload`)
+1. Test locally (`uv run api` or `uv run uvicorn api:app --reload`)
 1. Validate with competition (`uv run validate`)
 1. Commit and push your changes
 

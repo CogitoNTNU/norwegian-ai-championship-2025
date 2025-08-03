@@ -207,19 +207,23 @@ __marimo__/
 # Local development environment files
 .env
 experiments/*
-# Keep juyter notebooks in experiments
-!experiments/*.ipynb
 !experiments/.gitkeep
 
 # Generated files
 requirements.txt
+
+# Model files and indexes
+*.pkl
+
+# Logs
+*.log
+logs/
 
 
 data_augmented/
 
 # MONAI data
 runs/
-
 # RAG project specific
 src/rag/cache/
 src/rag/results/
@@ -230,3 +234,5 @@ src/rag/results/
 # WandB
 # Ignore WandB logs and directories
 */wandb/
+
+results/
