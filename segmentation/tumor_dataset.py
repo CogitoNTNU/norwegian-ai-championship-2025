@@ -15,7 +15,6 @@ Directory structure expected (relative to the project root)::
 Controls ship without ground-truth masks; if you choose to include them they will automatically receive an all-zero mask so that the network can be trained with explicit negatives.
 """
 
-import math
 import os
 import random
 from glob import glob
@@ -26,7 +25,6 @@ from monai.transforms import (
     Transform,
     Compose,
     LoadImaged,
-    RandCropByPosNegLabeld,
     ScaleIntensityd,
 )
 
@@ -92,9 +90,9 @@ def create_tumor_dataset(
         f"Final dataset: {len(patient_pairs)} patients + {len(selected_control_pairs)} controls = {len(all_pairs)} samples (50/50 split)"
     )
 
-    split = math.floor(len(all_pairs) * val_size)
-    train_files = all_pairs[:split]
-    val_files = all_pairs[split:]
+    val_count = int(len(patient_pairs) * val_size)
+    val_files = patient_pairs[:val_count]
+    train_files = patient_pairs[val_count:] + selected_control_pairs
 
     default_transforms = [
         LoadImaged(keys=["img", "seg"]),
@@ -105,14 +103,6 @@ def create_tumor_dataset(
     train_transforms = Compose(
         [
             *default_transforms,
-            RandCropByPosNegLabeld(
-                keys=["img", "seg"],
-                label_key="seg",
-                spatial_size=[96, 96],
-                pos=1,
-                neg=1,
-                num_samples=4,
-            ),
             *train_data_augmentation,
         ]
     )
