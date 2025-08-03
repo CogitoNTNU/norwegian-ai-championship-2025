@@ -92,13 +92,32 @@ def analyze_existing_data(dataset_dir: str):
 
             # Store info from first valid mask
             if mask_info is None:
+                # Determine max value for the data type
+                if mask.dtype == np.uint8:
+                    max_val = 255
+                elif np.issubdtype(mask.dtype, np.integer):
+                    max_val = np.iinfo(mask.dtype).max
+                else:
+                    max_val = 1.0
+
                 mask_info = {
                     "shape": mask.shape,
                     "dtype": mask.dtype,
                     "has_channels": len(mask.shape) == 3,
                     "num_channels": mask.shape[2] if len(mask.shape) == 3 else 1,
                     "unique_values": np.unique(mask),
+                    "max_value": max_val,
                 }
+
+                # Check if this might be an alpha channel issue
+                if len(mask.shape) == 3 and mask.shape[2] == 4:
+                    alpha_channel = mask[:, :, 3]
+                    alpha_unique = np.unique(alpha_channel)
+                    print(f"    Alpha channel values: {alpha_unique}")
+                    if 0 in alpha_unique and len(alpha_unique) == 1:
+                        print(
+                            "    ⚠️  WARNING: Alpha channel is all zeros - might cause transparency issues!"
+                        )
     else:
         print("No patient masks found!")
 
@@ -144,12 +163,18 @@ def generate_control_masks(dataset_dir: str = "data/raw/tumor-segmentation"):
         print(
             "Could not determine mask format from patient data. Using default format."
         )
-        mask_info = {"has_channels": False, "num_channels": 1, "dtype": np.uint8}
+        mask_info = {
+            "has_channels": False,
+            "num_channels": 1,
+            "dtype": np.uint8,
+            "max_value": 255,
+        }
     else:
         print("\nUsing patient mask format for control masks:")
         print(f"  Channels: {mask_info['num_channels']}")
         print(f"  Dtype: {mask_info['dtype']}")
         print(f"  Has channel dimension: {mask_info['has_channels']}")
+        print(f"  Max value for dtype: {mask_info['max_value']}")
 
     # Configure paths
     controls_imgs_dir = os.path.join(dataset_dir, "controls", "imgs")
@@ -198,10 +223,23 @@ def generate_control_masks(dataset_dir: str = "data/raw/tumor-segmentation"):
 
         # Create empty mask with same format as patient masks
         if mask_info["has_channels"] and mask_info["num_channels"] > 1:
-            # Multi-channel mask (e.g., for multi-class segmentation)
+            # Multi-channel mask (e.g., for multi-class segmentation or RGBA)
             empty_mask = np.zeros(
                 (height, width, mask_info["num_channels"]), dtype=mask_info["dtype"]
             )
+
+            # If this is an RGBA mask (4 channels), set alpha channel to max value
+            if mask_info["num_channels"] == 4:
+                # Set alpha channel (index 3) to maximum value for opacity
+                max_val = mask_info.get("max_value", 255)
+                empty_mask[:, :, 3] = max_val
+
+            # For other multi-channel masks, check if we need to set any channels to non-zero
+            elif mask_info["num_channels"] == 3:
+                # For RGB masks, might need to handle differently depending on your use case
+                # Currently keeping all channels at 0 for RGB
+                pass
+
         else:
             # Single channel mask
             empty_mask = np.zeros((height, width), dtype=mask_info["dtype"])
@@ -283,14 +321,41 @@ def verify_control_masks(dataset_dir: str = "data/raw/tumor-segmentation"):
             mismatches += 1
             continue
 
-        # Check that mask is all zeros
-        if not np.all(mask == 0):
-            print(f"❌ Mask not empty: {os.path.basename(mask_path)}")
-            mismatches += 1
-            continue
+        # Check that mask segmentation channels are zeros, but alpha channel should be max
+        is_valid_mask = True
+        if len(mask.shape) == 3 and mask.shape[2] == 4:
+            # RGBA mask - check RGB channels are 0, alpha channel is max
+            rgb_channels = mask[:, :, :3]
+            alpha_channel = mask[:, :, 3]
+
+            if not np.all(rgb_channels == 0):
+                print(f"❌ RGB channels not empty: {os.path.basename(mask_path)}")
+                mismatches += 1
+                is_valid_mask = False
+
+            # Check alpha channel - should be max value (255 for uint8)
+            expected_alpha = (
+                255
+                if mask.dtype == np.uint8
+                else np.iinfo(mask.dtype).max
+                if np.issubdtype(mask.dtype, np.integer)
+                else 1.0
+            )
+            if not np.all(alpha_channel == expected_alpha):
+                unique_alpha = np.unique(alpha_channel)
+                print(f"❌ Alpha channel incorrect: {os.path.basename(mask_path)}")
+                print(f"   Expected: {expected_alpha}, Found: {unique_alpha}")
+                mismatches += 1
+                is_valid_mask = False
+        else:
+            # Single channel or RGB mask - should be all zeros
+            if not np.all(mask == 0):
+                print(f"❌ Mask not empty: {os.path.basename(mask_path)}")
+                mismatches += 1
+                is_valid_mask = False
 
         # Check format consistency with patient masks
-        if reference_mask is not None:
+        if reference_mask is not None and is_valid_mask:
             if len(mask.shape) != len(reference_mask.shape):
                 print(
                     f"❌ Channel dimension mismatch with patient masks: {os.path.basename(mask_path)}"
@@ -311,9 +376,12 @@ def verify_control_masks(dataset_dir: str = "data/raw/tumor-segmentation"):
                 mismatches += 1
                 continue
 
-        if i < 3:  # Show details for first few masks
+        if i < 3 and is_valid_mask:  # Show details for first few valid masks
             print(f"✅ Control mask {i + 1}: {os.path.basename(mask_path)}")
             print(f"   Shape: {mask.shape}, Dtype: {mask.dtype}")
+            if len(mask.shape) == 3 and mask.shape[2] == 4:
+                alpha_val = mask[0, 0, 3]  # Sample alpha value
+                print(f"   Alpha channel value: {alpha_val}")
 
     if mismatches == 0:
         print(
