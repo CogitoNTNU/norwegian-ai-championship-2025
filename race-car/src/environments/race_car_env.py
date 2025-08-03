@@ -83,6 +83,7 @@ class RealRaceCarEnv(gym.Env):
         self._following_steps = 0
         self._last_y = core.STATE.ego.y
         self._last_cars_ahead = 0  # Initialize overtaking tracker
+        self._last_distance = core.STATE.distance  # Track distance from last step
 
         # Initialize accumulated reward tracking
         self._accumulated_rewards = {
@@ -105,9 +106,6 @@ class RealRaceCarEnv(gym.Env):
 
         self.current_step += 1
 
-        obs = self._get_observation()
-        reward = self._calculate_reward(crashed_before)
-
         # --- Game ends instantly on crash or after timeout ---
         is_crash = core.STATE.crashed and self.crashed_steps >= self.max_crashed_steps
         is_timeout = self.current_step >= self.max_steps_per_game
@@ -118,6 +116,9 @@ class RealRaceCarEnv(gym.Env):
         )  # Ended by time (success if no crash)
 
         game_finished = terminated or truncated
+
+        obs = self._get_observation()
+        reward = self._calculate_reward(crashed_before)
 
         if game_finished:
             self.batch_rewards.append(reward)
@@ -235,10 +236,14 @@ class RealRaceCarEnv(gym.Env):
         # Remove overtaking reward - focus on distance and safety
         overtaking_reward = 0.0
 
-        # Total distance reward - reward based on how far the car has traveled
-        # This encourages reaching farther points in the race (doubled)
-        total_distance = core.STATE.distance
-        distance_reward = total_distance / 500.0  # Doubled from /1000
+        # Distance reward - based on distance progress from last step
+        current_distance = core.STATE.distance
+        if hasattr(self, "_last_distance"):
+            distance_progress = current_distance - self._last_distance
+            distance_reward = distance_progress / 500.0
+        else:
+            distance_reward = 0.0
+        self._last_distance = current_distance
 
         # Remove all penalties except crash - focus purely on distance
 
