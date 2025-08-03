@@ -26,7 +26,6 @@ from monai.transforms import (
     Compose,
     LoadImaged,
     RandCropByPosNegLabeld,
-    RandRotate90d,
     ScaleIntensityd,
 )
 
@@ -34,8 +33,8 @@ from monai.transforms import (
 def create_tumor_dataset(
     dataset_dir: str = "data/raw/tumor-segmentation",
     val_size: float = 0.8,
-    train_transforms: list[Transform] = [],
-    val_transforms: list[Transform] = [],
+    train_data_augmentation: list[Transform] = [],
+    val_data_augmentations: list[Transform] = [],
 ) -> tuple[Dataset, Dataset]:
     """
     Create a dataset for tumor segmentation.
@@ -83,10 +82,10 @@ def create_tumor_dataset(
                 neg=1,
                 num_samples=4,
             ),
-            RandRotate90d(keys=["img", "seg"], prob=0.5, spatial_axes=[0, 1]),
+            *train_data_augmentation,
         ]
     )
-    val_transforms = Compose([*default_transforms])
+    val_transforms = Compose([*default_transforms, *val_data_augmentations])
 
     # 4) Datasets og dataloaders
     train_ds = Dataset(data=train_files, transform=train_transforms)
