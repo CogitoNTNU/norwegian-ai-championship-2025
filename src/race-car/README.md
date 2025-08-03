@@ -83,79 +83,53 @@ The evaluation opens up on Thursday the 7th at 12:00 CET and will have a preset 
 
 ## Quickstart
 
-1. **Navigate to the race car directory:**
-
-   ```bash
-   cd src/race-car
-   ```
-
-1. **Install dependencies:**
-
-   ```bash
-   uv sync
-   ```
-
-1. **Run the simulation locally:**
-
-   ```bash
-   uv run python example.py
-   ```
-
-   By default the action input will use arrowkeys.
-
-## Validation
-
-Submit your solution for validation:
-
-```bash
-# Submit for validation
-uv run validate
-
-# Check validation status
-uv run check-status <uuid>
-
-# Submit and wait for completion
-uv run validate --wait
+```cmd
+git clone https://github.com/amboltio/DM-i-AI-2025
+cd DM-i-AI-2024/race-car
 ```
 
-## API Testing
+### Setup with uv (Recommended)
 
-The unified API serves all tasks with auto port cleanup and hot reload:
+Install dependencies with uv:
 
-```bash
-cd ../shared
-uv sync       # Install all API dependencies
-uv run api    # Start API with auto port cleanup
+```cmd
+uv sync
 ```
 
-**Features:**
+Or add dependencies individually:
 
-- ✅ **Auto port cleanup** - Kills any existing process on port 8000
-- ✅ **Hot reload** - Automatically restarts when code changes
-- ✅ **All dependencies** - Includes FastAPI, NumPy, Loguru, and more
-
-Test the race car endpoint at `http://localhost:8000/racecar/predict`:
-
-```bash
-curl -X POST http://localhost:8000/racecar/predict \
-     -H "Content-Type: application/json" \
-     -d '{
-       "did_crash": false,
-       "elapsed_time_ms": 1000,
-       "distance": 100,
-       "velocity": {"x": 10, "y": 0},
-       "coordinates": {"x": 50, "y": 25},
-       "sensors": {"front": 100, "left": 50, "right": 60}
-     }'
+```cmd
+uv add pygame fastapi "uvicorn[standard]" pydantic
 ```
 
-**Expected Response:**
+### Alternative: pip setup
 
-```json
-{"actions": ["ACCELERATE"]}
+Install dependencies
+
+```cmd
+pip install -r requirements.txt
 ```
 
-## Available Actions
+### Serve your endpoint
+
+Serve your endpoint locally and test that everything starts without errors
+
+**With uv:**
+
+```cmd
+cd race-car
+uv run python api.py
+```
+
+**With pip:**
+
+```cmd
+cd race-car
+python api.py
+```
+
+Open a browser and navigate to http://localhost:9052. You should see a message stating that the endpoint is running.
+Feel free to change the `HOST` and `PORT` settings in `api.py`.
 
 You can send the following action responses:
 
@@ -166,5 +140,23 @@ You can send the following action responses:
 - STEER_LEFT
 
 If you do not add an action amount, it will default to None, and one action will be added to the queue.
+
+### Run the simulation locally
+
+**With uv:**
+
+```cmd
+cd race-car
+uv run python example.py
+```
+
+**With pip:**
+
+```cmd
+cd race-car
+python example.py
+```
+
+By default the action input will use arrowkeys.
 
 **We recommend you do not change the amount of lanes or the size of the game during training.**
