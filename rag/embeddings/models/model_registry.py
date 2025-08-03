@@ -55,6 +55,12 @@ class ModelRegistry:
                 "model_name": "BAAI/bge-large-en-v1.5",
             },
         },
+        "BGE-large-en-v1.5": {
+            "class": SentenceTransformerModel,
+            "params": {
+                "model_name": "BAAI/bge-large-en-v1.5",
+            },
+        },
         "e5-base": {
             "class": E5Model,
             "params": {
