@@ -137,14 +137,13 @@ def train_real_ppo_model(
     eval_freq = 50_000
 
     if training_rounds is not None:
-        n_steps = 3600
+        n_steps = 3600  # One full 60-second game
         timesteps = training_rounds * n_steps
         print(f"Training for {training_rounds} rounds ({timesteps:,} timesteps)")
-        print("Each batch contains 3 games of 1 minute each")
-        print("PPO updates after every 3-game batch completion")
+        print("Each round is 1 game of 60 seconds (3600 timesteps)")
     else:
         print(f"Training for {timesteps:,} timesteps")
-        print("Each episode is now a batch of 3 games (3 minutes total)")
+        print("Each episode is 1 game of 60 seconds (3600 timesteps)")
 
     # WANDB INIT
     run = None
@@ -270,9 +269,9 @@ def train_real_ppo_model(
         wandb_callback = CustomWandbCallback(verbose=1)
         callbacks.append(wandb_callback)
 
-    print(f"Starting REAL batch training for {timesteps:,} timesteps...")
-    print("Each episode contains 3 consecutive 1-minute games")
-    print("PPO updates after completing each 3-game batch")
+    print(f"Starting REAL training for {timesteps:,} timesteps...")
+    print("Each episode is 1 game lasting 60 seconds (3600 timesteps)")
+    print(f"Running {n_envs} environments in parallel")
 
     model.learn(total_timesteps=timesteps, callback=callbacks, progress_bar=True)
 
@@ -313,7 +312,7 @@ if __name__ == "__main__":
         "--rounds",
         type=int,
         default=None,
-        help="Training rounds (each round = 2048 timesteps)",
+        help="Training rounds (each round = 3600 timesteps = 1 full 60-second game)",
     )
     parser.add_argument(
         "--project", default="race-car-real-ppo", help="Wandb project name"
@@ -328,11 +327,9 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    print("Starting REAL PPO training for Race Car with 3-game batches...")
-    print(
-        "Using actual game elements, collision detection, and batch termination logic"
-    )
-    print("Each training episode = 3 consecutive games of 1 minute each")
+    print("Starting REAL PPO training for Race Car...")
+    print("Using actual game elements, collision detection, and termination logic")
+    print("Each training episode = 1 game of 60 seconds")
 
     if args.resume_from:
         print(f"Resuming training from: {args.resume_from}")
