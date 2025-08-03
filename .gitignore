@@ -212,6 +212,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+models/
 
 # Local development environment files
 .env
