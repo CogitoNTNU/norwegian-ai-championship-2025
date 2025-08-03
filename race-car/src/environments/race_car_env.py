@@ -87,7 +87,6 @@ class RealRaceCarEnv(gym.Env):
         # Initialize accumulated reward tracking
         self._accumulated_rewards = {
             "distance_reward": 0.0,
-            "proximity_penalty": 0.0,
             "crash_penalty": 0.0,
             "completion_bonus": 0.0,
         }
@@ -241,47 +240,32 @@ class RealRaceCarEnv(gym.Env):
         total_distance = core.STATE.distance
         distance_reward = total_distance / 500.0  # Doubled from /1000
 
-        # Remove survival bonus - it creates false correlation with episode length
+        # Remove all penalties except crash - focus purely on distance
 
-        # Proximity penalty - discourage staying too close to other cars
-        proximity_penalty = 0.0
-        min_distance = float("inf")
-        for sensor in core.STATE.sensors:
-            if sensor.reading is not None and sensor.reading < min_distance:
-                min_distance = sensor.reading
-
-        if min_distance < 50:  # Very close
-            proximity_penalty = -0.05  # Increased by factor of 10
-        elif min_distance < 100:  # Close
-            proximity_penalty = -0.02  # Increased by factor of 10
-
-        # Remove steering penalty - we want the agent to steer for overtaking!
-
-        # Crash and completion - reduce crash penalty for better exploration
-        crash_penalty = -50.0 if (core.STATE.crashed and not crashed_before) else 0.0
+        # Crash penalty - increased to -100 as requested
+        crash_penalty = -100.0 if (core.STATE.crashed and not crashed_before) else 0.0
         completion_bonus = (
             100.0
             if self.current_step >= self.max_steps_per_game and not core.STATE.crashed
             else 0.0
         )
 
-        # Total reward - focus on distance, safety, and completion
-        reward = distance_reward + proximity_penalty + crash_penalty + completion_bonus
+        # Total reward - pure distance focus with crash/completion events
+        reward = distance_reward + crash_penalty + completion_bonus
 
         # Accumulate rewards throughout the episode
         self._accumulated_rewards["distance_reward"] = (
             distance_reward  # Current total distance reward
         )
-        self._accumulated_rewards["proximity_penalty"] += proximity_penalty
         self._accumulated_rewards["crash_penalty"] += crash_penalty
         self._accumulated_rewards["completion_bonus"] += completion_bonus
 
         # Store both current step breakdown and accumulated totals
         self._reward_breakdown = {
             "speed_reward": speed_reward,  # Always 0 now
-            "overtaking_reward": overtaking_reward,
+            "overtaking_reward": overtaking_reward,  # Always 0 now
             "distance_reward": distance_reward,
-            "proximity_penalty": proximity_penalty,
+            "proximity_penalty": 0.0,  # Always 0 now
             "crash_penalty": crash_penalty,
             "completion_bonus": completion_bonus,
         }
