@@ -5,10 +5,13 @@ description = "This is a project for Cogito NTNU's submissions to the Norwegian 
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "einops>=0.8.1",
+    "faiss-cpu>=1.11.0.post1",
     "fastapi[standard]>=0.116.1",
     "loguru>=0.7.3",
     "numpy>=2.3.2",
     "pygame>=2.6.1",
+    "sentence-transformers>=5.0.0",
     "uvicorn>=0.35.0",
 ]
 

@@ -60,6 +60,7 @@ class ModelRegistry:
             "params": {
                 "model_name": "nomic-ai/nomic-embed-text-v1.5",
                 "matryoshka_dims": [768, 512, 256, 128, 64],
+                "trust_remote_code": True,
             },
         },
         # Medical models

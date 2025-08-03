@@ -6,8 +6,8 @@ from pathlib import Path
 import sys
 from tqdm import tqdm
 
-# Add parent directory to path
-sys.path.append(str(Path(__file__).parent.parent.parent))
+# Add src directory to path
+sys.path.append(str(Path(__file__).parent.parent.parent.parent))
 
 from rag.embeddings.managers import ModelManager
 from rag.embeddings.models import get_registry

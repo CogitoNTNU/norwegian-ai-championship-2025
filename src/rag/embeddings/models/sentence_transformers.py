@@ -42,8 +42,13 @@ class SentenceTransformerModel(BaseEmbeddingModel):
     def load_model(self) -> None:
         """Load the sentence transformer model."""
         if self.model is None:
+            # Extract trust_remote_code from config if present
+            trust_remote_code = self.config.get("trust_remote_code", False)
             self.model = SentenceTransformer(
-                self.model_name, device=self.device, cache_folder=self.cache_folder
+                self.model_name,
+                device=self.device,
+                cache_folder=self.cache_folder,
+                trust_remote_code=trust_remote_code,
             )
 
     def unload_model(self) -> None:

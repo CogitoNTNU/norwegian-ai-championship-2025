@@ -4,8 +4,8 @@
 import sys
 from pathlib import Path
 
-# Add parent directory to path
-sys.path.append(str(Path(__file__).parent.parent.parent))
+# Add src directory to path
+sys.path.append(str(Path(__file__).parent.parent.parent.parent))
 
 from rag.embeddings.models import get_embedding_model
 from rag.embeddings.utils import update_document_store
@@ -20,8 +20,8 @@ def main():
 
     print("\n1. Testing basic embedding functionality...")
 
-    # Load a model
-    model = get_embedding_model("nomic-embed-text-v1.5")
+    # Load a model (using all-MiniLM-L6-v2 for initial test)
+    model = get_embedding_model("all-MiniLM-L6-v2")
 
     # Test encoding
     test_statements = [

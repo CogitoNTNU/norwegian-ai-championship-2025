@@ -6,8 +6,8 @@ from pathlib import Path
 import time
 import numpy as np
 
-# Add parent directory to path
-sys.path.append(str(Path(__file__).parent.parent.parent))
+# Add src directory to path
+sys.path.append(str(Path(__file__).parent.parent.parent.parent))
 
 from rag.embeddings.models import get_embedding_model
 from rag.embeddings.managers import ModelManager
