@@ -15,8 +15,8 @@ Directory structure expected (relative to the project root)::
 Controls ship without ground-truth masks; if you choose to include them they will automatically receive an all-zero mask so that the network can be trained with explicit negatives.
 """
 
-import math
 import os
+import random
 from glob import glob
 
 from monai.data import list_data_collate, DataLoader, Dataset
@@ -25,7 +25,6 @@ from monai.transforms import (
     Transform,
     Compose,
     LoadImaged,
-    RandCropByPosNegLabeld,
     ScaleIntensityd,
 )
 
@@ -49,21 +48,51 @@ def create_tumor_dataset(
     """
     # Configure directories
     controls_imgs = sorted(glob(os.path.join(dataset_dir, "controls", "imgs", "*.png")))
+    control_masks = sorted(
+        glob(os.path.join(dataset_dir, "controls", "labels", "*.png"))
+    )
     print(f"Found {len(controls_imgs)} control images.")
     patient_imgs = sorted(glob(os.path.join(dataset_dir, "patients", "imgs", "*.png")))
     patient_segs = sorted(
         glob(os.path.join(dataset_dir, "patients", "labels", "*.png"))
     )
+    print(f"Found {len(patient_imgs)} patient images.")
 
-    # 2) Lag liste over filpar for trening og validering
-    #    Vi bruker kun pasientene her (fordi controls mangler ekte mask)
-    all_pairs = [
+    # Create pairs for both patients and controls
+    patient_pairs = [
         {"img": img, "seg": seg} for img, seg in zip(patient_imgs, patient_segs)
     ]
 
-    split = math.floor(len(all_pairs) * val_size)
-    train_files = all_pairs[:split]
-    val_files = all_pairs[split:]
+    control_pairs = [
+        {"img": img, "seg": seg} for img, seg in zip(controls_imgs, control_masks)
+    ]
+
+    # Use all patient data and randomly sample equal number of controls for 50/50 split
+    num_patients = len(patient_pairs)
+
+    if len(control_pairs) >= num_patients:
+        # Randomly sample control pairs to match the number of patient pairs
+        random.seed(42)  # For reproducibility
+        selected_control_pairs = random.sample(control_pairs, num_patients)
+        print(
+            f"Randomly selected {num_patients} control samples from {len(control_pairs)} available."
+        )
+    else:
+        # Use all available control pairs if there are fewer than patient pairs
+        selected_control_pairs = control_pairs
+        print(
+            f"Warning: Only {len(control_pairs)} control samples available, less than {num_patients} patient samples."
+        )
+
+    # Concatenate all data (patients + selected controls)
+    all_pairs = patient_pairs + selected_control_pairs
+    print(
+        f"Final dataset: {len(patient_pairs)} patients + {len(selected_control_pairs)} controls = {len(all_pairs)} samples (50/50 split)"
+    )
+
+    val_count = int(len(patient_pairs) * val_size)
+    val_files = patient_pairs[:val_count]
+    train_files = patient_pairs[val_count:] + selected_control_pairs
 
     default_transforms = [
         LoadImaged(keys=["img", "seg"]),
@@ -74,14 +103,6 @@ def create_tumor_dataset(
     train_transforms = Compose(
         [
             *default_transforms,
-            RandCropByPosNegLabeld(
-                keys=["img", "seg"],
-                label_key="seg",
-                spatial_size=[96, 96],
-                pos=1,
-                neg=1,
-                num_samples=4,
-            ),
             *train_data_augmentation,
         ]
     )
