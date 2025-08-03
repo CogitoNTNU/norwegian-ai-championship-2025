@@ -1,6 +1,6 @@
 #!/bin/sh
 #SBATCH --account=studiegrupper-cogito
-#SBATCH --job-name=RL-carRacing
+#SBATCH --job-name=tumor_segmentation
 #SBATCH --time=5:00:00         # format: D-HH:MM:SS
 #SBATCH --partition=GPUQ          # Asking for a CPU
 #SBATCH --mem=16G                 # Asking for xGB RAM
