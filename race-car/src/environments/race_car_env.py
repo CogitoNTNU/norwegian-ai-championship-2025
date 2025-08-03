@@ -86,7 +86,6 @@ class RealRaceCarEnv(gym.Env):
 
         # Initialize accumulated reward tracking
         self._accumulated_rewards = {
-            "speed_reward": 0.0,
             "overtaking_reward": 0.0,
             "distance_reward": 0.0,
             "proximity_penalty": 0.0,
@@ -232,15 +231,8 @@ class RealRaceCarEnv(gym.Env):
                     return
 
     def _calculate_reward(self, crashed_before):
-        # Base speed reward - encourage good speed but not reckless
-        # Scale: much more generous to encourage movement (10x increase)
-        speed = core.STATE.ego.velocity.x
-        if speed < 3:  # Lowered threshold
-            speed_reward = 0.0  # No penalty, just no reward
-        elif speed > 18:
-            speed_reward = 0.3  # Increased by factor of 10
-        else:
-            speed_reward = speed / 60.0  # More generous scaling (10x)
+        # Remove speed reward to eliminate correlation with episode length
+        speed_reward = 0.0
 
         # Overtaking reward - count cars that moved from ahead to behind
         # Give significant one-time bonus for overtaking
@@ -253,7 +245,9 @@ class RealRaceCarEnv(gym.Env):
             )
             if cars_ahead_now < self._last_cars_ahead:
                 # Successfully overtook a car!
-                overtaking_reward = 5.0 * (self._last_cars_ahead - cars_ahead_now)
+                overtaking_reward = 0.5 * (
+                    self._last_cars_ahead - cars_ahead_now
+                )  # Divided by 10
             self._last_cars_ahead = cars_ahead_now
         else:
             self._last_cars_ahead = sum(
@@ -263,9 +257,9 @@ class RealRaceCarEnv(gym.Env):
             )
 
         # Total distance reward - reward based on how far the car has traveled
-        # This encourages reaching farther points in the race (5x increase)
+        # This encourages reaching farther points in the race (doubled)
         total_distance = core.STATE.distance
-        distance_reward = total_distance / 1000.0  # Increased by factor of 5
+        distance_reward = total_distance / 500.0  # Doubled from /1000
 
         # Remove survival bonus - it creates false correlation with episode length
 
@@ -277,9 +271,9 @@ class RealRaceCarEnv(gym.Env):
                 min_distance = sensor.reading
 
         if min_distance < 50:  # Very close
-            proximity_penalty = -0.005
+            proximity_penalty = -0.05  # Increased by factor of 10
         elif min_distance < 100:  # Close
-            proximity_penalty = -0.002
+            proximity_penalty = -0.02  # Increased by factor of 10
 
         # Remove steering penalty - we want the agent to steer for overtaking!
 
@@ -291,10 +285,9 @@ class RealRaceCarEnv(gym.Env):
             else 0.0
         )
 
-        # Total reward - removed steering_penalty and survival_bonus
+        # Total reward - removed speed_reward, steering_penalty, and survival_bonus
         reward = (
-            speed_reward
-            + overtaking_reward
+            overtaking_reward
             + distance_reward
             + proximity_penalty
             + crash_penalty
@@ -302,7 +295,6 @@ class RealRaceCarEnv(gym.Env):
         )
 
         # Accumulate rewards throughout the episode
-        self._accumulated_rewards["speed_reward"] += speed_reward
         self._accumulated_rewards["overtaking_reward"] += overtaking_reward
         self._accumulated_rewards["distance_reward"] = (
             distance_reward  # Current total distance reward
@@ -313,7 +305,7 @@ class RealRaceCarEnv(gym.Env):
 
         # Store both current step breakdown and accumulated totals
         self._reward_breakdown = {
-            "speed_reward": speed_reward,
+            "speed_reward": speed_reward,  # Always 0 now
             "overtaking_reward": overtaking_reward,
             "distance_reward": distance_reward,
             "proximity_penalty": proximity_penalty,
