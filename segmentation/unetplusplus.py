@@ -27,7 +27,7 @@ def main(dataset_dir):
     monai.config.print_config()
 
     NUM_EPOCHS = 10
-    BATCH_SIZE = 2
+    BATCH_SIZE = 16
     LR = 1e-3
     PATCH_SIZE = (96, 96)
 
@@ -58,12 +58,12 @@ def main(dataset_dir):
         train_ds,
         batch_size=BATCH_SIZE,
         shuffle=True,
-        num_workers=4,
+        num_workers=1,
         collate_fn=list_data_collate,
         pin_memory=torch.cuda.is_available(),
     )
     val_loader = DataLoader(
-        val_ds, batch_size=1, num_workers=4, collate_fn=list_data_collate
+        val_ds, batch_size=1, num_workers=1, collate_fn=list_data_collate
     )
 
     # Model, loss, optimizer
