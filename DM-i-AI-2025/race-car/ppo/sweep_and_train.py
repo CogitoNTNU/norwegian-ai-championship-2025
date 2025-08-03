@@ -93,7 +93,7 @@ def evaluate_hyperparameters(params, job_id, trial_id, eval_steps=100000):
     model = PPO(
         "MlpPolicy",
         train_env,
-        verbose=1,
+        verbose=0,
         learning_rate=params["learning_rate"],
         n_steps=params["n_steps"],
         batch_size=params["batch_size"],
@@ -161,8 +161,7 @@ def evaluate_hyperparameters(params, job_id, trial_id, eval_steps=100000):
             final_distance = np.mean(distances) if distances else 0
 
         # Calculate composite score (same as sweep)
-        normalized_distance = final_distance / 3000.0
-        composite_score = 0.7 * final_reward + 0.3 * (normalized_distance * 1000)
+        composite_score = final_reward
 
         print("   ✅ Evaluation complete!")
         print(f"      Average reward: {final_reward:.2f}")
@@ -199,24 +198,23 @@ def full_training(best_params, job_id, training_rounds=10000):
     print(f"   Best parameters: {best_params}")
 
     # Use same logic as train_ppo_real.py --rounds 10000
-    n_envs = 4
-    eval_freq = 50_000  # Same as train_ppo_real.py
+    n_envs = 12
+    eval_freq = 100_000  # Same as train_ppo_real.py
 
     # Calculate timesteps like train_ppo_real.py does for rounds
-    n_steps = 3600  # 3 games * 3600 steps per game = 10800 steps per batch
+    n_steps = 36000  # 3 games * 3600 steps per game = 10800 steps per batch
     timesteps = training_rounds * n_steps
     print(f"   Training for {training_rounds} rounds ({timesteps:,} timesteps)")
     print("   Each batch contains 3 games of 1 minute each")
     print("   PPO updates after every 3-game batch completion")
 
-    # Initialize wandb exactly like train_ppo_real.py
     config = {
         "algorithm": "PPO",
         "total_timesteps": timesteps,
         "n_envs": n_envs,
-        "reward_threshold": 600,  # Increased for 3-game batches
+        "reward_threshold":1200,  # Increased for 3-game batches
         "environment": "real_race_car_batch_game",
-        "games_per_batch": 3,
+        "games_per_batch": 1,
         "game_duration_seconds": 60,
         "job_id": job_id,
         "best_hyperparams": best_params,
@@ -263,7 +261,7 @@ def full_training(best_params, job_id, training_rounds=10000):
     model = PPO(
         "MlpPolicy",
         train_env,
-        verbose=1,
+        verbose=0,
         learning_rate=best_params["learning_rate"],
         n_steps=best_params["n_steps"],  # Use optimized n_steps from search
         batch_size=best_params["batch_size"],
@@ -284,7 +282,7 @@ def full_training(best_params, job_id, training_rounds=10000):
 
     # Callbacks - same as train_ppo_real.py
     callback_on_best = StopTrainingOnRewardThreshold(
-        reward_threshold=1200, verbose=1
+        reward_threshold=2000, verbose=1
     )  # ~Full race completion
 
     eval_callback = EvalCallback(
@@ -371,7 +369,7 @@ def main():
     print("   Each trial: 100,000 training steps")
     print("-" * 50)
 
-    num_trials = 10  # Test 10 different hyperparameter combinations thoroughly
+    num_trials = 75  # Test 10 different hyperparameter combinations thoroughly
     eval_steps = 100000  # 100k steps per evaluation
 
     best_score = -float("inf")

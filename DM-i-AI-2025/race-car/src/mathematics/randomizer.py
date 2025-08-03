@@ -11,8 +11,8 @@ def seed(seed_value: str):
     """
     global rng
     rng = random.Random(seed_value)
-    print(f"Seeded RNG with {seed_value}")
-    print(rng)
+    # print(f"Seeded RNG with {seed_value}")
+    # print(rng)
 
 
 def random_choice(arr):

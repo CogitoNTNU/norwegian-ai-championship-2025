@@ -111,27 +111,12 @@ class RealRaceCarEnv(gym.Env):
             self.batch_rewards.append(reward)
             self.batch_distances.append(core.STATE.distance)
 
-            if terminated:
-                print(
-                    f"Game {self.current_game + 1}/3 completed (CRASHED) - Distance: {core.STATE.distance:.1f}"
-                )
-            elif truncated:
-                print(
-                    f"Game {self.current_game + 1}/3 completed (TIMEOUT) - Distance: {core.STATE.distance:.1f}"
-                )
-
             self.current_game += 1
 
             if self.current_game >= self.games_per_batch:
                 # Batch complete - let PPO update
                 total_distance = sum(self.batch_distances)
                 avg_distance = total_distance / len(self.batch_distances)
-                print(
-                    f"BATCH COMPLETED! 3 games finished. Total distance: {total_distance:.1f}, Average: {avg_distance:.1f}"
-                )
-                print(
-                    ">>> PPO UPDATE TRIGGERED - Model will now learn from the 3-game batch experience <<<"
-                )
             else:
                 self._reset_single_game()
                 terminated = False
@@ -183,7 +168,6 @@ class RealRaceCarEnv(gym.Env):
         for car in core.STATE.cars:
             if car != core.STATE.ego and intersects(core.STATE.ego.rect, car.rect):
                 core.STATE.crashed = True
-                print("[CRASH] Collision with another car!")
                 return
 
         # Handle wall collisions with improved logic from _working version
@@ -202,7 +186,6 @@ class RealRaceCarEnv(gym.Env):
                 overlap_threshold = 10  # pixels
                 if x_overlap > overlap_threshold and y_overlap > overlap_threshold:
                     core.STATE.crashed = True
-                    print("[CRASH] Collision with wall!")
                     return
 
     def _calculate_reward(self, crashed_before):

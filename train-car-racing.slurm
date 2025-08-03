@@ -1,9 +1,9 @@
 #!/bin/sh
 #SBATCH --account=studiegrupper-cogito
 #SBATCH --job-name=RL-carRacing
-#SBATCH --time=0-03:00:00         # format: D-HH:MM:SS
-#SBATCH --partition=CPUQ          # Asking for a GPU
-#SBATCH --mem=8G                 # Asking for xGB RAM
+#SBATCH --time=1-16:00:00         # format: D-HH:MM:SS
+#SBATCH --partition=CPUQ          # Asking for a CPU
+#SBATCH --mem=16G                 # Asking for xGB RAM
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=30 # x CPU cores
 #SBATCH --output=idun-log.txt      # Specifying ‘stdout’
@@ -34,5 +34,5 @@ pip install uv
 uv sync
 
 export WANDB_API_KEY=322fddbf7912adefb6bc85d1bfd7330515e2c042
-python -c "import wandb; wandb.login(); print(wandb.api.api_key)"
-uv run python DM-i-AI-2025/race-car/train_ppo_real.py --rounds 10000
+cd DM-i-AI-2025/race-car
+uv run python ppo/sweep_and_train.py
