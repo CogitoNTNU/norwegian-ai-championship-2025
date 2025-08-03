@@ -224,14 +224,14 @@ class RealRaceCarEnv(gym.Env):
 
     def _calculate_reward(self, crashed_before):
         # Base speed reward - encourage good speed but not reckless
-        # Scale: ~0.02 per step at good speed (72 total for full game)
+        # Scale: more generous to encourage movement
         speed = core.STATE.ego.velocity.x
-        if speed < 5:
+        if speed < 3:  # Lowered threshold
             speed_reward = 0.0  # No penalty, just no reward
         elif speed > 18:
-            speed_reward = 0.02  # Cap reward to discourage excessive speed
+            speed_reward = 0.03  # Increased reward for good speed
         else:
-            speed_reward = speed / 900.0  # ~0.02 at speed 18
+            speed_reward = speed / 600.0  # More generous scaling
 
         # Overtaking reward - count cars that moved from ahead to behind
         # Give significant one-time bonus for overtaking
@@ -253,12 +253,17 @@ class RealRaceCarEnv(gym.Env):
                 if car != core.STATE.ego and car.x > core.STATE.ego.x
             )
 
-        # Distance progress reward - very small per step
+        # Distance progress reward - make this more significant
         distance_reward = 0.0
         if hasattr(self, "_last_distance"):
             distance_progress = core.STATE.distance - self._last_distance
-            distance_reward = distance_progress / 2000.0  # Small continuous reward
+            distance_reward = (
+                distance_progress / 500.0
+            )  # Increased to incentivize forward progress
         self._last_distance = core.STATE.distance
+
+        # Survival bonus - reward staying alive each step
+        survival_bonus = 0.01
 
         # Proximity penalty - discourage staying too close to other cars
         proximity_penalty = 0.0
@@ -272,28 +277,25 @@ class RealRaceCarEnv(gym.Env):
         elif min_distance < 100:  # Close
             proximity_penalty = -0.002
 
-        # Smooth driving bonus - penalize erratic steering
-        steering_penalty = 0.0
-        if abs(core.STATE.ego.velocity.y) > 5:
-            steering_penalty = -0.002
+        # Remove steering penalty - we want the agent to steer for overtaking!
 
-        # Crash and completion - keep these as one-time events
-        crash_penalty = -100.0 if (core.STATE.crashed and not crashed_before) else 0.0
+        # Crash and completion - reduce crash penalty for better exploration
+        crash_penalty = -50.0 if (core.STATE.crashed and not crashed_before) else 0.0
         completion_bonus = (
             100.0
             if self.current_step >= self.max_steps_per_game and not core.STATE.crashed
             else 0.0
         )
 
-        # Total reward
+        # Total reward - removed steering_penalty, added survival_bonus
         reward = (
             speed_reward
             + overtaking_reward
             + distance_reward
             + proximity_penalty
-            + steering_penalty
             + crash_penalty
             + completion_bonus
+            + survival_bonus
         )
 
         self._reward_breakdown = {
@@ -301,9 +303,9 @@ class RealRaceCarEnv(gym.Env):
             "overtaking_reward": overtaking_reward,
             "distance_reward": distance_reward,
             "proximity_penalty": proximity_penalty,
-            "steering_penalty": steering_penalty,
             "crash_penalty": crash_penalty,
             "completion_bonus": completion_bonus,
+            "survival_bonus": survival_bonus,
         }
         return reward
 

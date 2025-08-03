@@ -1,4 +1,4 @@
-#!/bin/sh
+﻿#!/bin/sh
 #SBATCH --account=studiegrupper-cogito
 #SBATCH --job-name=RL-carRacing
 #SBATCH --time=1-16:00:00         # format: D-HH:MM:SS
@@ -34,5 +34,5 @@ pip install uv
 uv sync
 
 export WANDB_API_KEY=322fddbf7912adefb6bc85d1bfd7330515e2c042
-cd DM-i-AI-2025/race-car
+cd src/race-car
 uv run python ppo/sweep_and_train.py
