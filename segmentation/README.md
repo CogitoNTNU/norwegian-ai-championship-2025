@@ -9,7 +9,7 @@
 1. **Navigate to the segmentation directory:**
 
    ```bash
-   cd src/segmentation
+   cd segmentation
    ```
 
 1. **Install dependencies:**
