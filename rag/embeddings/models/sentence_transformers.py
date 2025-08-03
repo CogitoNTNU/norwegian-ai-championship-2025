@@ -17,6 +17,7 @@ class SentenceTransformerModel(BaseEmbeddingModel):
         device: Optional[str] = None,
         cache_folder: Optional[str] = None,
         matryoshka_dims: Optional[List[int]] = None,
+        trust_remote_code: bool = False,
         **kwargs,
     ):
         """
@@ -27,13 +28,20 @@ class SentenceTransformerModel(BaseEmbeddingModel):
             device: Device to use (cuda/cpu)
             cache_folder: Folder to cache models
             matryoshka_dims: Supported Matryoshka dimensions
+            trust_remote_code: Whether to trust remote code
             **kwargs: Additional parameters
         """
         super().__init__(model_name, **kwargs)
 
-        self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
+        # Force CPU on macOS to avoid MPS issues
+        import platform
+        if platform.system() == "Darwin":
+            self.device = "cpu"
+        else:
+            self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
         self.cache_folder = cache_folder
         self.matryoshka_dims = matryoshka_dims
+        self.trust_remote_code = trust_remote_code
         self.model = None
 
         # Load model on initialization
@@ -42,13 +50,11 @@ class SentenceTransformerModel(BaseEmbeddingModel):
     def load_model(self) -> None:
         """Load the sentence transformer model."""
         if self.model is None:
-            # Extract trust_remote_code from config if present
-            trust_remote_code = self.config.get("trust_remote_code", False)
             self.model = SentenceTransformer(
                 self.model_name,
                 device=self.device,
                 cache_folder=self.cache_folder,
-                trust_remote_code=trust_remote_code,
+                trust_remote_code=self.trust_remote_code,
             )
 
     def unload_model(self) -> None:
@@ -84,6 +90,12 @@ class SentenceTransformerModel(BaseEmbeddingModel):
         if self.model is None:
             self.load_model()
 
+        # Force single-threaded processing on macOS to avoid multiprocessing issues
+        import platform
+        if platform.system() == "Darwin":
+            # Override any multiprocessing settings
+            kwargs['num_workers'] = 0
+            
         return self.model.encode(
             sentences,
             batch_size=batch_size,

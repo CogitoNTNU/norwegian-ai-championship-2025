@@ -9,7 +9,9 @@ import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["OMP_NUM_THREADS"] = "1"
 # Force sentence-transformers to not use multiprocessing
-os.environ["SENTENCE_TRANSFORMERS_HOME"] = os.path.join(os.path.dirname(__file__), ".cache", "sentence_transformers")
+os.environ["SENTENCE_TRANSFORMERS_HOME"] = os.path.join(
+    os.path.dirname(__file__), ".cache", "sentence_transformers"
+)
 
 import sys
 import json
@@ -29,22 +31,22 @@ def load_training_statements(n: int) -> List[Tuple[str, Dict]]:
     data_dir = Path(__file__).parent / "data"
     statements_dir = data_dir / "train" / "statements"
     answers_dir = data_dir / "train" / "answers"
-    
+
     samples = []
     files = sorted(statements_dir.glob("statement_*.txt"))[:n]
-    
+
     for stmt_file in files:
         answer_file = answers_dir / f"{stmt_file.stem}.json"
-        
+
         if answer_file.exists():
             with open(stmt_file, "r") as f:
                 statement = f.read().strip()
-            
+
             with open(answer_file, "r") as f:
                 answer = json.load(f)
-            
+
             samples.append((statement, answer))
-    
+
     return samples
 
 
@@ -53,132 +55,137 @@ def main():
         description="Test RAG pipeline with multiple statements"
     )
     parser.add_argument(
-        "--n",
-        type=int,
-        default=15,
-        help="Number of statements to test (default: 15)"
+        "--n", type=int, default=15, help="Number of statements to test (default: 15)"
     )
     parser.add_argument(
         "--embedding",
         type=str,
         default="pubmedbert-base-embeddings",
-        help="Embedding model to use"
+        help="Embedding model to use",
     )
-    parser.add_argument(
-        "--llm",
-        type=str,
-        default="cogito:8b",
-        help="LLM model to use"
-    )
+    parser.add_argument("--llm", type=str, default="cogito:8b", help="LLM model to use")
     parser.add_argument(
         "--strategy",
         type=str,
         default="default",
         choices=["default", "hyde", "hybrid"],
-        help="Retrieval strategy to use (default: default)"
+        help="Retrieval strategy to use (default: default)",
     )
     parser.add_argument(
-        "--verbose",
-        action="store_true",
-        help="Show detailed output for each statement"
+        "--verbose", action="store_true", help="Show detailed output for each statement"
     )
-    
+
     args = parser.parse_args()
-    
-    print(f"🏥 Testing RAG Pipeline")
-    print(f"=" * 50)
+
+    print("🏥 Testing RAG Pipeline")
+    print("=" * 50)
     print(f"📊 Statements: {args.n}")
     print(f"🧬 Embedding: {args.embedding}")
     print(f"🤖 LLM: {args.llm}")
     print(f"🔍 Strategy: {args.strategy}")
     print()
-    
+
     # Load statements
     print(f"📂 Loading {args.n} statements...")
     samples = load_training_statements(args.n)
-    
+
     if not samples:
         print("❌ No statements found!")
         return 1
-    
+
     # Initialize pipeline
-    print(f"\n⚙️  Initializing pipeline...")
+    print("\n⚙️  Initializing pipeline...")
     start_init = time.time()
-    
+
     pipeline = EmbeddingsRAGPipeline(
         embedding_model=args.embedding,
         llm_model=args.llm,
         top_k_retrieval=5,
-        retrieval_strategy=args.strategy
+        retrieval_strategy=args.strategy,
     )
-    
+
     # Setup
     rag_dir = Path(__file__).parent
     pipeline.setup(
-        str(rag_dir / "data" / "topics"),
-        str(rag_dir / "data" / "topics.json")
+        str(rag_dir / "data" / "topics"), str(rag_dir / "data" / "topics.json")
     )
-    
+
     init_time = time.time() - start_init
     print(f"✅ Pipeline ready in {init_time:.1f}s")
-    
+
     # Test statements
     print(f"\n🔍 Testing {len(samples)} statements...\n")
-    
+
     correct_binary = 0
     correct_topic = 0
     correct_both = 0
     total_time = 0
-    
+
     for i, (statement, true_answer) in enumerate(samples):
         start_pred = time.time()
-        
+
         try:
             # Make prediction
             pred_binary, pred_topic = pipeline.predict(statement)
             pred_time = time.time() - start_pred
             total_time += pred_time
-            
+
             # Check correctness
             is_binary_correct = pred_binary == true_answer["statement_is_true"]
             is_topic_correct = pred_topic == true_answer["statement_topic"]
-            
+
             if is_binary_correct:
                 correct_binary += 1
             if is_topic_correct:
                 correct_topic += 1
             if is_binary_correct and is_topic_correct:
                 correct_both += 1
-            
+
             # Display results
             if args.verbose:
-                print(f"Statement {i+1}:")
+                print(f"Statement {i + 1}:")
                 print(f"  '{statement[:80]}...'")
-                print(f"  Binary: {pred_binary} (true: {true_answer['statement_is_true']}) {'✓' if is_binary_correct else '✗'}")
-                print(f"  Topic:  {pred_topic} (true: {true_answer['statement_topic']}) {'✓' if is_topic_correct else '✗'}")
+                print(
+                    f"  Binary: {pred_binary} (true: {true_answer['statement_is_true']}) {'✓' if is_binary_correct else '✗'}"
+                )
+                print(
+                    f"  Topic:  {pred_topic} (true: {true_answer['statement_topic']}) {'✓' if is_topic_correct else '✗'}"
+                )
                 print(f"  Time:   {pred_time:.2f}s")
                 print()
             else:
-                status = "✓✓" if is_binary_correct and is_topic_correct else "✓✗" if is_binary_correct else "✗✓" if is_topic_correct else "✗✗"
-                print(f"[{i+1:3d}/{len(samples)}] {status} Binary: {pred_binary}/{true_answer['statement_is_true']}, Topic: {pred_topic:3d}/{true_answer['statement_topic']:3d} ({pred_time:.1f}s)")
-        
+                status = (
+                    "✓✓"
+                    if is_binary_correct and is_topic_correct
+                    else "✓✗"
+                    if is_binary_correct
+                    else "✗✓"
+                    if is_topic_correct
+                    else "✗✗"
+                )
+                print(
+                    f"[{i + 1:3d}/{len(samples)}] {status} Binary: {pred_binary}/{true_answer['statement_is_true']}, Topic: {pred_topic:3d}/{true_answer['statement_topic']:3d} ({pred_time:.1f}s)"
+                )
+
         except Exception as e:
-            print(f"[{i+1:3d}/{len(samples)}] ❌ Error: {str(e)[:50]}...")
-    
+            print(f"[{i + 1:3d}/{len(samples)}] ❌ Error: {str(e)[:50]}...")
+
     # Summary
     n = len(samples)
     avg_time = total_time / n if n > 0 else 0
     total_score = (correct_binary + correct_topic) / (2 * n) if n > 0 else 0
-    
-    print(f"\n{'='*50}")
-    print(f"📊 RESULTS SUMMARY")
-    print(f"{'='*50}")
-    print(f"Binary Accuracy:    {correct_binary}/{n} ({correct_binary/n*100:.1f}%)")
-    print(f"Topic Accuracy:     {correct_topic}/{n} ({correct_topic/n*100:.1f}%)")
-    print(f"Combined Accuracy:  ({correct_binary} + {correct_topic}) / {2*n} = {total_score:.1%}")
+
+    print(f"\n{'=' * 50}")
+    print("📊 RESULTS SUMMARY")
+    print(f"{'=' * 50}")
+    print(f"Binary Accuracy:    {correct_binary}/{n} ({correct_binary / n * 100:.1f}%)")
+    print(f"Topic Accuracy:     {correct_topic}/{n} ({correct_topic / n * 100:.1f}%)")
+    print(
+        f"Combined Accuracy:  ({correct_binary} + {correct_topic}) / {2 * n} = {total_score:.1%}"
+    )
     print(f"Average Time:       {avg_time:.2f}s per statement")
     print(f"Total Time:         {total_time:.1f}s")
-    
+
     return 0
 
 

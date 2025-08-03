@@ -1,9 +1,8 @@
 """Document store using configurable embedding models."""
 
-import json
 import sys
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List
 
 import faiss
 import numpy as np
@@ -70,8 +69,6 @@ class EmbeddingsDocumentStore:
         print(f"Creating embeddings with {self.embedding_model_name}...")
 
         # Process in batches for memory efficiency
-        # Use smaller batch size for large models
-        batch_size = 8 if "stella" in self.embedding_model_name.lower() else 32
         all_embeddings = []
 
         # Process in small, safe batches
@@ -205,4 +202,3 @@ class EmbeddingsDocumentStore:
             print(f"Index loaded for model {self.embedding_model_name}")
         else:
             raise ValueError(f"No index found for model {self.embedding_model_name}")
-

@@ -76,6 +76,27 @@ class ModelRegistry:
                 "model_name": "FremyCompany/BioLORD-2023",
             },
         },
+        # Stella models
+        "stella-400M": {
+            "class": SentenceTransformerModel,
+            "params": {
+                "model_name": "dunzhang/stella_en_400M_v5",
+                "trust_remote_code": True,
+            },
+        },
+        "stella-1.5B": {
+            "class": SentenceTransformerModel,
+            "params": {
+                "model_name": "dunzhang/stella_en_1.5B_v5",
+                "trust_remote_code": True,
+            },
+        },
+        "stella-base": {
+            "class": SentenceTransformerModel,
+            "params": {
+                "model_name": "infgrad/stella-base-en-v2",
+            },
+        },
     }
 
     def __init__(self, config_path: Optional[str] = None):

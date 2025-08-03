@@ -1,0 +1,10 @@
+{
+  "all-MiniLM-L6-v2": {
+    "dimension": 384,
+    "index_type": "Flat",
+    "metric": "cosine",
+    "created": "2025-08-03T16:18:52.990472",
+    "num_vectors": 2622,
+    "last_updated": "2025-08-03T16:18:53.014270"
+  }
+}
