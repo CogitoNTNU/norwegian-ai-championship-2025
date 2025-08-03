@@ -250,5 +250,6 @@ src/rag/results/
 # WandB
 # Ignore WandB logs and directories
 */wandb/
+wandb/
 
 results/
