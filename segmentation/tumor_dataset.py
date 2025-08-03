@@ -32,7 +32,7 @@ from monai.transforms import (
 
 def create_tumor_dataset(
     dataset_dir: str = "data/raw/tumor-segmentation",
-    val_size: float = 0.8,
+    val_size: float = 0.2,
     train_data_augmentation: list[Transform] = [],
     val_data_augmentations: list[Transform] = [],
 ) -> tuple[Dataset, Dataset]:
@@ -74,9 +74,9 @@ def create_tumor_dataset(
     if len(control_pairs) >= num_patients:
         # Randomly sample control pairs to match the number of patient pairs
         random.seed(42)  # For reproducibility
-        selected_control_pairs = random.sample(control_pairs, num_patients)
+        selected_control_pairs = random.sample(control_pairs, num_patients // 2)
         print(
-            f"Randomly selected {num_patients} control samples from {len(control_pairs)} available."
+            f"Randomly selected {num_patients // 2} control samples from {len(control_pairs)} available."
         )
     else:
         # Use all available control pairs if there are fewer than patient pairs
@@ -88,7 +88,7 @@ def create_tumor_dataset(
     # Concatenate all data (patients + selected controls)
     all_pairs = patient_pairs + selected_control_pairs
     print(
-        f"Final dataset: {len(patient_pairs)} patients + {len(selected_control_pairs)} controls = {len(all_pairs)} samples (50/50 split)"
+        f"Final dataset: {len(patient_pairs)} patients + {len(selected_control_pairs)} controls = {len(all_pairs)} samples"
     )
 
     val_count = int(len(patient_pairs) * val_size)
