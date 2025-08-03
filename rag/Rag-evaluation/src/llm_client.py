@@ -18,10 +18,12 @@ class LocalLLMClient:
         try:
             # Try multiple possible paths
             possible_paths = [
-                "data/topics.json",
+                "data/topics.json",  # Direct path when running from rag root
                 "../data/topics.json",
                 "../../data/topics.json",
-                os.path.join(os.path.dirname(__file__), "..", "data", "topics.json"),
+                os.path.join(
+                    os.path.dirname(__file__), "..", "..", "data", "topics.json"
+                ),
             ]
 
             for path in possible_paths:
@@ -81,13 +83,13 @@ class LocalLLMClient:
                     "temperature": 0.0,  # Deterministic outputs
                     "top_p": 0.1,  # Very focused sampling
                     "top_k": 1,  # Most likely token only
-                    "num_predict": 100,  # Back to original 100
+                    "num_predict": 50,  # Reduced from 100 for speed
                     "repeat_penalty": 1.0,  # No repeat penalty
                     "presence_penalty": 0.0,  # No presence penalty
                     "frequency_penalty": 0.0,  # No frequency penalty
                     "mirostat": 0,  # Disable mirostat sampling
                     "num_gpu": 1,  # Use GPU acceleration if available
-                    "num_thread": 8,  # Back to original 8 threads
+                    "num_thread": 4,  # Reduced threads for faster single inference
                 },
             )
 
@@ -102,8 +104,8 @@ class LocalLLMClient:
     def _build_classification_prompt(self, statement: str, context: str) -> str:
         """Build a classification prompt where LLM predicts topic names."""
 
-        # Limit context to first 700 characters for balance of context and speed
-        context_limited = context[:700] if context else ""
+        # Limit context to first 400 characters for faster processing
+        context_limited = context[:400] if context else ""
 
         # Get topic names for the LLM to choose from
         topic_names = list(self.topic_mapping.keys())

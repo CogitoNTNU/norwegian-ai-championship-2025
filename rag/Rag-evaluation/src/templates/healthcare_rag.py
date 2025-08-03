@@ -119,7 +119,7 @@ class HealthcareRAG:
         """Load training statements and answers to improve context retrieval."""
         # Find training data directory
         training_paths = [
-            "data/train",
+            "data/train",  # Direct path when running from rag root
             "../data/train",
             "../../data/train",
             os.path.join(os.path.dirname(__file__), "..", "..", "data", "train"),
@@ -228,7 +228,7 @@ TRAINING_EXAMPLE: This statement is {"true" if is_true else "false"} and relates
     def _find_topics_directory(self) -> str:
         """Find the topics directory."""
         possible_paths = [
-            "data/topics",
+            "data/topics",  # Direct path when running from rag root
             "../data/topics",
             "../../data/topics",
             os.path.join(os.path.dirname(__file__), "..", "..", "data", "topics"),
@@ -347,7 +347,7 @@ TRAINING_EXAMPLE: This statement is {"true" if is_true else "false"} and relates
 
         return expanded_query
 
-    def retrieve_context(self, query: str, k: int = 15) -> List[str]:
+    def retrieve_context(self, query: str, k: int = 10) -> List[str]:
         """Retrieve relevant medical contexts for the query using BM25s similarity."""
         if self.bm25_index is None or not self.document_texts:
             return []

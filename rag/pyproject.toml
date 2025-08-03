@@ -57,6 +57,7 @@ update_changelog_on_bump = true
 major_version_zero = true
 
 [project.scripts]
+api = "api:start_server"
 validate = "validate:main"
 check-status = "validate:check_status_cli"
 

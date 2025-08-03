@@ -3,15 +3,16 @@ import sys
 import os
 from typing import Tuple
 
-# Add the Rag-evaluation/src to path for imports
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "Rag-evaluation/src"))
+# Add the rag-evaluation/src to path for imports
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "rag-evaluation/src"))
 
 from templates.healthcare_rag import HealthcareRAG
 from llm_client import LocalLLMClient
 
 # Initialize the RAG system once at module level for efficiency
 print("Initializing BM25s Healthcare RAG system...")
-llm_client = LocalLLMClient()
+# Use faster llama3.2:3B model for better speed performance
+llm_client = LocalLLMClient(model_name="llama3.2:latest")
 rag_system = HealthcareRAG(llm_client)
 print("Healthcare RAG system ready!")
 
@@ -61,7 +62,7 @@ def match_topic(statement: str) -> int:
         topics_paths = [
             "data/topics.json",
             "../data/topics.json",
-            "Rag-evaluation/data/topics.json",
+            "rag-evaluation/data/topics.json",
             os.path.join(os.path.dirname(__file__), "..", "data", "topics.json"),
         ]
 

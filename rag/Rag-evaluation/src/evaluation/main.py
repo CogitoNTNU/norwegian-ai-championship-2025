@@ -176,7 +176,7 @@ def run_template_worker(
     Runs one template over all questions inside a separate process.
     Returns (template_name, results_list)
     """
-    llm_client = LocalLLMClient()
+    llm_client = LocalLLMClient(model_name="llama3.2:latest")
     llm_client.ensure_model_available()
     template = template_cls(llm_client=llm_client)
 
