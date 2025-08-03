@@ -223,14 +223,14 @@ class RealRaceCarEnv(gym.Env):
 
     def _calculate_reward(self, crashed_before):
         # Base speed reward - encourage good speed but not reckless
-        # Scale: more generous to encourage movement
+        # Scale: much more generous to encourage movement (10x increase)
         speed = core.STATE.ego.velocity.x
         if speed < 3:  # Lowered threshold
             speed_reward = 0.0  # No penalty, just no reward
         elif speed > 18:
-            speed_reward = 0.03  # Increased reward for good speed
+            speed_reward = 0.3  # Increased by factor of 10
         else:
-            speed_reward = speed / 600.0  # More generous scaling
+            speed_reward = speed / 60.0  # More generous scaling (10x)
 
         # Overtaking reward - count cars that moved from ahead to behind
         # Give significant one-time bonus for overtaking
@@ -253,9 +253,9 @@ class RealRaceCarEnv(gym.Env):
             )
 
         # Total distance reward - reward based on how far the car has traveled
-        # This encourages reaching farther points in the race
+        # This encourages reaching farther points in the race (5x increase)
         total_distance = core.STATE.distance
-        distance_reward = total_distance / 5000.0  # Normalize based on total distance
+        distance_reward = total_distance / 1000.0  # Increased by factor of 5
 
         # Remove survival bonus - it creates false correlation with episode length
 
