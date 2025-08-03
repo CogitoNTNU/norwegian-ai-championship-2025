@@ -21,6 +21,7 @@ dependencies = [
     "monai>=1.4.0",
     "ipykernel>=6.30.0",
     "pillow>=10.0.0",
+    "wandb>=0.21.0",
 ]
 
 [dependency-groups]
