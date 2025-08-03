@@ -276,6 +276,78 @@ def game_loop(
         # Handle action - get_action() is a method for using arrow keys to steer - implement own logic here!
         action = get_action()
 
+        # Check if lane change is already active and continue it
+        if hasattr(STATE, "lane_change_active") and STATE.lane_change_active:
+            ticks_since_start = STATE.ticks - STATE.lane_change_start_tick
+            ticks = 48  # Duration for each steering phase
+
+            # Determine direction based on lane_change_direction
+            if STATE.lane_change_direction == "RIGHT":
+                if ticks_since_start < ticks:
+                    action = "STEER_RIGHT"  # First phase: steer right (down)
+                    print(
+                        f"RIGHT lane change phase 1 - STEER_RIGHT (tick {ticks_since_start + 1}/{ticks})"
+                    )
+                elif ticks_since_start < ticks * 2 - 1:
+                    action = "STEER_LEFT"  # Second phase: steer left (up) to straighten
+                    print(
+                        f"RIGHT lane change phase 2 - STEER_LEFT (tick {ticks_since_start + 1 - ticks}/{ticks})"
+                    )
+                else:
+                    # Lane change complete, reset state
+                    print(f"RIGHT lane change COMPLETE at tick {STATE.ticks}")
+                    STATE.lane_change_active = False
+                    delattr(STATE, "lane_change_start_tick")
+                    delattr(STATE, "lane_change_direction")
+            else:  # LEFT lane change
+                if ticks_since_start < ticks:
+                    action = "STEER_LEFT"  # First phase: steer left (up)
+                    print(
+                        f"LEFT lane change phase 1 - STEER_LEFT (tick {ticks_since_start + 1}/{ticks})"
+                    )
+                elif ticks_since_start < ticks * 2 - 1:
+                    action = (
+                        "STEER_RIGHT"  # Second phase: steer right (down) to straighten
+                    )
+                    print(
+                        f"LEFT lane change phase 2 - STEER_RIGHT (tick {ticks_since_start + 1 - ticks}/{ticks})"
+                    )
+                else:
+                    # Lane change complete, reset state
+                    print(f"LEFT lane change COMPLETE at tick {STATE.ticks}")
+                    STATE.lane_change_active = False
+                    delattr(STATE, "lane_change_start_tick")
+                    delattr(STATE, "lane_change_direction")
+        # Check sensor index 0 and trigger lane change with direction based on sensors 4 and 12
+        elif len(STATE.sensors) > 0 and STATE.sensors[0].reading is not None:
+            # Start lane change maneuver when sensor 0 detects something
+            if not hasattr(STATE, "lane_change_start_tick"):
+                # Determine direction based on right_side (index 2) and left_side (index 6) sensors
+                if (
+                    len(STATE.sensors) > 6
+                    and STATE.sensors[2].reading is not None
+                    and STATE.sensors[6].reading is not None
+                ):
+                    if STATE.sensors[2].reading > STATE.sensors[6].reading:
+                        direction = "RIGHT"
+                        print(
+                            f"SENSOR 0 TRIGGERED! Right sensor ({STATE.sensors[2].reading:.2f}) > Left sensor ({STATE.sensors[6].reading:.2f}) - Starting RIGHT lane change at tick {STATE.ticks}"
+                        )
+                    else:
+                        direction = "LEFT"
+                        print(
+                            f"SENSOR 0 TRIGGERED! Left sensor ({STATE.sensors[6].reading:.2f}) > Right sensor ({STATE.sensors[2].reading:.2f}) - Starting LEFT lane change at tick {STATE.ticks}"
+                        )
+                else:
+                    # Default to right if side sensors are not available
+                    direction = "RIGHT"
+                    print(
+                        f"SENSOR 0 TRIGGERED! Side sensors not available - Starting RIGHT lane change at tick {STATE.ticks}"
+                    )
+
+                STATE.lane_change_start_tick = STATE.ticks
+                STATE.lane_change_active = True
+                STATE.lane_change_direction = direction
         # Log the action with tick
         if log_actions:
             ACTION_LOG.append({"tick": STATE.ticks, "action": action})
