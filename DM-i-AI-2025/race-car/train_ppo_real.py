@@ -501,6 +501,7 @@ def train_real_ppo_model(
             project=project_name,
             name=run_name,
             config=config,
+            entity="nm-i-ki",
             tags=["ppo", "race-car", "real-game", "rl", "batch-training"],
         )
 

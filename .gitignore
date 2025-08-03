@@ -229,5 +229,7 @@ idun-log.txt
 
 data_augmented/
 
+logs/
+
 # MONAI data
 runs/

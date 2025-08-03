@@ -113,11 +113,7 @@ class RealRaceCarEnv(gym.Env):
 
             self.current_game += 1
 
-            if self.current_game >= self.games_per_batch:
-                # Batch complete - let PPO update
-                total_distance = sum(self.batch_distances)
-                avg_distance = total_distance / len(self.batch_distances)
-            else:
+            if not (self.current_game >= self.games_per_batch):
                 self._reset_single_game()
                 terminated = False
                 truncated = False
@@ -136,7 +132,7 @@ class RealRaceCarEnv(gym.Env):
             if sensor.reading is not None:
                 # Inverse normalize: 0=far/safe, 1=close/danger
                 # This way close objects (50) become 0.95, far objects (1000) become 0.0
-                normalized_distance = (sensor.reading / 1000.0)
+                normalized_distance = sensor.reading / 1000.0
             else:
                 # No reading = nothing detected = safe = 0
                 normalized_distance = 1.0
@@ -172,18 +168,28 @@ class RealRaceCarEnv(gym.Env):
     def _calculate_reward(self, crashed_before):
         speed = core.STATE.ego.velocity.x
         if speed < 5:
-            reward = -0.1
+            speed_reward = -0.1
         else:
-            reward = speed / 20.0
+            speed_reward = speed / 20.0
+
+        # Distance progress reward: reward when car makes forward progress
+        distance_progress = core.STATE.distance - self._last_distance
+        distance_reward = (
+            max(0, distance_progress) * 0.1
+        )  # Scale factor for distance progress
+        self._last_distance = core.STATE.distance
+
         crash_penalty = -1000.0 if (core.STATE.crashed and not crashed_before) else 0.0
         completion_bonus = (
             1000.0
             if self.current_step >= self.max_steps_per_game and not core.STATE.crashed
             else 0.0
         )
-        reward = reward + crash_penalty + completion_bonus 
+
+        reward = speed_reward + distance_reward + crash_penalty + completion_bonus
         self._reward_breakdown = {
-            "speed_or_slow": reward,
+            "speed_reward": speed_reward,
+            "distance_reward": distance_reward,
             "crash_penalty": crash_penalty,
             "completion_bonus": completion_bonus,
         }

@@ -153,7 +153,7 @@ def run_rainbow(args):
             if os.path.exists(rainbow_dir):
                 model_files = []
                 for subdir in os.listdir(rainbow_dir):
-                    model_path = os.path.join(rainbow_dir, subdir, "model.pth")
+                    model_path = os.path.join(rainbow_dir, subdir, "checkpoint.pth")
                     if os.path.exists(model_path):
                         model_files.append(model_path)
 
