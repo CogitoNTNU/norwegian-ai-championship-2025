@@ -1,4 +1,4 @@
-﻿#!/bin/sh
+#!/bin/sh
 #SBATCH --account=studiegrupper-cogito
 #SBATCH --job-name=RL-carRacing
 #SBATCH --time=1-16:00:00         # format: D-HH:MM:SS
