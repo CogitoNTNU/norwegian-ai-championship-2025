@@ -49,17 +49,30 @@ def create_tumor_dataset(
     """
     # Configure directories
     controls_imgs = sorted(glob(os.path.join(dataset_dir, "controls", "imgs", "*.png")))
+    control_masks = sorted(
+        glob(os.path.join(dataset_dir, "controls", "labels", "*.png"))
+    )
     print(f"Found {len(controls_imgs)} control images.")
     patient_imgs = sorted(glob(os.path.join(dataset_dir, "patients", "imgs", "*.png")))
     patient_segs = sorted(
         glob(os.path.join(dataset_dir, "patients", "labels", "*.png"))
     )
+    print(f"Found {len(patient_imgs)} patient images.")
 
-    # 2) Lag liste over filpar for trening og validering
-    #    Vi bruker kun pasientene her (fordi controls mangler ekte mask)
-    all_pairs = [
+    # Create pairs for both patients and controls
+    patient_pairs = [
         {"img": img, "seg": seg} for img, seg in zip(patient_imgs, patient_segs)
     ]
+
+    control_pairs = [
+        {"img": img, "seg": seg} for img, seg in zip(controls_imgs, control_masks)
+    ]
+
+    # Concatenate all data (patients + controls)
+    all_pairs = patient_pairs + control_pairs
+    print(
+        f"Total dataset: {len(patient_pairs)} patients + {len(control_pairs)} controls = {len(all_pairs)} samples"
+    )
 
     split = math.floor(len(all_pairs) * val_size)
     train_files = all_pairs[:split]
