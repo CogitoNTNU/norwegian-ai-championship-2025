@@ -6,10 +6,36 @@ import cv2
 import numpy as np
 from datetime import datetime
 from stable_baselines3 import PPO
+import gymnasium as gym
+from gymnasium import spaces
 
 # Add parent directory to path so we can import src modules
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from src.environments.race_car_env import RealRaceCarEnv
+
+
+class CompatibilityWrapper(gym.Wrapper):
+    """
+    Wrapper to make new environment compatible with models trained on old environment.
+    Truncates observations from 23 features to 20 features.
+    """
+
+    def __init__(self, env):
+        super().__init__(env)
+        # Old environment had 20 features
+        self.observation_space = spaces.Box(
+            low=0.0, high=1.0, shape=(20,), dtype=np.float32
+        )
+
+    def reset(self, **kwargs):
+        obs, info = self.env.reset(**kwargs)
+        # Truncate to first 20 features (16 sensors + 4 original state features)
+        return obs[:20], info
+
+    def step(self, action):
+        obs, reward, terminated, truncated, info = self.env.step(action)
+        # Truncate to first 20 features
+        return obs[:20], reward, terminated, truncated, info
 
 
 def watch_real_ppo_model(
@@ -29,8 +55,20 @@ def watch_real_ppo_model(
     model = PPO.load(model_path)
     print("Model loaded successfully!")
 
+    # Check model's expected observation shape
+    expected_obs_shape = model.observation_space.shape[0]
+    print(f"Model expects observations of shape: ({expected_obs_shape},)")
+
     # Create environment with visualization enabled
-    env = RealRaceCarEnv(seed_value=random.randint(1, 5000), headless=False)
+    base_env = RealRaceCarEnv(seed_value=random.randint(1, 5000), headless=False)
+
+    # Wrap with compatibility wrapper if needed
+    if expected_obs_shape == 20:
+        print("Using compatibility wrapper for old model (20 features)")
+        env = CompatibilityWrapper(base_env)
+    else:
+        print(f"Using environment directly ({expected_obs_shape} features)")
+        env = base_env
 
     # Initialize pygame display
     pygame.init()

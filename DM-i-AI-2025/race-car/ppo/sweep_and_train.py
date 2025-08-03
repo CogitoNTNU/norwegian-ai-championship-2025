@@ -30,15 +30,26 @@ def sample_hyperparameters():
     search_space = {
         "batch_size": [32, 64, 128, 256, 512],
         "clip_range": [0.1, 0.2, 0.3],
-        "ent_coef": [0, 0.0001, 0.001, 0.01],
+        "ent_coef": [
+            0.001,
+            0.01,
+            0.02,
+            0.03,
+            0.05,
+        ],  # Higher entropy for more exploration
         "gae_lambda": (0.9, 1.0),  # uniform distribution
-        "gamma": (0.8, 0.9997),  # uniform distribution
-        "learning_rate": [0.000003, 0.00003, 0.0003, 0.003],
-        "log_std_init": [-1, 0, 1, 2, 3],
+        "gamma": (0.95, 0.99),  # Adjusted for better long-term planning
+        "learning_rate": [
+            0.00005,
+            0.0001,
+            0.0002,
+            0.0003,
+        ],  # More stable learning rates
+        "log_std_init": [-1, 0, 1, 2],  # Removed extreme value
         "n_epochs": [3, 6, 9, 12, 15, 18, 21, 24, 27, 30],
         "n_steps": [512, 1024, 2048, 4096],
         "normalize_advantage": [True, False],
-        "target_kl": [0.03, 0.003],
+        "target_kl": [0.01, 0.02, 0.03],  # Adjusted target KL
         "vf_coef": [0.5, 1],
     }
 
@@ -212,7 +223,7 @@ def full_training(best_params, job_id, training_rounds=10000):
         "algorithm": "PPO",
         "total_timesteps": timesteps,
         "n_envs": n_envs,
-        "reward_threshold":1200,  # Increased for 3-game batches
+        "reward_threshold": 1200,  # Increased for 3-game batches
         "environment": "real_race_car_batch_game",
         "games_per_batch": 1,
         "game_duration_seconds": 60,

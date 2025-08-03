@@ -32,19 +32,43 @@ class CustomWandbCallback(BaseCallback):
 
     def _on_training_start(self):
         if not self.initialized:
+            # Extract the actual values from schedule objects if needed
+            clip_range_value = self.model.clip_range
+            if hasattr(clip_range_value, "func"):
+                # It's a schedule object, get the initial value
+                clip_range_value = clip_range_value.func(1.0)
+            elif isinstance(clip_range_value, (int, float)):
+                # It's already a number
+                pass
+            else:
+                # Try to call it as a function
+                clip_range_value = clip_range_value(1.0)
+
+            learning_rate_value = self.model.learning_rate
+            if hasattr(learning_rate_value, "func"):
+                # It's a schedule object, get the initial value
+                learning_rate_value = learning_rate_value.func(1.0)
+            elif isinstance(learning_rate_value, (int, float)):
+                # It's already a number
+                pass
+            else:
+                # Try to call it as a function
+                learning_rate_value = learning_rate_value(1.0)
+
             config = {
                 "n_steps": self.model.n_steps,
                 "batch_size": self.model.batch_size,
-                "learning_rate": float(self.model.learning_rate),
+                "learning_rate": float(learning_rate_value),
                 "n_epochs": self.model.n_epochs,
                 "gamma": self.model.gamma,
                 "gae_lambda": self.model.gae_lambda,
                 "ent_coef": self.model.ent_coef,
                 "vf_coef": self.model.vf_coef,
-                "clip_range": self.model.clip_range,
+                "clip_range": float(clip_range_value),
                 "policy_arch": getattr(self.model.policy, "net_arch", None),
+                "normalize_advantage": getattr(self.model, "normalize_advantage", True),
             }
-            wandb.config.update(config)
+            wandb.config.update(config, allow_val_change=True)
             self.initialized = True
 
     def _on_step(self) -> bool:
@@ -53,18 +77,37 @@ class CustomWandbCallback(BaseCallback):
             if "episode" in info:
                 self.episode_counter += 1
                 # Log all the keys you want per episode
+                reward_breakdown = info.get("reward_breakdown", {})
                 wandb.log(
                     {
                         "Episode/Reward": info["episode"]["r"],
                         "Episode/Length": info["episode"]["l"],
-                        "Episode/CrashPenalty": info.get("reward_breakdown", {}).get(
+                        "Episode/Distance": info.get("distance", 0),
+                        "Episode/TotalDistance": info.get(
+                            "distance", 0
+                        ),  # Total distance traveled
+                        "Episode/Speed": info.get("speed", 0),
+                        "Episode/SpeedReward": reward_breakdown.get("speed_reward", 0),
+                        "Episode/OvertakingReward": reward_breakdown.get(
+                            "overtaking_reward", 0
+                        ),
+                        "Episode/DistanceReward": reward_breakdown.get(
+                            "distance_reward", 0
+                        ),
+                        "Episode/ProximityPenalty": reward_breakdown.get(
+                            "proximity_penalty", 0
+                        ),
+                        "Episode/SteeringPenalty": reward_breakdown.get(
+                            "steering_penalty", 0
+                        ),
+                        "Episode/CrashPenalty": reward_breakdown.get(
                             "crash_penalty", 0
                         ),
-                        "Episode/Distance": info.get("distance", 0),
-                        "Episode/Speed": info.get("speed", 0),
-                        "Episode/CompletionBonus": info.get("reward_breakdown", {}).get(
+                        "Episode/CompletionBonus": reward_breakdown.get(
                             "completion_bonus", 0
                         ),
+                        "Episode/Crashed": info.get("crashed", False),
+                        "Episode/RaceCompleted": info.get("race_completed", False),
                     }
                 )
         return True
@@ -110,10 +153,21 @@ def train_real_ppo_model(
             "algorithm": "PPO",
             "total_timesteps": timesteps,
             "n_envs": n_envs,
-            "learning_rate": 3e-4,
+            "learning_rate": 0.0003,
+            "n_steps": 512,
+            "batch_size": 512,
+            "n_epochs": 30,
+            "gamma": 0.8704453469948052,
+            "gae_lambda": 0.9205008767461947,
+            "clip_range": 0.3,
+            "ent_coef": 0.0001,
+            "vf_coef": 0.5,
+            "target_kl": 0.05,
+            "normalize_advantage": False,
+            "log_std_init": 1,
             "reward_threshold": 600,
             "environment": "real_race_car_batch_game",
-            "games_per_batch": 3,
+            "games_per_batch": 1,
             "game_duration_seconds": 60,
         }
         run = wandb.init(
@@ -144,22 +198,30 @@ def train_real_ppo_model(
         print(f"Resumed from checkpoint: {resume_from}")
         print(f"Model will train for {timesteps:,} additional timesteps")
     else:
-        print("Initializing new PPO model...")
+        print("Initializing new PPO model with specified hyperparameters...")
+
+        # Build policy_kwargs with log_std_init
+        policy_kwargs = dict(
+            net_arch=dict(pi=[256, 256], vf=[256, 256]),
+            log_std_init=1,  # From your specified parameters
+        )
+
         model = PPO(
             "MlpPolicy",
             train_env,
-            verbose=1,
-            learning_rate=3e-4,
-            n_steps=2048,
-            batch_size=64,
-            n_epochs=10,
-            gamma=0.99,
-            gae_lambda=0.95,
-            clip_range=0.2,
-            ent_coef=0.01,
-            vf_coef=0.5,
+            verbose=0,
+            learning_rate=0.0003,  # Your specified value
+            n_steps=512,  # Your specified value
+            batch_size=512,  # Your specified value
+            n_epochs=30,  # Your specified value
+            gamma=0.8704453469948052,  # Your specified value
+            gae_lambda=0.9205008767461947,  # Your specified value
+            clip_range=0.3,  # Your specified value
+            ent_coef=0.01,  # Your specified value
+            vf_coef=0.5,  # Your specified value
             max_grad_norm=0.5,
-            policy_kwargs=dict(net_arch=dict(pi=[256, 256], vf=[256, 256])),
+            normalize_advantage=False,  # Your specified value
+            policy_kwargs=policy_kwargs,
             device="cuda" if torch.cuda.is_available() else "cpu",
         )
 
@@ -180,7 +242,7 @@ def train_real_ppo_model(
     callbacks = [eval_callback]
 
     # Add checkpoint callback
-    checkpoint_freq = 5000  # Save every 5000 steps
+    checkpoint_freq = 50000  # Save every 50000 steps
     # Generate unique run identifier
     if use_wandb and run:
         run_identifier = run.id
