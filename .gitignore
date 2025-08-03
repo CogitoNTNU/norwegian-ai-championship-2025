@@ -1,3 +1,11 @@
+# Other
+.claude/*
+.claude/
+.claude
+
+wandb/
+# models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -7,6 +15,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+cv-env/
 .Python
 build/
 develop-eggs/
@@ -203,6 +212,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+models/
 
 # Local development environment files
 .env
@@ -221,6 +231,12 @@ logs/
 
 
 data_augmented/
+idun-log.err
+idun-log.txt
+
+data_augmented/
+
+logs/
 
 # MONAI data
 runs/
@@ -234,5 +250,8 @@ src/rag/results/
 # WandB
 # Ignore WandB logs and directories
 */wandb/
+wandb/
 
 results/
+
+videos/

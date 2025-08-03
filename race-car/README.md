@@ -133,9 +133,7 @@ uv run api    # Start API with auto port cleanup
 - ✅ **Auto port cleanup** - Kills any existing process on port 8000
 - ✅ **Hot reload** - Automatically restarts when code changes
 - ✅ **All dependencies** - Includes FastAPI, NumPy, Loguru, and more
-
 Test the race car endpoint at `http://localhost:9052/predict`:
-
 ```bash
 curl -X POST http://localhost:9052/predict \
      -H "Content-Type: application/json" \
@@ -153,6 +151,15 @@ curl -X POST http://localhost:9052/predict \
 
 ```json
 {"actions": ["ACCELERATE"]}
+```
+
+
+### Alternative: pip setup
+
+Install dependencies
+
+```cmd
+pip install -r requirements.txt
 ```
 
 ## Validation Using Pinggy Tunnel
@@ -226,5 +233,23 @@ You can send the following action responses:
 - STEER_LEFT
 
 If you do not add an action amount, it will default to None, and one action will be added to the queue.
+
+### Run the simulation locally
+
+**With uv:**
+
+```cmd
+cd race-car
+uv run python example.py
+```
+
+**With pip:**
+
+```cmd
+cd race-car
+python example.py
+```
+
+By default the action input will use arrowkeys.
 
 **We recommend you do not change the amount of lanes or the size of the game during training.**

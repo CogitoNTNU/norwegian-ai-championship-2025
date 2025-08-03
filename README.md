@@ -242,7 +242,7 @@ curl https://cases.ainm.no/api/v1/usecases/emergency-healthcare-rag/validate/que
      -X POST --header "x-token: $EVAL_API_TOKEN" \
      --data "{\"url\": \"$SERVICE_URL/predict\"}"
 
-# For Tumor Segmentation  
+# For Tumor Segmentation
 export SERVICE_URL="http://0.0.0.0:9051"
 curl https://cases.ainm.no/api/v1/usecases/tumor-segmentation/validate/queue \
      -X POST --header "x-token: $EVAL_API_TOKEN" \
