@@ -78,6 +78,7 @@ class CustomWandbCallback(BaseCallback):
                 self.episode_counter += 1
                 # Log all the keys you want per episode
                 reward_breakdown = info.get("reward_breakdown", {})
+                accumulated_rewards = info.get("accumulated_rewards", {})
                 wandb.log(
                     {
                         "Episode/Reward": info["episode"]["r"],
@@ -87,25 +88,41 @@ class CustomWandbCallback(BaseCallback):
                             "distance", 0
                         ),  # Total distance traveled
                         "Episode/Speed": info.get("speed", 0),
-                        "Episode/SpeedReward": reward_breakdown.get("speed_reward", 0),
-                        "Episode/OvertakingReward": reward_breakdown.get(
+                        # Current step rewards (for debugging)
+                        "Step/SpeedReward": reward_breakdown.get("speed_reward", 0),
+                        "Step/OvertakingReward": reward_breakdown.get(
                             "overtaking_reward", 0
                         ),
-                        "Episode/DistanceReward": reward_breakdown.get(
+                        "Step/DistanceReward": reward_breakdown.get(
                             "distance_reward", 0
                         ),
-                        "Episode/ProximityPenalty": reward_breakdown.get(
+                        "Step/ProximityPenalty": reward_breakdown.get(
                             "proximity_penalty", 0
                         ),
-                        "Episode/SteeringPenalty": reward_breakdown.get(
-                            "steering_penalty", 0
-                        ),
-                        "Episode/CrashPenalty": reward_breakdown.get(
-                            "crash_penalty", 0
-                        ),
-                        "Episode/CompletionBonus": reward_breakdown.get(
+                        "Step/CrashPenalty": reward_breakdown.get("crash_penalty", 0),
+                        "Step/CompletionBonus": reward_breakdown.get(
                             "completion_bonus", 0
                         ),
+                        # Accumulated episode totals
+                        "Episode/AccumSpeedReward": accumulated_rewards.get(
+                            "speed_reward", 0
+                        ),
+                        "Episode/AccumOvertakingReward": accumulated_rewards.get(
+                            "overtaking_reward", 0
+                        ),
+                        "Episode/AccumDistanceReward": accumulated_rewards.get(
+                            "distance_reward", 0
+                        ),
+                        "Episode/AccumProximityPenalty": accumulated_rewards.get(
+                            "proximity_penalty", 0
+                        ),
+                        "Episode/AccumCrashPenalty": accumulated_rewards.get(
+                            "crash_penalty", 0
+                        ),
+                        "Episode/AccumCompletionBonus": accumulated_rewards.get(
+                            "completion_bonus", 0
+                        ),
+                        # Status
                         "Episode/Crashed": info.get("crashed", False),
                         "Episode/RaceCompleted": info.get("race_completed", False),
                     }

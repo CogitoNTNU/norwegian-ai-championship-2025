@@ -84,6 +84,16 @@ class RealRaceCarEnv(gym.Env):
         self._last_y = core.STATE.ego.y
         self._last_cars_ahead = 0  # Initialize overtaking tracker
 
+        # Initialize accumulated reward tracking
+        self._accumulated_rewards = {
+            "speed_reward": 0.0,
+            "overtaking_reward": 0.0,
+            "distance_reward": 0.0,
+            "proximity_penalty": 0.0,
+            "crash_penalty": 0.0,
+            "completion_bonus": 0.0,
+        }
+
     def step(self, action):
         action_idx = int(action) if hasattr(action, "__iter__") else action
         action_str = self.action_map[action_idx]
@@ -291,6 +301,17 @@ class RealRaceCarEnv(gym.Env):
             + completion_bonus
         )
 
+        # Accumulate rewards throughout the episode
+        self._accumulated_rewards["speed_reward"] += speed_reward
+        self._accumulated_rewards["overtaking_reward"] += overtaking_reward
+        self._accumulated_rewards["distance_reward"] = (
+            distance_reward  # Current total distance reward
+        )
+        self._accumulated_rewards["proximity_penalty"] += proximity_penalty
+        self._accumulated_rewards["crash_penalty"] += crash_penalty
+        self._accumulated_rewards["completion_bonus"] += completion_bonus
+
+        # Store both current step breakdown and accumulated totals
         self._reward_breakdown = {
             "speed_reward": speed_reward,
             "overtaking_reward": overtaking_reward,
@@ -299,6 +320,9 @@ class RealRaceCarEnv(gym.Env):
             "crash_penalty": crash_penalty,
             "completion_bonus": completion_bonus,
         }
+
+        self._accumulated_breakdown = self._accumulated_rewards.copy()
+
         return reward
 
     def _get_info(self):
@@ -318,6 +342,7 @@ class RealRaceCarEnv(gym.Env):
             if self.batch_distances
             else 0,
             "reward_breakdown": getattr(self, "_reward_breakdown", {}).copy(),
+            "accumulated_rewards": getattr(self, "_accumulated_breakdown", {}).copy(),
         }
         return info
 
