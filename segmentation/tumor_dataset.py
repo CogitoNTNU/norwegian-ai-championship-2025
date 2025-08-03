@@ -24,6 +24,7 @@ from monai.transforms import (
     EnsureChannelFirstd,
     Transform,
     Compose,
+    RandCropByPosNegLabeld,
     LoadImaged,
     ScaleIntensityd,
 )
@@ -103,6 +104,14 @@ def create_tumor_dataset(
     train_transforms = Compose(
         [
             *default_transforms,
+            RandCropByPosNegLabeld(
+                keys=["img", "seg"],
+                label_key="seg",
+                spatial_size=[96, 96],
+                pos=1,
+                neg=1,
+                num_samples=4,
+            ),
             *train_data_augmentation,
         ]
     )
