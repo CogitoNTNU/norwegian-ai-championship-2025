@@ -17,6 +17,7 @@ Controls ship without ground-truth masks; if you choose to include them they wil
 
 import math
 import os
+import random
 from glob import glob
 
 from monai.data import list_data_collate, DataLoader, Dataset
@@ -68,10 +69,27 @@ def create_tumor_dataset(
         {"img": img, "seg": seg} for img, seg in zip(controls_imgs, control_masks)
     ]
 
-    # Concatenate all data (patients + controls)
-    all_pairs = patient_pairs + control_pairs
+    # Use all patient data and randomly sample equal number of controls for 50/50 split
+    num_patients = len(patient_pairs)
+
+    if len(control_pairs) >= num_patients:
+        # Randomly sample control pairs to match the number of patient pairs
+        random.seed(42)  # For reproducibility
+        selected_control_pairs = random.sample(control_pairs, num_patients)
+        print(
+            f"Randomly selected {num_patients} control samples from {len(control_pairs)} available."
+        )
+    else:
+        # Use all available control pairs if there are fewer than patient pairs
+        selected_control_pairs = control_pairs
+        print(
+            f"Warning: Only {len(control_pairs)} control samples available, less than {num_patients} patient samples."
+        )
+
+    # Concatenate all data (patients + selected controls)
+    all_pairs = patient_pairs + selected_control_pairs
     print(
-        f"Total dataset: {len(patient_pairs)} patients + {len(control_pairs)} controls = {len(all_pairs)} samples"
+        f"Final dataset: {len(patient_pairs)} patients + {len(selected_control_pairs)} controls = {len(all_pairs)} samples (50/50 split)"
     )
 
     split = math.floor(len(all_pairs) * val_size)
