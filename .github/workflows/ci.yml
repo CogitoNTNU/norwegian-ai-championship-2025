@@ -30,7 +30,7 @@ jobs:
 
       - name: Run pre-commit hooks (optional)
         run: |
-          uv pip install pre-commit
+          uv pip install --system pre-commit
           pre-commit run --all-files || true
         continue-on-error: true
 
@@ -59,7 +59,7 @@ jobs:
         run: |
           if [ -d "test" ]; then
             # Install pytest if needed
-            uv pip install pytest pytest-cov
+            uv pip install --system pytest pytest-cov
             python -m pytest test/ || true
           fi
 
