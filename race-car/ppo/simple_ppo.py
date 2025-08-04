@@ -17,11 +17,12 @@ run = wandb.init(
     sync_tensorboard=True,  # auto-upload sb3's tensorboard metrics
     monitor_gym=True,  # auto-upload the videos of agents playing the game
     save_code=True,  # optional
+    entity="NM-i-KI"
 )
 
 
 def make_env():
-    env = gym.make(config["env_name"])
+    env = gym.make(config["env_name"], render_mode = "rgb_array")
     env = Monitor(env)  # record stats such as returns
     return env
 
