@@ -5,6 +5,12 @@ from typing import Optional, Dict, Any, Tuple
 import sys
 import os
 
+
+import logging
+
+# At the top of your RaceCarEnv file
+logger = logging.getLogger(__name__)
+
 # Add parent directory to path to import game modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -25,6 +31,11 @@ class RaceCarEnv(gym.Env):
     metadata = {"render_modes": ["human", "rgb_array"], "render_fps": 60}
 
     def __init__(self, render_mode: Optional[str] = "rgb_array", seed: Optional[str] = None):
+        handler = logging.StreamHandler()
+        handler.setFormatter(logging.Formatter('[%(name)s] %(levelname)s: %(message)s'))
+        logger.addHandler(handler)
+        
+        logger.info("Initializing RaceCarEnv")
         self.render_mode = render_mode
         super().__init__()
 
@@ -56,9 +67,10 @@ class RaceCarEnv(gym.Env):
         self.observation_space = gym.spaces.Box(
             low=0.0, high=1.0, shape=(self.num_sensors + 2,), dtype=np.float32
         )
+        if self.render_mode == "human" or self.render_mode == "rgb_array":
+            pygame.init()
 
         if self.render_mode == "human":
-            pygame.init()
 
             self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
             pygame.display.set_caption("Race Car PPO Training")
@@ -102,16 +114,18 @@ class RaceCarEnv(gym.Env):
         truncated = False
         info = {}
         actions = []
-        if action == "STEER_RIGHT":
+        action_str = self.action_map[action]
+        if action_str == "STEER_RIGHT":
             actions.extend(["STEER_RIGHT"]*48)
             actions.extend(["STEER_LEFT"]*48)
             self.lane_position -= 1 / 5
-        elif action == "STEER_LEFT":
+            logger.info("Actions right array: ", actions)
+        elif action_str == "STEER_LEFT":
             actions.extend(["STEER_LEFT"]*48)
             actions.extend(["STEER_RIGHT"]*48)
             self.lane_position += 1 / 5
         else:
-            actions = [self.action_map[action]]
+            actions = [action_str]
 
         
         # Process each action in the list
@@ -159,7 +173,7 @@ class RaceCarEnv(gym.Env):
             
             # Break out of loop if environment terminates
             if terminated or truncated:
-                print("Episode terminated with distance: ", self.distance)
+                print("Episode terminated with distance: ", game_core.STATE.distance)
                 break
         
         return obs, cumulative_reward, terminated, truncated, info
@@ -280,54 +294,73 @@ class RaceCarEnv(gym.Env):
 
     def render(self):
         """Render the game state."""
-        if self.render_mode == "human" and self.screen is not None:
-            # Clear screen
-            self.screen.fill((0, 0, 0))
-
-            # Draw road
-            self.screen.blit(game_core.STATE.road.surface, (0, 0))
-
-            # Draw walls
-            for wall in game_core.STATE.road.walls:
-                wall.draw(self.screen)
-
-            # Draw cars
-            for car in game_core.STATE.cars:
-                if car.sprite:
-                    self.screen.blit(car.sprite, (car.x, car.y))
-                    # Draw bounding box
-                    bounds = car.get_bounds()
-                    color = (255, 0, 0) if car == game_core.STATE.ego else (0, 255, 0)
-                    pygame.draw.rect(self.screen, color, bounds, width=2)
-
-            # Draw sensors
-            if game_core.STATE.sensors_enabled:
-                for sensor in game_core.STATE.sensors:
-                    sensor.draw(self.screen)
-
-            # Draw info text
-            font = pygame.font.Font(None, 36)
-            info_texts = [
-                f"Distance: {game_core.STATE.distance:.1f}",
-                f"Velocity: {game_core.STATE.ego.velocity.x:.1f}",
-                f"Reward: {self.episode_reward:.1f}",
-                f"Tick: {game_core.STATE.ticks}",
-            ]
-
-            y_offset = 10
-            for text in info_texts:
-                text_surface = font.render(text, True, (255, 255, 255))
-                self.screen.blit(text_surface, (10, y_offset))
-                y_offset += 40
-
+        if self.render_mode is None:
+            return None
+        
+        # Create a surface for rendering
+        if self.render_mode == "rgb_array":
+            # Create a surface for offscreen rendering
+            surface = pygame.Surface((SCREEN_WIDTH, SCREEN_HEIGHT))
+        elif self.render_mode == "human" and self.screen is not None:
+            surface = self.screen
+        else:
+            return None
+        
+        # Clear surface
+        surface.fill((0, 0, 0))
+        
+        # Draw road
+        surface.blit(game_core.STATE.road.surface, (0, 0))
+        
+        # Draw walls
+        for wall in game_core.STATE.road.walls:
+            wall.draw(surface)
+        
+        # Draw cars
+        for car in game_core.STATE.cars:
+            if car.sprite:
+                surface.blit(car.sprite, (car.x, car.y))
+                # Draw bounding box
+                bounds = car.get_bounds()
+                color = (255, 0, 0) if car == game_core.STATE.ego else (0, 255, 0)
+                pygame.draw.rect(surface, color, bounds, width=2)
+        
+        # Draw sensors
+        if game_core.STATE.sensors_enabled:
+            for sensor in game_core.STATE.sensors:
+                sensor.draw(surface)
+        
+        # Draw info text
+        font = pygame.font.Font(None, 36)
+        info_texts = [
+            f"Distance: {game_core.STATE.distance:.1f}",
+            f"Velocity: {game_core.STATE.ego.velocity.x:.1f}",
+            f"Reward: {self.episode_reward:.1f}",
+            f"Tick: {game_core.STATE.ticks}",
+        ]
+        
+        y_offset = 10
+        for text in info_texts:
+            text_surface = font.render(text, True, (255, 255, 255))
+            surface.blit(text_surface, (10, y_offset))
+            y_offset += 40
+        
+        if self.render_mode == "human":
             pygame.display.flip()
             if self.clock:
                 self.clock.tick(60)
+            return None
+        elif self.render_mode == "rgb_array":
+            # Convert surface to RGB array
+            return np.transpose(
+                np.array(pygame.surfarray.pixels3d(surface)), 
+                axes=(1, 0, 2)
+            )
 
-    def close(self):
-        """Clean up resources."""
-        if self.screen is not None:
-            pygame.quit()
+        def close(self):
+            """Clean up resources."""
+            if self.screen is not None:
+                pygame.quit()
 
 
 # Test the environment
