@@ -19,15 +19,22 @@ from embeddings.models import get_embedding_model  # noqa: E402
 class EmbeddingsDocumentStore:
     """Document store with configurable embedding models."""
 
-    def __init__(self, embedding_model: str = "all-MiniLM-L6-v2"):
+    def __init__(self, embedding_model: str = "all-MiniLM-L6-v2", device: str = None):
         """
         Initialize document store with specified embedding model.
 
         Args:
             embedding_model: Name of embedding model from registry
+            device: Device to use for embeddings (cuda/cpu/auto)
         """
         self.embedding_model_name = embedding_model
-        self.embedding_model = get_embedding_model(embedding_model)
+
+        # Pass device parameter to embedding model
+        model_kwargs = {}
+        if device and device != "auto":
+            model_kwargs["device"] = device
+
+        self.embedding_model = get_embedding_model(embedding_model, **model_kwargs)
         # Use rag/indices directory
         indices_dir = str(rag_path / "indices")
         self.index_manager = IndexManager(index_dir=indices_dir)
@@ -205,9 +212,11 @@ class EmbeddingsDocumentStore:
         """Load the index from disk (for compatibility)."""
         # Try to load from index manager
         if self.index_manager.index_exists(self.embedding_model_name):
-            self.index, self.chunks, self.chunk_metadata = (
-                self.index_manager.load_index(self.embedding_model_name)
-            )
+            (
+                self.index,
+                self.chunks,
+                self.chunk_metadata,
+            ) = self.index_manager.load_index(self.embedding_model_name)
             print(f"Index loaded for model {self.embedding_model_name}")
         else:
             raise ValueError(f"No index found for model {self.embedding_model_name}")
