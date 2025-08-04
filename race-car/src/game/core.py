@@ -132,15 +132,15 @@ def get_action():
 
     # Priority: accelerate, decelerate, steer left, steer right, nothing
     if keys[pygame.K_RIGHT]:
-        return "ACCELERATE"
+        return ["ACCELERATE"]
     if keys[pygame.K_LEFT]:
-        return "DECELERATE"
+        return ["DECELERATE"]
     if keys[pygame.K_UP]:
-        return "STEER_LEFT"
+        return ["STEER_LEFT"]
     if keys[pygame.K_DOWN]:
-        return "STEER_RIGHT"
+        return ["STEER_RIGHT"]
     if keys[pygame.K_SPACE]:
-        return "NOTHING"
+        return ["NOTHING"]
 
     # Just clicking once and it keeps doing it until a new press
     for event in pygame.event.get():
@@ -149,15 +149,15 @@ def get_action():
             exit()
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_RIGHT:
-                return "ACCELERATE"
+                return ["ACCELERATE"]
             elif event.key == pygame.K_LEFT:
-                return "DECELERATE"
+                return ["DECELERATE"]
             elif event.key == pygame.K_UP:
-                return "STEER_LEFT"
+                return ["STEER_LEFT"]
             elif event.key == pygame.K_DOWN:
-                return "STEER_RIGHT"
+                return ["STEER_RIGHT"]
             elif event.key == pygame.K_SPACE:
-                return "NOTHING"
+                return ["NOTHING"]
 
     # If no relevant key is pressed, repeat last action or do nothing
     # return STATE.latest_action if hasattr(STATE, "latest_action") else "NOTHING"
@@ -258,6 +258,7 @@ def game_loop(
     global STATE
     clock = pygame.time.Clock()
     screen = None
+    actions = []
     if verbose:
         screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
         pygame.display.set_caption("Race Car Game")

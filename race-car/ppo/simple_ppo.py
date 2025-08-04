@@ -1,15 +1,16 @@
 import gymnasium as gym
 from stable_baselines3 import PPO
 from stable_baselines3.common.monitor import Monitor
-from stable_baselines3.common.vec_env import DummyVecEnv, VecVideoRecorder
+from stable_baselines3.common.vec_env import SubprocVecEnv, VecVideoRecorder
 import wandb
 from wandb.integration.sb3 import WandbCallback
+from race_car_gym_env import RaceCarEnv
 
 
 config = {
     "policy_type": "MlpPolicy",
     "total_timesteps": 100_000,
-    "env_name": "CartPole-v1",
+    "env_name": "Rac",
 }
 run = wandb.init(
     project="test",
@@ -22,12 +23,12 @@ run = wandb.init(
 
 
 def make_env():
-    env = gym.make(config["env_name"], render_mode = "rgb_array")
+    env = RaceCarEnv(render_mode="rgb_array")
     env = Monitor(env)  # record stats such as returns
     return env
 
 
-env = DummyVecEnv([make_env])
+env = SubprocVecEnv([make_env])
 env = VecVideoRecorder(
     env,
     f"videos/{run.id}",
