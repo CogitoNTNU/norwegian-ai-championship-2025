@@ -155,7 +155,7 @@ class RaceCarEnv(gym.Env):
         # Typical max velocity is around 20-30
         vel_x_normalized = np.clip(game_core.STATE.ego.velocity.x / 30.0, 0.0, 1.0)
         vel_y_normalized = np.clip(
-            (game_core.STATE.ego.velocity.y + 5.0) / 10.0, 0.0, 1.0
+            (game_core.STATE.ego.velocity.y) / 10.0, -1.0, 1.0
         )  # y can be negative
         obs.extend([vel_x_normalized, vel_y_normalized])
 
