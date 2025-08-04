@@ -4,6 +4,9 @@ import datetime
 from fastapi import FastAPI
 from dtos import TumorPredictRequestDto, TumorPredictResponseDto
 from example import predict_tumor_segmentation
+import wandb
+import os
+from dotenv import load_dotenv
 
 HOST = "0.0.0.0"
 PORT = 9051
@@ -14,6 +17,13 @@ app = FastAPI(
     version="1.0.0",
 )
 start_time = time.time()
+load_dotenv()
+WANDB_API_KEY = os.getenv("WANDB_API_KEY")
+wandb.login(key=WANDB_API_KEY)
+run = wandb.init()
+artifact = run.use_artifact("nm-i-ki/tumor-segmentation/best_model:v236", type="model")
+artifact_dir = artifact.download()
+print(artifact_dir)
 
 
 @app.post("/predict", response_model=TumorPredictResponseDto)
