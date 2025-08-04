@@ -1,1 +1,0 @@
-First-degree AV block is defined as a PR interval greater than 300 milliseconds and typically requires immediate pacemaker placement.

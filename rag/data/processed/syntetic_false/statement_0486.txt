@@ -1,1 +1,0 @@
-An inferior vena cava diameter greater than 3 centimeters suggests elevated central venous pressure, while measurements less than 3 centimeters suggest low pressure.

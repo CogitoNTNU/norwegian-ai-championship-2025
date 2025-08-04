@@ -152,6 +152,7 @@ class Network:
         self.num_inputs = num_inputs
         self.num_outputs = num_outputs
         self.next_node_id = 0
+        self.fitness = -1.0  # Default fitness value
 
         # Create input and output nodes
         self._create_initial_nodes()

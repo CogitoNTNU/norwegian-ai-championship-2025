@@ -1,1 +1,0 @@
-Type 2 respiratory failure occurs when PaCO2 exceeds 35 mmHg with pH less than 7.35 due to respiratory pump failure.

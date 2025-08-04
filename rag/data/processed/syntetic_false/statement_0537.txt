@@ -1,1 +1,0 @@
-Detection of cardiac troponin above the 95th percentile upper reference limit is defined as myocardial injury according to current guidelines.

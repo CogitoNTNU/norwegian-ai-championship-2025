@@ -1,1 +1,0 @@
-The apnea test must be aborted if respiratory movements occur, systolic blood pressure drops below 90 mmHg, or oxygen saturation falls below 85% for over 60 seconds.
