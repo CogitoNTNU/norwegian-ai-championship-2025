@@ -59,7 +59,7 @@ def watch_real_ppo_model(
     expected_obs_shape = model.observation_space.shape[0]
     print(f"Model expects observations of shape: ({expected_obs_shape},)")
 
-    # Create environment with visualization enabled
+    # Create environment with visualization enabled (initial seed will be overridden per episode)
     base_env = RealRaceCarEnv(seed_value=random.randint(1, 5000), headless=False)
 
     # Wrap with compatibility wrapper if needed
@@ -91,8 +91,12 @@ def watch_real_ppo_model(
     print("Using REAL game collision detection and termination logic")
 
     for episode in range(episodes):
-        print(f"\n=== Episode {episode + 1}/{episodes} ===")
+        # Generate new random seed for each episode
+        episode_seed = random.randint(1, 10000)
+        print(f"\n=== Episode {episode + 1}/{episodes} (Seed: {episode_seed}) ===")
 
+        # Reset environment with new seed
+        env.env.seed_value = episode_seed  # Set seed on base environment
         obs, info = env.reset()
         episode_reward = 0
         step_count = 0
