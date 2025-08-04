@@ -12,9 +12,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from src.environments.race_car_env import RealRaceCarEnv
 
 
-def watch_real_ppo_model(
-    model_path="models/ppo_racecar_real_final", episodes=3, record_video=False
-):
+def watch_real_ppo_model(model_path="models/", episodes=3, record_video=False):
     """
     Watch the trained PPO model play the race car game using REAL game logic.
     """
@@ -44,8 +42,8 @@ def watch_real_ppo_model(
         os.makedirs("videos", exist_ok=True)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         video_filename = f"videos/ppo_real_demo_{timestamp}.mp4"
-        fourcc = cv2.VideoWriter_fourcc(*"mp4v")
-        video_writer = cv2.VideoWriter(video_filename, fourcc, 60.0, (1600, 1200))
+        fourcc = cv2.VideoWriter_fourcc(*"H264")
+        video_writer = cv2.VideoWriter(video_filename, fourcc, 30.0, (1600, 1200))
         print(f"Recording video to: {video_filename}")
 
     print(f"\nWatching PPO model for {episodes} episodes...")

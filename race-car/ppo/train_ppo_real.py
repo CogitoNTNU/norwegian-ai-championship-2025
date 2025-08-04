@@ -11,6 +11,9 @@ from stable_baselines3.common.callbacks import (
 from stable_baselines3.common.monitor import Monitor
 import torch
 import wandb
+import cv2
+import pygame
+from datetime import datetime
 
 # If you use your own CheckpointCallback, import it here!
 from checkpoint_callback import CheckpointCallback
@@ -23,12 +26,23 @@ from src.environments.race_car_env import RealRaceCarEnv
 class CustomWandbCallback(BaseCallback):
     """
     Logs per-episode reward breakdown, PPO loss, and hyperparameters to wandb.
+    Also records and uploads game videos periodically.
     """
 
-    def __init__(self, verbose=0):
+    def __init__(self, verbose=0, record_freq=50, upload_freq=100):
         super().__init__(verbose)
         self.episode_counter = 0
         self.initialized = False
+        self.record_freq = record_freq  # Record every N episodes
+        self.upload_freq = upload_freq  # Upload every N episodes
+        self.current_recording = None
+        self.video_writer = None
+        self.is_recording = False
+        self.recording_episode = 0
+
+        # Pygame setup for recording
+        self.pygame_initialized = False
+        self.screen = None
 
     def _on_training_start(self):
         if not self.initialized:
@@ -71,11 +85,166 @@ class CustomWandbCallback(BaseCallback):
             wandb.config.update(config, allow_val_change=True)
             self.initialized = True
 
+    def _init_pygame_for_recording(self):
+        """Initialize pygame for video recording if not already done."""
+        if not self.pygame_initialized:
+            try:
+                pygame.init()
+                self.screen = pygame.Surface((1600, 1200))
+                self.pygame_initialized = True
+                if self.verbose:
+                    print("Pygame initialized for video recording")
+            except Exception as e:
+                if self.verbose:
+                    print(f"Could not initialize pygame for recording: {e}")
+                return False
+        return True
+
+    def _start_recording(self, episode_num):
+        """Start recording a video for the current episode."""
+        if not self._init_pygame_for_recording():
+            return
+
+        try:
+            os.makedirs("videos/training", exist_ok=True)
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            video_path = f"videos/training/episode_{episode_num}_{timestamp}.mp4"
+
+            fourcc = cv2.VideoWriter_fourcc(*"H264")
+            self.video_writer = cv2.VideoWriter(video_path, fourcc, 30.0, (1600, 1200))
+            self.current_recording = video_path
+            self.is_recording = True
+            self.recording_episode = episode_num
+
+            if self.verbose:
+                print(f"Started recording episode {episode_num} to {video_path}")
+        except Exception as e:
+            if self.verbose:
+                print(f"Failed to start recording: {e}")
+            self.is_recording = False
+
+    def _stop_recording(self):
+        """Stop recording and clean up."""
+        if self.video_writer is not None:
+            self.video_writer.release()
+            self.video_writer = None
+
+        recording_path = self.current_recording
+        self.current_recording = None
+        self.is_recording = False
+
+        if self.verbose and recording_path:
+            print(f"Stopped recording, saved to {recording_path}")
+
+        return recording_path
+
+    def _record_frame(self):
+        """Record a single frame during training."""
+        if not self.is_recording or self.video_writer is None or self.screen is None:
+            return
+
+        try:
+            # Import STATE from the actual game
+            import src.game.core as core
+
+            STATE = core.STATE
+
+            # Clear screen
+            self.screen.fill((0, 0, 0))
+
+            # Draw road
+            if hasattr(STATE, "road") and STATE.road:
+                if hasattr(STATE.road, "surface") and STATE.road.surface:
+                    self.screen.blit(STATE.road.surface, (0, 0))
+
+                # Draw walls
+                if hasattr(STATE.road, "walls"):
+                    for wall in STATE.road.walls:
+                        if hasattr(wall, "draw"):
+                            wall.draw(self.screen)
+
+            # Draw cars
+            if hasattr(STATE, "cars") and STATE.cars:
+                for car in STATE.cars:
+                    if hasattr(car, "sprite") and car.sprite:
+                        self.screen.blit(car.sprite, (car.x, car.y))
+                        # Draw bounding box
+                        bounds = car.get_bounds()
+                        color = (255, 255, 0) if car == STATE.ego else (255, 0, 0)
+                        pygame.draw.rect(self.screen, color, bounds, width=2)
+
+            # Draw sensors
+            if hasattr(STATE, "sensors") and STATE.sensors:
+                for sensor in STATE.sensors:
+                    if hasattr(sensor, "draw"):
+                        sensor.draw(self.screen)
+
+            # Add episode info overlay
+            font = pygame.font.Font(None, 36)
+            info_text = f"Training Episode {self.recording_episode}"
+            text_surface = font.render(info_text, True, (255, 255, 255))
+            self.screen.blit(text_surface, (10, 10))
+
+            # Convert pygame surface to OpenCV format
+            frame = pygame.surfarray.array3d(self.screen)
+            frame = np.transpose(frame, (1, 0, 2))
+            frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
+
+            # Write frame to video
+            self.video_writer.write(frame)
+
+        except Exception as e:
+            if self.verbose:
+                print(f"Error recording frame: {e}")
+
+    def _upload_video_to_wandb(self, video_path, episode_num):
+        """Upload recorded video to wandb."""
+        try:
+            if os.path.exists(video_path):
+                wandb.log(
+                    {
+                        f"training_video": wandb.Video(
+                            video_path, format="mp4", caption=f"Episode {episode_num}"
+                        )
+                    },
+                    step=self.model.num_timesteps,
+                )
+
+                if self.verbose:
+                    print(f"Uploaded video for episode {episode_num} to wandb")
+
+                # Clean up local file to save space
+                try:
+                    os.remove(video_path)
+                    if self.verbose:
+                        print(f"Cleaned up local video file: {video_path}")
+                except:
+                    pass
+
+        except Exception as e:
+            if self.verbose:
+                print(f"Failed to upload video to wandb: {e}")
+
     def _on_step(self) -> bool:
+        # Record frame if we're currently recording
+        if self.is_recording:
+            self._record_frame()
+
         # Per-episode logging (NO `step=`, wandb will auto-increment)
         for info in self.locals.get("infos", []):
             if "episode" in info:
+                # Stop recording if we were recording this episode
+                if self.is_recording:
+                    video_path = self._stop_recording()
+                    if video_path and self.episode_counter % self.upload_freq == 0:
+                        self._upload_video_to_wandb(video_path, self.episode_counter)
+
                 self.episode_counter += 1
+
+                # Start recording for specific episodes
+                if self.episode_counter % self.record_freq == 0:
+                    self._start_recording(self.episode_counter)
+
                 # Log all the keys you want per episode
                 reward_breakdown = info.get("reward_breakdown", {})
                 accumulated_rewards = info.get("accumulated_rewards", {})
@@ -141,6 +310,19 @@ class CustomWandbCallback(BaseCallback):
         if metrics:
             wandb.log(metrics, step=self.model.num_timesteps)
 
+    def _on_training_end(self):
+        """Clean up video recording resources when training ends."""
+        if self.is_recording:
+            video_path = self._stop_recording()
+            if video_path:
+                self._upload_video_to_wandb(video_path, self.episode_counter)
+
+        if self.pygame_initialized:
+            try:
+                pygame.quit()
+            except:
+                pass
+
 
 def train_real_ppo_model(
     project_name="race-car-real-ppo-batch",
@@ -174,7 +356,9 @@ def train_real_ppo_model(
             "environment": "real_race_car_batch_game",
             "games_per_batch": 1,
             "game_duration_seconds": 60,
-            # All other PPO settings use defaults
+            "video_recording_enabled": True,
+            "video_record_freq": 50,
+            "video_upload_freq": 100,
         }
         run = wandb.init(
             project=project_name,
@@ -261,9 +445,10 @@ def train_real_ppo_model(
         f"Checkpoints will be saved every {checkpoint_freq} steps to: {checkpoint_path}"
     )
 
-    # Add custom per-episode+loss logging callback
+    # Add custom per-episode+loss logging callback with video recording
     if use_wandb:
-        wandb_callback = CustomWandbCallback(verbose=1)
+        # Record every 50 episodes and upload every 100 episodes to balance storage and visibility
+        wandb_callback = CustomWandbCallback(verbose=1, record_freq=50, upload_freq=100)
         callbacks.append(wandb_callback)
 
     print(f"Starting REAL training for {timesteps:,} timesteps...")

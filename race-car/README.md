@@ -83,27 +83,57 @@ The evaluation opens up on Thursday the 7th at 12:00 CET and will have a preset 
 
 ## Quickstart
 
-```cmd
-git clone https://github.com/amboltio/DM-i-AI-2025
-cd DM-i-AI-2024/race-car
+1. **Navigate to the race car directory:**
+
+   ```bash
+   cd src/race-car
+   ```
+
+1. **Install dependencies:**
+
+   ```bash
+   uv sync
+   ```
+
+1. **Run the simulation locally:**
+
+   ```bash
+   uv run python example.py
+   ```
+
+   By default the action input will use arrowkeys.
+
+## Validation
+
+Submit your solution for validation:
+
+```bash
+# Submit for validation
+uv run validate
+
+# Check validation status
+uv run check-status <uuid>
+
+# Submit and wait for completion
+uv run validate --wait
 ```
 
-### Setup with uv (Recommended)
+## API Testing
 
-Install dependencies with uv:
+The unified API serves all tasks with auto port cleanup and hot reload:
 
-```cmd
-uv sync
+```bash
+cd ../shared
+uv sync       # Install all API dependencies
+uv run api    # Start API with auto port cleanup
 ```
 
-Or add dependencies individually:
+**Features:**
 
 - ✅ **Auto port cleanup** - Kills any existing process on port 8000
 - ✅ **Hot reload** - Automatically restarts when code changes
 - ✅ **All dependencies** - Includes FastAPI, NumPy, Loguru, and more
-
 Test the race car endpoint at `http://localhost:9052/predict`:
-
 ```bash
 curl -X POST http://localhost:9052/predict \
      -H "Content-Type: application/json" \
@@ -116,6 +146,13 @@ curl -X POST http://localhost:9052/predict \
        "sensors": {"front": 100, "left": 50, "right": 60}
      }'
 ```
+
+**Expected Response:**
+
+```json
+{"actions": ["ACCELERATE"]}
+```
+
 
 ### Alternative: pip setup
 

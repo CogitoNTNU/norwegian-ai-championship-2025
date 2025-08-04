@@ -4,6 +4,13 @@ from gymnasium import spaces
 import src.game.core as core
 from src.game.core import initialize_game_state, update_game, intersects
 
+import logging
+
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
+logger = logging.getLogger(__name__)
+
 # Try to import pygame, but make it optional for headless training
 try:
     import pygame
@@ -47,11 +54,14 @@ class RealRaceCarEnv(gym.Env):
 
         # Action and observation spaces
         self.action_space = spaces.Discrete(5)
-        # Observation space: 16 sensors (0-1000) + 7 state features
-        obs_low = np.zeros(23, dtype=np.float32)
-        obs_high = np.full(23, 1000.0, dtype=np.float32)
-        # State features have different ranges
-        obs_high[16:] = 1.0  # Last 7 features are normalized 0-1
+        # Observation space: 16 sensors + 4 additional values (x, y, velocity_x, velocity_y)
+        obs_low = np.zeros(20, dtype=np.float32)
+        obs_high = np.ones(20, dtype=np.float32)
+        # Set higher bounds for position coordinates
+        obs_high[16] = 2000.0  # x coordinate max
+        obs_high[17] = 1200.0  # y coordinate max
+        obs_high[18] = 30.0  # velocity_x max
+        obs_high[19] = 20.0  # velocity_y max
         self.observation_space = spaces.Box(
             low=obs_low, high=obs_high, dtype=np.float32
         )
@@ -83,7 +93,7 @@ class RealRaceCarEnv(gym.Env):
         self._following_steps = 0
         self._last_y = core.STATE.ego.y
         self._last_cars_ahead = 0  # Initialize overtaking tracker
-        self._last_distance = core.STATE.distance  # Track distance from last step
+        self._last_distance = 0.0  # Track previous distance for reward calculation
 
         # Initialize accumulated reward tracking
         self._accumulated_rewards = {
@@ -158,13 +168,6 @@ class RealRaceCarEnv(gym.Env):
 
         ego_car = core.STATE.ego
 
-        # Additional useful state information
-        velocity_x = np.clip(ego_car.velocity.x / 20.0, 0.0, 1.0)
-        velocity_y = np.clip(
-            (ego_car.velocity.y + 10.0) / 20.0, 0.0, 1.0
-        )  # Normalized to 0-1
-        position_y = ego_car.y / 1200.0
-
         # Calculate relative positions of nearby cars
         cars_ahead = 0
         cars_behind = 0
@@ -185,21 +188,16 @@ class RealRaceCarEnv(gym.Env):
                         closest_car_behind_distance, abs(relative_x) / 1000.0
                     )
 
-        # Normalize car counts
-        cars_ahead_normalized = min(cars_ahead / 5.0, 1.0)
-        cars_behind_normalized = min(cars_behind / 5.0, 1.0)
+        # Add car position and velocity to observation
+        additional_values = [
+            ego_car.x / 20_000,  # x coordinate
+            ego_car.y / 1_000,  # y coordinate
+            ego_car.velocity.x / 15,  # x velocity
+            ego_car.velocity.y / 15,  # y velocity
+        ]
 
         observation = np.array(
-            sensor_readings
-            + [
-                velocity_x,
-                velocity_y,
-                position_y,
-                cars_ahead_normalized,
-                cars_behind_normalized,
-                closest_car_ahead_distance,
-                closest_car_behind_distance,
-            ],
+            sensor_readings + additional_values,
             dtype=np.float32,
         )
         return observation
@@ -230,33 +228,98 @@ class RealRaceCarEnv(gym.Env):
                     return
 
     def _calculate_reward(self, crashed_before):
-        # Remove speed reward to eliminate correlation with episode length
-        speed_reward = 0.0
-
-        # Remove overtaking reward - focus on distance and safety
-        overtaking_reward = 0.0
-
-        # Distance reward - based on distance progress from last step
         current_distance = core.STATE.distance
-        if hasattr(self, "_last_distance"):
-            distance_progress = current_distance - self._last_distance
-            distance_reward = distance_progress / 500.0
-        else:
-            distance_reward = 0.0
-        self._last_distance = current_distance
+        distance_reward = (
+            current_distance - self._last_distance
+        ) / 10.0  # Reward based on distance progress
+        self._last_distance = current_distance  # Update last distance for next step
 
-        # Remove all penalties except crash - focus purely on distance
+        speed_penalty = 0.0
+        proximity_penalty = 0.0
+        front_sensor = core.STATE.sensors[4]
+        if front_sensor.reading is not None:
+            proximity_penalty -= (1 / front_sensor.reading) * 10_000
 
-        # Crash penalty - increased to -100 as requested
-        crash_penalty = -100.0 if (core.STATE.crashed and not crashed_before) else 0.0
+            speed = core.STATE.ego.velocity.x
+
+            if speed > 10:  # Only penalize if going fast
+                danger_factor = 1.0 - (
+                    front_sensor.reading / 200.0
+                )  # 0 to 1, where 1 is very close
+                speed_penalty = -danger_factor * (speed - 10) * 0.5
+
+        # Remove steering penalty - we want the agent to steer for overtaking!
+
+        # Crash and completion - reduce crash penalty for better exploration
+        crash_penalty = -50.0 if (core.STATE.crashed and not crashed_before) else 0.0
         completion_bonus = (
             100.0
             if self.current_step >= self.max_steps_per_game and not core.STATE.crashed
             else 0.0
         )
 
-        # Total reward - pure distance focus with crash/completion events
-        reward = distance_reward + crash_penalty + completion_bonus
+        collision_risk_penalty = 0.0
+
+        # Get velocity components
+        vx = core.STATE.ego.velocity.x
+        vy = core.STATE.ego.velocity.y
+
+        # Check each sensor
+        sensor_angles = [
+            0,
+            22.5,
+            45,
+            67.5,
+            90,
+            112.5,
+            135,
+            157.5,
+            180,
+            202.5,
+            225,
+            247.5,
+            270,
+            292.5,
+            315,
+            337.5,
+        ]
+
+        for i, sensor in enumerate(core.STATE.sensors[:16]):
+            if (
+                sensor.reading is not None and sensor.reading < 300
+            ):  # Object detected within danger zone
+                # Convert sensor angle to radians
+                angle_rad = np.radians(sensor_angles[i])
+
+                # Calculate closing rate (velocity component in direction of sensor)
+                # For a car facing right (0°), sensor at 0° points left, 90° points forward, etc.
+                # Adjust based on your coordinate system
+                closing_rate = vx * np.cos(angle_rad) + vy * np.sin(angle_rad)
+
+                # Only penalize if we're moving toward the object (positive closing rate)
+                if closing_rate > 0:
+                    # Scale penalty by both closing rate and proximity
+                    proximity_factor = 1.0 - (
+                        sensor.reading / 300.0
+                    )  # 0 to 1, where 1 is very close
+
+                    # Quadratic penalty for high closing rates when close
+                    collision_risk_penalty -= closing_rate * proximity_factor**2 * 0.1
+
+                    # Extra penalty for front sensors (indices 2-6) as they're most critical
+                    if 2 <= i <= 6:
+                        collision_risk_penalty -= (
+                            closing_rate * proximity_factor**2 * 0.05
+                        )
+
+        # Total reward - removed steering_penalty and survival_bonus
+        reward = (
+            # speed_reward
+            # + overtaking_reward
+            distance_reward + proximity_penalty + speed_penalty + collision_risk_penalty
+            # + crash_penalty
+            # + completion_bonus
+        )
 
         # Accumulate rewards throughout the episode
         self._accumulated_rewards["distance_reward"] = (
@@ -267,8 +330,6 @@ class RealRaceCarEnv(gym.Env):
 
         # Store both current step breakdown and accumulated totals
         self._reward_breakdown = {
-            "speed_reward": speed_reward,  # Always 0 now
-            "overtaking_reward": overtaking_reward,  # Always 0 now
             "distance_reward": distance_reward,
             "proximity_penalty": 0.0,  # Always 0 now
             "crash_penalty": crash_penalty,

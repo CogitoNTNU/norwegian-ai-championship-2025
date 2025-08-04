@@ -82,8 +82,8 @@ def watch_real_ppo_model(
         os.makedirs("videos", exist_ok=True)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         video_filename = f"videos/ppo_real_demo_{timestamp}.mp4"
-        fourcc = cv2.VideoWriter_fourcc(*"mp4v")
-        video_writer = cv2.VideoWriter(video_filename, fourcc, 60.0, (1600, 1200))
+        fourcc = cv2.VideoWriter_fourcc(*"H264")
+        video_writer = cv2.VideoWriter(video_filename, fourcc, 30.0, (1600, 1200))
         print(f"Recording video to: {video_filename}")
 
     print(f"\nWatching PPO model for {episodes} episodes...")

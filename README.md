@@ -48,8 +48,6 @@ This repository contains solutions for the Norwegian AI Championship 2025 multi-
 
 Each task is now organized as an independent project with its own dependencies and configuration:
 
-1. Copy the `.env.example` file to `.env` and fill in the required environment variables:
-
 ```
 norwegian-ai-championship-2025/
 ├── rag/                         # Emergency Healthcare RAG
