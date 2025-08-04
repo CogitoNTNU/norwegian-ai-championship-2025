@@ -1,1 +1,0 @@
-The BISAP score for acute pancreatitis severity uses 6 criteria including blood urea nitrogen, impaired mental status, SIRS, age over 60 years, and pleural effusion.

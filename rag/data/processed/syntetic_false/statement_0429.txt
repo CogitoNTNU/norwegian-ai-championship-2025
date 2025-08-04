@@ -1,1 +1,0 @@
-Obstructive sleep apnea severity is classified as mild (10-20 events per hour), moderate (20-40 events per hour), and severe (greater than 40 events per hour) based on the apnea-hypopnea index.

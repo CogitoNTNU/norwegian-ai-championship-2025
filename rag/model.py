@@ -1,4 +1,3 @@
-import json
 import sys
 import os
 from typing import Tuple
@@ -11,7 +10,7 @@ from rag_pipeline_embeddings import EmbeddingsRAGPipeline
 
 # Get configuration from environment or use defaults
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "pubmedbert-base-embeddings")
-LLM_MODEL = os.getenv("LLM_MODEL", "cogito:8b")
+LLM_MODEL = os.getenv("LLM_MODEL", "cogito:3b")
 RETRIEVAL_STRATEGY = os.getenv("RETRIEVAL_STRATEGY", "default")
 
 # Initialize the RAG system once at module level for efficiency
@@ -21,7 +20,7 @@ rag_pipeline = EmbeddingsRAGPipeline(
     embedding_model=EMBEDDING_MODEL,
     llm_model=LLM_MODEL,
     top_k_retrieval=5,
-    retrieval_strategy=RETRIEVAL_STRATEGY
+    retrieval_strategy=RETRIEVAL_STRATEGY,
 )
 
 # Setup with data
@@ -50,13 +49,13 @@ def predict(statement: str) -> Tuple[int, int]:
     try:
         # Use the RAG pipeline to get predictions
         statement_is_true, statement_topic = rag_pipeline.predict(statement)
-        
+
         # Ensure values are in valid ranges
         statement_is_true = max(0, min(1, statement_is_true))
         statement_topic = max(0, min(114, statement_topic))
-        
+
         return statement_is_true, statement_topic
-        
+
     except Exception as e:
         print(f"Error in prediction: {e}")
         # Fallback to safe defaults

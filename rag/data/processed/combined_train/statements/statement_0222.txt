@@ -1,1 +1,0 @@
-The ARDSnet protocol recommends lung-protective ventilation with tidal volumes of 4-8 mL/kg ideal body weight and plateau pressures less than 30 cm H2O.
