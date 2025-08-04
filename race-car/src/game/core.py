@@ -44,6 +44,67 @@ def intersects(rect1, rect2):
 
 
 # Game logic
+def determine_lane_change_direction(trigger_sensor: str):
+    """Determine which direction to change lanes based on left/right sensor comparison"""
+    left_sensor_sum = 0
+    right_sensor_sum = 0
+    left_count = 0
+    right_count = 0
+    left_blocked = False
+    right_blocked = False
+    min_safe_distance = 250
+
+    for i, sensor in enumerate(STATE.sensors):
+        if sensor.reading is not None:
+            if "left" in sensor.name:
+                left_sensor_sum += sensor.reading
+                left_count += 1
+                if sensor.reading < min_safe_distance:
+                    left_blocked = True
+            elif "right" in sensor.name:
+                right_sensor_sum += sensor.reading
+                right_count += 1
+                if sensor.reading < min_safe_distance:
+                    right_blocked = True
+
+    # Determine direction based on combined sensor sums and safety checks
+    if left_count > 0 or right_count > 0:
+        if left_blocked and right_blocked:
+            # Both directions have close obstacles - don't change lanes
+            print(
+                f"{trigger_sensor} TRIGGERED! Both directions blocked (obstacles < {min_safe_distance}) - NO lane change at tick {STATE.ticks}"
+            )
+            return None  # No lane change
+        elif left_blocked:
+            # Left is blocked, only consider right if it's not blocked
+            print(
+                f"{trigger_sensor} TRIGGERED! Left blocked (obstacle < {min_safe_distance}), Right sum ({right_sensor_sum:.2f}) - Starting RIGHT lane change at tick {STATE.ticks}"
+            )
+            return "RIGHT"
+        elif right_blocked:
+            # Right is blocked, only consider left if it's not blocked
+            print(
+                f"{trigger_sensor} TRIGGERED! Right blocked (obstacle < {min_safe_distance}), Left sum ({left_sensor_sum:.2f}) - Starting LEFT lane change at tick {STATE.ticks}"
+            )
+            return "LEFT"
+        elif left_sensor_sum > right_sensor_sum:
+            print(
+                f"{trigger_sensor} TRIGGERED! Left sensors sum ({left_sensor_sum:.2f}) > Right sensors sum ({right_sensor_sum:.2f}) - Starting LEFT lane change at tick {STATE.ticks}"
+            )
+            return "LEFT"
+        else:
+            print(
+                f"{trigger_sensor} TRIGGERED! Right sensors sum ({right_sensor_sum:.2f}) >= Left sensors sum ({left_sensor_sum:.2f}) - Starting RIGHT lane change at tick {STATE.ticks}"
+            )
+            return "RIGHT"
+    else:
+        # Default to right if no left/right sensors are available
+        print(
+            f"{trigger_sensor} TRIGGERED! No left/right sensors available - Starting RIGHT lane change at tick {STATE.ticks}"
+        )
+        return "RIGHT"
+
+
 def handle_action(action: str):
     if action == "ACCELERATE":
         STATE.ego.speed_up()
@@ -275,7 +336,8 @@ def game_loop(
 
         # Handle action - get_action() is a method for using arrow keys to steer - implement own logic here!
         action = get_action()
-
+        if STATE.ticks < 100:
+            action = "ACCELERATE"
         # Check if lane change is already active and continue it
         if hasattr(STATE, "lane_change_active") and STATE.lane_change_active:
             ticks_since_start = STATE.ticks - STATE.lane_change_start_tick
@@ -318,36 +380,36 @@ def game_loop(
                     STATE.lane_change_active = False
                     delattr(STATE, "lane_change_start_tick")
                     delattr(STATE, "lane_change_direction")
-        # Check sensor index 0 and trigger lane change with direction based on sensors 4 and 12
+        # Check back sensor (index 4) for approaching cars
+        elif (
+            len(STATE.sensors) > 4
+            and STATE.sensors[4].reading is not None
+            and hasattr(STATE, "previous_back_sensor_reading")
+            and STATE.previous_back_sensor_reading is not None
+            and STATE.sensors[4].reading < STATE.previous_back_sensor_reading
+        ):
+            # Back sensor detects approaching car (distance decreasing)
+            if not hasattr(STATE, "lane_change_start_tick"):
+                print(
+                    f"BACK SENSOR DETECTS APPROACHING CAR! Distance decreased from {STATE.previous_back_sensor_reading:.2f} to {STATE.sensors[4].reading:.2f}"
+                )
+                direction = determine_lane_change_direction("BACK SENSOR")
+                if direction:
+                    STATE.lane_change_start_tick = STATE.ticks
+                    STATE.lane_change_active = True
+                    STATE.lane_change_direction = direction
+        # Check sensor index 0 and trigger lane change with direction based on left/right sensors
         elif len(STATE.sensors) > 0 and STATE.sensors[0].reading is not None:
             # Start lane change maneuver when sensor 0 detects something
             if not hasattr(STATE, "lane_change_start_tick"):
-                # Determine direction based on right_side (index 2) and left_side (index 6) sensors
-                if (
-                    len(STATE.sensors) > 6
-                    and STATE.sensors[2].reading is not None
-                    and STATE.sensors[6].reading is not None
-                ):
-                    if STATE.sensors[2].reading > STATE.sensors[6].reading:
-                        direction = "RIGHT"
-                        print(
-                            f"SENSOR 0 TRIGGERED! Right sensor ({STATE.sensors[2].reading:.2f}) > Left sensor ({STATE.sensors[6].reading:.2f}) - Starting RIGHT lane change at tick {STATE.ticks}"
-                        )
-                    else:
-                        direction = "LEFT"
-                        print(
-                            f"SENSOR 0 TRIGGERED! Left sensor ({STATE.sensors[6].reading:.2f}) > Right sensor ({STATE.sensors[2].reading:.2f}) - Starting LEFT lane change at tick {STATE.ticks}"
-                        )
-                else:
-                    # Default to right if side sensors are not available
-                    direction = "RIGHT"
-                    print(
-                        f"SENSOR 0 TRIGGERED! Side sensors not available - Starting RIGHT lane change at tick {STATE.ticks}"
-                    )
-
-                STATE.lane_change_start_tick = STATE.ticks
-                STATE.lane_change_active = True
-                STATE.lane_change_direction = direction
+                print(
+                    f"FRONT SENSOR DETECTS OBSTACLE! Distance: {STATE.sensors[0].reading:.2f}"
+                )
+                direction = determine_lane_change_direction("FRONT SENSOR")
+                if direction:
+                    STATE.lane_change_start_tick = STATE.ticks
+                    STATE.lane_change_active = True
+                    STATE.lane_change_direction = direction
         # Log the action with tick
         if log_actions:
             ACTION_LOG.append({"tick": STATE.ticks, "action": action})
@@ -361,6 +423,10 @@ def game_loop(
 
         print("Current action:", action)
         print("Currnet tick:", STATE.ticks)
+
+        # Track previous back sensor reading BEFORE updating sensors
+        if len(STATE.sensors) > 4:
+            STATE.previous_back_sensor_reading = STATE.sensors[4].reading
 
         # Update sensors
         for sensor in STATE.sensors:
