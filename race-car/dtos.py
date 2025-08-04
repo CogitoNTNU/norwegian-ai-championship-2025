@@ -4,10 +4,9 @@ from typing import Dict, Optional, List
 
 class RaceCarPredictRequestDto(BaseModel):
     did_crash: bool
-    elapsed_time_ms: int
-    distance: int
-    velocity: Dict[str, int]
-    coordinates: Dict[str, int]  # add
+    elapsed_ticks: int
+    distance: float
+    velocity: Dict[str, float]
     sensors: Dict[str, Optional[int]]
 
 
