@@ -1,0 +1,1 @@
+The bacterial meningitis score demonstrates a sensitivity of 99-100% and specificity of 52-62% for distinguishing bacterial from aseptic meningitis, making it superior to procalcitonin and CSF lactate levels as a diagnostic tool.

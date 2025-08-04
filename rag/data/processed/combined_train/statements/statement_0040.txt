@@ -1,0 +1,1 @@
+Computed tomography fractional flow reserve (CT-FFR) demonstrates an overall diagnostic accuracy of 81.9% compared to invasive FFR, but this accuracy drops significantly to 46.1% when CT-FFR values fall between 0.70 and 0.80.

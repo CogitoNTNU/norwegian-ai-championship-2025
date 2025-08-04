@@ -1,0 +1,1 @@
+The PECARN head trauma algorithm for children under 2 years old includes scalp hematomas (especially non-frontal), loss of consciousness for 5 seconds or more, severe mechanism of injury, abnormal parental-reported behavior, and palpable skull fracture as key criteria.

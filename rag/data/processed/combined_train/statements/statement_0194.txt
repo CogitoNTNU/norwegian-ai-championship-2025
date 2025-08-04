@@ -1,0 +1,1 @@
+Digital subtraction angiography technique acquires images at a rate of 5 to 7 frames per second to optimize visualization of vascular stenosis and flow dynamics.

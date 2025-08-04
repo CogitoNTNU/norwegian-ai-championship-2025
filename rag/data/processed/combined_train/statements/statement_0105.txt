@@ -1,0 +1,1 @@
+In CT pulmonary angiograms for detecting pulmonary embolism, the region of interest for bolus dose triggering is placed on the pulmonary artery, whereas for aortic dissection CT angiograms, it is placed in the ascending aorta.
