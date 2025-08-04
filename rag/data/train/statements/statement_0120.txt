@@ -1,0 +1,1 @@
+The Rotterdam CT scoring system outperforms the Marshall score by incorporating epidural lesions, intraventricular blood, and subarachnoid hemorrhage, with patients scoring 1 having a mortality rate of 3.2% while those scoring 6 face mortality rates approaching 80%.
