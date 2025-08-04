@@ -5,6 +5,7 @@ Simple RAG pipeline for medical statement classification using embeddings and FA
 ## Overview
 
 This system classifies medical statements by:
+
 - **Binary classification**: Is the statement true (1) or false (0)?
 - **Topic classification**: Which of 115 medical topics does it belong to?
 
@@ -20,13 +21,44 @@ uv sync
 ollama pull cogito:8b
 ```
 
+### GPU Setup (Optional)
+
+To use a GPU server for LLM inference while running RAG locally:
+
+1. **On GPU server (e.g., RunPod)**:
+
+   ```bash
+   # Install and start Ollama
+   curl -fsSL https://ollama.com/install.sh | sh
+   ollama serve
+
+   # Pull your model
+   ollama pull cogito:14b
+   ```
+
+1. **Expose Ollama via tunnel** (e.g., pinggy):
+
+   ```bash
+   ssh -p 443 -R0:localhost:11434 a.pinggy.io
+   ```
+
+1. **Set environment variable locally**:
+
+   ```bash
+   export OLLAMA_HOST=https://your-pinggy-url.a.free.pinggy.link
+   ```
+
+Now all LLM inference will use the GPU server while embeddings and RAG run locally.
+
+````
+
 ## Usage
 
 ### API Server
 
 ```bash
 uv run api
-```
+````
 
 The API will be available at `http://localhost:8000`
 
@@ -58,6 +90,7 @@ curl -X POST http://localhost:8000/predict \
 ```
 
 Response:
+
 ```json
 {
   "statement_is_true": 1,
@@ -68,13 +101,16 @@ Response:
 ## Available Models
 
 ### Embeddings
+
 - `pubmedbert-base-embeddings` - Medical-focused (has existing index)
 - `gte-base` - General purpose (has existing index)
 - `all-MiniLM-L6-v2` - Fast and lightweight
 - `all-mpnet-base-v2` - High quality general purpose
 - `BioLORD-2023` - Biomedical specialist
+- `Bio_ClinicalBERT` - Clinical text specialist
 
 ### LLMs (via Ollama)
+
 - `cogito:8b` - Default
 - `cogito:14b` - Run `ollama pull cogito:14b`
 - `qwen3:8b`
@@ -83,14 +119,23 @@ Response:
 ## Configuration
 
 Set environment variables to change default models:
+
 ```bash
 export EMBEDDING_MODEL=gte-base
 export LLM_MODEL=cogito:8b
 ```
 
+For external LLM server:
+
+```bash
+export OLLAMA_HOST=https://your-external-server.com
+# The LLM_MODEL will be ignored when OLLAMA_HOST is set
+```
+
 ## Validation
 
 Submit for validation against competition server:
+
 ```bash
 uv run validate
 ```
@@ -110,6 +155,7 @@ rag/
 
 ## Performance
 
-- Response time: ~2-5 seconds per statement
+- Response time: ~2-5 seconds per statement (local), ~0.7s with GPU
 - Memory usage: < 8GB RAM (excluding LLM)
 - Completely offline - no cloud APIs
+- GPU acceleration: Supported via external Ollama server

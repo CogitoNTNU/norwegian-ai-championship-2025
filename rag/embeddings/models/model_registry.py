@@ -95,6 +95,12 @@ class ModelRegistry:
                 "model_name": "FremyCompany/BioLORD-2023",
             },
         },
+        "Bio_ClinicalBERT": {
+            "class": MedicalEmbeddingModel,
+            "params": {
+                "model_name": "emilyalsentzer/Bio_ClinicalBERT",
+            },
+        },
         # Stella models
         "stella-400M": {
             "class": SentenceTransformerModel,
@@ -144,16 +150,12 @@ class ModelRegistry:
                 for model_name, model_config in config["models"].items():
                     if model_name in self.models:
                         # Update existing model
-                        self.models[model_name]["params"].update(
-                            model_config.get("params", {})
-                        )
+                        self.models[model_name]["params"].update(model_config.get("params", {}))
                     else:
                         # Add new model
                         self.models[model_name] = model_config
 
-    def register_model(
-        self, name: str, model_class: Type[BaseEmbeddingModel], params: Dict[str, Any]
-    ) -> None:
+    def register_model(self, name: str, model_class: Type[BaseEmbeddingModel], params: Dict[str, Any]) -> None:
         """
         Register a new model.
 
@@ -176,10 +178,7 @@ class ModelRegistry:
             Model instance
         """
         if name not in self.models:
-            raise ValueError(
-                f"Model '{name}' not found. "
-                f"Available models: {list(self.models.keys())}"
-            )
+            raise ValueError(f"Model '{name}' not found. Available models: {list(self.models.keys())}")
 
         model_config = self.models[name]
         model_class = model_config["class"]
@@ -218,9 +217,7 @@ def get_registry(config_path: Optional[str] = None) -> ModelRegistry:
     return _registry
 
 
-def get_embedding_model(
-    model_name: str, config_path: Optional[str] = None, **kwargs
-) -> BaseEmbeddingModel:
+def get_embedding_model(model_name: str, config_path: Optional[str] = None, **kwargs) -> BaseEmbeddingModel:
     """
     Get an embedding model instance.
 

@@ -47,8 +47,12 @@ def predict(statement: str) -> Tuple[int, int]:
             - statement_topic: topic ID from 0-114
     """
     try:
+        print(f"Starting prediction for: {statement[:50]}...")
+
         # Use the RAG pipeline to get predictions
         statement_is_true, statement_topic = rag_pipeline.predict(statement)
+
+        print(f"Got prediction: is_true={statement_is_true}, topic={statement_topic}")
 
         # Ensure values are in valid ranges
         statement_is_true = max(0, min(1, statement_is_true))
@@ -58,5 +62,8 @@ def predict(statement: str) -> Tuple[int, int]:
 
     except Exception as e:
         print(f"Error in prediction: {e}")
+        import traceback
+
+        traceback.print_exc()
         # Fallback to safe defaults
         return 1, 0

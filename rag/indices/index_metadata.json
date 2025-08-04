@@ -30,5 +30,13 @@
     "created": "2025-08-04T00:30:00.226843",
     "num_vectors": 2622,
     "last_updated": "2025-08-04T00:30:00.267761"
+  },
+  "Bio_ClinicalBERT": {
+    "dimension": 768,
+    "index_type": "Flat",
+    "metric": "cosine",
+    "created": "2025-08-04T23:23:02.030397",
+    "num_vectors": 2622,
+    "last_updated": "2025-08-04T23:23:02.070198"
   }
 }

@@ -26,7 +26,11 @@ class EmbeddingsRAGPipeline:
             retrieval_strategy: Strategy to use for retrieval ("default" or "hyde")
         """
         self.document_store = EmbeddingsDocumentStore(embedding_model)
-        self.llm_client = LocalLLMClient(llm_model)
+        # Check for OLLAMA_HOST environment variable
+        import os
+
+        ollama_host = os.environ.get("OLLAMA_HOST")
+        self.llm_client = LocalLLMClient(llm_model, base_url=ollama_host)
         self.top_k = top_k_retrieval
         self.embedding_model = embedding_model
 
@@ -38,9 +42,7 @@ class EmbeddingsRAGPipeline:
         else:
             self.retrieval_strategy = DefaultRetrieval()
 
-    def setup(
-        self, topics_dir: str, topics_json: str, index_path: str | None = None
-    ) -> None:
+    def setup(self, topics_dir: str, topics_json: str, index_path: str | None = None) -> None:
         """
         Set up the RAG pipeline by loading documents and building index.
 
@@ -76,22 +78,30 @@ class EmbeddingsRAGPipeline:
         Returns:
             Tuple of (statement_is_true, statement_topic)
         """
-        # Step 1: Retrieve relevant context using the strategy
-        relevant_chunks = self.retrieval_strategy.retrieve(
-            statement, self.document_store, k=self.top_k
-        )
+        try:
+            print(f"[RAG] Starting retrieval for: {statement[:50]}...")
+            # Step 1: Retrieve relevant context using the strategy
+            relevant_chunks = self.retrieval_strategy.retrieve(statement, self.document_store, k=self.top_k)
+            print(f"[RAG] Retrieved {len(relevant_chunks)} chunks")
 
-        # Step 2: Build context from retrieved chunks
-        context = self._build_context(relevant_chunks)
+            # Step 2: Build context from retrieved chunks
+            context = self._build_context(relevant_chunks)
+            print(f"[RAG] Built context of length: {len(context)}")
 
-        # Step 3: Use LLM to classify with context
-        # Also pass the most likely topics based on retrieval
-        likely_topics = self._get_likely_topics(relevant_chunks)
-        statement_is_true, statement_topic = self.llm_client.classify_statement(
-            statement, context, likely_topics
-        )
+            # Step 3: Use LLM to classify with context
+            # Also pass the most likely topics based on retrieval
+            likely_topics = self._get_likely_topics(relevant_chunks)
+            print(f"[RAG] Calling LLM with {len(likely_topics)} likely topics...")
+            statement_is_true, statement_topic = self.llm_client.classify_statement(statement, context, likely_topics)
+            print(f"[RAG] LLM returned: is_true={statement_is_true}, topic={statement_topic}")
 
-        return statement_is_true, statement_topic
+            return statement_is_true, statement_topic
+        except Exception as e:
+            print(f"[RAG] Error in predict: {e}")
+            import traceback
+
+            traceback.print_exc()
+            raise
 
     def _build_context(self, relevant_chunks: list) -> str:
         """Build context string from retrieved chunks."""
@@ -145,9 +155,9 @@ class EmbeddingsRAGPipeline:
             topic_scores[topic_id]["score"] += score
 
         # Sort by score and return top topics
-        sorted_topics = sorted(
-            topic_scores.items(), key=lambda x: x[1]["score"], reverse=True
-        )[:5]  # Top 5 most likely topics
+        sorted_topics = sorted(topic_scores.items(), key=lambda x: x[1]["score"], reverse=True)[
+            :5
+        ]  # Top 5 most likely topics
 
         return [(tid, tdata["name"]) for tid, tdata in sorted_topics]
 
@@ -179,9 +189,7 @@ class EmbeddingsRAGPipeline:
         correct_both = 0
         total = 0
 
-        statement_files = sorted(list(statements_path.glob("statement_*.txt")))[
-            :max_samples
-        ]
+        statement_files = sorted(list(statements_path.glob("statement_*.txt")))[:max_samples]
 
         print(f"Evaluating {self.embedding_model} on {len(statement_files)} samples...")
 
@@ -211,10 +219,7 @@ class EmbeddingsRAGPipeline:
                 if pred_topic == true_answer["statement_topic"]:
                     correct_topic += 1
 
-                if (
-                    pred_binary == true_answer["statement_is_true"]
-                    and pred_topic == true_answer["statement_topic"]
-                ):
+                if pred_binary == true_answer["statement_is_true"] and pred_topic == true_answer["statement_topic"]:
                     correct_both += 1
 
                 total += 1

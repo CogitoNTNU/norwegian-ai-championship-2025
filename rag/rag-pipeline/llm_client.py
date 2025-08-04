@@ -5,9 +5,11 @@ from typing import Dict, Tuple
 
 
 class LocalLLMClient:
-    def __init__(self, model_name: str = "qwen3:8b"):
+    def __init__(self, model_name: str = "qwen3:8b", base_url: str = None):
         self.model_name = model_name
-        self.client = ollama.Client()
+        self.base_url = base_url
+        self.client = ollama.Client(host=base_url) if base_url else ollama.Client()
+        self.is_external = bool(base_url)  # True if using external server
 
         # Load topic mapping
         self.topic_mapping = self._load_topic_mapping()
@@ -16,6 +18,7 @@ class LocalLLMClient:
         """Load the topic mapping from the competition data."""
         try:
             from pathlib import Path
+
             topics_json_path = Path(__file__).parent.parent / "data" / "topics.json"
             with open(topics_json_path, "r") as f:
                 return json.load(f)
@@ -26,23 +29,40 @@ class LocalLLMClient:
     def ensure_model_available(self) -> None:
         """Ensure the model is downloaded and available."""
         try:
-            # Try to list models and see if ours is there
-            models = self.client.list()["models"]
-            model_names = [model["name"] for model in models]
-
-            if self.model_name not in model_names:
-                print(f"Model {self.model_name} not found. Pulling...")
-                self.client.pull(self.model_name)
-                print(f"Model {self.model_name} pulled successfully")
+            if self.is_external:
+                # For external server, just check what model is running
+                # Don't try to pull models on external server
+                try:
+                    models = self.client.list()["models"]
+                    if models:
+                        running_models = [m["name"] for m in models]
+                        print(f"✅ Connected to external LLM server at {self.base_url}")
+                        print(f"   Available models: {', '.join(running_models)}")
+                        # Use the first available model if our specified model isn't there
+                        if self.model_name not in running_models and running_models:
+                            actual_model = running_models[0]
+                            print(f"   Note: Using {actual_model} (requested {self.model_name} not found)")
+                            self.model_name = actual_model
+                    else:
+                        print(f"⚠️  No models running on external server at {self.base_url}")
+                except Exception as e:
+                    print(f"✅ Connected to external LLM server (model detection failed: {e})")
             else:
-                print(f"Model {self.model_name} is available")
+                # Local server - original behavior
+                models = self.client.list()["models"]
+                model_names = [model["name"] for model in models]
+
+                if self.model_name not in model_names:
+                    print(f"Model {self.model_name} not found. Pulling...")
+                    self.client.pull(self.model_name)
+                    print(f"Model {self.model_name} pulled successfully")
+                else:
+                    print(f"Model {self.model_name} is available")
 
         except Exception as e:
             print(f"Error checking/pulling model: {e}")
 
-    def classify_statement(
-        self, statement: str, context: str, likely_topics: list = None
-    ) -> Tuple[int, int]:
+    def classify_statement(self, statement: str, context: str, likely_topics: list = None) -> Tuple[int, int]:
         """
         Classify a medical statement using the LLM.
 
@@ -57,6 +77,14 @@ class LocalLLMClient:
         prompt = self._build_classification_prompt(statement, context, likely_topics)
 
         try:
+            print(f"[LLM] Sending request to {self.base_url if self.is_external else 'local'} ollama...")
+            print(f"[LLM] Using model: {self.model_name}")
+            print(f"[LLM] Statement: {statement[:50]}...")
+
+            import time
+
+            start_time = time.time()
+
             response = self.client.generate(
                 model=self.model_name,
                 prompt=prompt,
@@ -67,25 +95,28 @@ class LocalLLMClient:
                 },
             )
 
+            elapsed = time.time() - start_time
+            print(f"[LLM] Got response in {elapsed:.2f}s")
+
             result_text = response["response"]
+            print(f"[LLM] Response: {result_text[:100]}...")
             return self._parse_classification_result(result_text)
 
         except Exception as e:
             print(f"Error in LLM classification: {e}")
+            import traceback
+
+            traceback.print_exc()
             # Fallback: return neutral predictions
             return 1, 0
 
-    def _build_classification_prompt(
-        self, statement: str, context: str, likely_topics: list
-    ) -> str:
+    def _build_classification_prompt(self, statement: str, context: str, likely_topics: list) -> str:
         """Build the classification prompt."""
 
         # Create topic list for reference
         if likely_topics:
             topic_list = "\n".join([f"{tid}: {tname}" for tid, tname in likely_topics])
-            topic_guidance = (
-                f"Focus on the following topics (and their IDs):\n{topic_list}"
-            )
+            topic_guidance = f"Focus on the following topics (and their IDs):\n{topic_list}"
         else:
             topic_list = ""
             for name, idx in sorted(self.topic_mapping.items(), key=lambda x: x[1]):
@@ -141,11 +172,7 @@ Your response:"""
 
             for line in lines:
                 if "true" in line.lower() and ("false" in line.lower() or "0" in line):
-                    statement_is_true = (
-                        0
-                        if ("false" in line.lower() or '"statement_is_true": 0' in line)
-                        else 1
-                    )
+                    statement_is_true = 0 if ("false" in line.lower() or '"statement_is_true": 0' in line) else 1
                 if "topic" in line.lower():
                     topic_match = re.search(r"(\d+)", line)
                     if topic_match:

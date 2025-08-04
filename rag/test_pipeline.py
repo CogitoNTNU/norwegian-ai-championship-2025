@@ -9,9 +9,7 @@ import os
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["OMP_NUM_THREADS"] = "1"
 # Force sentence-transformers to not use multiprocessing
-os.environ["SENTENCE_TRANSFORMERS_HOME"] = os.path.join(
-    os.path.dirname(__file__), ".cache", "sentence_transformers"
-)
+os.environ["SENTENCE_TRANSFORMERS_HOME"] = os.path.join(os.path.dirname(__file__), ".cache", "sentence_transformers")
 
 import sys
 import json
@@ -51,12 +49,8 @@ def load_training_statements(n: int) -> List[Tuple[str, Dict]]:
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Test RAG pipeline with multiple statements"
-    )
-    parser.add_argument(
-        "--n", type=int, default=15, help="Number of statements to test (default: 15)"
-    )
+    parser = argparse.ArgumentParser(description="Test RAG pipeline with multiple statements")
+    parser.add_argument("--n", type=int, default=15, help="Number of statements to test (default: 15)")
     parser.add_argument(
         "--embedding",
         type=str,
@@ -71,17 +65,24 @@ def main():
         choices=["default", "hyde", "hybrid"],
         help="Retrieval strategy to use (default: default)",
     )
-    parser.add_argument(
-        "--verbose", action="store_true", help="Show detailed output for each statement"
-    )
+    parser.add_argument("--verbose", action="store_true", help="Show detailed output for each statement")
 
     args = parser.parse_args()
+
+    # Check if using external LLM
+    ollama_host = os.environ.get("OLLAMA_HOST")
 
     print("🏥 Testing RAG Pipeline")
     print("=" * 50)
     print(f"📊 Statements: {args.n}")
     print(f"🧬 Embedding: {args.embedding}")
-    print(f"🤖 LLM: {args.llm}")
+
+    if ollama_host:
+        print(f"🤖 LLM: External server at {ollama_host}")
+        print(f"   (--llm argument '{args.llm}' will be ignored)")
+    else:
+        print(f"🤖 LLM: {args.llm} (local)")
+
     print(f"🔍 Strategy: {args.strategy}")
     print()
 
@@ -106,9 +107,7 @@ def main():
 
     # Setup
     rag_dir = Path(__file__).parent
-    pipeline.setup(
-        str(rag_dir / "data" / "topics"), str(rag_dir / "data" / "topics.json")
-    )
+    pipeline.setup(str(rag_dir / "data" / "topics"), str(rag_dir / "data" / "topics.json"))
 
     init_time = time.time() - start_init
     print(f"✅ Pipeline ready in {init_time:.1f}s")
@@ -180,9 +179,7 @@ def main():
     print(f"{'=' * 50}")
     print(f"Binary Accuracy:    {correct_binary}/{n} ({correct_binary / n * 100:.1f}%)")
     print(f"Topic Accuracy:     {correct_topic}/{n} ({correct_topic / n * 100:.1f}%)")
-    print(
-        f"Combined Accuracy:  ({correct_binary} + {correct_topic}) / {2 * n} = {total_score:.1%}"
-    )
+    print(f"Combined Accuracy:  ({correct_binary} + {correct_topic}) / {2 * n} = {total_score:.1%}")
     print(f"Average Time:       {avg_time:.2f}s per statement")
     print(f"Total Time:         {total_time:.1f}s")
 
