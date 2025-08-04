@@ -97,9 +97,9 @@ def run_ppo(args):
 
         # Import and run PPO watching
         sys.path.append(os.path.join(os.path.dirname(__file__), "ppo"))
-        from watch_ppo_real import watch_ppo_model
+        from watch_ppo_real import watch_real_ppo_model
 
-        watch_ppo_model(args.model_path, headless=args.headless)
+        watch_real_ppo_model()
 
 
 def run_rainbow(args):

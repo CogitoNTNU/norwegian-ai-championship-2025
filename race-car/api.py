@@ -1,7 +1,7 @@
 import time
 import uvicorn
 import datetime
-from fastapi import Body, FastAPI
+from fastapi import Body, FastAPI, Request
 from dtos import RaceCarPredictRequestDto, RaceCarPredictResponseDto
 from example import predict_race_car_action
 
@@ -12,13 +12,25 @@ app = FastAPI(
     title="AI Race Car Challenge",
     description="AI race car control system",
     version="1.0.0",
+    debug=True,
 )
 start_time = time.time()
 
 
+@app.middleware("http")
+async def log_requests(request: Request, call_next):
+    body = await request.body()
+    print(f"Request body: {body}")
+    # Reset the request body for the endpoint to read
+    request._body = body
+    response = await call_next(request)
+    return response
+
+
 @app.post("/predict", response_model=RaceCarPredictResponseDto)
 def predict(request: RaceCarPredictRequestDto = Body(...)):
-    actions = predict_race_car_action(request.dict())
+    # actions = predict_race_car_action(request.dict())
+    actions = ["ACCELERATE"] * 10
     return RaceCarPredictResponseDto(actions=actions)
 
 
