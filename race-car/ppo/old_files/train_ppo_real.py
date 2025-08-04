@@ -203,7 +203,7 @@ class CustomWandbCallback(BaseCallback):
             if os.path.exists(video_path):
                 wandb.log(
                     {
-                        f"training_video": wandb.Video(
+                        "training_video": wandb.Video(
                             video_path, format="mp4", caption=f"Episode {episode_num}"
                         )
                     },
@@ -212,14 +212,6 @@ class CustomWandbCallback(BaseCallback):
 
                 if self.verbose:
                     print(f"Uploaded video for episode {episode_num} to wandb")
-
-                # Clean up local file to save space
-                try:
-                    os.remove(video_path)
-                    if self.verbose:
-                        print(f"Cleaned up local video file: {video_path}")
-                except:
-                    pass
 
         except Exception as e:
             if self.verbose:
@@ -320,7 +312,7 @@ class CustomWandbCallback(BaseCallback):
         if self.pygame_initialized:
             try:
                 pygame.quit()
-            except:
+            except Exception:
                 pass
 
 

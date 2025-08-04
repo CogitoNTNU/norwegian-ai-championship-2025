@@ -20,18 +20,18 @@ import src.game.core as game_core
 
 
 class RaceCarEnv(gym.Env):
-    """Clean Gym environment for the race car game."""
+    """Improved Gym environment for the race car game with better reward shaping."""
 
     metadata = {"render_modes": ["human", "rgb_array"], "render_fps": 60}
 
-    def __init__(self, render_mode: Optional[str] = "rgb_array", seed: Optional[str] = None):
-        self.render_mode = render_mode
+    def __init__(self, render_mode: Optional[str] = None, seed: Optional[str] = None):
         super().__init__()
 
         self.render_mode = render_mode
         self.seed_value = seed or "default_seed"
 
         # Action space: 0=NOTHING, 1=ACCELERATE, 2=DECELERATE, 3=STEER_LEFT, 4=STEER_RIGHT
+        # Adding steering actions for better control
         self.action_space = gym.spaces.Discrete(5)
         self.action_map = {
             0: "NOTHING",
@@ -48,12 +48,13 @@ class RaceCarEnv(gym.Env):
         initialize_game_state("", self.seed_value)
         self.num_sensors = len(game_core.STATE.sensors)
 
-        # Observation space: sensor readings + velocity + lane position
+        # Observation space: sensor readings + velocity + lane position + heading
         # Sensors: num_sensors values (0-1000, normalized to 0-1)
         # Velocity: x and y components (normalized)
         # Lane position: y position relative to road (0-1)
+        # Heading: angle of the car (normalized)
         self.observation_space = gym.spaces.Box(
-            low=0.0, high=1.0, shape=(self.num_sensors + 3,), dtype=np.float32
+            low=-1.0, high=1.0, shape=(self.num_sensors + 4,), dtype=np.float32
         )
 
         # Initialize display if rendering
@@ -68,8 +69,10 @@ class RaceCarEnv(gym.Env):
         # Training metrics
         self.episode_reward = 0
         self.steps_without_progress = 0
-        self.max_steps_without_progress = 100
+        self.max_steps_without_progress = 300  # Increased patience
         self.last_reward_breakdown = {}
+        self.previous_distances = []  # Track recent distances for progress check
+        self.distance_window = 50  # Window size for checking progress
 
     def reset(
         self, seed: Optional[int] = None, options: Optional[Dict] = None
@@ -78,12 +81,19 @@ class RaceCarEnv(gym.Env):
         super().reset(seed=seed)
 
         # Initialize game state
-        initialize_game_state("", self.seed_value, sensor_removal=0)
+        initialize_game_state("", self.seed_value)
+
+        # CRITICAL: Force reset game state values that might not be reset by initialize_game_state
+        game_core.STATE.distance = 0
+        game_core.STATE.ticks = 0
+        game_core.STATE.crashed = False
+        game_core.STATE.elapsed_game_time = 0
 
         # Reset metrics
         self.episode_reward = 0
         self.steps_without_progress = 0
         self.last_reward_breakdown = {}
+        self.previous_distances = []
 
         # Get initial observation
         obs = self._get_observation()
@@ -99,6 +109,7 @@ class RaceCarEnv(gym.Env):
         # Store previous state
         prev_distance = game_core.STATE.distance
         prev_velocity_x = game_core.STATE.ego.velocity.x
+        prev_y = game_core.STATE.ego.y
 
         # Execute action
         update_game(action_str)
@@ -118,11 +129,24 @@ class RaceCarEnv(gym.Env):
             if intersects(game_core.STATE.ego.rect, wall.rect):
                 game_core.STATE.crashed = True
 
+        # Track progress
+        self.previous_distances.append(game_core.STATE.distance)
+        if len(self.previous_distances) > self.distance_window:
+            self.previous_distances.pop(0)
+
+        # Check if making progress
+        if len(self.previous_distances) >= self.distance_window:
+            progress = self.previous_distances[-1] - self.previous_distances[0]
+            if progress < 5.0:  # Less than 5 units progress in window
+                self.steps_without_progress += 1
+            else:
+                self.steps_without_progress = 0
+
         # Get observation
         obs = self._get_observation()
 
         # Calculate reward
-        reward = self._calculate_reward(prev_distance, prev_velocity_x)
+        reward = self._calculate_reward(prev_distance, prev_velocity_x, prev_y, action)
         self.episode_reward += reward
 
         # Check termination conditions
@@ -142,93 +166,70 @@ class RaceCarEnv(gym.Env):
         """Get current observation from game state."""
         obs = []
 
-        # 1. Sensor readings (16 values, normalized to 0-1)
+        # 1. Sensor readings (normalized to -1 to 1)
         for sensor in game_core.STATE.sensors:
             if sensor.reading is not None:
-                # Normalize sensor reading (0-1000 -> 0-1)
-                normalized_reading = min(sensor.reading / 1000.0, 1.0)
+                # Normalize sensor reading (0-1000 -> -1 to 1)
+                # Close objects are -1, far objects are 1
+                normalized_reading = (sensor.reading / 500.0) - 1.0
+                normalized_reading = np.clip(normalized_reading, -1.0, 1.0)
             else:
                 # No reading means maximum distance
                 normalized_reading = 1.0
             obs.append(normalized_reading)
 
         # 2. Velocity (normalized)
-        # Typical max velocity is around 20-30
-        vel_x_normalized = np.clip(game_core.STATE.ego.velocity.x / 30.0, 0.0, 1.0)
-        vel_y_normalized = np.clip(
-            (game_core.STATE.ego.velocity.y + 5.0) / 10.0, 0.0, 1.0
-        )  # y can be negative
+        vel_x_normalized = np.clip(game_core.STATE.ego.velocity.x / 30.0, -1.0, 1.0)
+        vel_y_normalized = np.clip(game_core.STATE.ego.velocity.y / 10.0, -1.0, 1.0)
         obs.extend([vel_x_normalized, vel_y_normalized])
 
-        # 3. Lane position (normalized y position)
-        y_position = (game_core.STATE.ego.y - game_core.STATE.road.y_start) / (
-            game_core.STATE.road.y_end - game_core.STATE.road.y_start
-        )
-        y_position = np.clip(y_position, 0.0, 1.0)
+        # 3. Lane position (normalized y position, centered around 0)
+        road_center = (game_core.STATE.road.y_start + game_core.STATE.road.y_end) / 2
+        road_height = game_core.STATE.road.y_end - game_core.STATE.road.y_start
+        y_position = (game_core.STATE.ego.y - road_center) / (road_height / 2)
+        y_position = np.clip(y_position, -1.0, 1.0)
         obs.append(y_position)
+
+        # 4. Car heading/angle (if available)
+        # Assuming the car has an angle attribute, normalize it
+        if hasattr(game_core.STATE.ego, "angle"):
+            angle_normalized = np.sin(
+                game_core.STATE.ego.angle
+            )  # Use sin for continuity
+            obs.append(angle_normalized)
+        else:
+            obs.append(0.0)  # Default if no angle available
 
         return np.array(obs, dtype=np.float32)
 
-    def _calculate_reward(self, prev_distance: float, prev_velocity_x: float) -> float:
+    def _calculate_reward(
+        self, prev_distance: float, prev_velocity_x: float, prev_y: float, action: int
+    ) -> float:
         """Calculate reward based on game state changes."""
         reward = 0.0
         reward_breakdown = {}
 
-        # 1. Distance reward (main objective)
+        # 1. Primary reward: Distance traveled this step
+        # This is the most important metric - how far did we go?
         distance_gained = game_core.STATE.distance - prev_distance
-        distance_reward = distance_gained * 0.1  # Scale down to reasonable values
+        distance_reward = distance_gained * 0.1  # Scale to reasonable range
         reward += distance_reward
         reward_breakdown["distance_reward"] = distance_reward
 
-        # 2. Velocity maintenance reward
-        velocity_reward = 0.0
-        if game_core.STATE.ego.velocity.x > 10:
-            velocity_reward = 0.5  # Bonus for maintaining good speed
-        elif game_core.STATE.ego.velocity.x < 5:
-            velocity_reward = -0.5  # Penalty for going too slow
-        reward += velocity_reward
-        reward_breakdown["velocity_reward"] = velocity_reward
-
-        # 3. Lane keeping reward (penalize extreme y positions)
-        ego_center_y = (
-            game_core.STATE.ego.y + game_core.STATE.ego.sprite.get_height() / 2
-        )
-        road_center_y = (game_core.STATE.road.y_start + game_core.STATE.road.y_end) / 2
-        y_deviation = abs(ego_center_y - road_center_y) / (
-            game_core.STATE.road.y_end - game_core.STATE.road.y_start
-        )
-        lane_penalty = -y_deviation * 0.2  # Small penalty for deviating from center
-        reward += lane_penalty
-        reward_breakdown["lane_penalty"] = lane_penalty
-
-        # 4. Collision penalty
-        collision_penalty = 0.0
+        # 2. Collision penalty (terminal negative reward)
         if game_core.STATE.crashed:
-            collision_penalty = -100.0  # Large penalty for crashing
-        reward += collision_penalty
-        reward_breakdown["collision_penalty"] = collision_penalty
-
-        # 5. Sensor-based safety reward
-        min_sensor_reading = float("inf")
-        for sensor in game_core.STATE.sensors:
-            if sensor.reading is not None:
-                min_sensor_reading = min(min_sensor_reading, sensor.reading)
-
-        safety_reward = 0.0
-        if min_sensor_reading < 50:  # Too close to obstacle
-            safety_reward = -1.0
-        elif min_sensor_reading > 200:  # Safe distance
-            safety_reward = 0.1
-        reward += safety_reward
-        reward_breakdown["safety_reward"] = safety_reward
-
-        # 6. Progress tracking
-        if distance_gained <= 0:
-            self.steps_without_progress += 1
+            collision_penalty = -10.0  # Significant but not overwhelming
+            reward += collision_penalty
+            reward_breakdown["collision_penalty"] = collision_penalty
         else:
-            self.steps_without_progress = 0
+            reward_breakdown["collision_penalty"] = 0.0
 
-        # Store reward breakdown for logging
+        # 3. Small living penalty to encourage efficiency
+        # This prevents the agent from just staying still
+        living_penalty = -0.01
+        reward += living_penalty
+        reward_breakdown["living_penalty"] = living_penalty
+
         self.last_reward_breakdown = reward_breakdown
 
         return reward
@@ -243,6 +244,7 @@ class RaceCarEnv(gym.Env):
             "ticks": game_core.STATE.ticks,
             "episode_reward": self.episode_reward,
             "y_position": game_core.STATE.ego.y,
+            "steps_without_progress": self.steps_without_progress,
             "reward_breakdown": self.last_reward_breakdown.copy(),
         }
 
@@ -294,6 +296,7 @@ class RaceCarEnv(gym.Env):
                 f"Velocity: {game_core.STATE.ego.velocity.x:.1f}",
                 f"Reward: {self.episode_reward:.1f}",
                 f"Tick: {game_core.STATE.ticks}",
+                f"No Progress: {self.steps_without_progress}",
             ]
 
             y_offset = 10
@@ -319,6 +322,7 @@ if __name__ == "__main__":
 
     print(f"Observation shape: {obs.shape}")
     print(f"Action space: {env.action_space}")
+    print("Actions: 0=NOTHING, 1=ACCELERATE, 2=DECELERATE, 3=STEER_LEFT, 4=STEER_RIGHT")
 
     # Run a few random steps
     for _ in range(1000):

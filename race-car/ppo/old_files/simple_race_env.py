@@ -7,13 +7,6 @@ import os
 
 
 import logging
-
-# At the top of your RaceCarEnv file
-logger = logging.getLogger(__name__)
-
-# Add parent directory to path to import game modules
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
 from src.game.core import (
     initialize_game_state,
     update_game,
@@ -24,17 +17,25 @@ from src.game.core import (
 )
 import src.game.core as game_core
 
+# At the top of your RaceCarEnv file
+logger = logging.getLogger(__name__)
+
+# Add parent directory to path to import game modules
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 
 class RaceCarEnv(gym.Env):
     """Clean Gym environment for the race car game."""
 
     metadata = {"render_modes": ["human", "rgb_array"], "render_fps": 60}
 
-    def __init__(self, render_mode: Optional[str] = "rgb_array", seed: Optional[str] = None):
+    def __init__(
+        self, render_mode: Optional[str] = "rgb_array", seed: Optional[str] = None
+    ):
         handler = logging.StreamHandler()
-        handler.setFormatter(logging.Formatter('[%(name)s] %(levelname)s: %(message)s'))
+        handler.setFormatter(logging.Formatter("[%(name)s] %(levelname)s: %(message)s"))
         logger.addHandler(handler)
-        
+
         logger.info("Initializing RaceCarEnv")
         self.render_mode = render_mode
         super().__init__()
@@ -55,7 +56,6 @@ class RaceCarEnv(gym.Env):
         # Lane position counting from bottom to up with 0 based index
         self.lane_position = 2 / 5
 
-
         # We need to initialize game state first to know sensor count
         initialize_game_state("", self.seed_value)
         self.num_sensors = len(game_core.STATE.sensors)
@@ -71,7 +71,6 @@ class RaceCarEnv(gym.Env):
             pygame.init()
 
         if self.render_mode == "human":
-
             self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
             pygame.display.set_caption("Race Car PPO Training")
             self.clock = pygame.time.Clock()
@@ -116,66 +115,65 @@ class RaceCarEnv(gym.Env):
         actions = []
         action_str = self.action_map[action]
         if action_str == "STEER_RIGHT":
-            actions.extend(["STEER_RIGHT"]*48)
-            actions.extend(["STEER_LEFT"]*48)
+            actions.extend(["STEER_RIGHT"] * 48)
+            actions.extend(["STEER_LEFT"] * 48)
             self.lane_position -= 1 / 5
             logger.info("Actions right array: ", actions)
         elif action_str == "STEER_LEFT":
-            actions.extend(["STEER_LEFT"]*48)
-            actions.extend(["STEER_RIGHT"]*48)
+            actions.extend(["STEER_LEFT"] * 48)
+            actions.extend(["STEER_RIGHT"] * 48)
             self.lane_position += 1 / 5
         else:
             actions = [action_str]
 
-        
         # Process each action in the list
         for action_str in actions:
             # Store previous state
             prev_distance = game_core.STATE.distance
             prev_velocity_x = game_core.STATE.ego.velocity.x
-            
+
             # Execute action
             update_game(action_str)
-            
+
             # Increment ticks (update_game doesn't do this)
             game_core.STATE.ticks += 1
-            
+
             # Check collisions (update_game doesn't do this)
             for car in game_core.STATE.cars:
                 if car != game_core.STATE.ego and intersects(
                     game_core.STATE.ego.rect, car.rect
                 ):
                     game_core.STATE.crashed = True
-            
+
             # Check collision with walls
             for wall in game_core.STATE.road.walls:
                 if intersects(game_core.STATE.ego.rect, wall.rect):
                     game_core.STATE.crashed = True
-            
+
             # Get observation
             obs = self._get_observation()
-            
+
             # Calculate reward for this step
             step_reward = self._calculate_reward(prev_distance, prev_velocity_x)
             cumulative_reward += step_reward
             self.episode_reward += step_reward
-            
+
             # Check termination conditions
             terminated = game_core.STATE.crashed or game_core.STATE.ticks > MAX_TICKS
             truncated = self.steps_without_progress >= self.max_steps_without_progress
-            
+
             # Get info
             info = self._get_info()
-            
+
             # Render if needed
             if self.render_mode == "human":
                 self.render()
-            
+
             # Break out of loop if environment terminates
             if terminated or truncated:
                 print("Episode terminated with distance: ", game_core.STATE.distance)
                 break
-        
+
         return obs, cumulative_reward, terminated, truncated, info
 
     def _get_observation(self) -> np.ndarray:
@@ -296,7 +294,7 @@ class RaceCarEnv(gym.Env):
         """Render the game state."""
         if self.render_mode is None:
             return None
-        
+
         # Create a surface for rendering
         if self.render_mode == "rgb_array":
             # Create a surface for offscreen rendering
@@ -305,17 +303,17 @@ class RaceCarEnv(gym.Env):
             surface = self.screen
         else:
             return None
-        
+
         # Clear surface
         surface.fill((0, 0, 0))
-        
+
         # Draw road
         surface.blit(game_core.STATE.road.surface, (0, 0))
-        
+
         # Draw walls
         for wall in game_core.STATE.road.walls:
             wall.draw(surface)
-        
+
         # Draw cars
         for car in game_core.STATE.cars:
             if car.sprite:
@@ -324,12 +322,12 @@ class RaceCarEnv(gym.Env):
                 bounds = car.get_bounds()
                 color = (255, 0, 0) if car == game_core.STATE.ego else (0, 255, 0)
                 pygame.draw.rect(surface, color, bounds, width=2)
-        
+
         # Draw sensors
         if game_core.STATE.sensors_enabled:
             for sensor in game_core.STATE.sensors:
                 sensor.draw(surface)
-        
+
         # Draw info text
         font = pygame.font.Font(None, 36)
         info_texts = [
@@ -338,13 +336,13 @@ class RaceCarEnv(gym.Env):
             f"Reward: {self.episode_reward:.1f}",
             f"Tick: {game_core.STATE.ticks}",
         ]
-        
+
         y_offset = 10
         for text in info_texts:
             text_surface = font.render(text, True, (255, 255, 255))
             surface.blit(text_surface, (10, y_offset))
             y_offset += 40
-        
+
         if self.render_mode == "human":
             pygame.display.flip()
             if self.clock:
@@ -353,8 +351,7 @@ class RaceCarEnv(gym.Env):
         elif self.render_mode == "rgb_array":
             # Convert surface to RGB array
             return np.transpose(
-                np.array(pygame.surfarray.pixels3d(surface)), 
-                axes=(1, 0, 2)
+                np.array(pygame.surfarray.pixels3d(surface)), axes=(1, 0, 2)
             )
 
         def close(self):
