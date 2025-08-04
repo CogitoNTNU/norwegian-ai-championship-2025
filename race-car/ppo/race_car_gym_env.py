@@ -30,14 +30,12 @@ class RaceCarEnv(gym.Env):
         self.render_mode = render_mode
         self.seed_value = seed or "default_seed"
 
-        # Action space: 0=NOTHING, 1=ACCELERATE, 2=DECELERATE, 3=STEER_LEFT, 4=STEER_RIGHT
-        self.action_space = gym.spaces.Discrete(5)
+        # Action space: 0=NOTHING, 1=ACCELERATE, 2=DECELERATE (no steering)
+        self.action_space = gym.spaces.Discrete(3)
         self.action_map = {
             0: "NOTHING",
             1: "ACCELERATE",
             2: "DECELERATE",
-            3: "STEER_LEFT",
-            4: "STEER_RIGHT",
         }
 
         # Initialize pygame first (required for game state)
@@ -58,7 +56,7 @@ class RaceCarEnv(gym.Env):
         # Initialize display if rendering
         if self.render_mode == "human":
             self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-            pygame.display.set_caption("Race Car PPO Training")
+            pygame.display.set_caption("Race Car PPO Training (No Steering)")
             self.clock = pygame.time.Clock()
         else:
             self.screen = None
@@ -179,27 +177,6 @@ class RaceCarEnv(gym.Env):
         reward += distance_reward
         reward_breakdown["distance_reward"] = distance_reward
 
-        # 2. Velocity maintenance reward
-        velocity_reward = 0.0
-        if game_core.STATE.ego.velocity.x > 10:
-            velocity_reward = 0.5  # Bonus for maintaining good speed
-        elif game_core.STATE.ego.velocity.x < 5:
-            velocity_reward = -0.5  # Penalty for going too slow
-        reward += velocity_reward
-        reward_breakdown["velocity_reward"] = velocity_reward
-
-        # 3. Lane keeping reward (penalize extreme y positions)
-        ego_center_y = (
-            game_core.STATE.ego.y + game_core.STATE.ego.sprite.get_height() / 2
-        )
-        road_center_y = (game_core.STATE.road.y_start + game_core.STATE.road.y_end) / 2
-        y_deviation = abs(ego_center_y - road_center_y) / (
-            game_core.STATE.road.y_end - game_core.STATE.road.y_start
-        )
-        lane_penalty = -y_deviation * 0.2  # Small penalty for deviating from center
-        reward += lane_penalty
-        reward_breakdown["lane_penalty"] = lane_penalty
-
         # 4. Collision penalty
         collision_penalty = 0.0
         if game_core.STATE.crashed:
@@ -207,27 +184,6 @@ class RaceCarEnv(gym.Env):
         reward += collision_penalty
         reward_breakdown["collision_penalty"] = collision_penalty
 
-        # 5. Sensor-based safety reward
-        min_sensor_reading = float("inf")
-        for sensor in game_core.STATE.sensors:
-            if sensor.reading is not None:
-                min_sensor_reading = min(min_sensor_reading, sensor.reading)
-
-        safety_reward = 0.0
-        if min_sensor_reading < 50:  # Too close to obstacle
-            safety_reward = -1.0
-        elif min_sensor_reading > 200:  # Safe distance
-            safety_reward = 0.1
-        reward += safety_reward
-        reward_breakdown["safety_reward"] = safety_reward
-
-        # 6. Progress tracking
-        if distance_gained <= 0:
-            self.steps_without_progress += 1
-        else:
-            self.steps_without_progress = 0
-
-        # Store reward breakdown for logging
         self.last_reward_breakdown = reward_breakdown
 
         return reward
@@ -293,6 +249,7 @@ class RaceCarEnv(gym.Env):
                 f"Velocity: {game_core.STATE.ego.velocity.x:.1f}",
                 f"Reward: {self.episode_reward:.1f}",
                 f"Tick: {game_core.STATE.ticks}",
+                "NO STEERING MODE",
             ]
 
             y_offset = 10
@@ -318,6 +275,7 @@ if __name__ == "__main__":
 
     print(f"Observation shape: {obs.shape}")
     print(f"Action space: {env.action_space}")
+    print("Actions: 0=NOTHING, 1=ACCELERATE, 2=DECELERATE (No steering)")
 
     # Run a few random steps
     for _ in range(1000):
