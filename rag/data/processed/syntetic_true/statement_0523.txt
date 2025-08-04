@@ -1,1 +1,0 @@
-Pulse oximetry overestimates oxygen saturation in carbon monoxide poisoning because carboxyhemoglobin has a similar absorbance spectrum to oxygenated hemoglobin.

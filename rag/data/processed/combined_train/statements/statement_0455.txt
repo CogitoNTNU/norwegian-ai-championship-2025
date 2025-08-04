@@ -1,1 +1,0 @@
-Ambulatory ECG monitoring includes devices like Holter monitors, event recorders, and patch monitors that can continuously record cardiac activity for extended periods.
