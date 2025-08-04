@@ -13,7 +13,8 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 class RuleBasedRaceCarAI:
     """
     Rule-based AI for the race car game with proper state management.
-    Exact implementation of the API's predict_actions_from_game_bot function.
+    Modified to check front diagonal sensors before lane changes and
+    handle dynamic obstacles during maneuvers.
     """
 
     def __init__(self, verbose: bool = True):
@@ -34,12 +35,18 @@ class RuleBasedRaceCarAI:
         self.current_maneuver = None
         self.maneuver_start_step = 0
         self.steps_since_last_decision = 0
+        self.lane_change_direction = None
+        self.lane_change_steps_taken = 0
+        self.lane_change_phase = None  # 'steering' or 'correcting'
+        self.last_front_sensor = 999
+        self.emergency_brake_steps = 0
         if self.verbose:
             print("🔄 AI state reset")
 
     def predict_actions_from_game_bot(self, request_data: dict) -> List[str]:
         """
-        Exact copy of the API's predict_actions_from_game_bot function.
+        Modified version that checks front diagonal sensors before lane changes
+        and returns dynamic lane change commands.
         """
         # Extract sensor data
         sensors = request_data.get("sensors", {})
@@ -56,6 +63,10 @@ class RuleBasedRaceCarAI:
         )
         back_sensor = sensors.get("sensor_4") or sensors.get("back") or sensors.get("4")
 
+        # Get front diagonal sensors
+        front_left_front = sensors.get("front_left_front", 999)
+        front_right_front = sensors.get("front_right_front", 999)
+
         # Simulate the core.py bot logic
         actions = []
 
@@ -63,6 +74,77 @@ class RuleBasedRaceCarAI:
         if (
             front_sensor is not None and front_sensor < 999
         ):  # Obstacle detected in front
+            # First check if we can change lanes using front diagonal sensors
+            can_go_left = (
+                front_left_front > 870
+            )  # Minimum safe distance for lane change
+            can_go_right = front_right_front > 870
+
+            if self.verbose:
+                print(f"\n🚦 Obstacle ahead at {front_sensor:.1f}")
+                print(
+                    f"  Front-left-front sensor: {front_left_front:.1f} (Can go left: {can_go_left})"
+                )
+                print(
+                    f"  Front-right-front sensor: {front_right_front:.1f} (Can go right: {can_go_right})"
+                )
+
+            # If both diagonal paths are blocked, brake
+            if not can_go_left and not can_go_right:
+                if self.verbose:
+                    print("  ⚠️ Both diagonal paths blocked - BRAKING!")
+                actions.extend(["DECELERATE"] * 100)  # Brake for multiple steps
+                return actions
+
+            # If only one diagonal is clear, go that way
+            if can_go_left and not can_go_right:
+                if self.verbose:
+                    print("  ↖️ Only left diagonal clear - going LEFT")
+                actions.append("DYNAMIC_LANE_CHANGE_LEFT")
+                return actions
+            elif can_go_right and not can_go_left:
+                if self.verbose:
+                    print("  ↗️ Only right diagonal clear - going RIGHT")
+                actions.append("DYNAMIC_LANE_CHANGE_RIGHT")
+                return actions
+
+            # Both diagonals are clear - choose based on middle lane preference
+            if can_go_left and can_go_right:
+                # Get left_side and right_side sensor readings
+                left_side_sensor = (
+                    sensors.get("left_side")
+                    or sensors.get("sensor_6")
+                    or sensors.get("6")
+                    or 0
+                )
+                right_side_sensor = (
+                    sensors.get("right_side")
+                    or sensors.get("sensor_2")
+                    or sensors.get("2")
+                    or 0
+                )
+
+                if self.verbose:
+                    print("  🎯 Both paths clear - checking middle lane preference")
+                    print(f"    Left side sensor: {left_side_sensor:.1f}")
+                    print(f"    Right side sensor: {right_side_sensor:.1f}")
+
+                # Choose direction that leads to middle lane (side with more space)
+                if left_side_sensor > right_side_sensor:
+                    if self.verbose:
+                        print(
+                            f"  ↖️ Left side has more space ({left_side_sensor:.1f} > {right_side_sensor:.1f}) - going LEFT toward middle lane"
+                        )
+                    actions.append("DYNAMIC_LANE_CHANGE_LEFT")
+                else:
+                    if self.verbose:
+                        print(
+                            f"  ↗️ Right side has more space ({right_side_sensor:.1f} >= {left_side_sensor:.1f}) - going RIGHT toward middle lane"
+                        )
+                    actions.append("DYNAMIC_LANE_CHANGE_RIGHT")
+                return actions
+
+            # Fallback to original logic if something went wrong
             # Determine if we should change lanes based on left/right sensors
             left_sensors = []
             right_sensors = []
@@ -109,53 +191,164 @@ class RuleBasedRaceCarAI:
                 actions.extend(["DECELERATE"])
             elif left_blocked:
                 # Left blocked, go right if possible
-                actions.extend(["STEER_RIGHT"] * 48)  # First phase
-                actions.extend(["STEER_LEFT"] * 48)  # Second phase to straighten
+                actions.append("DYNAMIC_LANE_CHANGE_RIGHT")
             elif right_blocked:
                 # Right blocked, go left if possible
-                actions.extend(["STEER_LEFT"] * 48)  # First phase
-                actions.extend(["STEER_RIGHT"] * 48)  # Second phase to straighten
+                actions.append("DYNAMIC_LANE_CHANGE_LEFT")
             elif left_sum > right_sum:
                 # Left is clearer, go left
-                actions.extend(["STEER_LEFT"] * 48)
-                actions.extend(["STEER_RIGHT"] * 48)
+                actions.append("DYNAMIC_LANE_CHANGE_LEFT")
             else:
                 # Right is clearer or equal, go right
-                actions.extend(["STEER_RIGHT"] * 48)
-                actions.extend(["STEER_LEFT"] * 48)
+                actions.append("DYNAMIC_LANE_CHANGE_RIGHT")
 
         # Check back sensor for approaching cars
         elif (
             back_sensor is not None and back_sensor < 800
         ):  # Car approaching from behind
-            # Similar lane change logic but more urgent
-            left_sensors = []
-            right_sensors = []
+            # Check front diagonal sensors for lane change safety
+            can_go_left = (
+                front_left_front > 300
+            )  # Slightly lower threshold for back approaching
+            can_go_right = front_right_front > 300
 
-            for sensor_key, reading in sensors.items():
-                if reading is not None:
-                    if "left" in str(sensor_key).lower():
-                        left_sensors.append(reading)
-                    elif "right" in str(sensor_key).lower():
-                        right_sensors.append(reading)
+            if self.verbose:
+                print(f"\n🚗 Car approaching from behind at {back_sensor:.1f}")
+                print(
+                    f"  Front-left-front: {front_left_front:.1f} (Can go left: {can_go_left})"
+                )
+                print(
+                    f"  Front-right-front: {front_right_front:.1f} (Can go right: {can_go_right})"
+                )
 
-            left_sum = sum(left_sensors) if left_sensors else 0
-            right_sum = sum(right_sensors) if right_sensors else 0
+            # If both paths blocked, just accelerate to get away
+            if not can_go_left and not can_go_right:
+                if self.verbose:
+                    print("  ⚠️ Both diagonal paths blocked - ACCELERATING!")
+                actions.extend(["ACCELERATE"] * 10)
+                return actions
 
-            if left_sum > right_sum:
-                actions.extend(["STEER_LEFT"] * 48)
-                actions.extend(["STEER_RIGHT"] * 48)  # Changed from 47 to 48
+            # Choose the clearer path with dynamic lane change
+            if can_go_left and not can_go_right:
+                actions.append("DYNAMIC_LANE_CHANGE_LEFT")
+            elif can_go_right and not can_go_left:
+                actions.append("DYNAMIC_LANE_CHANGE_RIGHT")
+            elif can_go_left and can_go_right:
+                # Both clear - choose based on middle lane preference
+                left_side_sensor = (
+                    sensors.get("left_side")
+                    or sensors.get("sensor_6")
+                    or sensors.get("6")
+                    or 0
+                )
+                right_side_sensor = (
+                    sensors.get("right_side")
+                    or sensors.get("sensor_2")
+                    or sensors.get("2")
+                    or 0
+                )
+
+                if left_side_sensor > right_side_sensor:
+                    actions.append("DYNAMIC_LANE_CHANGE_LEFT")
+                else:
+                    actions.append("DYNAMIC_LANE_CHANGE_RIGHT")
             else:
-                actions.extend(["STEER_RIGHT"] * 48)
-                actions.extend(["STEER_LEFT"] * 48)  # Changed from 47 to 48
+                # Fallback to original logic
+                left_sensors = []
+                right_sensors = []
 
-        # Default behavior - accelerate if no immediate threats
+                for sensor_key, reading in sensors.items():
+                    if reading is not None:
+                        if "left" in str(sensor_key).lower():
+                            left_sensors.append(reading)
+                        elif "right" in str(sensor_key).lower():
+                            right_sensors.append(reading)
+
+                left_sum = sum(left_sensors) if left_sensors else 0
+                right_sum = sum(right_sensors) if right_sensors else 0
+
+                if left_sum > right_sum:
+                    actions.append("DYNAMIC_LANE_CHANGE_LEFT")
+                else:
+                    actions.append("DYNAMIC_LANE_CHANGE_RIGHT")
+
+        # Default behavior - move to center lane if safe, otherwise accelerate
         if not actions:
-            current_speed = abs(velocity.get("x", 10))
-            if current_speed < 40:  # Target speed
-                actions.append("ACCELERATE")
+            # Get the front sensor (90 degrees) and adjacent sensors
+            front_sensor = (
+                sensors.get("front")
+                or sensors.get("sensor_0")
+                or sensors.get("0")
+                or 999
+            )
+            front_left = sensors.get("front_left_front") or 999
+            front_right = sensors.get("front_right_front") or 999
+
+            # Get the side sensors (0 and 180 degrees)
+            left_side_sensor = (
+                sensors.get("left_side")
+                or sensors.get("sensor_6")
+                or sensors.get("6")
+                or 999
+            )
+            right_side_sensor = (
+                sensors.get("right_side")
+                or sensors.get("sensor_2")
+                or sensors.get("2")
+                or 999
+            )
+
+            # Check if front sensors show clear path (nothing detected)
+            front_clear_threshold = 990  # Near max sensor range means nothing detected
+            if (
+                front_sensor > front_clear_threshold
+                and front_left > front_clear_threshold
+                and front_right > front_clear_threshold
+            ):
+                # Front is clear, now check side sensors to determine if we're not in center
+                side_close_threshold = (
+                    500  # If a side sensor is under this, we're too close to that edge
+                )
+
+                if self.verbose:
+                    print(
+                        f"\n🔍 Front clear - checking lane position (L:{left_side_sensor:.1f} R:{right_side_sensor:.1f})"
+                    )
+
+                # If left side sensor is close, we're on the LEFT side of the road, move RIGHT to center
+                if (
+                    left_side_sensor < side_close_threshold
+                    and right_side_sensor > side_close_threshold
+                ):
+                    if self.verbose:
+                        print(
+                            f"  ↗️ In left lane ({left_side_sensor:.1f} < {side_close_threshold}) - moving RIGHT to center"
+                        )
+                    actions.append("DYNAMIC_LANE_CHANGE_RIGHT")
+                # If right side sensor is close, we're on the RIGHT side of the road, move LEFT to center
+                elif (
+                    right_side_sensor < side_close_threshold
+                    and left_side_sensor > side_close_threshold
+                ):
+                    if self.verbose:
+                        print(
+                            f"  ↖️ In right lane ({right_side_sensor:.1f} < {side_close_threshold}) - moving LEFT to center"
+                        )
+                    actions.append("DYNAMIC_LANE_CHANGE_LEFT")
+                else:
+                    # Either centered or both sides are equally far/close, just maintain speed
+                    current_speed = abs(velocity.get("x", 10))
+                    if current_speed < 40:  # Target speed
+                        actions.append("ACCELERATE")
+                    else:
+                        actions.append("NOTHING")
             else:
-                actions.append("NOTHING")
+                # Front not clear, just maintain speed
+                current_speed = abs(velocity.get("x", 10))
+                if current_speed < 40:  # Target speed
+                    actions.append("ACCELERATE")
+                else:
+                    actions.append("NOTHING")
 
         # Ensure we return at least one action and it's always a list
         if not actions:
@@ -224,27 +417,97 @@ class RuleBasedRaceCarAI:
     def get_action(
         self, observation: np.ndarray, step: int, crashed: bool = False
     ) -> int:
-        """Get the next action based on current observation."""
+        """Get the next action based on current observation with dynamic lane change handling."""
         self.steps_since_last_decision += 1
 
-        # If we have queued actions, execute them
-        if self.action_queue:
+        # Get current sensor data
+        data = self.get_sensor_data_from_observation(observation)
+        current_front_sensor = data["sensors"].get("front", 999)
+
+        # Handle emergency braking during lane change
+        if self.emergency_brake_steps > 0:
+            self.emergency_brake_steps -= 1
+            if self.verbose and self.emergency_brake_steps % 10 == 0:
+                print(
+                    f"  🛑 Emergency braking ({self.emergency_brake_steps} steps remaining)"
+                )
+
+            # Check if obstacle is now moving away
+            if (
+                current_front_sensor > self.last_front_sensor + 5
+            ):  # Obstacle moving away
+                if self.verbose:
+                    print(
+                        f"  ✅ Obstacle moving away ({self.last_front_sensor:.1f} -> {current_front_sensor:.1f})"
+                    )
+                self.emergency_brake_steps = 0
+                # Resume lane change
+                if self.lane_change_direction:
+                    remaining_steps = 48 - self.lane_change_steps_taken
+                    if self.lane_change_phase == "steering":
+                        # Continue steering phase
+                        for _ in range(remaining_steps):
+                            self.action_queue.append(
+                                f"STEER_{self.lane_change_direction}"
+                            )
+                        # Add correction phase
+                        opposite_dir = (
+                            "RIGHT" if self.lane_change_direction == "LEFT" else "LEFT"
+                        )
+                        for _ in range(48):
+                            self.action_queue.append(f"STEER_{opposite_dir}")
+                    else:  # correcting phase
+                        # Continue correction
+                        opposite_dir = (
+                            "RIGHT" if self.lane_change_direction == "LEFT" else "LEFT"
+                        )
+                        for _ in range(remaining_steps):
+                            self.action_queue.append(f"STEER_{opposite_dir}")
+
+            self.last_front_sensor = current_front_sensor
+            return self.action_map["DECELERATE"]
+
+        # Handle active lane change
+        if self.lane_change_direction and self.action_queue:
+            # Check for incoming obstacle during lane change
+            if current_front_sensor < 300:  # Danger threshold during maneuver
+                if self.verbose:
+                    print(
+                        f"  ⚠️ Obstacle detected during lane change at {current_front_sensor:.1f}!"
+                    )
+                # Clear action queue and start emergency braking
+                self.action_queue.clear()
+                self.emergency_brake_steps = 50  # Brake for 50 steps
+                self.last_front_sensor = current_front_sensor
+                return self.action_map["DECELERATE"]
+
+            # Continue with lane change
             action_name = self.action_queue.pop(0)
 
-            # Log maneuver progress
-            if self.verbose and len(self.action_queue) > 0:
-                if self.current_maneuver and len(self.action_queue) % 10 == 0:
-                    total_actions = len(self.action_queue)
-                    if total_actions > 40:  # Lane change maneuver
-                        phase = "Steering" if total_actions > 47 else "Correcting"
-                        print(
-                            f"  {phase}: {action_name} ({len(self.action_queue)} steps remaining)"
-                        )
+            # Track lane change progress
+            if "STEER" in action_name:
+                self.lane_change_steps_taken += 1
+                if self.lane_change_steps_taken <= 48:
+                    self.lane_change_phase = "steering"
+                else:
+                    self.lane_change_phase = "correcting"
+
+            # Check if lane change is complete
+            if not self.action_queue:
+                if self.verbose:
+                    print(f"  ✅ Lane change {self.lane_change_direction} completed")
+                self.lane_change_direction = None
+                self.lane_change_steps_taken = 0
+                self.lane_change_phase = None
 
             return self.action_map[action_name]
 
-        # Get data in API format
-        data = self.get_sensor_data_from_observation(observation)
+        # If we have other queued actions, execute them
+        if self.action_queue:
+            action_name = self.action_queue.pop(0)
+            return self.action_map[action_name]
+
+        # Get new decision
         request_data = {
             "sensors": data["sensors"],
             "velocity": data["velocity"],
@@ -258,6 +521,8 @@ class RuleBasedRaceCarAI:
             back_val = data["sensors"].get("back", None)
             left_val = data["sensors"].get("left_side", None)
             right_val = data["sensors"].get("right_side", None)
+            front_left_front = data["sensors"].get("front_left_front", None)
+            front_right_front = data["sensors"].get("front_right_front", None)
 
             if front_val is not None:
                 print(f"  Front: {front_val:.1f}")
@@ -279,36 +544,56 @@ class RuleBasedRaceCarAI:
             else:
                 print("  Right: N/A")
 
+            if front_left_front is not None:
+                print(f"  Front-Left-Front: {front_left_front:.1f}")
+            else:
+                print("  Front-Left-Front: N/A")
+
+            if front_right_front is not None:
+                print(f"  Front-Right-Front: {front_right_front:.1f}")
+            else:
+                print("  Front-Right-Front: N/A")
+
             print(f"  Speed: {data['velocity']['x']:.1f}")
 
         # Call the API logic
         actions = self.predict_actions_from_game_bot(request_data)
 
-        # Queue up all actions
+        # Handle dynamic lane change commands
+        if actions and actions[0].startswith("DYNAMIC_LANE_CHANGE_"):
+            direction = actions[0].split("_")[-1]  # "LEFT" or "RIGHT"
+            self.lane_change_direction = direction
+            self.lane_change_steps_taken = 0
+            self.lane_change_phase = "steering"
+
+            if self.verbose:
+                print(
+                    f"\n{'⬅️' if direction == 'LEFT' else '➡️'}  Dynamic lane change {direction} initiated at step {step}"
+                )
+
+            # Queue up the lane change actions
+            for _ in range(48):
+                self.action_queue.append(f"STEER_{direction}")
+
+            # Queue up the correction
+            opposite_dir = "RIGHT" if direction == "LEFT" else "LEFT"
+            for _ in range(48):
+                self.action_queue.append(f"STEER_{opposite_dir}")
+
+            # Return first action
+            return self.action_map[self.action_queue.pop(0)]
+
+        # Queue up all other actions normally
         self.action_queue = actions.copy()
         self.steps_since_last_decision = 0
 
         # Determine and log what maneuver we're starting
         if self.verbose and len(actions) > 1:
             # Check what type of maneuver
-            if len(actions) == 95:  # Lane change maneuver
-                if "STEER_LEFT" in actions[0]:
-                    self.current_maneuver = "LANE_CHANGE_LEFT"
-                    print(f"\n⬅️  Lane change LEFT initiated at step {step}")
-                else:
-                    self.current_maneuver = "LANE_CHANGE_RIGHT"
-                    print(f"\n➡️  Lane change RIGHT initiated at step {step}")
-                self.maneuver_start_step = step
-
-                # Show why we're changing lanes
-                front = data["sensors"].get("front", 999)
-                back = data["sensors"].get("back", 999)
-                if front < 999:
-                    print(f"  Reason: Obstacle ahead at {front:.1f}")
-                elif back < 800:
-                    print(f"  Reason: Car approaching from behind at {back:.1f}")
-            elif "DECELERATE" in actions:
+            if "DECELERATE" in actions and len(actions) > 5:
                 print("\n🚫 Both lanes blocked - Braking!")
+            elif "ACCELERATE" in actions and len(actions) > 5:
+                print("\n💨 Path blocked behind - Accelerating!")
 
         # Return first action
         if self.action_queue:
@@ -323,7 +608,9 @@ def run_rule_based_ai_demo(
     """
     Run the rule-based AI in the race car environment with proper state management.
     """
-    print("🏁 Starting Rule-Based AI Demo (Fixed Version)")
+    print(
+        "🏁 Starting Rule-Based AI Demo (Dynamic Lane Changes with Emergency Braking)"
+    )
     print("=" * 50)
 
     # Stats tracking
@@ -331,7 +618,7 @@ def run_rule_based_ai_demo(
 
     # Create environment with proper error handling
     try:
-        env = RaceCarEnv(render_mode="human", seed="demo_seed")
+        env = RaceCarEnv(render_mode="human", seed=None)
     except Exception as e:
         print(f"❌ Error creating environment: {e}")
         print("Make sure the RaceCarEnv is properly initialized.")
@@ -371,6 +658,10 @@ def run_rule_based_ai_demo(
                     )
                     action_name = ai.action_names[action]
                     action_counts[action_name] += 1
+
+                    # Print when decelerate action is taken
+                    if action_name == "DECELERATE":
+                        print(f"🛑 DECELERATE action at step {episode_steps}")
 
                     # Track completed maneuvers
                     if ai.current_maneuver and len(ai.action_queue) == 0:
@@ -531,7 +822,9 @@ if __name__ == "__main__":
 
     # Run the demo
     print("🎮 Race Car Rule-Based AI Demo")
-    print("\nThis demo shows the exact algorithm from your API.")
+    print(
+        "\nThis demo shows the algorithm with dynamic lane changes and emergency braking."
+    )
     print("\nControls:")
     print("  SPACE - Pause/Resume")
     print("  R - Reset current episode")

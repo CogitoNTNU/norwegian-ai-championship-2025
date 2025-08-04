@@ -21,6 +21,7 @@ dependencies = [
     "requests>=2.31.0",
     "python-dotenv>=1.0.0",
     "colorama>=0.4.6",
+    "gym>=0.26.2",
 ]
 
 [project.scripts]

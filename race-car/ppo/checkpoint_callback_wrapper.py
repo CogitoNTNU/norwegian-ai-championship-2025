@@ -133,7 +133,7 @@ def train_ppo_normalized(
     """
     Train PPO with normalized observations and rewards.
     """
-    n_envs = 8
+    n_envs = 1
     # Adjust eval_freq to be divisible by n_envs for more predictable evaluation
     eval_freq = max(10000 // n_envs * n_envs, n_envs)  # This will be 10008 for n_envs=8
     checkpoint_freq = max(
