@@ -32,4 +32,4 @@ conda activate ${ENV_PATH}
 pip install uv
 uv sync
 
-uv run python unetplusplus.py
+uv run python train_unet_plus_plus_kfold_backbone.py
