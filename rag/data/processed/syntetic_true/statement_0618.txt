@@ -1,0 +1,1 @@
+Pulse oximetry measures oxygen saturation but cannot provide information about alveolar ventilation, making it unable to detect hypoventilation or hyperventilation.

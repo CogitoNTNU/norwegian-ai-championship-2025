@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer, util
 
 # Load environment variables from repo root
-load_dotenv(dotenv_path="../.env")
+load_dotenv(dotenv_path="../../.env")
 
 # Constants
 MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-4-20250514")
@@ -150,15 +150,15 @@ def find_next_id() -> int:
     statement_ids = []
 
     # Scan raw statements
-    raw_statements = glob.glob("data/raw/train/statements/statement_*.txt")
+    raw_statements = glob.glob("../data/raw/train/statements/statement_*.txt")
     for filepath in raw_statements:
         filename = os.path.basename(filepath)
         statement_id = int(filename.split("_")[1].split(".")[0])
         statement_ids.append(statement_id)
 
-    # Scan processed statements (true and false)
-    for subdir in ["true", "false"]:
-        processed_dir = f"data/processed/{subdir}"
+    # Scan processed statements (all synthetic directories)
+    for subdir in ["true", "false", "syntetic_true", "syntetic_false"]:
+        processed_dir = f"../data/processed/{subdir}"
         if os.path.exists(processed_dir):
             processed_statements = glob.glob(f"{processed_dir}/statement_*.txt")
             for filepath in processed_statements:
@@ -175,7 +175,7 @@ def load_topic_articles(topic_id: int) -> str:
     if not topic_name:
         raise ValueError(f"Unknown topic ID: {topic_id}")
 
-    topic_dir = f"data/raw/topics/{topic_name}"
+    topic_dir = f"../data/topics/{topic_name}"
     if not os.path.exists(topic_dir):
         raise FileNotFoundError(f"Topic directory not found: {topic_dir}")
 
@@ -195,14 +195,14 @@ def load_existing_statements() -> List[str]:
     statements = []
 
     # Load raw statements
-    raw_statements = glob.glob("data/raw/train/statements/statement_*.txt")
+    raw_statements = glob.glob("../data/raw/train/statements/statement_*.txt")
     for filepath in raw_statements:
         with open(filepath, "r", encoding="utf-8") as f:
             statements.append(f.read().strip())
 
-    # Load processed statements
-    for subdir in ["true", "false"]:
-        processed_dir = f"data/processed/{subdir}"
+    # Load processed statements (all synthetic directories)
+    for subdir in ["true", "false", "syntetic_true", "syntetic_false"]:
+        processed_dir = f"../data/processed/{subdir}"
         if os.path.exists(processed_dir):
             processed_statements = glob.glob(f"{processed_dir}/statement_*.txt")
             for filepath in processed_statements:
@@ -312,7 +312,7 @@ def save_statement_files(
     """Save a single statement and its corresponding JSON answer file."""
     # Determine the directory
     subdir = "true" if is_true else "false"
-    statement_dir = f"data/processed/{subdir}"
+    statement_dir = f"../data/processed/{subdir}"
 
     # Ensure directory exists
     os.makedirs(statement_dir, exist_ok=True)
