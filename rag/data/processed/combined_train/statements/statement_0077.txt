@@ -1,0 +1,1 @@
+LDH-1 isozyme contains four heart subunits (4H) and demonstrates higher affinity towards lactate, preferentially converting lactate to pyruvate and NAD+ to NADH, while LDHA subunit has a net charge of -6 and exhibits higher affinity towards pyruvate.

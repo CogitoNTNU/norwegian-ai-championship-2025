@@ -1,0 +1,1 @@
+The Wells criteria assigns 3 points for clinical symptoms of DVT, 3 points when other diagnoses are less likely than pulmonary embolism, and 1.5 points each for heart rate >100 bpm, recent immobilization or surgery, and previous history of DVT or PE.

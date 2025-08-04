@@ -1,0 +1,1 @@
+The Confusion Assessment Method (CAM) has a sensitivity of 94-100% and specificity of 90-95% for diagnosing delirium in clinical settings.

@@ -1,0 +1,1 @@
+The transducer used for central venous pressure monitoring must be zeroed to atmospheric pressure and aligned to the horizontal plane of the tricuspid valve to ensure accurate measurements.
