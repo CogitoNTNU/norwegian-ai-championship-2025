@@ -1,27 +1,42 @@
-import json
 import sys
 import os
 from typing import Tuple
+from pathlib import Path
 
-# Add the rag-evaluation/src to path for imports
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "rag-evaluation/src"))
+# Add rag-pipeline to path
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "rag-pipeline"))
 
-from templates.healthcare_rag import HealthcareRAG
-from llm_client import LocalLLMClient
+from rag_pipeline_embeddings import EmbeddingsRAGPipeline
+
+# Get configuration from environment or use defaults
+EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "pubmedbert-base-embeddings")
+LLM_MODEL = os.getenv("LLM_MODEL", "cogito:3b")
+RETRIEVAL_STRATEGY = os.getenv("RETRIEVAL_STRATEGY", "default")
 
 # Initialize the RAG system once at module level for efficiency
-print("Initializing BM25s Healthcare RAG system...")
-# Use faster llama3.2:3B model for better speed performance
-llm_client = LocalLLMClient(model_name="llama3.2:latest")
-rag_system = HealthcareRAG(llm_client)
-print("Healthcare RAG system ready!")
+print(f"Initializing Embeddings RAG system with {EMBEDDING_MODEL} and {LLM_MODEL}...")
+print(f"Using retrieval strategy: {RETRIEVAL_STRATEGY}")
+rag_pipeline = EmbeddingsRAGPipeline(
+    embedding_model=EMBEDDING_MODEL,
+    llm_model=LLM_MODEL,
+    top_k_retrieval=5,
+    retrieval_strategy=RETRIEVAL_STRATEGY,
+)
+
+# Setup with data
+rag_dir = Path(__file__).parent
+topics_dir = rag_dir / "data" / "topics"
+topics_json = rag_dir / "data" / "topics.json"
+
+rag_pipeline.setup(str(topics_dir), str(topics_json))
+print("Embeddings RAG system ready!")
 
 
 ### CALL YOUR CUSTOM MODEL VIA THIS FUNCTION ###
 def predict(statement: str) -> Tuple[int, int]:
     """
     Predict both binary classification (true/false) and topic classification for a medical statement.
-    Uses the optimized BM25s-powered Healthcare RAG system.
+    Uses the embeddings-based RAG system with FAISS vector search.
 
     Args:
         statement (str): The medical statement to classify
@@ -32,13 +47,8 @@ def predict(statement: str) -> Tuple[int, int]:
             - statement_topic: topic ID from 0-114
     """
     try:
-        # Use the RAG system to get classification
-        result = rag_system.run(statement)
-
-        # Parse the JSON answer
-        answer_json = json.loads(result["answer"])
-        statement_is_true = int(answer_json.get("statement_is_true", 1))
-        statement_topic = int(answer_json.get("statement_topic", 0))
+        # Use the RAG pipeline to get predictions
+        statement_is_true, statement_topic = rag_pipeline.predict(statement)
 
         # Ensure values are in valid ranges
         statement_is_true = max(0, min(1, statement_is_true))
@@ -50,56 +60,3 @@ def predict(statement: str) -> Tuple[int, int]:
         print(f"Error in prediction: {e}")
         # Fallback to safe defaults
         return 1, 0
-
-
-def match_topic(statement: str) -> int:
-    """
-    Fallback simple keyword matching to find the best topic match.
-    This is used as a backup if the main RAG system fails.
-    """
-    try:
-        # Try to load topics mapping from different possible locations
-        topics_paths = [
-            "data/topics.json",
-            "../data/topics.json",
-            "rag-evaluation/data/topics.json",
-            os.path.join(os.path.dirname(__file__), "..", "data", "topics.json"),
-        ]
-
-        topics = {}
-        for path in topics_paths:
-            if os.path.exists(path):
-                with open(path, "r") as f:
-                    topics = json.load(f)
-                break
-
-        if not topics:
-            print("Warning: Could not load topics.json, using default topic 0")
-            return 0
-
-        statement_lower = statement.lower()
-        best_topic = 0
-        max_matches = 0
-
-        for topic_name, topic_id in topics.items():
-            # Extract keywords from topic name
-            keywords = (
-                topic_name.lower()
-                .replace("_", " ")
-                .replace("(", "")
-                .replace(")", "")
-                .split()
-            )
-
-            # Count keyword matches in statement
-            matches = sum(1 for keyword in keywords if keyword in statement_lower)
-
-            if matches > max_matches:
-                max_matches = matches
-                best_topic = topic_id
-
-        return best_topic
-
-    except Exception as e:
-        print(f"Error in topic matching: {e}")
-        return 0

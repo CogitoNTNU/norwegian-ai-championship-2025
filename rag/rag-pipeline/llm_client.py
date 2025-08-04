@@ -15,9 +15,9 @@ class LocalLLMClient:
     def _load_topic_mapping(self) -> Dict[str, int]:
         """Load the topic mapping from the competition data."""
         try:
-            with open(
-                "DM-i-AI-2025/emergency-healthcare-rag/data/topics.json", "r"
-            ) as f:
+            from pathlib import Path
+            topics_json_path = Path(__file__).parent.parent / "data" / "topics.json"
+            with open(topics_json_path, "r") as f:
                 return json.load(f)
         except FileNotFoundError:
             print("Warning: Could not load topic mapping. Using empty mapping.")
@@ -40,18 +40,21 @@ class LocalLLMClient:
         except Exception as e:
             print(f"Error checking/pulling model: {e}")
 
-    def classify_statement(self, statement: str, context: str) -> Tuple[int, int]:
+    def classify_statement(
+        self, statement: str, context: str, likely_topics: list = None
+    ) -> Tuple[int, int]:
         """
         Classify a medical statement using the LLM.
 
         Args:
             statement: The medical statement to classify
             context: Relevant medical context from RAG retrieval
+            likely_topics: A list of (topic_id, topic_name) tuples
 
         Returns:
             Tuple of (statement_is_true, statement_topic)
         """
-        prompt = self._build_classification_prompt(statement, context)
+        prompt = self._build_classification_prompt(statement, context, likely_topics)
 
         try:
             response = self.client.generate(
@@ -72,13 +75,22 @@ class LocalLLMClient:
             # Fallback: return neutral predictions
             return 1, 0
 
-    def _build_classification_prompt(self, statement: str, context: str) -> str:
+    def _build_classification_prompt(
+        self, statement: str, context: str, likely_topics: list
+    ) -> str:
         """Build the classification prompt."""
 
         # Create topic list for reference
-        topic_list = ""
-        for name, idx in sorted(self.topic_mapping.items(), key=lambda x: x[1]):
-            topic_list += f"{idx}: {name}\n"
+        if likely_topics:
+            topic_list = "\n".join([f"{tid}: {tname}" for tid, tname in likely_topics])
+            topic_guidance = (
+                f"Focus on the following topics (and their IDs):\n{topic_list}"
+            )
+        else:
+            topic_list = ""
+            for name, idx in sorted(self.topic_mapping.items(), key=lambda x: x[1]):
+                topic_list += f"{idx}: {name}\n"
+            topic_guidance = f"Choose from the full list of topics:\n{topic_list}"
 
         prompt = f"""You are a medical expert analyzing emergency healthcare statements. 
 
@@ -91,14 +103,14 @@ MEDICAL STATEMENT TO ANALYZE:
 TASK: Determine if the statement is TRUE or FALSE, and identify the most relevant medical topic.
 
 AVAILABLE TOPICS:
-{topic_list}
+{topic_guidance}
 
 INSTRUCTIONS:
 1. Based on the context and your medical knowledge, determine if the statement is factually TRUE (1) or FALSE (0)
-2. Identify which topic (0-114) the statement is most closely related to
+2. Identify which topic ID the statement is most closely related to.
 3. Respond ONLY in this exact JSON format:
 
-{{"statement_is_true": 0 or 1, "statement_topic": topic_number}}
+{{"statement_is_true": 0 or 1, "statement_topic": topic_id}}
 
 Your response:"""
 
