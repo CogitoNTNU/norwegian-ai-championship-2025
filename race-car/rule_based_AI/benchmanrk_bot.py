@@ -12,7 +12,6 @@ from datetime import datetime
 from statistics import median
 import multiprocessing as mp
 from concurrent.futures import ProcessPoolExecutor, as_completed
-from functools import partial
 
 # Add ppo directory to path
 sys.path.append(os.path.join(os.path.dirname(__file__), "ppo"))
@@ -251,10 +250,7 @@ def run_benchmark(verbose: bool = False, save_results: bool = True, num_processe
                 "timestamp": datetime.now().isoformat(),
                 "total_episodes": len(results),
                 "successful_episodes": len(distances),
-                "failed_episodes": len(results) - len(distances),
-                "total_time": total_time,
                 "num_processes": num_processes,
-                "seeds_used": [r['seed'] for r in results]
             },
             "performance_stats": {
                 "avg_distance": float(np.mean(distances)) if distances else 0,
@@ -263,7 +259,9 @@ def run_benchmark(verbose: bool = False, save_results: bool = True, num_processe
                 "min_distance": float(np.min(distances)) if distances else 0,
                 "max_distance": float(np.max(distances)) if distances else 0,
                 "avg_steps": float(np.mean(steps)) if steps else 0,
+                "medain_steps": float(median(steps)) if steps else 0,
                 "median_steps": float(median(steps)) if steps else 0,
+                "min_steps": float(np.min(steps)) if steps else 0,
                 "avg_time": float(np.mean(times)) if times else 0,
                 "median_time": float(median(times)) if times else 0,
                 "crash_rate": float(sum(crashes) / len(crashes)) if crashes else 1.0,
