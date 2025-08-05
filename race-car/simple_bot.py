@@ -1,5 +1,5 @@
 # front_right_front, right_front, right_side_front
-safe_distances = [999.0, 474., 360., 345., 360., 474., 999.0]
+safe_distances = [999.0, 474.0, 360.0, 345.0, 360.0, 474.0, 999.0]
 
 
 def predict_actions_from_game_bot(request_data: dict) -> list[str]:

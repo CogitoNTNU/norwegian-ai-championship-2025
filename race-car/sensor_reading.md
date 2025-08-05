@@ -21,4 +21,5 @@ Sesor lengre unna veggen har disse som safe avstand:
 null, 496?, 385, 356, 385, 496?, null
 
 ## Lane: Midt
+
 samme som andre

@@ -339,7 +339,6 @@ class LaneChangeController:
                         return (["STEER_LEFT"] * 48) + (["STEER_RIGHT"] * 48)
 
             # Maintain speed
-            current_speed = abs(velocity.get("x", 10))
             # if current_speed < 70:
             return ["ACCELERATE"]
             # else:
