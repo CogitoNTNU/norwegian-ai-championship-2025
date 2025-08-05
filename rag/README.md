@@ -21,34 +21,64 @@ uv sync
 ollama pull cogito:8b
 ```
 
-### GPU Setup (Optional)
+### GPU Setup with RunPod (Optional)
 
 To use a GPU server for LLM inference while running RAG locally:
 
-1. **On GPU server (e.g., RunPod)**:
+#### 1. Setup RunPod GPU Server
+
+1. **SSH into your RunPod instance**
+
+1. **Install and start Ollama**:
 
    ```bash
-   # Install and start Ollama
+   # Install Ollama
    curl -fsSL https://ollama.com/install.sh | sh
-   ollama serve
 
-   # Pull your model
-   ollama pull cogito:14b
+   # Start Ollama server (keep this running)
+   ollama serve
    ```
 
-1. **Expose Ollama via tunnel** (e.g., pinggy):
+1. **In a new terminal, pull your model**:
+
+   ```bash
+   ollama pull cogito:14b  # or cogito:8b for smaller model
+   ollama list            # Verify model is downloaded
+   ```
+
+1. **Create Pinggy tunnel for Ollama** (port 11434):
 
    ```bash
    ssh -p 443 -R0:localhost:11434 a.pinggy.io
    ```
 
-1. **Set environment variable locally**:
+   Keep this terminal open and copy the HTTPS URL (e.g., `https://xxxxx.a.free.pinggy.link`)
 
-   ```bash
-   export OLLAMA_HOST=https://your-pinggy-url.a.free.pinggy.link
-   ```
+#### 2. Configure Local Environment
 
-Now all LLM inference will use the GPU server while embeddings and RAG run locally.
+```bash
+# Set the Ollama host to your RunPod pinggy URL
+export OLLAMA_HOST=https://xxxxx.a.free.pinggy.link
+
+# Optional: Set environment variables for Mac compatibility
+export TOKENIZERS_PARALLELISM=false
+export OMP_NUM_THREADS=1
+```
+
+#### 3. Start RAG Server Locally
+
+```bash
+# Navigate to rag directory
+cd rag/
+
+# Start the server
+uv run api
+```
+
+The server will now use:
+
+- **Local**: Embeddings, document retrieval, FAISS indexing
+- **GPU (RunPod)**: LLM inference for classification
 
 ````
 
@@ -132,13 +162,104 @@ export OLLAMA_HOST=https://your-external-server.com
 # The LLM_MODEL will be ignored when OLLAMA_HOST is set
 ```
 
-## Validation
+## Testing and Validation
 
-Submit for validation against competition server:
+### Local Testing
+
+1. **Test the API locally**:
+
+   ```bash
+   # Test endpoints
+   curl http://localhost:8000/
+   curl http://localhost:8000/api
+
+   # Test prediction
+   curl -X POST http://localhost:8000/predict \
+     -H "Content-Type: application/json" \
+     -d '{"statement": "Aspirin is used to treat heart attacks"}'
+   ```
+
+1. **Run test suite**:
+
+   ```bash
+   # Test with sample statements
+   uv run python test_pipeline.py --n 10
+
+   # Test with external LLM
+   export OLLAMA_HOST=https://your-runpod-pinggy.a.free.pinggy.link
+   uv run python test_pipeline.py --n 10
+   ```
+
+### Competition Validation
+
+#### Method 1: Using Pinggy Tunnel
+
+1. **Create tunnel for your local server** (port 8000):
+
+   ```bash
+   ssh -p 443 -R0:localhost:8000 free.pinggy.io
+   ```
+
+   Copy the HTTPS URL (e.g., `https://yyyyy.a.free.pinggy.link`)
+
+1. **Submit to competition**:
+
+   - Go to https://cases.ainm.no/
+   - Navigate to Emergency Healthcare RAG
+   - Enter your Pinggy URL with `/predict` endpoint: `https://yyyyy.a.free.pinggy.link/predict`
+   - Enter your competition token
+   - Submit for validation
+
+1. **Monitor logs** (in another terminal):
+
+   ```bash
+   tail -f logs/api.log
+   ```
+
+#### Method 2: Using Built-in Script
 
 ```bash
+# Set your competition token
+export EVAL_API_TOKEN="your-token-here"
+
+# Run validation
 uv run validate
 ```
+
+### Important Notes
+
+- **Pinggy tunnels expire after 60 minutes** - create new ones as needed
+- **Keep both terminals open**: One for the server, one for the pinggy tunnel
+- **For GPU setup**: You need TWO pinggy tunnels:
+  - One for Ollama on RunPod (port 11434)
+  - One for your local RAG server (port 8000)
+
+## Troubleshooting
+
+### Common Issues
+
+1. **"Server disconnected without sending a response"**
+
+   - RunPod Ollama server is down or pinggy URL expired
+   - Solution: Create new pinggy tunnel on RunPod and update OLLAMA_HOST
+
+1. **Multiprocessing errors on Mac**
+
+   - Set environment variables:
+     ```bash
+     export TOKENIZERS_PARALLELISM=false
+     export OMP_NUM_THREADS=1
+     ```
+
+1. **Empty response from server**
+
+   - Check server is running: `lsof -i :8000`
+   - Restart with proper environment variables
+
+1. **Pinggy connection failures**
+
+   - Ensure server is running before creating tunnel
+   - Use `0.0.0.0` as host when starting server
 
 ## Structure
 
