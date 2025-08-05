@@ -16,6 +16,7 @@ class LocalLLMClient:
         """Load the topic mapping from the competition data."""
         try:
             from pathlib import Path
+
             # Go up two levels from llm_client.py to the rag folder, then one more to the project root
             project_root = Path(__file__).parent.parent.parent
             topics_json_path = project_root / "data" / "topics.json"

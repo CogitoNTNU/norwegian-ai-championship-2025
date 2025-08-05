@@ -16,15 +16,6 @@ import Stemmer  # PyStemmer for stemming
 Emergency Healthcare RAG template using BM25s for better retrieval and Qwen 8B via Ollama.
 """
 
-import os
-import json
-import pickle
-import hashlib
-import re
-from pathlib import Path
-from typing import Dict, List, Any
-import bm25s
-import Stemmer  # PyStemmer for stemming
 
 try:
     from ..llm_client import LocalLLMClient
@@ -136,7 +127,9 @@ class HealthcareRAG:
             "data/processed/combined",  # Direct path when running from rag root
             "../data/processed/combined",
             "../../data/processed/combined",
-            os.path.join(os.path.dirname(__file__), "..", "..", "data", "processed", "combined"),
+            os.path.join(
+                os.path.dirname(__file__), "..", "..", "data", "processed", "combined"
+            ),
         ]
 
         train_dir = None
@@ -245,7 +238,9 @@ TRAINING_EXAMPLE: This statement is {"true" if is_true else "false"} and relates
             "data/raw/topics",  # Direct path when running from rag root
             "../data/raw/topics",
             "../../data/raw/topics",
-            os.path.join(os.path.dirname(__file__), "..", "..", "data", "raw", "topics"),
+            os.path.join(
+                os.path.dirname(__file__), "..", "..", "data", "raw", "topics"
+            ),
         ]
 
         for path in possible_paths:
@@ -257,7 +252,7 @@ TRAINING_EXAMPLE: This statement is {"true" if is_true else "false"} and relates
     def _get_data_hash(self) -> str:
         """Generate hash of topics directory and training data to detect changes."""
         hasher = hashlib.md5()
-        
+
         # Include topics directory
         topics_dir = self._find_topics_directory()
         if topics_dir:
@@ -272,21 +267,23 @@ TRAINING_EXAMPLE: This statement is {"true" if is_true else "false"} and relates
                             )
             except Exception:
                 pass
-        
+
         # Include combined training data (all data)
         training_paths = [
             "data/processed/combined",
             "../data/processed/combined",
             "../../data/processed/combined",
-            os.path.join(os.path.dirname(__file__), "..", "..", "data", "processed", "combined"),
+            os.path.join(
+                os.path.dirname(__file__), "..", "..", "data", "processed", "combined"
+            ),
         ]
-        
+
         train_dir = None
         for path in training_paths:
             if os.path.exists(path):
                 train_dir = path
                 break
-        
+
         if train_dir:
             try:
                 for root, dirs, files in os.walk(train_dir):
@@ -407,12 +404,12 @@ TRAINING_EXAMPLE: This statement is {"true" if is_true else "false"} and relates
             if len(scores) > 0:
                 min_score = max(scores) * 0.3  # Keep top 30% of max score
                 filtered_contexts = []
-                
+
                 for idx, score in zip(top_indices, scores):
                     if score >= min_score:
                         context = self.document_texts[idx]
                         filtered_contexts.append(context)
-                
+
                 return filtered_contexts[:k]  # Limit to k results
             else:
                 # Fallback if no scores
@@ -440,7 +437,9 @@ TRAINING_EXAMPLE: This statement is {"true" if is_true else "false"} and relates
 
             # Combine contexts - but limit total length to avoid overwhelming the LLM
             # Take top 5 most relevant contexts and limit total length
-            combined_context = "\n".join(retrieved_contexts[:5]) if retrieved_contexts else ""
+            combined_context = (
+                "\n".join(retrieved_contexts[:5]) if retrieved_contexts else ""
+            )
 
             # Use LLM to classify the statement
             statement_is_true, statement_topic = self.llm_client.classify_statement(

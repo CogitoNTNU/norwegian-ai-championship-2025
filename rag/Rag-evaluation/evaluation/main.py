@@ -3,6 +3,7 @@ import json
 import time
 import traceback
 import logging
+import sys
 from datetime import datetime
 import pandas as pd
 import numpy as np
@@ -18,35 +19,24 @@ logging.getLogger("openai").setLevel(logging.WARNING)
 logging.getLogger("urllib3").setLevel(logging.WARNING)
 
 # Add project root to Python path to resolve relative imports
-import sys
-
 # Add current directory and parent to Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
-from templates.healthcare_rag import HealthcareRAG
-from templates.hybrid_rag_apple_silicon import HybridRAGAppleSilicon
-from templates.embeddings_rag import EmbeddingsRAG
-from templates.simple_rag import SimpleRAG
-from templates.pocketflow_rag import PocketFlowRAG
-from templates.graph_rag import GraphRAG
-from templates.hyde import HyDE
-from templates.contextual_retriever import ContextualRetrieverRAG
-from templates.query_expansion_with_rrf import QueryExpansionRRF
-from templates.query_rewrite_rag import QueryRewriteRAG
-from templates.step_back_prompt import StepBackPromptRAG
-from llm_client import LocalLLMClient
-# from templates.hybrid_rag import HybridRAG
-# from templates.hyde import HyDE
-# from templates.contextual_retriever import ContextualRetrieverRAG
-# from templates.graph_rag_graph_retriever import GraphRAG
-# from templates.graph_rag_hybrid_retriever import GraphHybridRAG
-# from templates.query_expansion_with_rrf import QueryExpansionRRF
-# from templates.query_rewrite_rag import QueryRewriteRAG
-# from templates.semantic_chunker import SemanticChunkerRAG
-# from templates.step_back_prompt import StepBackPromptRAG
-from evaluation.config import EVALUATE_METHODS, RUN_TAG, RAGAS_METRICS
-from evaluation.metrics import (
+from templates.healthcare_rag import HealthcareRAG  # noqa: E402
+from templates.hybrid_rag_apple_silicon import HybridRAGAppleSilicon  # noqa: E402
+from templates.embeddings_rag import EmbeddingsRAG  # noqa: E402
+from templates.simple_rag import SimpleRAG  # noqa: E402
+from templates.pocketflow_rag import PocketFlowRAG  # noqa: E402
+from templates.graph_rag import GraphRAG  # noqa: E402
+from templates.hyde import HyDE  # noqa: E402
+from templates.contextual_retriever import ContextualRetrieverRAG  # noqa: E402
+from templates.query_expansion_with_rrf import QueryExpansionRRF  # noqa: E402
+from templates.query_rewrite_rag import QueryRewriteRAG  # noqa: E402
+from templates.step_back_prompt import StepBackPromptRAG  # noqa: E402
+from llm_client import LocalLLMClient  # noqa: E402
+from evaluation.config import EVALUATE_METHODS, RUN_TAG, RAGAS_METRICS  # noqa: E402
+from evaluation.metrics import (  # noqa: E402
     calculate_context_overlap,
     calculate_precision_at_k,
     calculate_recall_at_k,
@@ -54,7 +44,7 @@ from evaluation.metrics import (
     calculate_topic_accuracy,
     calculate_overall_accuracy,
 )
-from evaluation.utils import (
+from evaluation.utils import (  # noqa: E402
     create_ranking_table,
     create_radar_chart,
     create_bar_charts,
@@ -65,9 +55,18 @@ from evaluation.utils import (
     provide_recommendations,
     get_ranked_templates,
 )
+# from templates.hybrid_rag import HybridRAG
+# from templates.hyde import HyDE
+# from templates.contextual_retriever import ContextualRetrieverRAG
+# from templates.graph_rag_graph_retriever import GraphRAG
+# from templates.graph_rag_hybrid_retriever import GraphHybridRAG
+# from templates.query_expansion_with_rrf import QueryExpansionRRF
+# from templates.query_rewrite_rag import QueryRewriteRAG
+# from templates.semantic_chunker import SemanticChunkerRAG
+# from templates.step_back_prompt import StepBackPromptRAG
 
 # Load environment variables
-load_dotenv(os.path.join(os.path.dirname(__file__), '..', '..', '.env'))
+load_dotenv(os.path.join(os.path.dirname(__file__), "..", "..", ".env"))
 
 # Using Ollama/Qwen 8B locally - no cloud services needed
 
@@ -76,10 +75,10 @@ def create_testset_from_split_data(test_dir: str, project_root: str) -> list[dic
     """Create testset from the split test data directory."""
     statements_dir = os.path.join(test_dir, "statements")
     answers_dir = os.path.join(test_dir, "answers")
-    
+
     if not os.path.exists(statements_dir) or not os.path.exists(answers_dir):
         raise FileNotFoundError(f"Test data structure not found in {test_dir}")
-    
+
     # Load topic mapping
     topics_path = os.path.join(project_root, "data", "topics.json")
     try:
@@ -90,35 +89,37 @@ def create_testset_from_split_data(test_dir: str, project_root: str) -> list[dic
     except Exception as e:
         print(f"Warning: Could not load topics.json: {e}")
         id_to_topic = {}
-    
+
     testset = []
     for stmt_file in sorted(os.listdir(statements_dir)):
         if stmt_file.endswith(".txt"):
             stmt_id = stmt_file.replace(".txt", "")
             answer_file = os.path.join(answers_dir, f"{stmt_id}.json")
-            
+
             if os.path.exists(answer_file):
                 # Read statement
-                with open(os.path.join(statements_dir, stmt_file), "r", encoding="utf-8") as f:
+                with open(
+                    os.path.join(statements_dir, stmt_file), "r", encoding="utf-8"
+                ) as f:
                     statement = f.read().strip()
-                
+
                 # Read answer
                 with open(answer_file, "r", encoding="utf-8") as f:
                     answer = json.load(f)
-                
+
                 # Get topic name from ID
                 topic_id = answer.get("statement_topic", 0)
                 topic_name = id_to_topic.get(topic_id, "Unknown")
-                
+
                 # Create testset entry
                 testset_entry = {
                     "user_input": statement,
                     "reference": str(answer.get("statement_is_true", 1)),
-                    "reference_contexts": [topic_name]
+                    "reference_contexts": [topic_name],
                 }
-                
+
                 testset.append(testset_entry)
-    
+
     return testset
 
 
@@ -136,7 +137,7 @@ def parse_ground_truth(ground_truth_str: str) -> tuple[int, int]:
         # Simple binary format - just convert to int
         statement_is_true = int(ground_truth_str.strip())
         statement_is_true = max(0, min(1, statement_is_true))  # Ensure 0 or 1
-        
+
         # Topic will be determined from reference_contexts, return 0 as placeholder
         return statement_is_true, 0
     except Exception:
@@ -308,14 +309,16 @@ def main():
     project_root = os.path.abspath(os.path.join(script_dir, "..", ".."))
     # Use combined dataset for evaluation (same data used for training)
     combined_dir = os.path.join(project_root, "data", "processed", "combined")
-    
+
     # Create testset from combined data (train on same data we test on)
     if os.path.exists(combined_dir):
         print(f"Creating testset from combined dataset: {combined_dir}")
         testset_data = create_testset_from_split_data(combined_dir, project_root)
     else:
         # Fallback to original testset
-        original_testset_path = os.path.join(project_root, "data", "datasets", "testset.json")
+        original_testset_path = os.path.join(
+            project_root, "data", "datasets", "testset.json"
+        )
         if os.path.exists(original_testset_path):
             print(f"Using original testset: {original_testset_path}")
             with open(original_testset_path, "r") as f:
@@ -334,15 +337,16 @@ def main():
         }
         for item in testset_data
     ]
-    
+
     # Sample a smaller subset for faster evaluation (you can increase this later)
     SAMPLE_SIZE = 50  # Use 50 samples for more meaningful results
     if len(dataset) > SAMPLE_SIZE:
         import random
+
         random.seed(42)  # For reproducibility
         dataset = random.sample(dataset, SAMPLE_SIZE)
         print(f"Sampled {SAMPLE_SIZE} test cases from {len(testset_data)} total cases")
-    
+
     df = pd.DataFrame(dataset)
     print(f"Loaded {len(df)} test cases for evaluation")
 
@@ -473,7 +477,7 @@ def main():
             # Parse ground truth
             gt_binary, _ = parse_ground_truth(item["ground_truths"][0])
             binary_ground_truth.append(gt_binary)
-            
+
             # Get topic from reference_contexts
             gt_topic = 0  # default
             if item["reference_contexts"] and len(item["reference_contexts"]) > 0:

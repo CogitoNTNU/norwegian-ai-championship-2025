@@ -4,14 +4,6 @@ from langchain_core.documents import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain.prompts import ChatPromptTemplate
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import (
-    RunnableParallel,
-    RunnablePassthrough,
-    RunnableLambda,
-)
-from operator import itemgetter
-from langchain import hub
 from langchain.pydantic_v1 import BaseModel, Field
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from llm_client import LocalLLMClient
@@ -20,6 +12,7 @@ from llm_client import LocalLLMClient
 try:
     from langchain_neo4j import Neo4jGraph
     from langchain_community.vectorstores.neo4j_vector import remove_lucene_chars
+
     NEO4J_AVAILABLE = True
 except ImportError:
     NEO4J_AVAILABLE = False
@@ -30,13 +23,15 @@ class GraphHybridRAG:
     def __init__(self, llm_client: LocalLLMClient):
         self.llm_client = llm_client
         self.embeddings = SentenceTransformerEmbeddings()
-        
+
         # Initialize Neo4j graph if available and configured
-        if NEO4J_AVAILABLE and all([
-            os.getenv("NEO4J_URI"),
-            os.getenv("NEO4J_USER"),
-            os.getenv("NEO4J_PASSWORD")
-        ]):
+        if NEO4J_AVAILABLE and all(
+            [
+                os.getenv("NEO4J_URI"),
+                os.getenv("NEO4J_USER"),
+                os.getenv("NEO4J_PASSWORD"),
+            ]
+        ):
             self.graph = Neo4jGraph(
                 url=os.getenv("NEO4J_URI"),
                 username=os.getenv("NEO4J_USER"),
@@ -57,8 +52,9 @@ class GraphHybridRAG:
     def _graph_retriever(self, question: str) -> str:
         if not self.graph:
             return "Graph database not available or not configured."
-            
+
         try:
+
             class Entities(BaseModel):
                 names: List[str] = Field(
                     ..., description="All nodes that appear in the text"
@@ -73,14 +69,18 @@ class GraphHybridRAG:
                     ),
                 ]
             )
-            
+
             # Simple entity extraction fallback without structured output
-            entity_response = self.llm_client.invoke(prompt.invoke({"question": question}))
-            
+            entity_response = self.llm_client.invoke(
+                prompt.invoke({"question": question})
+            )
+
             # Extract simple entity names from response
             entities_text = str(entity_response)
-            entity_names = [word.strip() for word in entities_text.split() if len(word.strip()) > 2][:5]
-            
+            entity_names = [
+                word.strip() for word in entities_text.split() if len(word.strip()) > 2
+            ][:5]
+
             if not entity_names:
                 return ""
 
@@ -131,13 +131,13 @@ class GraphHybridRAG:
             ]
             return f"Graph data:\n{graph_data}\n\nVector data:\n{'#Document '.join(vector_data)}"
 
-        prompt = hub.pull("rlm/rag-prompt")
-
         # Get context and generate answer using classify_statement
         context_data = full_retriever(question)
         answer = self.llm_client.classify_statement(context_data, question)
-        
+
         return {
             "answer": answer,
-            "context": [context_data] if isinstance(context_data, str) else context_data,
+            "context": [context_data]
+            if isinstance(context_data, str)
+            else context_data,
         }

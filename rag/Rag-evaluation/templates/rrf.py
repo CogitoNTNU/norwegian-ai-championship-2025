@@ -5,7 +5,6 @@ from langchain_community.vectorstores import Chroma
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableLambda
-from langchain import hub
 from langchain.load import dumps, loads
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from llm_client import LocalLLMClient
@@ -70,10 +69,6 @@ class QueryExpansionRRF:
         reranked_docs = self._rrf(results)
 
         context = self._format_docs(reranked_docs)
-
-        prompt = hub.pull("rlm/rag-prompt")
-
-        rag_chain = prompt | RunnableLambda(self.llm_client.invoke) | StrOutputParser()
 
         # Format the answer using classify_statement
         answer = self.llm_client.classify_statement(context, question)

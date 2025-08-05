@@ -17,7 +17,9 @@ class HybridRetrievalReranked:
         self.llm_client = llm_client
         self.embeddings = SentenceTransformerEmbeddings()
 
-    def run(self, question: str, reference_contexts: List[str] = None) -> Dict[str, Any]:
+    def run(
+        self, question: str, reference_contexts: List[str] = None
+    ) -> Dict[str, Any]:
         """
         Run hybrid retrieval and reranking - Update to use LLM client for semantic reranking
         Args:
@@ -28,9 +30,11 @@ class HybridRetrievalReranked:
         """
         if not reference_contexts:
             reference_contexts = []
-        
+
         # Use LLM client to classify the statement with combined context
-        combined_context = "\n".join(reference_contexts[:3]) if reference_contexts else ""
+        combined_context = (
+            "\n".join(reference_contexts[:3]) if reference_contexts else ""
+        )
 
         # Obtain classification
         statement_is_true, statement_topic = self.llm_client.classify_statement(
@@ -44,5 +48,7 @@ class HybridRetrievalReranked:
 
         return {
             "answer": json.dumps(answer),
-            "context": reference_contexts[:3] if reference_contexts else ["No context available"],
+            "context": reference_contexts[:3]
+            if reference_contexts
+            else ["No context available"],
         }

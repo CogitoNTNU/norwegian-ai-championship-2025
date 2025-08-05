@@ -316,7 +316,6 @@ def game_loop(
     global STATE
     clock = pygame.time.Clock()
     screen = None
-    actions = []
     if verbose:
         screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
         pygame.display.set_caption("Race Car Game")
@@ -336,15 +335,17 @@ def game_loop(
         action = get_action()
         if STATE.ticks < 100:
             action = "ACCELERATE"
-        
+
         # Initialize overtaking state if not exists
         if not hasattr(STATE, "overtaking_phase"):
-            STATE.overtaking_phase = "normal"  # normal, slowing_immediately, speeding_up
+            STATE.overtaking_phase = (
+                "normal"  # normal, slowing_immediately, speeding_up
+            )
         if not hasattr(STATE, "target_speed"):
             STATE.target_speed = 20
         if not hasattr(STATE, "previous_front_distance"):
             STATE.previous_front_distance = None
-        
+
         # Check if lane change is already active and continue it
         if hasattr(STATE, "lane_change_active") and STATE.lane_change_active:
             ticks_since_start = STATE.ticks - STATE.lane_change_start_tick
@@ -364,7 +365,9 @@ def game_loop(
                     )
                 else:
                     # Lane change complete, start speeding up phase
-                    print(f"RIGHT lane change COMPLETE at tick {STATE.ticks} - starting speed up phase")
+                    print(
+                        f"RIGHT lane change COMPLETE at tick {STATE.ticks} - starting speed up phase"
+                    )
                     STATE.lane_change_active = False
                     STATE.overtaking_phase = "speeding_up"
                     STATE.speed_up_start_tick = STATE.ticks
@@ -385,63 +388,78 @@ def game_loop(
                     )
                 else:
                     # Lane change complete, start speeding up phase
-                    print(f"LEFT lane change COMPLETE at tick {STATE.ticks} - starting speed up phase")
+                    print(
+                        f"LEFT lane change COMPLETE at tick {STATE.ticks} - starting speed up phase"
+                    )
                     STATE.lane_change_active = False
                     STATE.overtaking_phase = "speeding_up"
                     STATE.speed_up_start_tick = STATE.ticks
                     delattr(STATE, "lane_change_start_tick")
                     delattr(STATE, "lane_change_direction")
-        
+
         # Handle overtaking behavior based on current phase
         elif STATE.overtaking_phase == "speeding_up":
             # Speed up to target speed after lane change
             current_speed = abs(STATE.ego.velocity.x)
             if current_speed < STATE.target_speed:
                 action = "ACCELERATE"
-                print(f"Speeding up after overtake: current speed {current_speed:.1f}, target {STATE.target_speed}")
+                print(
+                    f"Speeding up after overtake: current speed {current_speed:.1f}, target {STATE.target_speed}"
+                )
             else:
-                print(f"Target speed {STATE.target_speed} reached, returning to normal driving")
+                print(
+                    f"Target speed {STATE.target_speed} reached, returning to normal driving"
+                )
                 STATE.overtaking_phase = "normal"
                 delattr(STATE, "speed_up_start_tick")
-        
+
         # Check for car in front and manage immediate slowdown/overtaking behavior
         elif len(STATE.sensors) > 0 and STATE.sensors[0].reading is not None:
             front_distance = STATE.sensors[0].reading
-            
+
             # Immediately slow down when car detected in front
             if STATE.overtaking_phase == "normal":
-                print(f"Car detected ahead at distance {front_distance:.1f}, slowing down immediately")
+                print(
+                    f"Car detected ahead at distance {front_distance:.1f}, slowing down immediately"
+                )
                 STATE.overtaking_phase = "slowing_immediately"
                 action = "DECELERATE"
                 STATE.previous_front_distance = front_distance
-            
+
             elif STATE.overtaking_phase == "slowing_immediately":
                 # Continue slowing down and check if distance is increasing
                 action = "DECELERATE"
                 print(f"Slowing down: distance {front_distance:.1f}")
-                
+
                 # Check if distance is increasing (we're getting slower than car in front)
-                if STATE.previous_front_distance is not None and front_distance > STATE.previous_front_distance:
-                    print(f"Distance increasing from {STATE.previous_front_distance:.1f} to {front_distance:.1f} - checking for overtaking opportunity")
-                    
+                if (
+                    STATE.previous_front_distance is not None
+                    and front_distance > STATE.previous_front_distance
+                ):
+                    print(
+                        f"Distance increasing from {STATE.previous_front_distance:.1f} to {front_distance:.1f} - checking for overtaking opportunity"
+                    )
+
                     # Check if we can start overtaking (initiate lane change)
                     if not hasattr(STATE, "lane_change_start_tick"):
-                        direction = determine_lane_change_direction("DISTANCE INCREASING")
+                        direction = determine_lane_change_direction(
+                            "DISTANCE INCREASING"
+                        )
                         if direction:
                             STATE.lane_change_start_tick = STATE.ticks
                             STATE.lane_change_active = True
                             STATE.lane_change_direction = direction
                             print(f"Starting overtake maneuver: {direction}")
-                
+
                 # Update previous distance for next frame comparison
                 STATE.previous_front_distance = front_distance
-        
+
         elif STATE.overtaking_phase == "slowing_immediately":
             # No car detected in front anymore, return to normal
             print("No car in front, returning to normal driving")
             STATE.overtaking_phase = "normal"
             STATE.previous_front_distance = None
-        
+
         # Check back sensor (index 4) for approaching cars
         elif (
             len(STATE.sensors) > 4
@@ -535,6 +553,7 @@ def game_loop(
                     sensor.draw(screen)
 
             pygame.display.flip()
+
 
 def init(api_url: str):
     global STATE

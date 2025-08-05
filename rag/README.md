@@ -5,6 +5,7 @@ Simple RAG pipeline for medical statement classification using embeddings and FA
 ## Overview
 
 This system classifies medical statements by:
+
 - **Binary classification**: Is the statement true (1) or false (0)?
 - **Topic classification**: Which of 115 medical topics does it belong to?
 
@@ -58,6 +59,7 @@ curl -X POST http://localhost:8000/predict \
 ```
 
 Response:
+
 ```json
 {
   "statement_is_true": 1,
@@ -68,6 +70,7 @@ Response:
 ## Available Models
 
 ### Embeddings
+
 - `pubmedbert-base-embeddings` - Medical-focused (has existing index)
 - `gte-base` - General purpose (has existing index)
 - `all-MiniLM-L6-v2` - Fast and lightweight
@@ -75,6 +78,7 @@ Response:
 - `BioLORD-2023` - Biomedical specialist
 
 ### LLMs (via Ollama)
+
 - `cogito:8b` - Default
 - `cogito:14b` - Run `ollama pull cogito:14b`
 - `qwen3:8b`
@@ -83,6 +87,7 @@ Response:
 ## Configuration
 
 Set environment variables to change default models:
+
 ```bash
 export EMBEDDING_MODEL=gte-base
 export LLM_MODEL=cogito:8b
@@ -91,6 +96,7 @@ export LLM_MODEL=cogito:8b
 ## Validation
 
 Submit for validation against competition server:
+
 ```bash
 uv run validate
 ```
