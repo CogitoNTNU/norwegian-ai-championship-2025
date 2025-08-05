@@ -219,3 +219,13 @@ model.save_pretrained("fine_tuned_cogito_medical")
 model.save_pretrained_merged(
     "cogito-medical-merged", tokenizer, save_method="merged_16bit"
 )
+
+# ========================================
+# To get started with the fine-tuned model:
+# ========================================
+# from unsloth import FastLanguageModel
+
+# model, tokenizer = FastLanguageModel.from_pretrained(
+#     "cogito-medical-merged",  # ← Finetuned model
+#     load_in_4bit=True,
+# )
