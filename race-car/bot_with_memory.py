@@ -53,6 +53,13 @@ class LaneChangeController:
 
         # Steering duration for lane changes
         self.steer_duration = 48
+        
+        # Progressive steering state for centering
+        self.centering_active = False
+        self.centering_direction = None  # "left" or "right"
+        self.centering_steps_sent = 0
+        self.centering_target_lane = None
+        self.centering_original_lane = None
 
         # Initialize database
         self._init_database()
@@ -64,6 +71,88 @@ class LaneChangeController:
             return 44
         else:
             return self.steer_duration
+
+    def start_centering(self, current_lane: int, target_lane: int) -> str:
+        """Start progressive centering process."""
+        self.centering_active = True
+        self.centering_original_lane = current_lane
+        self.centering_target_lane = target_lane
+        self.centering_steps_sent = 0
+        
+        if target_lane < current_lane:
+            self.centering_direction = "left"
+            return "STEER_LEFT"
+        else:
+            self.centering_direction = "right"
+            return "STEER_RIGHT"
+
+    def continue_centering(self, sensors: Dict) -> str:
+        """Continue centering process or abort if unsafe."""
+        if not self.centering_active:
+            return "NOTHING"
+            
+        # Check if we should abort (only if 24 or fewer steps sent)
+        if self.centering_steps_sent <= 24:
+            # Check safety in the direction we're steering
+            is_safe, _ = self.check_lane_safety(sensors, self.centering_direction)
+            if not is_safe:
+                return self.abort_centering()
+        
+        # Continue steering
+        self.centering_steps_sent += 1
+        total_duration = self.get_steer_duration(self.centering_original_lane, self.centering_target_lane)
+        
+        if self.centering_steps_sent < total_duration:
+            # Still in first phase (steering toward target)
+            return f"STEER_{self.centering_direction.upper()}"
+        elif self.centering_steps_sent < total_duration * 2:
+            # Second phase (steering back to center)
+            opposite_direction = "LEFT" if self.centering_direction == "right" else "RIGHT"
+            return f"STEER_{opposite_direction}"
+        else:
+            # Centering complete
+            self.complete_centering()
+            return "NOTHING"
+
+    def abort_centering(self) -> str:
+        """Abort centering and return to original lane."""
+        if not self.centering_active:
+            return "NOTHING"
+            
+        steps_sent = self.centering_steps_sent
+        self.centering_active = False
+        
+        if self.verbose:
+            print(f"  🚨 Aborting centering after {steps_sent} steps")
+        
+        # Return sequence: 2*steps in opposite direction, then steps in original direction
+        opposite_direction = "RIGHT" if self.centering_direction == "left" else "LEFT"
+        original_direction = self.centering_direction.upper()
+        
+        return_sequence = ([f"STEER_{opposite_direction}"] * (2 * steps_sent)) + \
+                         ([f"STEER_{original_direction}"] * steps_sent)
+        
+        # Reset state
+        self.centering_steps_sent = 0
+        self.centering_direction = None
+        self.centering_target_lane = None
+        self.centering_original_lane = None
+        
+        return return_sequence
+
+    def complete_centering(self):
+        """Complete centering process and update lane."""
+        if self.centering_active:
+            self.update_lane(self.centering_target_lane, f"LANE_CHANGE_{self.centering_direction.upper()}")
+            if self.verbose:
+                print(f"  ✅ Centering complete, now in lane {self.centering_target_lane}")
+        
+        # Reset state
+        self.centering_active = False
+        self.centering_steps_sent = 0
+        self.centering_direction = None
+        self.centering_target_lane = None
+        self.centering_original_lane = None
 
     def _init_database(self):
         """Create necessary tables if they don't exist."""
@@ -255,7 +344,19 @@ class LaneChangeController:
         self.save_sensor_reading(sensors, velocity, action_to_save)
 
         if did_crash:
+            # Reset centering if crashed
+            self.centering_active = False
             return ["NOTHING"]
+
+        # Handle ongoing centering process
+        if self.centering_active:
+            action = self.continue_centering(sensors)
+            if isinstance(action, list):
+                # Abort sequence returned
+                return action
+            elif action != "NOTHING":
+                return [action]
+            # If action is "NOTHING", centering is complete, continue with normal logic
 
         current_lane = self.get_current_lane()
 
@@ -355,27 +456,33 @@ class LaneChangeController:
                     # At center, prefer left
                     if self.verbose:
                         print("  ⬅️ Both safe at center, preferring LEFT")
-                    self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                    return (["STEER_LEFT"] * self.steer_duration) + (
-                        ["STEER_RIGHT"] * self.steer_duration
+                    new_lane = current_lane - 1
+                    steer_duration = self.get_steer_duration(current_lane, new_lane)
+                    self.update_lane(new_lane, "LANE_CHANGE_LEFT")
+                    return (["STEER_LEFT"] * steer_duration) + (
+                        ["STEER_RIGHT"] * steer_duration
                     )
 
             elif left_safe:
                 # Only left is safe
                 if self.verbose:
                     print("  ⬅️ Only left safe - changing LEFT")
-                self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                return (["STEER_LEFT"] * self.steer_duration) + (
-                    ["STEER_RIGHT"] * self.steer_duration
+                new_lane = current_lane - 1
+                steer_duration = self.get_steer_duration(current_lane, new_lane)
+                self.update_lane(new_lane, "LANE_CHANGE_LEFT")
+                return (["STEER_LEFT"] * steer_duration) + (
+                    ["STEER_RIGHT"] * steer_duration
                 )
 
             else:  # only right_safe
                 # Only right is safe
                 if self.verbose:
                     print("  ➡️ Only right safe - changing RIGHT")
-                self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                return (["STEER_RIGHT"] * self.steer_duration) + (
-                    ["STEER_LEFT"] * self.steer_duration
+                new_lane = current_lane + 1
+                steer_duration = self.get_steer_duration(current_lane, new_lane)
+                self.update_lane(new_lane, "LANE_CHANGE_RIGHT")
+                return (["STEER_RIGHT"] * steer_duration) + (
+                    ["STEER_LEFT"] * steer_duration
                 )
 
         # Check for car approaching from behind
@@ -396,34 +503,44 @@ class LaneChangeController:
                 if current_lane == self.center_lane:
                     if self.verbose:
                         print("  ⬅️ Both safe at center, preferring LEFT")
-                    self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                    return (["STEER_LEFT"] * self.steer_duration) + (
-                        ["STEER_RIGHT"] * self.steer_duration
+                    new_lane = current_lane - 1
+                    steer_duration = self.get_steer_duration(current_lane, new_lane)
+                    self.update_lane(new_lane, "LANE_CHANGE_LEFT")
+                    return (["STEER_LEFT"] * steer_duration) + (
+                        ["STEER_RIGHT"] * steer_duration
                     )
                 # Otherwise choose direction toward center
                 elif current_lane < self.center_lane:
                     if self.verbose:
                         print("  ➡️ Both safe, moving RIGHT toward center")
-                    self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                    return (["STEER_RIGHT"] * self.steer_duration) + (
-                        ["STEER_LEFT"] * self.steer_duration
+                    new_lane = current_lane + 1
+                    steer_duration = self.get_steer_duration(current_lane, new_lane)
+                    self.update_lane(new_lane, "LANE_CHANGE_RIGHT")
+                    return (["STEER_RIGHT"] * steer_duration) + (
+                        ["STEER_LEFT"] * steer_duration
                     )
                 else:
                     if self.verbose:
                         print("  ⬅️ Both safe, moving LEFT toward center")
-                    self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                    return (["STEER_LEFT"] * self.steer_duration) + (
-                        ["STEER_RIGHT"] * self.steer_duration
+                    new_lane = current_lane - 1
+                    steer_duration = self.get_steer_duration(current_lane, new_lane)
+                    self.update_lane(new_lane, "LANE_CHANGE_LEFT")
+                    return (["STEER_LEFT"] * steer_duration) + (
+                        ["STEER_RIGHT"] * steer_duration
                     )
             elif left_safe:
-                self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                return (["STEER_LEFT"] * self.steer_duration) + (
-                    ["STEER_RIGHT"] * self.steer_duration
+                new_lane = current_lane - 1
+                steer_duration = self.get_steer_duration(current_lane, new_lane)
+                self.update_lane(new_lane, "LANE_CHANGE_LEFT")
+                return (["STEER_LEFT"] * steer_duration) + (
+                    ["STEER_RIGHT"] * steer_duration
                 )
             elif right_safe:
-                self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                return (["STEER_RIGHT"] * self.steer_duration) + (
-                    ["STEER_LEFT"] * self.steer_duration
+                new_lane = current_lane + 1
+                steer_duration = self.get_steer_duration(current_lane, new_lane)
+                self.update_lane(new_lane, "LANE_CHANGE_RIGHT")
+                return (["STEER_RIGHT"] * steer_duration) + (
+                    ["STEER_LEFT"] * steer_duration
                 )
             else:
                 # Can't change lanes, accelerate
@@ -441,19 +558,18 @@ class LaneChangeController:
                 if is_safe:
                     if self.verbose:
                         print(
-                            f"  🎯 Moving {'RIGHT' if target_direction == 'right' else 'LEFT'} toward center lane"
+                            f"  🎯 Starting progressive centering {'RIGHT' if target_direction == 'right' else 'LEFT'} toward center lane"
                         )
 
+                    # Start progressive centering instead of immediate full steering
                     if target_direction == "right":
-                        self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                        return (["STEER_RIGHT"] * self.steer_duration) + (
-                            ["STEER_LEFT"] * self.steer_duration
-                        )
+                        target_lane = current_lane + 1
+                        action = self.start_centering(current_lane, target_lane)
+                        return [action]
                     else:
-                        self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                        return (["STEER_LEFT"] * self.steer_duration) + (
-                            ["STEER_RIGHT"] * self.steer_duration
-                        )
+                        target_lane = current_lane - 1
+                        action = self.start_centering(current_lane, target_lane)
+                        return [action]
 
             # Maintain speed
             current_speed = abs(velocity.get("x", 10))
