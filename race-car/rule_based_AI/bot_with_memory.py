@@ -320,7 +320,7 @@ class LaneChangeController:
                 print(f"  🚨 Emergency lane change needed - distance too low: {front_distance:.1f}")
             return True
         
-        if front_distance > 950:
+        if front_distance > 960:
             if self.verbose:
                 print(f"  🚗 No car ahead - no need for speed matching")
             return True
@@ -366,7 +366,7 @@ class LaneChangeController:
             print(f"🔄 Speed match attempts: {self.get_speed_match_attempts()}/{self.speed_match_attempts}")
 
         # Check for front obstacle - PRIORITY: Speed matching first
-        if front_sensor < 950:  # Obstacle ahead
+        if front_sensor < 960:  # Obstacle ahead
             if self.verbose:
                 print(f"🚦 Obstacle ahead at {front_sensor:.1f}")
 
