@@ -98,7 +98,6 @@ class RealRaceCarEnv(gym.Env):
         # Initialize accumulated reward tracking
         self._accumulated_rewards = {
             "distance_reward": 0.0,
-            "proximity_penalty": 0.0,
             "crash_penalty": 0.0,
             "completion_bonus": 0.0,
         }
@@ -117,9 +116,6 @@ class RealRaceCarEnv(gym.Env):
 
         self.current_step += 1
 
-        obs = self._get_observation()
-        reward = self._calculate_reward(crashed_before)
-
         # --- Game ends instantly on crash or after timeout ---
         is_crash = core.STATE.crashed and self.crashed_steps >= self.max_crashed_steps
         is_timeout = self.current_step >= self.max_steps_per_game
@@ -130,6 +126,9 @@ class RealRaceCarEnv(gym.Env):
         )  # Ended by time (success if no crash)
 
         game_finished = terminated or truncated
+
+        obs = self._get_observation()
+        reward = self._calculate_reward(crashed_before)
 
         if game_finished:
             self.batch_rewards.append(reward)
@@ -326,14 +325,13 @@ class RealRaceCarEnv(gym.Env):
         self._accumulated_rewards["distance_reward"] = (
             distance_reward  # Current total distance reward
         )
-        self._accumulated_rewards["proximity_penalty"] += proximity_penalty
         self._accumulated_rewards["crash_penalty"] += crash_penalty
         self._accumulated_rewards["completion_bonus"] += completion_bonus
 
         # Store both current step breakdown and accumulated totals
         self._reward_breakdown = {
             "distance_reward": distance_reward,
-            "proximity_penalty": proximity_penalty,
+            "proximity_penalty": 0.0,  # Always 0 now
             "crash_penalty": crash_penalty,
             "completion_bonus": completion_bonus,
         }

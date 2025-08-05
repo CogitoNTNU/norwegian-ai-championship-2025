@@ -2,6 +2,7 @@ import time
 import uvicorn
 import datetime
 from fastapi import Body, FastAPI, Request
+from bot_with_memory import LaneChangeController
 from dtos import RaceCarPredictRequestDto, RaceCarPredictResponseDto
 from simple_bot import predict_actions_from_game_bot
 
@@ -26,11 +27,13 @@ async def log_requests(request: Request, call_next):
     response = await call_next(request)
     return response
 
+controlelr = LaneChangeController()
 
 @app.post("/predict", response_model=RaceCarPredictResponseDto)
 def predict(request: RaceCarPredictRequestDto = Body(...)):
     # Use the game bot logic from core.py
-    actions = predict_actions_from_game_bot(request.model_dump())
+    #actions = predict_actions_from_game_bot(request.model_dump())
+    actions = controlelr.predict_actions(request.model_dump())
 
     return RaceCarPredictResponseDto(actions=actions)
 

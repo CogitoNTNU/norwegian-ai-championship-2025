@@ -193,15 +193,15 @@ def get_action():
 
     # Priority: accelerate, decelerate, steer left, steer right, nothing
     if keys[pygame.K_RIGHT]:
-        return "ACCELERATE"
+        return ["ACCELERATE"]
     if keys[pygame.K_LEFT]:
-        return "DECELERATE"
+        return ["DECELERATE"]
     if keys[pygame.K_UP]:
-        return "STEER_LEFT"
+        return ["STEER_LEFT"]
     if keys[pygame.K_DOWN]:
-        return "STEER_RIGHT"
+        return ["STEER_RIGHT"]
     if keys[pygame.K_SPACE]:
-        return "NOTHING"
+        return ["NOTHING"]
 
     # Just clicking once and it keeps doing it until a new press
     for event in pygame.event.get():
@@ -210,15 +210,15 @@ def get_action():
             exit()
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_RIGHT:
-                return "ACCELERATE"
+                return ["ACCELERATE"]
             elif event.key == pygame.K_LEFT:
-                return "DECELERATE"
+                return ["DECELERATE"]
             elif event.key == pygame.K_UP:
-                return "STEER_LEFT"
+                return ["STEER_LEFT"]
             elif event.key == pygame.K_DOWN:
-                return "STEER_RIGHT"
+                return ["STEER_RIGHT"]
             elif event.key == pygame.K_SPACE:
-                return "NOTHING"
+                return ["NOTHING"]
 
     # If no relevant key is pressed, repeat last action or do nothing
     # return STATE.latest_action if hasattr(STATE, "latest_action") else "NOTHING"
@@ -241,7 +241,7 @@ def get_action_json():
         return "NOTHING"
 
 
-def initialize_game_state(api_url: str, seed_value: str, sensor_removal=0):
+def initialize_game_state(api_url: str, seed_value: str):
     seed(seed_value)
     global STATE
     STATE = GameState(api_url)
@@ -280,15 +280,12 @@ def initialize_game_state(api_url: str, seed_value: str, sensor_removal=0):
         (337.5, "left_side_back"),
     ]
 
-    for _ in range(sensor_removal):  # Removes random sensors
-        random_sensor = random_choice(sensor_options)
-        sensor_options.remove(random_sensor)
     STATE.sensors = [
         Sensor(STATE.ego, angle, name, STATE) for angle, name in sensor_options
     ]
 
     # Create other cars and add to car bucket
-    for i in range(0, LANE_COUNT - 1):
+    for _ in range(0, LANE_COUNT - 1):
         car_colors = ["blue", "red"]
         color = random_choice(car_colors)
         car = Car(color, Vector(8, 0), target_height=int(lane_height * 0.8))
@@ -319,6 +316,7 @@ def game_loop(
     global STATE
     clock = pygame.time.Clock()
     screen = None
+    actions = []
     if verbose:
         screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
         pygame.display.set_caption("Race Car Game")
@@ -538,17 +536,6 @@ def game_loop(
 
             pygame.display.flip()
 
-    # # Save actions to file after game ends
-    # import os
-    # if log_actions:
-    #     log_dir = os.path.dirname(log_path)
-    #     if log_dir and not os.path.exists(log_dir):
-    #         os.makedirs(log_dir, exist_ok=True)
-    #     with open(log_path, "w") as f:
-    #         json.dump(ACTION_LOG, f, indent=2)
-
-
-# Initialization - not used
 def init(api_url: str):
     global STATE
     STATE = GameState(api_url)

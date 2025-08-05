@@ -1,0 +1,13 @@
+{
+  "learning_rate": 0.0003,
+  "gamma": 0.99,
+  "lambda_gae": 0.95,
+  "epsilon": 0.2,
+  "value_loss_coef": 0.5,
+  "entropy_coef": 0.01,
+  "max_grad_norm": 0.5,
+  "hidden_dim": 256,
+  "steps_per_update": 2048,
+  "epochs_per_update": 10,
+  "total_timesteps": 1000000
+}
