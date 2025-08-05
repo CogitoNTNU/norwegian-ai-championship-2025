@@ -12,7 +12,7 @@ from typing import List, Dict
 # 1. Load Model
 # ========================================
 model, tokenizer = FastLanguageModel.from_pretrained(
-    "cogitoai/cogito-8b",
+    "deepcogito/cogito-v1-preview-llama-8B",
     dtype=None,
     load_in_4bit=True,
 )
@@ -105,7 +105,7 @@ def load_statements_and_answers(
         if stmt_id != ans_id:
             print(f"Warning: Mismatched IDs? {s_file} vs {a_file}")
 
-        # ✅ Load statement from .txt as plain text
+        # Load statement from .txt as plain text
         with open(os.path.join(statement_dir, s_file), "r", encoding="utf-8") as f:
             statement_text = f.read().strip()
 
@@ -223,6 +223,7 @@ model.save_pretrained_merged(
 # ========================================
 # To get started with the fine-tuned model:
 # ========================================
+
 # from unsloth import FastLanguageModel
 
 # model, tokenizer = FastLanguageModel.from_pretrained(
