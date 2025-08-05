@@ -15,8 +15,8 @@ import argparse
 # Add ppo directory to path
 sys.path.append(os.path.join(os.path.dirname(__file__), "ppo"))
 
-from ppo.race_car_gym_env import RaceCarEnv
-from bot_with_memory import LaneChangeController
+from src.environments.race_car_gym_env import RaceCarEnv
+from rule_based_AI.bot_with_memory import LaneChangeController
 
 
 def get_sensor_data_from_observation(observation: np.ndarray) -> dict:

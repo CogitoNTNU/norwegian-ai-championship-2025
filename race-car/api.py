@@ -2,9 +2,8 @@ import time
 import uvicorn
 import datetime
 from fastapi import Body, FastAPI, Request
-from bot_with_memory import LaneChangeController
+from rule_based_AI.bot_with_memory import LaneChangeController
 from dtos import RaceCarPredictRequestDto, RaceCarPredictResponseDto
-from simple_bot import predict_actions_from_game_bot
 
 HOST = "0.0.0.0"
 PORT = 9052

@@ -1,0 +1,3027 @@
+{
+  "benchmark_info": {
+    "timestamp": "2025-08-05T23:09:05.037076",
+    "total_episodes": 200,
+    "successful_episodes": 200,
+    "failed_episodes": 0,
+    "total_time": 14.070754528045654,
+    "num_processes": 32,
+    "seeds_used": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299
+    ]
+  },
+  "performance_stats": {
+    "avg_distance": 168821.79799999687,
+    "median_distance": 116573.00000000067,
+    "std_distance": 155887.6016813236,
+    "min_distance": 2027.6000000000038,
+    "max_distance": 559154.3999999793,
+    "avg_steps": 2025.98,
+    "median_steps": 2054.0,
+    "avg_time": 1.9868699526786804,
+    "median_time": 2.00086772441864,
+    "crash_rate": 0.715,
+    "episodes_per_second": 14.213878836516013
+  },
+  "episode_results": [
+    {
+      "seed": 100,
+      "distance": 349914.59999999,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.5988917350769043,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1912,
+        "DECELERATE": 65,
+        "STEER_LEFT": 816,
+        "STEER_RIGHT": 807
+      }
+    },
+    {
+      "seed": 101,
+      "distance": 428614.19999998773,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.5126023292541504,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2204,
+        "DECELERATE": 52,
+        "STEER_LEFT": 672,
+        "STEER_RIGHT": 672
+      }
+    },
+    {
+      "seed": 102,
+      "distance": 167404.6999999993,
+      "steps": 2448,
+      "crashed": true,
+      "time": 2.3268303871154785,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1152,
+        "DECELERATE": 71,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 601
+      }
+    },
+    {
+      "seed": 103,
+      "distance": 42460.80000000005,
+      "steps": 1068,
+      "crashed": true,
+      "time": 0.9849481582641602,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 531,
+        "DECELERATE": 13,
+        "STEER_LEFT": 282,
+        "STEER_RIGHT": 240
+      }
+    },
+    {
+      "seed": 104,
+      "distance": 35591.50000000022,
+      "steps": 1048,
+      "crashed": true,
+      "time": 1.0201029777526855,
+      "action_counts": {
+        "NOTHING": 1,
+        "ACCELERATE": 557,
+        "DECELERATE": 232,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 114
+      }
+    },
+    {
+      "seed": 105,
+      "distance": 6671.099999999997,
+      "steps": 878,
+      "crashed": true,
+      "time": 0.8061904907226562,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 252,
+        "DECELERATE": 185,
+        "STEER_LEFT": 240,
+        "STEER_RIGHT": 201
+      }
+    },
+    {
+      "seed": 106,
+      "distance": 494512.19999998185,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.5297114849090576,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2479,
+        "DECELERATE": 18,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 575
+      }
+    },
+    {
+      "seed": 107,
+      "distance": 52422.0000000004,
+      "steps": 1822,
+      "crashed": true,
+      "time": 1.748906135559082,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 780,
+        "DECELERATE": 319,
+        "STEER_LEFT": 339,
+        "STEER_RIGHT": 384
+      }
+    },
+    {
+      "seed": 108,
+      "distance": 253284.09999999648,
+      "steps": 3267,
+      "crashed": true,
+      "time": 3.224870204925537,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1655,
+        "DECELERATE": 439,
+        "STEER_LEFT": 597,
+        "STEER_RIGHT": 576
+      }
+    },
+    {
+      "seed": 109,
+      "distance": 19569.800000000192,
+      "steps": 568,
+      "crashed": true,
+      "time": 0.5293722152709961,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 398,
+        "DECELERATE": 6,
+        "STEER_LEFT": 72,
+        "STEER_RIGHT": 92
+      }
+    },
+    {
+      "seed": 110,
+      "distance": 41005.40000000057,
+      "steps": 1225,
+      "crashed": true,
+      "time": 1.1900246143341064,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 597,
+        "DECELERATE": 259,
+        "STEER_LEFT": 177,
+        "STEER_RIGHT": 192
+      }
+    },
+    {
+      "seed": 111,
+      "distance": 2348.899999999999,
+      "steps": 148,
+      "crashed": true,
+      "time": 0.12987112998962402,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 83,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 14
+      }
+    },
+    {
+      "seed": 112,
+      "distance": 447924.7999999854,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.66752290725708,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2368,
+        "DECELERATE": 25,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 583
+      }
+    },
+    {
+      "seed": 113,
+      "distance": 3189.2000000000075,
+      "steps": 196,
+      "crashed": true,
+      "time": 0.1682596206665039,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 82,
+        "DECELERATE": 18,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 114,
+      "distance": 150823.49999999927,
+      "steps": 2344,
+      "crashed": true,
+      "time": 2.2861037254333496,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1313,
+        "DECELERATE": 202,
+        "STEER_LEFT": 397,
+        "STEER_RIGHT": 432
+      }
+    },
+    {
+      "seed": 115,
+      "distance": 294850.3999999894,
+      "steps": 3054,
+      "crashed": true,
+      "time": 2.9161479473114014,
+      "action_counts": {
+        "NOTHING": 1,
+        "ACCELERATE": 1680,
+        "DECELERATE": 29,
+        "STEER_LEFT": 672,
+        "STEER_RIGHT": 672
+      }
+    },
+    {
+      "seed": 116,
+      "distance": 341561.5999999988,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.676100254058838,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1795,
+        "DECELERATE": 130,
+        "STEER_LEFT": 859,
+        "STEER_RIGHT": 816
+      }
+    },
+    {
+      "seed": 117,
+      "distance": 298994.7999999993,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.5885305404663086,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1718,
+        "DECELERATE": 442,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 720
+      }
+    },
+    {
+      "seed": 118,
+      "distance": 395309.5999999829,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.5026865005493164,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2009,
+        "DECELERATE": 55,
+        "STEER_LEFT": 768,
+        "STEER_RIGHT": 768
+      }
+    },
+    {
+      "seed": 119,
+      "distance": 2281.199999999992,
+      "steps": 153,
+      "crashed": true,
+      "time": 0.14563655853271484,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 64,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 38
+      }
+    },
+    {
+      "seed": 120,
+      "distance": 559154.3999999793,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.5234482288360596,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2820,
+        "DECELERATE": 12,
+        "STEER_LEFT": 384,
+        "STEER_RIGHT": 384
+      }
+    },
+    {
+      "seed": 121,
+      "distance": 2492.199999999991,
+      "steps": 163,
+      "crashed": true,
+      "time": 0.15602540969848633,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 69,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 43
+      }
+    },
+    {
+      "seed": 122,
+      "distance": 223561.19999999393,
+      "steps": 3006,
+      "crashed": true,
+      "time": 2.9928712844848633,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1779,
+        "DECELERATE": 202,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 497
+      }
+    },
+    {
+      "seed": 123,
+      "distance": 27661.900000000445,
+      "steps": 751,
+      "crashed": true,
+      "time": 0.6939828395843506,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 420,
+        "DECELERATE": 9,
+        "STEER_LEFT": 178,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 124,
+      "distance": 49083.20000000008,
+      "steps": 1494,
+      "crashed": true,
+      "time": 1.4462850093841553,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 843,
+        "DECELERATE": 202,
+        "STEER_LEFT": 240,
+        "STEER_RIGHT": 209
+      }
+    },
+    {
+      "seed": 125,
+      "distance": 195406.79999999935,
+      "steps": 2613,
+      "crashed": true,
+      "time": 2.600576400756836,
+      "action_counts": {
+        "NOTHING": 7,
+        "ACCELERATE": 1387,
+        "DECELERATE": 259,
+        "STEER_LEFT": 480,
+        "STEER_RIGHT": 480
+      }
+    },
+    {
+      "seed": 126,
+      "distance": 25617.600000000057,
+      "steps": 717,
+      "crashed": true,
+      "time": 0.6709244251251221,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 399,
+        "DECELERATE": 9,
+        "STEER_LEFT": 165,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 127,
+      "distance": 302433.2999999921,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.7308907508850098,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2009,
+        "DECELERATE": 553,
+        "STEER_LEFT": 510,
+        "STEER_RIGHT": 528
+      }
+    },
+    {
+      "seed": 128,
+      "distance": 49802.900000000394,
+      "steps": 1697,
+      "crashed": true,
+      "time": 1.7057929039001465,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 948,
+        "DECELERATE": 325,
+        "STEER_LEFT": 230,
+        "STEER_RIGHT": 192
+      }
+    },
+    {
+      "seed": 129,
+      "distance": 336577.9999999952,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.563598871231079,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1678,
+        "DECELERATE": 314,
+        "STEER_LEFT": 816,
+        "STEER_RIGHT": 792
+      }
+    },
+    {
+      "seed": 130,
+      "distance": 138109.09999999966,
+      "steps": 2065,
+      "crashed": true,
+      "time": 2.0063838958740234,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1168,
+        "DECELERATE": 18,
+        "STEER_LEFT": 447,
+        "STEER_RIGHT": 432
+      }
+    },
+    {
+      "seed": 131,
+      "distance": 349354.89999999304,
+      "steps": 3490,
+      "crashed": true,
+      "time": 3.4133403301239014,
+      "action_counts": {
+        "NOTHING": 10,
+        "ACCELERATE": 1911,
+        "DECELERATE": 134,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 715
+      }
+    },
+    {
+      "seed": 132,
+      "distance": 7061.900000000011,
+      "steps": 374,
+      "crashed": true,
+      "time": 0.35328030586242676,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 126,
+        "DECELERATE": 56,
+        "STEER_LEFT": 96,
+        "STEER_RIGHT": 96
+      }
+    },
+    {
+      "seed": 133,
+      "distance": 428987.3999999873,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.6119885444641113,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2136,
+        "DECELERATE": 24,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 720
+      }
+    },
+    {
+      "seed": 134,
+      "distance": 2079.800000000001,
+      "steps": 140,
+      "crashed": true,
+      "time": 0.14188838005065918,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 65,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 24
+      }
+    },
+    {
+      "seed": 135,
+      "distance": 3188.2999999999993,
+      "steps": 205,
+      "crashed": true,
+      "time": 0.21363377571105957,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 73,
+        "DECELERATE": 36,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 136,
+      "distance": 181243.09999999794,
+      "steps": 2438,
+      "crashed": true,
+      "time": 2.449497699737549,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1205,
+        "DECELERATE": 18,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 591
+      }
+    },
+    {
+      "seed": 137,
+      "distance": 12054.699999999992,
+      "steps": 526,
+      "crashed": true,
+      "time": 0.49616312980651855,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 225,
+        "DECELERATE": 6,
+        "STEER_LEFT": 151,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 138,
+      "distance": 239664.99999999482,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.6467292308807373,
+      "action_counts": {
+        "NOTHING": 136,
+        "ACCELERATE": 1591,
+        "DECELERATE": 378,
+        "STEER_LEFT": 768,
+        "STEER_RIGHT": 727
+      }
+    },
+    {
+      "seed": 139,
+      "distance": 71295.59999999996,
+      "steps": 1980,
+      "crashed": true,
+      "time": 2.0482754707336426,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 979,
+        "DECELERATE": 557,
+        "STEER_LEFT": 204,
+        "STEER_RIGHT": 240
+      }
+    },
+    {
+      "seed": 140,
+      "distance": 9986.300000000016,
+      "steps": 412,
+      "crashed": true,
+      "time": 0.39322566986083984,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 209,
+        "DECELERATE": 9,
+        "STEER_LEFT": 96,
+        "STEER_RIGHT": 96
+      }
+    },
+    {
+      "seed": 141,
+      "distance": 13950.20000000012,
+      "steps": 457,
+      "crashed": true,
+      "time": 0.4384291172027588,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 314,
+        "DECELERATE": 6,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 89
+      }
+    },
+    {
+      "seed": 142,
+      "distance": 110641.10000000012,
+      "steps": 1877,
+      "crashed": true,
+      "time": 1.8488624095916748,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1035,
+        "DECELERATE": 15,
+        "STEER_LEFT": 432,
+        "STEER_RIGHT": 395
+      }
+    },
+    {
+      "seed": 143,
+      "distance": 236306.1999999931,
+      "steps": 2717,
+      "crashed": true,
+      "time": 2.6758687496185303,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1639,
+        "DECELERATE": 41,
+        "STEER_LEFT": 509,
+        "STEER_RIGHT": 528
+      }
+    },
+    {
+      "seed": 144,
+      "distance": 3239.9000000000024,
+      "steps": 207,
+      "crashed": true,
+      "time": 0.19450950622558594,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 71,
+        "DECELERATE": 6,
+        "STEER_LEFT": 82,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 145,
+      "distance": 285159.00000000035,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.8141307830810547,
+      "action_counts": {
+        "NOTHING": 13,
+        "ACCELERATE": 1670,
+        "DECELERATE": 765,
+        "STEER_LEFT": 576,
+        "STEER_RIGHT": 576
+      }
+    },
+    {
+      "seed": 146,
+      "distance": 2111.899999999999,
+      "steps": 143,
+      "crashed": true,
+      "time": 0.13468575477600098,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 63,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 29
+      }
+    },
+    {
+      "seed": 147,
+      "distance": 346580.59999998816,
+      "steps": 3278,
+      "crashed": true,
+      "time": 3.2507967948913574,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1790,
+        "DECELERATE": 35,
+        "STEER_LEFT": 733,
+        "STEER_RIGHT": 720
+      }
+    },
+    {
+      "seed": 148,
+      "distance": 2583.900000000003,
+      "steps": 156,
+      "crashed": true,
+      "time": 0.1493077278137207,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 96,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 9
+      }
+    },
+    {
+      "seed": 149,
+      "distance": 99219.20000000001,
+      "steps": 2513,
+      "crashed": true,
+      "time": 2.516207456588745,
+      "action_counts": {
+        "NOTHING": 4,
+        "ACCELERATE": 988,
+        "DECELERATE": 319,
+        "STEER_LEFT": 578,
+        "STEER_RIGHT": 624
+      }
+    },
+    {
+      "seed": 150,
+      "distance": 171780.69999999722,
+      "steps": 2338,
+      "crashed": true,
+      "time": 2.269824743270874,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1380,
+        "DECELERATE": 87,
+        "STEER_LEFT": 439,
+        "STEER_RIGHT": 432
+      }
+    },
+    {
+      "seed": 151,
+      "distance": 442438.6999999856,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.7862210273742676,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2259,
+        "DECELERATE": 51,
+        "STEER_LEFT": 666,
+        "STEER_RIGHT": 624
+      }
+    },
+    {
+      "seed": 152,
+      "distance": 326503.0999999866,
+      "steps": 2718,
+      "crashed": true,
+      "time": 2.764828681945801,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1991,
+        "DECELERATE": 15,
+        "STEER_LEFT": 376,
+        "STEER_RIGHT": 336
+      }
+    },
+    {
+      "seed": 153,
+      "distance": 31261.10000000043,
+      "steps": 814,
+      "crashed": true,
+      "time": 0.7967872619628906,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 557,
+        "DECELERATE": 6,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 107
+      }
+    },
+    {
+      "seed": 154,
+      "distance": 2904.0000000000055,
+      "steps": 183,
+      "crashed": true,
+      "time": 0.17456889152526855,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 76,
+        "DECELERATE": 3,
+        "STEER_LEFT": 56,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 155,
+      "distance": 326956.5000000037,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.584871530532837,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1580,
+        "DECELERATE": 238,
+        "STEER_LEFT": 912,
+        "STEER_RIGHT": 870
+      }
+    },
+    {
+      "seed": 156,
+      "distance": 95223.50000000022,
+      "steps": 1849,
+      "crashed": true,
+      "time": 1.8621814250946045,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 948,
+        "DECELERATE": 81,
+        "STEER_LEFT": 432,
+        "STEER_RIGHT": 386
+      }
+    },
+    {
+      "seed": 157,
+      "distance": 23380.70000000016,
+      "steps": 624,
+      "crashed": true,
+      "time": 0.6236703395843506,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 449,
+        "DECELERATE": 6,
+        "STEER_LEFT": 77,
+        "STEER_RIGHT": 92
+      }
+    },
+    {
+      "seed": 158,
+      "distance": 9542.600000000084,
+      "steps": 372,
+      "crashed": true,
+      "time": 0.3732757568359375,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 227,
+        "DECELERATE": 6,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 91
+      }
+    },
+    {
+      "seed": 159,
+      "distance": 61649.700000000084,
+      "steps": 2075,
+      "crashed": true,
+      "time": 2.0273261070251465,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 773,
+        "DECELERATE": 349,
+        "STEER_LEFT": 473,
+        "STEER_RIGHT": 480
+      }
+    },
+    {
+      "seed": 160,
+      "distance": 423326.39999998774,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.574753522872925,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1997,
+        "DECELERATE": 67,
+        "STEER_LEFT": 768,
+        "STEER_RIGHT": 768
+      }
+    },
+    {
+      "seed": 161,
+      "distance": 219312.40000000095,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.7118654251098633,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1625,
+        "DECELERATE": 631,
+        "STEER_LEFT": 672,
+        "STEER_RIGHT": 672
+      }
+    },
+    {
+      "seed": 162,
+      "distance": 424650.4999999873,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.591764450073242,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2186,
+        "DECELERATE": 32,
+        "STEER_LEFT": 710,
+        "STEER_RIGHT": 672
+      }
+    },
+    {
+      "seed": 163,
+      "distance": 7435.400000000018,
+      "steps": 304,
+      "crashed": true,
+      "time": 0.35247111320495605,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 238,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 15
+      }
+    },
+    {
+      "seed": 164,
+      "distance": 250269.2999999945,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.7468042373657227,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1754,
+        "DECELERATE": 392,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 734
+      }
+    },
+    {
+      "seed": 165,
+      "distance": 395702.39999999036,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.632408380508423,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2037,
+        "DECELERATE": 27,
+        "STEER_LEFT": 768,
+        "STEER_RIGHT": 768
+      }
+    },
+    {
+      "seed": 166,
+      "distance": 319756.39999999537,
+      "steps": 2881,
+      "crashed": true,
+      "time": 2.8526225090026855,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1663,
+        "DECELERATE": 21,
+        "STEER_LEFT": 621,
+        "STEER_RIGHT": 576
+      }
+    },
+    {
+      "seed": 167,
+      "distance": 273219.30000000336,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.696787118911743,
+      "action_counts": {
+        "NOTHING": 471,
+        "ACCELERATE": 1027,
+        "DECELERATE": 209,
+        "STEER_LEFT": 933,
+        "STEER_RIGHT": 960
+      }
+    },
+    {
+      "seed": 168,
+      "distance": 21363.500000000124,
+      "steps": 662,
+      "crashed": true,
+      "time": 0.634911298751831,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 401,
+        "DECELERATE": 6,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 111
+      }
+    },
+    {
+      "seed": 169,
+      "distance": 288190.09999999875,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.576124668121338,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1585,
+        "DECELERATE": 201,
+        "STEER_LEFT": 912,
+        "STEER_RIGHT": 902
+      }
+    },
+    {
+      "seed": 170,
+      "distance": 12366.300000000168,
+      "steps": 522,
+      "crashed": true,
+      "time": 0.5125069618225098,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 229,
+        "DECELERATE": 6,
+        "STEER_LEFT": 143,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 171,
+      "distance": 5844.799999999998,
+      "steps": 316,
+      "crashed": true,
+      "time": 0.3066115379333496,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 118,
+        "DECELERATE": 6,
+        "STEER_LEFT": 96,
+        "STEER_RIGHT": 96
+      }
+    },
+    {
+      "seed": 172,
+      "distance": 79659.30000000053,
+      "steps": 1485,
+      "crashed": true,
+      "time": 1.4674222469329834,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 805,
+        "DECELERATE": 12,
+        "STEER_LEFT": 336,
+        "STEER_RIGHT": 332
+      }
+    },
+    {
+      "seed": 173,
+      "distance": 3977.9999999999927,
+      "steps": 231,
+      "crashed": true,
+      "time": 0.22081494331359863,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 93,
+        "DECELERATE": 6,
+        "STEER_LEFT": 84,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 174,
+      "distance": 37869.0000000001,
+      "steps": 1009,
+      "crashed": true,
+      "time": 1.0205004215240479,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 682,
+        "DECELERATE": 70,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 113
+      }
+    },
+    {
+      "seed": 175,
+      "distance": 52750.100000000115,
+      "steps": 1049,
+      "crashed": true,
+      "time": 1.059598445892334,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 633,
+        "DECELERATE": 32,
+        "STEER_LEFT": 192,
+        "STEER_RIGHT": 192
+      }
+    },
+    {
+      "seed": 176,
+      "distance": 12923.800000000096,
+      "steps": 536,
+      "crashed": true,
+      "time": 0.5087132453918457,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 238,
+        "DECELERATE": 6,
+        "STEER_LEFT": 148,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 177,
+      "distance": 37188.600000000064,
+      "steps": 1388,
+      "crashed": true,
+      "time": 1.4229459762573242,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 508,
+        "DECELERATE": 229,
+        "STEER_LEFT": 336,
+        "STEER_RIGHT": 315
+      }
+    },
+    {
+      "seed": 178,
+      "distance": 461960.79999998317,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.6019883155822754,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2291,
+        "DECELERATE": 61,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 624
+      }
+    },
+    {
+      "seed": 179,
+      "distance": 92118.49999999894,
+      "steps": 1490,
+      "crashed": true,
+      "time": 1.4799821376800537,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 996,
+        "DECELERATE": 14,
+        "STEER_LEFT": 240,
+        "STEER_RIGHT": 240
+      }
+    },
+    {
+      "seed": 180,
+      "distance": 214717.50000000192,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.9656825065612793,
+      "action_counts": {
+        "NOTHING": 193,
+        "ACCELERATE": 1610,
+        "DECELERATE": 513,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 660
+      }
+    },
+    {
+      "seed": 181,
+      "distance": 412908.3999999882,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.584491491317749,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2099,
+        "DECELERATE": 54,
+        "STEER_LEFT": 727,
+        "STEER_RIGHT": 720
+      }
+    },
+    {
+      "seed": 182,
+      "distance": 163720.39999999962,
+      "steps": 2542,
+      "crashed": true,
+      "time": 2.520975112915039,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1030,
+        "DECELERATE": 27,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 765
+      }
+    },
+    {
+      "seed": 183,
+      "distance": 357327.7999999971,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.6502723693847656,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1753,
+        "DECELERATE": 311,
+        "STEER_LEFT": 768,
+        "STEER_RIGHT": 768
+      }
+    },
+    {
+      "seed": 184,
+      "distance": 2292.1000000000063,
+      "steps": 152,
+      "crashed": true,
+      "time": 0.14545702934265137,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 67,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 34
+      }
+    },
+    {
+      "seed": 185,
+      "distance": 48541.200000000434,
+      "steps": 1133,
+      "crashed": true,
+      "time": 1.1444618701934814,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 634,
+        "DECELERATE": 10,
+        "STEER_LEFT": 240,
+        "STEER_RIGHT": 249
+      }
+    },
+    {
+      "seed": 186,
+      "distance": 5729.4000000000415,
+      "steps": 264,
+      "crashed": true,
+      "time": 0.2591860294342041,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 177,
+        "DECELERATE": 3,
+        "STEER_LEFT": 36,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 187,
+      "distance": 233800.29999999906,
+      "steps": 2983,
+      "crashed": true,
+      "time": 2.9377546310424805,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1500,
+        "DECELERATE": 201,
+        "STEER_LEFT": 658,
+        "STEER_RIGHT": 624
+      }
+    },
+    {
+      "seed": 188,
+      "distance": 76021.20000000024,
+      "steps": 1471,
+      "crashed": true,
+      "time": 1.462092399597168,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 931,
+        "DECELERATE": 44,
+        "STEER_LEFT": 256,
+        "STEER_RIGHT": 240
+      }
+    },
+    {
+      "seed": 189,
+      "distance": 6928.70000000006,
+      "steps": 296,
+      "crashed": true,
+      "time": 0.28586387634277344,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 207,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 38
+      }
+    },
+    {
+      "seed": 190,
+      "distance": 43451.900000000176,
+      "steps": 839,
+      "crashed": true,
+      "time": 0.8461868762969971,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 783,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 5
+      }
+    },
+    {
+      "seed": 191,
+      "distance": 253135.20000000167,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.531796932220459,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1480,
+        "DECELERATE": 200,
+        "STEER_LEFT": 960,
+        "STEER_RIGHT": 960
+      }
+    },
+    {
+      "seed": 192,
+      "distance": 2896.9000000000074,
+      "steps": 179,
+      "crashed": true,
+      "time": 0.17234587669372559,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 82,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 46
+      }
+    },
+    {
+      "seed": 193,
+      "distance": 10456.699999999979,
+      "steps": 478,
+      "crashed": true,
+      "time": 0.496854305267334,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 200,
+        "DECELERATE": 6,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 128
+      }
+    },
+    {
+      "seed": 194,
+      "distance": 239279.8999999923,
+      "steps": 2488,
+      "crashed": true,
+      "time": 2.509317636489868,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1711,
+        "DECELERATE": 39,
+        "STEER_LEFT": 384,
+        "STEER_RIGHT": 354
+      }
+    },
+    {
+      "seed": 195,
+      "distance": 73987.40000000034,
+      "steps": 1211,
+      "crashed": true,
+      "time": 1.2290799617767334,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 846,
+        "DECELERATE": 9,
+        "STEER_LEFT": 164,
+        "STEER_RIGHT": 192
+      }
+    },
+    {
+      "seed": 196,
+      "distance": 52127.2000000004,
+      "steps": 1096,
+      "crashed": true,
+      "time": 1.1260955333709717,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 783,
+        "DECELERATE": 17,
+        "STEER_LEFT": 152,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 197,
+      "distance": 148516.40000000113,
+      "steps": 2267,
+      "crashed": true,
+      "time": 2.297999143600464,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1153,
+        "DECELERATE": 182,
+        "STEER_LEFT": 480,
+        "STEER_RIGHT": 452
+      }
+    },
+    {
+      "seed": 198,
+      "distance": 340262.39999999426,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.7438132762908936,
+      "action_counts": {
+        "NOTHING": 4,
+        "ACCELERATE": 1860,
+        "DECELERATE": 392,
+        "STEER_LEFT": 672,
+        "STEER_RIGHT": 672
+      }
+    },
+    {
+      "seed": 199,
+      "distance": 209242.1999999995,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.961519718170166,
+      "action_counts": {
+        "NOTHING": 22,
+        "ACCELERATE": 1648,
+        "DECELERATE": 1084,
+        "STEER_LEFT": 414,
+        "STEER_RIGHT": 432
+      }
+    },
+    {
+      "seed": 200,
+      "distance": 357106.89999999455,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.9893901348114014,
+      "action_counts": {
+        "NOTHING": 62,
+        "ACCELERATE": 1962,
+        "DECELERATE": 616,
+        "STEER_LEFT": 480,
+        "STEER_RIGHT": 480
+      }
+    },
+    {
+      "seed": 201,
+      "distance": 348308.3999999902,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.57023549079895,
+      "action_counts": {
+        "NOTHING": 5,
+        "ACCELERATE": 2113,
+        "DECELERATE": 138,
+        "STEER_LEFT": 672,
+        "STEER_RIGHT": 672
+      }
+    },
+    {
+      "seed": 202,
+      "distance": 242779.29999999685,
+      "steps": 2588,
+      "crashed": true,
+      "time": 2.55472993850708,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1488,
+        "DECELERATE": 38,
+        "STEER_LEFT": 534,
+        "STEER_RIGHT": 528
+      }
+    },
+    {
+      "seed": 203,
+      "distance": 2488.9000000000074,
+      "steps": 164,
+      "crashed": true,
+      "time": 0.15938282012939453,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 67,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 46
+      }
+    },
+    {
+      "seed": 204,
+      "distance": 353796.4999999864,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.71140718460083,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2266,
+        "DECELERATE": 278,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 528
+      }
+    },
+    {
+      "seed": 205,
+      "distance": 79379.7999999999,
+      "steps": 1817,
+      "crashed": true,
+      "time": 1.8112516403198242,
+      "action_counts": {
+        "NOTHING": 3,
+        "ACCELERATE": 757,
+        "DECELERATE": 13,
+        "STEER_LEFT": 516,
+        "STEER_RIGHT": 528
+      }
+    },
+    {
+      "seed": 206,
+      "distance": 432634.19999998686,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.7613818645477295,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2551,
+        "DECELERATE": 89,
+        "STEER_LEFT": 480,
+        "STEER_RIGHT": 480
+      }
+    },
+    {
+      "seed": 207,
+      "distance": 461660.9999999885,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.8588931560516357,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2256,
+        "DECELERATE": 96,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 624
+      }
+    },
+    {
+      "seed": 208,
+      "distance": 293134.999999999,
+      "steps": 3416,
+      "crashed": true,
+      "time": 3.3748252391815186,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1548,
+        "DECELERATE": 53,
+        "STEER_LEFT": 912,
+        "STEER_RIGHT": 903
+      }
+    },
+    {
+      "seed": 209,
+      "distance": 413428.7999999875,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.6466712951660156,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2069,
+        "DECELERATE": 88,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 723
+      }
+    },
+    {
+      "seed": 210,
+      "distance": 31865.60000000013,
+      "steps": 790,
+      "crashed": true,
+      "time": 0.7816169261932373,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 506,
+        "DECELERATE": 6,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 134
+      }
+    },
+    {
+      "seed": 211,
+      "distance": 57539.90000000001,
+      "steps": 1093,
+      "crashed": true,
+      "time": 1.0747935771942139,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 823,
+        "DECELERATE": 6,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 120
+      }
+    },
+    {
+      "seed": 212,
+      "distance": 44297.60000000023,
+      "steps": 996,
+      "crashed": true,
+      "time": 1.0225708484649658,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 746,
+        "DECELERATE": 6,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 100
+      }
+    },
+    {
+      "seed": 213,
+      "distance": 255912.19999998983,
+      "steps": 2850,
+      "crashed": true,
+      "time": 2.759028673171997,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1433,
+        "DECELERATE": 24,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 673
+      }
+    },
+    {
+      "seed": 214,
+      "distance": 25680.500000000073,
+      "steps": 786,
+      "crashed": true,
+      "time": 0.7901046276092529,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 476,
+        "DECELERATE": 38,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 128
+      }
+    },
+    {
+      "seed": 215,
+      "distance": 368170.8999999918,
+      "steps": 3334,
+      "crashed": true,
+      "time": 3.300569772720337,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1848,
+        "DECELERATE": 46,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 720
+      }
+    },
+    {
+      "seed": 216,
+      "distance": 16730.00000000012,
+      "steps": 496,
+      "crashed": true,
+      "time": 0.48929595947265625,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 394,
+        "DECELERATE": 3,
+        "STEER_LEFT": 51,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 217,
+      "distance": 114830.7000000015,
+      "steps": 2008,
+      "crashed": true,
+      "time": 1.9951074123382568,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 964,
+        "DECELERATE": 202,
+        "STEER_LEFT": 432,
+        "STEER_RIGHT": 410
+      }
+    },
+    {
+      "seed": 218,
+      "distance": 12749.300000000027,
+      "steps": 420,
+      "crashed": true,
+      "time": 0.4284861087799072,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 347,
+        "DECELERATE": 3,
+        "STEER_LEFT": 22,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 219,
+      "distance": 144761.50000000064,
+      "steps": 2317,
+      "crashed": true,
+      "time": 2.3083150386810303,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 1220,
+        "DECELERATE": 54,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 513
+      }
+    },
+    {
+      "seed": 220,
+      "distance": 110508.00000000089,
+      "steps": 2650,
+      "crashed": true,
+      "time": 2.8053524494171143,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 1319,
+        "DECELERATE": 705,
+        "STEER_LEFT": 336,
+        "STEER_RIGHT": 288
+      }
+    },
+    {
+      "seed": 221,
+      "distance": 437862.8999999855,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.73681902885437,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2178,
+        "DECELERATE": 24,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 678
+      }
+    },
+    {
+      "seed": 222,
+      "distance": 453718.4999999749,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.6593306064605713,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2134,
+        "DECELERATE": 24,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 722
+      }
+    },
+    {
+      "seed": 223,
+      "distance": 436568.2999999918,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.6784768104553223,
+      "action_counts": {
+        "NOTHING": 6,
+        "ACCELERATE": 1989,
+        "DECELERATE": 165,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 720
+      }
+    },
+    {
+      "seed": 224,
+      "distance": 371583.9999999885,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.560030460357666,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2045,
+        "DECELERATE": 27,
+        "STEER_LEFT": 764,
+        "STEER_RIGHT": 764
+      }
+    },
+    {
+      "seed": 225,
+      "distance": 80433.89999999966,
+      "steps": 1260,
+      "crashed": true,
+      "time": 1.3000457286834717,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1008,
+        "DECELERATE": 6,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 102
+      }
+    },
+    {
+      "seed": 226,
+      "distance": 2778.400000000007,
+      "steps": 186,
+      "crashed": true,
+      "time": 0.1761322021484375,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 62,
+        "DECELERATE": 7,
+        "STEER_LEFT": 67,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 227,
+      "distance": 5518.300000000019,
+      "steps": 285,
+      "crashed": true,
+      "time": 0.29894351959228516,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 134,
+        "DECELERATE": 55,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 228,
+      "distance": 362689.19999998884,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.549665689468384,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1746,
+        "DECELERATE": 30,
+        "STEER_LEFT": 912,
+        "STEER_RIGHT": 912
+      }
+    },
+    {
+      "seed": 229,
+      "distance": 138780.1999999982,
+      "steps": 1859,
+      "crashed": true,
+      "time": 1.8592960834503174,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1188,
+        "DECELERATE": 12,
+        "STEER_LEFT": 336,
+        "STEER_RIGHT": 323
+      }
+    },
+    {
+      "seed": 230,
+      "distance": 53528.50000000006,
+      "steps": 1032,
+      "crashed": true,
+      "time": 1.028414011001587,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 745,
+        "DECELERATE": 34,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 109
+      }
+    },
+    {
+      "seed": 231,
+      "distance": 15520.80000000011,
+      "steps": 639,
+      "crashed": true,
+      "time": 0.627495288848877,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 213,
+        "DECELERATE": 42,
+        "STEER_LEFT": 192,
+        "STEER_RIGHT": 192
+      }
+    },
+    {
+      "seed": 232,
+      "distance": 2283.5000000000036,
+      "steps": 143,
+      "crashed": true,
+      "time": 0.14589643478393555,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 87,
+        "DECELERATE": 3,
+        "STEER_LEFT": 5,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 233,
+      "distance": 349057.3999999887,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.682321310043335,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2227,
+        "DECELERATE": 413,
+        "STEER_LEFT": 480,
+        "STEER_RIGHT": 480
+      }
+    },
+    {
+      "seed": 234,
+      "distance": 2762.899999999999,
+      "steps": 171,
+      "crashed": true,
+      "time": 0.1715717315673828,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 83,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 37
+      }
+    },
+    {
+      "seed": 235,
+      "distance": 45415.499999999774,
+      "steps": 885,
+      "crashed": true,
+      "time": 0.9252851009368896,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 688,
+        "DECELERATE": 6,
+        "STEER_LEFT": 95,
+        "STEER_RIGHT": 96
+      }
+    },
+    {
+      "seed": 236,
+      "distance": 128900.89999999815,
+      "steps": 2276,
+      "crashed": true,
+      "time": 2.2618207931518555,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 975,
+        "DECELERATE": 24,
+        "STEER_LEFT": 653,
+        "STEER_RIGHT": 624
+      }
+    },
+    {
+      "seed": 237,
+      "distance": 196665.09999999596,
+      "steps": 2688,
+      "crashed": true,
+      "time": 2.6528375148773193,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 1355,
+        "DECELERATE": 83,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 624
+      }
+    },
+    {
+      "seed": 238,
+      "distance": 135995.70000000056,
+      "steps": 2162,
+      "crashed": true,
+      "time": 2.106074333190918,
+      "action_counts": {
+        "NOTHING": 3,
+        "ACCELERATE": 1071,
+        "DECELERATE": 77,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 483
+      }
+    },
+    {
+      "seed": 239,
+      "distance": 382174.9999999969,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.6744139194488525,
+      "action_counts": {
+        "NOTHING": 6,
+        "ACCELERATE": 1951,
+        "DECELERATE": 178,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 745
+      }
+    },
+    {
+      "seed": 240,
+      "distance": 29986.400000000107,
+      "steps": 691,
+      "crashed": true,
+      "time": 0.8588438034057617,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 566,
+        "DECELERATE": 6,
+        "STEER_LEFT": 71,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 241,
+      "distance": 378136.5999999959,
+      "steps": 3554,
+      "crashed": true,
+      "time": 3.6275076866149902,
+      "action_counts": {
+        "NOTHING": 5,
+        "ACCELERATE": 2066,
+        "DECELERATE": 271,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 588
+      }
+    },
+    {
+      "seed": 242,
+      "distance": 253163.79999999722,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.7141895294189453,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1567,
+        "DECELERATE": 513,
+        "STEER_LEFT": 768,
+        "STEER_RIGHT": 752
+      }
+    },
+    {
+      "seed": 243,
+      "distance": 71070.90000000036,
+      "steps": 1454,
+      "crashed": true,
+      "time": 1.5169377326965332,
+      "action_counts": {
+        "NOTHING": 39,
+        "ACCELERATE": 754,
+        "DECELERATE": 181,
+        "STEER_LEFT": 240,
+        "STEER_RIGHT": 240
+      }
+    },
+    {
+      "seed": 244,
+      "distance": 266107.3999999954,
+      "steps": 3022,
+      "crashed": true,
+      "time": 2.982126235961914,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1501,
+        "DECELERATE": 27,
+        "STEER_LEFT": 768,
+        "STEER_RIGHT": 726
+      }
+    },
+    {
+      "seed": 245,
+      "distance": 11514.900000000012,
+      "steps": 399,
+      "crashed": true,
+      "time": 0.40171194076538086,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 307,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 41
+      }
+    },
+    {
+      "seed": 246,
+      "distance": 91197.60000000006,
+      "steps": 3600,
+      "crashed": false,
+      "time": 4.103412866592407,
+      "action_counts": {
+        "NOTHING": 158,
+        "ACCELERATE": 1694,
+        "DECELERATE": 1078,
+        "STEER_LEFT": 334,
+        "STEER_RIGHT": 336
+      }
+    },
+    {
+      "seed": 247,
+      "distance": 12574.100000000079,
+      "steps": 425,
+      "crashed": true,
+      "time": 0.4298379421234131,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 309,
+        "DECELERATE": 20,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 248,
+      "distance": 41980.50000000012,
+      "steps": 1062,
+      "crashed": true,
+      "time": 1.0481643676757812,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 585,
+        "DECELERATE": 33,
+        "STEER_LEFT": 240,
+        "STEER_RIGHT": 204
+      }
+    },
+    {
+      "seed": 249,
+      "distance": 41026.400000000576,
+      "steps": 911,
+      "crashed": true,
+      "time": 0.9603240489959717,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 654,
+        "DECELERATE": 6,
+        "STEER_LEFT": 107,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 250,
+      "distance": 404521.19999999204,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.587867259979248,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2105,
+        "DECELERATE": 151,
+        "STEER_LEFT": 672,
+        "STEER_RIGHT": 672
+      }
+    },
+    {
+      "seed": 251,
+      "distance": 33952.30000000047,
+      "steps": 875,
+      "crashed": true,
+      "time": 0.8857502937316895,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 532,
+        "DECELERATE": 9,
+        "STEER_LEFT": 190,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 252,
+      "distance": 62629.09999999985,
+      "steps": 1591,
+      "crashed": true,
+      "time": 1.6028189659118652,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 700,
+        "DECELERATE": 197,
+        "STEER_LEFT": 358,
+        "STEER_RIGHT": 336
+      }
+    },
+    {
+      "seed": 253,
+      "distance": 429867.7999999922,
+      "steps": 3274,
+      "crashed": true,
+      "time": 3.3169803619384766,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2194,
+        "DECELERATE": 42,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 510
+      }
+    },
+    {
+      "seed": 254,
+      "distance": 154958.60000000003,
+      "steps": 3060,
+      "crashed": true,
+      "time": 3.1027748584747314,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1475,
+        "DECELERATE": 369,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 592
+      }
+    },
+    {
+      "seed": 255,
+      "distance": 333788.59999999567,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.5312952995300293,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1674,
+        "DECELERATE": 198,
+        "STEER_LEFT": 864,
+        "STEER_RIGHT": 864
+      }
+    },
+    {
+      "seed": 256,
+      "distance": 118315.29999999983,
+      "steps": 1880,
+      "crashed": true,
+      "time": 1.8946795463562012,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1147,
+        "DECELERATE": 72,
+        "STEER_LEFT": 325,
+        "STEER_RIGHT": 336
+      }
+    },
+    {
+      "seed": 257,
+      "distance": 460820.8999999833,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.6213557720184326,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2267,
+        "DECELERATE": 228,
+        "STEER_LEFT": 529,
+        "STEER_RIGHT": 576
+      }
+    },
+    {
+      "seed": 258,
+      "distance": 307406.7999999922,
+      "steps": 3097,
+      "crashed": true,
+      "time": 3.1082592010498047,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1791,
+        "DECELERATE": 68,
+        "STEER_LEFT": 624,
+        "STEER_RIGHT": 614
+      }
+    },
+    {
+      "seed": 259,
+      "distance": 24517.40000000006,
+      "steps": 617,
+      "crashed": true,
+      "time": 0.6295089721679688,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 501,
+        "DECELERATE": 6,
+        "STEER_LEFT": 62,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 260,
+      "distance": 413458.8999999843,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.5201094150543213,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2448,
+        "DECELERATE": 146,
+        "STEER_LEFT": 526,
+        "STEER_RIGHT": 480
+      }
+    },
+    {
+      "seed": 261,
+      "distance": 3179.4000000000065,
+      "steps": 195,
+      "crashed": true,
+      "time": 0.18874073028564453,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 82,
+        "DECELERATE": 6,
+        "STEER_LEFT": 59,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 262,
+      "distance": 2828.7000000000075,
+      "steps": 186,
+      "crashed": true,
+      "time": 0.19489026069641113,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 67,
+        "DECELERATE": 23,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 263,
+      "distance": 306086.7000000002,
+      "steps": 3424,
+      "crashed": true,
+      "time": 3.3110435009002686,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1746,
+        "DECELERATE": 249,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 709
+      }
+    },
+    {
+      "seed": 264,
+      "distance": 5589.900000000003,
+      "steps": 258,
+      "crashed": true,
+      "time": 0.26992321014404297,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 180,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 27
+      }
+    },
+    {
+      "seed": 265,
+      "distance": 36450.600000000544,
+      "steps": 828,
+      "crashed": true,
+      "time": 0.8131163120269775,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 574,
+        "DECELERATE": 6,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 104
+      }
+    },
+    {
+      "seed": 266,
+      "distance": 28969.800000000396,
+      "steps": 685,
+      "crashed": true,
+      "time": 0.6869325637817383,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 524,
+        "DECELERATE": 7,
+        "STEER_LEFT": 56,
+        "STEER_RIGHT": 96
+      }
+    },
+    {
+      "seed": 267,
+      "distance": 155234.79999999804,
+      "steps": 2309,
+      "crashed": true,
+      "time": 2.4904708862304688,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1078,
+        "DECELERATE": 170,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 533
+      }
+    },
+    {
+      "seed": 268,
+      "distance": 199739.60000000204,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.3318662643432617,
+      "action_counts": {
+        "NOTHING": 22,
+        "ACCELERATE": 1486,
+        "DECELERATE": 529,
+        "STEER_LEFT": 795,
+        "STEER_RIGHT": 768
+      }
+    },
+    {
+      "seed": 269,
+      "distance": 15056.700000000093,
+      "steps": 580,
+      "crashed": true,
+      "time": 0.5725064277648926,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 266,
+        "DECELERATE": 61,
+        "STEER_LEFT": 144,
+        "STEER_RIGHT": 109
+      }
+    },
+    {
+      "seed": 270,
+      "distance": 251373.89999999438,
+      "steps": 2722,
+      "crashed": true,
+      "time": 2.713829517364502,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1633,
+        "DECELERATE": 26,
+        "STEER_LEFT": 535,
+        "STEER_RIGHT": 528
+      }
+    },
+    {
+      "seed": 271,
+      "distance": 324676.59999999823,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.1757662296295166,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1998,
+        "DECELERATE": 249,
+        "STEER_LEFT": 672,
+        "STEER_RIGHT": 681
+      }
+    },
+    {
+      "seed": 272,
+      "distance": 2140.099999999993,
+      "steps": 147,
+      "crashed": true,
+      "time": 0.1493380069732666,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 59,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 37
+      }
+    },
+    {
+      "seed": 273,
+      "distance": 260153.40000000037,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.3666181564331055,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1813,
+        "DECELERATE": 731,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 528
+      }
+    },
+    {
+      "seed": 274,
+      "distance": 447743.9999999775,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.1688246726989746,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2223,
+        "DECELERATE": 33,
+        "STEER_LEFT": 672,
+        "STEER_RIGHT": 672
+      }
+    },
+    {
+      "seed": 275,
+      "distance": 2317.2,
+      "steps": 147,
+      "crashed": true,
+      "time": 0.14484333992004395,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 81,
+        "DECELERATE": 3,
+        "STEER_LEFT": 15,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 276,
+      "distance": 247575.99999999785,
+      "steps": 3600,
+      "crashed": false,
+      "time": 3.1766910552978516,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1966,
+        "DECELERATE": 578,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 528
+      }
+    },
+    {
+      "seed": 277,
+      "distance": 295303.2999999965,
+      "steps": 3140,
+      "crashed": true,
+      "time": 2.7700273990631104,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1840,
+        "DECELERATE": 43,
+        "STEER_LEFT": 633,
+        "STEER_RIGHT": 624
+      }
+    },
+    {
+      "seed": 278,
+      "distance": 194029.59999999648,
+      "steps": 2367,
+      "crashed": true,
+      "time": 2.3730525970458984,
+      "action_counts": {
+        "NOTHING": 3,
+        "ACCELERATE": 1323,
+        "DECELERATE": 16,
+        "STEER_LEFT": 528,
+        "STEER_RIGHT": 497
+      }
+    },
+    {
+      "seed": 279,
+      "distance": 3725.300000000022,
+      "steps": 205,
+      "crashed": true,
+      "time": 0.20223331451416016,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 115,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 39
+      }
+    },
+    {
+      "seed": 280,
+      "distance": 186007.09999999974,
+      "steps": 3198,
+      "crashed": true,
+      "time": 2.701409101486206,
+      "action_counts": {
+        "NOTHING": 5,
+        "ACCELERATE": 1526,
+        "DECELERATE": 221,
+        "STEER_LEFT": 726,
+        "STEER_RIGHT": 720
+      }
+    },
+    {
+      "seed": 281,
+      "distance": 94694.39999999934,
+      "steps": 1644,
+      "crashed": true,
+      "time": 1.724644660949707,
+      "action_counts": {
+        "NOTHING": 3,
+        "ACCELERATE": 997,
+        "DECELERATE": 21,
+        "STEER_LEFT": 288,
+        "STEER_RIGHT": 335
+      }
+    },
+    {
+      "seed": 282,
+      "distance": 323091.39999999956,
+      "steps": 3600,
+      "crashed": false,
+      "time": 2.8174142837524414,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1707,
+        "DECELERATE": 69,
+        "STEER_LEFT": 912,
+        "STEER_RIGHT": 912
+      }
+    },
+    {
+      "seed": 283,
+      "distance": 16420.300000000054,
+      "steps": 866,
+      "crashed": true,
+      "time": 0.9102694988250732,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 390,
+        "DECELERATE": 218,
+        "STEER_LEFT": 112,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 284,
+      "distance": 146529.50000000125,
+      "steps": 2043,
+      "crashed": true,
+      "time": 1.935197353363037,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1166,
+        "DECELERATE": 15,
+        "STEER_LEFT": 432,
+        "STEER_RIGHT": 430
+      }
+    },
+    {
+      "seed": 285,
+      "distance": 205672.8999999949,
+      "steps": 2635,
+      "crashed": true,
+      "time": 2.3729348182678223,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1630,
+        "DECELERATE": 172,
+        "STEER_LEFT": 405,
+        "STEER_RIGHT": 428
+      }
+    },
+    {
+      "seed": 286,
+      "distance": 410596.19999999343,
+      "steps": 3600,
+      "crashed": false,
+      "time": 2.823634624481201,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2149,
+        "DECELERATE": 24,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 707
+      }
+    },
+    {
+      "seed": 287,
+      "distance": 308844.1999999969,
+      "steps": 3275,
+      "crashed": true,
+      "time": 2.626133918762207,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1540,
+        "DECELERATE": 295,
+        "STEER_LEFT": 720,
+        "STEER_RIGHT": 720
+      }
+    },
+    {
+      "seed": 288,
+      "distance": 138155.89999999857,
+      "steps": 1918,
+      "crashed": true,
+      "time": 1.7158076763153076,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1208,
+        "DECELERATE": 15,
+        "STEER_LEFT": 336,
+        "STEER_RIGHT": 359
+      }
+    },
+    {
+      "seed": 289,
+      "distance": 72391.70000000022,
+      "steps": 1406,
+      "crashed": true,
+      "time": 1.414940595626831,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 779,
+        "DECELERATE": 51,
+        "STEER_LEFT": 288,
+        "STEER_RIGHT": 288
+      }
+    },
+    {
+      "seed": 290,
+      "distance": 4722.800000000011,
+      "steps": 230,
+      "crashed": true,
+      "time": 0.23025798797607422,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 165,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 14
+      }
+    },
+    {
+      "seed": 291,
+      "distance": 67154.4000000002,
+      "steps": 1167,
+      "crashed": true,
+      "time": 1.0782556533813477,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 910,
+        "DECELERATE": 6,
+        "STEER_LEFT": 107,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 292,
+      "distance": 417737.09999998496,
+      "steps": 3343,
+      "crashed": true,
+      "time": 2.2048113346099854,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 2197,
+        "DECELERATE": 41,
+        "STEER_LEFT": 576,
+        "STEER_RIGHT": 529
+      }
+    },
+    {
+      "seed": 293,
+      "distance": 52512.80000000045,
+      "steps": 1041,
+      "crashed": true,
+      "time": 0.9330005645751953,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 731,
+        "DECELERATE": 9,
+        "STEER_LEFT": 157,
+        "STEER_RIGHT": 144
+      }
+    },
+    {
+      "seed": 294,
+      "distance": 103121.80000000028,
+      "steps": 1541,
+      "crashed": true,
+      "time": 1.3058686256408691,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1056,
+        "DECELERATE": 16,
+        "STEER_LEFT": 236,
+        "STEER_RIGHT": 233
+      }
+    },
+    {
+      "seed": 295,
+      "distance": 38363.99999999987,
+      "steps": 1068,
+      "crashed": true,
+      "time": 0.8913242816925049,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 494,
+        "DECELERATE": 114,
+        "STEER_LEFT": 240,
+        "STEER_RIGHT": 218
+      }
+    },
+    {
+      "seed": 296,
+      "distance": 375136.99999998545,
+      "steps": 3600,
+      "crashed": false,
+      "time": 2.049983501434326,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 1958,
+        "DECELERATE": 27,
+        "STEER_LEFT": 816,
+        "STEER_RIGHT": 799
+      }
+    },
+    {
+      "seed": 297,
+      "distance": 3044.799999999997,
+      "steps": 190,
+      "crashed": true,
+      "time": 0.1366415023803711,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 78,
+        "DECELERATE": 6,
+        "STEER_LEFT": 58,
+        "STEER_RIGHT": 48
+      }
+    },
+    {
+      "seed": 298,
+      "distance": 354745.8999999871,
+      "steps": 3600,
+      "crashed": false,
+      "time": 1.9953515529632568,
+      "action_counts": {
+        "NOTHING": 2,
+        "ACCELERATE": 1770,
+        "DECELERATE": 100,
+        "STEER_LEFT": 864,
+        "STEER_RIGHT": 864
+      }
+    },
+    {
+      "seed": 299,
+      "distance": 2027.6000000000038,
+      "steps": 132,
+      "crashed": true,
+      "time": 0.13134765625,
+      "action_counts": {
+        "NOTHING": 0,
+        "ACCELERATE": 77,
+        "DECELERATE": 3,
+        "STEER_LEFT": 48,
+        "STEER_RIGHT": 4
+      }
+    }
+  ]
+}

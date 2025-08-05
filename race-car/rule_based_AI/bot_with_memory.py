@@ -54,6 +54,11 @@ class LaneChangeController:
         # Steering duration for lane changes
         self.steer_duration = 48
 
+        # Speed matching parameters
+        self.speed_match_threshold = 8.0  # Consider speeds matched if distance change is within this
+        self.min_safe_distance = 250  # Minimum safe following distance
+        self.speed_match_attempts = 3  # Number of attempts to match speed before lane change
+
         # Initialize database
         self._init_database()
 
@@ -75,6 +80,7 @@ class LaneChangeController:
                 id INTEGER PRIMARY KEY,
                 current_lane INTEGER NOT NULL DEFAULT 2,
                 last_action TEXT,
+                speed_match_attempts INTEGER DEFAULT 0,
                 timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
             )
         """)
@@ -86,6 +92,7 @@ class LaneChangeController:
                 sensors_json TEXT NOT NULL,
                 velocity_json TEXT NOT NULL,
                 action_taken TEXT,
+                front_distance REAL,
                 timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
             )
         """)
@@ -94,8 +101,8 @@ class LaneChangeController:
         cursor.execute("SELECT COUNT(*) FROM vehicle_state")
         if cursor.fetchone()[0] == 0:
             cursor.execute(
-                "INSERT INTO vehicle_state (current_lane) VALUES (?)",
-                (self.center_lane,),
+                "INSERT INTO vehicle_state (current_lane, speed_match_attempts) VALUES (?, ?)",
+                (self.center_lane, 0),
             )
 
         self.conn.commit()
@@ -110,23 +117,54 @@ class LaneChangeController:
             result = cursor.fetchone()
             return result[0] if result else self.center_lane
 
-    def update_lane(self, new_lane: int, action: str):
-        """Update the current lane in database."""
+    def get_speed_match_attempts(self) -> int:
+        """Get the current speed match attempts count."""
         with self.db_lock:
             cursor = self.conn.cursor()
             cursor.execute(
-                "UPDATE vehicle_state SET current_lane = ?, last_action = ?, timestamp = ? WHERE id = 1",
+                "SELECT speed_match_attempts FROM vehicle_state ORDER BY id DESC LIMIT 1"
+            )
+            result = cursor.fetchone()
+            return result[0] if result else 0
+
+    def update_lane(self, new_lane: int, action: str):
+        """Update the current lane in database and reset speed match attempts."""
+        with self.db_lock:
+            cursor = self.conn.cursor()
+            cursor.execute(
+                "UPDATE vehicle_state SET current_lane = ?, last_action = ?, speed_match_attempts = 0, timestamp = ? WHERE id = 1",
                 (new_lane, action, datetime.now()),
+            )
+            self.conn.commit()
+
+    def increment_speed_match_attempts(self):
+        """Increment the speed match attempts counter."""
+        with self.db_lock:
+            cursor = self.conn.cursor()
+            cursor.execute(
+                "UPDATE vehicle_state SET speed_match_attempts = speed_match_attempts + 1, timestamp = ? WHERE id = 1",
+                (datetime.now(),)
+            )
+            self.conn.commit()
+
+    def reset_speed_match_attempts(self):
+        """Reset the speed match attempts counter."""
+        with self.db_lock:
+            cursor = self.conn.cursor()
+            cursor.execute(
+                "UPDATE vehicle_state SET speed_match_attempts = 0, timestamp = ? WHERE id = 1",
+                (datetime.now(),)
             )
             self.conn.commit()
 
     def save_sensor_reading(self, sensors: Dict, velocity: Dict, action: str):
         """Save sensor reading to history."""
+        front_distance = self.get_front_sensor(sensors)
         with self.db_lock:
             cursor = self.conn.cursor()
             cursor.execute(
-                "INSERT INTO sensor_history (sensors_json, velocity_json, action_taken) VALUES (?, ?, ?)",
-                (json.dumps(sensors), json.dumps(velocity), action),
+                "INSERT INTO sensor_history (sensors_json, velocity_json, action_taken, front_distance) VALUES (?, ?, ?, ?)",
+                (json.dumps(sensors), json.dumps(velocity), action, front_distance),
             )
             self.conn.commit()
 
@@ -196,19 +234,44 @@ class LaneChangeController:
         value = sensors.get("back") or sensors.get("sensor_4") or sensors.get("4")
         return 1000.0 if value is None else value
 
-    def get_previous_front_distance(self) -> float:
-        """Get the previous front sensor distance from database."""
+    def get_recent_front_distances(self, count: int = 3) -> List[float]:
+        """Get the last N front sensor distances from database."""
         with self.db_lock:
             cursor = self.conn.cursor()
             cursor.execute("""
-                SELECT sensors_json FROM sensor_history 
-                ORDER BY timestamp DESC LIMIT 1
-            """)
-            result = cursor.fetchone()
-            if result:
-                sensors = json.loads(result[0])
-                return self.get_front_sensor(sensors)
-            return 1000.0
+                SELECT front_distance FROM sensor_history 
+                ORDER BY timestamp DESC LIMIT ?
+            """, (count,))
+            results = cursor.fetchall()
+            return [row[0] for row in results] if results else []
+
+    def is_speed_matched(self, current_front_distance: float) -> Tuple[bool, float, str]:
+        """
+        Check if our speed is matched with the car in front.
+        
+        Returns:
+            Tuple of (is_matched, distance_change, recommended_action)
+        """
+        recent_distances = self.get_recent_front_distances(2)
+        
+        if len(recent_distances) < 2:
+            return False, 0.0, "NOTHING"  # Not enough data
+        
+        # Calculate distance change (positive = gap increasing, negative = gap decreasing)
+        distance_change = current_front_distance - recent_distances[1]
+        
+        if self.verbose:
+            print(f"  📊 Distance change: {distance_change:.1f} (current: {current_front_distance:.1f}, previous: {recent_distances[1]:.1f})")
+        
+        # Check if speeds are matched
+        if abs(distance_change) <= self.speed_match_threshold:
+            return True, distance_change, "NOTHING"
+        elif distance_change > self.speed_match_threshold:
+            # Gap is increasing - car in front is faster or moving away
+            return False, distance_change, "ACCELERATE"
+        else:
+            # Gap is decreasing - car in front is slower
+            return False, distance_change, "DECELERATE"
 
     def calculate_speed_adjustment(
         self, current_front_distance: float, previous_front_distance: float
@@ -235,9 +298,43 @@ class LaneChangeController:
         else:
             return "NOTHING"
 
+    def should_attempt_lane_change(self, front_distance: float) -> bool:
+        """
+        Determine if we should attempt a lane change based on current conditions.
+        
+        Args:
+            front_distance: Distance to car in front
+            
+        Returns:
+            True if lane change should be attempted
+        """
+        attempts = self.get_speed_match_attempts()
+        
+        # Always attempt lane change if:
+        # 1. Distance is critically low (emergency)
+        # 2. We've tried speed matching enough times
+        # 3. Distance is very far (no need to match speed)
+        
+        if front_distance < self.min_safe_distance:
+            if self.verbose:
+                print(f"  🚨 Emergency lane change needed - distance too low: {front_distance:.1f}")
+            return True
+        
+        if front_distance > 950:
+            if self.verbose:
+                print(f"  🚗 No car ahead - no need for speed matching")
+            return True
+            
+        if attempts >= self.speed_match_attempts:
+            if self.verbose:
+                print(f"  ⏰ Speed matching attempts exhausted ({attempts}/{self.speed_match_attempts}) - attempting lane change")
+            return True
+            
+        return False
+
     def predict_actions(self, request_data: dict) -> List[str]:
         """
-        Predict actions based on sensor data with safety checks.
+        Predict actions based on sensor data with speed matching priority.
 
         Args:
             request_data: Dictionary containing sensors, velocity, and crash status
@@ -266,45 +363,41 @@ class LaneChangeController:
         if self.verbose:
             print(f"\n🚗 Current lane: {current_lane}")
             print(f"📡 Front: {front_sensor:.1f}, Back: {back_sensor:.1f}")
-            # Print all sensor values for debugging
-            print("📊 All sensors:")
-            for sensor_name, value in sensors.items():
-                print(f"   {sensor_name}: {value}")
+            print(f"🔄 Speed match attempts: {self.get_speed_match_attempts()}/{self.speed_match_attempts}")
 
-        # Check for front obstacle
+        # Check for front obstacle - PRIORITY: Speed matching first
         if front_sensor < 950:  # Obstacle ahead
             if self.verbose:
                 print(f"🚦 Obstacle ahead at {front_sensor:.1f}")
 
-            # For close obstacles (under 570), check velocity matching first
-            if front_sensor < 570:
-                previous_front_distance = self.get_previous_front_distance()
-                distance_change = front_sensor - previous_front_distance
-
-                # If velocities are roughly matching (distance change is small), allow lane changes
-                if abs(distance_change) <= 5:  # Velocities are close enough
+            # Check if we should attempt lane change or try speed matching first
+            should_change_lanes = self.should_attempt_lane_change(front_sensor)
+            
+            if not should_change_lanes:
+                # Try to match speed with car in front
+                is_matched, distance_change, speed_action = self.is_speed_matched(front_sensor)
+                
+                if is_matched:
                     if self.verbose:
-                        print(
-                            f"  🚗 Velocities matching (change: {distance_change:.1f}), checking lanes"
-                        )
-
-                    # Check both directions for safety
-                    left_safe, left_reason = self.check_lane_safety(sensors, "left")
-                    right_safe, right_reason = self.check_lane_safety(sensors, "right")
+                        print("  ✅ Speed matched with front car")
+                    self.reset_speed_match_attempts()
+                    return ["NOTHING"]
                 else:
-                    # Velocities don't match, just adjust speed
-                    speed_action = self.calculate_speed_adjustment(
-                        front_sensor, previous_front_distance
-                    )
                     if self.verbose:
-                        print(
-                            f"  🚗 Velocities not matching (change: {distance_change:.1f}), adjusting speed: {speed_action}"
-                        )
+                        print(f"  🎯 Attempting to match speed: {speed_action}")
+                    self.increment_speed_match_attempts()
                     return [speed_action]
-            else:
-                # For farther obstacles, check lanes normally
-                left_safe, left_reason = self.check_lane_safety(sensors, "left")
-                right_safe, right_reason = self.check_lane_safety(sensors, "right")
+            
+            # If we reach here, we should attempt lane changes
+            if self.verbose:
+                print("  🔄 Attempting lane change...")
+            
+            # Reset speed match attempts when starting lane change attempt
+            self.reset_speed_match_attempts()
+
+            # Check both directions for safety
+            left_safe, left_reason = self.check_lane_safety(sensors, "left")
+            right_safe, right_reason = self.check_lane_safety(sensors, "right")
 
             if self.verbose:
                 print(f"  Left lane: {'✅' if left_safe else '❌'} {left_reason}")
@@ -312,17 +405,11 @@ class LaneChangeController:
 
             # Decision logic
             if not left_safe and not right_safe:
-                # Both blocked - match speed of car in front instead of hard braking
-                previous_front_distance = self.get_previous_front_distance()
-                speed_action = self.calculate_speed_adjustment(
-                    front_sensor, previous_front_distance
-                )
-
+                # Both blocked - continue trying to match speed of car in front
+                is_matched, distance_change, speed_action = self.is_speed_matched(front_sensor)
+                
                 if self.verbose:
-                    print(f"  🚗 Both lanes blocked - matching front car speed")
-                    print(
-                        f"  📊 Distance change: {front_sensor - previous_front_distance:.1f}"
-                    )
+                    print(f"  🚗 Both lanes blocked - continuing speed matching")
                     print(f"  🎮 Speed action: {speed_action}")
 
                 return [speed_action]
@@ -431,6 +518,9 @@ class LaneChangeController:
 
         # No immediate threats - maintain speed or move to center if safe
         else:
+            # Reset speed match attempts when no obstacles
+            self.reset_speed_match_attempts()
+            
             # Check if we should move toward center lane
             if current_lane != self.center_lane:
                 target_direction = (
@@ -457,10 +547,7 @@ class LaneChangeController:
 
             # Maintain speed
             current_speed = abs(velocity.get("x", 10))
-            # if current_speed < 70:
             return ["ACCELERATE"]
-            # else:
-            # return ["NOTHING"]
 
     def close(self):
         """Close database connection."""
