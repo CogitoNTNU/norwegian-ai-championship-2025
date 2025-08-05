@@ -595,6 +595,26 @@ wheels = [
 ]
 
 [[package]]
+name = "gym"
+version = "0.26.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "cloudpickle" },
+    { name = "gym-notices" },
+    { name = "numpy" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/ab/b1/eb05a423eb801ab7d0715d6a3b28d92589e30b437052553df19ca2087240/gym-0.26.2.tar.gz", hash = "sha256:e0d882f4b54f0c65f203104c24ab8a38b039f1289986803c7d02cdbe214fbcc4", size = 721689 }
+
+[[package]]
+name = "gym-notices"
+version = "0.1.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/a2/4d/035922b950b224ee4b65a9a4550a22eac8985a3f0e1ef42546d9047e7a72/gym_notices-0.1.0.tar.gz", hash = "sha256:9f9477ef68a8c15e42625d4fa53631237e3e6ae947f325b5c149c081499adc1b", size = 3084 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/41/55/55d157aa8693090954fc9639bf27218240517c3bc7afa6e97412da6ebfd9/gym_notices-0.1.0-py3-none-any.whl", hash = "sha256:a943af4446cb619d04fd1e470b9272b4473e08a06d1c7cc9005755a4a0b8c905", size = 3349 },
+]
+
+[[package]]
 name = "gymnasium"
 version = "1.2.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1900,6 +1920,7 @@ source = { editable = "." }
 dependencies = [
     { name = "colorama" },
     { name = "fastapi", extra = ["standard"] },
+    { name = "gym" },
     { name = "gymnasium", extra = ["other"] },
     { name = "loguru" },
     { name = "moviepy" },
@@ -1936,6 +1957,7 @@ docs = [
 requires-dist = [
     { name = "colorama", specifier = ">=0.4.6" },
     { name = "fastapi", extras = ["standard"], specifier = ">=0.116.1" },
+    { name = "gym", specifier = ">=0.26.2" },
     { name = "gymnasium", extras = ["other"], specifier = ">=1.2.0" },
     { name = "loguru", specifier = ">=0.7.3" },
     { name = "moviepy", specifier = ">=2.2.1" },
