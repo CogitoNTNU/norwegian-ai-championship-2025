@@ -17,7 +17,7 @@ class MutationConfig:
 
     def __init__(self):
         # Probability of each mutation type
-        self.add_connection_rate = 0.3
+        self.add_connection_rate = 0.2
         self.add_node_rate = 0.1
         self.weight_mutation_rate = 0.8
         self.bias_mutation_rate = 0.2
@@ -297,9 +297,6 @@ def _connection_exists(network: Network, input_id: int, output_id: int) -> bool:
 if __name__ == "__main__":
     # Test mutations
     print("Testing NEAT mutations...")
-
-    # Set seed for reproducible results
-    set_mutation_seed(42)
 
     # Create a simple network
     network = Network(num_inputs=3, num_outputs=2)

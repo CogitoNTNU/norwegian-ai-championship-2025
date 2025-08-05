@@ -107,7 +107,7 @@ def create_tumor_dataset(
             RandCropByPosNegLabeld(
                 keys=["img", "seg"],
                 label_key="seg",
-                spatial_size=[96, 96],
+                spatial_size=[128, 128],
                 pos=1,
                 neg=1,
                 num_samples=4,

@@ -1,0 +1,1 @@
+In ventricular overdrive pacing during supraventricular tachycardia, a post-pacing interval minus tachycardia cycle length (PPI-TCL) difference of less than 115 milliseconds indicates a higher likelihood of atrioventricular reciprocating tachycardia compared to atrioventricular nodal reentrant tachycardia.

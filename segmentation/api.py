@@ -3,7 +3,8 @@ import uvicorn
 import datetime
 from fastapi import FastAPI
 from dtos import TumorPredictRequestDto, TumorPredictResponseDto
-from example import predict_tumor_segmentation
+from unet_inference import predict_tumor_segmentation
+
 
 HOST = "0.0.0.0"
 PORT = 9051

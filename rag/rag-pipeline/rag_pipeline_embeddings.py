@@ -1,9 +1,10 @@
 """RAG Pipeline using configurable embedding models."""
 
 from typing import Tuple
+
 from document_store_embeddings import EmbeddingsDocumentStore
 from llm_client import LocalLLMClient
-from retrieval_strategies import DefaultRetrieval, HyDERetrieval, HybridRetrieval
+from retrieval_strategies import DefaultRetrieval, HybridRetrieval, HyDERetrieval
 
 
 class EmbeddingsRAGPipeline:
@@ -15,6 +16,7 @@ class EmbeddingsRAGPipeline:
         llm_model: str = "qwen3:8b",
         top_k_retrieval: int = 5,
         retrieval_strategy: str = "default",
+        device: str = None,
     ):
         """
         Initialize RAG pipeline with specified embedding model.
@@ -24,8 +26,9 @@ class EmbeddingsRAGPipeline:
             llm_model: Local LLM model name
             top_k_retrieval: Number of relevant chunks to retrieve
             retrieval_strategy: Strategy to use for retrieval ("default" or "hyde")
+            device: Device to use for embeddings (cuda/cpu/auto)
         """
-        self.document_store = EmbeddingsDocumentStore(embedding_model)
+        self.document_store = EmbeddingsDocumentStore(embedding_model, device=device)
         self.llm_client = LocalLLMClient(llm_model)
         self.top_k = top_k_retrieval
         self.embedding_model = embedding_model
@@ -54,7 +57,7 @@ class EmbeddingsRAGPipeline:
         # Ensure LLM model is available
         print("Checking LLM availability...")
         self.llm_client.ensure_model_available()
-        print(f"✅ LLM {self.llm_client.model_name} is available")
+        print(f"[OK] LLM {self.llm_client.model_name} is available")
 
         # Load documents (shared across models)
         print("Loading medical documents...")
@@ -147,7 +150,9 @@ class EmbeddingsRAGPipeline:
         # Sort by score and return top topics
         sorted_topics = sorted(
             topic_scores.items(), key=lambda x: x[1]["score"], reverse=True
-        )[:5]  # Top 5 most likely topics
+        )[
+            :5
+        ]  # Top 5 most likely topics
 
         return [(tid, tdata["name"]) for tid, tdata in sorted_topics]
 
@@ -168,8 +173,8 @@ class EmbeddingsRAGPipeline:
         Returns:
             Dictionary with evaluation metrics
         """
-        from pathlib import Path
         import json
+        from pathlib import Path
 
         statements_path = Path(training_statements_dir)
         answers_path = Path(training_answers_dir)

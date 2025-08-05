@@ -3,6 +3,7 @@ import uvicorn
 import datetime
 from fastapi import Body, FastAPI, Request
 from dtos import RaceCarPredictRequestDto, RaceCarPredictResponseDto
+from simple_bot import predict_actions_from_game_bot
 
 HOST = "0.0.0.0"
 PORT = 9052
@@ -28,8 +29,9 @@ async def log_requests(request: Request, call_next):
 
 @app.post("/predict", response_model=RaceCarPredictResponseDto)
 def predict(request: RaceCarPredictRequestDto = Body(...)):
-    # actions = predict_race_car_action(request.dict())
-    actions = ["ACCELERATE"] * 10
+    # Use the game bot logic from core.py
+    actions = predict_actions_from_game_bot(request.model_dump())
+
     return RaceCarPredictResponseDto(actions=actions)
 
 

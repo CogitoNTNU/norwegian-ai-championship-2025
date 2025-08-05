@@ -1,0 +1,1 @@
+The Parkland formula for burn fluid resuscitation calculates 4 mL × patient weight in kg × percentage of total body surface area burned over the first 24 hours.

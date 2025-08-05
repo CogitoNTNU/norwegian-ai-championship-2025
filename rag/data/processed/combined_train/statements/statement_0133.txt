@@ -1,0 +1,1 @@
+The ARDSnet mechanical ventilation protocol allows for PEEP levels up to 24 cm H2O in patients requiring 100% FiO2, and permits sacrificing the inspiratory-to-expiratory time ratio goal by instituting an inverse ratio strategy when necessary to improve oxygenation.

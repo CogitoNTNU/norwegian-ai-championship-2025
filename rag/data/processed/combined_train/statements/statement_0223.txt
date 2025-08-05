@@ -1,0 +1,1 @@
+ARDS mortality rates increase with disease severity: 45% for mild, 32% for moderate, and 27% for severe disease respectively.

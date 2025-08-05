@@ -133,7 +133,8 @@ uv run api    # Start API with auto port cleanup
 - ✅ **Auto port cleanup** - Kills any existing process on port 8000
 - ✅ **Hot reload** - Automatically restarts when code changes
 - ✅ **All dependencies** - Includes FastAPI, NumPy, Loguru, and more
-Test the race car endpoint at `http://localhost:9052/predict`:
+  Test the race car endpoint at `http://localhost:9052/predict`:
+
 ```bash
 curl -X POST http://localhost:9052/predict \
      -H "Content-Type: application/json" \
@@ -152,7 +153,6 @@ curl -X POST http://localhost:9052/predict \
 ```json
 {"actions": ["ACCELERATE"]}
 ```
-
 
 ### Alternative: pip setup
 

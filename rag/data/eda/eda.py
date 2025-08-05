@@ -36,13 +36,22 @@ def load_topics() -> Dict[str, int]:
         return json.load(f)
 
 
-def load_statements_and_answers() -> Tuple[List[str], List[Dict[str, Any]]]:
-    """Load all training statements and their corresponding answers"""
+def get_dataset_dirs(ds: str):
+    if ds == "raw":
+        base = DATA_DIR / "raw" / "train"
+    elif ds == "combined":
+        base = DATA_DIR / "processed" / "combined_train"
+    else:
+        raise ValueError("dataset must be 'raw' or 'combined'")
+    return base / "statements", base / "answers"
+
+
+def load_statements_and_answers(dataset: str) -> Tuple[List[str], List[Dict[str, Any]]]:
+    """Load all training statements and their corresponding answers for specified dataset"""
     statements = []
     answers = []
 
-    statements_dir = RAW_DIR / "train" / "statements"
-    answers_dir = RAW_DIR / "train" / "answers"
+    statements_dir, answers_dir = get_dataset_dirs(dataset)
 
     # Get all statement files and sort them numerically
     statement_files = sorted(
@@ -338,6 +347,7 @@ def create_visualizations(
     stats: Dict[str, Any],
     topic_stats: Dict[str, Any],
     topic_gaps: Dict[str, List[Dict[str, Any]]],
+    dataset: str = "raw",
 ) -> List[str]:
     """Create visualization plots and save them"""
     plt.style.use("default")
@@ -348,7 +358,7 @@ def create_visualizations(
     fig_dir.mkdir(exist_ok=True)
 
     # Load data once for all visualizations
-    statements, answers = load_statements_and_answers()
+    statements, answers = load_statements_and_answers(dataset)
     topics = load_topics()
     id_to_topic = {v: k for k, v in topics.items()}
     topic_counts = Counter(answer["statement_topic"] for answer in answers)
@@ -772,11 +782,25 @@ Full CSV at data/eda/topic_needs.csv
 
 def main():
     """Main EDA execution function"""
-    print(" Starting Emergency Healthcare RAG EDA...")
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Run EDA script")
+    parser.add_argument(
+        "--dataset",
+        type=str,
+        default="raw",
+        choices=["raw", "combined"],
+        help="Dataset to analyze (default: raw)",
+    )
+    args = parser.parse_args()
+
+    dataset = args.dataset
+
+    print(f" Starting Emergency Healthcare RAG EDA on {dataset} dataset...")
 
     # Load data
     topics = load_topics()
-    statements, answers = load_statements_and_answers()
+    statements, answers = load_statements_and_answers(dataset)
 
     # Perform analyses
     basic_stats = analyze_basic_stats(statements, answers)
@@ -809,11 +833,19 @@ def main():
     print(f"Generation needs analysis saved to: {needs_csv_path}")
 
     try:
-        plot_paths = create_visualizations(basic_stats, topic_stats, topic_gaps)
+        plot_paths = create_visualizations(
+            basic_stats, topic_stats, topic_gaps, dataset
+        )
         print(f" Created {len(plot_paths)} visualizations")
     except Exception as e:
         print(f"Warning: Could not create visualizations: {e}")
         plot_paths = []
+
+    # Determine report filename based on dataset
+    if dataset == "combined":
+        report_filename = "combined_eda_report.md"
+    else:
+        report_filename = "eda_report.md"
 
     report = generate_markdown_report(
         basic_stats,
@@ -826,7 +858,7 @@ def main():
     )
 
     # Save report
-    report_path = PROCESSED_DIR / "eda_report.md"
+    report_path = PROCESSED_DIR / report_filename
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(report)
 
