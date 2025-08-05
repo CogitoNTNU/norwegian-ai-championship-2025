@@ -150,9 +150,7 @@ class EmbeddingsRAGPipeline:
         # Sort by score and return top topics
         sorted_topics = sorted(
             topic_scores.items(), key=lambda x: x[1]["score"], reverse=True
-        )[
-            :5
-        ]  # Top 5 most likely topics
+        )[:5]  # Top 5 most likely topics
 
         return [(tid, tdata["name"]) for tid, tdata in sorted_topics]
 

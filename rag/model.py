@@ -1,11 +1,12 @@
 import sys
 import os
 from typing import Tuple
-from pathlib import Path
 import json
 
 # Add rag-evaluation/templates to path
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "rag-evaluation", "templates"))
+sys.path.insert(
+    0, os.path.join(os.path.dirname(__file__), "rag-evaluation", "templates")
+)
 
 from healthcare_rag import HealthcareRAG
 
@@ -35,9 +36,9 @@ def predict(statement: str) -> Tuple[int, int]:
     try:
         # Use the RAG system to get predictions
         result = rag_system.run(statement)
-        
+
         # The result['answer'] is a JSON string, so we need to parse it
-        answer_data = json.loads(result['answer'])
+        answer_data = json.loads(result["answer"])
 
         statement_is_true = answer_data.get("statement_is_true", 1)
         statement_topic = answer_data.get("statement_topic", 0)

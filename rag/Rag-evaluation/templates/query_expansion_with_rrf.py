@@ -15,17 +15,18 @@ try:
     from ..llm_client import LocalLLMClient
 except ImportError:
     import sys
+
     sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
     from llm_client import LocalLLMClient
 
 
 class QueryExpansionRRF:
     """Query Expansion RAG with simplified RRF (Reciprocal Rank Fusion)."""
-    
+
     def __init__(self, llm_client: LocalLLMClient = None):
         """Initialize QueryExpansionRRF with LocalLLMClient."""
         self.llm_client = llm_client or LocalLLMClient()
-        self.embeddings = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
+        self.embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
 
     def _format_docs(self, docs: List[Document]) -> str:
         return "\n".join(doc.page_content for doc in docs)
@@ -68,9 +69,9 @@ Expanded Queries:"""
                         "num_predict": 200,
                     },
                 },
-                timeout=15
+                timeout=15,
             )
-            
+
             if response.status_code == 200:
                 response_data = response.json()
                 return response_data.get("response", question).strip().split("\n")
@@ -82,52 +83,58 @@ Expanded Queries:"""
             print(f"Error generating expanded queries: {e}")
             return [question]
 
-    def run(self, question: str, reference_contexts: List[str] = None) -> Dict[str, Any]:
+    def run(
+        self, question: str, reference_contexts: List[str] = None
+    ) -> Dict[str, Any]:
         """
         Process a question using query expansion and RRF.
-        
+
         Args:
             question: The question to answer
             reference_contexts: List of reference context strings
-            
+
         Returns:
             Dict with 'answer' and 'context' keys
         """
         try:
             if not reference_contexts:
                 reference_contexts = []
-            
+
             # Generate expanded queries
             expanded_queries = self.enhance_query(question)
-            
+
             # Use expanded queries to retrieve contexts
             all_docs = []
             for query in expanded_queries:
-                docs = [Document(page_content=content) for content in reference_contexts]
-                vectorstore = Chroma.from_documents(documents=docs, embedding=self.embeddings)
+                docs = [
+                    Document(page_content=content) for content in reference_contexts
+                ]
+                vectorstore = Chroma.from_documents(
+                    documents=docs, embedding=self.embeddings
+                )
                 retriever = vectorstore.as_retriever()
                 retrieved_docs = retriever.invoke(query)
                 all_docs.append([doc.page_content for doc in retrieved_docs])
-            
+
             # Fuse results
             fused_contexts = self._rrf(all_docs)
-            
+
             # Combine top k contexts
             combined_context = "\n".join(fused_contexts[:5])
-            
+
             # Use LLM to generate final answer using enriched context
             statement_is_true, statement_topic = self.llm_client.classify_statement(
                 question, combined_context
             )
-            
+
             # Format answer for evaluation
             answer = {
                 "statement_is_true": statement_is_true,
                 "statement_topic": statement_topic,
             }
-            
+
             return {"answer": json.dumps(answer), "context": fused_contexts}
-            
+
         except Exception as e:
             print(f"Error in QueryExpansionRRF.run: {e}")
             # Return safe defaults

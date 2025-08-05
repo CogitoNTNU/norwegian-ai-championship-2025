@@ -8,6 +8,7 @@ import logging
 
 logger = logging.getLogger(__name__)
 
+
 @contextmanager
 def stopwatch(label: str):
     """Context manager for measuring execution time of code blocks."""

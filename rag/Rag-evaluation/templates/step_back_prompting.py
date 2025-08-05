@@ -48,18 +48,6 @@ class StepBackPromptingRAG:
         retrieved_docs = retriever.invoke(step_back_question)
         context = self._format_docs(retrieved_docs)
 
-        prompt_template_str = """
-        You are a helpful AI assistant. Using the provided context, answer the user's question in a clear, factual manner (maximum 4 sentences).
-        If the context does not contain sufficient information, simply reply that you don't know.
-
-        <context>
-        {context}
-        </context>
-
-        Question: {question}
-        """
-        prompt = ChatPromptTemplate.from_template(prompt_template_str.strip())
-
         # Format the answer using classify_statement
         answer = self.llm_client.classify_statement(context, question)
 

@@ -3,7 +3,6 @@ Configuration for Hybrid RAG System
 """
 
 import json
-import os
 from pathlib import Path
 
 # Base paths
@@ -47,14 +46,17 @@ STATEMENTS_DIR = DATA_DIR / "processed" / "combined" / "statements"
 ANSWERS_DIR = DATA_DIR / "processed" / "combined" / "answers"
 TOPICS_FILE = DATA_DIR / "topics.json"
 
+
 def load_topic_mapping():
     """Load the emergency medicine topic mapping."""
-    with open(TOPICS_FILE, 'r') as f:
+    with open(TOPICS_FILE, "r") as f:
         return json.load(f)
+
 
 def get_cache_path(filename: str) -> Path:
     """Get path for cached file."""
     return CACHE_DIR / filename
+
 
 # Cache file paths - Phase 2: Document Chunks
 BM25_CACHE = get_cache_path("bm25_doc_chunks.pkl")

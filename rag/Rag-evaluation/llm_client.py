@@ -1,12 +1,13 @@
 import requests
 import json
 import os
-import re
 from typing import Dict, Tuple
 
 
 class LocalLLMClient:
-    def __init__(self, model_name: str = "cogito:3b", ollama_url: str = "http://localhost:11434"):
+    def __init__(
+        self, model_name: str = "cogito:3b", ollama_url: str = "http://localhost:11434"
+    ):
         self.model_name = model_name
         self.ollama_url = ollama_url
 
@@ -82,13 +83,15 @@ class LocalLLMClient:
                         "repeat_penalty": 1.0,
                     },
                 },
-                timeout=30
+                timeout=30,
             )
-            
+
             if response.status_code != 200:
-                print(f"Error from Ollama server: {response.status_code} - {response.text}")
+                print(
+                    f"Error from Ollama server: {response.status_code} - {response.text}"
+                )
                 return 1, 0
-                
+
             response_data = response.json()
             result_text = response_data.get("response", "")
             return self._parse_classification_result(result_text)
@@ -102,7 +105,9 @@ class LocalLLMClient:
         """Build a focused classification prompt for better accuracy."""
 
         # Format the topic mapping into a readable string for the prompt
-        topics_text = "\n".join(f"- {name}: {num}" for name, num in self.topic_mapping.items())
+        topics_text = "\n".join(
+            f"- {name}: {num}" for name, num in self.topic_mapping.items()
+        )
 
         prompt = f"""You are a medical fact-checker tasked with evaluating medical statements for accuracy and categorization.
 
@@ -145,7 +150,9 @@ Provide ONLY the JSON response, no additional text."""
             # When format: 'json' is used, the response should be a valid JSON string.
             parsed = json.loads(result_text)
 
-            statement_is_true = int(parsed.get("statement_is_true", parsed.get("is_true", 1)))
+            statement_is_true = int(
+                parsed.get("statement_is_true", parsed.get("is_true", 1))
+            )
 
             # Handle topic - could be name or number
             topic_value = parsed.get("statement_topic", parsed.get("topic", 0))
