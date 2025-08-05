@@ -23,7 +23,7 @@ class LaneChangeController:
 
         # Safe distances mapping to sensor positions
         # [front_right_front, right_front, right_side_front, right_side, right_side_back, right_back, back_right_back]
-        self.safe_distances = [999.0, 474.0, 360.0, 345.0, 360.0, 474.0, 999.0]
+        self.safe_distances = [999.0, 459.0, 349.0, 330.0, 349.0, 459.0, 999.9]
 
         # Sensor names for right side (left side mirrors these)
         self.right_sensors = [
@@ -210,7 +210,7 @@ class LaneChangeController:
                 print(f"   {sensor_name}: {value}")
 
         # Check for front obstacle
-        if front_sensor < 999:  # Obstacle ahead
+        if front_sensor < 900:  # Obstacle ahead
             if self.verbose:
                 print(f"🚦 Obstacle ahead at {front_sensor:.1f}")
 
