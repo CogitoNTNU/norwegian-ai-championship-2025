@@ -3,7 +3,6 @@ import uvicorn
 import datetime
 from fastapi import Body, FastAPI, Request
 from dtos import RaceCarPredictRequestDto, RaceCarPredictResponseDto
-from example import predict_race_car_action
 
 HOST = "0.0.0.0"
 PORT = 9052

@@ -203,7 +203,7 @@ class CustomWandbCallback(BaseCallback):
             if os.path.exists(video_path):
                 wandb.log(
                     {
-                        f"training_video": wandb.Video(
+                        "training_video": wandb.Video(
                             video_path, format="mp4", caption=f"Episode {episode_num}"
                         )
                     },
