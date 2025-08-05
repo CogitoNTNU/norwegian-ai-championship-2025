@@ -28,7 +28,7 @@ class RaceCarEnv(gym.Env):
         super().__init__()
 
         self.render_mode = render_mode
-        self.seed_value = seed or "default_seed"
+        self.seed_value = seed
 
         # Action space: 0=NOTHING, 1=ACCELERATE, 2=DECELERATE, 3=STEER_LEFT, 4=STEER_RIGHT
         # Adding steering actions for better control

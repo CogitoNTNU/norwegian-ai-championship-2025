@@ -23,7 +23,7 @@ class LaneChangeController:
 
         # Safe distances mapping to sensor positions
         # [front_right_front, right_front, right_side_front, right_side, right_side_back, right_back, back_right_back]
-        self.safe_distances = [999.0, 459.0, 349.0, 330.0, 349.0, 459.0, 999.9]
+        self.safe_distances = [999.0, 462.0, 354.0, 327.0, 354.0, 462.0, 999.9]
 
         # Sensor names for right side (left side mirrors these)
         self.right_sensors = [
@@ -51,8 +51,19 @@ class LaneChangeController:
         self.max_lane = 4
         self.center_lane = 2
 
+        # Steering duration for lane changes
+        self.steer_duration = 48
+
         # Initialize database
         self._init_database()
+
+    def get_steer_duration(self, from_lane: int, to_lane: int) -> int:
+        """Get steering duration based on lane change."""
+        # 44 for lane changes between 1 and 2, 48 otherwise
+        if (from_lane == 1 and to_lane == 2) or (from_lane == 2 and to_lane == 1):
+            return 44
+        else:
+            return self.steer_duration
 
     def _init_database(self):
         """Create necessary tables if they don't exist."""
@@ -151,6 +162,18 @@ class LaneChangeController:
             sensor_value = self.get_sensor_value(sensors, sensor_name)
             safe_distance = self.safe_distances[idx]
 
+            # Adjust safe distance for wall-adjacent lanes
+            if current_lane == 1 and sensor_name in [
+                "back_left_back",
+                "front_left_front",
+            ]:
+                safe_distance = 856
+            elif current_lane == 3 and sensor_name in [
+                "back_right_back",
+                "front_right_front",
+            ]:
+                safe_distance = 856
+
             if sensor_value < safe_distance:
                 if self.verbose:
                     print(
@@ -172,6 +195,45 @@ class LaneChangeController:
         """Get back sensor reading."""
         value = sensors.get("back") or sensors.get("sensor_4") or sensors.get("4")
         return 1000.0 if value is None else value
+
+    def get_previous_front_distance(self) -> float:
+        """Get the previous front sensor distance from database."""
+        with self.db_lock:
+            cursor = self.conn.cursor()
+            cursor.execute("""
+                SELECT sensors_json FROM sensor_history 
+                ORDER BY timestamp DESC LIMIT 1
+            """)
+            result = cursor.fetchone()
+            if result:
+                sensors = json.loads(result[0])
+                return self.get_front_sensor(sensors)
+            return 1000.0
+
+    def calculate_speed_adjustment(
+        self, current_front_distance: float, previous_front_distance: float
+    ) -> str:
+        """
+        Calculate speed adjustment based on distance changes to car in front.
+
+        Args:
+            current_front_distance: Current distance to car in front
+            previous_front_distance: Previous distance to car in front
+
+        Returns:
+            Action to take: "ACCELERATE", "DECELERATE", or "NOTHING"
+        """
+        distance_change = current_front_distance - previous_front_distance
+
+        # If distance is increasing, car in front is moving away or faster
+        if distance_change > 2:
+            return "ACCELERATE"
+        # If distance is decreasing rapidly, car in front is slower
+        elif distance_change < -5:
+            return "DECELERATE"
+        # If distance is stable or slowly changing, maintain speed
+        else:
+            return "NOTHING"
 
     def predict_actions(self, request_data: dict) -> List[str]:
         """
@@ -210,13 +272,39 @@ class LaneChangeController:
                 print(f"   {sensor_name}: {value}")
 
         # Check for front obstacle
-        if front_sensor < 900:  # Obstacle ahead
+        if front_sensor < 950:  # Obstacle ahead
             if self.verbose:
                 print(f"🚦 Obstacle ahead at {front_sensor:.1f}")
 
-            # Check both directions for safety
-            left_safe, left_reason = self.check_lane_safety(sensors, "left")
-            right_safe, right_reason = self.check_lane_safety(sensors, "right")
+            # For close obstacles (under 570), check velocity matching first
+            if front_sensor < 570:
+                previous_front_distance = self.get_previous_front_distance()
+                distance_change = front_sensor - previous_front_distance
+
+                # If velocities are roughly matching (distance change is small), allow lane changes
+                if abs(distance_change) <= 5:  # Velocities are close enough
+                    if self.verbose:
+                        print(
+                            f"  🚗 Velocities matching (change: {distance_change:.1f}), checking lanes"
+                        )
+
+                    # Check both directions for safety
+                    left_safe, left_reason = self.check_lane_safety(sensors, "left")
+                    right_safe, right_reason = self.check_lane_safety(sensors, "right")
+                else:
+                    # Velocities don't match, just adjust speed
+                    speed_action = self.calculate_speed_adjustment(
+                        front_sensor, previous_front_distance
+                    )
+                    if self.verbose:
+                        print(
+                            f"  🚗 Velocities not matching (change: {distance_change:.1f}), adjusting speed: {speed_action}"
+                        )
+                    return [speed_action]
+            else:
+                # For farther obstacles, check lanes normally
+                left_safe, left_reason = self.check_lane_safety(sensors, "left")
+                right_safe, right_reason = self.check_lane_safety(sensors, "right")
 
             if self.verbose:
                 print(f"  Left lane: {'✅' if left_safe else '❌'} {left_reason}")
@@ -224,10 +312,20 @@ class LaneChangeController:
 
             # Decision logic
             if not left_safe and not right_safe:
-                # Both blocked - brake (single DECELERATE per tick)
+                # Both blocked - match speed of car in front instead of hard braking
+                previous_front_distance = self.get_previous_front_distance()
+                speed_action = self.calculate_speed_adjustment(
+                    front_sensor, previous_front_distance
+                )
+
                 if self.verbose:
-                    print("  🛑 Both lanes blocked - BRAKING!")
-                return ["DECELERATE"]
+                    print(f"  🚗 Both lanes blocked - matching front car speed")
+                    print(
+                        f"  📊 Distance change: {front_sensor - previous_front_distance:.1f}"
+                    )
+                    print(f"  🎮 Speed action: {speed_action}")
+
+                return [speed_action]
 
             elif left_safe and right_safe:
                 # Both safe - prefer moving toward center
@@ -235,55 +333,50 @@ class LaneChangeController:
                     # We're left of center, go right
                     if self.verbose:
                         print("  ➡️ Both safe, moving RIGHT toward center")
-                    self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                    # Return steering sequence: 48 right, then 48 left to straighten
-                    return (["STEER_RIGHT"] * 48) + (["STEER_LEFT"] * 48)
+                    new_lane = current_lane + 1
+                    steer_duration = self.get_steer_duration(current_lane, new_lane)
+                    self.update_lane(new_lane, "LANE_CHANGE_RIGHT")
+                    # Return steering sequence: right, then left to straighten
+                    return (["STEER_RIGHT"] * steer_duration) + (
+                        ["STEER_LEFT"] * steer_duration
+                    )
                 elif current_lane > self.center_lane:
                     # We're right of center, go left
                     if self.verbose:
                         print("  ⬅️ Both safe, moving LEFT toward center")
-                    self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                    # Return steering sequence: 48 left, then 48 right to straighten
-                    return (["STEER_LEFT"] * 48) + (["STEER_RIGHT"] * 48)
+                    new_lane = current_lane - 1
+                    steer_duration = self.get_steer_duration(current_lane, new_lane)
+                    self.update_lane(new_lane, "LANE_CHANGE_LEFT")
+                    # Return steering sequence: left, then right to straighten
+                    return (["STEER_LEFT"] * steer_duration) + (
+                        ["STEER_RIGHT"] * steer_duration
+                    )
                 else:
-                    # At center, choose based on which side has more clearance
-                    left_clearance = sum(
-                        (sensors.get(s) if sensors.get(s) is not None else 1000.0)
-                        for s in self.left_sensors
+                    # At center, prefer left
+                    if self.verbose:
+                        print("  ⬅️ Both safe at center, preferring LEFT")
+                    self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
+                    return (["STEER_LEFT"] * self.steer_duration) + (
+                        ["STEER_RIGHT"] * self.steer_duration
                     )
-                    right_clearance = sum(
-                        (sensors.get(s) if sensors.get(s) is not None else 1000.0)
-                        for s in self.right_sensors
-                    )
-
-                    if left_clearance > right_clearance:
-                        if self.verbose:
-                            print(
-                                f"  ⬅️ Left side clearer ({left_clearance:.1f} > {right_clearance:.1f})"
-                            )
-                        self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                        return (["STEER_LEFT"] * 48) + (["STEER_RIGHT"] * 48)
-                    else:
-                        if self.verbose:
-                            print(
-                                f"  ➡️ Right side clearer ({right_clearance:.1f} >= {left_clearance:.1f})"
-                            )
-                        self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                        return (["STEER_RIGHT"] * 48) + (["STEER_LEFT"] * 48)
 
             elif left_safe:
                 # Only left is safe
                 if self.verbose:
                     print("  ⬅️ Only left safe - changing LEFT")
                 self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                return (["STEER_LEFT"] * 48) + (["STEER_RIGHT"] * 48)
+                return (["STEER_LEFT"] * self.steer_duration) + (
+                    ["STEER_RIGHT"] * self.steer_duration
+                )
 
             else:  # only right_safe
                 # Only right is safe
                 if self.verbose:
                     print("  ➡️ Only right safe - changing RIGHT")
                 self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                return (["STEER_RIGHT"] * 48) + (["STEER_LEFT"] * 48)
+                return (["STEER_RIGHT"] * self.steer_duration) + (
+                    ["STEER_LEFT"] * self.steer_duration
+                )
 
         # Check for car approaching from behind
         elif back_sensor < 800:
@@ -299,19 +392,39 @@ class LaneChangeController:
                 print(f"  Right lane: {'✅' if right_safe else '❌'} {right_reason}")
 
             if left_safe and right_safe:
-                # Choose direction toward center
-                if current_lane <= self.center_lane and right_safe:
-                    self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                    return (["STEER_RIGHT"] * 48) + (["STEER_LEFT"] * 48)
-                elif left_safe:
+                # Prefer left only when in middle lane (lane 2)
+                if current_lane == self.center_lane:
+                    if self.verbose:
+                        print("  ⬅️ Both safe at center, preferring LEFT")
                     self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                    return (["STEER_LEFT"] * 48) + (["STEER_RIGHT"] * 48)
+                    return (["STEER_LEFT"] * self.steer_duration) + (
+                        ["STEER_RIGHT"] * self.steer_duration
+                    )
+                # Otherwise choose direction toward center
+                elif current_lane < self.center_lane:
+                    if self.verbose:
+                        print("  ➡️ Both safe, moving RIGHT toward center")
+                    self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
+                    return (["STEER_RIGHT"] * self.steer_duration) + (
+                        ["STEER_LEFT"] * self.steer_duration
+                    )
+                else:
+                    if self.verbose:
+                        print("  ⬅️ Both safe, moving LEFT toward center")
+                    self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
+                    return (["STEER_LEFT"] * self.steer_duration) + (
+                        ["STEER_RIGHT"] * self.steer_duration
+                    )
             elif left_safe:
                 self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                return (["STEER_LEFT"] * 48) + (["STEER_RIGHT"] * 48)
+                return (["STEER_LEFT"] * self.steer_duration) + (
+                    ["STEER_RIGHT"] * self.steer_duration
+                )
             elif right_safe:
                 self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                return (["STEER_RIGHT"] * 48) + (["STEER_LEFT"] * 48)
+                return (["STEER_RIGHT"] * self.steer_duration) + (
+                    ["STEER_LEFT"] * self.steer_duration
+                )
             else:
                 # Can't change lanes, accelerate
                 return ["ACCELERATE"]
@@ -333,10 +446,14 @@ class LaneChangeController:
 
                     if target_direction == "right":
                         self.update_lane(current_lane + 1, "LANE_CHANGE_RIGHT")
-                        return (["STEER_RIGHT"] * 48) + (["STEER_LEFT"] * 48)
+                        return (["STEER_RIGHT"] * self.steer_duration) + (
+                            ["STEER_LEFT"] * self.steer_duration
+                        )
                     else:
                         self.update_lane(current_lane - 1, "LANE_CHANGE_LEFT")
-                        return (["STEER_LEFT"] * 48) + (["STEER_RIGHT"] * 48)
+                        return (["STEER_LEFT"] * self.steer_duration) + (
+                            ["STEER_RIGHT"] * self.steer_duration
+                        )
 
             # Maintain speed
             current_speed = abs(velocity.get("x", 10))
