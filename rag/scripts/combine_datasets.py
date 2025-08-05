@@ -9,11 +9,11 @@ from pathlib import Path
 import shutil
 
 # Define source and target directories
-RAW_STATEMENTS_DIR = Path("data/raw/train/statements/")
-RAW_ANSWERS_DIR = Path("data/raw/train/answers/")
-SYNTH_TRUE_DIR = Path("data/processed/true/")
-SYNTH_FALSE_DIR = Path("data/processed/false/")
-COMBINED_DIR = Path("data/processed/combined/")
+RAW_STATEMENTS_DIR = Path("../data/raw/train/statements/")
+RAW_ANSWERS_DIR = Path("../data/raw/train/answers/")
+SYNTH_TRUE_DIR = Path("../data/processed/syntetic_true/")
+SYNTH_FALSE_DIR = Path("../data/processed/syntetic_false/")
+COMBINED_DIR = Path("../data/processed/combined_train/")
 
 
 def copy_files(source_dir, dest_dir, file_type):

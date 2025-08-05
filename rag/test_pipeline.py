@@ -4,19 +4,31 @@ Test the RAG pipeline with multiple statements from training data.
 """
 
 import os
+import platform
 
-# Disable multiprocessing for sentence transformers on macOS
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
-os.environ["OMP_NUM_THREADS"] = "1"
-# Force sentence-transformers to not use multiprocessing
+# Configure multiprocessing based on platform
+if platform.system() == "Darwin":  # macOS
+    # Disable multiprocessing for sentence transformers on macOS
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
+    os.environ["OMP_NUM_THREADS"] = "1"  # Using 1 for macOS to avoid issues
+else:  # Windows/Linux
+    # Enable multiprocessing for better performance
+    os.environ["TOKENIZERS_PARALLELISM"] = "true"
+    # Let system decide optimal thread count
+    if "OMP_NUM_THREADS" not in os.environ:
+        import multiprocessing
+
+        os.environ["OMP_NUM_THREADS"] = str(multiprocessing.cpu_count())
+
+# Set custom cache directory for sentence-transformers
 os.environ["SENTENCE_TRANSFORMERS_HOME"] = os.path.join(os.path.dirname(__file__), ".cache", "sentence_transformers")
 
-import sys
-import json
-import time
 import argparse
+import json
+import sys
+import time
 from pathlib import Path
-from typing import List, Tuple, Dict
+from typing import Dict, List, Tuple
 
 # Add rag-pipeline to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "rag-pipeline"))
@@ -66,13 +78,54 @@ def main():
         help="Retrieval strategy to use (default: default)",
     )
     parser.add_argument("--verbose", action="store_true", help="Show detailed output for each statement")
+    parser.add_argument(
+        "--device",
+        type=str,
+        default="auto",
+        choices=["auto", "cpu", "cuda"],
+        help="Device to use: auto (default), cpu, or cuda",
+    )
 
     args = parser.parse_args()
 
     # Check if using external LLM
     ollama_host = os.environ.get("OLLAMA_HOST")
 
-    print("🏥 Testing RAG Pipeline")
+    # Check CUDA availability and device selection
+    import torch
+
+    cuda_available = torch.cuda.is_available()
+
+    print("[DEBUG] Debug Info:")
+    print(f"   PyTorch version: {torch.__version__}")
+    print(f"   CUDA available: {cuda_available}")
+    if cuda_available:
+        print(f"   CUDA version: {torch.version.cuda}")
+        print(f"   GPU count: {torch.cuda.device_count()}")
+        print(f"   Current GPU: {torch.cuda.get_device_name(0)}")
+    print(f"   Platform: {platform.system()}")
+    print(f"   Requested device: {args.device}")
+
+    if args.device == "auto":
+        if platform.system() == "Darwin":  # macOS
+            selected_device = "cpu"
+            device_reason = "CPU (macOS default to avoid MPS issues)"
+        else:
+            selected_device = "cuda" if cuda_available else "cpu"
+            device_reason = f"{'CUDA' if cuda_available else 'CPU'} (auto-detected)"
+    elif args.device == "cuda":
+        if cuda_available:
+            selected_device = "cuda"
+            device_reason = "CUDA (forced)"
+        else:
+            print("[WARNING] CUDA requested but not available, falling back to CPU")
+            selected_device = "cpu"
+            device_reason = "CPU (CUDA not available)"
+    else:
+        selected_device = "cpu"
+        device_reason = "CPU (forced)"
+
+    print("[TESTING] Testing RAG Pipeline")
     print("=" * 50)
     print(f"📊 Statements: {args.n}")
     print(f"🧬 Embedding: {args.embedding}")
@@ -84,6 +137,9 @@ def main():
         print(f"🤖 LLM: {args.llm} (local)")
 
     print(f"🔍 Strategy: {args.strategy}")
+    print(f"[DEVICE] Device: {device_reason}")
+    if cuda_available:
+        print(f"[CUDA] CUDA Info: {torch.cuda.get_device_name(0)} ({torch.cuda.device_count()} GPU(s))")
     print()
 
     # Load statements
@@ -103,7 +159,12 @@ def main():
         llm_model=args.llm,
         top_k_retrieval=5,
         retrieval_strategy=args.strategy,
+        device=selected_device,
     )
+
+    # Check what device the embedding model is actually using
+    actual_device = pipeline.document_store.embedding_model.device
+    print(f"[DEVICE] Embedding model using: {actual_device}")
 
     # Setup
     rag_dir = Path(__file__).parent

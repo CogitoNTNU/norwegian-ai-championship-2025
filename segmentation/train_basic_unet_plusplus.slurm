@@ -3,7 +3,8 @@
 #SBATCH --job-name=tumor_segmentation
 #SBATCH --time=5:00:00         # format: D-HH:MM:SS
 #SBATCH --partition=GPUQ          # Asking for a CPU
-#SBATCH --mem=16G                 # Asking for xGB RAM
+#SBATCH --mem=32G                 # Asking for xGB RAM
+#SBATCH --constraint="(v100|a100|h100)&(gpu32g|gpu40g|gpu80g)"
 #SBATCH --nodes=1
 #SBATCH --output=idun-log.txt      # Specifying ‘stdout’
 #SBATCH --error=idun-log.err        # Specifying ‘stderr’
@@ -32,4 +33,4 @@ conda activate ${ENV_PATH}
 pip install uv
 uv sync
 
-uv run python unetplusplus.py
+uv run python train_unet_plus_plus_kfold_backbone.py

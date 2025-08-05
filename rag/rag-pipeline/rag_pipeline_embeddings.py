@@ -1,9 +1,10 @@
 """RAG Pipeline using configurable embedding models."""
 
 from typing import Tuple
+
 from document_store_embeddings import EmbeddingsDocumentStore
 from llm_client import LocalLLMClient
-from retrieval_strategies import DefaultRetrieval, HyDERetrieval, HybridRetrieval
+from retrieval_strategies import DefaultRetrieval, HybridRetrieval, HyDERetrieval
 
 
 class EmbeddingsRAGPipeline:
@@ -15,6 +16,7 @@ class EmbeddingsRAGPipeline:
         llm_model: str = "qwen3:8b",
         top_k_retrieval: int = 5,
         retrieval_strategy: str = "default",
+        device: str = None,
     ):
         """
         Initialize RAG pipeline with specified embedding model.
@@ -24,8 +26,9 @@ class EmbeddingsRAGPipeline:
             llm_model: Local LLM model name
             top_k_retrieval: Number of relevant chunks to retrieve
             retrieval_strategy: Strategy to use for retrieval ("default" or "hyde")
+            device: Device to use for embeddings (cuda/cpu/auto)
         """
-        self.document_store = EmbeddingsDocumentStore(embedding_model)
+        self.document_store = EmbeddingsDocumentStore(embedding_model, device=device)
         # Check for OLLAMA_HOST environment variable
         import os
 
@@ -56,7 +59,7 @@ class EmbeddingsRAGPipeline:
         # Ensure LLM model is available
         print("Checking LLM availability...")
         self.llm_client.ensure_model_available()
-        print(f"✅ LLM {self.llm_client.model_name} is available")
+        print(f"[OK] LLM {self.llm_client.model_name} is available")
 
         # Load documents (shared across models)
         print("Loading medical documents...")
@@ -178,8 +181,8 @@ class EmbeddingsRAGPipeline:
         Returns:
             Dictionary with evaluation metrics
         """
-        from pathlib import Path
         import json
+        from pathlib import Path
 
         statements_path = Path(training_statements_dir)
         answers_path = Path(training_answers_dir)
