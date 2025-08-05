@@ -12,7 +12,8 @@ dependencies = [
     # Core dependencies
     "requests>=2.31.0",
     "numpy",
-    "ollama>=0.1.0",
+    "ollama\u003e=0.1.0",
+    "google-genai\u003e=0.8.0",
     "httpx>=0.25.0",
     "httpcore>=1.0.0",
     "h11>=0.12.0",
@@ -48,9 +49,15 @@ dependencies = [
     "typing-inspection>=0.4.0",
     "annotated-types>=0.6.0",
     "bm25s>=0.2.13",
-    "pystemmer>=3.0.0",
+    "PyStemmer>=3.0.0",
+    "accelerate>=0.20.0",
     "anthropic>=0.60.0",
     "sentence-transformers>=5.0.0",
+    "pandas>=2.3.1",
+    "datasets>=4.0.0",
+    "ragas>=0.1.0",
+    "plotly>=5.0.0",
+    "chromadb>=1.0.15",
 ]
 
 [project.scripts]

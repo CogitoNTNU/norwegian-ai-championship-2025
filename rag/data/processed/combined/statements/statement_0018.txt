@@ -1,0 +1,1 @@
+Immunoassay-based HbA1c methods using latex agglutination inhibition involve competition between patient HbA1c and synthetic polymers bearing HbA1c epitopes for binding to antibody-coated latex beads, with reduced agglutination measured as decreased absorbance.
