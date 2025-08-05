@@ -1,21 +1,12 @@
-# tumor‑segmentation inference script
-# ==================================
-# This file defines the `predict_tumor_segmentation` function that the Docker
-# API will call.  It
-#   1) downloads the model checkpoint from a Weights & Biases artifact (name is
-#      read from the `MODEL_ARTIFACT` environment variable),
-#   2) runs a forward‑pass on the input PET MIP, and
-#   3) returns a base64‑encoded RGB mask that contains **white** pixels where
-#      tumor is present and **black** elsewhere.  The mask has exactly the same
-#      height/width as the incoming image.
-
+# tumor-segmentation inference script (ensemble version)
+# ======================================================
 from __future__ import annotations
 
 import base64
 import os
 from io import BytesIO
 from pathlib import Path
-from typing import Tuple
+from typing import List, Tuple
 
 import cv2  # type: ignore
 import numpy as np
@@ -29,195 +20,151 @@ import wandb  # type: ignore
 # Globals
 # ---------------------------------------------------------------------------
 _DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-_MODEL: smp.Unet | None = None  # lazy‑loaded + cached
-_ARTIFACT_DIR: Path | None = None  # cached path to downloaded ckpt
-_TRAIN_IMG_SIZE: Tuple[int, int] = (1536, 786)  # (H, W) used during training
+
+# Each entry is a single model already moved to _DEVICE and set to eval()
+_MODELS: List[smp.Unet] | None = None  # lazy-loaded ensemble
+_ARTIFACT_DIRS: List[Path] | None = None  # cached paths to downloaded ckpts
+
+_TRAIN_IMG_SIZE: Tuple[int, int] = (1536, 786)  # (H, W)
 _DEFAULT_THRESHOLD: float = float(os.getenv("PRED_THRESHOLD", 0.5))
+
 
 # ---------------------------------------------------------------------------
 # Model loading utilities
 # ---------------------------------------------------------------------------
-
-
 def _build_model() -> smp.Unet:
-    """Re‑create the exact architecture used during training."""
-    model: smp.Unet = smp.Unet(
+    """Re-create the exact UNet architecture used during training."""
+    return smp.Unet(
         encoder_name="efficientnet-b3",
-        encoder_weights=None,  # weights come from checkpoint
-        in_channels=1,  # PET is single‑channel
-        classes=1,  # binary mask
+        encoder_weights=None,  # weights come from checkpoints
+        in_channels=1,
+        classes=1,
         activation=None,
         decoder_attention_type="scse",
     )
-    return model
 
 
-def _download_artifact() -> Path:
-    """Download the checkpoint from W&B the first time we need it."""
-    global _ARTIFACT_DIR
-    if _ARTIFACT_DIR is not None:
-        return _ARTIFACT_DIR
+def _parse_artifact_names() -> List[str]:
+    """Return the list of artifact names to load."""
+    names = os.getenv("MODEL_ARTIFACTS") or os.getenv(
+        "MODEL_ARTIFACT", "nm-i-ki/tumor-segmentation/best_model:latest"
+    )
+    return [n.strip() for n in names.split(",") if n.strip()]
+
+
+def _download_artifacts() -> List[Path]:
+    """Download every checkpoint exactly once, return their directories."""
+    global _ARTIFACT_DIRS
+    if _ARTIFACT_DIRS is not None:
+        return _ARTIFACT_DIRS
 
     load_dotenv()
     api_key = os.getenv("WANDB_API_KEY")
     if not api_key:
         raise RuntimeError("WANDB_API_KEY must be set in the environment.")
 
-    artifact_name = os.getenv(
-        "MODEL_ARTIFACT", "nm-i-ki/tumor-segmentation/best_model:latest"
-    )
-
-    # Authenticate once (no‑op if already logged in inside the container)
     wandb.login(key=api_key, relogin=False)
 
-    # Off‑line run just for the artifact download; immediately finished.
-    run = wandb.init(project="tumor‑segmentation‑inference", job_type="load-model")
-    artifact = run.use_artifact(artifact_name, type="model")
-    _ARTIFACT_DIR = Path(artifact.download())
+    artifact_dirs: List[Path] = []
+    run = wandb.init(project="tumor-segmentation-inference", job_type="load-ensemble")
+    for name in _parse_artifact_names():
+        artifact = run.use_artifact(name, type="model")
+        artifact_dirs.append(Path(artifact.download()))
     run.finish()
-    return _ARTIFACT_DIR
+
+    _ARTIFACT_DIRS = artifact_dirs
+    return _ARTIFACT_DIRS
 
 
-def _load_model() -> smp.Unet:
-    """Return a *cached* instance of the trained model on the correct device."""
-    global _MODEL
-    if _MODEL is not None:
-        return _MODEL
+def _load_models() -> List[smp.Unet]:
+    """Load (and cache) *all* ensemble members on the correct device."""
+    global _MODELS
+    if _MODELS is not None:
+        return _MODELS
 
-    ckpt_dir = _download_artifact()
+    models: List[smp.Unet] = []
+    for ckpt_dir in _download_artifacts():
+        ckpt_path = next(ckpt_dir.rglob("*.pth"), None)
+        if ckpt_path is None:
+            raise FileNotFoundError(
+                f"No .pth checkpoint found inside artifact {ckpt_dir}"
+            )
 
-    # Find the first file that looks like a PyTorch checkpoint
-    ckpt_path: Path | None = next((p for p in ckpt_dir.rglob("*.pth")), None)
-    if ckpt_path is None:
-        raise FileNotFoundError(
-            "No .pth checkpoint found inside the artifact directory"
-        )
+        model = _build_model().to(_DEVICE)
+        state = torch.load(ckpt_path, map_location=_DEVICE)
+        if isinstance(state, dict) and "state_dict" in state:
+            state = state["state_dict"]
+        state = {k.removeprefix("module."): v for k, v in state.items()}
+        missing, unexpected = model.load_state_dict(state, strict=False)
+        if missing or unexpected:
+            print(
+                "[WARN] load_state_dict issues — missing:",
+                missing,
+                ", unexpected:",
+                unexpected,
+            )
+        model.eval()
+        models.append(model)
 
-    model = _build_model().to(_DEVICE)
-
-    state_dict = torch.load(ckpt_path, map_location=_DEVICE)
-    # Handle potential wrappers (Lightning, DDP, etc.)
-    if isinstance(state_dict, dict) and "state_dict" in state_dict:
-        state_dict = state_dict["state_dict"]
-    # Strip "module." prefix from DDP checkpoints
-    state_dict = {k.removeprefix("module."): v for k, v in state_dict.items()}
-
-    missing, unexpected = model.load_state_dict(state_dict, strict=False)
-    if missing or unexpected:
-        print(
-            "[WARN] load_state_dict issues — missing:",
-            missing,
-            ", unexpected:",
-            unexpected,
-        )
-
-    model.eval()
-    _MODEL = model
-    return _MODEL
+    if not models:
+        raise RuntimeError("Ensemble list is empty – check MODEL_ARTIFACTS.")
+    _MODELS = models
+    return _MODELS
 
 
 # ---------------------------------------------------------------------------
-# Pre/‑post‑processing helpers
+# Pre/-post-processing helpers (unchanged except for typing tweaks)
 # ---------------------------------------------------------------------------
-
-
 def _preprocess(img: np.ndarray) -> tuple[torch.Tensor, Tuple[int, int]]:
-    """Convert to float32, min‑max scale, resize to training resolution, ➜ torch.
+    original_hw = img.shape[:2]
+    if img.ndim == 2:
+        img = img[..., None]
 
-    The incoming PNG/JPEG can be either H×W (grayscale) **or** H×W×3 (RGB).
-    The network was trained on **single‑channel** PET slices, so we always keep
-    just one channel.  Crucially, OpenCV drops the channel dimension when
-    resizing 1‑channel inputs, so we explicitly add it back if needed.
-    """
-
-    # Original spatial size (height, width) so we can later upsample the mask
-    original_hw: Tuple[int, int] = img.shape[:2]
-
-    # ------------------------------------------------------------------
-    # 1) Ensure a channel dimension exists (H×W×1)
-    # ------------------------------------------------------------------
-    if img.ndim == 2:  # grayscale H×W
-        img = img[..., None]  # → H×W×1
-
-    # ------------------------------------------------------------------
-    # 2) Normalise 0‑255 → 0‑1  (same as during training)
-    # ------------------------------------------------------------------
     img = img.astype("float32")
     img = (img - img.min()) / (img.max() - img.min() + 1e-8)
 
-    # ------------------------------------------------------------------
-    # 3) Resize *while keeping* the channel dim for single‑channel images
-    # ------------------------------------------------------------------
     resized = cv2.resize(
-        img, (_TRAIN_IMG_SIZE[1], _TRAIN_IMG_SIZE[0]), interpolation=cv2.INTER_LINEAR
-    )  # shape may be (H, W) or (H, W, C)
-
-    if resized.ndim == 2:  # channel got stripped → re‑attach
+        img, (_TRAIN_IMG_SIZE[1], _TRAIN_IMG_SIZE[0]), cv2.INTER_LINEAR
+    )
+    if resized.ndim == 2:
         resized = resized[..., None]
 
-    # ------------------------------------------------------------------
-    # 4) HWC → NCHW  (and ensure contiguous memory with .copy())
-    # ------------------------------------------------------------------
     tensor = (
-        torch.from_numpy(resized.transpose(2, 0, 1).copy())  #  C×H×W, contiguous
+        torch.from_numpy(resized.transpose(2, 0, 1).copy())
         .unsqueeze(0)  # 1×C×H×W
         .to(_DEVICE)
     )
-
     return tensor, original_hw
 
 
 def _postprocess(
-    prob_map: np.ndarray, original_hw: Tuple[int, int], threshold: float
+    prob_map: np.ndarray, original_hw: Tuple[int, int], thr: float
 ) -> np.ndarray:
-    """Resize back to original size and convert to 0/255 RGB mask."""
     prob_resized = cv2.resize(
-        prob_map, (original_hw[1], original_hw[0]), interpolation=cv2.INTER_LINEAR
+        prob_map, (original_hw[1], original_hw[0]), cv2.INTER_LINEAR
     )
-    mask = (prob_resized > threshold).astype(np.uint8) * 255  # H×W, 0 or 255
-    rgb_mask = np.repeat(mask[:, :, None], 3, axis=2)  # H×W×3
-    return rgb_mask
+    mask = (prob_resized >= thr).astype(np.uint8) * 255  # 0 or 255
+    return np.repeat(mask[:, :, None], 3, axis=2)  # H×W×3 RGB
 
 
 # ---------------------------------------------------------------------------
-# Public API functions
+# Public API
 # ---------------------------------------------------------------------------
-
-
-def predict(img: np.ndarray) -> np.ndarray:  # kept for backwards compatibility
-    """Dummy threshold baseline ( *NOT* used by the API)."""
-    return (img < 50).astype(np.uint8) * 255
-
-
 def predict_tumor_segmentation(img_data: str) -> str:
-    """Entry‑point expected by the scoring server.
-
-    Parameters
-    ----------
-    img_data : str
-        Base64‑encoded PNG/JPEG.  Can be either grayscale or RGB — only the
-        first channel is used.
-
-    Returns
-    -------
-    str
-        Base64‑encoded PNG of an RGB mask with shape identical to the input
-        image and values either **(255,255,255)** (tumor) or **(0,0,0)**.
-    """
-    # 1) Decode base64 → numpy
+    """Main entry-point for the scoring server (ensemble version)."""
     img_bytes = base64.b64decode(img_data)
-    img = Image.open(BytesIO(img_bytes)).convert("L")  # force grayscale (1‑chan)
-    np_img = np.array(img)
+    np_img = np.array(Image.open(BytesIO(img_bytes)).convert("L"))  # grayscale
 
-    # 2) Pre‑process & model forward
     tensor, orig_hw = _preprocess(np_img)
     with torch.inference_mode():
-        prob = torch.sigmoid(_load_model()(tensor))[0, 0].cpu().numpy()
+        probs = [
+            torch.sigmoid(model(tensor))[0, 0]  # C=1 ⇒ pick [0,0]
+            for model in _load_models()
+        ]
+        mean_prob = torch.stack(probs).mean(dim=0).cpu().numpy()
 
-    # 3) Post‑process → binary RGB mask
-    mask_rgb = _postprocess(prob, orig_hw, _DEFAULT_THRESHOLD)
+    mask_rgb = _postprocess(mean_prob, orig_hw, _DEFAULT_THRESHOLD)
 
-    # 4) Encode back to base64
     buf = BytesIO()
     Image.fromarray(mask_rgb).save(buf, format="PNG")
     return base64.b64encode(buf.getvalue()).decode("utf-8")
