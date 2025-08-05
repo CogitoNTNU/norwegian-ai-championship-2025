@@ -1,9 +1,111 @@
+import asyncio
 from pathlib import Path
 import json
-from typing import List, Dict, Tuple
+import re
+from typing import List, Dict, Optional, Tuple
+from ollama import AsyncClient, ChatResponse
 
 # === Configuration ===
 REPHRASE_COUNT = 3  # Number of rephrased versions per statement
+
+
+# === API Client Setup ===
+def get_api_key(file_path=".api_key") -> str:
+    try:
+        with open(file_path, "r") as f:
+            api_key = f.read().strip()
+        return api_key
+    except FileNotFoundError:
+        print(f"API key file not found: {file_path}")
+        raise
+
+
+# -- Get the API key from a file outside the git repo --
+api_key_file = Path.cwd().parent / ".api_key"
+api_key = get_api_key(api_key_file)
+
+client = AsyncClient(
+    host="https://beta.chat.nhn.no/ollama",  # Swap to chat.nhn.no
+    headers={"Authorization": f"{api_key}"},
+)
+
+
+# -- Function to call LLM-api --
+async def call_llm_api(
+    prompt: str, model: str, num_rephrases: int = 3
+) -> Optional[List[str]]:
+    """
+    Asks the LLM to rephrase a statement in multiple ways.
+
+    Expects response in format:
+        1. Rephrased statement one.
+        2. Another version of the statement.
+        3. A third way to say it.
+
+    Args:
+        prompt (str): The original statement to rephrase.
+        model (str): The model identifier (e.g., "llama3-8b").
+        num_rephrases (int): Number of rephrased versions expected (default: 3).
+
+    Returns:
+        List[str]: List of rephrased statements, or None if failed.
+    """
+    system_message = (
+        f"Rephrase the following statement in exactly {num_rephrases} distinct ways. "
+        "Preserve the original meaning and truthfulness. "
+        "Respond ONLY in this format:\n"
+        "1. #first rephrased statement\n"
+        "2. #second rephrased statement\n"
+        "3. #third rephrased statement\n"
+        "Do not include any other text, explanations, or numbering beyond this."
+    )
+
+    try:
+        # Call the LLM
+        response: ChatResponse = await asyncio.wait_for(
+            client.chat(
+                model=model,
+                messages=[
+                    {"role": "system", "content": system_message},
+                    {"role": "user", "content": prompt},
+                ],
+                stream=False,
+            ),
+        )
+
+        # Extract content
+        if not hasattr(response, "message") or not hasattr(response.message, "content"):
+            print("Invalid response structure: missing message or content.")
+            return None
+
+        content = response.message.content.strip()
+        if not content:
+            print("Empty response from LLM.")
+            return None
+
+        # Regex pattern to match numbered lines: "1. ...", "2. ...", etc.
+        pattern = r"^\s*\d+\.\s+(.+?)(?=(?:\n\s*\d+\.|\Z))"
+        matches = re.findall(pattern, content, re.MULTILINE | re.DOTALL)
+
+        # Clean up matches (remove trailing whitespace, newlines)
+        rephrased = [match.strip() for match in matches]
+
+        # Validate number of rephrased statements
+        if len(rephrased) < num_rephrases:
+            print(
+                f"Warning: Expected {num_rephrases} rephrased statements, got {len(rephrased)}. Raw response:\n{content}"
+            )
+        elif len(rephrased) > num_rephrases:
+            rephrased = rephrased[:num_rephrases]  # Truncate if too many
+
+        return rephrased
+
+    except asyncio.TimeoutError:
+        print("LLM API call timed out.")
+        return None
+    except Exception as e:
+        print(f"An unexpected error occurred while calling the LLM: {e}")
+        return None
 
 
 # === Load statements and answers from files ===
@@ -61,6 +163,54 @@ def load_statements_and_answers(
     return data
 
 
+def filter_diverse_responses(
+    statements: List[str], min_similarity_threshold: float = 0.8
+) -> List[str]:
+    """
+    Filters out rephrased statements that are too similar to each other,
+    keeping only diverse ones.
+
+    Uses token-based Jaccard similarity as a lightweight diversity check.
+
+    Args:
+        statements (List[str]): List of rephrased statement strings.
+        min_similarity_threshold (float): If similarity >= this value, statements are considered too similar.
+                                         Lower = stricter diversity (default: 0.8)
+
+    Returns:
+        List[str]: Deduplicated and diverse list of statements.
+    """
+
+    def jaccard_similarity(s1: str, s2: str) -> float:
+        set1 = set(s1.lower().split())
+        set2 = set(s2.lower().split())
+        if not set1 and not set2:
+            return 1.0
+        if not set1 or not set2:
+            return 0.0
+        intersection = set1 & set2
+        union = set1 | set2
+        return len(intersection) / len(union)
+
+    diverse = []
+    for stmt in statements:
+        # Skip empty or whitespace-only
+        if not stmt.strip():
+            continue
+
+        # Check similarity with already accepted diverse statements
+        is_too_similar = False
+        for existing in diverse:
+            if jaccard_similarity(stmt, existing) >= min_similarity_threshold:
+                is_too_similar = True
+                break
+
+        if not is_too_similar:
+            diverse.append(stmt)
+
+    return diverse
+
+
 # === Rephrase statement using dummy logic (replace with real model/API later) ===
 def rephrase_statement(
     statement: str, original_output: str, rephrases: int = 3
@@ -78,6 +228,7 @@ def rephrase_statement(
         List[Tuple[str, str]]: List of (rephrased_statement, output)
     """
     # TODO: Integrate with Hugging Face, OpenAI, etc.
+    # TODO: Add logic to ensure rephrased statements are diverse and perserve meaning
     # Example using simple templates
     templates = [
         f"In other words, {statement.lower()}",
