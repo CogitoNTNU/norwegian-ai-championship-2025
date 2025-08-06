@@ -1,0 +1,9 @@
+Collecting numpy
+  Using cached numpy-2.3.2-cp311-cp311-win_amd64.whl.metadata (60 kB)
+Using cached numpy-2.3.2-cp311-cp311-win_amd64.whl (13.1 MB)
+Installing collected packages: numpy
+  Attempting uninstall: numpy
+    Found existing installation: numpy 1.24.3
+    Uninstalling numpy-1.24.3:
+      Successfully uninstalled numpy-1.24.3
+Successfully installed numpy-2.3.2

@@ -1,0 +1,13 @@
+{
+  "base_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+  "dataset_path": "improved_medical_embedding_dataset.json",
+  "training_timestamp": "2025-08-06T20:01:10.450706",
+  "device": "cuda",
+  "training_examples": 441,
+  "validation_examples": 49,
+  "epochs": 100,
+  "batch_size": 32,
+  "learning_rate": 2e-05,
+  "warmup_steps": 140,
+  "output_directory": "biobert-medical-embeddings_20250806_195342"
+}

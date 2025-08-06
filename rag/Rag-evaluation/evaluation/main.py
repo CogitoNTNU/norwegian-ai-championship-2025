@@ -230,7 +230,7 @@ def run_template_worker(
     Runs one template over all questions inside a separate process.
     Returns (template_name, results_list)
     """
-    llm_client = LocalLLMClient(model_name="cogito:3b")
+    llm_client = LocalLLMClient(model_name="cogito:8b")
     llm_client.ensure_model_available()
     template = template_cls(llm_client=llm_client)
 
