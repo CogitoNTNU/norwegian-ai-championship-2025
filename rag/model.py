@@ -8,22 +8,27 @@ sys.path.insert(
     0, os.path.join(os.path.dirname(__file__), "rag-evaluation", "templates")
 )
 
-from healthcare_rag import HealthcareRAG
+# Also add rag-evaluation directory for llm_client import
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "rag-evaluation"))
+
+from hybrid_rag_apple_silicon import HybridRAGAppleSilicon
+from llm_client import LocalLLMClient
 
 # Get configuration from environment or use defaults
 LLM_MODEL = os.getenv("LLM_MODEL", "cogito:3b")
 
 # Initialize the RAG system once at module level for efficiency
-print(f"Initializing HealthcareRAG system with {LLM_MODEL}...")
-rag_system = HealthcareRAG()
-print("HealthcareRAG system ready!")
+print(f"Initializing HybridRAGAppleSilicon system with {LLM_MODEL}...")
+llm_client = LocalLLMClient(model_name=LLM_MODEL)
+rag_system = HybridRAGAppleSilicon(llm_client=llm_client)
+print("HybridRAGAppleSilicon system ready!")
 
 
 ### CALL YOUR CUSTOM MODEL VIA THIS FUNCTION ###
 def predict(statement: str) -> Tuple[int, int]:
     """
     Predict both binary classification (true/false) and topic classification for a medical statement.
-    Uses the BM2s-based RAG system.
+    Uses the HybridRAGAppleSilicon system combining BioBERT semantic search with BM25 keyword search.
 
     Args:
         statement (str): The medical statement to classify
