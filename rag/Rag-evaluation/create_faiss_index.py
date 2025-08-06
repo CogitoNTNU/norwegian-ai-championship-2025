@@ -1,9 +1,8 @@
-
 import os
 import json
 import faiss
-import numpy as np
 from sentence_transformers import SentenceTransformer
+
 
 def create_and_save_faiss_index():
     """
@@ -28,29 +27,35 @@ def create_and_save_faiss_index():
     with open(chunks_file_path, "r", encoding="utf-8") as f:
         for line in f:
             documents.append(json.loads(line))
-    
+
     if not documents:
         print("No documents found. Exiting.")
         return
 
-    document_texts = [doc['text'] for doc in documents]
+    document_texts = [doc["text"] for doc in documents]
     print(f"Loaded {len(documents)} documents.")
 
     # --- 2. Generate Embeddings ---
     print("Loading BioBERT embedding model...")
-    model = SentenceTransformer("pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb")
-    
+    model = SentenceTransformer(
+        "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb"
+    )
+
     print("Encoding documents... (This may take a while)")
-    embeddings = model.encode(document_texts, show_progress_bar=True, convert_to_numpy=True)
-    
+    embeddings = model.encode(
+        document_texts, show_progress_bar=True, convert_to_numpy=True
+    )
+
     # Ensure embeddings are float32, as required by FAISS
-    embeddings = embeddings.astype('float32')
-    print(f"Generated {embeddings.shape[0]} embeddings with dimension {embeddings.shape[1]}.")
+    embeddings = embeddings.astype("float32")
+    print(
+        f"Generated {embeddings.shape[0]} embeddings with dimension {embeddings.shape[1]}."
+    )
 
     # --- 3. Create and Populate FAISS Index ---
     embedding_dimension = embeddings.shape[1]
     index = faiss.IndexFlatL2(embedding_dimension)
-    
+
     if faiss.get_num_gpus() > 0:
         print(f"Found {faiss.get_num_gpus()} GPUs. Using GPU for indexing.")
         res = faiss.StandardGpuResources()
@@ -68,7 +73,7 @@ def create_and_save_faiss_index():
         faiss.write_index(index_cpu, index_path)
     else:
         faiss.write_index(index, index_path)
-    
+
     # Save the document metadata for mapping results back
     print(f"Saving document mapping to {mapping_path}...")
     with open(mapping_path, "w", encoding="utf-8") as f:
@@ -78,6 +83,6 @@ def create_and_save_faiss_index():
     print(f"Index file: {index_path}")
     print(f"Mapping file: {mapping_path}")
 
+
 if __name__ == "__main__":
     create_and_save_faiss_index()
-

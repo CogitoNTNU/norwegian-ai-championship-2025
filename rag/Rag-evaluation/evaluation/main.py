@@ -23,21 +23,7 @@ logging.getLogger("urllib3").setLevel(logging.WARNING)
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
-from templates.healthcare_rag import HealthcareRAG  # noqa: E402
 from templates.hybrid_rag_apple_silicon import HybridRAGAppleSilicon  # noqa: E402
-from templates.embeddings_rag import EmbeddingsRAG  # noqa: E402
-from templates.simple_rag import SimpleRAG  # noqa: E402
-from templates.pocketflow_rag import PocketFlowRAG  # noqa: E402
-from templates.graph_rag import GraphRAG  # noqa: E402
-from templates.hyde import HyDE  # noqa: E402
-from templates.contextual_retriever import ContextualRetrieverRAG  # noqa: E402
-from templates.query_expansion_with_rrf import QueryExpansionRRF  # noqa: E402
-from templates.query_rewrite_rag import QueryRewriteRAG  # noqa: E402
-from templates.step_back_prompt import StepBackPromptRAG  # noqa: E402
-from templates.biobert_rag import BiobertRAG  # noqa: E402
-from templates.biobert_diagnostic import BiobertDiagnostic # noqa: E402
-from templates.biobert_fast import BiobertFast # noqa: E402
-from templates.optimized_smart_rag import OptimizedSmartRAG # noqa: E402
 from llm_client import LocalLLMClient  # noqa: E402
 from evaluation.config import EVALUATE_METHODS, RUN_TAG, RAGAS_METRICS  # noqa: E402
 from evaluation.metrics import (  # noqa: E402
@@ -235,14 +221,18 @@ def run_template_worker(
     Returns (template_name, results_list)
     """
     start_time = datetime.now()
-    print(f"[{start_time.strftime('%H:%M:%S')}] Starting {template_name} template worker...")
-    
+    print(
+        f"[{start_time.strftime('%H:%M:%S')}] Starting {template_name} template worker..."
+    )
+
     llm_client = LocalLLMClient(model_name="cogito:3b")
     llm_client.ensure_model_available()
     template = template_cls(llm_client=llm_client)
-    
+
     init_time = datetime.now()
-    print(f"[{init_time.strftime('%H:%M:%S')}] {template_name} initialization completed in {(init_time - start_time).total_seconds():.2f}s")
+    print(
+        f"[{init_time.strftime('%H:%M:%S')}] {template_name} initialization completed in {(init_time - start_time).total_seconds():.2f}s"
+    )
 
     results = []
     for i, (_, row) in enumerate(questions_df.iterrows(), 1):
@@ -254,12 +244,16 @@ def run_template_worker(
             if isinstance(retrieved_context, str):
                 retrieved_context = [retrieved_context]
             response_time = time.time() - question_start_time
-            print(f"[{datetime.now().strftime('%H:%M:%S')}] {template_name} question {i}/{len(questions_df)} completed in {response_time:.2f}s")
+            print(
+                f"[{datetime.now().strftime('%H:%M:%S')}] {template_name} question {i}/{len(questions_df)} completed in {response_time:.2f}s"
+            )
         except Exception as exc:
             answer = "Error occurred during processing"
             retrieved_context = []
             response_time = 0.0
-            print(f"[{datetime.now().strftime('%H:%M:%S')}] {template_name} question {i} failed: {exc}")
+            print(
+                f"[{datetime.now().strftime('%H:%M:%S')}] {template_name} question {i} failed: {exc}"
+            )
             traceback.print_exc()
 
         results.append(
@@ -273,10 +267,12 @@ def run_template_worker(
                 "parsed_answer": None,  # Will be filled later
             }
         )
-    
+
     end_time = datetime.now()
     total_time = (end_time - start_time).total_seconds()
-    print(f"[{end_time.strftime('%H:%M:%S')}] {template_name} template worker completed in {total_time:.2f}s")
+    print(
+        f"[{end_time.strftime('%H:%M:%S')}] {template_name} template worker completed in {total_time:.2f}s"
+    )
     return template_name, results
 
 
@@ -286,7 +282,9 @@ def run_ragas_worker(template_name: str, results: list[dict], ragas_metrics):
     Returns (template_name, {metric_name: score, ...})
     """
     start_time = datetime.now()
-    print(f"[{start_time.strftime('%H:%M:%S')}] Starting RAGAS evaluation for {template_name}...")
+    print(
+        f"[{start_time.strftime('%H:%M:%S')}] Starting RAGAS evaluation for {template_name}..."
+    )
 
     eval_data = {
         "question": [r["question"] for r in results],
@@ -315,10 +313,12 @@ def run_ragas_worker(template_name: str, results: list[dict], ragas_metrics):
     except Exception as exc:
         print(f"[RAGAS‑{template_name}] Evaluation failed: {exc}")
         scores = {m.name: 0.0 for m in ragas_metrics}
-    
+
     end_time = datetime.now()
     ragas_time = (end_time - start_time).total_seconds()
-    print(f"[{end_time.strftime('%H:%M:%S')}] RAGAS evaluation for {template_name} completed in {ragas_time:.2f}s")
+    print(
+        f"[{end_time.strftime('%H:%M:%S')}] RAGAS evaluation for {template_name} completed in {ragas_time:.2f}s"
+    )
     return template_name, scores
 
 

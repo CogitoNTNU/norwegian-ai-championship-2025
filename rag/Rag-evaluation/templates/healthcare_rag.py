@@ -43,36 +43,44 @@ class HealthcareRAG:
     def _setup_documents(self):
         """Initialize document collection with optimized indexes."""
         # Try to load optimized indexes first
-        optimized_dir = os.path.join(os.path.dirname(__file__), "..", "optimized_indexes")
+        optimized_dir = os.path.join(
+            os.path.dirname(__file__), "..", "optimized_indexes"
+        )
         bm25_index_path = os.path.join(optimized_dir, "bm25_index.pkl")
         mapping_path = os.path.join(optimized_dir, "document_mapping.json")
         metadata_path = os.path.join(optimized_dir, "index_metadata.json")
-        
+
         if os.path.exists(bm25_index_path) and os.path.exists(mapping_path):
             print(f"🚀 Loading optimized BM25 index from {optimized_dir}...")
-            
+
             # Load BM25 index
             with open(bm25_index_path, "rb") as f:
                 self.bm25_index = pickle.load(f)
-            
+
             # Load document mapping
             with open(mapping_path, "r", encoding="utf-8") as f:
                 self.documents = json.load(f)
-            
-            self.document_texts = [doc['text'] for doc in self.documents]
-            
+
+            self.document_texts = [doc["text"] for doc in self.documents]
+
             # Load and display metadata
             if os.path.exists(metadata_path):
                 with open(metadata_path, "r", encoding="utf-8") as f:
                     metadata = json.load(f)
-                print(f"✅ Loaded optimized BM25 index:")
-                print(f"   • {metadata['total_documents']:,} documents from {metadata['unique_topics']} topics")
+                print("✅ Loaded optimized BM25 index:")
+                print(
+                    f"   • {metadata['total_documents']:,} documents from {metadata['unique_topics']} topics"
+                )
                 print(f"   • {metadata['unique_articles']} unique articles")
-                print(f"   • Average chunk size: {metadata['avg_chunk_words']:.1f} words")
+                print(
+                    f"   • Average chunk size: {metadata['avg_chunk_words']:.1f} words"
+                )
             else:
-                print(f"✅ Loaded {len(self.documents)} documents from optimized index.")
+                print(
+                    f"✅ Loaded {len(self.documents)} documents from optimized index."
+                )
             return
-        
+
         # Fallback to old cache system if optimized indexes not available
         print("⚠️ Optimized indexes not found. Falling back to cache system...")
         cache_dir = Path("cache")
@@ -108,7 +116,9 @@ class HealthcareRAG:
 
     def _load_medical_documents(self):
         """Load and process medical documents from the pre-chunked chunks.jsonl file."""
-        chunks_file_path = os.path.join(os.path.dirname(__file__), "..", "..", "data", "processed", "chunks.jsonl")
+        chunks_file_path = os.path.join(
+            os.path.dirname(__file__), "..", "..", "data", "processed", "chunks.jsonl"
+        )
 
         if not os.path.exists(chunks_file_path):
             print(f"Warning: chunks.jsonl file not found at {chunks_file_path}")
@@ -119,6 +129,7 @@ class HealthcareRAG:
                 chunk_data = json.loads(line)
                 self.documents.append(chunk_data)
                 self.document_texts.append(chunk_data["text"])
+
     def _load_training_data(self):
         """Load training statements and answers to improve context retrieval."""
         # Find combined data directory (all data for training)
