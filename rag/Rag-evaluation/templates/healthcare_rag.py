@@ -41,7 +41,40 @@ class HealthcareRAG:
         self._setup_documents()
 
     def _setup_documents(self):
-        """Initialize document collection with medical documents using cache."""
+        """Initialize document collection with optimized indexes."""
+        # Try to load optimized indexes first
+        optimized_dir = os.path.join(os.path.dirname(__file__), "..", "optimized_indexes")
+        bm25_index_path = os.path.join(optimized_dir, "bm25_index.pkl")
+        mapping_path = os.path.join(optimized_dir, "document_mapping.json")
+        metadata_path = os.path.join(optimized_dir, "index_metadata.json")
+        
+        if os.path.exists(bm25_index_path) and os.path.exists(mapping_path):
+            print(f"🚀 Loading optimized BM25 index from {optimized_dir}...")
+            
+            # Load BM25 index
+            with open(bm25_index_path, "rb") as f:
+                self.bm25_index = pickle.load(f)
+            
+            # Load document mapping
+            with open(mapping_path, "r", encoding="utf-8") as f:
+                self.documents = json.load(f)
+            
+            self.document_texts = [doc['text'] for doc in self.documents]
+            
+            # Load and display metadata
+            if os.path.exists(metadata_path):
+                with open(metadata_path, "r", encoding="utf-8") as f:
+                    metadata = json.load(f)
+                print(f"✅ Loaded optimized BM25 index:")
+                print(f"   • {metadata['total_documents']:,} documents from {metadata['unique_topics']} topics")
+                print(f"   • {metadata['unique_articles']} unique articles")
+                print(f"   • Average chunk size: {metadata['avg_chunk_words']:.1f} words")
+            else:
+                print(f"✅ Loaded {len(self.documents)} documents from optimized index.")
+            return
+        
+        # Fallback to old cache system if optimized indexes not available
+        print("⚠️ Optimized indexes not found. Falling back to cache system...")
         cache_dir = Path("cache")
         cache_dir.mkdir(exist_ok=True)
 
@@ -74,52 +107,18 @@ class HealthcareRAG:
             print("💾 Cached BM25s index for future use")
 
     def _load_medical_documents(self):
-        """Load and process medical documents from topics directory and training data."""
-        # Load training data first - this provides statement-answer patterns
-        self._load_training_data()
+        """Load and process medical documents from the pre-chunked chunks.jsonl file."""
+        chunks_file_path = os.path.join(os.path.dirname(__file__), "..", "..", "data", "processed", "chunks.jsonl")
 
-        # Find topics directory
-        topics_dir = self._find_topics_directory()
-        if not topics_dir:
-            print("Warning: Topics directory not found")
+        if not os.path.exists(chunks_file_path):
+            print(f"Warning: chunks.jsonl file not found at {chunks_file_path}")
             return
 
-        # Process all markdown files
-        for root, dirs, files in os.walk(topics_dir):
-            for file in files:
-                if file.endswith(".md"):
-                    file_path = os.path.join(root, file)
-                    try:
-                        with open(file_path, "r", encoding="utf-8") as f:
-                            content = f.read()
-
-                        if content.strip():  # Only add non-empty documents
-                            # Split content into chunks for better retrieval
-                            chunks = self._split_text(
-                                content, chunk_size=1000, chunk_overlap=200
-                            )
-
-                            for i, chunk in enumerate(chunks):
-                                if chunk.strip():
-                                    self.documents.append(
-                                        {
-                                            "content": chunk,
-                                            "source": file_path,
-                                            "topic": os.path.basename(
-                                                os.path.dirname(file_path)
-                                            ),
-                                            "chunk_id": i,
-                                        }
-                                    )
-                                    self.document_texts.append(chunk)
-
-                    except Exception as e:
-                        print(f"Error loading {file_path}: {e}")
-
-        print(
-            f"Loaded {len(self.documents)} document chunks (including training examples)"
-        )
-
+        with open(chunks_file_path, "r", encoding="utf-8") as f:
+            for line in f:
+                chunk_data = json.loads(line)
+                self.documents.append(chunk_data)
+                self.document_texts.append(chunk_data["text"])
     def _load_training_data(self):
         """Load training statements and answers to improve context retrieval."""
         # Find combined data directory (all data for training)
@@ -404,11 +403,14 @@ TRAINING_EXAMPLE: This statement is {"true" if is_true else "false"} and relates
             if len(scores) > 0:
                 min_score = max(scores) * 0.3  # Keep top 30% of max score
                 filtered_contexts = []
+                seen_contexts = set()
 
                 for idx, score in zip(top_indices, scores):
                     if score >= min_score:
                         context = self.document_texts[idx]
-                        filtered_contexts.append(context)
+                        if context not in seen_contexts:
+                            filtered_contexts.append(context)
+                            seen_contexts.add(context)
 
                 return filtered_contexts[:k]  # Limit to k results
             else:

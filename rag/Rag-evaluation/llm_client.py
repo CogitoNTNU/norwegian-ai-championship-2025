@@ -109,38 +109,39 @@ class LocalLLMClient:
             f"- {name}: {num}" for name, num in self.topic_mapping.items()
         )
 
-        prompt = f"""You are a medical fact-checker tasked with evaluating medical statements for accuracy and categorization.
+        prompt = f"""[SYSTEM]
+You are a meticulous medical fact-checking expert. Your sole task is to determine if a given medical statement is TRUE or FALSE based *only* on the provided medical context. You must also classify the statement into a medical topic.
 
-Available Medical Topics (with numbers):
-{topics_text}
-
-Provided Medical Context:
+[CONTEXT]
 {context}
 
-Statement to Evaluate: {statement}
+[STATEMENT]
+Statement to Evaluate: "{statement}"
 
-Instructions:
-1. FACT-CHECKING: Use ONLY the provided medical context to verify if the statement is accurate.
-   - If the context supports the statement as medically correct, mark as true (1)
-   - If the context contradicts the statement or shows it's incorrect, mark as false (0)
-   - Base your decision strictly on the evidence in the provided context
+[INSTRUCTIONS]
+1.  **Analyze the Context**: Carefully read the provided medical context.
+2.  **Analyze the Statement**: Identify the key claim in the statement.
+3.  **Compare and Decide**:
+    *   If the context **directly supports** the statement, it is TRUE.
+    *   If the context **directly contradicts** the statement, it is FALSE.
+    *   If the context does not contain information to verify the statement, you must still make a best effort to classify it based on the information you do have.
+4.  **Topic Classification**: From the list of topics below, choose the number that best corresponds to the statement.
 
-2. TOPIC CLASSIFICATION: Identify which medical topic (by number) the statement primarily relates to:
-   - Look for key medical terms, conditions, procedures, or concepts in the statement
-   - Match these to the most appropriate topic from the numbered list above
-   - Choose the topic number that best represents the main medical focus
+[MEDICAL TOPICS]
+{topics_text}
 
-3. OUTPUT FORMAT: Respond with valid JSON containing exactly these fields:
-   - "is_true": 1 (if statement is accurate per context) or 0 (if inaccurate per context)
-   - "topic": the topic number (0-114) that best matches the statement's medical focus
+[OUTPUT FORMAT]
+You must respond in JSON format. Do not add any other text. The JSON should contain two keys:
+*   `"is_true"`: `1` for TRUE, `0` for FALSE.
+*   `"topic"`: The topic number.
 
-Example Response:
-{{
-    "is_true": 1,
-    "topic": 42
-}}
+[EXAMPLE of a contradiction]
+Context: "The radial approach is associated with fewer complications than the femoral approach."
+Statement: "The radial approach has a higher risk of complications."
+Correct Output: {{ "is_true": 0, "topic": 18 }}
 
-Provide ONLY the JSON response, no additional text."""
+[YOUR RESPONSE]
+"""
 
         return prompt
 

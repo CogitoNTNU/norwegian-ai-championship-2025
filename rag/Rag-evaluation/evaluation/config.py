@@ -6,8 +6,11 @@ from ragas.metrics import (
 )
 
 EVALUATE_METHODS = [
-    "healthcare_rag",
-    # "hybrid_rag_apple_silicon",  # Our new hybrid RAG system
+    # "healthcare_rag",
+    "hybrid_rag_apple_silicon",  # Our new hybrid RAG system
+    # "biobert_rag",  # BioBERT Hybrid + NLI reranking
+    # "biobert_topic_bm25",  # BioBERT Topic-classified BM25 + NLI
+    # "optimized_smart_rag",  # Optimized SmartRAG with pre-computed topic indexes
     # "simple_rag",
     # "embeddings_rag",  # RAG with configurable embeddings from rag-pipeline
     # "graph_rag",  # Graph-based RAG with simulated medical knowledge graph

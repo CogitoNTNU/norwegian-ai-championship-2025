@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": 718,
+    "topic_id": 42,
+    "topic_name": "Hypoglycemia",
+    "article_title": "Hypoglycemia",
+    "position": 0,
+    "word_count": 200,
+    "text": "Evaluation\nFulfillment of the Whipple triad is necessary before establishing any diagnosis of a hypoglycemic disorder. The triad consists of\\[8\\]:\n1. The presence of hypoglycemic signs and symptoms\n1. Low blood glucose levels lower than 70 mg/dl\n1. Resolution of symptoms after glucose administration and correction of hypoglycemia\nAfter confirming that a hypoglycemic disorder is present, and after excluding other potential causes, the following laboratory tests should be sent during hypoglycemia when the blood glucose level is less than 70mg/dl, including plasma insulin, C peptide, proinsulin, and insulin secretagogues blood levels.\nSynthetic insulin usually lacks C peptide, so in factitious hypoglycemia secondary to exogenous insulin administration, plasma insulin will show elevated, but there will be suppression of C peptide and proinsulin, and insulin to C peptide ratio will be greater than one. On the other hand, insulinomas and insulin secretagogues like sulfonylureas stimulate endogenous insulin production; as a result, plasma insulin, C peptide, and proinsulin levels will be all elevated. Note that levels may be within normal limits but still relatively high for someone with hypoglycemia.\nThe only way to differentiate between insulinoma and insulin secretagogues induced hypoglycemia is by detecting the drug, e.g., sulfonylurea, in the blood or urine."
+  },
+  {
+    "chunk_id": 719,
+    "topic_id": 42,
+    "topic_name": "Hypoglycemia",
+    "article_title": "Hypoglycemia",
+    "position": 1,
+    "word_count": 304,
+    "text": "Note that levels may be within normal limits but still relatively high for someone with hypoglycemia. The only way to differentiate between insulinoma and insulin secretagogues induced hypoglycemia is by detecting the drug, e.g., sulfonylurea, in the blood or urine. Treatment / Management\nThe first step in treating factitious hypoglycemia is restoring normal blood glucose levels to relieve hypoglycemic symptoms. When the patient is not in the hospital setting, oral glucose and glucagon injections can be administered initially. When a patient is at the hospital, IV glucose should be started, and in comatose patients, hydrocortisone also needs to be added. Close monitoring of serum glucose is then required, and usually, patients would need to be on continuous IV glucose infusions till the drug effect wears off, which may take one to two days. Bolus glucose administration should be avoided in sulfonylurea-induced hypoglycemia as this may lead to more stimulation of insulin by the circulating drug in the blood.\nIf sulfonylurea-induced hypoglycemia persists despite IV glucose infusion, additional therapy may be warranted. Octreotide, a somatostatin analog that can inhibit beta cells of the pancreas, is a suggestion for the first-line treatment of sulfonylurea overdose in combination with dextrose infusion. It can be administered intravenously or subcutaneously. Some literature data historically suggested the use of diazoxide, which is an oral antihypertensive drug that antagonizes the effect of sulfonylurea on the beta cells of the pancreas and inhibits the release of insulin. However, it has then fallen out of favor after the introduction of octreotide.\nLong term treatment is best achieved by collaboration with a psychiatrist, and psychotherapy remains the treatment of choice in such patients. Studies have shown that antidepressants and antipsychotics were not beneficial for factitious disorder. However, many patients would not agree to be seen by a psychiatrist even when they acknowledge the diagnosis."
+  }
+]
