@@ -66,6 +66,15 @@ class LocalLLMClient:
         """
         prompt = self._build_classification_prompt(statement, context)
 
+        # Log the exact input being sent to the LLM
+        print("\n" + "=" * 80)
+        print("🤖 LLM INPUT:")
+        print("=" * 80)
+        print(f"STATEMENT: {statement}")
+        print(f"\nCONTEXT LENGTH: {len(context)} characters")
+        print(f"\nFULL PROMPT:\n{prompt}")
+        print("=" * 80)
+
         try:
             # Use Ollama generate endpoint with JSON format
             response = requests.post(
@@ -94,7 +103,21 @@ class LocalLLMClient:
 
             response_data = response.json()
             result_text = response_data.get("response", "")
-            return self._parse_classification_result(result_text)
+
+            # Log the exact output from the LLM
+            print("\n" + "=" * 80)
+            print("🤖 LLM OUTPUT:")
+            print("=" * 80)
+            print(f"RAW RESPONSE: {result_text}")
+
+            parsed_result = self._parse_classification_result(result_text)
+
+            print(
+                f"PARSED RESULT: is_true={parsed_result[0]}, topic={parsed_result[1]}"
+            )
+            print("=" * 80 + "\n")
+
+            return parsed_result
 
         except Exception as e:
             print(f"Error in LLM classification: {e}")

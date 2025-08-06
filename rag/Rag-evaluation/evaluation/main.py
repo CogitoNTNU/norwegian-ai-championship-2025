@@ -24,6 +24,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 from templates.hybrid_rag_apple_silicon import HybridRAGAppleSilicon  # noqa: E402
+from templates.hybrid_rag_dual_process import HybridRAGDualProcess  # noqa: E402
 from llm_client import LocalLLMClient  # noqa: E402
 from evaluation.config import EVALUATE_METHODS, RUN_TAG, RAGAS_METRICS  # noqa: E402
 from evaluation.metrics import (  # noqa: E402
@@ -373,6 +374,7 @@ def main():
     all_templates = {
         # "healthcare_rag": HealthcareRAG,
         "hybrid_rag_apple_silicon": HybridRAGAppleSilicon,
+        "hybrid_rag_dual_process": HybridRAGDualProcess,
         # "biobert_rag": BiobertRAG,  # BioBERT Hybrid + NLI reranking
         # "biobert_topic_bm25": BiobertDiagnostic,  # BioBERT Topic-classified BM25 + NLI
         # "biobert_fast": BiobertFast,  # Fast BioBERT Topic-classified BM25 without NLI

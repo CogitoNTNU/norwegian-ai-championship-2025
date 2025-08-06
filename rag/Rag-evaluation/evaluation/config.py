@@ -7,7 +7,8 @@ from ragas.metrics import (
 
 EVALUATE_METHODS = [
     # "healthcare_rag",
-    "hybrid_rag_apple_silicon",  # Our new hybrid RAG system
+    "hybrid_rag_dual_process",  # Dual process parallel classification
+    # "hybrid_rag_apple_silicon",  # Our new hybrid RAG system
     # "biobert_rag",  # BioBERT Hybrid + NLI reranking
     # "biobert_topic_bm25",  # BioBERT Topic-classified BM25 + NLI
     # "optimized_smart_rag",  # Optimized SmartRAG with pre-computed topic indexes
