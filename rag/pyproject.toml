@@ -49,7 +49,7 @@ dependencies = [
     "typing-inspection>=0.4.0",
     "annotated-types>=0.6.0",
     "bm25s>=0.2.13",
-    "PyStemmer>=3.0.0",
+    "pystemmer>=3.0.0",
     "accelerate>=0.20.0",
     "anthropic>=0.60.0",
     "sentence-transformers>=5.0.0",
@@ -76,6 +76,8 @@ build-backend = "hatchling.build"
 [dependency-groups]
 dev = [
     "pre-commit>=4.2.0",
+    "pytest>=8.4.1",
+    "ruff>=0.12.7",
 ]
 
 [tool.hatch.build.targets.wheel]

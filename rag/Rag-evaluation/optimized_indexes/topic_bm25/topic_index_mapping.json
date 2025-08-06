@@ -1,0 +1,577 @@
+{
+  "Abdominal Trauma": {
+    "index_file": "bm25_Abdominal_Trauma.pkl",
+    "mapping_file": "mapping_Abdominal_Trauma.json",
+    "document_count": 10
+  },
+  "Acute Abdomen": {
+    "index_file": "bm25_Acute_Abdomen.pkl",
+    "mapping_file": "mapping_Acute_Abdomen.json",
+    "document_count": 18
+  },
+  "Acute Appendicitis": {
+    "index_file": "bm25_Acute_Appendicitis.pkl",
+    "mapping_file": "mapping_Acute_Appendicitis.json",
+    "document_count": 36
+  },
+  "Acute Cholecystitis": {
+    "index_file": "bm25_Acute_Cholecystitis.pkl",
+    "mapping_file": "mapping_Acute_Cholecystitis.json",
+    "document_count": 12
+  },
+  "Acute Coronary Syndrome": {
+    "index_file": "bm25_Acute_Coronary_Syndrome.pkl",
+    "mapping_file": "mapping_Acute_Coronary_Syndrome.json",
+    "document_count": 2
+  },
+  "Acute Kidney Injury": {
+    "index_file": "bm25_Acute_Kidney_Injury.pkl",
+    "mapping_file": "mapping_Acute_Kidney_Injury.json",
+    "document_count": 22
+  },
+  "Acute Liver Failure": {
+    "index_file": "bm25_Acute_Liver_Failure.pkl",
+    "mapping_file": "mapping_Acute_Liver_Failure.json",
+    "document_count": 7
+  },
+  "Acute Myocardial Infarction (STEMI_NSTEMI)": {
+    "index_file": "bm25_Acute_Myocardial_Infarction_STEMI_NSTEMI.pkl",
+    "mapping_file": "mapping_Acute_Myocardial_Infarction_STEMI_NSTEMI.json",
+    "document_count": 51
+  },
+  "Acute Respiratory Distress Syndrome": {
+    "index_file": "bm25_Acute_Respiratory_Distress_Syndrome.pkl",
+    "mapping_file": "mapping_Acute_Respiratory_Distress_Syndrome.json",
+    "document_count": 7
+  },
+  "Anaphylaxis": {
+    "index_file": "bm25_Anaphylaxis.pkl",
+    "mapping_file": "mapping_Anaphylaxis.json",
+    "document_count": 8
+  },
+  "Aortic Dissection": {
+    "index_file": "bm25_Aortic_Dissection.pkl",
+    "mapping_file": "mapping_Aortic_Dissection.json",
+    "document_count": 24
+  },
+  "Aortic Stenosis": {
+    "index_file": "bm25_Aortic_Stenosis.pkl",
+    "mapping_file": "mapping_Aortic_Stenosis.json",
+    "document_count": 7
+  },
+  "Arrhythmias (various)": {
+    "index_file": "bm25_Arrhythmias_various.pkl",
+    "mapping_file": "mapping_Arrhythmias_various.json",
+    "document_count": 23
+  },
+  "Aspiration Pneumonia": {
+    "index_file": "bm25_Aspiration_Pneumonia.pkl",
+    "mapping_file": "mapping_Aspiration_Pneumonia.json",
+    "document_count": 21
+  },
+  "Asthma Exacerbation": {
+    "index_file": "bm25_Asthma_Exacerbation.pkl",
+    "mapping_file": "mapping_Asthma_Exacerbation.json",
+    "document_count": 58
+  },
+  "Atrial Fibrillation": {
+    "index_file": "bm25_Atrial_Fibrillation.pkl",
+    "mapping_file": "mapping_Atrial_Fibrillation.json",
+    "document_count": 14
+  },
+  "Blunt Trauma": {
+    "index_file": "bm25_Blunt_Trauma.pkl",
+    "mapping_file": "mapping_Blunt_Trauma.json",
+    "document_count": 15
+  },
+  "Bowel Obstruction": {
+    "index_file": "bm25_Bowel_Obstruction.pkl",
+    "mapping_file": "mapping_Bowel_Obstruction.json",
+    "document_count": 40
+  },
+  "Brain Death": {
+    "index_file": "bm25_Brain_Death.pkl",
+    "mapping_file": "mapping_Brain_Death.json",
+    "document_count": 9
+  },
+  "Bronchitis": {
+    "index_file": "bm25_Bronchitis.pkl",
+    "mapping_file": "mapping_Bronchitis.json",
+    "document_count": 24
+  },
+  "Burns": {
+    "index_file": "bm25_Burns.pkl",
+    "mapping_file": "mapping_Burns.json",
+    "document_count": 20
+  },
+  "COPD Exacerbation": {
+    "index_file": "bm25_COPD_Exacerbation.pkl",
+    "mapping_file": "mapping_COPD_Exacerbation.json",
+    "document_count": 31
+  },
+  "Cardiac Arrest": {
+    "index_file": "bm25_Cardiac_Arrest.pkl",
+    "mapping_file": "mapping_Cardiac_Arrest.json",
+    "document_count": 6
+  },
+  "Cardiac Contusion": {
+    "index_file": "bm25_Cardiac_Contusion.pkl",
+    "mapping_file": "mapping_Cardiac_Contusion.json",
+    "document_count": 3
+  },
+  "Cardiac Tamponade": {
+    "index_file": "bm25_Cardiac_Tamponade.pkl",
+    "mapping_file": "mapping_Cardiac_Tamponade.json",
+    "document_count": 3
+  },
+  "Cardiomyopathy": {
+    "index_file": "bm25_Cardiomyopathy.pkl",
+    "mapping_file": "mapping_Cardiomyopathy.json",
+    "document_count": 11
+  },
+  "Cervical Spine Injury": {
+    "index_file": "bm25_Cervical_Spine_Injury.pkl",
+    "mapping_file": "mapping_Cervical_Spine_Injury.json",
+    "document_count": 3
+  },
+  "Chest Pain (non-cardiac)": {
+    "index_file": "bm25_Chest_Pain_non-cardiac.pkl",
+    "mapping_file": "mapping_Chest_Pain_non-cardiac.json",
+    "document_count": 6
+  },
+  "Compartment Syndrome": {
+    "index_file": "bm25_Compartment_Syndrome.pkl",
+    "mapping_file": "mapping_Compartment_Syndrome.json",
+    "document_count": 15
+  },
+  "Delirium": {
+    "index_file": "bm25_Delirium.pkl",
+    "mapping_file": "mapping_Delirium.json",
+    "document_count": 10
+  },
+  "Diabetic Ketoacidosis": {
+    "index_file": "bm25_Diabetic_Ketoacidosis.pkl",
+    "mapping_file": "mapping_Diabetic_Ketoacidosis.json",
+    "document_count": 30
+  },
+  "Eclampsia": {
+    "index_file": "bm25_Eclampsia.pkl",
+    "mapping_file": "mapping_Eclampsia.json",
+    "document_count": 15
+  },
+  "Ectopic Pregnancy": {
+    "index_file": "bm25_Ectopic_Pregnancy.pkl",
+    "mapping_file": "mapping_Ectopic_Pregnancy.json",
+    "document_count": 13
+  },
+  "Embolism": {
+    "index_file": "bm25_Embolism.pkl",
+    "mapping_file": "mapping_Embolism.json",
+    "document_count": 32
+  },
+  "Empyema": {
+    "index_file": "bm25_Empyema.pkl",
+    "mapping_file": "mapping_Empyema.json",
+    "document_count": 3
+  },
+  "Encephalitis": {
+    "index_file": "bm25_Encephalitis.pkl",
+    "mapping_file": "mapping_Encephalitis.json",
+    "document_count": 4
+  },
+  "Endocarditis": {
+    "index_file": "bm25_Endocarditis.pkl",
+    "mapping_file": "mapping_Endocarditis.json",
+    "document_count": 12
+  },
+  "GI Bleeding": {
+    "index_file": "bm25_GI_Bleeding.pkl",
+    "mapping_file": "mapping_GI_Bleeding.json",
+    "document_count": 12
+  },
+  "Heart Failure (Acute_Chronic)": {
+    "index_file": "bm25_Heart_Failure_Acute_Chronic.pkl",
+    "mapping_file": "mapping_Heart_Failure_Acute_Chronic.json",
+    "document_count": 58
+  },
+  "Hemothorax": {
+    "index_file": "bm25_Hemothorax.pkl",
+    "mapping_file": "mapping_Hemothorax.json",
+    "document_count": 7
+  },
+  "Hypertensive Emergency": {
+    "index_file": "bm25_Hypertensive_Emergency.pkl",
+    "mapping_file": "mapping_Hypertensive_Emergency.json",
+    "document_count": 8
+  },
+  "Hyperventilation Syndrome": {
+    "index_file": "bm25_Hyperventilation_Syndrome.pkl",
+    "mapping_file": "mapping_Hyperventilation_Syndrome.json",
+    "document_count": 8
+  },
+  "Hypoglycemia": {
+    "index_file": "bm25_Hypoglycemia.pkl",
+    "mapping_file": "mapping_Hypoglycemia.json",
+    "document_count": 2
+  },
+  "Hyponatremia_Hypernatremia": {
+    "index_file": "bm25_Hyponatremia_Hypernatremia.pkl",
+    "mapping_file": "mapping_Hyponatremia_Hypernatremia.json",
+    "document_count": 10
+  },
+  "Hypothermia_Hyperthermia": {
+    "index_file": "bm25_Hypothermia_Hyperthermia.pkl",
+    "mapping_file": "mapping_Hypothermia_Hyperthermia.json",
+    "document_count": 13
+  },
+  "Interstitial Lung Disease": {
+    "index_file": "bm25_Interstitial_Lung_Disease.pkl",
+    "mapping_file": "mapping_Interstitial_Lung_Disease.json",
+    "document_count": 4
+  },
+  "Lung Abscess": {
+    "index_file": "bm25_Lung_Abscess.pkl",
+    "mapping_file": "mapping_Lung_Abscess.json",
+    "document_count": 6
+  },
+  "Lung Cancer": {
+    "index_file": "bm25_Lung_Cancer.pkl",
+    "mapping_file": "mapping_Lung_Cancer.json",
+    "document_count": 75
+  },
+  "Meningitis": {
+    "index_file": "bm25_Meningitis.pkl",
+    "mapping_file": "mapping_Meningitis.json",
+    "document_count": 22
+  },
+  "Mitral Regurgitation": {
+    "index_file": "bm25_Mitral_Regurgitation.pkl",
+    "mapping_file": "mapping_Mitral_Regurgitation.json",
+    "document_count": 14
+  },
+  "Multi-organ Failure": {
+    "index_file": "bm25_Multi-organ_Failure.pkl",
+    "mapping_file": "mapping_Multi-organ_Failure.json",
+    "document_count": 7
+  },
+  "Myocarditis": {
+    "index_file": "bm25_Myocarditis.pkl",
+    "mapping_file": "mapping_Myocarditis.json",
+    "document_count": 18
+  },
+  "Ovarian Torsion": {
+    "index_file": "bm25_Ovarian_Torsion.pkl",
+    "mapping_file": "mapping_Ovarian_Torsion.json",
+    "document_count": 4
+  },
+  "Overdose_Poisoning": {
+    "index_file": "bm25_Overdose_Poisoning.pkl",
+    "mapping_file": "mapping_Overdose_Poisoning.json",
+    "document_count": 46
+  },
+  "Pancreatitis": {
+    "index_file": "bm25_Pancreatitis.pkl",
+    "mapping_file": "mapping_Pancreatitis.json",
+    "document_count": 22
+  },
+  "Penetrating Trauma": {
+    "index_file": "bm25_Penetrating_Trauma.pkl",
+    "mapping_file": "mapping_Penetrating_Trauma.json",
+    "document_count": 15
+  },
+  "Perforated Viscus": {
+    "index_file": "bm25_Perforated_Viscus.pkl",
+    "mapping_file": "mapping_Perforated_Viscus.json",
+    "document_count": 5
+  },
+  "Pericarditis": {
+    "index_file": "bm25_Pericarditis.pkl",
+    "mapping_file": "mapping_Pericarditis.json",
+    "document_count": 18
+  },
+  "Placental Abruption": {
+    "index_file": "bm25_Placental_Abruption.pkl",
+    "mapping_file": "mapping_Placental_Abruption.json",
+    "document_count": 6
+  },
+  "Pleural Effusion": {
+    "index_file": "bm25_Pleural_Effusion.pkl",
+    "mapping_file": "mapping_Pleural_Effusion.json",
+    "document_count": 12
+  },
+  "Pneumomediastinum": {
+    "index_file": "bm25_Pneumomediastinum.pkl",
+    "mapping_file": "mapping_Pneumomediastinum.json",
+    "document_count": 3
+  },
+  "Pneumonia (bacterial_viral_atypical)": {
+    "index_file": "bm25_Pneumonia_bacterial_viral_atypical.pkl",
+    "mapping_file": "mapping_Pneumonia_bacterial_viral_atypical.json",
+    "document_count": 48
+  },
+  "Pneumothorax": {
+    "index_file": "bm25_Pneumothorax.pkl",
+    "mapping_file": "mapping_Pneumothorax.json",
+    "document_count": 23
+  },
+  "Pulmonary Embolism": {
+    "index_file": "bm25_Pulmonary_Embolism.pkl",
+    "mapping_file": "mapping_Pulmonary_Embolism.json",
+    "document_count": 31
+  },
+  "Pulmonary Fibrosis": {
+    "index_file": "bm25_Pulmonary_Fibrosis.pkl",
+    "mapping_file": "mapping_Pulmonary_Fibrosis.json",
+    "document_count": 34
+  },
+  "Pulmonary Hypertension": {
+    "index_file": "bm25_Pulmonary_Hypertension.pkl",
+    "mapping_file": "mapping_Pulmonary_Hypertension.json",
+    "document_count": 4
+  },
+  "Respiratory Acidosis": {
+    "index_file": "bm25_Respiratory_Acidosis.pkl",
+    "mapping_file": "mapping_Respiratory_Acidosis.json",
+    "document_count": 4
+  },
+  "Respiratory Failure": {
+    "index_file": "bm25_Respiratory_Failure.pkl",
+    "mapping_file": "mapping_Respiratory_Failure.json",
+    "document_count": 30
+  },
+  "Rhabdomyolysis": {
+    "index_file": "bm25_Rhabdomyolysis.pkl",
+    "mapping_file": "mapping_Rhabdomyolysis.json",
+    "document_count": 19
+  },
+  "Right Heart Failure": {
+    "index_file": "bm25_Right_Heart_Failure.pkl",
+    "mapping_file": "mapping_Right_Heart_Failure.json",
+    "document_count": 6
+  },
+  "Ruptured AAA": {
+    "index_file": "bm25_Ruptured_AAA.pkl",
+    "mapping_file": "mapping_Ruptured_AAA.json",
+    "document_count": 13
+  },
+  "Seizures_Status Epilepticus": {
+    "index_file": "bm25_Seizures_Status_Epilepticus.pkl",
+    "mapping_file": "mapping_Seizures_Status_Epilepticus.json",
+    "document_count": 36
+  },
+  "Sepsis_Septic Shock": {
+    "index_file": "bm25_Sepsis_Septic_Shock.pkl",
+    "mapping_file": "mapping_Sepsis_Septic_Shock.json",
+    "document_count": 39
+  },
+  "Shock (various types)": {
+    "index_file": "bm25_Shock_various_types.pkl",
+    "mapping_file": "mapping_Shock_various_types.json",
+    "document_count": 19
+  },
+  "Sleep Apnea": {
+    "index_file": "bm25_Sleep_Apnea.pkl",
+    "mapping_file": "mapping_Sleep_Apnea.json",
+    "document_count": 19
+  },
+  "Stroke (Ischemic_Hemorrhagic)": {
+    "index_file": "bm25_Stroke_Ischemic_Hemorrhagic.pkl",
+    "mapping_file": "mapping_Stroke_Ischemic_Hemorrhagic.json",
+    "document_count": 65
+  },
+  "Syncope": {
+    "index_file": "bm25_Syncope.pkl",
+    "mapping_file": "mapping_Syncope.json",
+    "document_count": 11
+  },
+  "Takotsubo Cardiomyopathy": {
+    "index_file": "bm25_Takotsubo_Cardiomyopathy.pkl",
+    "mapping_file": "mapping_Takotsubo_Cardiomyopathy.json",
+    "document_count": 1
+  },
+  "Testicular Torsion": {
+    "index_file": "bm25_Testicular_Torsion.pkl",
+    "mapping_file": "mapping_Testicular_Torsion.json",
+    "document_count": 6
+  },
+  "Traumatic Brain Injury": {
+    "index_file": "bm25_Traumatic_Brain_Injury.pkl",
+    "mapping_file": "mapping_Traumatic_Brain_Injury.json",
+    "document_count": 16
+  },
+  "Unstable Angina": {
+    "index_file": "bm25_Unstable_Angina.pkl",
+    "mapping_file": "mapping_Unstable_Angina.json",
+    "document_count": 3
+  },
+  "Upper Airway Obstruction": {
+    "index_file": "bm25_Upper_Airway_Obstruction.pkl",
+    "mapping_file": "mapping_Upper_Airway_Obstruction.json",
+    "document_count": 4
+  },
+  "Ventricular Tachycardia": {
+    "index_file": "bm25_Ventricular_Tachycardia.pkl",
+    "mapping_file": "mapping_Ventricular_Tachycardia.json",
+    "document_count": 14
+  },
+  "12-lead ECG": {
+    "index_file": "bm25_12-lead_ECG.pkl",
+    "mapping_file": "mapping_12-lead_ECG.json",
+    "document_count": 41
+  },
+  "Angiography (invasive)": {
+    "index_file": "bm25_Angiography_invasive.pkl",
+    "mapping_file": "mapping_Angiography_invasive.json",
+    "document_count": 18
+  },
+  "Arterial Blood Gas (ABG)": {
+    "index_file": "bm25_Arterial_Blood_Gas_ABG.pkl",
+    "mapping_file": "mapping_Arterial_Blood_Gas_ABG.json",
+    "document_count": 29
+  },
+  "B-type Natriuretic Peptide (BNP)": {
+    "index_file": "bm25_B-type_Natriuretic_Peptide_BNP.pkl",
+    "mapping_file": "mapping_B-type_Natriuretic_Peptide_BNP.json",
+    "document_count": 9
+  },
+  "Blood Cultures": {
+    "index_file": "bm25_Blood_Cultures.pkl",
+    "mapping_file": "mapping_Blood_Cultures.json",
+    "document_count": 1
+  },
+  "Bronchoscopy with BAL": {
+    "index_file": "bm25_Bronchoscopy_with_BAL.pkl",
+    "mapping_file": "mapping_Bronchoscopy_with_BAL.json",
+    "document_count": 2
+  },
+  "C-Reactive Protein (CRP)": {
+    "index_file": "bm25_C-Reactive_Protein_CRP.pkl",
+    "mapping_file": "mapping_C-Reactive_Protein_CRP.json",
+    "document_count": 6
+  },
+  "CT Angiogram": {
+    "index_file": "bm25_CT_Angiogram.pkl",
+    "mapping_file": "mapping_CT_Angiogram.json",
+    "document_count": 12
+  },
+  "CT Other": {
+    "index_file": "bm25_CT_Other.pkl",
+    "mapping_file": "mapping_CT_Other.json",
+    "document_count": 29
+  },
+  "Cardiac Catheterization": {
+    "index_file": "bm25_Cardiac_Catheterization.pkl",
+    "mapping_file": "mapping_Cardiac_Catheterization.json",
+    "document_count": 8
+  },
+  "Central Venous Pressure": {
+    "index_file": "bm25_Central_Venous_Pressure.pkl",
+    "mapping_file": "mapping_Central_Venous_Pressure.json",
+    "document_count": 4
+  },
+  "Chest X-ray": {
+    "index_file": "bm25_Chest_X-ray.pkl",
+    "mapping_file": "mapping_Chest_X-ray.json",
+    "document_count": 7
+  },
+  "Coagulation Studies (PT_PTT_INR)": {
+    "index_file": "bm25_Coagulation_Studies_PT_PTT_INR.pkl",
+    "mapping_file": "mapping_Coagulation_Studies_PT_PTT_INR.json",
+    "document_count": 18
+  },
+  "Complete Blood Count (CBC) with differential": {
+    "index_file": "bm25_Complete_Blood_Count_CBC_with_differential.pkl",
+    "mapping_file": "mapping_Complete_Blood_Count_CBC_with_differential.json",
+    "document_count": 7
+  },
+  "Creatine Phosphokinase": {
+    "index_file": "bm25_Creatine_Phosphokinase.pkl",
+    "mapping_file": "mapping_Creatine_Phosphokinase.json",
+    "document_count": 13
+  },
+  "Echocardiogram": {
+    "index_file": "bm25_Echocardiogram.pkl",
+    "mapping_file": "mapping_Echocardiogram.json",
+    "document_count": 30
+  },
+  "Hemoglobin A1C": {
+    "index_file": "bm25_Hemoglobin_A1C.pkl",
+    "mapping_file": "mapping_Hemoglobin_A1C.json",
+    "document_count": 5
+  },
+  "Lactate": {
+    "index_file": "bm25_Lactate.pkl",
+    "mapping_file": "mapping_Lactate.json",
+    "document_count": 18
+  },
+  "Lipase": {
+    "index_file": "bm25_Lipase.pkl",
+    "mapping_file": "mapping_Lipase.json",
+    "document_count": 13
+  },
+  "Lumbar Puncture_CSF Analysis": {
+    "index_file": "bm25_Lumbar_Puncture_CSF_Analysis.pkl",
+    "mapping_file": "mapping_Lumbar_Puncture_CSF_Analysis.json",
+    "document_count": 18
+  },
+  "MRI": {
+    "index_file": "bm25_MRI.pkl",
+    "mapping_file": "mapping_MRI.json",
+    "document_count": 14
+  },
+  "Procalcitonin": {
+    "index_file": "bm25_Procalcitonin.pkl",
+    "mapping_file": "mapping_Procalcitonin.json",
+    "document_count": 11
+  },
+  "Pulse Oximetry_Arterial Saturation": {
+    "index_file": "bm25_Pulse_Oximetry_Arterial_Saturation.pkl",
+    "mapping_file": "mapping_Pulse_Oximetry_Arterial_Saturation.json",
+    "document_count": 7
+  },
+  "Stress Test (exercise or pharmacologic)": {
+    "index_file": "bm25_Stress_Test_exercise_or_pharmacologic.pkl",
+    "mapping_file": "mapping_Stress_Test_exercise_or_pharmacologic.json",
+    "document_count": 22
+  },
+  "Thyroid Stimulating Hormone (TSH)": {
+    "index_file": "bm25_Thyroid_Stimulating_Hormone_TSH.pkl",
+    "mapping_file": "mapping_Thyroid_Stimulating_Hormone_TSH.json",
+    "document_count": 7
+  },
+  "Toxicology Screen": {
+    "index_file": "bm25_Toxicology_Screen.pkl",
+    "mapping_file": "mapping_Toxicology_Screen.json",
+    "document_count": 4
+  },
+  "Troponin I_T": {
+    "index_file": "bm25_Troponin_I_T.pkl",
+    "mapping_file": "mapping_Troponin_I_T.json",
+    "document_count": 16
+  },
+  "Ultrasound Doppler (extremities)": {
+    "index_file": "bm25_Ultrasound_Doppler_extremities.pkl",
+    "mapping_file": "mapping_Ultrasound_Doppler_extremities.json",
+    "document_count": 16
+  },
+  "Ultrasound FAST exam": {
+    "index_file": "bm25_Ultrasound_FAST_exam.pkl",
+    "mapping_file": "mapping_Ultrasound_FAST_exam.json",
+    "document_count": 9
+  },
+  "Ultrasound Other": {
+    "index_file": "bm25_Ultrasound_Other.pkl",
+    "mapping_file": "mapping_Ultrasound_Other.json",
+    "document_count": 15
+  },
+  "Urinalysis": {
+    "index_file": "bm25_Urinalysis.pkl",
+    "mapping_file": "mapping_Urinalysis.json",
+    "document_count": 30
+  },
+  "Urine Pregnancy Test": {
+    "index_file": "bm25_Urine_Pregnancy_Test.pkl",
+    "mapping_file": "mapping_Urine_Pregnancy_Test.json",
+    "document_count": 4
+  }
+}

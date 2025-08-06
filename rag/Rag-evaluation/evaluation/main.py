@@ -23,17 +23,10 @@ logging.getLogger("urllib3").setLevel(logging.WARNING)
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
-from templates.healthcare_rag import HealthcareRAG  # noqa: E402
 from templates.hybrid_rag_apple_silicon import HybridRAGAppleSilicon  # noqa: E402
-from templates.embeddings_rag import EmbeddingsRAG  # noqa: E402
-from templates.simple_rag import SimpleRAG  # noqa: E402
-from templates.pocketflow_rag import PocketFlowRAG  # noqa: E402
-from templates.graph_rag import GraphRAG  # noqa: E402
-from templates.hyde import HyDE  # noqa: E402
-from templates.contextual_retriever import ContextualRetrieverRAG  # noqa: E402
-from templates.query_expansion_with_rrf import QueryExpansionRRF  # noqa: E402
-from templates.query_rewrite_rag import QueryRewriteRAG  # noqa: E402
-from templates.step_back_prompt import StepBackPromptRAG  # noqa: E402
+
+# from templates.hybrid_rag_dual_process import HybridRAGDualProcess  # noqa: E402
+# from templates.topic_first_rag import TopicFirstRAG  # noqa: E402
 from llm_client import LocalLLMClient  # noqa: E402
 from evaluation.config import EVALUATE_METHODS, RUN_TAG, RAGAS_METRICS  # noqa: E402
 from evaluation.metrics import (  # noqa: E402
@@ -230,25 +223,40 @@ def run_template_worker(
     Runs one template over all questions inside a separate process.
     Returns (template_name, results_list)
     """
-    llm_client = LocalLLMClient(model_name="cogito:3b")
+    start_time = datetime.now()
+    print(
+        f"[{start_time.strftime('%H:%M:%S')}] Starting {template_name} template worker..."
+    )
+
+    llm_client = LocalLLMClient(model_name="cogito:14b")
     llm_client.ensure_model_available()
     template = template_cls(llm_client=llm_client)
 
+    init_time = datetime.now()
+    print(
+        f"[{init_time.strftime('%H:%M:%S')}] {template_name} initialization completed in {(init_time - start_time).total_seconds():.2f}s"
+    )
+
     results = []
-    for _, row in questions_df.iterrows():
-        start_time = time.time()
+    for i, (_, row) in enumerate(questions_df.iterrows(), 1):
+        question_start_time = time.time()
         try:
             result = template.run(row["question"], row["reference_contexts"])
             answer = result["answer"]
             retrieved_context = result["context"]
             if isinstance(retrieved_context, str):
                 retrieved_context = [retrieved_context]
-            response_time = time.time() - start_time
+            response_time = time.time() - question_start_time
+            print(
+                f"[{datetime.now().strftime('%H:%M:%S')}] {template_name} question {i}/{len(questions_df)} completed in {response_time:.2f}s"
+            )
         except Exception as exc:
             answer = "Error occurred during processing"
             retrieved_context = []
             response_time = 0.0
-            print(f"[{template_name}] Exception: {exc}")
+            print(
+                f"[{datetime.now().strftime('%H:%M:%S')}] {template_name} question {i} failed: {exc}"
+            )
             traceback.print_exc()
 
         results.append(
@@ -263,6 +271,11 @@ def run_template_worker(
             }
         )
 
+    end_time = datetime.now()
+    total_time = (end_time - start_time).total_seconds()
+    print(
+        f"[{end_time.strftime('%H:%M:%S')}] {template_name} template worker completed in {total_time:.2f}s"
+    )
     return template_name, results
 
 
@@ -271,6 +284,10 @@ def run_ragas_worker(template_name: str, results: list[dict], ragas_metrics):
     Compute RAGAS metrics for a single template in a separate process.
     Returns (template_name, {metric_name: score, ...})
     """
+    start_time = datetime.now()
+    print(
+        f"[{start_time.strftime('%H:%M:%S')}] Starting RAGAS evaluation for {template_name}..."
+    )
 
     eval_data = {
         "question": [r["question"] for r in results],
@@ -300,6 +317,11 @@ def run_ragas_worker(template_name: str, results: list[dict], ragas_metrics):
         print(f"[RAGAS‑{template_name}] Evaluation failed: {exc}")
         scores = {m.name: 0.0 for m in ragas_metrics}
 
+    end_time = datetime.now()
+    ragas_time = (end_time - start_time).total_seconds()
+    print(
+        f"[{end_time.strftime('%H:%M:%S')}] RAGAS evaluation for {template_name} completed in {ragas_time:.2f}s"
+    )
     return template_name, scores
 
 
@@ -308,12 +330,11 @@ def main():
     script_dir = os.path.dirname(__file__)
     project_root = os.path.abspath(os.path.join(script_dir, "..", ".."))
     # Use combined dataset for evaluation (same data used for training)
-    combined_dir = os.path.join(project_root, "data", "processed", "combined")
-
+    data_dir = os.path.join(project_root, "data", "processed", "combined")
     # Create testset from combined data (train on same data we test on)
-    if os.path.exists(combined_dir):
-        print(f"Creating testset from combined dataset: {combined_dir}")
-        testset_data = create_testset_from_split_data(combined_dir, project_root)
+    if os.path.exists(data_dir):
+        print(f"Creating testset from dataset: {data_dir}")
+        testset_data = create_testset_from_split_data(data_dir, project_root)
     else:
         # Fallback to original testset
         original_testset_path = os.path.join(
@@ -339,7 +360,7 @@ def main():
     ]
 
     # Sample a smaller subset for faster evaluation (you can increase this later)
-    SAMPLE_SIZE = 50  # Use 50 samples for more meaningful results
+    SAMPLE_SIZE = 50  # Use 50 samples for testing
     if len(dataset) > SAMPLE_SIZE:
         import random
 
@@ -353,17 +374,24 @@ def main():
     print("Initializing RAG templates...")
 
     all_templates = {
-        "healthcare_rag": HealthcareRAG,
+        # "topic_first_rag": TopicFirstRAG,
+        # "healthcare_rag": HealthcareRAG,
         "hybrid_rag_apple_silicon": HybridRAGAppleSilicon,
-        "embeddings_rag": EmbeddingsRAG,
-        "simple_rag": SimpleRAG,
-        "pocketflow_rag": PocketFlowRAG,
-        "graph_rag": GraphRAG,
-        "hyde": HyDE,
-        "contextual_retriever": ContextualRetrieverRAG,
-        "query_expansion_with_rrf": QueryExpansionRRF,
-        "query_rewrite_rag": QueryRewriteRAG,
-        "step_back_prompt": StepBackPromptRAG,
+        # "hybrid_rag_dual_process": HybridRAGDualProcess,
+        # "biobert_rag": BiobertRAG,  # BioBERT Hybrid + NLI reranking
+        # "biobert_topic_bm25": BiobertDiagnostic,  # BioBERT Topic-classified BM25 + NLI
+        # "biobert_fast": BiobertFast,  # Fast BioBERT Topic-classified BM25 without NLI
+        # "optimized_smart_rag": OptimizedSmartRAG,  # Optimized SmartRAG with pre-computed topic indexes
+        # "embeddings_rag": EmbeddingsRAG,
+        # "embeddings_rag": EmbeddingsRAG,
+        # "simple_rag": SimpleRAG,
+        # "pocketflow_rag": PocketFlowRAG,
+        # "graph_rag": GraphRAG,
+        # "hyde": HyDE,
+        # "contextual_retriever": ContextualRetrieverRAG,
+        # "query_expansion_with_rrf": QueryExpansionRRF,
+        # "query_rewrite_rag": QueryRewriteRAG,
+        # "step_back_prompt": StepBackPromptRAG,
         # "hybrid_rag": HybridRAG,
         # "hyde": HyDE,
         # "contextual_retriever": ContextualRetrieverRAG,
@@ -402,25 +430,30 @@ def main():
     print("Calculating RAGAS metrics in parallel...")
     template_ragas_scores = {}
 
-    with ProcessPoolExecutor(
-        max_workers=min(cpu_count(), len(template_results))
-    ) as pool:
-        ragas_futures = [
-            pool.submit(run_ragas_worker, name, results, RAGAS_METRICS)
-            for name, results in template_results.items()
-        ]
+    # Handle edge case where all workers failed
+    if not template_results:
+        print("No template results available. Skipping RAGAS evaluation.")
+        template_ragas_scores = {}
+    else:
+        with ProcessPoolExecutor(
+            max_workers=min(cpu_count(), len(template_results))
+        ) as pool:
+            ragas_futures = [
+                pool.submit(run_ragas_worker, name, results, RAGAS_METRICS)
+                for name, results in template_results.items()
+            ]
 
-        done, _ = wait(ragas_futures, return_when=ALL_COMPLETED)
-        for fut in done:
-            try:
-                name, scores = fut.result()
-                template_ragas_scores[name] = scores
-                print(
-                    f"  {name} RAGAS:",
-                    ", ".join(f"{k}={v:.3f}" for k, v in scores.items()),
-                )
-            except Exception as exc:
-                print(f"[main] RAGAS worker failed: {exc}")
+            done, _ = wait(ragas_futures, return_when=ALL_COMPLETED)
+            for fut in done:
+                try:
+                    name, scores = fut.result()
+                    template_ragas_scores[name] = scores
+                    print(
+                        f"  {name} RAGAS:",
+                        ", ".join(f"{k}={v:.3f}" for k, v in scores.items()),
+                    )
+                except Exception as exc:
+                    print(f"[main] RAGAS worker failed: {exc}")
 
     print("Calculating additional metrics...")
     template_additional_scores = {}
