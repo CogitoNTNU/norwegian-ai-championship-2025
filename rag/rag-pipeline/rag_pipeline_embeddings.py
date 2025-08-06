@@ -17,18 +17,22 @@ class EmbeddingsRAGPipeline:
         top_k_retrieval: int = 5,
         retrieval_strategy: str = "default",
         device: str = None,
+        use_local_model: bool = False,
     ):
         """
         Initialize RAG pipeline with specified embedding model.
 
         Args:
-            embedding_model: Model name from embeddings registry
+            embedding_model: Model name from embeddings registry or path to local model
             llm_model: Local LLM model name
             top_k_retrieval: Number of relevant chunks to retrieve
             retrieval_strategy: Strategy to use for retrieval ("default" or "hyde")
             device: Device to use for embeddings (cuda/cpu/auto)
+            use_local_model: Whether embedding_model is a local path
         """
-        self.document_store = EmbeddingsDocumentStore(embedding_model, device=device)
+        self.document_store = EmbeddingsDocumentStore(
+            embedding_model, device=device, use_local_model=use_local_model
+        )
         self.llm_client = LocalLLMClient(llm_model)
         self.top_k = top_k_retrieval
         self.embedding_model = embedding_model

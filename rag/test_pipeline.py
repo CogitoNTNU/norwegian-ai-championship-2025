@@ -38,9 +38,14 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "rag-pipeline"))
 from rag_pipeline_embeddings import EmbeddingsRAGPipeline
 
 
-def load_training_statements(n: int) -> List[Tuple[str, Dict]]:
-    """Load n statements from training data."""
-    data_dir = Path(__file__).parent / "data"
+def load_training_statements(n: int, data_path: str = "data") -> List[Tuple[str, Dict]]:
+    """Load n statements from training data.
+
+    Args:
+        n: Number of statements to load
+        data_path: Path to data directory (default: "data")
+    """
+    data_dir = Path(__file__).parent / data_path
     statements_dir = data_dir / "train" / "statements"
     answers_dir = data_dir / "train" / "answers"
 
@@ -73,7 +78,7 @@ def main():
         "--embedding",
         type=str,
         default="pubmedbert-base-embeddings",
-        help="Embedding model to use",
+        help="Embedding model to use (from registry or local if --models-path is set)",
     )
     parser.add_argument("--llm", type=str, default="cogito:8b", help="LLM model to use")
     parser.add_argument(
@@ -94,7 +99,66 @@ def main():
         help="Device to use: auto (default), cpu, or cuda",
     )
 
+    # New arguments for local model and data paths
+    parser.add_argument(
+        "--models-path",
+        type=str,
+        help="Path to local models directory (e.g., models/)",
+    )
+    parser.add_argument(
+        "--local-model",
+        type=str,
+        help="Direct path to a local model (overrides --embedding and --models-path)",
+    )
+    parser.add_argument(
+        "--data-path",
+        type=str,
+        default="data",
+        help="Path to data directory containing train/statements and train/answers (default: data)",
+    )
+
     args = parser.parse_args()
+
+    # Validate data path
+    data_path = Path(__file__).parent / args.data_path
+    if not data_path.exists():
+        print(f"❌ Data path does not exist: {data_path}")
+        return 1
+
+    statements_path = data_path / "train" / "statements"
+    answers_path = data_path / "train" / "answers"
+    if not statements_path.exists() or not answers_path.exists():
+        print(f"❌ Training data not found in {data_path}")
+        print(f"   Expected: {statements_path} and {answers_path}")
+        return 1
+
+    # Determine which embedding model to use
+    embedding_model_path = None
+    embedding_model_name = args.embedding
+
+    if args.local_model:
+        # Direct path to local model provided
+        local_model_path = Path(args.local_model)
+        if not local_model_path.exists():
+            print(f"❌ Local model path does not exist: {local_model_path}")
+            return 1
+        embedding_model_path = str(local_model_path.resolve())
+        print(f"📁 Using local model: {embedding_model_path}")
+    elif args.models_path:
+        # Look for model in models directory
+        models_dir = Path(args.models_path)
+        if not models_dir.exists():
+            print(f"❌ Models directory does not exist: {models_dir}")
+            return 1
+
+        # Try to find the model in the models directory
+        model_path = models_dir / args.embedding
+        if model_path.exists():
+            embedding_model_path = str(model_path.resolve())
+            print(f"📁 Found local model in models directory: {embedding_model_path}")
+        else:
+            print(f"⚠️  Model '{args.embedding}' not found in {models_dir}")
+            print("   Falling back to model registry")
 
     # Check CUDA availability and device selection
     import torch
@@ -133,7 +197,11 @@ def main():
     print("[TESTING] Testing RAG Pipeline")
     print("=" * 50)
     print(f"📊 Statements: {args.n}")
-    print(f"🧬 Embedding: {args.embedding}")
+    print(f"📂 Data Path: {args.data_path}")
+    if embedding_model_path:
+        print(f"🧬 Embedding: Local model from {embedding_model_path}")
+    else:
+        print(f"🧬 Embedding: {args.embedding} (from registry)")
     print(f"🤖 LLM: {args.llm}")
     print(f"🔍 Strategy: {args.strategy}")
     print(f"[DEVICE] Device: {device_reason}")
@@ -144,8 +212,8 @@ def main():
     print()
 
     # Load statements
-    print(f"📂 Loading {args.n} statements...")
-    samples = load_training_statements(args.n)
+    print(f"📂 Loading {args.n} statements from {args.data_path}...")
+    samples = load_training_statements(args.n, args.data_path)
 
     if not samples:
         print("❌ No statements found!")
@@ -155,13 +223,24 @@ def main():
     print("\n⚙️  Initializing pipeline...")
     start_init = time.time()
 
-    pipeline = EmbeddingsRAGPipeline(
-        embedding_model=args.embedding,
-        llm_model=args.llm,
-        top_k_retrieval=5,
-        retrieval_strategy=args.strategy,
-        device=selected_device,
-    )
+    # Use local model path if available, otherwise use model name
+    if embedding_model_path:
+        pipeline = EmbeddingsRAGPipeline(
+            embedding_model=embedding_model_path,
+            llm_model=args.llm,
+            top_k_retrieval=5,
+            retrieval_strategy=args.strategy,
+            device=selected_device,
+            use_local_model=True,  # Flag to indicate local model
+        )
+    else:
+        pipeline = EmbeddingsRAGPipeline(
+            embedding_model=embedding_model_name,
+            llm_model=args.llm,
+            top_k_retrieval=5,
+            retrieval_strategy=args.strategy,
+            device=selected_device,
+        )
 
     # Check what device the embedding model is actually using
     actual_device = pipeline.document_store.embedding_model.device

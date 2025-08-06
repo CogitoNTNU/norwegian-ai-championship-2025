@@ -19,22 +19,48 @@ from embeddings.models import get_embedding_model  # noqa: E402
 class EmbeddingsDocumentStore:
     """Document store with configurable embedding models."""
 
-    def __init__(self, embedding_model: str = "all-MiniLM-L6-v2", device: str = None):
+    def __init__(
+        self,
+        embedding_model: str = "all-MiniLM-L6-v2",
+        device: str = None,
+        use_local_model: bool = False,
+    ):
         """
         Initialize document store with specified embedding model.
 
         Args:
-            embedding_model: Name of embedding model from registry
+            embedding_model: Name of embedding model from registry or path to local model
             device: Device to use for embeddings (cuda/cpu/auto)
+            use_local_model: Whether embedding_model is a local path
         """
-        self.embedding_model_name = embedding_model
+        self.use_local_model = use_local_model
 
-        # Pass device parameter to embedding model
-        model_kwargs = {}
-        if device and device != "auto":
-            model_kwargs["device"] = device
+        if use_local_model:
+            # Use local model path directly
+            from pathlib import Path
 
-        self.embedding_model = get_embedding_model(embedding_model, **model_kwargs)
+            model_path = Path(embedding_model)
+            self.embedding_model_name = (
+                model_path.name
+            )  # Use directory name for indexing
+
+            # Load local model using SentenceTransformer directly
+            from sentence_transformers import SentenceTransformer
+
+            self.embedding_model = SentenceTransformer(
+                str(model_path),
+                device=device if device and device != "auto" else None,
+            )
+        else:
+            # Use model from registry
+            self.embedding_model_name = embedding_model
+
+            # Pass device parameter to embedding model
+            model_kwargs = {}
+            if device and device != "auto":
+                model_kwargs["device"] = device
+
+            self.embedding_model = get_embedding_model(embedding_model, **model_kwargs)
         # Use rag/indices directory
         indices_dir = str(rag_path / "indices")
         self.index_manager = IndexManager(index_dir=indices_dir)
@@ -45,7 +71,10 @@ class EmbeddingsDocumentStore:
         self.chunks = []
         self.chunk_metadata = []
 
-        print(f"Initialized document store with model: {embedding_model}")
+        if use_local_model:
+            print(f"Initialized document store with local model: {embedding_model}")
+        else:
+            print(f"Initialized document store with model: {embedding_model}")
 
     def load_medical_documents(self, topics_dir: str, topics_json: str) -> None:
         """
@@ -85,13 +114,23 @@ class EmbeddingsDocumentStore:
         for i in tqdm(range(0, len(self.chunks), safe_batch_size)):
             batch = self.chunks[i : i + safe_batch_size]
             try:
-                # Use the wrapper's encode method to get macOS safety features
-                batch_embeddings = self.embedding_model.encode(
-                    batch,
-                    convert_to_numpy=True,
-                    show_progress_bar=False,
-                    batch_size=safe_batch_size,
-                )
+                # Handle both local models and registry models
+                if self.use_local_model:
+                    # Local SentenceTransformer model
+                    batch_embeddings = self.embedding_model.encode(
+                        batch,
+                        convert_to_numpy=True,
+                        show_progress_bar=False,
+                        batch_size=safe_batch_size,
+                    )
+                else:
+                    # Registry model with wrapper's encode method
+                    batch_embeddings = self.embedding_model.encode(
+                        batch,
+                        convert_to_numpy=True,
+                        show_progress_bar=False,
+                        batch_size=safe_batch_size,
+                    )
 
                 # Ensure it's 2D
                 if len(batch_embeddings.shape) == 1:
