@@ -1,5 +1,11 @@
 # Emergency Healthcare RAG
 
+to run:
+
+```bash
+HSA_OVERRIDE_GFX_VERSION=11.0.0 PYTORCH_ROCM_ARCH="gfx1100" ollama serve
+```
+
 Simple RAG pipeline for medical statement classification using embeddings and FAISS.
 
 ## Overview
