@@ -53,21 +53,22 @@ def predict_endpoint(request: MedicalStatementRequestDto):
     logger.info(f"Received statement: {request.statement[:100]}...")
 
     # Call the fact checker
-    result = check_fact(request.statement)
+    result = check_fact(request.statement, 5)
 
     # Map verdict to binary
-    if result["verdict"] == "TRUE":
+    if result["verdict"].upper() == "TRUE":
         statement_is_true = 1
-    elif result["verdict"] == "FALSE":
+    elif result["verdict"].upper()== "FALSE":
         statement_is_true = 0
     else:
+        logger.warning(f"{result}")
         statement_is_true = 1  # or raise HTTPException if unverified is unacceptable
 
     # Get topic ID from topic name
     topic_name = result.get("topic", "")
     with open("data/topics.json", "r") as f:
         topic_map = json.load(f)
-    statement_topic = topic_map.get(topic_name, -1)  # or -1 if unknown
+    statement_topic = topic_map.get(topic_name, 40)  # or -1 if unknown
 
     logger.info(f"Returning prediction: true={statement_is_true}, topic={statement_topic}")
 

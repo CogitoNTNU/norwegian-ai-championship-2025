@@ -18,6 +18,8 @@ CRITICAL RULES:
 5. Consider a statement TRUE only if ALL parts are supported by the context
 6. Consider a statement FALSE if ANY part contradicts the context
 7. Identify the medical topic from the context metadata
+8. If you are unsure, give the most likely of TRUE or FALSE as an answer
+9. Always give a topic as an answer no matter what
 
 Context chunks with their topics:
 {context}
