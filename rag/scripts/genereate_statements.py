@@ -25,7 +25,7 @@ api_key_file = Path.cwd().parent / ".api_key"
 api_key = get_api_key(api_key_file)
 
 client = AsyncClient(
-    host="https://beta.chat.nhn.no/ollama",
+    host="https://www.hostname.com", # Replace with actual host
     headers={"Authorization": f"{api_key}"},
 )
 
@@ -54,9 +54,9 @@ async def call_llm_api(
         f"Rephrase the following statement in exactly {num_rephrases} distinct ways. "
         "Preserve the original meaning and truthfulness. "
         "Respond ONLY in this format:\n"
-        "1. #first rephrased statement\n"
-        "2. #second rephrased statement\n"
-        "3. #third rephrased statement\n"
+        "1. first rephrased statement\n"
+        "2. second rephrased statement\n"
+        "3. third rephrased statement\n"
         "Do not include any other text, explanations, or numbering beyond this."
     )
 
@@ -236,7 +236,7 @@ async def rephrase_statement(
     """
     # Call the async LLM API
     rephrased_list = await call_llm_api(
-        prompt=statement, model="nhn-small:latest", num_rephrases=rephrases
+        prompt=statement, model="nhn-medium:latest", num_rephrases=rephrases
     )
 
     # Handle failure or empty response

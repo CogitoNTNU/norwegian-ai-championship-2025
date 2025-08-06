@@ -1,0 +1,1 @@
+The measurement of end-tidal PCO2 (PETCO2) via quantitative capnometry reveals that, under normal conditions, PaCO2 is typically 2-3 mmHg less than PETCO2, but this difference extends beyond 3 mmHg in states with impaired gas exchange.

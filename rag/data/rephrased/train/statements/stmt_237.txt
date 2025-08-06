@@ -1,0 +1,1 @@
+For individuals over 50 years old, age-adjusted D-dimer thresholds are determined by multiplying the patient's age in years by 10 ng/mL, resulting in a higher cutoff, like 750 ng/mL for a 75-year-old, compared to the standard 500 ng/mL.

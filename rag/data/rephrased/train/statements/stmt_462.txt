@@ -1,0 +1,1 @@
+Patients scoring 1 on the CHA2DS2-VASc scale are advised to undergo complete anticoagulation treatment, whereas patients with a score of 0 are prescribed aspirin to prevent strokes.

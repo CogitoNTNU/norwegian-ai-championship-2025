@@ -218,7 +218,6 @@ models/
 .env
 experiments/*
 !experiments/.gitkeep
-rag/data/rephrased
 
 # Generated files
 requirements.txt

@@ -1,0 +1,1 @@
+LDH-1 isozyme is composed of four heart subunits (4H) and shows a greater preference for lactate, effectively catalyzing the conversion of lactate to pyruvate and NAD+ to NADH, whereas the LDHA subunit carries a net charge of -6 and has a stronger affinity for pyruvate.

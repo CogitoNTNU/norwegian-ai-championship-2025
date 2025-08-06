@@ -1,0 +1,1 @@
+Through quantitative capnometry, end-tidal PCO2 (PETCO2) is measured; in healthy patients, PaCO2 is commonly 2-3 mmHg lower than PETCO2, yet in pathological conditions with faulty gas exchange, this difference exceeds 3 mmHg.

@@ -1,0 +1,1 @@
+Ensuring precise measurements involves zeroing the transducer used for central venous pressure monitoring against atmospheric pressure and aligning it with the horizontal level of the tricuspid valve.

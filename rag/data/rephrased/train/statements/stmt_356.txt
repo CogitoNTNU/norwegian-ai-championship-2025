@@ -1,0 +1,1 @@
+The hematocrit calculation is performed with the equation Hct = RBC × MCV/10; normal values lie between 45%-60% for adult men and 40%-52% for adult women, signifying the volume percentage of red blood cells in total blood.

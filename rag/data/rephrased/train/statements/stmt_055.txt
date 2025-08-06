@@ -1,0 +1,1 @@
+In latex agglutination inhibition immunoassays designed to detect HbA1c, there's competition between the patient's HbA1c and synthetic polymers equipped with HbA1c epitopes for attachment to antibody-coated latex beads, and this diminished agglutination is reflected in lower absorbance readings.

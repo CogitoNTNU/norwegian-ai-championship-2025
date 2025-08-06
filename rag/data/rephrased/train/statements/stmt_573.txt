@@ -1,0 +1,1 @@
+To achieve precise readings, it is essential that the transducer employed in central venous pressure monitoring is set at zero relative to atmospheric pressure and level with the horizontal axis of the tricuspid valve.

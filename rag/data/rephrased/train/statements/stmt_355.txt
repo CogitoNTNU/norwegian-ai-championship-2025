@@ -1,0 +1,1 @@
+To compute hematocrit using the formula Hct = RBC × MCV/10, the typical reference intervals are 45% to 60% for men and 40% to 52% for women, reflecting the percentage of red blood cell volume within whole blood.

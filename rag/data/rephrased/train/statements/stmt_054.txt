@@ -1,0 +1,1 @@
+Immunoassay techniques that measure HbA1c through latex agglutination inhibition rely on a competitive process where patient-derived HbA1c and synthetic polymers carrying HbA1c antigens vie for binding sites on antibodies attached to latex particles, resulting in lessened agglutination quantified by reduced light absorption.

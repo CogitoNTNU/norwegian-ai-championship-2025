@@ -1,0 +1,1 @@
+To diagnose acute kidney injury using the KDIGO criteria, one must observe either a serum creatinine increase of 0.3 mg/dL within 48 hours, a 1.5-fold baseline elevation within seven days, or urine output less than 0.5 mL/kg/h for six consecutive hours.
