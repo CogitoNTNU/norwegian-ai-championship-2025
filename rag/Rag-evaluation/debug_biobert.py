@@ -89,7 +89,7 @@ def analyze_specific_examples():
     ]
 
     print("Initializing diagnostic system...")
-    llm_client = LocalLLMClient(model_name="cogito:3b")
+    llm_client = LocalLLMClient(model_name="cogito:14b")
     llm_client.ensure_model_available()
     diagnostic = BiobertRAG(llm_client=llm_client)
 
@@ -218,7 +218,7 @@ def analyze_random_sample():
     test_cases = load_test_cases(data_dir, project_root, num_samples=5)
 
     print("Initializing diagnostic system...")
-    llm_client = LocalLLMClient(model_name="cogito:3b")
+    llm_client = LocalLLMClient(model_name="cogito:14b")
     llm_client.ensure_model_available()
     diagnostic = BiobertRAG(llm_client=llm_client)
     smart_rag = SmartRAG(llm_client=llm_client)

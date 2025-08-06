@@ -24,7 +24,9 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 from templates.hybrid_rag_apple_silicon import HybridRAGAppleSilicon  # noqa: E402
-from templates.hybrid_rag_dual_process import HybridRAGDualProcess  # noqa: E402
+
+# from templates.hybrid_rag_dual_process import HybridRAGDualProcess  # noqa: E402
+# from templates.topic_first_rag import TopicFirstRAG  # noqa: E402
 from llm_client import LocalLLMClient  # noqa: E402
 from evaluation.config import EVALUATE_METHODS, RUN_TAG, RAGAS_METRICS  # noqa: E402
 from evaluation.metrics import (  # noqa: E402
@@ -226,7 +228,7 @@ def run_template_worker(
         f"[{start_time.strftime('%H:%M:%S')}] Starting {template_name} template worker..."
     )
 
-    llm_client = LocalLLMClient(model_name="cogito:3b")
+    llm_client = LocalLLMClient(model_name="cogito:14b")
     llm_client.ensure_model_available()
     template = template_cls(llm_client=llm_client)
 
@@ -358,7 +360,7 @@ def main():
     ]
 
     # Sample a smaller subset for faster evaluation (you can increase this later)
-    SAMPLE_SIZE = 25  # Use 25 samples for testing
+    SAMPLE_SIZE = 50  # Use 50 samples for testing
     if len(dataset) > SAMPLE_SIZE:
         import random
 
@@ -372,9 +374,10 @@ def main():
     print("Initializing RAG templates...")
 
     all_templates = {
+        # "topic_first_rag": TopicFirstRAG,
         # "healthcare_rag": HealthcareRAG,
         "hybrid_rag_apple_silicon": HybridRAGAppleSilicon,
-        "hybrid_rag_dual_process": HybridRAGDualProcess,
+        # "hybrid_rag_dual_process": HybridRAGDualProcess,
         # "biobert_rag": BiobertRAG,  # BioBERT Hybrid + NLI reranking
         # "biobert_topic_bm25": BiobertDiagnostic,  # BioBERT Topic-classified BM25 + NLI
         # "biobert_fast": BiobertFast,  # Fast BioBERT Topic-classified BM25 without NLI

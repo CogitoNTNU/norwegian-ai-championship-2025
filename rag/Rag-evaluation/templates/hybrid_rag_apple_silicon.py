@@ -9,6 +9,7 @@ import os
 import re
 import time
 import numpy as np
+import requests
 from pathlib import Path
 from typing import Dict, List, Any, Tuple
 from contextlib import contextmanager
@@ -21,6 +22,7 @@ os.environ["OPENBLAS_NUM_THREADS"] = "1"
 import faiss
 import Stemmer
 from sentence_transformers import SentenceTransformer
+from sentence_transformers.cross_encoder import CrossEncoder
 
 # Configure FAISS for ARM Mac stability
 try:
@@ -52,6 +54,7 @@ class HybridRAGAppleSilicon:
         self.biobert_faiss_index = None
         self.global_bm25_index = None
         self.biobert_model = None
+        self.cross_encoder = None
 
         # Load optimized indexes quickly
         self._load_optimized_indexes()
@@ -104,10 +107,156 @@ class HybridRAGAppleSilicon:
                 device="mps" if hasattr(faiss, "StandardGpuResources") else "cpu",
             )
 
+        # Load cross-encoder for reranking
+        print("🔍 Loading cross-encoder for reranking...")
+        try:
+            self.cross_encoder = CrossEncoder(
+                "cross-encoder/ms-marco-MiniLM-L-6-v2",
+                device="mps" if hasattr(faiss, "StandardGpuResources") else "cpu",
+            )
+            print("   ✅ Cross-encoder loaded successfully")
+        except Exception as e:
+            print(f"   ⚠️  Cross-encoder loading failed: {e}")
+            self.cross_encoder = None
+
     def _tokenize_and_stem(self, text: str) -> List[str]:
         """Tokenize and stem text for BM25 processing."""
         tokens = re.findall(r"\b\w+\b", text.lower())
         return self.stemmer.stemWords(tokens)
+
+    def _llm_extract_keywords(self, statement: str) -> List[str]:
+        """Use LLM to extract key medical concepts for BM25 search."""
+        try:
+            prompt = f"""Extract key medical concepts from this statement for document search.
+
+Statement: "{statement}"
+
+Respond with a JSON object containing a "keywords" array of 3-5 important medical terms, conditions, or concepts.
+
+Example: {{"keywords": ["acute cholangitis", "Charcot triad", "biliary obstruction"]}}
+
+Your response:"""
+
+            response = requests.post(
+                f"{self.llm_client.ollama_url}/api/generate",
+                json={
+                    "model": self.llm_client.model_name,
+                    "prompt": prompt,
+                    "format": "json",
+                    "stream": False,
+                    "options": {
+                        "temperature": 0.1,
+                        "top_p": 0.1,
+                        "num_predict": 100,
+                    },
+                },
+                timeout=10,
+            )
+
+            if response.status_code == 200:
+                result = response.json().get("response", "")
+                parsed = json.loads(result)
+                keywords = parsed.get("keywords", [])
+                return keywords[:5]  # Limit to 5 keywords
+
+        except Exception as e:
+            print(f"⚠️ LLM keyword extraction failed: {e}")
+
+        # Fallback: simple extraction
+        words = statement.split()
+        return [word for word in words if len(word) > 4][:5]
+
+    def _llm_generate_variations(self, statement: str) -> List[str]:
+        """Use LLM to generate semantically similar statement variations."""
+        try:
+            prompt = f"""Generate alternative phrasings of this medical statement for semantic search.
+
+Original: "{statement}"
+
+Respond with a JSON object containing a "variations" array of 2-3 alternative statements using medical synonyms, different structures, or simplified language.
+
+Example: {{"variations": ["Alternative phrasing 1", "Alternative phrasing 2"]}}
+
+Your response:"""
+
+            response = requests.post(
+                f"{self.llm_client.ollama_url}/api/generate",
+                json={
+                    "model": self.llm_client.model_name,
+                    "prompt": prompt,
+                    "format": "json",
+                    "stream": False,
+                    "options": {
+                        "temperature": 0.3,
+                        "top_p": 0.5,
+                        "num_predict": 300,  # Increased token limit for complete responses
+                    },
+                },
+                timeout=15,
+            )
+
+            if response.status_code == 200:
+                result = response.json().get("response", "")
+
+                # Clean and sanitize JSON response
+                result = result.strip()
+                if not result.startswith("{"):
+                    # Find the first { if response has extra text
+                    start = result.find("{")
+                    if start != -1:
+                        result = result[start:]
+
+                # Try to fix truncated JSON by closing incomplete structures
+                if not result.endswith("}"):
+                    # Count open brackets and braces to try to complete the JSON
+                    open_braces = result.count("{") - result.count("}")
+                    open_brackets = result.count("[") - result.count("]")
+
+                    # Try to close incomplete structures
+                    if '"variations": [' in result and not result.rstrip().endswith(
+                        "]"
+                    ):
+                        # Incomplete variations array - try to close it
+                        if result.rstrip().endswith('"'):
+                            result += "]}"  # Close array and object
+                        elif result.rstrip().endswith(","):
+                            result = (
+                                result.rstrip(",") + "]}"
+                            )  # Remove trailing comma and close
+                        else:
+                            result += '"]}'  # Close string, array, and object
+                    else:
+                        # Generic closure based on bracket counting
+                        result += "]" * open_brackets + "}" * open_braces
+
+                # Try to parse JSON with fallback
+                try:
+                    parsed = json.loads(result)
+                    variations = [statement]  # Always include original
+                    llm_variations = parsed.get("variations", [])
+
+                    for variation in llm_variations:
+                        if isinstance(variation, str) and len(variation) > 10:
+                            # Clean the variation text
+                            clean_variation = (
+                                variation.strip().replace("\n", " ").replace("\r", "")
+                            )
+                            variations.append(clean_variation)
+
+                    return variations[:4]  # Original + 3 variations max
+
+                except json.JSONDecodeError as json_e:
+                    print(f"    ⚠️  JSON parsing failed: {json_e}")
+                    print(
+                        f"    Raw response: {result[:300]}..."
+                    )  # Show first 300 chars for better debugging
+                    return [statement]  # Fallback to original only
+
+        except Exception as e:
+            print(f"⚠️ LLM variation generation failed: {e}")
+
+        # Fallback: just return original
+        return [statement]
 
     def _safe_faiss_search(
         self, query_embeddings: np.ndarray, k: int
@@ -136,10 +285,36 @@ class HybridRAGAppleSilicon:
             print(f"⚠️  FAISS search failed: {e}")
             return np.array([[]]), np.array([[]])
 
+    def _rerank_with_cross_encoder(
+        self, question: str, candidate_docs: List[Dict], max_chunks: int = 3
+    ) -> List[Dict]:
+        """Use cross-encoder to rerank candidate documents by relevance."""
+        if not self.cross_encoder or len(candidate_docs) <= max_chunks:
+            return self._select_best_chunks(question, candidate_docs, max_chunks)
+
+        try:
+            # Prepare query-document pairs for cross-encoder
+            pairs = [(question, doc["text"]) for doc in candidate_docs]
+
+            # Get relevance scores
+            scores = self.cross_encoder.predict(pairs)
+
+            # Sort by relevance score
+            scored_docs = list(zip(scores, candidate_docs))
+            scored_docs.sort(reverse=True, key=lambda x: x[0])
+
+            # Return top documents
+            return [doc for score, doc in scored_docs[:max_chunks]]
+
+        except Exception as e:
+            print(f"⚠️ Cross-encoder reranking failed: {e}")
+            # Fallback to original selection method
+            return self._select_best_chunks(question, candidate_docs, max_chunks)
+
     def _select_best_chunks(
         self, question: str, candidate_docs: List[Dict], max_chunks: int = 3
     ) -> List[Dict]:
-        """Select most relevant chunks using enhanced scoring."""
+        """Select most relevant chunks using enhanced scoring (fallback method)."""
 
         if len(candidate_docs) <= max_chunks:
             return candidate_docs
@@ -204,6 +379,84 @@ class HybridRAGAppleSilicon:
         scored_chunks.sort(reverse=True, key=lambda x: x[0])
         return [doc for score, doc in scored_chunks[:max_chunks]]
 
+    def _enhanced_hybrid_retrieval(self, question: str, k: int = 10) -> List[Dict]:
+        """Enhanced hybrid retrieval with multi-query approach for better coverage."""
+        candidate_indices = set()
+
+        # BM25: Multiple keyword-focused queries
+        if self.global_bm25_index is not None:
+            with timed_step("  BM25 Multi-Query Search"):
+                try:
+                    # Get medical concepts for targeted BM25 searches
+                    bm25_queries = self._llm_extract_keywords(question)
+                    print(f"    BM25 queries: {bm25_queries}")
+
+                    for query in bm25_queries:
+                        if query.strip():  # Only process non-empty queries
+                            query_tokens = self._tokenize_and_stem(query)
+                            if query_tokens:  # Only search if tokens exist
+                                bm25_results = self.global_bm25_index.retrieve(
+                                    [query_tokens], k=3
+                                )
+                                if (
+                                    hasattr(bm25_results, "documents")
+                                    and bm25_results.documents is not None
+                                ):
+                                    try:
+                                        # Convert to Python list if numpy array
+                                        if hasattr(bm25_results.documents, "tolist"):
+                                            doc_list = bm25_results.documents.tolist()
+                                        else:
+                                            doc_list = bm25_results.documents
+
+                                        # Handle nested list structure
+                                        if (
+                                            isinstance(doc_list, list)
+                                            and len(doc_list) > 0
+                                        ):
+                                            if isinstance(doc_list[0], list):
+                                                candidate_indices.update(doc_list[0])
+                                            else:
+                                                candidate_indices.update(doc_list)
+                                    except Exception as inner_e:
+                                        print(
+                                            f"    ⚠️  BM25 result processing failed for query '{query}': {inner_e}"
+                                        )
+                except Exception as e:
+                    print(f"⚠️  BM25 multi-query search failed: {e}")
+
+        # Semantic: Multiple statement variations
+        if self.biobert_faiss_index is not None and self.biobert_model is not None:
+            with timed_step("  Semantic Multi-Query Search"):
+                try:
+                    # Get statement variations for semantic search
+                    semantic_queries = self._llm_generate_variations(question)
+                    print(f"    Semantic queries: {len(semantic_queries)} variations")
+
+                    for query in semantic_queries:
+                        if (
+                            query.strip() and len(query) > 5
+                        ):  # Only process meaningful queries
+                            query_embedding = self.biobert_model.encode(
+                                [query], normalize_embedding=True
+                            )
+                            _, faiss_indices = self._safe_faiss_search(
+                                query_embedding, k=3
+                            )
+                            if faiss_indices.size > 0 and len(faiss_indices[0]) > 0:
+                                candidate_indices.update(faiss_indices[0])
+                except Exception as e:
+                    print(f"⚠️  Semantic multi-query search failed: {e}")
+
+        # Return candidate documents
+        with timed_step("  Document Assembly"):
+            candidate_docs = [
+                self.documents[i] for i in candidate_indices if i < len(self.documents)
+            ]
+            print(f"    Found {len(candidate_docs)} candidate documents")
+
+        return candidate_docs[:k]
+
     def _fast_hybrid_retrieval(self, question: str, k: int = 10) -> List[Dict]:
         """Fast hybrid retrieval using BioBERT FAISS + Global BM25 with simple fusion."""
         candidate_indices = set()
@@ -261,15 +514,15 @@ class HybridRAGAppleSilicon:
             Dict with 'answer' and 'context' keys
         """
         try:
-            # Fast hybrid retrieval using optimized indexes
-            with timed_step("Hybrid Retrieval"):
-                candidate_docs = self._fast_hybrid_retrieval(
-                    question, k=8
-                )  # Get more candidates
+            # Enhanced hybrid retrieval using multi-query approach
+            with timed_step("Enhanced Hybrid Retrieval"):
+                candidate_docs = self._enhanced_hybrid_retrieval(
+                    question, k=12
+                )  # Get more candidates with multi-query
 
-            # Select best chunks from candidates
-            with timed_step("Chunk Selection"):
-                selected_docs = self._select_best_chunks(
+            # Rerank candidates with cross-encoder (or fallback to selection)
+            with timed_step("Cross-Encoder Reranking"):
+                selected_docs = self._rerank_with_cross_encoder(
                     question, candidate_docs, max_chunks=3
                 )
 

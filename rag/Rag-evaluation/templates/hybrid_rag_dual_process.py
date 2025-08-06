@@ -42,7 +42,7 @@ def timed_step(step_name):
 
 
 def binary_classification_worker(
-    question: str, context: str, model_name: str = "cogito:3b"
+    question: str, context: str, model_name: str = "cogito:14b"
 ):
     """Worker process for binary classification - focused on TRUE/FALSE only."""
     try:
@@ -100,7 +100,7 @@ JSON only: {{"is_true": 1}} or {{"is_true": 0}}
 
 
 def topic_classification_worker(
-    question: str, context: str, topic_mapping: Dict, model_name: str = "cogito:3b"
+    question: str, context: str, topic_mapping: Dict, model_name: str = "cogito:14b"
 ):
     """Worker process for topic classification - focused on categorization."""
     try:

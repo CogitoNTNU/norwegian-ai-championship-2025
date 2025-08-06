@@ -15,7 +15,7 @@ from hybrid_rag_apple_silicon import HybridRAGAppleSilicon
 from llm_client import LocalLLMClient
 
 # Get configuration from environment or use defaults
-LLM_MODEL = os.getenv("LLM_MODEL", "cogito:3b")
+LLM_MODEL = os.getenv("LLM_MODEL", "cogito:14b")
 
 # Initialize the RAG system once at module level for efficiency
 print(f"Initializing HybridRAGAppleSilicon system with {LLM_MODEL}...")

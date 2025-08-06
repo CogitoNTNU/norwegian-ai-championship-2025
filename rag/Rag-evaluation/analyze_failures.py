@@ -5,7 +5,7 @@ from llm_client import LocalLLMClient
 def analyze_failures():
     """Provides a detailed sentence-level analysis of failed retrieval cases."""
     # Initialize systems
-    llm_client = LocalLLMClient(model_name="cogito:3b")
+    llm_client = LocalLLMClient(model_name="cogito:14b")
     diagnostic = BiobertDiagnostic(llm_client=llm_client)
 
     # --- Case 1: MRI breast cancer screening ---

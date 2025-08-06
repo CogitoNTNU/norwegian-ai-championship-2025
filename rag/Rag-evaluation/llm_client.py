@@ -6,7 +6,9 @@ from typing import Dict, Tuple
 
 class LocalLLMClient:
     def __init__(
-        self, model_name: str = "cogito:3b", ollama_url: str = "http://localhost:11434"
+        self,
+        model_name: str = "cogito:14b",
+        ollama_url: str = "https://3fxw2nqn6q0vu3-11434.proxy.runpod.net/",
     ):
         self.model_name = model_name
         self.ollama_url = ollama_url
