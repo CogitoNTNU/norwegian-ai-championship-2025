@@ -25,7 +25,7 @@ api_key_file = Path.cwd().parent / ".api_key"
 api_key = get_api_key(api_key_file)
 
 client = AsyncClient(
-    host="https://www.hostname.com", # Replace with actual host
+    host="https://www.hostname.com",  # Replace with actual host
     headers={"Authorization": f"{api_key}"},
 )
 
@@ -148,7 +148,10 @@ def load_statements_and_answers(
     data = []
     for stmt_file, ans_file in zip(statement_files, answer_files):
         # Ensure base names match
-        if stmt_file.stem != ans_file.stem:
+        if stmt_file.stem != ans_file.stem or (
+            not stmt_file.stem.startswith("stmt_")
+            and not ans_file.stem.startswith("ans_")
+        ):
             print(f"Warning: Mismatched pair: {stmt_file.name} != {ans_file.name}")
 
         # Read statement
@@ -306,21 +309,58 @@ if __name__ == "__main__":
     # Input directories
     statement_dir = "rag/data/raw/train/statements"
     answer_dir = "rag/data/raw/train/answers"
-
-    # Output directory
+    rephrased_statement_dir = "rag/data/rephrased/train/statements"
+    rephrased_answer_dir = "rag/data/rephrased/train/answers"
     output_dir = Path("rag/data/rephrased/train")
 
-    # Load data
-    print("Loading statements and answers...")
-    data = load_statements_and_answers(statement_dir, answer_dir)
+    # === Option 1: Generate new rephrased data (uncomment to run)
+    # print("Loading original statements and answers...")
+    # data = load_statements_and_answers(statement_dir, answer_dir)
+    # if not data:
+    #     raise ValueError("No data loaded. Check input directories.")
+    # print(f"Loaded {len(data)} statement-answer pairs.")
+    # print("Generating rephrased statements...")
+    # asyncio.run(write_statements_to_folder(data, output_dir))
+    # print("Done.")
 
-    if not data:
-        raise ValueError("No data loaded. Check input directories.")
+    # === Option 2: Load already rephrased data and analyze diversity
+    print("Loading rephrased statements for diversity check...")
+    rephrased_data = load_statements_and_answers(
+        rephrased_statement_dir, rephrased_answer_dir
+    )
+    all_statements = [item["statement"] for item in rephrased_data]
 
-    print(f"Loaded {len(data)} statement-answer pairs.")
+    print(f"Found {len(all_statements)} rephrased statements.")
 
-    # Generate and write rephrased data
-    print("Generating rephrased statements...")
-    asyncio.run(write_statements_to_folder(data, output_dir))
+    # Group by 3 and analyze diversity
+    def batch_iterable(iterable, batch_size=3):
+        for i in range(0, len(iterable), batch_size):
+            yield iterable[i : i + batch_size]
 
-    print("Done.")
+    print("\n🔍 Analyzing diversity in groups of 3...")
+    low_diversity_found = False
+
+    for i, batch in enumerate(batch_iterable(all_statements, 3)):
+        diverse = filter_diverse_responses(batch, min_similarity_threshold=0.7)
+
+        if len(diverse) < 3:
+            low_diversity_found = True
+            print(
+                f"\n--- ⚠️ Low Diversity in Batch {i} (stmt_{i * 3:03d}, stmt_{i * 3 + 1:03d}, stmt_{i * 3 + 2:03d}) ---"
+            )
+            print("The following statements are too similar:")
+            for stmt in batch:
+                status = "✅ Kept" if stmt in diverse else "❌ Duplicated/Similar"
+                print(f"  {status}: {stmt}")
+
+    if not low_diversity_found:
+        print(
+            "\n✅ All batches have full diversity. No similar rephrased statements found."
+        )
+
+    # remove = [116, 190, 191, 320, 380] # Remove too similar statements
+
+    # for num in remove:
+    #     print(f"Removing statement {num:03d} from rephrased data...")
+    #     (output_dir / "statements" / f"stmt_{num:03d}.txt").unlink(missing_ok=True)
+    #     (output_dir / "answers" / f"ans_{num:03d}.json").unlink(missing_ok=True)
