@@ -25,7 +25,7 @@ api_key_file = Path.cwd().parent / ".api_key"
 api_key = get_api_key(api_key_file)
 
 client = AsyncClient(
-    host="https://beta.chat.nhn.no/ollama",  # Swap to chat.nhn.no
+    host="https://beta.chat.nhn.no/ollama",
     headers={"Authorization": f"{api_key}"},
 )
 
@@ -71,6 +71,7 @@ async def call_llm_api(
                 ],
                 stream=False,
             ),
+            timeout=60,  # Set a reasonable timeout for the API call
         )
 
         # Extract content
@@ -86,6 +87,8 @@ async def call_llm_api(
         # Regex pattern to match numbered lines: "1. ...", "2. ...", etc.
         pattern = r"^\s*\d+\.\s+(.+?)(?=(?:\n\s*\d+\.|\Z))"
         matches = re.findall(pattern, content, re.MULTILINE | re.DOTALL)
+
+        print(matches)
 
         # Clean up matches (remove trailing whitespace, newlines)
         rephrased = [match.strip() for match in matches]
@@ -212,40 +215,49 @@ def filter_diverse_responses(
 
 
 # === Rephrase statement using dummy logic (replace with real model/API later) ===
-def rephrase_statement(
+# Assuming your async LLM function is defined as:
+# async def call_llm_api(prompt: str, model: str, num_rephrases: int = 3) -> List[str] | None:
+
+
+async def rephrase_statement(
     statement: str, original_output: str, rephrases: int = 3
 ) -> List[Tuple[str, str]]:
     """
-    Generate multiple rephrased versions of a statement.
-    For now, uses simple placeholder logic. Replace with NLP model or API call.
+    Generate multiple rephrased versions of a statement using an LLM,
+    and pair each with the original output.
 
     Args:
-        statement (str): Original statement.
-        original_output (str): Corresponding label/output (e.g., JSON string).
+        statement (str): Original statement to rephrase.
+        original_output (str): Ground truth label/output (e.g., JSON string).
         rephrases (int): Number of rephrased variants to generate.
 
     Returns:
-        List[Tuple[str, str]]: List of (rephrased_statement, output)
+        List[Tuple[str, str]]: List of (rephrased_statement, original_output)
     """
-    # TODO: Integrate with Hugging Face, OpenAI, etc.
-    # TODO: Add logic to ensure rephrased statements are diverse and perserve meaning
-    # Example using simple templates
-    templates = [
-        f"In other words, {statement.lower()}",
-        f"It is {'true' if '1' in original_output else 'false'} that {statement[0].lower() + statement[1:]}",
-        f"One could say that {statement.lower()}",
-    ]
+    # Call the async LLM API
+    rephrased_list = await call_llm_api(
+        prompt=statement, model="nhn-small:latest", num_rephrases=rephrases
+    )
 
-    # Truncate or repeat if needed
-    rephrased = []
-    for i in range(rephrases):
-        rephrased.append((templates[i % len(templates)], original_output))
+    # Handle failure or empty response
+    if not rephrased_list:
+        print(
+            f"Failed to rephrase statement: '{statement}'. Using original as fallback."
+        )
+        # Fallback: repeat the original statement
+        rephrased_list = [statement] * rephrases
 
-    return rephrased
+    # Truncate or pad to ensure exactly `rephrases` outputs
+    while len(rephrased_list) < rephrases:
+        rephrased_list.append(statement)  # pad with original if needed
+    rephrased_list = rephrased_list[:rephrases]  # truncate if too many
+
+    # Pair each rephrased statement with the same original output
+    return [(rephrased_stmt, original_output) for rephrased_stmt in rephrased_list]
 
 
 # === Write rephrased statements and answers to output directory ===
-def write_statements_to_folder(data: List[Dict[str, str]], output_dir: Path):
+async def write_statements_to_folder(data: List[Dict[str, str]], output_dir: Path):
     """
     Write rephrased statements and their answers to output directory.
     Creates:
@@ -269,7 +281,7 @@ def write_statements_to_folder(data: List[Dict[str, str]], output_dir: Path):
         output = item["output"]
 
         # Generate rephrased versions
-        rephrased_pairs = rephrase_statement(
+        rephrased_pairs = await rephrase_statement(
             statement, output, rephrases=REPHRASE_COUNT
         )
 
@@ -309,6 +321,6 @@ if __name__ == "__main__":
 
     # Generate and write rephrased data
     print("Generating rephrased statements...")
-    write_statements_to_folder(data, output_dir)
+    asyncio.run(write_statements_to_folder(data, output_dir))
 
     print("Done.")
