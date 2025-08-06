@@ -2,7 +2,7 @@ import time
 import uvicorn
 import datetime
 from fastapi import Body, FastAPI, Request
-from bot_with_memory import LaneChangeController
+from rule_based_AI.bot_with_memory import LaneChangeController
 from dtos import RaceCarPredictRequestDto, RaceCarPredictResponseDto
 
 HOST = "0.0.0.0"

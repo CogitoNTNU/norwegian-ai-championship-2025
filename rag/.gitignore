@@ -1,0 +1,48 @@
+# Training checkpoints - these are large and not needed for deployment
+*/checkpoint-*/
+checkpoint-*/
+**/checkpoint-*/**
+
+# Model training artifacts
+*.safetensors.bak
+training_args.bin
+trainer_state.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Model cache and large files
+.cache/
+cache/
+# models/ - removed to allow LFS tracking
+hybrid_artifacts/
+
+# Additional virtual environments
+finetune_env/
+
+# UV executable
+uv
