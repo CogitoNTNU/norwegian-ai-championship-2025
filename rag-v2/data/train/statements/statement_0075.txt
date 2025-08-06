@@ -1,0 +1,1 @@
+In ARDS management using the NIH-NHLBI ARDSnet protocol, the target tidal volume should be maintained at 6-10 mL/kg of ideal body weight with a plateau pressure goal of less than 35 cm H2O.
