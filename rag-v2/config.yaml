@@ -2,12 +2,12 @@
 chroma_path: "chroma"
 chunk_size: 800
 chunk_overlap: 80
-reset_db: false
+reset_db: true
 
 k: 5
 # Hybrid search settings
-bm25_weight: 0.3  # Weight for BM25 scores (0.0-1.0), vector search gets (1-bm25_weight)
-use_hybrid_search: true  # Enable/disable hybrid search
+bm25_weight: 0.3 # Weight for BM25 scores (0.0-1.0), vector search gets (1-bm25_weight)
+use_hybrid_search: false # Enable/disable hybrid search
 model_names:
   #- "magistral:24b"
   - "cogito:32b"
@@ -16,7 +16,7 @@ save_results: true
 export_file: "fact_check_results.json"
 statements_dir: "data/train/statements"
 answers_dir: "data/train/answers"
-topics_file: "data/topics_cleaned.json"
+topics_file: "data/topics.json"
 wait_for_validation: false
 validation_timeout: 300
 

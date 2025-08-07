@@ -246,7 +246,7 @@ def expand_medical_abbreviations(content):
 
 def load_documents():
     """Load all markdown documents from all topic folders in the data directory."""
-    base_path = Path("data/topics")
+    base_path = Path("data/topics_cleaned")
     documents = []
 
     # Iterate through all subdirectories (topics) in the data folder
@@ -386,16 +386,13 @@ def add_to_chroma(chunks):
         new_chunk_ids = [chunk.metadata["id"] for chunk in new_chunks]
         db.add_documents(new_chunks, ids=new_chunk_ids)
         logger.success("Documents successfully added to ChromaDB")
-        
-        # Always plot results
-        plot_chunk_distribution(topic_counts)
     else:
         logger.info("No new documents to add")
 
 
 def list_topics():
     """List all available topics in the data directory."""
-    base_path = Path("data/topics")
+    base_path = Path("data/topics_cleaned")
     topics = [d.name for d in base_path.iterdir() if d.is_dir()]
 
     if topics:
@@ -412,33 +409,6 @@ def list_topics():
 def clear_database():
     if os.path.exists(config.chroma_path):
         shutil.rmtree(config.chroma_path)
-
-
-
-def plot_chunk_distribution(topic_counts):
-    """Plot distribution of chunks by topic."""
-    if not topic_counts:
-        return
-    
-    plt.figure(figsize=(12, 8))
-    topics = list(topic_counts.keys())
-    counts = list(topic_counts.values())
-    
-    # Create horizontal bar plot for better readability
-    plt.barh(topics, counts, color='skyblue', alpha=0.7)
-    plt.title('Document Chunks by Topic', fontsize=16, fontweight='bold')
-    plt.xlabel('Number of Chunks', fontsize=12)
-    plt.ylabel('Medical Topics', fontsize=12)
-    plt.grid(axis='x', alpha=0.3)
-    
-    # Add value labels on bars
-    for i, v in enumerate(counts):
-        plt.text(v + 0.1, i, str(v), va='center', fontweight='bold')
-    
-    plt.tight_layout()
-    plt.savefig('chunk_distribution.png', dpi=300, bbox_inches='tight')
-    logger.info("Chunk distribution plot saved as 'chunk_distribution.png'")
-    plt.show()
 
 
 def main():
