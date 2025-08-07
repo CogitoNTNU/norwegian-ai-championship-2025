@@ -8,6 +8,7 @@ k: 5
 # Hybrid search settings
 bm25_weight: 0.3 # Weight for BM25 scores (0.0-1.0), vector search gets (1-bm25_weight)
 use_hybrid_search: false # Enable/disable hybrid search
+bm25_index_type: "statements" # "documents" or "statements" - what to index in BM25
 model_names:
   #- "magistral:24b"
   - "cogito:32b"

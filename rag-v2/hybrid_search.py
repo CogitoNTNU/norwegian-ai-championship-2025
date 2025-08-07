@@ -6,6 +6,7 @@ import bm25s
 import Stemmer
 import pickle
 import numpy as np
+import json
 from pathlib import Path
 from typing import List, Dict, Tuple, Any
 from loguru import logger
@@ -60,9 +61,73 @@ class HybridSearcher:
         stemmed_tokens = self.stemmer.stemWords(tokens)
         return stemmed_tokens
 
+    def load_training_statements(self) -> List[Dict]:
+        """
+        Load training statements with their ground truth labels and topics.
+        
+        Returns:
+            List of statement dictionaries with text, ground_truth, topic info
+        """
+        statements_dir = Path(config.statements_dir)
+        answers_dir = Path(config.answers_dir) 
+        topics_file = Path(config.topics_file)
+        
+        # Load topic mapping
+        with open(topics_file, "r") as f:
+            topics = json.load(f)
+        topic_id_to_name = {v: k for k, v in topics.items()}
+        
+        statements = []
+        
+        # Get all statement files
+        statement_files = sorted(statements_dir.glob("statement_*.txt"))
+        
+        for stmt_file in statement_files:
+            file_id = stmt_file.stem  # e.g., "statement_0000"
+            
+            try:
+                # Load statement text
+                with open(stmt_file, "r", encoding="utf-8") as f:
+                    statement_text = f.read().strip()
+                
+                # Load corresponding answer
+                answer_file = answers_dir / f"{file_id}.json"
+                if not answer_file.exists():
+                    logger.warning(f"No answer file for {file_id}")
+                    continue
+                
+                with open(answer_file, "r") as f:
+                    answer = json.load(f)
+                
+                # Map topic ID to name
+                topic_id = answer["statement_topic"]
+                topic_name = topic_id_to_name.get(topic_id, f"Unknown_{topic_id}")
+                
+                statements.append({
+                    "id": file_id,
+                    "text": statement_text,
+                    "ground_truth": bool(answer["statement_is_true"]),
+                    "topic_id": topic_id,
+                    "topic_name": topic_name
+                })
+                
+            except Exception as e:
+                logger.error(f"Error loading statement {file_id}: {e}")
+                continue
+        
+        logger.info(f"Loaded {len(statements)} training statements")
+        return statements
+
     def build_bm25_index(self):
+        """Build BM25 index from either ChromaDB documents or training statements."""
+        if config.bm25_index_type == "statements":
+            self.build_statements_bm25_index()
+        else:
+            self.build_documents_bm25_index()
+
+    def build_documents_bm25_index(self):
         """Build BM25 index from ChromaDB documents."""
-        logger.info("Building BM25 index from ChromaDB...")
+        logger.info("Building BM25 index from ChromaDB documents...")
 
         # Get all documents from ChromaDB
         try:
@@ -100,6 +165,56 @@ class HybridSearcher:
 
         except Exception as e:
             logger.error(f"Error building BM25 index: {e}")
+            raise
+
+    def build_statements_bm25_index(self):
+        """Build BM25 index from training statements."""
+        logger.info("Building BM25 index from training statements...")
+
+        try:
+            # Load training statements
+            statements = self.load_training_statements()
+
+            if not statements:
+                logger.warning("No training statements found for BM25 indexing")
+                return
+
+            logger.info(f"Found {len(statements)} training statements for BM25 indexing")
+
+            # Extract text and create metadata
+            self.documents = []
+            self.doc_metadata = []
+
+            for stmt in statements:
+                self.documents.append(stmt["text"])
+                # Create metadata that includes statement info
+                metadata = {
+                    "id": stmt["id"],
+                    "topic": stmt["topic_name"], 
+                    "topic_id": stmt["topic_id"],
+                    "ground_truth": stmt["ground_truth"],
+                    "statement_type": "training",
+                    "truth_label": "TRUE" if stmt["ground_truth"] else "FALSE"
+                }
+                self.doc_metadata.append(metadata)
+
+            # Preprocess statements
+            logger.info("Preprocessing statements with stemming...")
+            corpus_tokens = [self.preprocess_text(doc) for doc in self.documents]
+
+            # Build BM25 index
+            logger.info("Creating BM25 index...")
+            self.bm25_index = bm25s.BM25()
+            self.bm25_index.index(corpus_tokens)
+
+            # Save index
+            self.save_bm25_index()
+            logger.info(
+                f"BM25 index built and saved with {len(self.documents)} training statements"
+            )
+
+        except Exception as e:
+            logger.error(f"Error building statements BM25 index: {e}")
             raise
 
     def save_bm25_index(self):
@@ -184,6 +299,9 @@ class HybridSearcher:
     ) -> List[Tuple[Any, float]]:
         """
         Perform hybrid search combining BM25 and vector search.
+        
+        When BM25 uses statements, combines training examples with document search.
+        When BM25 uses documents, combines two document retrieval methods.
 
         Args:
             query: Search query
@@ -196,13 +314,53 @@ class HybridSearcher:
         # Get more results from each method to have more diversity
         search_k = k * 2
 
-        # Vector search (existing method)
+        # Vector search (always uses documents from ChromaDB)
         vector_results = self.db.similarity_search_with_score(query, k=search_k)
 
-        # BM25 search
+        # BM25 search (uses either documents or statements based on config)
         bm25_results = self.bm25_search(query, k=search_k)
 
-        # Normalize and combine scores
+        # If BM25 is using statements, we want to keep both types separate but ranked together
+        if config.bm25_index_type == "statements":
+            return self._combine_documents_and_statements(vector_results, bm25_results, k, bm25_weight)
+        else:
+            return self._combine_documents_only(vector_results, bm25_results, k, bm25_weight)
+
+    def _combine_documents_and_statements(self, vector_results, bm25_results, k, bm25_weight):
+        """Combine document results with statement results."""
+        all_results = []
+        
+        # Add vector search results (documents)
+        vector_scores = [1 - score for doc, score in vector_results]
+        if vector_scores:
+            max_vector_score = max(vector_scores)
+            min_vector_score = min(vector_scores)
+            vector_range = max_vector_score - min_vector_score or 1.0
+            
+            for (doc, _), raw_score in zip(vector_results, vector_scores):
+                normalized_score = (raw_score - min_vector_score) / vector_range
+                final_score = (1 - bm25_weight) * normalized_score  # Only vector component
+                all_results.append((doc, final_score))
+        
+        # Add BM25 search results (statements) 
+        bm25_scores = [score for _, _, score in bm25_results]
+        if bm25_scores:
+            max_bm25_score = max(bm25_scores)
+            min_bm25_score = min(bm25_scores)
+            bm25_range = max_bm25_score - min_bm25_score or 1.0
+            
+            for doc_text, metadata, raw_score in bm25_results:
+                normalized_score = (raw_score - min_bm25_score) / bm25_range
+                final_score = bm25_weight * normalized_score  # Only BM25 component
+                doc = Document(page_content=doc_text, metadata=metadata)
+                all_results.append((doc, final_score))
+        
+        # Sort by combined score and return top k
+        all_results.sort(key=lambda x: x[1], reverse=True)
+        return all_results[:k]
+
+    def _combine_documents_only(self, vector_results, bm25_results, k, bm25_weight):
+        """Combine two document search methods (original hybrid approach)."""
         combined_results = {}
 
         # Process vector search results (similarity scores, higher = more similar)

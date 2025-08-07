@@ -15,6 +15,7 @@ class Config:
     # Hybrid search settings
     bm25_weight: float
     use_hybrid_search: bool
+    bm25_index_type: str
     
     # Processing settings
     plot_results: bool

@@ -40,8 +40,9 @@ CRITICAL RULES:
 7. For the topic field: You MUST identify the topic from the SPECIFIC context chunk that contains the evidence you used to make your verdict. Look at the "[Topic: X]" label in the context chunk where you found the supporting or contradicting information. Do NOT guess or choose what seems most intuitive - use the exact topic label from the evidence source.
 8. Always give a topic as an answer no matter what
 9. Choose the topic from the chunk which falsifies or confirms the statement
+10. Training examples may be provided as "[Statement: TRUE/FALSE | Topic: X]" - use these as reference patterns but base your decision on medical evidence
 
-Context chunks with their topics:
+Context chunks with their topics (may include training examples):
 {context}
 
 Statement to verify: {statement}
@@ -58,12 +59,22 @@ Remember: Use ONLY the provided context. The topic must come from the specific c
 def format_context_with_topics(results: List[Tuple]) -> str:
     """
     Format the search results to include topic information prominently.
+    Handles both document chunks and training statements.
     """
     formatted_chunks = []
     for i, (doc, score) in enumerate(results, 1):
         topic = doc.metadata.get("topic", "unknown")
-
-        formatted_chunk = f"""
+        
+        # Check if this is a training statement
+        if doc.metadata.get("statement_type") == "training":
+            truth_label = doc.metadata.get("truth_label", "UNKNOWN")
+            formatted_chunk = f"""
+[Statement: {truth_label} | Topic: {topic}]:
+{doc.page_content}
+---"""
+        else:
+            # Regular document chunk
+            formatted_chunk = f"""
 [Topic: {topic}]:
 {doc.page_content}
 ---"""
