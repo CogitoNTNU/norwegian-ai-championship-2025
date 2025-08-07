@@ -381,9 +381,21 @@ class DatasetTester:
                 topic_str = (
                     "✓ TOPIC MATCH" if result["topic_match"] else "✗ TOPIC MISMATCH"
                 )
-                logger.info(
-                    f"{correct_str} ({result['predicted_verdict']}), {topic_str}"
-                )
+                
+                # Calculate running combined accuracy
+                valid_results = [r for r in self.results if r["is_correct"] is not None]
+                if valid_results:
+                    correctness_acc = sum(1 for r in valid_results if r["is_correct"]) / len(valid_results)
+                    topic_acc = sum(1 for r in self.results if r["topic_match"]) / len(self.results)
+                    combined_acc = (correctness_acc + topic_acc) / 2
+                    
+                    logger.info(
+                        f"{correct_str} ({result['predicted_verdict']}), {topic_str} | Combined Accuracy: {combined_acc:.3f}"
+                    )
+                else:
+                    logger.info(
+                        f"{correct_str} ({result['predicted_verdict']}), {topic_str}"
+                    )
 
         # Calculate metrics
         metrics = self.calculate_metrics()
