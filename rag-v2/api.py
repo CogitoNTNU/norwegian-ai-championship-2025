@@ -4,6 +4,8 @@ import datetime
 import time
 from loguru import logger
 from pydantic import BaseModel
+from fact_checker import check_fact  # if not already imported
+import json
 
 HOST = "0.0.0.0"
 PORT = 8000
@@ -45,9 +47,6 @@ def root():
     }
 
 
-from fact_checker import check_fact  # if not already imported
-import json
-
 @app.post("/predict", response_model=MedicalStatementResponseDto)
 def predict_endpoint(request: MedicalStatementRequestDto):
     logger.info(f"Received statement: {request.statement[:100]}...")
@@ -71,12 +70,15 @@ def predict_endpoint(request: MedicalStatementRequestDto):
         topic_map = json.load(f)
     statement_topic = topic_map.get(topic_name, 40)  # or -1 if unknown
 
-    logger.info(f"Returning prediction: true={statement_is_true}, topic={statement_topic}")
+    logger.info(
+        f"Returning prediction: true={statement_is_true}, topic={statement_topic}"
+    )
 
     return MedicalStatementResponseDto(
         statement_is_true=statement_is_true,
         statement_topic=statement_topic,
     )
+
 
 def start_server():
     """Start the API server with nohup and logging."""
