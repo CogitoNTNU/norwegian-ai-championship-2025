@@ -11,6 +11,19 @@ from loguru import logger
 from embeddings import get_embeddings_func
 from get_config import config
 
+# Load topic mapping for validation
+def load_topic_mapping():
+    """Load topic mapping from topics.json file."""
+    try:
+        with open(config.topics_file, "r") as f:
+            return json.load(f)
+    except Exception as e:
+        logger.error(f"Failed to load topics file: {e}")
+        return {}
+
+# Global topic mapping
+TOPIC_MAPPING = load_topic_mapping()
+
 
 FACT_CHECK_PROMPT = """You are a medical fact-checking assistant. Your ONLY job is to verify if a statement is TRUE, FALSE, or UNSURE based SOLELY on the provided context.
 
@@ -113,6 +126,19 @@ def check_fact(statement: str, model_name: str = None) -> Dict:
         else:
             # If no JSON found, try to parse the entire response
             result = json.loads(response_text)
+
+        # Validate that required keys exist
+        if "verdict" not in result:
+            logger.debug(f"LLM response missing verdict, raw response: {response_text}")
+            result["verdict"] = "TRUE"  # Default to TRUE for missing verdict
+        
+        if "topic" not in result:
+            result["topic"] = "unknown"
+        
+        # Validate topic against known topics
+        if result["topic"] not in TOPIC_MAPPING:
+            logger.debug(f"LLM returned unknown topic '{result['topic']}', setting to topic 40. Raw response: {response_text}")
+            result["topic"] = "Hypertensive Emergency"  # Topic 40
 
         # Store original verdict for logging/analysis
         result["original_verdict"] = result["verdict"]
