@@ -329,7 +329,7 @@ class DatasetTester:
 
         logger.info(f"Wrong prediction debug info saved: {filepath}")
 
-    def run_test(self, model_name: str = None) -> Dict:
+    def run_test(self, model_name: str) -> Dict:
         """
         Run the test on the entire dataset.
 
@@ -347,15 +347,19 @@ class DatasetTester:
         # Apply statement range filtering if configured
         if config.from_statement is not None or config.to_statement is not None:
             from_idx = (config.from_statement or 1) - 1  # Convert to 0-based index
-            to_idx = config.to_statement if config.to_statement is not None else len(dataset)
-            
+            to_idx = (
+                config.to_statement if config.to_statement is not None else len(dataset)
+            )
+
             # Ensure valid range
             from_idx = max(0, min(from_idx, len(dataset)))
             to_idx = max(from_idx, min(to_idx, len(dataset)))
-            
+
             original_size = len(dataset)
             dataset = dataset[from_idx:to_idx]
-            logger.info(f"Filtered dataset: statements {from_idx + 1}-{to_idx} ({len(dataset)}/{original_size} samples)")
+            logger.info(
+                f"Filtered dataset: statements {from_idx + 1}-{to_idx} ({len(dataset)}/{original_size} samples)"
+            )
         else:
             logger.info(f"Testing all {len(dataset)} samples")
 
@@ -675,7 +679,7 @@ class DatasetTester:
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         plt.savefig(save_path, dpi=300, bbox_inches="tight")
         logger.info(f"Plot saved to {save_path}")
-        plt.show()
+        plt.close()
 
 
 def main():
@@ -688,10 +692,10 @@ def main():
     for i, model_name in enumerate(config.model_names, 1):
         logger.info(f"\n[{i}/{len(config.model_names)}] Testing model: {model_name}")
         logger.info("-" * 60)
-        
+
         # Initialize fresh tester for each model
         tester = DatasetTester()
-        
+
         # Run test for this model
         metrics = tester.run_test(model_name)
 
@@ -699,7 +703,7 @@ def main():
         if metrics:
             logger.info(f"\nResults for {model_name}:")
             tester.print_report(metrics)
-        
+
         logger.info(f"Completed testing {model_name}")
         logger.info("=" * 80)
 
