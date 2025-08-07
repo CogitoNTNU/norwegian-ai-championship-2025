@@ -16,7 +16,7 @@ save_results: true
 export_file: "fact_check_results.json"
 statements_dir: "data/train/statements"
 answers_dir: "data/train/answers"
-topics_file: "data/topics.json"
+topics_file: "data/topics_cleaned.json"
 wait_for_validation: false
 validation_timeout: 300
 

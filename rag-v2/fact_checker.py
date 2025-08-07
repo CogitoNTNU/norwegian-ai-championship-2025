@@ -12,6 +12,7 @@ from embeddings import get_embeddings_func
 from get_config import config
 from hybrid_search import hybrid_similarity_search_with_score
 
+
 # Load topic mapping for validation
 def load_topic_mapping():
     """Load topic mapping from topics.json file."""
@@ -21,6 +22,7 @@ def load_topic_mapping():
     except Exception as e:
         logger.error(f"Failed to load topics file: {e}")
         return {}
+
 
 # Global topic mapping
 TOPIC_MAPPING = load_topic_mapping()
@@ -70,7 +72,7 @@ def format_context_with_topics(results: List[Tuple]) -> str:
     return "\n".join(formatted_chunks)
 
 
-def check_fact(statement: str, model_name: str = None) -> Dict:
+def check_fact(statement: str, model_name) -> Dict:
     """
     Check if a medical statement is true or false based on the knowledge base.
 
@@ -83,15 +85,18 @@ def check_fact(statement: str, model_name: str = None) -> Dict:
     """
     # Use hybrid or vector search based on configuration
     if config.use_hybrid_search:
-        results = hybrid_similarity_search_with_score(statement, k=config.k, bm25_weight=config.bm25_weight)
+        results = hybrid_similarity_search_with_score(
+            statement, k=config.k, bm25_weight=config.bm25_weight
+        )
     else:
         # Fall back to pure vector search
         db = Chroma(
-            persist_directory=config.chroma_path, embedding_function=get_embeddings_func()
+            persist_directory=config.chroma_path,
+            embedding_function=get_embeddings_func(),
         )
         chroma_results = db.similarity_search_with_score(statement, k=config.k)
         # Convert to hybrid search format for consistency
-        results = [(doc, 1-score) for doc, score in chroma_results]
+        results = [(doc, 1 - score) for doc, score in chroma_results]
 
     if not results:
         return {"verdict": "UNVERIFIABLE", "topic": "unknown", "chunks_retrieved": 0}
@@ -136,13 +141,15 @@ def check_fact(statement: str, model_name: str = None) -> Dict:
         if "verdict" not in result:
             logger.debug(f"LLM response missing verdict, raw response: {response_text}")
             result["verdict"] = "TRUE"  # Default to TRUE for missing verdict
-        
+
         if "topic" not in result:
             result["topic"] = "unknown"
-        
+
         # Validate topic against known topics
         if result["topic"] not in TOPIC_MAPPING:
-            logger.debug(f"LLM returned unknown topic '{result['topic']}', setting to topic 40. Raw response: {response_text}")
+            logger.debug(
+                f"LLM returned unknown topic '{result['topic']}', setting to topic 40. Raw response: {response_text}"
+            )
             result["topic"] = "Hypertensive Emergency"  # Topic 40
 
         # Store original verdict for logging/analysis
@@ -154,9 +161,9 @@ def check_fact(statement: str, model_name: str = None) -> Dict:
 
         # Add additional metadata
         result["chunks_retrieved"] = len(results)
-        result["avg_relevance_score"] = sum(score for _, score in results) / len(
-            results
-        ) if results else 0
+        result["avg_relevance_score"] = (
+            sum(score for _, score in results) / len(results) if results else 0
+        )
         return result
 
     except json.JSONDecodeError as e:

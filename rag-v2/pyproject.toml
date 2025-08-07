@@ -49,7 +49,7 @@ dependencies = [
     "typing-inspection>=0.4.0",
     "annotated-types>=0.6.0",
     "bm25s>=0.2.13",
-    "PyStemmer>=3.0.0",
+    "pystemmer>=3.0.0",
     "accelerate>=0.20.0",
     "anthropic>=0.60.0",
     "sentence-transformers>=5.0.0",
@@ -58,6 +58,8 @@ dependencies = [
     "ragas>=0.1.0",
     "plotly>=5.0.0",
     "chromadb>=1.0.15",
+    "langchain>=0.2.5",
+    "google-generativeai>=0.8.5",
 ]
 
 [project.scripts]
