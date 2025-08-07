@@ -1,0 +1,2138 @@
+[
+  {
+    "id": "statement_0024",
+    "statement": "Computed tomography pulmonary angiography demonstrates superior accuracy compared to ventilation-perfusion scanning for diagnosing pulmonary embolism, particularly in patients with underlying chronic lung disease.",
+    "ground_truth_answer": false,
+    "ground_truth_topic": "Chest Pain (non-cardiac)",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Pulmonary Embolism",
+    "verdict_correct": true,
+    "topic_correct": false,
+    "prediction_type": "CORRECT",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Pulmonary Embolism\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "The advantage of a CT pulmonary angiogram over the ventilation/perfusion (V/Q) scan is that it simultaneously evaluates the lungs for pulmonary infarction and assesses right heart strain. However, CT is associated with higher radiation exposure. Dual-energy CT is a more recent technique used to detect pulmonary emboli better. Triple rule-out studies that evaluate for aortic dissection, pulmonary embolism, and coronary artery CT angiograms have been used in the emergency room to rule out all 3 causes of acute chest pain.\n\nMagnetic Resonance",
+        "topic": "Chest X-ray",
+        "relevance_score": 0.6088557553726184,
+        "metadata": {
+          "file_topic": "Chest and Mediastinal Imaging",
+          "id": "Chest X-ray:Chest and Mediastinal Imaging:6712",
+          "source": "data/topics/Chest X-ray/Chest and Mediastinal Imaging.md",
+          "source_file": "Chest and Mediastinal Imaging.md",
+          "topic": "Chest X-ray",
+          "topic_keywords": "Chest and Mediastinal Imaging"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Computed tomographic pulmonary angiography (CTPA)\n\nMultidetector computed tomographic pulmonary angiography (CTPA) is the diagnostic modality of choice for patients with suspected PE. CTPA allows appropriate visualization of the pulmonary arteries down to the subsegmental level. The PIOPED (Prospective Investigation On Pulmonary Embolism Diagnosis) II study showed a sensitivity of 83% and a specificity of 96% for CTPA in PE diagnosis. Moreover, CTPA is the most commonly used imaging technique to diagnose pulmonary infarction in combination with appropriate clinical context (see Image. Pulmonary Embolism). CT findings associated with pulmonary infarction include a feeding vessel or \"vessel sign,\" central lucency, and a semicircular shape. The finding of air bronchograms made a pulmonary infarction less likely. If a vessel sign with a central lucency and no air bronchogram is present on CT, the specificity for detecting pulmonary infarction is 99%.",
+        "topic": "Embolism",
+        "relevance_score": 0.5962397158145905,
+        "metadata": {
+          "file_topic": "Embolism",
+          "id": "Embolism:Embolism:48",
+          "source": "data/topics/Embolism/Embolism.md",
+          "source_file": "Embolism.md",
+          "topic": "Embolism",
+          "topic_keywords": "Embolism"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Computed tomographic pulmonary angiography (CTPA)\n\nMultidetector computed tomographic pulmonary angiography (CTPA) is the diagnostic modality of choice for patients with suspected PE. CTPA allows appropriate visualization of the pulmonary arteries down to the subsegmental level. The PIOPED (Prospective Investigation On Pulmonary Embolism Diagnosis) II study showed a sensitivity of 83% and a specificity of 96% for CTPA in PE diagnosis. Moreover, CTPA is the most commonly used imaging technique to diagnose pulmonary infarction in combination with appropriate clinical context (see Image. Pulmonary Embolism). CT findings associated with pulmonary infarction include a feeding vessel or \"vessel sign,\" central lucency, and a semicircular shape. The finding of air bronchograms made a pulmonary infarction less likely. If a vessel sign with a central lucency and no air bronchogram is present on CT, the specificity for detecting pulmonary infarction is 99%.",
+        "topic": "Pulmonary Embolism",
+        "relevance_score": 0.5962397158145905,
+        "metadata": {
+          "file_topic": "Acute Pulmonary Embolism",
+          "id": "Pulmonary Embolism:Acute Pulmonary Embolism:3225",
+          "source": "data/topics/Pulmonary Embolism/Acute Pulmonary Embolism.md",
+          "source_file": "Acute Pulmonary Embolism.md",
+          "topic": "Pulmonary Embolism",
+          "topic_keywords": "Acute Pulmonary Embolism"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "46.\n\nAnderson DR, Kahn SR, Rodger MA, Kovacs MJ, Morris T, Hirsch A, Lang E, Stiell I, Kovacs G, Dreyer J, Dennie C, Cartier Y, Barnes D, Burton E, Pleasance S, Skedgel C, O'Rouke K, Wells PS. Computed tomographic pulmonary angiography vs ventilation-perfusion lung scanning in patients with suspected pulmonary embolism: a randomized controlled trial. JAMA. 2007 Dec 19;298(23):2743-53. \n\n47.\n\nSostman HD, Stein PD, Gottschalk A, Matta F, Hull R, Goodman L. Acute pulmonary embolism: sensitivity and specificity of ventilation-perfusion scintigraphy in PIOPED II study. Radiology. 2008 Mar;246(3):941-6. \n\n48.\n\nPIOPED Investigators. Value of the ventilation/perfusion scan in acute pulmonary embolism. Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED). JAMA. 1990 May 23-30;263(20):2753-9. \n\n49.\n\nWittram C, Waltman AC, Shepard JA, Halpern E, Goodman LR. Discordance between CT and angiography in the PIOPED II study. Radiology. 2007 Sep;244(3):883-9. \n\n50.",
+        "topic": "Embolism",
+        "relevance_score": 0.5883640050888062,
+        "metadata": {
+          "file_topic": "Embolism",
+          "id": "Embolism:Embolism:88",
+          "source": "data/topics/Embolism/Embolism.md",
+          "source_file": "Embolism.md",
+          "topic": "Embolism",
+          "topic_keywords": "Embolism"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "46.\n\nAnderson DR, Kahn SR, Rodger MA, Kovacs MJ, Morris T, Hirsch A, Lang E, Stiell I, Kovacs G, Dreyer J, Dennie C, Cartier Y, Barnes D, Burton E, Pleasance S, Skedgel C, O'Rouke K, Wells PS. Computed tomographic pulmonary angiography vs ventilation-perfusion lung scanning in patients with suspected pulmonary embolism: a randomized controlled trial. JAMA. 2007 Dec 19;298(23):2743-53. \n\n47.\n\nSostman HD, Stein PD, Gottschalk A, Matta F, Hull R, Goodman L. Acute pulmonary embolism: sensitivity and specificity of ventilation-perfusion scintigraphy in PIOPED II study. Radiology. 2008 Mar;246(3):941-6. \n\n48.\n\nPIOPED Investigators. Value of the ventilation/perfusion scan in acute pulmonary embolism. Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED). JAMA. 1990 May 23-30;263(20):2753-9. \n\n49.\n\nWittram C, Waltman AC, Shepard JA, Halpern E, Goodman LR. Discordance between CT and angiography in the PIOPED II study. Radiology. 2007 Sep;244(3):883-9. \n\n50.",
+        "topic": "Pulmonary Embolism",
+        "relevance_score": 0.5883640050888062,
+        "metadata": {
+          "file_topic": "Acute Pulmonary Embolism",
+          "id": "Pulmonary Embolism:Acute Pulmonary Embolism:3265",
+          "source": "data/topics/Pulmonary Embolism/Acute Pulmonary Embolism.md",
+          "source_file": "Acute Pulmonary Embolism.md",
+          "topic": "Pulmonary Embolism",
+          "topic_keywords": "Acute Pulmonary Embolism"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5956126394358823,
+    "processing_time_seconds": 3.503373146057129
+  },
+  {
+    "id": "statement_0029",
+    "statement": "Succinylcholine can be safely used in burn patients within the first 24-48 hours after injury, but becomes contraindicated thereafter due to upregulation of acetylcholine receptors that can cause life-threatening hyperkalemia exceeding 0.5 mEq/L.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Burns",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Burns: Neuromuscular Blockade",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Burns: Neuromuscular Blockade\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Neuromuscular Blockade\n\nA major concern with burn patients is the upregulation of acetylcholine receptors after a burn resulting in life-threatening hyperkalemia after using succinylcholine. In healthy patients, succinylcholine use is associated with only 0.5 mEq/L, but in the burn patient, this response is exaggerated. The increased susceptibility to hyperkalemia is likely associated with changes in the nicotinic acetylcholine receptor (nAChR) subunits. Recent evidence suggests that burn patients have upregulated alpha7 and gamma subunit genes producing more acetylcholine receptors spread throughout the body and slightly altered receptors. These altered receptors likely have abnormal electrophysiological interactions with succinylcholine producing more significant hyperkalemia.",
+        "topic": "Burns",
+        "relevance_score": 0.737725704908371,
+        "metadata": {
+          "file_topic": "Burns",
+          "id": "Burns:Burns:1667",
+          "source": "data/topics/Burns/Burns.md",
+          "source_file": "Burns.md",
+          "topic": "Burns",
+          "topic_keywords": "Burns"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "This upregulation of acetylcholine receptors does not happen fast enough for significant hyperkalemia to develop until approximately 24 to 48 hours after the initial burn injury. Resistance to non-depolarizing neuromuscular blockade happens much faster than the sensitivity to succinylcholine (within the 24-48 hour window). Thus, the presenting burn patient may require higher than usual doses of a non-depolarizing neuromuscular blockade than expected. An increased dose can partially overcome resistance to the neuromuscular blockade produced by rocuronium. Rocuronium can provide reasonably good intubating conditions with a 1.2 mg/kg dose after a significant burn injury.\n\nComplications\n\nInfection\n\nSevere burns can weaken the immune system due to increased cytokine inflammatory markers, leading to a greater risk of infection. Wounds quickly become colonized with gram-positive organisms like Staphylococcus aureus and Staphylococcus epidermis. Over several days, intestinal microbes such as Pseudomonas aeruginosa and Escherichia coli colonize the wounds.",
+        "topic": "Burns",
+        "relevance_score": 0.6727330684661865,
+        "metadata": {
+          "file_topic": "Burns",
+          "id": "Burns:Burns:1668",
+          "source": "data/topics/Burns/Burns.md",
+          "source_file": "Burns.md",
+          "topic": "Burns",
+          "topic_keywords": "Burns"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "15.\n\nHan T, Kim H, Bae J, Kim K, Martyn JA. Neuromuscular pharmacodynamics of rocuronium in patients with major burns. Anesth Analg. 2004 Aug;99(2):386-92, table of contents. \n\n16.\n\nOsta WA, El-Osta MA, Pezhman EA, Raad RA (right atrium right atrial), Ferguson K, McKelvey GM, Marsh HM, White M, Perov S. Nicotinic acetylcholine receptor gene expression is altered in burn patients. Anesth Analg. 2010 May 01;110(5):1355-9. \n\n17.\n\nNosek MT, Martyn JA. Na+ channel and acetylcholine receptor changes in muscle at sites distant from burns do not simulate denervation. J Appl Physiol (1985). 1997 Apr;82(4):1333-9. \n\n18.\n\nRowan MP, Cancio LC, Elster EA, Burmeister DM, Rose LF, Natesan S, Chan RK, Christy RJ, Chung KK. Burn wound healing and treatment: review and advancements. Crit Care. 2015 Jun 12;19:243. \n\n19.\n\nAlebachew T, Yismaw G, Derabe A, Sisay Z. Staphylococcus aureus burn wound infection among patients attending yekatit 12 hospital burn unit, addis ababa, ethiopia. Ethiop J Health Sci. 2012 Nov;22(3):209-13. \n\n20.\n\nChurch D, Elsayed S, Reid O, Winston B, Lindsay R. Burn wound infections. Clin Microbiol Rev. 2006 Apr;19(2):403-34. \n\n21.",
+        "topic": "Burns",
+        "relevance_score": 0.506023645401001,
+        "metadata": {
+          "file_topic": "Burns",
+          "id": "Burns:Burns:1677",
+          "source": "data/topics/Burns/Burns.md",
+          "source_file": "Burns.md",
+          "topic": "Burns",
+          "topic_keywords": "Burns"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "The burn shock or ebb phase occurs during the first 24 to 48 hours of a severe (or major) burn; a severe burn is defined as a collection of second- and third-degree burns comprising equal to or greater than 20% total body surface area (TBSA). Burn shock is characterized by reduced end-organ perfusion and diminished cardiac output, mainly due to losses in intravascular volume. Essentially, this is a distributive shock state. Intravascular volume losses form edema at directly burned areas and unburned sites. Hemoconcentration of red blood cells occurs due to significant volume extravasation into adjacent tissue. This edematous state can obscure views of the glottic opening during direct laryngoscopy. Reduction in cardiac output is a complication of intravascular volume loss, direct myocardial depression, and increased systemic vascular resistance. During this phase, there is an increase in systemic vascular resistance caused by a surge of catecholamines and antidiuretic hormone. This leads to the constriction of blood vessels and a reduction in blood flow",
+        "topic": "Burns",
+        "relevance_score": 0.3974045515060425,
+        "metadata": {
+          "file_topic": "Burns",
+          "id": "Burns:Burns:1644",
+          "source": "data/topics/Burns/Burns.md",
+          "source_file": "Burns.md",
+          "topic": "Burns",
+          "topic_keywords": "Burns"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "The hypermetabolic or flow phase of a severe burn develops 48 to 72 hours after the initial injury and is characterized by increased oxygen consumption and carbon dioxide production. Cardiac output improves compared to the burn shock phase resulting in better end-organ perfusion. Cardiac output may increase to 2 to 3 times the normal range due to tachycardia and decreased systemic vascular resistance during this phase, further mimicking sepsis. As a result of decreased vascular resistance, blood flow subsequently improves to all organs. Arteriovenous shunting may occur, resulting in increased venous oxygen saturation. Resorption of edema may result in pulmonary edema, further compounding the damage from inhalation injuries from smoke. If excessive fluid resuscitation is given during the burn shock phase, the consequences of such actions would be observed during the hypermetabolic phase as fluid is resorbed, potentially making weaning from the ventilator intraoperatively troublesome. The release of catabolic hormones and insulin resistance generally characterizes the hypermetabolic phase. This results in protein catabolism (ie, muscle wasting) and hyperglycemia",
+        "topic": "Burns",
+        "relevance_score": 0.390728235244751,
+        "metadata": {
+          "file_topic": "Burns",
+          "id": "Burns:Burns:1646",
+          "source": "data/topics/Burns/Burns.md",
+          "source_file": "Burns.md",
+          "topic": "Burns",
+          "topic_keywords": "Burns"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5409230411052703,
+    "processing_time_seconds": 3.8638391494750977
+  },
+  {
+    "id": "statement_0035",
+    "statement": "The PECARN head trauma algorithm for children under 2 years old includes scalp hematomas (especially non-frontal), loss of consciousness for 5 seconds or more, severe mechanism of injury, abnormal parental-reported behavior, and palpable skull fracture as key criteria.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Traumatic Brain Injury",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Traumatic Brain Injury",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Traumatic Brain Injury\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "New Orleans Criteria\n\nHeadache\n\nVomiting (any)\n\nAge > 60 years\n\nDrug or alcohol intoxication\n\nSeizure\n\nTrauma visible above clavicles\n\nShort-term memory deficits\n\nCanadian CT Head Injury/Trauma Rule\n\nDangerous mechanism of injury (defined as a pedestrian struck by a motor vehicle, occupant ejected from a motor vehicle, or a fall from >3 feet or >5 stairs)\n\nVomiting > than once\n\nAge > 65 years\n\nGCS score < 15, 2 hours post-injury\n\nSeizure after injury\n\nAny sign of basal skull fracture\n\nPossible open or depressed skull fracture\n\nAmnesia for events 30 minutes before injury\n\nFor pediatric patients (\\<16) at low risk for intracranial injuries, the best decision tool to determine the recommendation of the CT scan is the Pediatric Emergency Care Applied Research Network (PECARN) head trauma algorithm, which is based on a large-scale clinical trial of the same name and has had repeated external validation.\n\nPECARN for children younger than 2 years old:\n\nScalp hematomas (especially those that are not frontal)\n\nLoss of consciousness for 5 seconds or more",
+        "topic": "Traumatic Brain Injury",
+        "relevance_score": 0.6911992728710175,
+        "metadata": {
+          "file_topic": "Traumatic Brain Injury",
+          "id": "Traumatic Brain Injury:Traumatic Brain Injury:1344",
+          "source": "data/topics/Traumatic Brain Injury/Traumatic Brain Injury.md",
+          "source_file": "Traumatic Brain Injury.md",
+          "topic": "Traumatic Brain Injury",
+          "topic_keywords": "Traumatic Brain Injury"
+        }
+      },
+      {
+        "rank": 2,
+        "content": ". 88%) and being more specific (50.6% vs. 12.7%). Similar to the CCHR and NOC, the PECARN head injury rule has a 100% sensitivity and 100% negative predictive value in ruling out clinically important traumatic brain injury (ciTBI) in the pediatric population under two years of age. In those over two, the rules had a 96.8% sensitivity and negative predictive value of 99.95% for ruling out ciTBI but had a 100% sensitivity in predicting those requiring neurosurgical intervention. If any of the criteria are met, a CT scan of the brain may be warranted.",
+        "topic": "Traumatic Brain Injury",
+        "relevance_score": 0.5516464710235596,
+        "metadata": {
+          "file_topic": "Traumatic Brain Injury",
+          "id": "Traumatic Brain Injury:Traumatic Brain Injury:1343",
+          "source": "data/topics/Traumatic Brain Injury/Traumatic Brain Injury.md",
+          "source_file": "Traumatic Brain Injury.md",
+          "topic": "Traumatic Brain Injury",
+          "topic_keywords": "Traumatic Brain Injury"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Loss of consciousness for 5 seconds or more\n\nSevere mechanism of injury (such as motor vehicle collision, fall from elevation greater than 3 feet, or being struck by a high-impact object)\n\nAbnormal behavior, according to the parents, and palpable skull fracture\n\nPECARN for children 2 years old and older:\n\nLoss of consciousness\n\nVomiting\n\nSevere headache\n\nSevere mechanism of injury\n\nSigns of basilar skull fracture\n\nAltered mental status\n\nThere are many other trauma rules that can help risk stratify and help guide on prognosis and testing. Many of them can be found at https://www.mdcalc.com/. Some other commonly used and studies rules include CRASH and IMPACT. The CRASH prognosis calculator predicts death at 14 days and death and severe disability at 6 months in adult patients with GCS 14 or less. It does not help determine whether or not a CT is necessary. The IMPACT prognosis calculator predicts a 6-month outcome in adult patients with moderate to severe traumatic intracranial injury. It does not help determine whether or not a CT is necessary.\n\nTreatment / Management",
+        "topic": "Traumatic Brain Injury",
+        "relevance_score": 0.5186958312988281,
+        "metadata": {
+          "file_topic": "Traumatic Brain Injury",
+          "id": "Traumatic Brain Injury:Traumatic Brain Injury:1345",
+          "source": "data/topics/Traumatic Brain Injury/Traumatic Brain Injury.md",
+          "source_file": "Traumatic Brain Injury.md",
+          "topic": "Traumatic Brain Injury",
+          "topic_keywords": "Traumatic Brain Injury"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "30.\n\nJanas AM, Qin F, Hamilton S, Jiang B, Baier N, Wintermark M, Threlkeld Z, Lee S. Diffuse Axonal Injury Grade on Early MRI is Associated with Worse Outcome in Children with Moderate-Severe Traumatic Brain Injury. Neurocrit Care. 2022 Apr;36(2):492-503. \n\n31.\n\nPavlovi\u0107 T, Milo\u0161evi\u0107 M, Trtica S, Budin\u010devi\u0107 H. Value of Head CT Scan in the Emergency Department in Patients with Vertigo without Focal Neurological Abnormalities. Open Access Maced J Med Sci. 2018 Sep 25;6(9):1664-1667. \n\n32.\n\nHajiaghamemar M, Lan IS, Christian CW, Coats B, Margulies SS. Infant skull fracture risk for low height falls. Int J Legal Med. 2019 May;133(3):847-862. \n\n33.\n\nStiell IG, Wells GA, Vandemheen K, Clement C, Lesiuk H, Laupacis A, McKnight RD, Verbeek R, Brison R, Cass D, Eisenhauer ME, Greenberg G, Worthington J. The Canadian CT Head Rule for patients with minor head injury. Lancet. 2001 May 05;357(9266):1391-6. \n\n34.",
+        "topic": "Traumatic Brain Injury",
+        "relevance_score": 0.4787636995315552,
+        "metadata": {
+          "file_topic": "Traumatic Brain Injury",
+          "id": "Traumatic Brain Injury:Traumatic Brain Injury:1375",
+          "source": "data/topics/Traumatic Brain Injury/Traumatic Brain Injury.md",
+          "source_file": "Traumatic Brain Injury.md",
+          "topic": "Traumatic Brain Injury",
+          "topic_keywords": "Traumatic Brain Injury"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "34.\n\nStiell IG, Clement CM, Rowe BH, Schull MJ, Brison R, Cass D, Eisenhauer MA, McKnight RD, Bandiera G, Holroyd B, Lee JS, Dreyer J, Worthington JR, Reardon M, Greenberg G, Lesiuk H, MacPhail I, Wells GA. Comparison of the Canadian CT Head Rule and the New Orleans Criteria in patients with minor head injury. JAMA. 2005 Sep 28;294(12):1511-8. \n\n35.\n\nHaydel MJ, Preston CA, Mills TJ, Luber S, Blaudeau E, DeBlieux PM. Indications for computed tomography in patients with minor head injury. N Engl J Med. 2000 Jul 13;343(2):100-5. \n\n36.\n\nKuppermann N, Holmes JF, Dayan PS, Hoyle JD, Atabaki SM, Holubkov R, Nadel FM, Monroe D, Stanley RM, Borgialli DA, Badawy MK, Schunk JE, Quayle KS, Mahajan P, Lichenstein R, Lillis KA, Tunik MG, Jacobs ES, Callahan JM, Gorelick MH, Glass TF, Lee LK, Bachman MC, Cooper A, Powell EC, Gerardi MJ, Melville KA, Muizelaar JP, Wisner DH, Zuspan SJ, Dean JM, Wootton-Gorges SL., Pediatric Emergency Care Applied Research Network (PECARN). Identification of children at very low risk of clinically-important brain injuries after head trauma: a prospective cohort study. Lancet. 2009 Oct 03;374(9696):1160-70. \n\n37.",
+        "topic": "Traumatic Brain Injury",
+        "relevance_score": 0.46021372079849243,
+        "metadata": {
+          "file_topic": "Traumatic Brain Injury",
+          "id": "Traumatic Brain Injury:Traumatic Brain Injury:1376",
+          "source": "data/topics/Traumatic Brain Injury/Traumatic Brain Injury.md",
+          "source_file": "Traumatic Brain Injury.md",
+          "topic": "Traumatic Brain Injury",
+          "topic_keywords": "Traumatic Brain Injury"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5401037991046905,
+    "processing_time_seconds": 3.726085662841797
+  },
+  {
+    "id": "statement_0037",
+    "statement": "Tibetan populations demonstrate lower prevalence of high altitude pulmonary hypertension compared to South American Andean populations due to increased nitric oxide concentrations in their pulmonary endothelium.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Pulmonary Hypertension",
+    "predicted_answer": true,
+    "predicted_verdict": "TRUE",
+    "predicted_topic": "Hypertensive Emergency",
+    "verdict_correct": true,
+    "topic_correct": false,
+    "prediction_type": "CORRECT",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"TRUE\",\n    \"topic\": \"Hypertensive Emergency\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Endothelial nitrous oxide is theorized to play a role in the development of HAPH. Longstanding hypoxia is known to decrease nitrous oxide synthesis, contributing to the development of pulmonary hypertension. Research and comparison of different subpopulations have demonstrated that increased nitrous oxide concentrations in pulmonary endothelium decrease the prevalence of HAPH. Studies have shown that individuals from Tibet have high nitrous oxide concentrations, which correlates with a lower prevalence of HAPH than the South American Andean population.\n\nHistory and Physical",
+        "topic": "Hypertensive Emergency",
+        "relevance_score": 0.6600575745105743,
+        "metadata": {
+          "file_topic": "Malignant Hypertension",
+          "id": "Hypertensive Emergency:Malignant Hypertension:1246",
+          "source": "data/topics/Hypertensive Emergency/Malignant Hypertension.md",
+          "source_file": "Malignant Hypertension.md",
+          "topic": "Hypertensive Emergency",
+          "topic_keywords": "Malignant Hypertension"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Endothelial nitrous oxide is theorized to play a role in the development of HAPH. Longstanding hypoxia is known to decrease nitrous oxide synthesis, contributing to the development of pulmonary hypertension. Research and comparison of different subpopulations have demonstrated that increased nitrous oxide concentrations in pulmonary endothelium decrease the prevalence of HAPH. Studies have shown that individuals from Tibet have high nitrous oxide concentrations, which correlates with a lower prevalence of HAPH than the South American Andean population.\n\nHistory and Physical",
+        "topic": "Pulmonary Hypertension",
+        "relevance_score": 0.6600575745105743,
+        "metadata": {
+          "file_topic": "Pulmonary Hypertension",
+          "id": "Pulmonary Hypertension:Pulmonary Hypertension:2594",
+          "source": "data/topics/Pulmonary Hypertension/Pulmonary Hypertension.md",
+          "source_file": "Pulmonary Hypertension.md",
+          "topic": "Pulmonary Hypertension",
+          "topic_keywords": "Pulmonary Hypertension"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "8.\n\nLuks AM, Levett D, Martin DS, Goss CH, Mitchell K, Fernandez BO, Feelisch M, Grocott MP, Swenson ER., Caudwell Xtreme Everest Investigators. Changes in acute pulmonary vascular responsiveness to hypoxia during a progressive ascent to high altitude (5300 m). Exp Physiol. 2017 Jun 01;102(6):711-724. \n\n9.\n\nRobinson JC, Abbott C, Meadows CA, Roach RC, Honigman B, Bull TM. Long-Term Health Outcomes in High-Altitude Pulmonary Hypertension. High Alt Med Biol. 2017 Mar;18(1):61-66. \n\n10.\n\nKlinger JR, Abman SH, Gladwin MT. Nitric oxide deficiency and endothelial dysfunction in pulmonary arterial hypertension. Am J Respir Crit Care Med. 2013 Sep 15;188(6):639-46. \n\n11.\n\nSime F, Pe\u00f1aloza D, Ruiz L. Bradycardia, increased cardiac output, and reversal of pulmonary hypertension in altitude natives living at sea level. Br Heart J. 1971 Sep;33(5):647-57. \n\n12.\n\nXu Y, Liu Y, Liu J, Qian G. Meta-analysis of clinical efficacy of sildenafil, a phosphodiesterase type-5 inhibitor on high altitude hypoxia and its complications. High Alt Med Biol. 2014 Apr;15(1):46-51. \n\n13.",
+        "topic": "Hypertensive Emergency",
+        "relevance_score": 0.55190509557724,
+        "metadata": {
+          "file_topic": "Malignant Hypertension",
+          "id": "Hypertensive Emergency:Malignant Hypertension:1255",
+          "source": "data/topics/Hypertensive Emergency/Malignant Hypertension.md",
+          "source_file": "Malignant Hypertension.md",
+          "topic": "Hypertensive Emergency",
+          "topic_keywords": "Malignant Hypertension"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "8.\n\nLuks AM, Levett D, Martin DS, Goss CH, Mitchell K, Fernandez BO, Feelisch M, Grocott MP, Swenson ER., Caudwell Xtreme Everest Investigators. Changes in acute pulmonary vascular responsiveness to hypoxia during a progressive ascent to high altitude (5300 m). Exp Physiol. 2017 Jun 01;102(6):711-724. \n\n9.\n\nRobinson JC, Abbott C, Meadows CA, Roach RC, Honigman B, Bull TM. Long-Term Health Outcomes in High-Altitude Pulmonary Hypertension. High Alt Med Biol. 2017 Mar;18(1):61-66. \n\n10.\n\nKlinger JR, Abman SH, Gladwin MT. Nitric oxide deficiency and endothelial dysfunction in pulmonary arterial hypertension. Am J Respir Crit Care Med. 2013 Sep 15;188(6):639-46. \n\n11.\n\nSime F, Pe\u00f1aloza D, Ruiz L. Bradycardia, increased cardiac output, and reversal of pulmonary hypertension in altitude natives living at sea level. Br Heart J. 1971 Sep;33(5):647-57. \n\n12.\n\nXu Y, Liu Y, Liu J, Qian G. Meta-analysis of clinical efficacy of sildenafil, a phosphodiesterase type-5 inhibitor on high altitude hypoxia and its complications. High Alt Med Biol. 2014 Apr;15(1):46-51. \n\n13.",
+        "topic": "Pulmonary Hypertension",
+        "relevance_score": 0.55190509557724,
+        "metadata": {
+          "file_topic": "Pulmonary Hypertension",
+          "id": "Pulmonary Hypertension:Pulmonary Hypertension:2603",
+          "source": "data/topics/Pulmonary Hypertension/Pulmonary Hypertension.md",
+          "source_file": "Pulmonary Hypertension.md",
+          "topic": "Pulmonary Hypertension",
+          "topic_keywords": "Pulmonary Hypertension"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Epidemiology\n\nWhile some individuals experience the spectrum of acute mountain sickness, HAPH develops mainly in those who reside at high altitudes for extended periods. Those with preexisting pulmonary hypertension are at an even greater risk of developing acute mountain sickness because of worsening ambient hypoxia-associated hemodynamics exacerbating previously elevated high pulmonary artery pressures. Only a limited amount of epidemiologic data regarding at-risk populations for HAPH is available. Some studies of South American populations report a prevalence of 18 to 55%, and the condition tends to be more common in men. Lower rates of HAPH have been reported in premenopausal women compared to men living at high altitudes. The difference in reported incidence may be secondary to female sex hormones and an associated increase in ventilatory rate and drive.\n\nPathophysiology",
+        "topic": "Pulmonary Hypertension",
+        "relevance_score": 0.4812173843383789,
+        "metadata": {
+          "file_topic": "Pulmonary Hypertension",
+          "id": "Pulmonary Hypertension:Pulmonary Hypertension:2591",
+          "source": "data/topics/Pulmonary Hypertension/Pulmonary Hypertension.md",
+          "source_file": "Pulmonary Hypertension.md",
+          "topic": "Pulmonary Hypertension",
+          "topic_keywords": "Pulmonary Hypertension"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5810285449028015,
+    "processing_time_seconds": 3.2112057209014893
+  },
+  {
+    "id": "statement_0043",
+    "statement": "Postoperative complications of gallbladder empyema surgery include wound infection, bleeding, cystic duct stump leak, common bile duct injury, subhepatic abscess, acute respiratory distress syndrome, and sepsis.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Empyema",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Empyema",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Empyema\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Differential Diagnosis\n\nCholecystitis\n\nGallstones\n\nBiliary colic\n\nPrognosis\n\nIf empyema of the gallbladder is treated promptly, the outcomes are good. However, individuals with advanced age, those who are immunocompromised or have diabetes, usually tend to have worse outcomes compared to healthy people.\n\nThe rates of conversion from laparoscopic to open cholecystectomy are much higher in the presence of empyema. Further, the postoperative complications tend to occur in more than 2 to 20% of patients and include wound infections, bile duct injury, subhepatic abscess, cystic stump leak, renal failure, acute respiratory distress syndrome, and sepsis.\n\nComplications\n\nWound infections\n\nBleeding\n\nBile duct injury\n\nSubphrenic abscess\n\nAcute renal failure\n\nCystic stump leak\n\nSepsis\n\nPostoperative and Rehabilitation Care\n\nFollowing surgery and removal of the gallbladder, IV antibiotics are required until the fever subsides and the WBC (white blood cell count) returns to normal. Most patients are discharged home on antibiotics for 1 week.\n\nPearls and Other Issues",
+        "topic": "Empyema",
+        "relevance_score": 0.8189683556556702,
+        "metadata": {
+          "file_topic": "Empyema",
+          "id": "Empyema:Empyema:113",
+          "source": "data/topics/Empyema/Empyema.md",
+          "source_file": "Empyema.md",
+          "topic": "Empyema",
+          "topic_keywords": "Empyema"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Topic: Empyema - Empyema\n\nsource: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21052/ \n\nGallbladder Empyema\n\nSarang Kashyap; George Mathew; Kevin C. King.\n\nAuthor Information and Affiliations\n\nAuthors\n\nSarang Kashyap1; George Mathew2; Kevin C. King3.\n\nAffiliations\n\n1 Beckley Appalachian Regional Healthcare Hospital\n\n2 University of Pelita Harapan\n\n3 Muhlenberg Community Hospital Greenville\n\nContinuing Education Activity\n\nEmpyema of the gallbladder is the most severe complication of acute cholecystitis. It is usually the result of the progression of acute cholecystitis in a background of bile stasis and cystic duct obstruction. This is a surgical emergency that requires prompt treatment with antibiotics and urgent aspiration/removal of the gallbladder to reduce the risk of septic shock. This activity describes the evaluation, diagnosis, and management of gallbladder empyemas and stresses the role of team-based interprofessional care for affected patients.\n\nObjectives:\n\nReview the risk factors for developing gallbladder empyema.\n\nDescribe the typical imaging findings associated with gallbladder empyema.",
+        "topic": "Empyema",
+        "relevance_score": 0.5841802358627319,
+        "metadata": {
+          "file_topic": "Empyema",
+          "id": "Empyema:Empyema:102",
+          "source": "data/topics/Empyema/Empyema.md",
+          "source_file": "Empyema.md",
+          "topic": "Empyema",
+          "topic_keywords": "Empyema"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "The pharmacist should also manage the medications and ensure that polypharmacy does not occur, which can exacerbate the already compromised patient. Most patients with empyema of the gallbladder require several days of admission in the hospital, and nurses should ensure that DVT (deep vein thrombosis blood clot) and pressure ulcer prophylaxis are started. The only way to improve outcomes is through open communication between the team members. [Level 5]\n\nOutcomes\n\nWhen the condition is diagnosed and treated early, the prognosis is excellent. However, in patients who are immunocompromised, old, or those with diabetes, empyema of the gallbladder can be unpredictable and cause severe sepsis. Further, the rate of conversion of a laparoscopic procedure into an open procedure is also higher in gallbladder empyema. 9\n\nReview Questions\n\nAccess free multiple choice questions on this topic.\n\nClick here for a simplified version.\n\nComment on this article.\n\nImage\n\nFigure\n\nGB empyema Image courtesy O Chaigasame\n\nReferences\n\n1.\n\nSupit C, Supit T, Mazni Y, Basir I. The outcome of laparoscopic subtotal cholecystectomy in difficult cases - A case series. Int J Surg Case Rep. 2017;41:311-314. \n\n2.",
+        "topic": "Empyema",
+        "relevance_score": 0.5832477509975433,
+        "metadata": {
+          "file_topic": "Empyema",
+          "id": "Empyema:Empyema:116",
+          "source": "data/topics/Empyema/Empyema.md",
+          "source_file": "Empyema.md",
+          "topic": "Empyema",
+          "topic_keywords": "Empyema"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Describe the typical imaging findings associated with gallbladder empyema.\n\nOutline the management considerations for patients with gallbladder empyema.\n\nExplain the importance of enhancing care coordination amongst interprofessional team members to improve outcomes for patients affected by gallbladder empyema.\n\nAccess free multiple choice questions on this topic.\n\nIntroduction\n\nEmpyema of the gallbladder is the most severe form of acute cholecystitis. Empyema of the gallbladder is usually the result of a progression of acute cholecystitis in a background of bile stasis and cystic duct obstruction. This is a surgical emergency that requires prompt treatment with antibiotics and urgent aspiration/removal of the gallbladder to reduce the risk of septic shock.\n\nEtiology",
+        "topic": "Empyema",
+        "relevance_score": 0.5729666352272034,
+        "metadata": {
+          "file_topic": "Empyema",
+          "id": "Empyema:Empyema:103",
+          "source": "data/topics/Empyema/Empyema.md",
+          "source_file": "Empyema.md",
+          "topic": "Empyema",
+          "topic_keywords": "Empyema"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Epidemiology\n\nEmpyema of the gallbladder is estimated to occur in 5 to 15% of cases diagnosed to have acute cholecystitis. It is noted to be the more morbid condition when occurring in the older age group. There is a higher preponderance of males who develop this disease. Patients with an increased risk of acute cholecystitis, such as those with associated diabetes, immunosuppressant therapy, or hemoglobinopathies, have a higher chance of developing empyema of the gallbladder. Mortality is rare except in patients with advanced age, compromised immunity, or significant comorbidities. The incidence of postoperative complications regardless of the surgical approach is estimated to be 10 to 20%.\n\nPathophysiology",
+        "topic": "Empyema",
+        "relevance_score": 0.5667161643505096,
+        "metadata": {
+          "file_topic": "Empyema",
+          "id": "Empyema:Empyema:105",
+          "source": "data/topics/Empyema/Empyema.md",
+          "source_file": "Empyema.md",
+          "topic": "Empyema",
+          "topic_keywords": "Empyema"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.6252158284187317,
+    "processing_time_seconds": 3.2042930126190186
+  },
+  {
+    "id": "statement_0054",
+    "statement": "In pediatric patients with suspected necrotizing enterocolitis, persistent hyponatremia, hyperglycemia, and metabolic acidosis are indicators of necrotic bowel and sepsis that can be monitored through serial serum lactate levels.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Acute Abdomen",
+    "predicted_answer": true,
+    "predicted_verdict": "TRUE",
+    "predicted_topic": "Respiratory Failure",
+    "verdict_correct": true,
+    "topic_correct": false,
+    "prediction_type": "CORRECT",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"TRUE\",\n    \"topic\": \"Respiratory Failure\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Ultrasound effectively visualizes intussusception, whereas a contrast enema can diagnose and treat intussusception. An upper gastrointestinal contrast series remains the imaging study of choice for malrotation with volvulus. Children who present with classic signs of appendicitis should undergo evaluation by a pediatric surgeon before undergoing imaging. If the presentation is atypical or the examination findings are unclear, imaging with abdominal ultrasound is preferred.\n\nChildren with suspected necrotizing enterocolitis should undergo abdominal radiographs, which reveal pneumatosis intestinalis. Some centers use ultrasonography, which shows free air, focal fluid collections, increased bowel wall thickness, and echogenicity. Infants with necrotizing enterocolitis also warrant a sepsis evaluation, CBC, serum electrolytes, BUN (blood urea nitrogen), creatinine, and glucose levels. Persistent hyponatremia, hyperglycemia, and metabolic acidosis all indicate necrotic bowel and sepsis. Clinicians can follow serum lactate levels to monitor disease progression and improvement.\n\nTreatment / Management",
+        "topic": "Respiratory Failure",
+        "relevance_score": 0.5697595179080963,
+        "metadata": {
+          "file_topic": "Acute Respiratory Failure",
+          "id": "Respiratory Failure:Acute Respiratory Failure:2418",
+          "source": "data/topics/Respiratory Failure/Acute Respiratory Failure.md",
+          "source_file": "Acute Respiratory Failure.md",
+          "topic": "Respiratory Failure",
+          "topic_keywords": "Acute Respiratory Failure"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Ultrasound effectively visualizes intussusception, whereas a contrast enema can diagnose and treat intussusception. An upper gastrointestinal contrast series remains the imaging study of choice for malrotation with volvulus. Children who present with classic signs of appendicitis should undergo evaluation by a pediatric surgeon before undergoing imaging. If the presentation is atypical or the examination findings are unclear, imaging with abdominal ultrasound is preferred.\n\nChildren with suspected necrotizing enterocolitis should undergo abdominal radiographs, which reveal pneumatosis intestinalis. Some centers use ultrasonography, which shows free air, focal fluid collections, increased bowel wall thickness, and echogenicity. Infants with necrotizing enterocolitis also warrant a sepsis evaluation, CBC, serum electrolytes, BUN (blood urea nitrogen), creatinine, and glucose levels. Persistent hyponatremia, hyperglycemia, and metabolic acidosis all indicate necrotic bowel and sepsis. Clinicians can follow serum lactate levels to monitor disease progression and improvement.\n\nTreatment / Management",
+        "topic": "Acute Abdomen",
+        "relevance_score": 0.5697595179080963,
+        "metadata": {
+          "file_topic": "Acute Abdomen",
+          "id": "Acute Abdomen:Acute Abdomen:3854",
+          "source": "data/topics/Acute Abdomen/Acute Abdomen.md",
+          "source_file": "Acute Abdomen.md",
+          "topic": "Acute Abdomen",
+          "topic_keywords": "Acute Abdomen"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "History and Physical\n\nSigns and symptoms of neonatal sepsis can range from nonspecific or vague symptoms to hemodynamic collapse. Early symptoms may include irritability, lethargy, or poor feeding. Others may quickly develop respiratory distress, fever, hypothermia, or hypotension with poor perfusion and shock. Sometimes, the diagnosis may only be suspected based on laboratory findings, which may reveal hyperglycemia or hypoglycemia, acidosis, or hyperbilirubinemia. A high index of suspicion is, therefore, necessary for timely diagnosis. Therefore, physicians must be aware of any factors that may increase an infant\u2019s risk of developing sepsis. Prematurity and very low birth weights are also important risk factors to consider. Maternal factors that put neonates at risk of EOS include GBS status, the presence of chorioamnionitis, infant prematurity, or prolonged rupture of membranes . Consider whether the patient has indwelling foreign bodies such as a central venous catheter or endotracheal tube for late-onset infection, depends on parenteral nutrition, or receives proton-pump inhibitor or histamine-2 blocking therapy.\n\nEvaluation",
+        "topic": "Sepsis_Septic Shock",
+        "relevance_score": 0.4872673749923706,
+        "metadata": {
+          "file_topic": "Neonatal Sepsis",
+          "id": "Sepsis_Septic Shock:Neonatal Sepsis:500",
+          "source": "data/topics/Sepsis_Septic Shock/Neonatal Sepsis.md",
+          "source_file": "Neonatal Sepsis.md",
+          "topic": "Sepsis_Septic Shock",
+          "topic_keywords": "Neonatal Sepsis"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Pediatric pharmacists can provide meaningful input and recommendations about monitoring trough levels to avoid toxic antibiotic levels\n\nDeterrence and Patient Education\n\nEducating the neonate's family about the disease process and keeping them updated throughout the treatment process is an integral part of management. Neonatal sepsis is often an unexpected and scary situation for parents and caregivers. Doctors should be mindful of this and ensure that parents are informed of the tests that must be performed, the importance of each test, and the results. Any antibiotic or treatment plan changes must be communicated to the parents.Upon hospital discharge, caregivers of all infants, including healthy newborns, should be educated to watch for signs of illness or sepsis. These may include fever, jaundice, increased lethargy, decreased feeding habits, difficulty or increased breathing, and cyanosis of the fingertips and toes. Caregivers should be informed to call their doctors if their neonate experiences any of these symptoms, as they could indicate LOS.\n\nEnhancing Healthcare Team Outcomes",
+        "topic": "Sepsis_Septic Shock",
+        "relevance_score": 0.47347843647003174,
+        "metadata": {
+          "file_topic": "Neonatal Sepsis",
+          "id": "Sepsis_Septic Shock:Neonatal Sepsis:509",
+          "source": "data/topics/Sepsis_Septic Shock/Neonatal Sepsis.md",
+          "source_file": "Neonatal Sepsis.md",
+          "topic": "Sepsis_Septic Shock",
+          "topic_keywords": "Neonatal Sepsis"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Patients should be placed on continuous cardiopulmonary monitoring to allow close observation of vital signs. A thorough assessment of end-organ function and peripheral perfusion should be undertaken to determine where they may fall along the pathophysiologic continuum of sepsis. This should include a Glasgow Coma Scale (GCS) or mental status assessment, urine output measurement, or lactate/mixed venous saturation determination (with central lines). Regardless of where along the continuum patients are, all patients should have drawn a complete blood count with differential (CBC-d), source cultures (blood, urine, tracheal (if intubated), wound), and a urinalysis. Depending on the severity of presentation and age of the patient, a lumbar puncture may be indicated, for example, in patients with signs of encephalitis or meningitis or febrile pediatric patients under six weeks of age. The addition of C-reactive protein or procalcitonin, both acute-phase proteins, may be helpful in distinguishing viral from bacterial sepsis, with the latter showing steeper elevations in these proteins",
+        "topic": "Sepsis_Septic Shock",
+        "relevance_score": 0.47004997730255127,
+        "metadata": {
+          "file_topic": "Septic Shock",
+          "id": "Sepsis_Septic Shock:Septic Shock:398",
+          "source": "data/topics/Sepsis_Septic Shock/Septic Shock.md",
+          "source_file": "Septic Shock.md",
+          "topic": "Sepsis_Septic Shock",
+          "topic_keywords": "Septic Shock"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5140629649162293,
+    "processing_time_seconds": 3.271970748901367
+  },
+  {
+    "id": "statement_0069",
+    "statement": "Abdominal aortic aneurysms are defined as permanent localized dilatations that enlarge by at least 150% compared to the normal diameter of adjacent artery, with the infrarenal aorta having fewer collagen lamellar units than the thoracic aorta, contributing to increased aneurysmal formation in this location.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Ruptured AAA",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Ruptured AAA",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Ruptured AAA\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Collaborate and communicate with all members of the interprofessional team to improve outcomes and treatment efficacy for patients diagnosed with an abdominal aortic aneurysm.\n\nAccess free multiple choice questions on this topic.\n\nIntroduction\n\nAn arterial aneurysm is defined as a permanent localized dilatation of the vessel, enlarging by at least 150% compared to the relatively normal diameter of the adjacent artery. An abdominal aortic aneurysm (AAA) is an abnormal focal dilation of the abdominal aorta. This life-threatening condition requires monitoring or treatment depending on the size of the aneurysm and associated symptoms. The AAA may be detected incidentally or at the time of rupture.\n\nEtiology",
+        "topic": "Ruptured AAA",
+        "relevance_score": 0.7375917732715607,
+        "metadata": {
+          "file_topic": "Abdominal Aortic Aneurysm Rupture",
+          "id": "Ruptured AAA:Abdominal Aortic Aneurysm Rupture:2227",
+          "source": "data/topics/Ruptured AAA/Abdominal Aortic Aneurysm Rupture.md",
+          "source_file": "Abdominal Aortic Aneurysm Rupture.md",
+          "topic": "Ruptured AAA",
+          "topic_keywords": "Abdominal Aortic Aneurysm Rupture"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Most of these aneurysms are located below the origin of the renal arteries and may be classified as saccular (localized) or fusiform (circumferential). More than 90% of abdominal aortic aneurysms are fusiform. Intense inflammation, a thickened peel, and adhesions to adjacent structures characterize an inflammatory abdominal aortic aneurysm. Angiography is now rarely performed for diagnostic purposes due to the superior image quality achieved with CT scans. See Images. Ruptured Infrarenal Abdominal Aortic Aneurysm and Infrarenal Abdominal Aneurysm, Computed Angiogram.",
+        "topic": "Ruptured AAA",
+        "relevance_score": 0.6235857009887695,
+        "metadata": {
+          "file_topic": "Abdominal Aortic Aneurysm Rupture",
+          "id": "Ruptured AAA:Abdominal Aortic Aneurysm Rupture:2234",
+          "source": "data/topics/Ruptured AAA/Abdominal Aortic Aneurysm Rupture.md",
+          "source_file": "Abdominal Aortic Aneurysm Rupture.md",
+          "topic": "Ruptured AAA",
+          "topic_keywords": "Abdominal Aortic Aneurysm Rupture"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Topic: Ruptured AAA - Abdominal Aortic Aneurysm Rupture\n\nsource: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17011/ \n\nAbdominal Aortic Aneurysm\n\nPalma M. Shaw; John Loree; Alisha Oropallo.\n\nAuthor Information and Affiliations\n\nAuthors\n\nPalma M. Shaw1; John Loree; Alisha Oropallo2.\n\nAffiliations\n\n1 Upstate Medical Center\n\n2 Zucker Hofstra Medical School\n\nContinuing Education Activity\n\nAn abdominal aortic aneurysm (AAA) is a life-threatening condition. Arterial aneurysms are defined as a permanent localized dilatation of the vessel, enlarging by at least 150% compared to a relatively normal diameter of the adjacent artery. The abdominal aortic aneurysm is characterized by abnormal focal dilation of the abdominal aorta that may be detected incidentally or at the time of rupture. Vigilant monitoring or treatment is required depending on the size of the aneurysm and symptomatic presentation. Risk factors for abdominal aortic aneurysm are diverse and include atherosclerosis (most common), smoking, advanced age, male sex, being part of the White population, family history of abdominal aortic aneurysm, hypertension, hypercholesterolemia, and prior history of aortic dissection.",
+        "topic": "Ruptured AAA",
+        "relevance_score": 0.618881493806839,
+        "metadata": {
+          "file_topic": "Abdominal Aortic Aneurysm Rupture",
+          "id": "Ruptured AAA:Abdominal Aortic Aneurysm Rupture:2225",
+          "source": "data/topics/Ruptured AAA/Abdominal Aortic Aneurysm Rupture.md",
+          "source_file": "Abdominal Aortic Aneurysm Rupture.md",
+          "topic": "Ruptured AAA",
+          "topic_keywords": "Abdominal Aortic Aneurysm Rupture"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Enhancing Healthcare Team Outcomes\n\nInfrarenal abdominal aortic aneurysms are the most common aneurysms of the aorta. Screening ultrasound has helped in the detection of abdominal aortic aneurysms and allows for surveillance in asymptomatic individuals with a diameter of less than 5 cm. In women, the repair should be considered at 5 cm, and in men, at 5.5 cm. If rapid enlargement is demonstrated (>5 mm over 6 months), repair should be considered. Educating healthcare professionals, including first responders, nurse practitioners, triage nurses, primary care clinicians, physician assistants, and emergency department clinicians, can facilitate diagnosis and reduce delays in treatment.",
+        "topic": "Ruptured AAA",
+        "relevance_score": 0.5906352400779724,
+        "metadata": {
+          "file_topic": "Abdominal Aortic Aneurysm Rupture",
+          "id": "Ruptured AAA:Abdominal Aortic Aneurysm Rupture:2255",
+          "source": "data/topics/Ruptured AAA/Abdominal Aortic Aneurysm Rupture.md",
+          "source_file": "Abdominal Aortic Aneurysm Rupture.md",
+          "topic": "Ruptured AAA",
+          "topic_keywords": "Abdominal Aortic Aneurysm Rupture"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "History and Physical\n\nMost abdominal aortic aneurysms are incidentally identified during examinations for other unrelated pathologies, and most individuals are asymptomatic. Palpation of the abdomen usually reveals a nontender, pulsatile abdominal mass. Enlarging aneurysms can cause symptoms such as abdominal, flank, or back pain; the compression of adjacent viscera can cause gastrointestinal or renal manifestations.\n\nAAAs are life-threatening. However, the presentation of patients with this type of ruptured aneurysm can vary from subtle to dramatic. Most patients may present in shock, often exhibiting diffuse abdominal pain and distension. Patients with a ruptured abdominal aortic aneurysm often succumb even before reaching the hospital. The patient may have tenderness over the aneurysm or demonstrate signs of embolization.",
+        "topic": "Ruptured AAA",
+        "relevance_score": 0.5819398760795593,
+        "metadata": {
+          "file_topic": "Abdominal Aortic Aneurysm Rupture",
+          "id": "Ruptured AAA:Abdominal Aortic Aneurysm Rupture:2231",
+          "source": "data/topics/Ruptured AAA/Abdominal Aortic Aneurysm Rupture.md",
+          "source_file": "Abdominal Aortic Aneurysm Rupture.md",
+          "topic": "Ruptured AAA",
+          "topic_keywords": "Abdominal Aortic Aneurysm Rupture"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.6305268168449402,
+    "processing_time_seconds": 2.960437059402466
+  },
+  {
+    "id": "statement_0074",
+    "statement": "In hypertensive emergency, the goal is to lower mean arterial pressure by 20% to 25% within the first 1 to 2 hours, except in cases of aortic dissection where blood pressure should be lowered to below 140 mmHg in the first hour.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Hypertensive Emergency",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Hypertensive Emergency",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Hypertensive Emergency\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Current Guidelines\n\nPatients with a hypertensive emergency need admission with continuous blood pressure monitoring.\n\nAssess for target organ injury and start parenteral medications as needed\n\nIf the patient has an acute emergency like aortic dissection, lower the blood pressure to below 140 mmHg in the first hour\n\nfor adults with no organ damage, lower the blood pressure by 25% in the first hour and then to 160/100 over the next 2-6 hours, and then gradually to normal over 2 days.\n\nDifferential Diagnosis\n\nAcute kidney injury\n\nAortic coarctation\n\nAortic dissection\n\nChronic kidney disease\n\nEclampsia\n\nHypocalcemia\n\nHyperthyroidism\n\nPheochromocytoma\n\nRenal artery stenosis\n\nSubarachnoid hemorrhage\n\nPrognosis\n\nIn the past, hypertensive emergencies were frequently associated with kidney impairment, myocardial infarction, stroke, or death. With more awareness and better control of blood pressure, mortality has decreased significantly in the past 3 decades. However, after the acute treatment righter control of blood pressure is vital if one wants to lower morbidity and mortality.",
+        "topic": "Hypertensive Emergency",
+        "relevance_score": 0.7709822207689285,
+        "metadata": {
+          "file_topic": "Hypertensive Emergency",
+          "id": "Hypertensive Emergency:Hypertensive Emergency:1264",
+          "source": "data/topics/Hypertensive Emergency/Hypertensive Emergency.md",
+          "source_file": "Hypertensive Emergency.md",
+          "topic": "Hypertensive Emergency",
+          "topic_keywords": "Hypertensive Emergency"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "If beta blockers are contraindicated (eg, in patients with severe asthma or bronchospastic disease), nondihydropyridine calcium channel blockers like diltiazem can be used as alternatives.\n\nBlood pressure target\n\nSystolic blood pressure should be lowered between 100 and 120 mm Hg, provided end-organ perfusion is not compromised. If additional blood pressure control is needed, nitroprusside can be added to the beta-blocker regimen. Other vasodilators, like nicardipine, may also be used.\n\nManagement of hypotension\n\nIn hypotensive patients, intravenous fluid resuscitation is the first approach. However, excessive fluid can exacerbate aortic wall stress, so caution is warranted. If hypotension persists, vasopressors (eg, norepinephrine) can be administered to maintain perfusion, but these agents should be used carefully as they can increase the force of ventricular contraction and potentially worsen the dissection.\n\nDefinitive Treatment Based on AAD Classification\n\nThe type and location of the dissection\u2014classified by the Stanford or DeBakey systems\u2014determine the need for surgical or medical intervention.\n\nStanford type A dissections (involving the ascending aorta)",
+        "topic": "Aortic Dissection",
+        "relevance_score": 0.5449531376361847,
+        "metadata": {
+          "file_topic": "Aortic Dissection",
+          "id": "Aortic Dissection:Aortic Dissection:5212",
+          "source": "data/topics/Aortic Dissection/Aortic Dissection.md",
+          "source_file": "Aortic Dissection.md",
+          "topic": "Aortic Dissection",
+          "topic_keywords": "Aortic Dissection"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Access free multiple choice questions on this topic.\n\nIntroduction\n\nA hypertensive emergency is an acute, marked elevation in blood pressure that is associated with signs of target-organ damage. These can include pulmonary edema, cardiac ischemia, neurologic deficits, acute renal failure, aortic dissection, and eclampsia.\n\nIf the patient has acute worsening of organ function, then the blood pressure needs to be decreased aggressively. In all other cases, the blood pressure should be lowered gradually to prevent dysfunction of the brain from low perfusion.\n\nEtiology\n\nVarious inciting events can cause hypertensive emergencies. The majority of hypertensive emergencies occur in patients already diagnosed with chronic hypertension. Noncompliance with antihypertensive medications and the use of sympathomimetics are two of the more common causes. These leading to a rapid rise in blood pressure beyond the body's innate autoregulation capacity.",
+        "topic": "Hypertensive Emergency",
+        "relevance_score": 0.5431605279445648,
+        "metadata": {
+          "file_topic": "Hypertensive Emergency",
+          "id": "Hypertensive Emergency:Hypertensive Emergency:1258",
+          "source": "data/topics/Hypertensive Emergency/Hypertensive Emergency.md",
+          "source_file": "Hypertensive Emergency.md",
+          "topic": "Hypertensive Emergency",
+          "topic_keywords": "Hypertensive Emergency"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Initial Stabilization and Medical Management\n\nOnce the diagnosis of acute aortic dissection is confirmed or highly suspected, a multidisciplinary team should be activated promptly. Initial management includes:\n\nMonitoring and access\n\nContinuous monitoring with an arterial line for real-time blood pressure measurements\n\nPlacement of a central venous catheter for hemodynamic monitoring and administration of medications\n\nFoley catheter insertion to monitor urine output, as oliguria or anuria may indicate renal hypoperfusion\n\nMedical therapy\n\nAnalgesia\n\nPain control is crucial. Morphine is the preferred analgesic as it controls pain and decreases sympathetic tone, which helps reduce blood pressure and heart rate.\n\nHeart rate and blood pressure control\n\nShort-acting intravenous beta blockers (eg, esmolol or labetalol) are the first-line agents. The goal is to maintain a heart rate of approximately 60 beats per minute to reduce the force of left ventricular ejection against the aortic wall.\n\nBeta blockers should be used with caution in the setting of acute aortic regurgitation, where compensatory tachycardia may be beneficial for maintaining cardiac output.",
+        "topic": "Aortic Dissection",
+        "relevance_score": 0.5267309844493866,
+        "metadata": {
+          "file_topic": "Aortic Dissection",
+          "id": "Aortic Dissection:Aortic Dissection:5211",
+          "source": "data/topics/Aortic Dissection/Aortic Dissection.md",
+          "source_file": "Aortic Dissection.md",
+          "topic": "Aortic Dissection",
+          "topic_keywords": "Aortic Dissection"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Treatment / Management\n\nWhile the specific target organ that is affected may dictate some specifics of treatment, rapid lowering of blood pressure is the mainstay of therapy for hypertensive emergencies. The goal would be to lower the mean arterial pressure by 20% to 25% within the first 1 to 2 hours. Several agents can be used, but the unifying characteristics are that they are rapidly acting and easily titratable. For this reason, oral medications, such as clonidine and nifedipine, play no role in the immediate management of a hypertensive emergency. Intravenous vasoactive drips such as labetalol, esmolol, nicardipine, and nitroglycerin are typically effective options.\n\nThe key feature about management is that if there is no evidence of organ damage, then the blood pressure reduction should be gradual over a few days. On the other hand, severe hypertension in pregnancy demands immediate treatment. Female patients who become pregnant should be prescribed nifedipine, methyldopa, or labetalol during pregnancy; these women should not be treated with ACE inhibitors or ARBs. During the acute event, IV hydralazine or oral nifedipine can be used to lower blood pressure.",
+        "topic": "Hypertensive Emergency",
+        "relevance_score": 0.5211167633533478,
+        "metadata": {
+          "file_topic": "Hypertensive Emergency",
+          "id": "Hypertensive Emergency:Hypertensive Emergency:1263",
+          "source": "data/topics/Hypertensive Emergency/Hypertensive Emergency.md",
+          "source_file": "Hypertensive Emergency.md",
+          "topic": "Hypertensive Emergency",
+          "topic_keywords": "Hypertensive Emergency"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5813887268304825,
+    "processing_time_seconds": 3.474968671798706
+  },
+  {
+    "id": "statement_0077",
+    "statement": "LDH-1 isozyme contains four heart subunits (4H) and demonstrates higher affinity towards lactate, preferentially converting lactate to pyruvate and NAD+ to NADH, while LDHA subunit has a net charge of -6 and exhibits higher affinity towards pyruvate.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Lactate",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Lactate",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Lactate\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "The two different subunits of LDH (the M subunit and H subunit of LDH) both maintain the same active site structure and amino acids that participate in the reaction. In the tertiary structure, the alanine of the M-chain is replaced with glutamine in the H-chain. Alanine is a nonpolar and small molecular weight amino acid, while glutamine is a positively charged amino acid. This chemistry provides different biochemical properties to the two subunits. Hence, the H subunit can bind faster but has fivefold reduced catalytic activity as compared to the M-subunit. LDHA subunit carries a net charge of -6 and exhibits a higher affinity towards pyruvate, thus converting pyruvate to lactate and NADH to NAD+. On the other hand, LDHB has a net charge of +1 and demonstrates a higher affinity towards lactate, resulting in a preferential conversion of lactate to pyruvate and NAD+ to NADH.",
+        "topic": "Lactate",
+        "relevance_score": 0.6850178241729736,
+        "metadata": {
+          "file_topic": "Biochemistry, Lactate Dehydrogenase",
+          "id": "Lactate:Biochemistry, Lactate Dehydrogenase:5473",
+          "source": "data/topics/Lactate/Biochemistry, Lactate Dehydrogenase.md",
+          "source_file": "Biochemistry, Lactate Dehydrogenase.md",
+          "topic": "Lactate",
+          "topic_keywords": "Biochemistry, Lactate Dehydrogenase"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "LDH is a cytoplasmic enzyme that is present in almost all tissues but at high concentrations in muscle, liver, and kidney. Red blood cells also contain moderate concentrations of this enzyme. LDH exhibits five isomeric forms assembled in tetramers of either of the two types of subunits, namely muscle (M) and heart (H). The isoforms called isozymes are named LDH-1 through LDH-5, each having differential expression in different tissues. This differential expression of LDH is the basis of its importance as a clinical diagnostic marker. Isozyme LDH-1 has four heart subunits (4H) and is the major isozyme present in the heart tissue. Isozyme LDH-2 has three heart and one muscle subunit (3H1M) and is the major isozyme of the reticuloendothelial system and RBCs. The LDH-3 isozyme consists of two heart and two muscle subunits (2H2M) and is the major isozyme of the lungs. Isozyme LDH-4 has one heart and three muscle subunits (1H3M) and is the primary isozyme present in the kidneys. The LDH-5 isozyme has four muscle subunits (4M) and has significant expression in liver and skeletal muscle",
+        "topic": "Lactate",
+        "relevance_score": 0.6704800128936768,
+        "metadata": {
+          "file_topic": "Biochemistry, Lactate Dehydrogenase",
+          "id": "Lactate:Biochemistry, Lactate Dehydrogenase:5467",
+          "source": "data/topics/Lactate/Biochemistry, Lactate Dehydrogenase.md",
+          "source_file": "Biochemistry, Lactate Dehydrogenase.md",
+          "topic": "Lactate",
+          "topic_keywords": "Biochemistry, Lactate Dehydrogenase"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Besides testing the concentration of LDH in samples, LDH isozyme testing also helps to assess the type, location, and severity of tissue damage. LDH is a tetrameric enzyme made of H and M subunits. The assembly of the enzymes occurs in a defined ratio through a tissue-specific synthesis of subunits, hence providing tissue specificity, i.e., heart-specific LDH (LDH-1) preferentially synthesizes all four H subunits, while liver LDH (LDH-5) is exclusively made of all M-subunits. Similarly, other tissues synthesize the subunits in a specified ratio. LDH isozyme testing identifies the isozymes as LDH 1 to 5 based on the electrophoretic mobility shift. The different subunit composition imparts a difference in the net charges and hence a different migration in an electric field. A good separation pattern of LDH isozymes is obtained in a buffer of pH of 8.6. In a typical LDH isozyme electrophoretic pattern, LDH-1 moves as a fast band, followed by LDH-2, LDH-3, LDH-4, and LDH-5 being the slowest band. The normal serum percentage of LDH-1 (4H) is 30.4 to 36.4%, LDH-2 (3H1M) is 30.4 to 36.4%, LDH-3 (2H2M) is 19.2 to 24.8%, LDH-4 (1H3M) is 9.6 to 15.6%, and LDH-5 (4M) is 5.5 to 12.7%.",
+        "topic": "Lactate",
+        "relevance_score": 0.6163496375083923,
+        "metadata": {
+          "file_topic": "Biochemistry, Lactate Dehydrogenase",
+          "id": "Lactate:Biochemistry, Lactate Dehydrogenase:5485",
+          "source": "data/topics/Lactate/Biochemistry, Lactate Dehydrogenase.md",
+          "source_file": "Biochemistry, Lactate Dehydrogenase.md",
+          "topic": "Lactate",
+          "topic_keywords": "Biochemistry, Lactate Dehydrogenase"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Molecular Level\n\nThe genes that encode LDH are LDHA , LDHB , LDHC, and LDHD. LDHA, LDHB, and LDHC encode for L-isomers of the enzyme, whereas LDHD encodes the D-isomer. The L-isomers use and produce L-lactate, which is the major enantiomeric form of lactate present in the vertebrates. The gene that encodes the LDHA form of the enzyme is located on chromosome 11p15.4 and is transcribed into a 332 amino acid protein. The LDHB gene is located on chromosome 12p12.1 and encodes a protein of 334 amino acids. The isozyme forms of Lactate dehydrogenase enzymes, LDH-1 through LDH-5 are translational products of two genes LDHA and LDHB gene . The two genes provide instructions for making the lactate dehydrogenase-A and lactate dehydrogenase-B subunits of the lactate dehydrogenase enzyme. There are five different forms of LDH, each made up of four subunits. Various combinations of the protein products of lactate dehydrogenase-A subunits and lactate dehydrogenase-B subunits produced from a different gene) make up the different forms of the enzyme.",
+        "topic": "Lactate",
+        "relevance_score": 0.5666711926460266,
+        "metadata": {
+          "file_topic": "Biochemistry, Lactate Dehydrogenase",
+          "id": "Lactate:Biochemistry, Lactate Dehydrogenase:5470",
+          "source": "data/topics/Lactate/Biochemistry, Lactate Dehydrogenase.md",
+          "source_file": "Biochemistry, Lactate Dehydrogenase.md",
+          "topic": "Lactate",
+          "topic_keywords": "Biochemistry, Lactate Dehydrogenase"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "The subunit composition of the LDH enzyme (H and M subunits) varies among tissues (mentioned previously in the 'cellular' section). This variation is due to the difference in the metabolic rates, energy needs, and function of the tissues, which reflects in their LDHA: LDHB ratio. Almost 40% of lactate in the circulation is released from the skeletal muscle. This lactate is further absorbed mostly by the liver and kidney, where it undergoes oxidation for the synthesis of glucose. In the brain, about 10% of the lactate oxidizes to fuel 8% of cerebral energy needs during resting conditions, and the remaining lactate is released in circulation. However, hyperlactatemia and physical exertion can lead to the uptake of lactate, which supports 60% of brain metabolism, with the contribution of cerebral lactate oxidation only up to 33%.",
+        "topic": "Lactate",
+        "relevance_score": 0.5639394521713257,
+        "metadata": {
+          "file_topic": "Biochemistry, Lactate Dehydrogenase",
+          "id": "Lactate:Biochemistry, Lactate Dehydrogenase:5477",
+          "source": "data/topics/Lactate/Biochemistry, Lactate Dehydrogenase.md",
+          "source_file": "Biochemistry, Lactate Dehydrogenase.md",
+          "topic": "Lactate",
+          "topic_keywords": "Biochemistry, Lactate Dehydrogenase"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.620491623878479,
+    "processing_time_seconds": 3.6710219383239746
+  },
+  {
+    "id": "statement_0092",
+    "statement": "The presence of chills and rigors in a febrile patient serves as a clinical indicator that suggests progression from simple fever to bacteremia, even though these signs are not required for the diagnosis.",
+    "ground_truth_answer": false,
+    "ground_truth_topic": "Blood Cultures",
+    "predicted_answer": true,
+    "predicted_verdict": "TRUE",
+    "predicted_topic": "Blood Cultures",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_POSITIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"TRUE\",\n    \"topic\": \"Blood Cultures\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "History and Physical\n\nThe classical presentation in a bacteremic patient is the presence of a fever. Chills and/or rigors do not need to present; however, the presence of such signs should clue the provider that a febrile patient is now bacteremic. The development of septicemia leading to sepsis and septic shock will commonly cause hypotension, altered mental status, and decreased urine output due to hypovolemia from leaking capillaries. As the infection disseminates, other organs can become affected, causing acute respiratory distress syndrome (ARDS) and acute kidney injury (AKI).\n\nEvaluation",
+        "topic": "Blood Cultures",
+        "relevance_score": 0.43568938970565796,
+        "metadata": {
+          "file_topic": "Bacteremia",
+          "id": "Blood Cultures:Bacteremia:1391",
+          "source": "data/topics/Blood Cultures/Bacteremia.md",
+          "source_file": "Bacteremia.md",
+          "topic": "Blood Cultures",
+          "topic_keywords": "Bacteremia"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Pneumonia should be considered a potential diagnosis when detecting rales or egophony. Mild tachycardia may accompany these findings, indicating fever and dehydration secondary to the viral illness. It is important to note that similar signs of tachycardia can also be observed in bacterial infections. In general, the evaluation of the rest of the body systems typically falls within normal limits.\n\nEvaluation\n\nAcute bronchitis is typically diagnosed clinically, relying on a comprehensive assessment encompassing a medical history, pulmonary examination, and other pertinent physical findings. The evaluation of oxygen saturation, along with the assessment of pulse rate, temperature, and respiratory rate, serves as a pivotal indicator for gauging the severity of the condition. In cases where vital signs fall within normal ranges and no physical examination findings suggest pneumonia, further diagnostic investigations are generally unnecessary. However, an exception to this rule applies to older patients (>75 years) or individuals with neurocognitive impairment. In such instances, a more extensive workup should be considered part of the evaluation process.",
+        "topic": "Bronchitis",
+        "relevance_score": 0.3557701110839844,
+        "metadata": {
+          "file_topic": "Acute Bronchitis",
+          "id": "Bronchitis:Acute Bronchitis:1479",
+          "source": "data/topics/Bronchitis/Acute Bronchitis.md",
+          "source_file": "Acute Bronchitis.md",
+          "topic": "Bronchitis",
+          "topic_keywords": "Acute Bronchitis"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Pneumonia should be considered a potential diagnosis when detecting rales or egophony. Mild tachycardia may accompany these findings, indicating fever and dehydration secondary to the viral illness. It is important to note that similar signs of tachycardia can also be observed in bacterial infections. In general, the evaluation of the rest of the body systems typically falls within normal limits.\n\nEvaluation\n\nAcute bronchitis is typically diagnosed clinically, relying on a comprehensive assessment encompassing a medical history, pulmonary examination, and other pertinent physical findings. The evaluation of oxygen saturation, along with the assessment of pulse rate, temperature, and respiratory rate, serves as a pivotal indicator for gauging the severity of the condition. In cases where vital signs fall within normal ranges and no physical examination findings suggest pneumonia, further diagnostic investigations are generally unnecessary. However, an exception to this rule applies to older patients (>75 years) or individuals with neurocognitive impairment. In such instances, a more extensive workup should be considered part of the evaluation process.",
+        "topic": "Bronchitis",
+        "relevance_score": 0.3557701110839844,
+        "metadata": {
+          "file_topic": "Bronchitis",
+          "id": "Bronchitis:Bronchitis:1518",
+          "source": "data/topics/Bronchitis/Bronchitis.md",
+          "source_file": "Bronchitis.md",
+          "topic": "Bronchitis",
+          "topic_keywords": "Bronchitis"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Simple febrile seizures usually have a single episode of generalized tonic-clonic movements, often involving facial and respiratory muscles, lasting less than 15 minutes with a short period of postictal drowsiness. Conversely, complex febrile seizures are characterized by focal seizures, usually limited to one side of the body, lasting 15 minutes or more, that can recur within 24 hours. Complex febrile seizures are frequently followed by postictal weakness or paralysis on one side of the body (ie, Todd paralysis). Other associated symptoms for both febrile seizure types include loss of consciousness, foaming at the mouth, shortness of breath, and cyanosis. Additionally, clinicians should inquire about possible central nervous system (CNS) infection and underlying structural abnormalities to determine whether an event of concern constitutes a febrile seizure or a more severe illness presenting with a seizure.\n\nClinical Examination",
+        "topic": "Seizures_Status Epilepticus",
+        "relevance_score": 0.34853386878967285,
+        "metadata": {
+          "file_topic": "Febrile Seizure",
+          "id": "Seizures_Status Epilepticus:Febrile Seizure:2645",
+          "source": "data/topics/Seizures_Status Epilepticus/Febrile Seizure.md",
+          "source_file": "Febrile Seizure.md",
+          "topic": "Seizures_Status Epilepticus",
+          "topic_keywords": "Febrile Seizure"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Topic: Blood Cultures - Bacteremia\n\nsource: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18093/ \n\nBacteremia\n\nDavid A. Smith; Sara M. Nehring.\n\nAuthor Information and Affiliations\n\nAuthors\n\nDavid A. Smith1; Sara M. Nehring2.\n\nAffiliations\n\n1 Salus University/PVAMC\n\n2 St Bernards Medical Center\n\nContinuing Education Activity\n\nBacteremia, in the strictest sense, refers to viable bacteria in the blood. Asymptomatic bacteremia can occur in normal daily activities such as conducting oral hygiene and after minor medical procedures. In a healthy person, these clinically benign infections are transient and cause no further sequelae. However, when immune response mechanisms fail or become overwhelmed, bacteremia becomes a bloodstream infection that can evolve into many clinical spectrums and is differentiated as septicemia. This activity describes the causes and presentation of bacteremia and highlights the role of the interprofessional team in its management.\n\nObjectives:\n\nIdentify the etiology of bacteremia.\n\nOutline the workup of a patient with bacteremia.\n\nReview the treatment and management options available for bacteremia.",
+        "topic": "Blood Cultures",
+        "relevance_score": 0.3469507098197937,
+        "metadata": {
+          "file_topic": "Bacteremia",
+          "id": "Blood Cultures:Bacteremia:1386",
+          "source": "data/topics/Blood Cultures/Bacteremia.md",
+          "source_file": "Bacteremia.md",
+          "topic": "Blood Cultures",
+          "topic_keywords": "Bacteremia"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.36854283809661864,
+    "processing_time_seconds": 3.0544896125793457
+  },
+  {
+    "id": "statement_0100",
+    "statement": "Each hemithorax can accommodate up to 40% of a patient's circulating blood volume, and bleeding from intercostal vessels frequently requires invasive management due to the significant hemorrhage potential.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Hemothorax",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Cardiac Catheterization",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Cardiac Catheterization\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": ". Most patients are managed with a reversal of anticoagulation, application of manual compression and volume resuscitation, and observation. Patients with continued deterioration with need coiling of the bleeding source vessel, or balloon angioplasty, or covered stents for bleeding from larger vessels.",
+        "topic": "Cardiac Catheterization",
+        "relevance_score": 0.34967923164367676,
+        "metadata": {
+          "file_topic": "Cardiac Catheterization",
+          "id": "Cardiac Catheterization:Cardiac Catheterization:176",
+          "source": "data/topics/Cardiac Catheterization/Cardiac Catheterization.md",
+          "source_file": "Cardiac Catheterization.md",
+          "topic": "Cardiac Catheterization",
+          "topic_keywords": "Cardiac Catheterization"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Setting\n\nICU\n\nPatients with hemodynamic instability, continuous bleeding, or those with a significant risk of morbidity/mortality should undergo monitoring in an intensive care unit to facilitate more frequent observation of vital signs and more emergent therapeutic intervention.\n\nGeneral Medical Ward\n\nMost other patients can undergo monitoring on a general medical floor. However, they would likely benefit from continuous telemetry monitoring for earlier recognition of hemodynamic compromise.\n\nOutpatient\n\nMost patients with GI bleeding will require hospitalization. However, some young, healthy patients with self-limited and asymptomatic bleeding may be safely discharged and evaluated on an outpatient basis.\n\nTreatments\n\nNothing by mouth\n\nProvide supplemental oxygen if the patient is hypoxic (typically via nasal cannula, but patients with ongoing hematemesis or altered mental status may require intubation). Avoid non-invasive positive pressure ventilation (NIPPV) due to the risk of aspiration with ongoing vomiting.\n\nAdequate IV access - at least two large-bore peripheral IVs (18 gauge or larger) or a centrally placed cordis",
+        "topic": "GI Bleeding",
+        "relevance_score": 0.3177105188369751,
+        "metadata": {
+          "file_topic": "Upper Gastrointestinal Bleeding",
+          "id": "GI Bleeding:Upper Gastrointestinal Bleeding:1588",
+          "source": "data/topics/GI Bleeding/Upper Gastrointestinal Bleeding.md",
+          "source_file": "Upper Gastrointestinal Bleeding.md",
+          "topic": "GI Bleeding",
+          "topic_keywords": "Upper Gastrointestinal Bleeding"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Setting\n\nICU\n\nPatients with hemodynamic instability, continuous bleeding, or those with a significant risk of morbidity/mortality should undergo monitoring in an intensive care unit to facilitate more frequent observation of vital signs and more emergent therapeutic intervention.\n\nGeneral Medical Ward\n\nMost other patients can undergo monitoring on a general medical floor. However, they would likely benefit from continuous telemetry monitoring for earlier recognition of hemodynamic compromise.\n\nOutpatient\n\nMost patients with GI bleeding will require hospitalization. However, some young, healthy patients with self-limited and asymptomatic bleeding may be safely discharged and evaluated on an outpatient basis.\n\nTreatments\n\nNothing by mouth\n\nProvide supplemental oxygen if the patient is hypoxic (typically via nasal cannula, but patients with ongoing hematemesis or altered mental status may require intubation). Avoid non-invasive positive pressure ventilation (NIPPV) due to the risk of aspiration with ongoing vomiting.\n\nAdequate IV access - at least two large-bore peripheral IVs (18 gauge or larger) or a centrally placed cordis",
+        "topic": "GI Bleeding",
+        "relevance_score": 0.3177105188369751,
+        "metadata": {
+          "file_topic": "Lower Gastrointestinal Bleeding",
+          "id": "GI Bleeding:Lower Gastrointestinal Bleeding:1568",
+          "source": "data/topics/GI Bleeding/Lower Gastrointestinal Bleeding.md",
+          "source_file": "Lower Gastrointestinal Bleeding.md",
+          "topic": "GI Bleeding",
+          "topic_keywords": "Lower Gastrointestinal Bleeding"
+        }
+      },
+      {
+        "rank": 4,
+        "content": ". Excessive coagulation may lead to widespread purpura, petechiae, and cyanosis. A patient in DIC may also experience acute respiratory failure or neurological deficits based on the location of bleeding or clots.",
+        "topic": "Coagulation Studies (PT_PTT_INR)",
+        "relevance_score": 0.3031785488128662,
+        "metadata": {
+          "file_topic": "Disseminated Intravascular Coagulation",
+          "id": "Coagulation Studies (PT_PTT_INR):Disseminated Intravascular Coagulation:1835",
+          "source": "data/topics/Coagulation Studies (PT_PTT_INR)/Disseminated Intravascular Coagulation.md",
+          "source_file": "Disseminated Intravascular Coagulation.md",
+          "topic": "Coagulation Studies (PT_PTT_INR)",
+          "topic_keywords": "Disseminated Intravascular Coagulation"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Treatment / Management\n\nThe treatment for DIC centers on addressing the underlying disorder that ultimately led to this condition. Consequently, therapies such as antibiotics for severe sepsis, possible delivery for placental abruption, and consideration for exploratory surgical intervention in trauma-related cases represent the mainstays of treatment for DIC. Platelet and plasma transfusions should only be considered in patients with active bleeding or a high risk of bleeding or those patients requiring an invasive procedure. A common threshold utilized for platelet transfusions in this patient population is less than 50 x 109 platelets/L for actively hemorrhaging patients and 10-20 x 109 platelets/L for those not actively bleeding but at high risk of future bleeding.",
+        "topic": "Coagulation Studies (PT_PTT_INR)",
+        "relevance_score": 0.28215914964675903,
+        "metadata": {
+          "file_topic": "Disseminated Intravascular Coagulation",
+          "id": "Coagulation Studies (PT_PTT_INR):Disseminated Intravascular Coagulation:1837",
+          "source": "data/topics/Coagulation Studies (PT_PTT_INR)/Disseminated Intravascular Coagulation.md",
+          "source_file": "Disseminated Intravascular Coagulation.md",
+          "topic": "Coagulation Studies (PT_PTT_INR)",
+          "topic_keywords": "Disseminated Intravascular Coagulation"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.31408759355545046,
+    "processing_time_seconds": 2.4580702781677246
+  },
+  {
+    "id": "statement_0107",
+    "statement": "The bacterial meningitis score demonstrates a sensitivity of 99-100% and specificity of 52-62% for distinguishing bacterial from aseptic meningitis, making it superior to procalcitonin and CSF lactate levels as a diagnostic tool.",
+    "ground_truth_answer": false,
+    "ground_truth_topic": "Meningitis",
+    "predicted_answer": true,
+    "predicted_verdict": "TRUE",
+    "predicted_topic": "Meningitis",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_POSITIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"TRUE\",\n    \"topic\": \"Meningitis\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Drug-induced aseptic meningitis, in particular, can often present with few laboratory abnormalities. Therefore, clinicians must maintain a high level of suspicion and thoroughly assess the patient's medical history, including all medications they might be taking and their respective dosages.\n\nWhile distinguishing between aseptic and bacterial meningitis can be challenging, specific tools have been developed to aid the diagnostic process. The bacterial meningitis score, with a sensitivity of 99% to 100% and a specificity of 52% to 62%, stands out as the most specific tool currently accessible. Other laboratory findings, such as procalcitonin, serum C-reactive protein (CRP), and CSF lactate levels, can provide valuable insights to differentiate between aseptic and bacterial meningitis.",
+        "topic": "Meningitis",
+        "relevance_score": 0.6998690068721771,
+        "metadata": {
+          "file_topic": "Meningitis",
+          "id": "Meningitis:Meningitis:2097",
+          "source": "data/topics/Meningitis/Meningitis.md",
+          "source_file": "Meningitis.md",
+          "topic": "Meningitis",
+          "topic_keywords": "Meningitis"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Evaluation\n\nPatients presumed to have bacterial meningitis should receive a lumbar puncture to obtain a cerebrospinal fluid (CSF) sample. The CSF should be sent for Gram stain, culture, complete cell count (CBC), and glucose and protein levels. Bacterial meningitis typically results in low glucose and high protein levels in the cerebrospinal fluid. As CSF glucose levels are dependent on circulating serum glucose levels, the CSF to serum glucose ratio is considered more reliable parameter for the diagnosis of acute bacterial meningitis than absolute CSF glucose levels. A neutrophil predominance on cell count would be expected.",
+        "topic": "Meningitis",
+        "relevance_score": 0.5328163504600525,
+        "metadata": {
+          "file_topic": "Bacterial Meningitis",
+          "id": "Meningitis:Bacterial Meningitis:2144",
+          "source": "data/topics/Meningitis/Bacterial Meningitis.md",
+          "source_file": "Bacterial Meningitis.md",
+          "topic": "Meningitis",
+          "topic_keywords": "Bacterial Meningitis"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Typical CSF findings in patients with aseptic meningitis include an opening pressure that is either normal (\\<180 mmH2O) or slightly elevated. Glucose levels are usually normal to mildly decreased, while protein levels are normal to mildly elevated (\\<200 mg/dL). The cell count ranges from 10 to 1000 cells per microliter, with an initial predominance of neutrophils (>50%) that gradually shifts toward lymphocytes (>80%) over time. For patients in the US presenting between June and September, it is advisable to test for West Nile virus IgM in the CSF or serum.\n\nSignificant differences exist between adults and children in the presentation and laboratory findings. These differences often require specialized approaches in diagnosis and treatment tailored to each age group, emphasizing the importance of age-specific considerations in managing patients with aseptic meningitis.",
+        "topic": "Meningitis",
+        "relevance_score": 0.4806528091430664,
+        "metadata": {
+          "file_topic": "Meningitis",
+          "id": "Meningitis:Meningitis:2095",
+          "source": "data/topics/Meningitis/Meningitis.md",
+          "source_file": "Meningitis.md",
+          "topic": "Meningitis",
+          "topic_keywords": "Meningitis"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "9.\n\nCastelblanco RL, Lee M, Hasbun R. Epidemiology of bacterial meningitis in the USA from 1997 to 2010: a population-based observational study. Lancet Infect Dis. 2014 Sep;14(9):813-9. \n\n10.\n\nG\u00fcldemir D, Turan M, Bakkalo\u011flu Z, Nar \u00d6tg\u00fcn S, Durmaz R. [Optimization of real-time multiplex polymerase chain reaction for the diagnosis of acute bacterial meningitis and Neisseria meningitidis serogrouping]. Mikrobiyol Bul. 2018 Jul;52(3):221-232. \n\n11.\n\nHussien MM, Ali-Eldin F, Adel LA (left atrium left atrial). ASSESSMENT OF THE DIAGNOSTIC AND PROGNOSTIC ROLE OF CEREBEROSPINAL FLUID INTERLEUKIN-8 LEVEL IN ADULT PATIENTS WITH MENINGITIS. J Egypt Soc Parasitol. 2016 Aug;46(2):361-366. \n\n12.\n\nEl Shorbagy HH, Barseem NF, Abdelghani WE, Suliman HA, Al-Shokary AH, Elsadek AE, Maksoud YHA, Sabri JH. The value of serum procalcitonin in acute meningitis in children. J Clin Neurosci. 2018 Oct;56:28-33. \n\n13.\n\nReid S, Thompson H, Thakur KT. Nervous System Infections and the Global Traveler. Semin Neurol. 2018 Apr;38(2):247-262. \n\n14.",
+        "topic": "Meningitis",
+        "relevance_score": 0.47607576847076416,
+        "metadata": {
+          "file_topic": "Viral Meningitis",
+          "id": "Meningitis:Viral Meningitis:2131",
+          "source": "data/topics/Meningitis/Viral Meningitis.md",
+          "source_file": "Viral Meningitis.md",
+          "topic": "Meningitis",
+          "topic_keywords": "Viral Meningitis"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "This activity explores the diverse etiologies of aseptic meningitis, the broad spectrum of clinical presentations associated with aseptic meningitis, and the significance of an interprofessional approach to patient care. Clinicians engaged in this activity will enhance their diagnostic skills, broaden their understanding of the condition's complexities, and refine their approach to managing patients with aseptic meningitis. By integrating this knowledge into their clinical practice, clinicians will be better equipped to deliver high-quality care, improving patient outcomes and safety.\n\nObjectives:\n\nDifferentiate between various etiologies of aseptic meningitis while understanding the unique features associated with viral, bacterial, and noninfectious causes and considering factors like immune status and patient history.\n\nImplement effective screening methods, utilizing appropriate diagnostic tests and criteria to identify aseptic meningitis in patients presenting with compatible symptoms promptly.",
+        "topic": "Meningitis",
+        "relevance_score": 0.46780675649642944,
+        "metadata": {
+          "file_topic": "Meningitis",
+          "id": "Meningitis:Meningitis:2085",
+          "source": "data/topics/Meningitis/Meningitis.md",
+          "source_file": "Meningitis.md",
+          "topic": "Meningitis",
+          "topic_keywords": "Meningitis"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5314441382884979,
+    "processing_time_seconds": 3.103424072265625
+  },
+  {
+    "id": "statement_0108",
+    "statement": "Atrial fibrillation classified as long-standing persistent requires continuous duration of at least 2 years despite cardioversion attempts before being designated as permanent atrial fibrillation.",
+    "ground_truth_answer": false,
+    "ground_truth_topic": "Arrhythmias (various)",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Atrial Fibrillation",
+    "verdict_correct": true,
+    "topic_correct": false,
+    "prediction_type": "CORRECT",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Atrial Fibrillation\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Persistent AF is when the AF is continuous and lasts for more than 7 days, and fails to terminate spontaneously.\n\nLong-standing AF is when the continuous AF lasts more than 12 months\n\nPermanent is when AF is accepted, and no further treatments are attempted to restore or maintain normal sinus rhythm\n\nNon-valvular AF occurs in the absence of rheumatic mitral valve disease, mitral valve repair, or a prosthetic heart valve.\n\nCHA2DS2-VASc score\n\nHeart failure - 1\n\nHypertension - 1\n\nAge more than 75 - 2\n\nDiabetes - 1\n\nStroke, transient ischemic attack- 2\n\nPeripheral vascular disease - 1\n\nAge 65-74 - 1\n\nFemale sex - 1\n\nPrognosis\n\nAF is associated with a high risk of thromboembolism and death. Evidence shows that rhythm control does not offer a survival advantage over rate control. Patients with AF have multiple admissions and anticoagulation-related complications over their lifetime. The risk of stroke is ever-present, and the overall quality of life of patients is poor. Finally, the management of atrial fibrillation is prohibitively expensive, with most of the financial burden borne by the patient.\n\nComplications",
+        "topic": "Atrial Fibrillation",
+        "relevance_score": 0.5792511999607086,
+        "metadata": {
+          "file_topic": "Atrial Fibrillation",
+          "id": "Atrial Fibrillation:Atrial Fibrillation:4794",
+          "source": "data/topics/Atrial Fibrillation/Atrial Fibrillation.md",
+          "source_file": "Atrial Fibrillation.md",
+          "topic": "Atrial Fibrillation",
+          "topic_keywords": "Atrial Fibrillation"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Persistent AF is when the AF is continuous and lasts for more than 7 days, and fails to terminate spontaneously.\n\nLong-standing AF is when the continuous AF lasts more than 12 months\n\nPermanent is when AF is accepted, and no further treatments are attempted to restore or maintain normal sinus rhythm\n\nNon-valvular AF occurs in the absence of rheumatic mitral valve disease, mitral valve repair, or a prosthetic heart valve.\n\nCHA2DS2-VASc score\n\nHeart failure - 1\n\nHypertension - 1\n\nAge more than 75 - 2\n\nDiabetes - 1\n\nStroke, transient ischemic attack- 2\n\nPeripheral vascular disease - 1\n\nAge 65-74 - 1\n\nFemale sex - 1\n\nPrognosis\n\nAF is associated with a high risk of thromboembolism and death. Evidence shows that rhythm control does not offer a survival advantage over rate control. Patients with AF have multiple admissions and anticoagulation-related complications over their lifetime. The risk of stroke is ever-present, and the overall quality of life of patients is poor. Finally, the management of atrial fibrillation is prohibitively expensive, with most of the financial burden borne by the patient.\n\nComplications",
+        "topic": "Atrial Fibrillation",
+        "relevance_score": 0.5792511999607086,
+        "metadata": {
+          "file_topic": "Paroxysmal Atrial Fibrillation",
+          "id": "Atrial Fibrillation:Paroxysmal Atrial Fibrillation:4765",
+          "source": "data/topics/Atrial Fibrillation/Paroxysmal Atrial Fibrillation.md",
+          "source_file": "Paroxysmal Atrial Fibrillation.md",
+          "topic": "Atrial Fibrillation",
+          "topic_keywords": "Paroxysmal Atrial Fibrillation"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "New-onset\n\nParoxysmal: Self-terminating or intermittent\n\nPersistent: Fails to self-terminate within 7 days and requires treatments (medical or electrical cardioversion)\n\nLong-standing Persistent: Lasts for \u2265 1 year\n\nPermanent: Persistent for \u2265 1 year despite treatment\n\nMechanism: Multiple reentrant wavelets due to atrial ectopy from muscle fibers near the proximal part of the pulmonary vein.\n\nSigns & Symptoms: It can be asymptomatic or can cause symptoms like palpitation, shortness of breath, irregularly irregular pulse, or even hypotension.\n\nEKG Findings: Irregularly irregular narrow complex tachycardia with no discernable P-waves.\n\nManagement: The management strategy for atrial fibrillation can be classified into rate control or rhythm control. The decision to use a rate control or a rhythm-control strategy depends on the hemodynamic stability, candidacy for ablation, and the presence of co-morbidities. Patients with atrial fibrillation are at increased risk of ischemic-embolic stroke, and anticoagulation recommendations are based on the CHA2DS2VaSc score.",
+        "topic": "Arrhythmias (various)",
+        "relevance_score": 0.5423033833503723,
+        "metadata": {
+          "file_topic": "Arrhythmias",
+          "id": "Arrhythmias (various):Arrhythmias:4031",
+          "source": "data/topics/Arrhythmias (various)/Arrhythmias.md",
+          "source_file": "Arrhythmias.md",
+          "topic": "Arrhythmias (various)",
+          "topic_keywords": "Arrhythmias"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Paroxysmal AF (atrial fibrillation): If recurrent AF reverts spontaneously, it is called paroxysmal AF. Here, the episodes terminate spontaneously within seven days. In younger patients, paroxysmal AF has been commonly found to be secondary to electrically active foci within the pulmonary veins. Elimination of these foci is found to be effective in treating this type of AF since it eliminates the trigger for such episodes.\n\nPersistent AF: If recurrent AF persists, needing either pharmacological or electrical cardioversion, it is called persistent AF. In this case, the episodes last more than seven days, and if it is associated with a rapid and uncontrolled ventricular rate, it may lead to electrical remodeling in the cardiac myocytes causing dilated cardiomyopathy. This type of AF may present as the first episode or as a result of recurrent episodes of paroxysmal AF.\n\nLong-standing persistent AF: AF that has been present for more than 12 months, either due to the failure of initiation of pharmacological intervention or failure of cardioversion.\n\nPermanent AF: It is the type where a decision has been made to abort all therapies because the rhythm is unresponsive.\n\nEpidemiology",
+        "topic": "Atrial Fibrillation",
+        "relevance_score": 0.5145496428012848,
+        "metadata": {
+          "file_topic": "Atrial Fibrillation",
+          "id": "Atrial Fibrillation:Atrial Fibrillation:4780",
+          "source": "data/topics/Atrial Fibrillation/Atrial Fibrillation.md",
+          "source_file": "Atrial Fibrillation.md",
+          "topic": "Atrial Fibrillation",
+          "topic_keywords": "Atrial Fibrillation"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Paroxysmal AF (atrial fibrillation): If recurrent AF reverts spontaneously, it is called paroxysmal AF. Here, the episodes terminate spontaneously within seven days. In younger patients, paroxysmal AF has been commonly found to be secondary to electrically active foci within the pulmonary veins. Elimination of these foci is found to be effective in treating this type of AF since it eliminates the trigger for such episodes.\n\nPersistent AF: If recurrent AF persists, needing either pharmacological or electrical cardioversion, it is called persistent AF. In this case, the episodes last more than seven days, and if it is associated with a rapid and uncontrolled ventricular rate, it may lead to electrical remodeling in the cardiac myocytes causing dilated cardiomyopathy. This type of AF may present as the first episode or as a result of recurrent episodes of paroxysmal AF.\n\nLong-standing persistent AF: AF that has been present for more than 12 months, either due to the failure of initiation of pharmacological intervention or failure of cardioversion.\n\nPermanent AF: It is the type where a decision has been made to abort all therapies because the rhythm is unresponsive.\n\nEpidemiology",
+        "topic": "Atrial Fibrillation",
+        "relevance_score": 0.5145496428012848,
+        "metadata": {
+          "file_topic": "Paroxysmal Atrial Fibrillation",
+          "id": "Atrial Fibrillation:Paroxysmal Atrial Fibrillation:4751",
+          "source": "data/topics/Atrial Fibrillation/Paroxysmal Atrial Fibrillation.md",
+          "source_file": "Paroxysmal Atrial Fibrillation.md",
+          "topic": "Atrial Fibrillation",
+          "topic_keywords": "Paroxysmal Atrial Fibrillation"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5459810137748718,
+    "processing_time_seconds": 3.524721384048462
+  },
+  {
+    "id": "statement_0111",
+    "statement": "High altitude pulmonary hypertension affects approximately 60-70% of individuals living permanently above 2500 meters, with equal prevalence between men and women.",
+    "ground_truth_answer": false,
+    "ground_truth_topic": "Hypertensive Emergency",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Pulmonary Hypertension",
+    "verdict_correct": true,
+    "topic_correct": false,
+    "prediction_type": "CORRECT",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Pulmonary Hypertension\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Epidemiology\n\nWhile some individuals experience the spectrum of acute mountain sickness, HAPH develops mainly in those who reside at high altitudes for extended periods. Those with preexisting pulmonary hypertension are at an even greater risk of developing acute mountain sickness because of worsening ambient hypoxia-associated hemodynamics exacerbating previously elevated high pulmonary artery pressures. Only a limited amount of epidemiologic data regarding at-risk populations for HAPH is available. Some studies of South American populations report a prevalence of 18 to 55%, and the condition tends to be more common in men. Lower rates of HAPH have been reported in premenopausal women compared to men living at high altitudes. The difference in reported incidence may be secondary to female sex hormones and an associated increase in ventilatory rate and drive.\n\nPathophysiology",
+        "topic": "Hypertensive Emergency",
+        "relevance_score": 0.5823085904121399,
+        "metadata": {
+          "file_topic": "Malignant Hypertension",
+          "id": "Hypertensive Emergency:Malignant Hypertension:1243",
+          "source": "data/topics/Hypertensive Emergency/Malignant Hypertension.md",
+          "source_file": "Malignant Hypertension.md",
+          "topic": "Hypertensive Emergency",
+          "topic_keywords": "Malignant Hypertension"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Epidemiology\n\nWhile some individuals experience the spectrum of acute mountain sickness, HAPH develops mainly in those who reside at high altitudes for extended periods. Those with preexisting pulmonary hypertension are at an even greater risk of developing acute mountain sickness because of worsening ambient hypoxia-associated hemodynamics exacerbating previously elevated high pulmonary artery pressures. Only a limited amount of epidemiologic data regarding at-risk populations for HAPH is available. Some studies of South American populations report a prevalence of 18 to 55%, and the condition tends to be more common in men. Lower rates of HAPH have been reported in premenopausal women compared to men living at high altitudes. The difference in reported incidence may be secondary to female sex hormones and an associated increase in ventilatory rate and drive.\n\nPathophysiology",
+        "topic": "Pulmonary Hypertension",
+        "relevance_score": 0.5823085904121399,
+        "metadata": {
+          "file_topic": "Pulmonary Hypertension",
+          "id": "Pulmonary Hypertension:Pulmonary Hypertension:2591",
+          "source": "data/topics/Pulmonary Hypertension/Pulmonary Hypertension.md",
+          "source_file": "Pulmonary Hypertension.md",
+          "topic": "Pulmonary Hypertension",
+          "topic_keywords": "Pulmonary Hypertension"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Access free multiple choice questions on this topic.\n\nIntroduction\n\nMountainous regions are a destination for adventure travel, seasonal work, and permanent residence for many people. More than 40 million people visit high altitude areas (greater than 2500 meters) every year, and a reported 140 million have a permanent residence at these elevations. The decreased barometric and partial pressures of oxygen at high altitudes can reduce inspired oxygen levels compared to sea levels. The body's exaggerated physiological response to rapid ascent, a lower level of inspired oxygen, or the persistent hypoxic stimulus experienced at high altitude can cause significant morbidity and mortality. High altitude-associated disease processes can vary from mild to life-threatening. The body's response can present in acute mountain sickness, high-altitude cerebral edema, high-altitude pulmonary edema, and, ultimately, high-altitude pulmonary hypertension (HAPH). Acute mountain sickness develops secondary to rapid ascent and can be described as a \"hangover, \" including nonspecific symptoms such as headache, nausea, dizziness, fatigue, and insomnia.",
+        "topic": "Hypertensive Emergency",
+        "relevance_score": 0.5248439908027649,
+        "metadata": {
+          "file_topic": "Malignant Hypertension",
+          "id": "Hypertensive Emergency:Malignant Hypertension:1240",
+          "source": "data/topics/Hypertensive Emergency/Malignant Hypertension.md",
+          "source_file": "Malignant Hypertension.md",
+          "topic": "Hypertensive Emergency",
+          "topic_keywords": "Malignant Hypertension"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Access free multiple choice questions on this topic.\n\nIntroduction\n\nMountainous regions are a destination for adventure travel, seasonal work, and permanent residence for many people. More than 40 million people visit high altitude areas (greater than 2500 meters) every year, and a reported 140 million have a permanent residence at these elevations. The decreased barometric and partial pressures of oxygen at high altitudes can reduce inspired oxygen levels compared to sea levels. The body's exaggerated physiological response to rapid ascent, a lower level of inspired oxygen, or the persistent hypoxic stimulus experienced at high altitude can cause significant morbidity and mortality. High altitude-associated disease processes can vary from mild to life-threatening. The body's response can present in acute mountain sickness, high-altitude cerebral edema, high-altitude pulmonary edema, and, ultimately, high-altitude pulmonary hypertension (HAPH). Acute mountain sickness develops secondary to rapid ascent and can be described as a \"hangover, \" including nonspecific symptoms such as headache, nausea, dizziness, fatigue, and insomnia.",
+        "topic": "Pulmonary Hypertension",
+        "relevance_score": 0.5248439908027649,
+        "metadata": {
+          "file_topic": "Pulmonary Hypertension",
+          "id": "Pulmonary Hypertension:Pulmonary Hypertension:2588",
+          "source": "data/topics/Pulmonary Hypertension/Pulmonary Hypertension.md",
+          "source_file": "Pulmonary Hypertension.md",
+          "topic": "Pulmonary Hypertension",
+          "topic_keywords": "Pulmonary Hypertension"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "High altitude pulmonary edema is a progression of acute mountain sickness and presents with acute pulmonary, a complication of the body's poor acclimatization. High altitude cerebral edema, the most feared complication of altitude sickness, involves cerebral edema and associated neurological symptoms and sequela. Chronic hypoxic stimuli of high altitude living can result in permanent pulmonary vascular remodeling due to increased pulmonary vascular resistance and define a subgroup of pulmonary hypertension known as HAPH. This topic focuses primarily on the pathophysiology, clinical presentation, and management of HAPH.\n\nEtiology",
+        "topic": "Pulmonary Hypertension",
+        "relevance_score": 0.49591225385665894,
+        "metadata": {
+          "file_topic": "Pulmonary Hypertension",
+          "id": "Pulmonary Hypertension:Pulmonary Hypertension:2589",
+          "source": "data/topics/Pulmonary Hypertension/Pulmonary Hypertension.md",
+          "source_file": "Pulmonary Hypertension.md",
+          "topic": "Pulmonary Hypertension",
+          "topic_keywords": "Pulmonary Hypertension"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5420434832572937,
+    "processing_time_seconds": 2.8514041900634766
+  },
+  {
+    "id": "statement_0113",
+    "statement": "High altitude pulmonary hypertension (HAPH) is diagnosed when mean pulmonary artery pressure exceeds 30 mmHg or systolic PAP exceeds 50 mmHg in individuals residing above 2500 meters elevation.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Hypertensive Emergency",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Pulmonary Hypertension",
+    "verdict_correct": false,
+    "topic_correct": false,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Pulmonary Hypertension\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "2 Aventura Hospital and Medical Center\n\nContinuing Education Activity\n\nThis activity describes the development of pulmonary hypertension due to high altitude. We describe a phenomenon known as high altitude pulmonary hypertension (HAPH), which is classically defined as a mean pulmonary arterial pressure greater than or equal to 25 mmHg on a right heart catheterization and results in pulmonary vascular remodeling. This condition can present in individuals who typically reside at altitudes greater than 2500 meters. The hypoxic stimulus of high altitude and individual genetic factors play a role in the pathophysiology of pulmonary vasoconstriction and, eventually, vascular remodeling that occurs with HAPH. This activity reviews the etiology, pathophysiology, clinical evaluation, and treatment of HAPH and highlights the interprofessional team's role in providing well-coordinated care to enhance patient outcomes.\n\nObjectives:\n\nAssess the etiology of high altitude pulmonary hypertension.\n\nEvaluate the clinical evaluation of high-altitude pulmonary hypertension.\n\nIdentify the management options available for high-altitude pulmonary hypertension.",
+        "topic": "Hypertensive Emergency",
+        "relevance_score": 0.7434323132038116,
+        "metadata": {
+          "file_topic": "Malignant Hypertension",
+          "id": "Hypertensive Emergency:Malignant Hypertension:1238",
+          "source": "data/topics/Hypertensive Emergency/Malignant Hypertension.md",
+          "source_file": "Malignant Hypertension.md",
+          "topic": "Hypertensive Emergency",
+          "topic_keywords": "Malignant Hypertension"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "2 Aventura Hospital and Medical Center\n\nContinuing Education Activity\n\nThis activity describes the development of pulmonary hypertension due to high altitude. We describe a phenomenon known as high altitude pulmonary hypertension (HAPH), which is classically defined as a mean pulmonary arterial pressure greater than or equal to 25 mmHg on a right heart catheterization and results in pulmonary vascular remodeling. This condition can present in individuals who typically reside at altitudes greater than 2500 meters. The hypoxic stimulus of high altitude and individual genetic factors play a role in the pathophysiology of pulmonary vasoconstriction and, eventually, vascular remodeling that occurs with HAPH. This activity reviews the etiology, pathophysiology, clinical evaluation, and treatment of HAPH and highlights the interprofessional team's role in providing well-coordinated care to enhance patient outcomes.\n\nObjectives:\n\nAssess the etiology of high altitude pulmonary hypertension.\n\nEvaluate the clinical evaluation of high-altitude pulmonary hypertension.\n\nIdentify the management options available for high-altitude pulmonary hypertension.",
+        "topic": "Pulmonary Hypertension",
+        "relevance_score": 0.7434323132038116,
+        "metadata": {
+          "file_topic": "Pulmonary Hypertension",
+          "id": "Pulmonary Hypertension:Pulmonary Hypertension:2586",
+          "source": "data/topics/Pulmonary Hypertension/Pulmonary Hypertension.md",
+          "source_file": "Pulmonary Hypertension.md",
+          "topic": "Pulmonary Hypertension",
+          "topic_keywords": "Pulmonary Hypertension"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Enhancing Healthcare Team Outcomes\n\nHAPH is a life-threatening condition. Optimal patient outcomes are achieved through early recognition and treatment. During the initial acute presentation of symptoms, healthcare team members need to recognize the signs of pulmonary hypertension, treat them symptomatically, and investigate with the proper modalities to diagnose HAPH. Primary care providers who serve communities at high altitudes also serve an important role in providing information on the condition and patient education. It is vital to have a high index of suspicion for altitude-related illness and HAPH since early detection and treatment can significantly improve the prognosis. Patients suffering from HAPH should be strongly urged to descend to lower elevations to lower their pulmonary artery pressures.\n\nReview Questions\n\nAccess free multiple choice questions on this topic.\n\nClick here for a simplified version.\n\nComment on this article.\n\nReferences\n\n1.\n\nMirrakhimov AE, Strohl KP. High-altitude Pulmonary Hypertension: an Update on Disease Pathogenesis and Management. Open Cardiovasc Med J. 2016;10:19-27. \n\n2.",
+        "topic": "Hypertensive Emergency",
+        "relevance_score": 0.6673812866210938,
+        "metadata": {
+          "file_topic": "Malignant Hypertension",
+          "id": "Hypertensive Emergency:Malignant Hypertension:1253",
+          "source": "data/topics/Hypertensive Emergency/Malignant Hypertension.md",
+          "source_file": "Malignant Hypertension.md",
+          "topic": "Hypertensive Emergency",
+          "topic_keywords": "Malignant Hypertension"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Enhancing Healthcare Team Outcomes\n\nHAPH is a life-threatening condition. Optimal patient outcomes are achieved through early recognition and treatment. During the initial acute presentation of symptoms, healthcare team members need to recognize the signs of pulmonary hypertension, treat them symptomatically, and investigate with the proper modalities to diagnose HAPH. Primary care providers who serve communities at high altitudes also serve an important role in providing information on the condition and patient education. It is vital to have a high index of suspicion for altitude-related illness and HAPH since early detection and treatment can significantly improve the prognosis. Patients suffering from HAPH should be strongly urged to descend to lower elevations to lower their pulmonary artery pressures.\n\nReview Questions\n\nAccess free multiple choice questions on this topic.\n\nClick here for a simplified version.\n\nComment on this article.\n\nReferences\n\n1.\n\nMirrakhimov AE, Strohl KP. High-altitude Pulmonary Hypertension: an Update on Disease Pathogenesis and Management. Open Cardiovasc Med J. 2016;10:19-27. \n\n2.",
+        "topic": "Pulmonary Hypertension",
+        "relevance_score": 0.6673812866210938,
+        "metadata": {
+          "file_topic": "Pulmonary Hypertension",
+          "id": "Pulmonary Hypertension:Pulmonary Hypertension:2601",
+          "source": "data/topics/Pulmonary Hypertension/Pulmonary Hypertension.md",
+          "source_file": "Pulmonary Hypertension.md",
+          "topic": "Pulmonary Hypertension",
+          "topic_keywords": "Pulmonary Hypertension"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Right-sided heart catheterization and pulmonary angiography are the most important diagnostic tools for establishing a definitive diagnosis. A mean pulmonary artery pressure (mPAP) greater than 30 mmHg or systolic PAP of greater than 50 mmHg is diagnostic for pulmonary hypertension. If possible, it is important to attempt catheterization and angiography at the altitude of residence.\n\nTreatment / Management\n\nLimited data is currently available to guide the long-term management of HAPH. Several studies have shown that some treatments recommended for managing other causes of pulmonary hypertension have improved symptoms and mPAPs. Patients suffering from HAPH should be advised to move to lower altitudes. Some studies have shown that mPAPs for patients have normalized within 2 years of returning to lower altitudes. Pharmacological treatments for HAPH can include phosphodiesterase and carbonic anhydrase inhibitors.\n\nPhosphodiesterase inhibitors (ie, Sildenafil) block the breakdown of nitrous oxide, promote pulmonary artery vasodilation, and decrease mPAP.",
+        "topic": "Pulmonary Hypertension",
+        "relevance_score": 0.6296620965003967,
+        "metadata": {
+          "file_topic": "Pulmonary Hypertension",
+          "id": "Pulmonary Hypertension:Pulmonary Hypertension:2597",
+          "source": "data/topics/Pulmonary Hypertension/Pulmonary Hypertension.md",
+          "source_file": "Pulmonary Hypertension.md",
+          "topic": "Pulmonary Hypertension",
+          "topic_keywords": "Pulmonary Hypertension"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.6902578592300415,
+    "processing_time_seconds": 3.3296852111816406
+  },
+  {
+    "id": "statement_0114",
+    "statement": "The classic presentation of acute cholangitis includes Charcot's triad of right upper quadrant pain, fever, and jaundice, which occurs when a stone occludes the biliary or hepatic ducts leading to dilation and bacterial superinfection.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Acute Abdomen",
+    "predicted_answer": true,
+    "predicted_verdict": "TRUE",
+    "predicted_topic": "Respiratory Failure",
+    "verdict_correct": true,
+    "topic_correct": false,
+    "prediction_type": "CORRECT",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"TRUE\",\n    \"topic\": \"Respiratory Failure\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Acute cholangitis:**** Acute cholangitis occurs when a stone occludes the biliary or hepatic ducts and presents with vague right upper quadrant pain, fever, and jaundice, known as Charcot's triad. The obstruction results in dilation and bacterial superinfection of the duct.\n\nAcute diverticulitis:**** Left lower quadrant pain is the most common presenting complaint of acute diverticulitis, although right lower quadrant diverticulitis is also possible. Additional possible associated symptoms are localized guarding, rigidity, and rebound tenderness. A rectal examination may reveal occult blood on stool testing or a mass or tenderness if a distal sigmoid abscess is present.\n\nAcute pancreatitis:**** Acute pancreatitis manifests as severe persistent left upper quadrant (LUQ) and epigastric pain radiating to the back. Nausea and vomiting are also commonly associated symptoms.",
+        "topic": "Respiratory Failure",
+        "relevance_score": 0.7392067313194275,
+        "metadata": {
+          "file_topic": "Acute Respiratory Failure",
+          "id": "Respiratory Failure:Acute Respiratory Failure:2404",
+          "source": "data/topics/Respiratory Failure/Acute Respiratory Failure.md",
+          "source_file": "Acute Respiratory Failure.md",
+          "topic": "Respiratory Failure",
+          "topic_keywords": "Acute Respiratory Failure"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Acute cholangitis:**** Acute cholangitis occurs when a stone occludes the biliary or hepatic ducts and presents with vague right upper quadrant pain, fever, and jaundice, known as Charcot's triad. The obstruction results in dilation and bacterial superinfection of the duct.\n\nAcute diverticulitis:**** Left lower quadrant pain is the most common presenting complaint of acute diverticulitis, although right lower quadrant diverticulitis is also possible. Additional possible associated symptoms are localized guarding, rigidity, and rebound tenderness. A rectal examination may reveal occult blood on stool testing or a mass or tenderness if a distal sigmoid abscess is present.\n\nAcute pancreatitis:**** Acute pancreatitis manifests as severe persistent left upper quadrant (LUQ) and epigastric pain radiating to the back. Nausea and vomiting are also commonly associated symptoms.",
+        "topic": "Acute Abdomen",
+        "relevance_score": 0.7392067313194275,
+        "metadata": {
+          "file_topic": "Acute Abdomen",
+          "id": "Acute Abdomen:Acute Abdomen:3840",
+          "source": "data/topics/Acute Abdomen/Acute Abdomen.md",
+          "source_file": "Acute Abdomen.md",
+          "topic": "Acute Abdomen",
+          "topic_keywords": "Acute Abdomen"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "History and Physical\n\nAcute acalculous cholecystitis may present similarly to calculous cholecystitis. Patients typically present with right upper quadrant abdominal pain that worsens with fatty foods, physical exam findings of right upper quadrant tenderness, and a positive Murphy's sign (ie, inspiratory arrest from pain during palpation of the right upper quadrant). Fever, chills, body aches, nausea, vomiting, and food intolerance may also be present. These patients are often already admitted to the ICU for another severe illness or are recovering from extensive surgery. Critically ill patients unable to participate in the physical exam may have fevers of unknown origin or grimacing during abdominal palpation, which should prompt additional testing.\n\nEvaluation\n\nLaboratory Studies\n\nPreliminary laboratory studies typically include a complete blood count, a basic metabolic panel, liver function tests, and lipase levels. Findings of leukocytosis and elevated liver enzymes, including alkaline phosphatase and direct bilirubin, are common.\n\nUltrasound Imaging",
+        "topic": "Acute Cholecystitis",
+        "relevance_score": 0.4430347681045532,
+        "metadata": {
+          "file_topic": "Acalculous Cholecystitis",
+          "id": "Acute Cholecystitis:Acalculous Cholecystitis:4231",
+          "source": "data/topics/Acute Cholecystitis/Acalculous Cholecystitis.md",
+          "source_file": "Acalculous Cholecystitis.md",
+          "topic": "Acute Cholecystitis",
+          "topic_keywords": "Acalculous Cholecystitis"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Epigastric pain\n\nMyocardial infarction\n\nAcute and chronic pancreatitis\n\nPeptic ulcer disease\n\nGastroesophageal reflux disease\n\nGastritis\n\nGastroparesis\n\nRight upper quadrant pain**:**\n\nBiliary colic;\n\nAcute cholecystitis;\n\nAcute cholangitis;\n\nSphincter of Oddi dysfunction;\n\nAcute hepatitis;\n\nPerihepatitis;\n\nLiver abscess;\n\nBudd-Chiari syndrome; and\n\nPortal vein thrombosis.\n\nPhysical Examination",
+        "topic": "Respiratory Failure",
+        "relevance_score": 0.43471574783325195,
+        "metadata": {
+          "file_topic": "Acute Respiratory Failure",
+          "id": "Respiratory Failure:Acute Respiratory Failure:2400",
+          "source": "data/topics/Respiratory Failure/Acute Respiratory Failure.md",
+          "source_file": "Acute Respiratory Failure.md",
+          "topic": "Respiratory Failure",
+          "topic_keywords": "Acute Respiratory Failure"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Epigastric pain\n\nMyocardial infarction\n\nAcute and chronic pancreatitis\n\nPeptic ulcer disease\n\nGastroesophageal reflux disease\n\nGastritis\n\nGastroparesis\n\nRight upper quadrant pain**:**\n\nBiliary colic;\n\nAcute cholecystitis;\n\nAcute cholangitis;\n\nSphincter of Oddi dysfunction;\n\nAcute hepatitis;\n\nPerihepatitis;\n\nLiver abscess;\n\nBudd-Chiari syndrome; and\n\nPortal vein thrombosis.\n\nPhysical Examination",
+        "topic": "Acute Abdomen",
+        "relevance_score": 0.43471574783325195,
+        "metadata": {
+          "file_topic": "Acute Abdomen",
+          "id": "Acute Abdomen:Acute Abdomen:3836",
+          "source": "data/topics/Acute Abdomen/Acute Abdomen.md",
+          "source_file": "Acute Abdomen.md",
+          "topic": "Acute Abdomen",
+          "topic_keywords": "Acute Abdomen"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5581759452819824,
+    "processing_time_seconds": 2.6956470012664795
+  },
+  {
+    "id": "statement_0123",
+    "statement": "During thoracentesis, fluid extraction should be limited to no more than 1500 mL per session to prevent reexpansion pulmonary edema, and bedside ultrasound reduces pneumothorax risk while improving success rates.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Pleural Effusion",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Pleural Effusion",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Pleural Effusion\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Thoracentesis is a diagnostic and therapeutic procedure. Current recommendations when performing a thoracentesis include the following:\n\nBedside ultrasound improves success rates and reduces the risk of pneumothorax during fluid aspiration.\n\nUltrasound can detect pleural fluid sequestrations.\n\nAlways send fluid for biochemistry, culture, and cytology.\n\nUse Light's criteria to distinguish exudate from transudate.\n\nLymphocyte-predominant effusions are typically due to malignancy and tuberculosis.\n\nCheck pH when aspirating pleural effusions.\n\nDo not inject air or local anesthetic into the sample, which may alter the fluid's pH.\n\nMalignant effusions can be detected on cytology (40% to 60%).\n\nChest tube drainage with antibiotic treatment is warranted in complex parapneumonic effusions or empyema. Small-bore drains, ranging from 10- to 14-gauge, are as effective as larger drains and may be preferable due to their ease of placement and reduced patient discomfort. Intrapleural fibrinolytic and DNase administration can be utilized to enhance drainage. However, thoracoscopic decortication may be necessary when these measures fail.",
+        "topic": "Pleural Effusion",
+        "relevance_score": 0.5818893015384674,
+        "metadata": {
+          "file_topic": "Pleural Effusion",
+          "id": "Pleural Effusion:Pleural Effusion:2497",
+          "source": "data/topics/Pleural Effusion/Pleural Effusion.md",
+          "source_file": "Pleural Effusion.md",
+          "topic": "Pleural Effusion",
+          "topic_keywords": "Pleural Effusion"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "All initial effusion occurrences warrant a thoracentesis to ascertain the underlying etiology of the condition, except in instances where heart failure is confidently suspected. In such cases, a trial of diuresis may be conducted as a preliminary measure. Incorporating thoracic ultrasound in management planning is crucial. This test's prompt availability and rapid performance reduce the need for ancillary diagnostic testing such as computed tomography (CT) and offer valuable insights into fluid characteristics, which can aid in diagnosis (see Image. Bilateral Pleural Effusions on Chest Computed Tomography). In addition, thoracic ultrasound assists in differentiating fluid accumulation from other conditions that present as radiopaque abnormalities on chest radiographs, such as pneumonia or atelectasis.",
+        "topic": "Pleural Effusion",
+        "relevance_score": 0.467792272567749,
+        "metadata": {
+          "file_topic": "Pleural Effusion",
+          "id": "Pleural Effusion:Pleural Effusion:2491",
+          "source": "data/topics/Pleural Effusion/Pleural Effusion.md",
+          "source_file": "Pleural Effusion.md",
+          "topic": "Pleural Effusion",
+          "topic_keywords": "Pleural Effusion"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Air Drainage Techniques\n\nAir drainage techniques are essential in managing pneumothorax. These techniques help remove air from the pleural space, facilitate lung reexpansion, and prevent recurrence. The choice of technique depends on the size of the pneumothorax, the patient's clinical stability, and the underlying etiology.\n\nNeedle aspiration technique: A large-bore (14-gauge) needle approximately 10 cm long can be inserted at one of 2 locations (see Image. Chest Wall Decompression.)\n\nSecond intercostal space at the midclavicular line, above the superior edge of the third rib\n\nFifth intercostal space at the anterior axillary line, above the upper border of the sixth rib\n\nThis placement method aims to prevent injury to the neurovascular bundle, which runs along the inferior edge of each rib.\n\nLarge-bore catheter drainage technique: For cases requiring large-bore catheter drainage, an 8.3-French pigtail catheter can be introduced into the pleural cavity using ultrasound. Similar to needle aspiration, there are multiple insertion points.\n\nSecond intercostal space at the midclavicular line",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.4277693033218384,
+        "metadata": {
+          "file_topic": "Pneumothorax",
+          "id": "Pneumothorax:Pneumothorax:6011",
+          "source": "data/topics/Pneumothorax/Pneumothorax.md",
+          "source_file": "Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Pneumothorax"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "49.\n\nChen JS, Hsu HH, Huang PM, Kuo SW, Lin MW, Chang CC, Lee JM. Thoracoscopic pleurodesis for primary spontaneous pneumothorax with high recurrence risk: a prospective randomized trial. Ann Surg. 2012 Mar;255(3):440-5. \n\n50.\n\nSpaans LN, van Steenwijk QCA, Seiranjan A, Janssen N, de Loos ER, Susa D, Eerenberg JP, Bouwman RAA, Dijkgraaf MG, van den Broek FJC. Pain management after pneumothorax surgery: intercostal nerve block or thoracic epidural analgesia. Interdiscip Cardiovasc Thorac Surg. 2023 Nov 02;37(5) \n\n51.\n\nSadikot RT, Greene T, Meadows K, Arnold AG. Recurrence of primary spontaneous pneumothorax. Thorax. 1997 Sep;52(9):805-9. \n\n52.\n\nEggeling S. [Complications in the therapy of spontaneous pneumothorax]. Chirurg. 2015 May;86(5):444-52. \n\n53.\n\nSlade M. Management of pneumothorax and prolonged air leak. Semin Respir Crit Care Med. 2014 Dec;35(6):706-14. \n\n54.\n\nPeyrin JC, Charlet JP, Duret J, Crepel N, Brichon PY. [Reexpansion pulmonary edema after pneumothorax. Apropos of a case. Review of the literature]. J Chir (Paris). 1988 Mar;125(3):199-202. \n\n55.",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.42661893367767334,
+        "metadata": {
+          "file_topic": "Pneumothorax",
+          "id": "Pneumothorax:Pneumothorax:6031",
+          "source": "data/topics/Pneumothorax/Pneumothorax.md",
+          "source_file": "Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Pneumothorax"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Minimal collection of blood (defined as less than 300 ml) in the pleural cavity generally requires no treatment; blood usually reabsorbs throughout the course of several weeks. If the patient is stable and has minimal respiratory distress, operative intervention is not typically required. This group of patients can be treated by analgesia as needed and observed with repeated imaging at 4 to 6 hours and 24 hours.\n\nWhen possible, consultation with cardiothoracic or trauma surgery should be performed for placement of tube thoracostomy. Traditionally, 36 - 40 French chest tubes have been used for evacuation of hemothoraces, but this practice has come under scrutiny. Recent studies show that most surgeons use 32 - 36 French tubes. Prospective studies demonstrate no difference in outcomes when 28 to 32 French tubes were used in level I trauma centers for hemothorax evacuation.",
+        "topic": "Hemothorax",
+        "relevance_score": 0.42215192317962646,
+        "metadata": {
+          "file_topic": "Hemothorax",
+          "id": "Hemothorax:Hemothorax:6358",
+          "source": "data/topics/Hemothorax/Hemothorax.md",
+          "source_file": "Hemothorax.md",
+          "topic": "Hemothorax",
+          "topic_keywords": "Hemothorax"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.46524434685707095,
+    "processing_time_seconds": 3.5081067085266113
+  },
+  {
+    "id": "statement_0126",
+    "statement": "The World Society of Abdominal Compartment Syndrome defines intra-abdominal hypertension grades as: Grade I (12-15 mmHg), Grade II (16-20 mmHg), Grade III (21-25 mmHg), and Grade IV (>25 mmHg).",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Compartment Syndrome",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Compartment Syndrome",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Compartment Syndrome\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "The World Society of Abdominal Compartment Syndrome (WSACS) was created in 2004. This society standardized the definitions and guidelines for evaluating and treating ACS, as this disease process is often underdiagnosed in the medical field. The intra-abdominal pressure (IAP) is the steady-state pressure within the abdomen. The average normal adult IAP ranges from 0 to 5 mm Hg, while IAP can be elevated up to 5 to 7 mm Hg in critically ill patients. Both patient body habitus and chronic medical conditions can influence the patient's baseline IAP; thus, they must be considered during ACS evaluation. Elevated IAP can lead to intra-abdominal hypertension (IAH), defined as IAP \u2265 12 mm Hg, but is not synonymous with ACS. ACS can occur when IAP is >20 mm Hg. However, the beginning phases of organ dysfunction can occur before IAP reaches 20 mm Hg.",
+        "topic": "Compartment Syndrome",
+        "relevance_score": 0.6396777629852295,
+        "metadata": {
+          "file_topic": "Compartment Syndrome",
+          "id": "Compartment Syndrome:Compartment Syndrome:791",
+          "source": "data/topics/Compartment Syndrome/Compartment Syndrome.md",
+          "source_file": "Compartment Syndrome.md",
+          "topic": "Compartment Syndrome",
+          "topic_keywords": "Compartment Syndrome"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "The World Society of Abdominal Compartment Syndrome (WSACS) was created in 2004. This society standardized the definitions and guidelines for evaluating and treating ACS, as this disease process is often underdiagnosed in the medical field. The intra-abdominal pressure (IAP) is the steady-state pressure within the abdomen. The average normal adult IAP ranges from 0 to 5 mm Hg, while IAP can be elevated up to 5 to 7 mm Hg in critically ill patients. Both patient body habitus and chronic medical conditions can influence the patient's baseline IAP; thus, they must be considered during ACS evaluation. Elevated IAP can lead to intra-abdominal hypertension (IAH), defined as IAP \u2265 12 mm Hg, but is not synonymous with ACS. ACS can occur when IAP is >20 mm Hg. However, the beginning phases of organ dysfunction can occur before IAP reaches 20 mm Hg.",
+        "topic": "Hyperventilation Syndrome",
+        "relevance_score": 0.6396777629852295,
+        "metadata": {
+          "file_topic": "Hyperventilation Syndrome",
+          "id": "Hyperventilation Syndrome:Hyperventilation Syndrome:5000",
+          "source": "data/topics/Hyperventilation Syndrome/Hyperventilation Syndrome.md",
+          "source_file": "Hyperventilation Syndrome.md",
+          "topic": "Hyperventilation Syndrome",
+          "topic_keywords": "Hyperventilation Syndrome"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Grade II: IAP 16-20 mm Hg\n\nGrade III: IAP 21-25 mm Hg\n\nGrade IV: IAP >25 mm Hg\n\nIntra-abdominal hypertension in the presence of organ dysfunction raises suspicion for ACS. Surgical procedures that carry an especially high risk of developing IAH include liver transplantation, damage control surgery, repair of abdominal aortic aneurysm, and large abdominal hernia repairs. Other etiologies must be considered in addition to surgery as potential causes of ACS, which can be classified as primary or secondary. Primary ACS causes include blunt or penetrating trauma, intra-abdominal hemorrhage, abdominal aortic aneurysm rupture, abdominal adhesions, intestinal obstruction, tumor formation, and retroperitoneal hematoma. Secondary causes do not originate from intra-abdominal disease, including pregnancy, ascites, ileus, intra-abdominal sepsis, and large-volume fluid resuscitation. Intra-abdominal pressures can be chronically elevated in pregnancy, cirrhosis, obesity, intra-abdominal malignancy, and peritoneal dialysis. Those with higher body mass index can be expected to have higher baseline IAP between 9 to 14 mm Hg due to the restrictive effect of adipose tissue.",
+        "topic": "Compartment Syndrome",
+        "relevance_score": 0.5560327172279358,
+        "metadata": {
+          "file_topic": "Compartment Syndrome",
+          "id": "Compartment Syndrome:Compartment Syndrome:794",
+          "source": "data/topics/Compartment Syndrome/Compartment Syndrome.md",
+          "source_file": "Compartment Syndrome.md",
+          "topic": "Compartment Syndrome",
+          "topic_keywords": "Compartment Syndrome"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Grade II: IAP 16-20 mm Hg\n\nGrade III: IAP 21-25 mm Hg\n\nGrade IV: IAP >25 mm Hg\n\nIntra-abdominal hypertension in the presence of organ dysfunction raises suspicion for ACS. Surgical procedures that carry an especially high risk of developing IAH include liver transplantation, damage control surgery, repair of abdominal aortic aneurysm, and large abdominal hernia repairs. Other etiologies must be considered in addition to surgery as potential causes of ACS, which can be classified as primary or secondary. Primary ACS causes include blunt or penetrating trauma, intra-abdominal hemorrhage, abdominal aortic aneurysm rupture, abdominal adhesions, intestinal obstruction, tumor formation, and retroperitoneal hematoma. Secondary causes do not originate from intra-abdominal disease, including pregnancy, ascites, ileus, intra-abdominal sepsis, and large-volume fluid resuscitation. Intra-abdominal pressures can be chronically elevated in pregnancy, cirrhosis, obesity, intra-abdominal malignancy, and peritoneal dialysis. Those with higher body mass index can be expected to have higher baseline IAP between 9 to 14 mm Hg due to the restrictive effect of adipose tissue.",
+        "topic": "Hyperventilation Syndrome",
+        "relevance_score": 0.5560327172279358,
+        "metadata": {
+          "file_topic": "Hyperventilation Syndrome",
+          "id": "Hyperventilation Syndrome:Hyperventilation Syndrome:5003",
+          "source": "data/topics/Hyperventilation Syndrome/Hyperventilation Syndrome.md",
+          "source_file": "Hyperventilation Syndrome.md",
+          "topic": "Hyperventilation Syndrome",
+          "topic_keywords": "Hyperventilation Syndrome"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "5.\n\nKirkpatrick AW, Roberts DJ, De Waele J, Jaeschke R, Malbrain ML, De Keulenaer B, Duchesne J, Bjorck M, Leppaniemi A, Ejike JC, Sugrue M, Cheatham M, Ivatury R, Ball CG, Reintam Blaser A, Regli A, Balogh ZJ, D'Amours S, Debergh D, Kaplan M, Kimball E, Olvera C., Pediatric Guidelines Sub-Committee for the World Society of the Abdominal Compartment Syndrome. Intra-abdominal hypertension and the abdominal compartment syndrome: updated consensus definitions and clinical practice guidelines from the World Society of the Abdominal Compartment Syndrome. Intensive Care Med. 2013 Jul;39(7):1190-206. \n\n6.\n\nZarnescu NO, Dumitrascu I, Zarnescu EC, Costea R. Abdominal Compartment Syndrome in Acute Pancreatitis: A Narrative Review. Diagnostics (Basel). 2022 Dec 20;13(1) \n\n7.\n\nP\u0103duraru DN, Andronic O, Mu\u0219at F, Bolocan A, Dumitra\u0219cu MC, Ion D. Abdominal Compartment Syndrome-When Is Surgical Decompression Needed? Diagnostics (Basel). 2021 Dec 07;11(12) \n\n8.",
+        "topic": "Hyperventilation Syndrome",
+        "relevance_score": 0.5338367819786072,
+        "metadata": {
+          "file_topic": "Hyperventilation Syndrome",
+          "id": "Hyperventilation Syndrome:Hyperventilation Syndrome:5021",
+          "source": "data/topics/Hyperventilation Syndrome/Hyperventilation Syndrome.md",
+          "source_file": "Hyperventilation Syndrome.md",
+          "topic": "Hyperventilation Syndrome",
+          "topic_keywords": "Hyperventilation Syndrome"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5850515484809875,
+    "processing_time_seconds": 3.5940535068511963
+  },
+  {
+    "id": "statement_0131",
+    "statement": "For secondary spontaneous pneumothorax management, if the pneumothorax depth is between 1-2 cm, needle aspiration should be performed first, and if the residual depth after aspiration remains greater than 2 cm, tube thoracostomy is indicated.",
+    "ground_truth_answer": false,
+    "ground_truth_topic": "Pneumothorax",
+    "predicted_answer": true,
+    "predicted_verdict": "TRUE",
+    "predicted_topic": "Pneumothorax",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_POSITIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"TRUE\",\n    \"topic\": \"Pneumothorax\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "In an asymptomatic small primary spontaneous pneumothorax (depth less than 2cm), the patient is usually discharged with follow-up in outpatient after 2-4 weeks. If the patient is symptomatic or the depth/size is more than 2cm, needle aspiration is done; after aspiration, if the patient improves and residual depth is less than 2cm, then the patient is discharged; otherwise, tube thoracostomy is done.\n\nIn secondary spontaneous pneumothorax, if the size/depth of pneumothorax is less than 1cm and there is no dyspnea, the patient is admitted, high-flow oxygen is given, and observation is done for 24 hours. If size/ depth is between 1-2cm, needle aspiration is done, then the residual size of pneumothorax is seen; if the depth after the needle aspiration is less than 1cm, management is done with oxygen inhalation and observation, and in case of more than 2cm, tube thoracostomy is done. In case of depth more than 2cm or breathlessness, a tube thoracostomy is done.",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.807418167591095,
+        "metadata": {
+          "file_topic": "Spontaneous Pneumothorax",
+          "id": "Pneumothorax:Spontaneous Pneumothorax:5961",
+          "source": "data/topics/Pneumothorax/Spontaneous Pneumothorax.md",
+          "source_file": "Spontaneous Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Spontaneous Pneumothorax"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "In an asymptomatic small primary spontaneous pneumothorax (depth less than 2cm), the patient is usually discharged with follow-up in outpatient after 2-4 weeks. If the patient is symptomatic or the depth/size is more than 2cm, needle aspiration is done; after aspiration, if the patient improves and residual depth is less than 2cm, then the patient is discharged; otherwise, tube thoracostomy is done.\n\nIn secondary spontaneous pneumothorax, if the size/depth of pneumothorax is less than 1cm and there is no dyspnea, the patient is admitted, high-flow oxygen is given, and observation is done for 24 hours. If size/ depth is between 1-2cm, needle aspiration is done, then the residual size of pneumothorax is seen; if the depth after the needle aspiration is less than 1cm, management is done with oxygen inhalation and observation, and in case of more than 2cm, tube thoracostomy is done. In case of depth more than 2cm or breathlessness, a tube thoracostomy is done.",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.807418167591095,
+        "metadata": {
+          "file_topic": "Tension Pneumothorax",
+          "id": "Pneumothorax:Tension Pneumothorax:5984",
+          "source": "data/topics/Pneumothorax/Tension Pneumothorax.md",
+          "source_file": "Tension Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Tension Pneumothorax"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "For secondary secondary spontaneous pneumothorax, observation or needle aspiration is typically insufficient. These cases require hospital admission and chest tube insertion (ranging from 20 to 28 French), which is typically connected to a water-seal device with or without additional suctioning.\n\nManagement of Unstable Patients\n\nPatients with traumatic or tension pneumothorax require emergent thoracostomy or chest tube placement. In most cases, non-tension pneumothorax can be effectively managed with small-bore pigtail catheters inserted using the Seldinger technique. Very large pneumothoraces may necessitate large-bore chest tubes. A thoracostomy with a large-bore chest tube insertion is necessary if there is a concomitant hemothorax.\n\nStudies have shown that simple aspiration has a higher failure rate compared to chest tube drainage when used as the initial management strategy for complete primary spontaneous pneumothorax cases. As a result, chest tube placement is often preferred in patients with large or recurrent pneumothoraces to ensure adequate lung reexpansion and reduce the risk of early recurrence.\n\nAir Drainage Techniques",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.6999195218086243,
+        "metadata": {
+          "file_topic": "Pneumothorax",
+          "id": "Pneumothorax:Pneumothorax:6010",
+          "source": "data/topics/Pneumothorax/Pneumothorax.md",
+          "source_file": "Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Pneumothorax"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Symptomatic Patients\n\nFor symptomatic patients with stable vital signs, initial management may include needle aspiration or small-bore catheter insertion (pigtail catheter) in the emergency department. Evidence suggests that needle aspiration is as safe and effective as tube thoracostomy in cases of primary spontaneous pneumothorax. A recent randomized clinical trial involving unilateral, moderate-to-large primary spontaneous pneumothorax revealed that conservative observation was not inferior to interventional management, with a lower risk of serious adverse events compared to invasive techniques. These patients may require hospital admission for observation. Although oxygen therapy with serial chest radiographs is sometimes used, there are limited supporting data. Importantly, positive pressure-generating therapies, such as noninvasive ventilation or high nasal flow nasal cannula, should not be used due to the risk of air leaks and worsening pneumothorax.",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.6647660136222839,
+        "metadata": {
+          "file_topic": "Pneumothorax",
+          "id": "Pneumothorax:Pneumothorax:6009",
+          "source": "data/topics/Pneumothorax/Pneumothorax.md",
+          "source_file": "Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Pneumothorax"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Treatment / Management\n\nManagement depends on the clinical scenario.\n\nFor patients with associated symptoms and showing signs of instability, needle decompression is the treatment of a pneumothorax. This usually is performed with a 14- to 16-gauge and 4.5 cm in length angiocatheter, just superior to the rib in the second intercostal space in the midclavicular line. After needle decompression or stable pneumothoraces, the treatment is inserting a thoracostomy tube. This usually is placed above the rib in the fifth intercostal space anterior to the midaxillary line. The size of the thoracostomy tube usually ranges depending on the patient's height and weight and whether there is an associated hemothorax.\n\nOpen \"sucking\" chest wounds are treated initially with a three-sided occlusive dressing. Further treatment may require tube thoracostomy and chest wall defect repair.",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.6290259957313538,
+        "metadata": {
+          "file_topic": "Tension Pneumothorax",
+          "id": "Pneumothorax:Tension Pneumothorax:5983",
+          "source": "data/topics/Pneumothorax/Tension Pneumothorax.md",
+          "source_file": "Tension Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Tension Pneumothorax"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.7217095732688904,
+    "processing_time_seconds": 3.3355181217193604
+  },
+  {
+    "id": "statement_0139",
+    "statement": "Video-assisted thoracoscopic surgery (VATS) with mechanical pleurodesis and bleb/bullectomy reduces the recurrence rate of pneumothorax to less than 5%, and this surgical intervention is indicated for patients with bilateral pneumothoraces, continuous air leak for longer than seven days, or first episodes in high-risk profession patients such as divers and pilots.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Pneumothorax",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Pneumothorax",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Pneumothorax\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "49.\n\nChen JS, Hsu HH, Huang PM, Kuo SW, Lin MW, Chang CC, Lee JM. Thoracoscopic pleurodesis for primary spontaneous pneumothorax with high recurrence risk: a prospective randomized trial. Ann Surg. 2012 Mar;255(3):440-5. \n\n50.\n\nSpaans LN, van Steenwijk QCA, Seiranjan A, Janssen N, de Loos ER, Susa D, Eerenberg JP, Bouwman RAA, Dijkgraaf MG, van den Broek FJC. Pain management after pneumothorax surgery: intercostal nerve block or thoracic epidural analgesia. Interdiscip Cardiovasc Thorac Surg. 2023 Nov 02;37(5) \n\n51.\n\nSadikot RT, Greene T, Meadows K, Arnold AG. Recurrence of primary spontaneous pneumothorax. Thorax. 1997 Sep;52(9):805-9. \n\n52.\n\nEggeling S. [Complications in the therapy of spontaneous pneumothorax]. Chirurg. 2015 May;86(5):444-52. \n\n53.\n\nSlade M. Management of pneumothorax and prolonged air leak. Semin Respir Crit Care Med. 2014 Dec;35(6):706-14. \n\n54.\n\nPeyrin JC, Charlet JP, Duret J, Crepel N, Brichon PY. [Reexpansion pulmonary edema after pneumothorax. Apropos of a case. Review of the literature]. J Chir (Paris). 1988 Mar;125(3):199-202. \n\n55.",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.5613759458065033,
+        "metadata": {
+          "file_topic": "Pneumothorax",
+          "id": "Pneumothorax:Pneumothorax:6031",
+          "source": "data/topics/Pneumothorax/Pneumothorax.md",
+          "source_file": "Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Pneumothorax"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Air can reabsorb from the pleural space at a rate of 1.5%/day. Using supplemental oxygen can increase this reabsorption rate. By increasing the fraction of inspired oxygen concentration, the nitrogen of atmospheric air is displaced, changing the pressure gradient between the air in the pleural space and the capillaries. Pneumothorax on chest radiography approximately 25% or larger usually needs treatment with needle aspiration if symptomatic, and if it fails, then tube thoracostomy is done.\n\nIndications for surgical intervention(VATS vs. thoracotomy)\n\nContinuous air leak for longer than seven days\n\nBilateral pneumothoraces\n\nThe first episode in high-risk profession patients, i.e., Divers, pilots\n\nRecurrent ipsilateral pneumothorax\n\nContralateral pneumothorax\n\nPatients who have AIDS",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.5385143458843231,
+        "metadata": {
+          "file_topic": "Spontaneous Pneumothorax",
+          "id": "Pneumothorax:Spontaneous Pneumothorax:5962",
+          "source": "data/topics/Pneumothorax/Spontaneous Pneumothorax.md",
+          "source_file": "Spontaneous Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Spontaneous Pneumothorax"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Air can reabsorb from the pleural space at a rate of 1.5%/day. Using supplemental oxygen can increase this reabsorption rate. By increasing the fraction of inspired oxygen concentration, the nitrogen of atmospheric air is displaced, changing the pressure gradient between the air in the pleural space and the capillaries. Pneumothorax on chest radiography approximately 25% or larger usually needs treatment with needle aspiration if symptomatic, and if it fails, then tube thoracostomy is done.\n\nIndications for surgical intervention(VATS vs. thoracotomy)\n\nContinuous air leak for longer than seven days\n\nBilateral pneumothoraces\n\nThe first episode in high-risk profession patients, i.e., Divers, pilots\n\nRecurrent ipsilateral pneumothorax\n\nContralateral pneumothorax\n\nPatients who have AIDS",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.5385143458843231,
+        "metadata": {
+          "file_topic": "Tension Pneumothorax",
+          "id": "Pneumothorax:Tension Pneumothorax:5985",
+          "source": "data/topics/Pneumothorax/Tension Pneumothorax.md",
+          "source_file": "Tension Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Tension Pneumothorax"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "An untreated pneumothorax is a contraindication for flying or scuba diving. If air transport is required, a thoracostomy tube should be placed before transport.\n\nIf there is a persistent or recurrent pneumothorax despite treatment with a thoracostomy tube, these patients need specialty consultations for a possible video-assisted thoracoscopic surgery (VATS) with or without pleurodesis or thoracotomy.\n\nIf the patient is discharged from the hospital after a resolved pneumothorax, recommendations should be made for no flying or scuba diving for a minimum of two weeks. Patients with a known history of spontaneous pneumothorax should not be medically cleared for occupations involving flying or scuba diving.\n\nEnhancing Healthcare Team Outcomes",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.5361256897449493,
+        "metadata": {
+          "file_topic": "Spontaneous Pneumothorax",
+          "id": "Pneumothorax:Spontaneous Pneumothorax:5966",
+          "source": "data/topics/Pneumothorax/Spontaneous Pneumothorax.md",
+          "source_file": "Spontaneous Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Spontaneous Pneumothorax"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "An untreated pneumothorax is a contraindication for flying or scuba diving. If air transport is required, a thoracostomy tube should be placed before transport.\n\nIf there is a persistent or recurrent pneumothorax despite treatment with a thoracostomy tube, these patients need specialty consultations for a possible video-assisted thoracoscopic surgery (VATS) with or without pleurodesis or thoracotomy.\n\nIf the patient is discharged from the hospital after a resolved pneumothorax, recommendations should be made for no flying or scuba diving for a minimum of two weeks. Patients with a known history of spontaneous pneumothorax should not be medically cleared for occupations involving flying or scuba diving.\n\nEnhancing Healthcare Team Outcomes",
+        "topic": "Pneumothorax",
+        "relevance_score": 0.5361256897449493,
+        "metadata": {
+          "file_topic": "Tension Pneumothorax",
+          "id": "Pneumothorax:Tension Pneumothorax:5989",
+          "source": "data/topics/Pneumothorax/Tension Pneumothorax.md",
+          "source_file": "Tension Pneumothorax.md",
+          "topic": "Pneumothorax",
+          "topic_keywords": "Tension Pneumothorax"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5421312034130097,
+    "processing_time_seconds": 3.3559582233428955
+  },
+  {
+    "id": "statement_0158",
+    "statement": "In adult diabetic ketoacidosis, the ketone body ratio of 3-beta-hydroxybutyrate to acetoacetate rises from normal levels of 1:1 to as high as 10:1, and the nitroprusside test used for ketone detection only measures acetoacetate and acetone, potentially leading to false-negative results in early DKA.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Diabetic Ketoacidosis",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Diabetic Ketoacidosis",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Diabetic Ketoacidosis\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "In acute DKA, the ketone body ratio (3-beta-hydroxybutyrate:acetoacetate) rises from normal (1:1) to as high as 10:1. In response to insulin therapy, 3-beta-hydroxybutyrate (3-HB) levels commonly decrease long before acetoacetate (AcAc) levels. The frequently employed nitroprusside test only detects acetoacetate in blood and urine. This test provides only a semiquantitative assessment of ketone levels and is associated with false-positive results. Recently, inexpensive quantitative tests of 3-HB levels have become available for common use, and these tests offer options for monitoring and treating diabetes and other states characterized by the abnormal metabolism of ketone bodies.",
+        "topic": "Diabetic Ketoacidosis",
+        "relevance_score": 0.8412762582302094,
+        "metadata": {
+          "file_topic": "Adult Diabetic Ketoacidosis",
+          "id": "Diabetic Ketoacidosis:Adult Diabetic Ketoacidosis:4106",
+          "source": "data/topics/Diabetic Ketoacidosis/Adult Diabetic Ketoacidosis.md",
+          "source_file": "Adult Diabetic Ketoacidosis.md",
+          "topic": "Diabetic Ketoacidosis",
+          "topic_keywords": "Adult Diabetic Ketoacidosis"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "The initial laboratory evaluation of a patient with suspected DKA includes blood levels of glucose, ketones, blood urea nitrogen, creatinine, electrolytes, calculated anion gap, arterial blood gases, osmolality, complete blood count with differential, blood cultures and urine studies including ketones, urinalysis, urine culture, chest radiograph, and an electrocardiogram. Hyperglycemia is the typical finding at presentation with DKA, but patients can present with a range of plasma glucose values. Although ketone levels are generally elevated in DKA, a negative measurement initially does not exclude the diagnosis because ketone laboratory measurements often use the nitroprusside reaction, which only estimates acetoacetate and acetone levels that may not be elevated initially as beta-hydroxybutyrate is the major ketone that is elevated. The anion-gap is elevated, as mentioned above, because ketones are unmeasured anions. Leukocytosis may indicate an infectious pathology as the trigger and cultures are sent from blood, urine, or other samples as clinically indicated",
+        "topic": "Diabetic Ketoacidosis",
+        "relevance_score": 0.7312882542610168,
+        "metadata": {
+          "file_topic": "Pediatric Diabetic Ketoacidosis",
+          "id": "Diabetic Ketoacidosis:Pediatric Diabetic Ketoacidosis:4178",
+          "source": "data/topics/Diabetic Ketoacidosis/Pediatric Diabetic Ketoacidosis.md",
+          "source_file": "Pediatric Diabetic Ketoacidosis.md",
+          "topic": "Diabetic Ketoacidosis",
+          "topic_keywords": "Pediatric Diabetic Ketoacidosis"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Evaluation\n\nAn ill-feeling patient with diabetes with symptoms such as malaise, dyspnea, nausea, or vomiting should undergo screening with serum pH and blood or urine ketone testing. The initial laboratory evaluation of EDKA includes basic electrolytes, glucose, calcium, magnesium, creatinine, BUN (blood urea nitrogen), serum and urine ketones, beta-hydroxybutyric acid, arterial or venous blood gas analysis, lactic acid, chest radiograph, and electrocardiogram. Urine screening for ketones with nitroprusside reagent does not measure beta-hydroxybutyrate but detects acetone and acetoacetate. Serum levels of beta-hydroxybutyrate are typically greater than 3 mmol/L in EDKA (normal values less than 0.5 mmol/L). Consider CBC (complete blood count) with differential white blood cell count and blood cultures if an infection is on the differential. Serum osmolality, to assess for an osmolar gap and toxic alcohols, should be sent to rule out toxic alcohol ingestion when suspected in any patient with severe, unexplained anion gap metabolic acidosis. Close attention should be paid to the anion gap to help narrow direct diagnosis, workup, and management.",
+        "topic": "Diabetic Ketoacidosis",
+        "relevance_score": 0.6320949494838715,
+        "metadata": {
+          "file_topic": "Euglycemic Diabetic Ketoacidosis",
+          "id": "Diabetic Ketoacidosis:Euglycemic Diabetic Ketoacidosis:4146",
+          "source": "data/topics/Diabetic Ketoacidosis/Euglycemic Diabetic Ketoacidosis.md",
+          "source_file": "Euglycemic Diabetic Ketoacidosis.md",
+          "topic": "Diabetic Ketoacidosis",
+          "topic_keywords": "Euglycemic Diabetic Ketoacidosis"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Access free multiple choice questions on this topic.\n\nIntroduction\n\nKetoacidosis is a metabolic state associated with pathologically high serum and urine concentrations of ketone bodies, namely acetone, acetoacetate, and beta-hydroxybutyrate. During catabolic states, fatty acids are metabolized to ketone bodies, which can be readily utilized for fuel by individual cells in the body. Of the three major ketone bodies, acetoacetic acid is the only true ketoacid chemically, while beta-hydroxybutyric acid is a hydroxy acid, and acetone is a true ketone. Figure 1 shows the schematic of ketogenesis where the fatty acids generated after lipolysis in the adipose tissues enter the hepatocytes via the bloodstream and undergo beta-oxidation to form the various ketone bodies. This biochemical cascade is stimulated by the combination of low insulin levels and high glucagon levels (i.e., a low insulin/glucagon ratio). Low insulin levels, most often secondary to absolute or relative hypoglycemia as with fasting, activate hormone-sensitive lipase, which is responsible for the breakdown of triglycerides to free fatty acid and glycerol.",
+        "topic": "Diabetic Ketoacidosis",
+        "relevance_score": 0.5615212619304657,
+        "metadata": {
+          "file_topic": "Pediatric Diabetic Ketoacidosis",
+          "id": "Diabetic Ketoacidosis:Pediatric Diabetic Ketoacidosis:4168",
+          "source": "data/topics/Diabetic Ketoacidosis/Pediatric Diabetic Ketoacidosis.md",
+          "source_file": "Pediatric Diabetic Ketoacidosis.md",
+          "topic": "Diabetic Ketoacidosis",
+          "topic_keywords": "Pediatric Diabetic Ketoacidosis"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Evaluation\n\nCommonly accepted criteria for diabetic ketoacidosis are blood glucose greater than 250 mg/dl, arterial pH less than 7.3, serum bicarbonate less than 15 mEq/l, and the presence of ketonemia or ketonuria. The normal anion gap is 12 mEq/l. Anion gap greater than 14-15 mEq/l indicates the presence of an increased anion gap metabolic acidosis. Arterial pH may be normal or even raised if other types of metabolic or respiratory alkalosis coexist. Typical examples are vomiting or diuretic use. Blood glucose may be normal or minimally elevated in patients with DKA (\\<300 mg/dl), where the underlying risk of hypoglycemia preexists, such as in patients with alcohol use disorder or patients receiving insulin or SGLT2 inhibitors.",
+        "topic": "Diabetic Ketoacidosis",
+        "relevance_score": 0.5410434305667877,
+        "metadata": {
+          "file_topic": "Adult Diabetic Ketoacidosis",
+          "id": "Diabetic Ketoacidosis:Adult Diabetic Ketoacidosis:4104",
+          "source": "data/topics/Diabetic Ketoacidosis/Adult Diabetic Ketoacidosis.md",
+          "source_file": "Adult Diabetic Ketoacidosis.md",
+          "topic": "Diabetic Ketoacidosis",
+          "topic_keywords": "Adult Diabetic Ketoacidosis"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.6614448308944703,
+    "processing_time_seconds": 3.3370249271392822
+  },
+  {
+    "id": "statement_0164",
+    "statement": "In acalculous cholecystitis, a HIDA scan with cholecystokinin stimulation showing an ejection fraction of \u226435% is considered diagnostic, and percutaneous cholecystostomy tubes can typically be removed after 3 weeks without requiring patency confirmation.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Acute Cholecystitis",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Acute Cholecystitis",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Acute Cholecystitis\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Percutaneous Cholecystostomy Tube and Stent Placement\n\nIn those patients who are too unstable to undergo surgery, clinicians should consider interventional radiology consultation for percutaneous cholecystostomy tube placement. Percutaneous drainage is often the definitive treatment because acute acalculous cholecystitis has a lower recurrence rate when compared to acute calculous cholecystitis. The cholecystostomy tube can be removed after 3 weeks. After percutaneous drainage and recovery, outpatient tube studies by interventional radiology can confirm patency of the cystic duct before removal. Alternatively, the patient can undergo cholecystectomy between 4 and 8 weeks after tube placement.\n\nAnother treatment option is cystic duct stent placement via endoscopic retrograde cholangiopancreatography (ERCP) to decompress the gallbladder and prevent cystic duct obstruction. However, this approach is not as widely available as percutaneous cholecystostomy, and outcomes have not been studied as extensively.\n\nSurgical Management",
+        "topic": "Acute Cholecystitis",
+        "relevance_score": 0.6398616135120392,
+        "metadata": {
+          "file_topic": "Acalculous Cholecystitis",
+          "id": "Acute Cholecystitis:Acalculous Cholecystitis:4234",
+          "source": "data/topics/Acute Cholecystitis/Acalculous Cholecystitis.md",
+          "source_file": "Acalculous Cholecystitis.md",
+          "topic": "Acute Cholecystitis",
+          "topic_keywords": "Acalculous Cholecystitis"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Ultrasound Imaging\n\nUltrasound is usually the initial image obtained, as this can be completed at the bedside in a timely fashion and is cost-effective. Gallbladder wall thickening >3 mm, gallbladder wall edema, and pericholecystic fluid are indicative of cholecystitis (see Image. Acalculous Cholecystitis).\n\nAdditional Diagnostic Studies\n\nThe test of choice for diagnosing acute acalculous cholecystitis in the setting of a normal ultrasound is a hepatobiliary iminodiacetic acid (HIDA) scan, which may be done in conjunction with administration of CCK. A HIDA scan evaluates the function or ejection fraction of the gallbladder. After the radionuclide is administered, CCK is given to stimulate gallbladder emptying.\n\nA calculated ejection fraction of \u226435% may be indicative of hypokinetic functioning of the gallbladder. HIDA scan may also demonstrate no filling of the gallbladder with radiotracer material, indicative of cystic duct obstruction and acute cholecystitis. Computed tomography (CT) scans of the abdomen with intravenous contrast may also reveal gallbladder wall thickening, edema, and pericholecystic fluid in the absence of gallstones and sludge.\n\nTreatment / Management",
+        "topic": "Acute Cholecystitis",
+        "relevance_score": 0.6389338970184326,
+        "metadata": {
+          "file_topic": "Acalculous Cholecystitis",
+          "id": "Acute Cholecystitis:Acalculous Cholecystitis:4232",
+          "source": "data/topics/Acute Cholecystitis/Acalculous Cholecystitis.md",
+          "source_file": "Acalculous Cholecystitis.md",
+          "topic": "Acute Cholecystitis",
+          "topic_keywords": "Acalculous Cholecystitis"
+        }
+      },
+      {
+        "rank": 3,
+        "content": ". This scan will diagnose gallbladder function or cystic duct obstruction. The addition of cholecystokinin (CCK) in cases of no gallstones may also diagnose acalculous cholecystitis. This is indicated by an ejection fracture of less than 35%.",
+        "topic": "Acute Cholecystitis",
+        "relevance_score": 0.568439394235611,
+        "metadata": {
+          "file_topic": "Acute Cholecystitis",
+          "id": "Acute Cholecystitis:Acute Cholecystitis:4255",
+          "source": "data/topics/Acute Cholecystitis/Acute Cholecystitis.md",
+          "source_file": "Acute Cholecystitis.md",
+          "topic": "Acute Cholecystitis",
+          "topic_keywords": "Acute Cholecystitis"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "23.\n\nWoodward SG, Rios-Diaz AJ, Zheng R, McPartland C, Tholey R, Tatarian T, Palazzo F. Finding the Most Favorable Timing for Cholecystectomy after Percutaneous Cholecystostomy Tube Placement: An Analysis of Institutional and National Data. J Am Coll Surg. 2021 Jan;232(1):55-64. \n\n24.\n\nStorm AC, Vargas EJ, Chin JY, Chandrasekhara V, Abu Dayyeh BK, Levy MJ, Martin JA, Topazian MD, Andrews JC, Schiller HJ, Kamath PS, Petersen BT. Transpapillary gallbladder stent placement for long-term therapy of acute cholecystitis. Gastrointest Endosc. 2021 Oct;94(4):742-748.e1. \n\n25.\n\nLunardi N, Abou-Zamzam A, Florecki KL, Chidambaram S, Shih IF, Kent AJ, Joseph B, Byrne JP, Sakran JV. Robotic Technology in Emergency General Surgery Cases in the Era of Minimally Invasive Surgery. JAMA Surg. 2024 May 01;159(5):493-499. \n\n26.\n\nBarie PS, Fischer E. Acute acalculous cholecystitis. J Am Coll Surg. 1995 Feb;180(2):232-44. \n\n27.\n\nCornwell EE, Rodriguez A, Mirvis SE, Shorr RM. Acute acalculous cholecystitis in critically injured patients. Preoperative diagnostic imaging. Ann Surg. 1989 Jul;210(1):52-5. \n\n28.",
+        "topic": "Acute Cholecystitis",
+        "relevance_score": 0.5217359960079193,
+        "metadata": {
+          "file_topic": "Acalculous Cholecystitis",
+          "id": "Acute Cholecystitis:Acalculous Cholecystitis:4245",
+          "source": "data/topics/Acute Cholecystitis/Acalculous Cholecystitis.md",
+          "source_file": "Acalculous Cholecystitis.md",
+          "topic": "Acute Cholecystitis",
+          "topic_keywords": "Acalculous Cholecystitis"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "A physical exam with a comprehensive history is paramount in making the diagnosis of cholecystitis. A complete blood count (CBC) and a comprehensive metabolic panel are also important. In cases of chronic cholecystitis, these results may be normal. In acute cholecystitis or severe disease, white blood cell count (WBC) may be elevated. Liver enzymes may also be elevated. If there is a high bilirubin level above 2, then consider a possible common bile duct stone. Note that even in the presence of severe gallbladder disease, lab values may be normal. Amylase and lipase must also be checked to rule out pancreatitis. Often a CT (computed tomography CAT scan) scan is ordered in the emergency department as the first imaging test in the workup. Findings of cholecystitis and gallstones can often be seen in this imaging. A gallbladder ultrasound is the best test to evaluate gallbladder disease initially. A thickened gallbladder wall and gallstones are common findings with this condition. In cases of acute cholecystitis, a hepatobiliary (HIDA) scan is recommended. This scan will diagnose gallbladder function or cystic duct obstruction",
+        "topic": "Acute Cholecystitis",
+        "relevance_score": 0.4909140467643738,
+        "metadata": {
+          "file_topic": "Acute Cholecystitis",
+          "id": "Acute Cholecystitis:Acute Cholecystitis:4254",
+          "source": "data/topics/Acute Cholecystitis/Acute Cholecystitis.md",
+          "source_file": "Acute Cholecystitis.md",
+          "topic": "Acute Cholecystitis",
+          "topic_keywords": "Acute Cholecystitis"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.5719769895076752,
+    "processing_time_seconds": 3.563762664794922
+  },
+  {
+    "id": "statement_0182",
+    "statement": "In asthma-COPD overlap syndrome, patients with aspirin-exacerbated respiratory disease demonstrate dysregulated arachidonic acid metabolism through the 5-lipoxygenase pathway, leading to decreased PGE2 production and loss of control over leukotriene synthesis.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "COPD Exacerbation",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Aspirin-Exacerbated Respiratory Disease",
+    "verdict_correct": false,
+    "topic_correct": false,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Aspirin-Exacerbated Respiratory Disease\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Airway remodeling, which involves thickening of the basement membrane, deposition of collagen, and shedding of epithelial cells, can lead to irreversible changes in the airways. This process accelerates the decline in lung function, particularly in individuals with severe and early-onset asthma. In addition, remodeling contributes to the heightened bronchial sensitivity observed in asthma.\n\nAspirin-Exacerbated Respiratory Disease\n\nArachidonic acid metabolism by the enzyme 5-lipoxygenase (5-LO) leads to the generation of leukotrienes, which serve as potent bronchoconstrictors. The metabolism of arachidonic acid by the 2 cyclooxygenase (COX) isoforms\u2014COX-1 and COX-2\u2014generates prostaglandins and thromboxanes. PGD2 is a potent bronchodilator, while PGE2 suppresses the production of leukotrienes. Patients with AERD have dysregulated arachidonic acid metabolism, causing decreased production of PGE2 and loss of control of leukotriene production.\n\nOccupational-Induced Asthma",
+        "topic": "Asthma Exacerbation",
+        "relevance_score": 0.6419367790222168,
+        "metadata": {
+          "file_topic": "Pediatric Asthma",
+          "id": "Asthma Exacerbation:Pediatric Asthma:6090",
+          "source": "data/topics/Asthma Exacerbation/Pediatric Asthma.md",
+          "source_file": "Pediatric Asthma.md",
+          "topic": "Asthma Exacerbation",
+          "topic_keywords": "Pediatric Asthma"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Airway remodeling, which involves thickening of the basement membrane, deposition of collagen, and shedding of epithelial cells, can lead to irreversible changes in the airways. This process accelerates the decline in lung function, particularly in individuals with severe and early-onset asthma. In addition, remodeling contributes to the heightened bronchial sensitivity observed in asthma.\n\nAspirin-Exacerbated Respiratory Disease\n\nArachidonic acid metabolism by the enzyme 5-lipoxygenase (5-LO) leads to the generation of leukotrienes, which serve as potent bronchoconstrictors. The metabolism of arachidonic acid by the 2 cyclooxygenase (COX) isoforms\u2014COX-1 and COX-2\u2014generates prostaglandins and thromboxanes. PGD2 is a potent bronchodilator, while PGE2 suppresses the production of leukotrienes. Patients with AERD have dysregulated arachidonic acid metabolism, causing decreased production of PGE2 and loss of control of leukotriene production.\n\nOccupational-Induced Asthma",
+        "topic": "Asthma Exacerbation",
+        "relevance_score": 0.6419367790222168,
+        "metadata": {
+          "file_topic": "Status Asthmaticus",
+          "id": "Asthma Exacerbation:Status Asthmaticus:6160",
+          "source": "data/topics/Asthma Exacerbation/Status Asthmaticus.md",
+          "source_file": "Status Asthmaticus.md",
+          "topic": "Asthma Exacerbation",
+          "topic_keywords": "Status Asthmaticus"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Airway remodeling, which involves thickening of the basement membrane, deposition of collagen, and shedding of epithelial cells, can lead to irreversible changes in the airways. This process accelerates the decline in lung function, particularly in individuals with severe and early-onset asthma. In addition, remodeling contributes to the heightened bronchial sensitivity observed in asthma.\n\nAspirin-Exacerbated Respiratory Disease\n\nArachidonic acid metabolism by the enzyme 5-lipoxygenase (5-LO) leads to the generation of leukotrienes, which serve as potent bronchoconstrictors. The metabolism of arachidonic acid by the 2 cyclooxygenase (COX) isoforms\u2014COX-1 and COX-2\u2014generates prostaglandins and thromboxanes. PGD2 is a potent bronchodilator, while PGE2 suppresses the production of leukotrienes. Patients with AERD have dysregulated arachidonic acid metabolism, causing decreased production of PGE2 and loss of control of leukotriene production.\n\nOccupational-Induced Asthma",
+        "topic": "COPD Exacerbation",
+        "relevance_score": 0.6419367790222168,
+        "metadata": {
+          "file_topic": "Asthma and COPD Overlap",
+          "id": "COPD Exacerbation:Asthma and COPD Overlap:6415",
+          "source": "data/topics/COPD Exacerbation/Asthma and COPD Overlap.md",
+          "source_file": "Asthma and COPD Overlap.md",
+          "topic": "COPD Exacerbation",
+          "topic_keywords": "Asthma and COPD Overlap"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Emotional factors or stress\n\nAspirin-Exacerbated Respiratory Disease\n\nAspirin-exacerbated respiratory disease****(AERD) is a condition characterized by a combination of asthma, chronic rhinosinusitis with nasal polyposis, and NSAID intolerance. Patients with AERD present with upper and lower respiratory tract symptoms after ingesting aspirin or NSAIDs that inhibit cyclooxygenase-1 (COX-1). This condition arises from dysregulated arachidonic acid metabolism and the overproduction of leukotrienes involving the 5-lipoxygenase and cyclooxygenase pathways. AERD affects approximately 7% of adults with asthma.\n\nOccupational-Induced Asthma\n\nTwo types of occupational asthma exist based on their appearance after a latency period:\n\nOccupational asthma triggered by workplace sensitizers results from an allergic or immunological process associated with a latency period induced by both low- and high-molecular-weight agents. High-molecular-weight substances, such as flour, contain proteins and polysaccharides of plant or animal origin. Low-molecular-weight substances, like formaldehyde, form a sensitizing neoantigen when combined with a human protein.",
+        "topic": "Asthma Exacerbation",
+        "relevance_score": 0.614812970161438,
+        "metadata": {
+          "file_topic": "Pediatric Asthma",
+          "id": "Asthma Exacerbation:Pediatric Asthma:6084",
+          "source": "data/topics/Asthma Exacerbation/Pediatric Asthma.md",
+          "source_file": "Pediatric Asthma.md",
+          "topic": "Asthma Exacerbation",
+          "topic_keywords": "Pediatric Asthma"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Emotional factors or stress\n\nAspirin-Exacerbated Respiratory Disease\n\nAspirin-exacerbated respiratory disease****(AERD) is a condition characterized by a combination of asthma, chronic rhinosinusitis with nasal polyposis, and NSAID intolerance. Patients with AERD present with upper and lower respiratory tract symptoms after ingesting aspirin or NSAIDs that inhibit cyclooxygenase-1 (COX-1). This condition arises from dysregulated arachidonic acid metabolism and the overproduction of leukotrienes involving the 5-lipoxygenase and cyclooxygenase pathways. AERD affects approximately 7% of adults with asthma.\n\nOccupational-Induced Asthma\n\nTwo types of occupational asthma exist based on their appearance after a latency period:\n\nOccupational asthma triggered by workplace sensitizers results from an allergic or immunological process associated with a latency period induced by both low- and high-molecular-weight agents. High-molecular-weight substances, such as flour, contain proteins and polysaccharides of plant or animal origin. Low-molecular-weight substances, like formaldehyde, form a sensitizing neoantigen when combined with a human protein.",
+        "topic": "COPD Exacerbation",
+        "relevance_score": 0.614812970161438,
+        "metadata": {
+          "file_topic": "Asthma and COPD Overlap",
+          "id": "COPD Exacerbation:Asthma and COPD Overlap:6409",
+          "source": "data/topics/COPD Exacerbation/Asthma and COPD Overlap.md",
+          "source_file": "Asthma and COPD Overlap.md",
+          "topic": "COPD Exacerbation",
+          "topic_keywords": "Asthma and COPD Overlap"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.6310872554779052,
+    "processing_time_seconds": 3.706272840499878
+  },
+  {
+    "id": "statement_0199",
+    "statement": "Cardiac syncope carries a one-year mortality rate of 30% and is estimated to be the cause of syncope in 15% of all syncopal events, with ventricular tachycardia alone being responsible for 11% of syncopal episodes.",
+    "ground_truth_answer": true,
+    "ground_truth_topic": "Syncope",
+    "predicted_answer": false,
+    "predicted_verdict": "FALSE",
+    "predicted_topic": "Syncope",
+    "verdict_correct": false,
+    "topic_correct": true,
+    "prediction_type": "FALSE_NEGATIVE",
+    "confidence": "UNKNOWN",
+    "llm_raw_response": "{\n    \"verdict\": \"FALSE\",\n    \"topic\": \"Syncope\"\n}",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "content": "Syncope, a sudden, transient loss of consciousness and postural tone, is a phenomenon estimated to affect 30% to 40% of the population, and those numbers are likely underestimated given the high prevalence of patients with syncope who do not present to a hospital or urgent care setting. Syncope is responsible for 740,000 trips to the emergency department and a quarter of a million hospital admissions each year in the United States alone. Causes of syncope range widely, including vasovagal, neurologic, metabolic, pulmonary, volume depletion, and cardiac. While most syncopal events are innocuous, cardiac syncope is often indicative of a potentially fatal, underlying disease process, carrying a one-year mortality rate of 30%. Cardiac syncope occurs when the source of one's loss of consciousness stems from a problem in the heart that prevents it from supplying enough nutrients and oxygen to the brain. This cardiac problem may be a rhythm disturbance, a structural problem, or a structural problem that predisposes a patient to a rhythm disturbance. Cardiac syncope is estimated to be the cause of syncope in 15% of syncopal events",
+        "topic": "Syncope",
+        "relevance_score": 0.7162598669528961,
+        "metadata": {
+          "file_topic": "Syncope",
+          "id": "Syncope:Syncope:1602",
+          "source": "data/topics/Syncope/Syncope.md",
+          "source_file": "Syncope.md",
+          "topic": "Syncope",
+          "topic_keywords": "Syncope"
+        }
+      },
+      {
+        "rank": 2,
+        "content": "Topic: Syncope - Syncope\n\nsource: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-38171/ \n\nCardiac Syncope\n\nEsther M. Mizrachi; Kranthi K. Sitammagari.\n\nAuthor Information and Affiliations\n\nAuthors\n\nEsther M. Mizrachi1; Kranthi K. Sitammagari2.\n\nAffiliations\n\n1 Northwell\n\n2 Methodist Un, Campbell Un School of OM\n\nContinuing Education Activity\n\nSyncope, a sudden, transient loss of consciousness and postural tone, is a phenomenon estimated to affect 30% to 40% of the population, and those numbers are likely underestimated given the high prevalence of patients who do not present to a hospital or urgent care setting. While most syncopal events are innocuous, cardiac syncope is often indicative of a potentially fatal, underlying disease process, carrying a one-year mortality rate of 30%. Distinguishing cardiac syncope from the myriad of other syncopal etiologies can be challenging. For this reason, it is imperative for all interprofessional team members to have a general knowledge of cardiac syncope and how to recognize it. This activity reviews a patient's workup with cardiac syncope and describes the interprofessional team's role in managing this condition.\n\nObjectives:",
+        "topic": "Syncope",
+        "relevance_score": 0.5875655114650726,
+        "metadata": {
+          "file_topic": "Syncope",
+          "id": "Syncope:Syncope:1600",
+          "source": "data/topics/Syncope/Syncope.md",
+          "source_file": "Syncope.md",
+          "topic": "Syncope",
+          "topic_keywords": "Syncope"
+        }
+      },
+      {
+        "rank": 3,
+        "content": "Tension pneumothorax\n\nCardiac tamponade\n\nPulmonary embolism\n\nEpidemiology\n\nVentricular tachycardia (VT) remains a significant contributor to most sudden cardiac deaths in the U.S., at an estimated rate of approximately 300000 deaths per year. The majority of these deaths occur in adults greater than 35 years of age, with at least half attributable to ventricular arrhythmias. Estimates of its prevalence vary from 30% to 75% of out-of-hospital cardiac arrests despite recent increases in the incidence of pulseless electrical activity. However, the true incidence is unknown due to inevitable degeneration to asystole if unwitnessed. Despite the decline in coronary artery disease mortality and advancements in resuscitation services, survival from these events remains low, especially if occurring outside the hospital environment, with an associated survival rate of less than 10%.\n\nPathophysiology",
+        "topic": "Ventricular Tachycardia",
+        "relevance_score": 0.5850695073604584,
+        "metadata": {
+          "file_topic": "Pulseless Ventricular Tachycardia",
+          "id": "Ventricular Tachycardia:Pulseless Ventricular Tachycardia:6527",
+          "source": "data/topics/Ventricular Tachycardia/Pulseless Ventricular Tachycardia.md",
+          "source_file": "Pulseless Ventricular Tachycardia.md",
+          "topic": "Ventricular Tachycardia",
+          "topic_keywords": "Pulseless Ventricular Tachycardia"
+        }
+      },
+      {
+        "rank": 4,
+        "content": "Implantable cardioverter-defibrillators can be used to prevent dangerous arrhythmias from precipitating a sudden cardiac death in patients with severe heart disease or symptomatic congenital channelopathies.\n\nEnhancing Healthcare Team Outcomes\n\nThe outcomes of patients with a treatable cause of cardiac syncope are good. Patients with advanced heart failure and syncope, however, have a 45% one-year mortality. Patients with cardiac syncope are also more likely to have recurrent syncopal events with an estimated recurrence rate of 33% within 3 years. Recurrent syncope can worsen a patient's quality of life, especially if syncopal events result in broken bones, intracranial bleeds, or other traumatic injuries.",
+        "topic": "Syncope",
+        "relevance_score": 0.5846606194972992,
+        "metadata": {
+          "file_topic": "Syncope",
+          "id": "Syncope:Syncope:1632",
+          "source": "data/topics/Syncope/Syncope.md",
+          "source_file": "Syncope.md",
+          "topic": "Syncope",
+          "topic_keywords": "Syncope"
+        }
+      },
+      {
+        "rank": 5,
+        "content": "Prognosis\n\nPatients with easily treatable etiologies of cardiac syncope will generally have a good prognosis with adequate treatment. Patients with advanced heart failure and syncope, however, have a 45% one-year mortality. Patients with cardiac syncope are also more likely to have recurrent syncopal events with an estimated recurrence rate of 33% within 3 years. Recurrent syncope can worsen a patient's quality of life, especially if syncopal events result in broken bones, intracranial bleeds, or other traumatic injuries.\n\nComplications\n\nAlthough the treatment and diagnostic modalities employed in the management of cardiac syncope are largely targeted at preventing a future sudden cardiac death, syncopal events can have immediate complications. These complications include costs of hospitalizations, treatment, and lost work time, as well as physical injuries related to falling during the syncopal event.\n\nDeterrence and Patient Education",
+        "topic": "Syncope",
+        "relevance_score": 0.5585256814956665,
+        "metadata": {
+          "file_topic": "Syncope",
+          "id": "Syncope:Syncope:1630",
+          "source": "data/topics/Syncope/Syncope.md",
+          "source_file": "Syncope.md",
+          "topic": "Syncope",
+          "topic_keywords": "Syncope"
+        }
+      }
+    ],
+    "chunks_retrieved_count": 5,
+    "avg_relevance_score": 0.6064162373542785,
+    "processing_time_seconds": 3.0741958618164062
+  }
+]

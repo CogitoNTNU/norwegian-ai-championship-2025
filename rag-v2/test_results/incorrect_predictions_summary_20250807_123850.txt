@@ -1,0 +1,785 @@
+INCORRECT PREDICTIONS ANALYSIS
+==================================================
+
+1. ID: statement_0024
+   Statement: Computed tomography pulmonary angiography demonstrates superior accuracy compared to ventilation-perfusion scanning for diagnosing pulmonary embolism, particularly in patients with underlying chronic lung disease.
+   Ground Truth: False (Chest Pain (non-cardiac))
+   Predicted: False (Pulmonary Embolism)
+   Verdict Correct: True, Topic Correct: False
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Pulmonary Embolism"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Chest X-ray, Relevance: 0.609
+         Content: The advantage of a CT pulmonary angiogram over the ventilation/perfusion (V/Q) scan is that it simultaneously evaluates the lungs for pulmonary infarc...
+      2. Topic: Embolism, Relevance: 0.596
+         Content: Computed tomographic pulmonary angiography (CTPA)
+
+Multidetector computed tomographic pulmonary angiography (CTPA) is the diagnostic modality of choic...
+      3. Topic: Pulmonary Embolism, Relevance: 0.596
+         Content: Computed tomographic pulmonary angiography (CTPA)
+
+Multidetector computed tomographic pulmonary angiography (CTPA) is the diagnostic modality of choic...
+      4. Topic: Embolism, Relevance: 0.588
+         Content: 46.
+
+Anderson DR, Kahn SR, Rodger MA, Kovacs MJ, Morris T, Hirsch A, Lang E, Stiell I, Kovacs G, Dreyer J, Dennie C, Cartier Y, Barnes D, Burton E, Pl...
+      5. Topic: Pulmonary Embolism, Relevance: 0.588
+         Content: 46.
+
+Anderson DR, Kahn SR, Rodger MA, Kovacs MJ, Morris T, Hirsch A, Lang E, Stiell I, Kovacs G, Dreyer J, Dennie C, Cartier Y, Barnes D, Burton E, Pl...
+
+--------------------------------------------------
+
+2. ID: statement_0029
+   Statement: Succinylcholine can be safely used in burn patients within the first 24-48 hours after injury, but becomes contraindicated thereafter due to upregulation of acetylcholine receptors that can cause life-threatening hyperkalemia exceeding 0.5 mEq/L.
+   Ground Truth: True (Burns)
+   Predicted: False (Burns: Neuromuscular Blockade)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Burns: Neuromuscular Blockade"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Burns, Relevance: 0.738
+         Content: Neuromuscular Blockade
+
+A major concern with burn patients is the upregulation of acetylcholine receptors after a burn resulting in life-threatening h...
+      2. Topic: Burns, Relevance: 0.673
+         Content: This upregulation of acetylcholine receptors does not happen fast enough for significant hyperkalemia to develop until approximately 24 to 48 hours af...
+      3. Topic: Burns, Relevance: 0.506
+         Content: 15.
+
+Han T, Kim H, Bae J, Kim K, Martyn JA. Neuromuscular pharmacodynamics of rocuronium in patients with major burns. Anesth Analg. 2004 Aug;99(2):38...
+      4. Topic: Burns, Relevance: 0.397
+         Content: The burn shock or ebb phase occurs during the first 24 to 48 hours of a severe (or major) burn; a severe burn is defined as a collection of second- an...
+      5. Topic: Burns, Relevance: 0.391
+         Content: The hypermetabolic or flow phase of a severe burn develops 48 to 72 hours after the initial injury and is characterized by increased oxygen consumptio...
+
+--------------------------------------------------
+
+3. ID: statement_0035
+   Statement: The PECARN head trauma algorithm for children under 2 years old includes scalp hematomas (especially non-frontal), loss of consciousness for 5 seconds or more, severe mechanism of injury, abnormal parental-reported behavior, and palpable skull fracture as key criteria.
+   Ground Truth: True (Traumatic Brain Injury)
+   Predicted: False (Traumatic Brain Injury)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Traumatic Brain Injury"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Traumatic Brain Injury, Relevance: 0.691
+         Content: New Orleans Criteria
+
+Headache
+
+Vomiting (any)
+
+Age > 60 years
+
+Drug or alcohol intoxication
+
+Seizure
+
+Trauma visible above clavicles
+
+Short-term memo...
+      2. Topic: Traumatic Brain Injury, Relevance: 0.552
+         Content: . 88%) and being more specific (50.6% vs. 12.7%). Similar to the CCHR and NOC, the PECARN head injury rule has a 100% sensitivity and 100% negative pr...
+      3. Topic: Traumatic Brain Injury, Relevance: 0.519
+         Content: Loss of consciousness for 5 seconds or more
+
+Severe mechanism of injury (such as motor vehicle collision, fall from elevation greater than 3 feet, or ...
+      4. Topic: Traumatic Brain Injury, Relevance: 0.479
+         Content: 30.
+
+Janas AM, Qin F, Hamilton S, Jiang B, Baier N, Wintermark M, Threlkeld Z, Lee S. Diffuse Axonal Injury Grade on Early MRI is Associated with Wors...
+      5. Topic: Traumatic Brain Injury, Relevance: 0.460
+         Content: 34.
+
+Stiell IG, Clement CM, Rowe BH, Schull MJ, Brison R, Cass D, Eisenhauer MA, McKnight RD, Bandiera G, Holroyd B, Lee JS, Dreyer J, Worthington JR,...
+
+--------------------------------------------------
+
+4. ID: statement_0037
+   Statement: Tibetan populations demonstrate lower prevalence of high altitude pulmonary hypertension compared to South American Andean populations due to increased nitric oxide concentrations in their pulmonary endothelium.
+   Ground Truth: True (Pulmonary Hypertension)
+   Predicted: True (Hypertensive Emergency)
+   Verdict Correct: True, Topic Correct: False
+   LLM Response: {
+    "verdict": "TRUE",
+    "topic": "Hypertensive Emergency"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Hypertensive Emergency, Relevance: 0.660
+         Content: Endothelial nitrous oxide is theorized to play a role in the development of HAPH. Longstanding hypoxia is known to decrease nitrous oxide synthesis, c...
+      2. Topic: Pulmonary Hypertension, Relevance: 0.660
+         Content: Endothelial nitrous oxide is theorized to play a role in the development of HAPH. Longstanding hypoxia is known to decrease nitrous oxide synthesis, c...
+      3. Topic: Hypertensive Emergency, Relevance: 0.552
+         Content: 8.
+
+Luks AM, Levett D, Martin DS, Goss CH, Mitchell K, Fernandez BO, Feelisch M, Grocott MP, Swenson ER., Caudwell Xtreme Everest Investigators. Chang...
+      4. Topic: Pulmonary Hypertension, Relevance: 0.552
+         Content: 8.
+
+Luks AM, Levett D, Martin DS, Goss CH, Mitchell K, Fernandez BO, Feelisch M, Grocott MP, Swenson ER., Caudwell Xtreme Everest Investigators. Chang...
+      5. Topic: Pulmonary Hypertension, Relevance: 0.481
+         Content: Epidemiology
+
+While some individuals experience the spectrum of acute mountain sickness, HAPH develops mainly in those who reside at high altitudes fo...
+
+--------------------------------------------------
+
+5. ID: statement_0043
+   Statement: Postoperative complications of gallbladder empyema surgery include wound infection, bleeding, cystic duct stump leak, common bile duct injury, subhepatic abscess, acute respiratory distress syndrome, and sepsis.
+   Ground Truth: True (Empyema)
+   Predicted: False (Empyema)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Empyema"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Empyema, Relevance: 0.819
+         Content: Differential Diagnosis
+
+Cholecystitis
+
+Gallstones
+
+Biliary colic
+
+Prognosis
+
+If empyema of the gallbladder is treated promptly, the outcomes are good....
+      2. Topic: Empyema, Relevance: 0.584
+         Content: Topic: Empyema - Empyema
+
+source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-21052/ 
+
+Gallbladder Empyema
+
+Sarang Kashyap; George Mathew;...
+      3. Topic: Empyema, Relevance: 0.583
+         Content: The pharmacist should also manage the medications and ensure that polypharmacy does not occur, which can exacerbate the already compromised patient. M...
+      4. Topic: Empyema, Relevance: 0.573
+         Content: Describe the typical imaging findings associated with gallbladder empyema.
+
+Outline the management considerations for patients with gallbladder empyem...
+      5. Topic: Empyema, Relevance: 0.567
+         Content: Epidemiology
+
+Empyema of the gallbladder is estimated to occur in 5 to 15% of cases diagnosed to have acute cholecystitis. It is noted to be the more ...
+
+--------------------------------------------------
+
+6. ID: statement_0054
+   Statement: In pediatric patients with suspected necrotizing enterocolitis, persistent hyponatremia, hyperglycemia, and metabolic acidosis are indicators of necrotic bowel and sepsis that can be monitored through serial serum lactate levels.
+   Ground Truth: True (Acute Abdomen)
+   Predicted: True (Respiratory Failure)
+   Verdict Correct: True, Topic Correct: False
+   LLM Response: {
+    "verdict": "TRUE",
+    "topic": "Respiratory Failure"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Respiratory Failure, Relevance: 0.570
+         Content: Ultrasound effectively visualizes intussusception, whereas a contrast enema can diagnose and treat intussusception. An upper gastrointestinal contrast...
+      2. Topic: Acute Abdomen, Relevance: 0.570
+         Content: Ultrasound effectively visualizes intussusception, whereas a contrast enema can diagnose and treat intussusception. An upper gastrointestinal contrast...
+      3. Topic: Sepsis_Septic Shock, Relevance: 0.487
+         Content: History and Physical
+
+Signs and symptoms of neonatal sepsis can range from nonspecific or vague symptoms to hemodynamic collapse. Early symptoms may i...
+      4. Topic: Sepsis_Septic Shock, Relevance: 0.473
+         Content: Pediatric pharmacists can provide meaningful input and recommendations about monitoring trough levels to avoid toxic antibiotic levels
+
+Deterrence and...
+      5. Topic: Sepsis_Septic Shock, Relevance: 0.470
+         Content: Patients should be placed on continuous cardiopulmonary monitoring to allow close observation of vital signs. A thorough assessment of end-organ funct...
+
+--------------------------------------------------
+
+7. ID: statement_0069
+   Statement: Abdominal aortic aneurysms are defined as permanent localized dilatations that enlarge by at least 150% compared to the normal diameter of adjacent artery, with the infrarenal aorta having fewer collagen lamellar units than the thoracic aorta, contributing to increased aneurysmal formation in this location.
+   Ground Truth: True (Ruptured AAA)
+   Predicted: False (Ruptured AAA)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Ruptured AAA"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Ruptured AAA, Relevance: 0.738
+         Content: Collaborate and communicate with all members of the interprofessional team to improve outcomes and treatment efficacy for patients diagnosed with an a...
+      2. Topic: Ruptured AAA, Relevance: 0.624
+         Content: Most of these aneurysms are located below the origin of the renal arteries and may be classified as saccular (localized) or fusiform (circumferential)...
+      3. Topic: Ruptured AAA, Relevance: 0.619
+         Content: Topic: Ruptured AAA - Abdominal Aortic Aneurysm Rupture
+
+source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-17011/ 
+
+Abdominal Aortic Ane...
+      4. Topic: Ruptured AAA, Relevance: 0.591
+         Content: Enhancing Healthcare Team Outcomes
+
+Infrarenal abdominal aortic aneurysms are the most common aneurysms of the aorta. Screening ultrasound has helped ...
+      5. Topic: Ruptured AAA, Relevance: 0.582
+         Content: History and Physical
+
+Most abdominal aortic aneurysms are incidentally identified during examinations for other unrelated pathologies, and most indivi...
+
+--------------------------------------------------
+
+8. ID: statement_0074
+   Statement: In hypertensive emergency, the goal is to lower mean arterial pressure by 20% to 25% within the first 1 to 2 hours, except in cases of aortic dissection where blood pressure should be lowered to below 140 mmHg in the first hour.
+   Ground Truth: True (Hypertensive Emergency)
+   Predicted: False (Hypertensive Emergency)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Hypertensive Emergency"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Hypertensive Emergency, Relevance: 0.771
+         Content: Current Guidelines
+
+Patients with a hypertensive emergency need admission with continuous blood pressure monitoring.
+
+Assess for target organ injury a...
+      2. Topic: Aortic Dissection, Relevance: 0.545
+         Content: If beta blockers are contraindicated (eg, in patients with severe asthma or bronchospastic disease), nondihydropyridine calcium channel blockers like ...
+      3. Topic: Hypertensive Emergency, Relevance: 0.543
+         Content: Access free multiple choice questions on this topic.
+
+Introduction
+
+A hypertensive emergency is an acute, marked elevation in blood pressure that is a...
+      4. Topic: Aortic Dissection, Relevance: 0.527
+         Content: Initial Stabilization and Medical Management
+
+Once the diagnosis of acute aortic dissection is confirmed or highly suspected, a multidisciplinary team...
+      5. Topic: Hypertensive Emergency, Relevance: 0.521
+         Content: Treatment / Management
+
+While the specific target organ that is affected may dictate some specifics of treatment, rapid lowering of blood pressure is ...
+
+--------------------------------------------------
+
+9. ID: statement_0077
+   Statement: LDH-1 isozyme contains four heart subunits (4H) and demonstrates higher affinity towards lactate, preferentially converting lactate to pyruvate and NAD+ to NADH, while LDHA subunit has a net charge of -6 and exhibits higher affinity towards pyruvate.
+   Ground Truth: True (Lactate)
+   Predicted: False (Lactate)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Lactate"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Lactate, Relevance: 0.685
+         Content: The two different subunits of LDH (the M subunit and H subunit of LDH) both maintain the same active site structure and amino acids that participate i...
+      2. Topic: Lactate, Relevance: 0.670
+         Content: LDH is a cytoplasmic enzyme that is present in almost all tissues but at high concentrations in muscle, liver, and kidney. Red blood cells also contai...
+      3. Topic: Lactate, Relevance: 0.616
+         Content: Besides testing the concentration of LDH in samples, LDH isozyme testing also helps to assess the type, location, and severity of tissue damage. LDH i...
+      4. Topic: Lactate, Relevance: 0.567
+         Content: Molecular Level
+
+The genes that encode LDH are LDHA , LDHB , LDHC, and LDHD. LDHA, LDHB, and LDHC encode for L-isomers of the enzyme, whereas LDHD enc...
+      5. Topic: Lactate, Relevance: 0.564
+         Content: The subunit composition of the LDH enzyme (H and M subunits) varies among tissues (mentioned previously in the 'cellular' section). This variation is ...
+
+--------------------------------------------------
+
+10. ID: statement_0092
+   Statement: The presence of chills and rigors in a febrile patient serves as a clinical indicator that suggests progression from simple fever to bacteremia, even though these signs are not required for the diagnosis.
+   Ground Truth: False (Blood Cultures)
+   Predicted: True (Blood Cultures)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "TRUE",
+    "topic": "Blood Cultures"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Blood Cultures, Relevance: 0.436
+         Content: History and Physical
+
+The classical presentation in a bacteremic patient is the presence of a fever. Chills and/or rigors do not need to present; howe...
+      2. Topic: Bronchitis, Relevance: 0.356
+         Content: Pneumonia should be considered a potential diagnosis when detecting rales or egophony. Mild tachycardia may accompany these findings, indicating fever...
+      3. Topic: Bronchitis, Relevance: 0.356
+         Content: Pneumonia should be considered a potential diagnosis when detecting rales or egophony. Mild tachycardia may accompany these findings, indicating fever...
+      4. Topic: Seizures_Status Epilepticus, Relevance: 0.349
+         Content: Simple febrile seizures usually have a single episode of generalized tonic-clonic movements, often involving facial and respiratory muscles, lasting l...
+      5. Topic: Blood Cultures, Relevance: 0.347
+         Content: Topic: Blood Cultures - Bacteremia
+
+source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-18093/ 
+
+Bacteremia
+
+David A. Smith; Sara M. Nehri...
+
+--------------------------------------------------
+
+11. ID: statement_0100
+   Statement: Each hemithorax can accommodate up to 40% of a patient's circulating blood volume, and bleeding from intercostal vessels frequently requires invasive management due to the significant hemorrhage potential.
+   Ground Truth: True (Hemothorax)
+   Predicted: False (Cardiac Catheterization)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Cardiac Catheterization"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Cardiac Catheterization, Relevance: 0.350
+         Content: . Most patients are managed with a reversal of anticoagulation, application of manual compression and volume resuscitation, and observation. Patients ...
+      2. Topic: GI Bleeding, Relevance: 0.318
+         Content: Setting
+
+ICU
+
+Patients with hemodynamic instability, continuous bleeding, or those with a significant risk of morbidity/mortality should undergo monit...
+      3. Topic: GI Bleeding, Relevance: 0.318
+         Content: Setting
+
+ICU
+
+Patients with hemodynamic instability, continuous bleeding, or those with a significant risk of morbidity/mortality should undergo monit...
+      4. Topic: Coagulation Studies (PT_PTT_INR), Relevance: 0.303
+         Content: . Excessive coagulation may lead to widespread purpura, petechiae, and cyanosis. A patient in DIC may also experience acute respiratory failure or neu...
+      5. Topic: Coagulation Studies (PT_PTT_INR), Relevance: 0.282
+         Content: Treatment / Management
+
+The treatment for DIC centers on addressing the underlying disorder that ultimately led to this condition. Consequently, thera...
+
+--------------------------------------------------
+
+12. ID: statement_0107
+   Statement: The bacterial meningitis score demonstrates a sensitivity of 99-100% and specificity of 52-62% for distinguishing bacterial from aseptic meningitis, making it superior to procalcitonin and CSF lactate levels as a diagnostic tool.
+   Ground Truth: False (Meningitis)
+   Predicted: True (Meningitis)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "TRUE",
+    "topic": "Meningitis"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Meningitis, Relevance: 0.700
+         Content: Drug-induced aseptic meningitis, in particular, can often present with few laboratory abnormalities. Therefore, clinicians must maintain a high level ...
+      2. Topic: Meningitis, Relevance: 0.533
+         Content: Evaluation
+
+Patients presumed to have bacterial meningitis should receive a lumbar puncture to obtain a cerebrospinal fluid (CSF) sample. The CSF shou...
+      3. Topic: Meningitis, Relevance: 0.481
+         Content: Typical CSF findings in patients with aseptic meningitis include an opening pressure that is either normal (\<180 mmH2O) or slightly elevated. Glucose...
+      4. Topic: Meningitis, Relevance: 0.476
+         Content: 9.
+
+Castelblanco RL, Lee M, Hasbun R. Epidemiology of bacterial meningitis in the USA from 1997 to 2010: a population-based observational study. Lance...
+      5. Topic: Meningitis, Relevance: 0.468
+         Content: This activity explores the diverse etiologies of aseptic meningitis, the broad spectrum of clinical presentations associated with aseptic meningitis, ...
+
+--------------------------------------------------
+
+13. ID: statement_0108
+   Statement: Atrial fibrillation classified as long-standing persistent requires continuous duration of at least 2 years despite cardioversion attempts before being designated as permanent atrial fibrillation.
+   Ground Truth: False (Arrhythmias (various))
+   Predicted: False (Atrial Fibrillation)
+   Verdict Correct: True, Topic Correct: False
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Atrial Fibrillation"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Atrial Fibrillation, Relevance: 0.579
+         Content: Persistent AF is when the AF is continuous and lasts for more than 7 days, and fails to terminate spontaneously.
+
+Long-standing AF is when the continu...
+      2. Topic: Atrial Fibrillation, Relevance: 0.579
+         Content: Persistent AF is when the AF is continuous and lasts for more than 7 days, and fails to terminate spontaneously.
+
+Long-standing AF is when the continu...
+      3. Topic: Arrhythmias (various), Relevance: 0.542
+         Content: New-onset
+
+Paroxysmal: Self-terminating or intermittent
+
+Persistent: Fails to self-terminate within 7 days and requires treatments (medical or electri...
+      4. Topic: Atrial Fibrillation, Relevance: 0.515
+         Content: Paroxysmal AF (atrial fibrillation): If recurrent AF reverts spontaneously, it is called paroxysmal AF. Here, the episodes terminate spontaneously wit...
+      5. Topic: Atrial Fibrillation, Relevance: 0.515
+         Content: Paroxysmal AF (atrial fibrillation): If recurrent AF reverts spontaneously, it is called paroxysmal AF. Here, the episodes terminate spontaneously wit...
+
+--------------------------------------------------
+
+14. ID: statement_0111
+   Statement: High altitude pulmonary hypertension affects approximately 60-70% of individuals living permanently above 2500 meters, with equal prevalence between men and women.
+   Ground Truth: False (Hypertensive Emergency)
+   Predicted: False (Pulmonary Hypertension)
+   Verdict Correct: True, Topic Correct: False
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Pulmonary Hypertension"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Hypertensive Emergency, Relevance: 0.582
+         Content: Epidemiology
+
+While some individuals experience the spectrum of acute mountain sickness, HAPH develops mainly in those who reside at high altitudes fo...
+      2. Topic: Pulmonary Hypertension, Relevance: 0.582
+         Content: Epidemiology
+
+While some individuals experience the spectrum of acute mountain sickness, HAPH develops mainly in those who reside at high altitudes fo...
+      3. Topic: Hypertensive Emergency, Relevance: 0.525
+         Content: Access free multiple choice questions on this topic.
+
+Introduction
+
+Mountainous regions are a destination for adventure travel, seasonal work, and per...
+      4. Topic: Pulmonary Hypertension, Relevance: 0.525
+         Content: Access free multiple choice questions on this topic.
+
+Introduction
+
+Mountainous regions are a destination for adventure travel, seasonal work, and per...
+      5. Topic: Pulmonary Hypertension, Relevance: 0.496
+         Content: High altitude pulmonary edema is a progression of acute mountain sickness and presents with acute pulmonary, a complication of the body's poor acclima...
+
+--------------------------------------------------
+
+15. ID: statement_0113
+   Statement: High altitude pulmonary hypertension (HAPH) is diagnosed when mean pulmonary artery pressure exceeds 30 mmHg or systolic PAP exceeds 50 mmHg in individuals residing above 2500 meters elevation.
+   Ground Truth: True (Hypertensive Emergency)
+   Predicted: False (Pulmonary Hypertension)
+   Verdict Correct: False, Topic Correct: False
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Pulmonary Hypertension"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Hypertensive Emergency, Relevance: 0.743
+         Content: 2 Aventura Hospital and Medical Center
+
+Continuing Education Activity
+
+This activity describes the development of pulmonary hypertension due to high a...
+      2. Topic: Pulmonary Hypertension, Relevance: 0.743
+         Content: 2 Aventura Hospital and Medical Center
+
+Continuing Education Activity
+
+This activity describes the development of pulmonary hypertension due to high a...
+      3. Topic: Hypertensive Emergency, Relevance: 0.667
+         Content: Enhancing Healthcare Team Outcomes
+
+HAPH is a life-threatening condition. Optimal patient outcomes are achieved through early recognition and treatmen...
+      4. Topic: Pulmonary Hypertension, Relevance: 0.667
+         Content: Enhancing Healthcare Team Outcomes
+
+HAPH is a life-threatening condition. Optimal patient outcomes are achieved through early recognition and treatmen...
+      5. Topic: Pulmonary Hypertension, Relevance: 0.630
+         Content: Right-sided heart catheterization and pulmonary angiography are the most important diagnostic tools for establishing a definitive diagnosis. A mean pu...
+
+--------------------------------------------------
+
+16. ID: statement_0114
+   Statement: The classic presentation of acute cholangitis includes Charcot's triad of right upper quadrant pain, fever, and jaundice, which occurs when a stone occludes the biliary or hepatic ducts leading to dilation and bacterial superinfection.
+   Ground Truth: True (Acute Abdomen)
+   Predicted: True (Respiratory Failure)
+   Verdict Correct: True, Topic Correct: False
+   LLM Response: {
+    "verdict": "TRUE",
+    "topic": "Respiratory Failure"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Respiratory Failure, Relevance: 0.739
+         Content: Acute cholangitis:**** Acute cholangitis occurs when a stone occludes the biliary or hepatic ducts and presents with vague right upper quadrant pain, ...
+      2. Topic: Acute Abdomen, Relevance: 0.739
+         Content: Acute cholangitis:**** Acute cholangitis occurs when a stone occludes the biliary or hepatic ducts and presents with vague right upper quadrant pain, ...
+      3. Topic: Acute Cholecystitis, Relevance: 0.443
+         Content: History and Physical
+
+Acute acalculous cholecystitis may present similarly to calculous cholecystitis. Patients typically present with right upper qua...
+      4. Topic: Respiratory Failure, Relevance: 0.435
+         Content: Epigastric pain
+
+Myocardial infarction
+
+Acute and chronic pancreatitis
+
+Peptic ulcer disease
+
+Gastroesophageal reflux disease
+
+Gastritis
+
+Gastroparesi...
+      5. Topic: Acute Abdomen, Relevance: 0.435
+         Content: Epigastric pain
+
+Myocardial infarction
+
+Acute and chronic pancreatitis
+
+Peptic ulcer disease
+
+Gastroesophageal reflux disease
+
+Gastritis
+
+Gastroparesi...
+
+--------------------------------------------------
+
+17. ID: statement_0123
+   Statement: During thoracentesis, fluid extraction should be limited to no more than 1500 mL per session to prevent reexpansion pulmonary edema, and bedside ultrasound reduces pneumothorax risk while improving success rates.
+   Ground Truth: True (Pleural Effusion)
+   Predicted: False (Pleural Effusion)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Pleural Effusion"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Pleural Effusion, Relevance: 0.582
+         Content: Thoracentesis is a diagnostic and therapeutic procedure. Current recommendations when performing a thoracentesis include the following:
+
+Bedside ultra...
+      2. Topic: Pleural Effusion, Relevance: 0.468
+         Content: All initial effusion occurrences warrant a thoracentesis to ascertain the underlying etiology of the condition, except in instances where heart failur...
+      3. Topic: Pneumothorax, Relevance: 0.428
+         Content: Air Drainage Techniques
+
+Air drainage techniques are essential in managing pneumothorax. These techniques help remove air from the pleural space, faci...
+      4. Topic: Pneumothorax, Relevance: 0.427
+         Content: 49.
+
+Chen JS, Hsu HH, Huang PM, Kuo SW, Lin MW, Chang CC, Lee JM. Thoracoscopic pleurodesis for primary spontaneous pneumothorax with high recurrence ...
+      5. Topic: Hemothorax, Relevance: 0.422
+         Content: Minimal collection of blood (defined as less than 300 ml) in the pleural cavity generally requires no treatment; blood usually reabsorbs throughout th...
+
+--------------------------------------------------
+
+18. ID: statement_0126
+   Statement: The World Society of Abdominal Compartment Syndrome defines intra-abdominal hypertension grades as: Grade I (12-15 mmHg), Grade II (16-20 mmHg), Grade III (21-25 mmHg), and Grade IV (>25 mmHg).
+   Ground Truth: True (Compartment Syndrome)
+   Predicted: False (Compartment Syndrome)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Compartment Syndrome"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Compartment Syndrome, Relevance: 0.640
+         Content: The World Society of Abdominal Compartment Syndrome (WSACS) was created in 2004. This society standardized the definitions and guidelines for evaluati...
+      2. Topic: Hyperventilation Syndrome, Relevance: 0.640
+         Content: The World Society of Abdominal Compartment Syndrome (WSACS) was created in 2004. This society standardized the definitions and guidelines for evaluati...
+      3. Topic: Compartment Syndrome, Relevance: 0.556
+         Content: Grade II: IAP 16-20 mm Hg
+
+Grade III: IAP 21-25 mm Hg
+
+Grade IV: IAP >25 mm Hg
+
+Intra-abdominal hypertension in the presence of organ dysfunction rais...
+      4. Topic: Hyperventilation Syndrome, Relevance: 0.556
+         Content: Grade II: IAP 16-20 mm Hg
+
+Grade III: IAP 21-25 mm Hg
+
+Grade IV: IAP >25 mm Hg
+
+Intra-abdominal hypertension in the presence of organ dysfunction rais...
+      5. Topic: Hyperventilation Syndrome, Relevance: 0.534
+         Content: 5.
+
+Kirkpatrick AW, Roberts DJ, De Waele J, Jaeschke R, Malbrain ML, De Keulenaer B, Duchesne J, Bjorck M, Leppaniemi A, Ejike JC, Sugrue M, Cheatham ...
+
+--------------------------------------------------
+
+19. ID: statement_0131
+   Statement: For secondary spontaneous pneumothorax management, if the pneumothorax depth is between 1-2 cm, needle aspiration should be performed first, and if the residual depth after aspiration remains greater than 2 cm, tube thoracostomy is indicated.
+   Ground Truth: False (Pneumothorax)
+   Predicted: True (Pneumothorax)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "TRUE",
+    "topic": "Pneumothorax"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Pneumothorax, Relevance: 0.807
+         Content: In an asymptomatic small primary spontaneous pneumothorax (depth less than 2cm), the patient is usually discharged with follow-up in outpatient after ...
+      2. Topic: Pneumothorax, Relevance: 0.807
+         Content: In an asymptomatic small primary spontaneous pneumothorax (depth less than 2cm), the patient is usually discharged with follow-up in outpatient after ...
+      3. Topic: Pneumothorax, Relevance: 0.700
+         Content: For secondary secondary spontaneous pneumothorax, observation or needle aspiration is typically insufficient. These cases require hospital admission a...
+      4. Topic: Pneumothorax, Relevance: 0.665
+         Content: Symptomatic Patients
+
+For symptomatic patients with stable vital signs, initial management may include needle aspiration or small-bore catheter insert...
+      5. Topic: Pneumothorax, Relevance: 0.629
+         Content: Treatment / Management
+
+Management depends on the clinical scenario.
+
+For patients with associated symptoms and showing signs of instability, needle d...
+
+--------------------------------------------------
+
+20. ID: statement_0139
+   Statement: Video-assisted thoracoscopic surgery (VATS) with mechanical pleurodesis and bleb/bullectomy reduces the recurrence rate of pneumothorax to less than 5%, and this surgical intervention is indicated for patients with bilateral pneumothoraces, continuous air leak for longer than seven days, or first episodes in high-risk profession patients such as divers and pilots.
+   Ground Truth: True (Pneumothorax)
+   Predicted: False (Pneumothorax)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Pneumothorax"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Pneumothorax, Relevance: 0.561
+         Content: 49.
+
+Chen JS, Hsu HH, Huang PM, Kuo SW, Lin MW, Chang CC, Lee JM. Thoracoscopic pleurodesis for primary spontaneous pneumothorax with high recurrence ...
+      2. Topic: Pneumothorax, Relevance: 0.539
+         Content: Air can reabsorb from the pleural space at a rate of 1.5%/day. Using supplemental oxygen can increase this reabsorption rate. By increasing the fracti...
+      3. Topic: Pneumothorax, Relevance: 0.539
+         Content: Air can reabsorb from the pleural space at a rate of 1.5%/day. Using supplemental oxygen can increase this reabsorption rate. By increasing the fracti...
+      4. Topic: Pneumothorax, Relevance: 0.536
+         Content: An untreated pneumothorax is a contraindication for flying or scuba diving. If air transport is required, a thoracostomy tube should be placed before ...
+      5. Topic: Pneumothorax, Relevance: 0.536
+         Content: An untreated pneumothorax is a contraindication for flying or scuba diving. If air transport is required, a thoracostomy tube should be placed before ...
+
+--------------------------------------------------
+
+21. ID: statement_0158
+   Statement: In adult diabetic ketoacidosis, the ketone body ratio of 3-beta-hydroxybutyrate to acetoacetate rises from normal levels of 1:1 to as high as 10:1, and the nitroprusside test used for ketone detection only measures acetoacetate and acetone, potentially leading to false-negative results in early DKA.
+   Ground Truth: True (Diabetic Ketoacidosis)
+   Predicted: False (Diabetic Ketoacidosis)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Diabetic Ketoacidosis"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Diabetic Ketoacidosis, Relevance: 0.841
+         Content: In acute DKA, the ketone body ratio (3-beta-hydroxybutyrate:acetoacetate) rises from normal (1:1) to as high as 10:1. In response to insulin therapy, ...
+      2. Topic: Diabetic Ketoacidosis, Relevance: 0.731
+         Content: The initial laboratory evaluation of a patient with suspected DKA includes blood levels of glucose, ketones, blood urea nitrogen, creatinine, electrol...
+      3. Topic: Diabetic Ketoacidosis, Relevance: 0.632
+         Content: Evaluation
+
+An ill-feeling patient with diabetes with symptoms such as malaise, dyspnea, nausea, or vomiting should undergo screening with serum pH an...
+      4. Topic: Diabetic Ketoacidosis, Relevance: 0.562
+         Content: Access free multiple choice questions on this topic.
+
+Introduction
+
+Ketoacidosis is a metabolic state associated with pathologically high serum and ur...
+      5. Topic: Diabetic Ketoacidosis, Relevance: 0.541
+         Content: Evaluation
+
+Commonly accepted criteria for diabetic ketoacidosis are blood glucose greater than 250 mg/dl, arterial pH less than 7.3, serum bicarbonat...
+
+--------------------------------------------------
+
+22. ID: statement_0164
+   Statement: In acalculous cholecystitis, a HIDA scan with cholecystokinin stimulation showing an ejection fraction of ≤35% is considered diagnostic, and percutaneous cholecystostomy tubes can typically be removed after 3 weeks without requiring patency confirmation.
+   Ground Truth: True (Acute Cholecystitis)
+   Predicted: False (Acute Cholecystitis)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Acute Cholecystitis"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Acute Cholecystitis, Relevance: 0.640
+         Content: Percutaneous Cholecystostomy Tube and Stent Placement
+
+In those patients who are too unstable to undergo surgery, clinicians should consider intervent...
+      2. Topic: Acute Cholecystitis, Relevance: 0.639
+         Content: Ultrasound Imaging
+
+Ultrasound is usually the initial image obtained, as this can be completed at the bedside in a timely fashion and is cost-effectiv...
+      3. Topic: Acute Cholecystitis, Relevance: 0.568
+         Content: . This scan will diagnose gallbladder function or cystic duct obstruction. The addition of cholecystokinin (CCK) in cases of no gallstones may also di...
+      4. Topic: Acute Cholecystitis, Relevance: 0.522
+         Content: 23.
+
+Woodward SG, Rios-Diaz AJ, Zheng R, McPartland C, Tholey R, Tatarian T, Palazzo F. Finding the Most Favorable Timing for Cholecystectomy after Pe...
+      5. Topic: Acute Cholecystitis, Relevance: 0.491
+         Content: A physical exam with a comprehensive history is paramount in making the diagnosis of cholecystitis. A complete blood count (CBC) and a comprehensive m...
+
+--------------------------------------------------
+
+23. ID: statement_0182
+   Statement: In asthma-COPD overlap syndrome, patients with aspirin-exacerbated respiratory disease demonstrate dysregulated arachidonic acid metabolism through the 5-lipoxygenase pathway, leading to decreased PGE2 production and loss of control over leukotriene synthesis.
+   Ground Truth: True (COPD Exacerbation)
+   Predicted: False (Aspirin-Exacerbated Respiratory Disease)
+   Verdict Correct: False, Topic Correct: False
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Aspirin-Exacerbated Respiratory Disease"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Asthma Exacerbation, Relevance: 0.642
+         Content: Airway remodeling, which involves thickening of the basement membrane, deposition of collagen, and shedding of epithelial cells, can lead to irreversi...
+      2. Topic: Asthma Exacerbation, Relevance: 0.642
+         Content: Airway remodeling, which involves thickening of the basement membrane, deposition of collagen, and shedding of epithelial cells, can lead to irreversi...
+      3. Topic: COPD Exacerbation, Relevance: 0.642
+         Content: Airway remodeling, which involves thickening of the basement membrane, deposition of collagen, and shedding of epithelial cells, can lead to irreversi...
+      4. Topic: Asthma Exacerbation, Relevance: 0.615
+         Content: Emotional factors or stress
+
+Aspirin-Exacerbated Respiratory Disease
+
+Aspirin-exacerbated respiratory disease****(AERD) is a condition characterized b...
+      5. Topic: COPD Exacerbation, Relevance: 0.615
+         Content: Emotional factors or stress
+
+Aspirin-Exacerbated Respiratory Disease
+
+Aspirin-exacerbated respiratory disease****(AERD) is a condition characterized b...
+
+--------------------------------------------------
+
+24. ID: statement_0199
+   Statement: Cardiac syncope carries a one-year mortality rate of 30% and is estimated to be the cause of syncope in 15% of all syncopal events, with ventricular tachycardia alone being responsible for 11% of syncopal episodes.
+   Ground Truth: True (Syncope)
+   Predicted: False (Syncope)
+   Verdict Correct: False, Topic Correct: True
+   LLM Response: {
+    "verdict": "FALSE",
+    "topic": "Syncope"
+}...
+   Retrieved Chunks (5):
+      1. Topic: Syncope, Relevance: 0.716
+         Content: Syncope, a sudden, transient loss of consciousness and postural tone, is a phenomenon estimated to affect 30% to 40% of the population, and those numb...
+      2. Topic: Syncope, Relevance: 0.588
+         Content: Topic: Syncope - Syncope
+
+source: https://www.ncbi.nlm.nih.gov/books/n/statpearls/article-38171/ 
+
+Cardiac Syncope
+
+Esther M. Mizrachi; Kranthi K. Sit...
+      3. Topic: Ventricular Tachycardia, Relevance: 0.585
+         Content: Tension pneumothorax
+
+Cardiac tamponade
+
+Pulmonary embolism
+
+Epidemiology
+
+Ventricular tachycardia (VT) remains a significant contributor to most sudd...
+      4. Topic: Syncope, Relevance: 0.585
+         Content: Implantable cardioverter-defibrillators can be used to prevent dangerous arrhythmias from precipitating a sudden cardiac death in patients with severe...
+      5. Topic: Syncope, Relevance: 0.559
+         Content: Prognosis
+
+Patients with easily treatable etiologies of cardiac syncope will generally have a good prognosis with adequate treatment. Patients with ad...
+
+--------------------------------------------------
+

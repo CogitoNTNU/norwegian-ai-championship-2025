@@ -1,4 +1,4 @@
 chroma_path: "chroma"
-chunk_size: 1200
+chunk_size: 800
 chunk_overlap: 80
 embedding_model: "mxbai-embed-large"
