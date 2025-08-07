@@ -5,9 +5,8 @@ chunk_overlap: 80
 reset_db: false
 
 k: 5
-model_names: 
+model_names:
   - "cogito:32b"
-  - "qwen3-coder:30b"
   - "magistral:24b"
 plot_results: true
 save_results: true
