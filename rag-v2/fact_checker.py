@@ -23,6 +23,7 @@ CRITICAL RULES:
 6. Consider a statement UNSURE if the context is insufficient to determine truth or falsehood
 7. For the topic field: You MUST identify the topic from the SPECIFIC context chunk that contains the evidence you used to make your verdict. Look at the "[Topic: X]" label in the context chunk where you found the supporting or contradicting information. Do NOT guess or choose what seems most intuitive - use the exact topic label from the evidence source.
 8. Always give a topic as an answer no matter what
+9. Choose the topic from the chunk which falsifies or confirms the statement
 
 Context chunks with their topics:
 {context}
