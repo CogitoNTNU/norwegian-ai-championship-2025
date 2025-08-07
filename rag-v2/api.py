@@ -52,7 +52,7 @@ def predict_endpoint(request: MedicalStatementRequestDto):
     logger.info(f"Received statement: {request.statement[:100]}...")
 
     # Call the fact checker
-    result = check_fact(request.statement)
+    result = check_fact(request.statement, "Cogito:32b")
 
     # Map verdict to binary (UNSURE is already mapped to TRUE in check_fact)
     if result["verdict"].upper() == "TRUE":
