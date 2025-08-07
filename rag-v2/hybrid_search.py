@@ -165,12 +165,13 @@ class HybridSearcher:
 
         # Search
         scores, indices = self.bm25_index.retrieve(
-            query_tokens, k=min(k, len(self.documents))
+            [query_tokens], k=min(k, len(self.documents))
         )
 
         # Prepare results
         results = []
         for score, idx in zip(scores[0], indices[0]):  # bm25s returns nested arrays
+            idx = int(idx)
             if idx < len(self.documents):
                 results.append(
                     (self.documents[idx], self.doc_metadata[idx], float(score))
