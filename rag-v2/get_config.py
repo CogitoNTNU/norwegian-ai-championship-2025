@@ -12,6 +12,10 @@ class Config:
     k: int
     model_names: List[str]
     
+    # Hybrid search settings
+    bm25_weight: float
+    use_hybrid_search: bool
+    
     # Processing settings
     plot_results: bool
     save_results: bool

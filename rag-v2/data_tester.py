@@ -15,6 +15,7 @@ from fact_checker import check_fact, format_context_with_topics
 from get_config import config
 from langchain_chroma import Chroma
 from embeddings import get_embeddings_func
+from hybrid_search import hybrid_similarity_search_with_score
 
 
 class DatasetTester:
@@ -220,14 +221,18 @@ class DatasetTester:
         Returns:
             Dictionary with context chunks and formatted context
         """
-        # Initialize database (same as in check_fact)
-        db = Chroma(
-            persist_directory=config.chroma_path,
-            embedding_function=get_embeddings_func(),
-        )
-
-        # Retrieve relevant chunks (same as in check_fact)
-        results = db.similarity_search_with_score(statement, k=config.k)
+        # Use hybrid or vector search based on configuration (same as in check_fact)
+        if config.use_hybrid_search:
+            results = hybrid_similarity_search_with_score(statement, k=config.k, bm25_weight=config.bm25_weight)
+        else:
+            # Fall back to pure vector search
+            db = Chroma(
+                persist_directory=config.chroma_path,
+                embedding_function=get_embeddings_func(),
+            )
+            chroma_results = db.similarity_search_with_score(statement, k=config.k)
+            # Convert to hybrid search format for consistency
+            results = [(doc, 1-score) for doc, score in chroma_results]
 
         if not results:
             return {
@@ -249,11 +254,12 @@ class DatasetTester:
                 "chunk_index": i,
                 "content": doc.page_content,
                 "metadata": doc.metadata,
-                "similarity_score": float(1 - score),  # Convert distance to similarity
+                "relevance_score": float(score),  # Relevance score (higher = better)
+                "search_method": "hybrid" if config.use_hybrid_search else "vector",
                 "topic": doc.metadata.get("topic", "unknown"),
             }
             raw_chunks.append(chunk_info)
-            chunk_scores.append(float(1 - score))
+            chunk_scores.append(float(score))
 
         return {
             "chunks_retrieved": len(results),

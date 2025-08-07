@@ -5,6 +5,9 @@ chunk_overlap: 80
 reset_db: false
 
 k: 5
+# Hybrid search settings
+bm25_weight: 0.3  # Weight for BM25 scores (0.0-1.0), vector search gets (1-bm25_weight)
+use_hybrid_search: true  # Enable/disable hybrid search
 model_names:
   #- "magistral:24b"
   - "cogito:32b"

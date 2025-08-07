@@ -10,6 +10,7 @@ from loguru import logger
 
 from embeddings import get_embeddings_func
 from get_config import config
+from hybrid_search import hybrid_similarity_search_with_score
 
 # Load topic mapping for validation
 def load_topic_mapping():
@@ -80,13 +81,17 @@ def check_fact(statement: str, model_name: str = None) -> Dict:
     Returns:
         Dictionary with verdict, topic, evidence, and confidence
     """
-    # Initialize database
-    db = Chroma(
-        persist_directory=config.chroma_path, embedding_function=get_embeddings_func()
-    )
-
-    # Retrieve relevant chunks
-    results = db.similarity_search_with_score(statement, k=config.k)
+    # Use hybrid or vector search based on configuration
+    if config.use_hybrid_search:
+        results = hybrid_similarity_search_with_score(statement, k=config.k, bm25_weight=config.bm25_weight)
+    else:
+        # Fall back to pure vector search
+        db = Chroma(
+            persist_directory=config.chroma_path, embedding_function=get_embeddings_func()
+        )
+        chroma_results = db.similarity_search_with_score(statement, k=config.k)
+        # Convert to hybrid search format for consistency
+        results = [(doc, 1-score) for doc, score in chroma_results]
 
     if not results:
         return {"verdict": "UNVERIFIABLE", "topic": "unknown", "chunks_retrieved": 0}
@@ -149,9 +154,9 @@ def check_fact(statement: str, model_name: str = None) -> Dict:
 
         # Add additional metadata
         result["chunks_retrieved"] = len(results)
-        result["avg_relevance_score"] = sum(1 - score for _, score in results) / len(
+        result["avg_relevance_score"] = sum(score for _, score in results) / len(
             results
-        )
+        ) if results else 0
         return result
 
     except json.JSONDecodeError as e:
