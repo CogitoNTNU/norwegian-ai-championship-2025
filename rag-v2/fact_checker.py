@@ -40,7 +40,7 @@ CRITICAL RULES:
 7. For the topic field: You MUST identify the topic from the SPECIFIC context chunk that contains the evidence you used to make your verdict. Look at the "[Topic: X]" label in the context chunk where you found the supporting or contradicting information. Do NOT guess or choose what seems most intuitive - use the exact topic label from the evidence source.
 8. Always give a topic as an answer no matter what
 9. Choose the topic from the chunk which falsifies or confirms the statement
-10. Training examples may be provided as "[Statement: TRUE/FALSE | Topic: X]" - use these as reference patterns but base your decision on medical evidence
+10. Training examples may be provided as "[Statement: TRUE/FALSE | Topic: X]" - use these as reference patterns
 
 Context chunks with their topics (may include training examples):
 {context}
@@ -51,9 +51,7 @@ Respond in this EXACT JSON format only:
 {{
     "verdict": "TRUE/FALSE/UNSURE",
     "topic": "exact topic name from the context chunk that provided the evidence",
-}}
-
-Remember: Use ONLY the provided context. The topic must come from the specific context chunk that contains your evidence, not from general medical knowledge or intuition."""
+}}"""
 
 
 def format_context_with_topics(results: List[Tuple]) -> str:
