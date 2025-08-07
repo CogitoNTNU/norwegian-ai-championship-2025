@@ -53,7 +53,7 @@ def predict_endpoint(request: MedicalStatementRequestDto):
     logger.info(f"Received statement: {request.statement[:100]}...")
 
     # Call the fact checker
-    result = check_fact(request.statement, 5)
+    result = check_fact(request.statement, 6)
 
     # Map verdict to binary
     if result["verdict"].upper() == "TRUE":
@@ -68,7 +68,7 @@ def predict_endpoint(request: MedicalStatementRequestDto):
     topic_name = result.get("topic", "")
     with open("data/topics.json", "r") as f:
         topic_map = json.load(f)
-    statement_topic = topic_map.get(topic_name, 40)  # or -1 if unknown
+    statement_topic = topic_map.get(topic_name, 40)
 
     logger.info(f"Returning prediction: true={statement_is_true}, topic={statement_topic}")
 

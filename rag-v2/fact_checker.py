@@ -1,9 +1,11 @@
 from langchain_chroma import Chroma
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import PromptTemplate
+from loguru import logger
 from embeddings import get_embeddings_func
 from get_config import config
 import json
+import re
 from typing import Dict, List, Tuple
 import argparse
 
@@ -17,8 +19,9 @@ CRITICAL RULES:
 4. Consider a statement TRUE only if ALL parts are supported by the context
 5. Consider a statement FALSE if ANY part contradicts the context
 6. Identify the medical topic from the context metadata
-7. If you are unsure, give the most likely of TRUE or FALSE as an answer
+7. If you are extremely unsure, give TRUE as an answer
 8. Always give a topic as an answer no matter what
+9. Always choose the topic where the fact resides, not neccesarily the topic that is intuitively correct.
 
 Context chunks with their topics:
 {context}
@@ -43,9 +46,9 @@ def format_context_with_topics(results: List[Tuple]) -> str:
         topic = doc.metadata.get("topic", "unknown")
         
         formatted_chunk = f"""
-[Topic: {topic}]:
+Topic: {topic}:
 {doc.page_content}
----"""
+"""
         formatted_chunks.append(formatted_chunk)
     
     return "\n".join(formatted_chunks)
@@ -81,6 +84,7 @@ def check_fact(statement: str, k: int = 5, model_name: str = "cogito:32b") -> Di
     
     # Format context with topics
     context = format_context_with_topics(results)
+    logger.debug(context)
     
     # Initialize Ollama LLM
     llm = OllamaLLM(
@@ -105,9 +109,9 @@ def check_fact(statement: str, k: int = 5, model_name: str = "cogito:32b") -> Di
         # Extract JSON from response
         # Ollama might return the JSON wrapped in other text, so we try to extract it
         response_text = response if isinstance(response, str) else str(response)
+        logger.debug(f"Response from llm:\n\n{response_text}")
         
         # Try to find JSON in the response
-        import re
         json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
         if json_match:
             json_str = json_match.group()
@@ -157,6 +161,8 @@ def check_multiple_facts(statements: List[str], k: int = 5, model_name: str = "c
     """
     results = []
     for i, statement in enumerate(statements, 1):
+        if i < 6:
+            continue
         print(f"\nChecking statement {i}/{len(statements)}: {statement[:100]}...")
         result = check_fact(statement, k, model_name)
         result["statement"] = statement
@@ -190,13 +196,11 @@ def print_detailed_results(results: List[Dict]):
     total = len(results)
     true_count = sum(1 for r in results if r['verdict'] == 'TRUE')
     false_count = sum(1 for r in results if r['verdict'] == 'FALSE')
-    unverifiable_count = sum(1 for r in results if r['verdict'] == 'UNVERIFIABLE')
     
     print(f"\nSUMMARY:")
     print(f"  Total statements: {total}")
     print(f"  TRUE: {true_count} ({100*true_count/total:.1f}%)")
     print(f"  FALSE: {false_count} ({100*false_count/total:.1f}%)")
-    print(f"  UNVERIFIABLE: {unverifiable_count} ({100*unverifiable_count/total:.1f}%)")
 
 
 def export_results_to_json(results: List[Dict], filename: str = "fact_check_results.json"):

@@ -8,6 +8,7 @@ from collections import defaultdict
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from loguru import logger
 
 # Import the fact checker
 from fact_checker import check_fact
@@ -20,7 +21,7 @@ class DatasetTester:
                  statements_dir: str = "data/train/statements",
                  answers_dir: str = "data/train/answers",
                  topics_file: str = "data/topics.json",
-                 k: int = 5,
+                 k: int = 20,
                  model_name: str = "cogito:32b"):
         """
         Initialize the dataset tester.
@@ -113,12 +114,15 @@ class DatasetTester:
             result = check_fact(sample["statement"], k=self.k, model_name=self.model_name)
             
             # Map verdict to boolean (TRUE -> True, FALSE -> False, UNVERIFIABLE -> None)
-            if result["verdict"] == "TRUE":
+            if result["verdict"].upper() == "TRUE":
                 predicted = True
-            elif result["verdict"] == "FALSE":
+            elif result["verdict"].upper() == "FALSE":
                 predicted = False
             else:
-                predicted = None
+                predicted = True
+
+            logger.debug(f"ground truth correctness: {sample['ground_truth']}")
+            logger.debug(f"ground truth topic: {sample['ground_truth_topic']}")
             
             # Compare with ground truth
             if predicted is None:
@@ -286,10 +290,7 @@ class DatasetTester:
         topic_accuracy = topic_matches / total if total > 0 else 0
 
         # Combined correctness: both verdict and topic are correct
-        combined_correct = sum(
-            1 for r in valid_results if r["is_correct"] and r["topic_match"]
-        )
-        combined_accuracy = combined_correct / len(valid_results) if valid_results else 0
+        combined_accuracy = float((topic_accuracy + accuracy) / 2)
         
         # Confidence distribution
         confidence_dist = defaultdict(int)
@@ -354,11 +355,13 @@ class DatasetTester:
         print(f"   Errors: {metrics['errors']} ({100*metrics['errors']/metrics['total_samples']:.1f}%)")
         
         print(f"\n📈 CLASSIFICATION METRICS")
-        print(f"   Accuracy: {metrics['accuracy']:.3f}")
         print(f"   Precision: {metrics['precision']:.3f}")
         print(f"   Recall: {metrics['recall']:.3f}")
         print(f"   F1 Score: {metrics['f1_score']:.3f}")
-        print(f"   Topic Accuracy: {metrics['topic_accuracy']:.3f}")
+        print()
+        print(f"   Currectness Accuracy: {metrics['accuracy']['accuracy']:.3f}")
+        print(f"   Topic Accuracy: {metrics['accuracy']['topic_accuracy']:.3f}")
+        print(f"   Combined Accuracy: {metrics['accuracy']['combined_accuracy']:.3f}")
         
         print(f"\n🎯 CONFUSION MATRIX")
         cm = metrics['confusion_matrix']
@@ -482,7 +485,7 @@ def main():
     
     parser = argparse.ArgumentParser(description="Test fact checker on labeled dataset")
     parser.add_argument("--max-samples", type=int, help="Maximum number of samples to test")
-    parser.add_argument("--k", type=int, default=5, help="Number of chunks to retrieve")
+    parser.add_argument("--k", type=int, default=4, help="Number of chunks to retrieve")
     parser.add_argument("--model", default="cogito:32b", help="Ollama model to use (default: cogito:8b)")
     parser.add_argument("--save", action="store_true", help="Save results to files")
     parser.add_argument("--plot", action="store_true", help="Generate visualization plots")
