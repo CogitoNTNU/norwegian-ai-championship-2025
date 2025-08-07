@@ -10,7 +10,7 @@ class Config:
     chunk_size: int
     chunk_overlap: int
     k: int
-    model_name: str
+    model_names: List[str]
     
     # Processing settings
     plot_results: bool

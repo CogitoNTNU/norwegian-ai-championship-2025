@@ -56,12 +56,13 @@ def format_context_with_topics(results: List[Tuple]) -> str:
     return "\n".join(formatted_chunks)
 
 
-def check_fact(statement: str) -> Dict:
+def check_fact(statement: str, model_name: str = None) -> Dict:
     """
     Check if a medical statement is true or false based on the knowledge base.
     
     Args:
         statement: The medical statement to verify
+        model_name: Optional model name to use (defaults to config.model_names[0])
     
     Returns:
         Dictionary with verdict, topic, evidence, and confidence
@@ -86,8 +87,9 @@ def check_fact(statement: str) -> Dict:
     context = format_context_with_topics(results)
     
     # Initialize Ollama LLM
+    model_to_use = model_name or config.model_names[0]
     llm = OllamaLLM(
-        model=config.model_name,
+        model=model_to_use,
         temperature=0,
         base_url="http://localhost:11434"  # Default Ollama URL, adjust if needed
     )

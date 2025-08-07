@@ -82,7 +82,7 @@ class DatasetTester:
 
         return dataset
 
-    def test_single_statement(self, sample: Dict) -> Dict:
+    def test_single_statement(self, sample: Dict, model_name: str = None) -> Dict:
         """
         Test a single statement and compare with ground truth.
 
@@ -99,7 +99,7 @@ class DatasetTester:
             debug_context = self.get_debug_context(sample["statement"])
 
             # Get prediction from fact checker
-            result = check_fact(sample["statement"])
+            result = check_fact(sample["statement"], model_name)
 
             # Map verdict to boolean (TRUE -> True, FALSE -> False, UNVERIFIABLE -> None)
             if result["verdict"] == "TRUE":
@@ -329,7 +329,7 @@ class DatasetTester:
 
         logger.info(f"Wrong prediction debug info saved: {filepath}")
 
-    def run_test(self) -> Dict:
+    def run_test(self, model_name: str = None) -> Dict:
         """
         Run the test on the entire dataset.
 
@@ -359,14 +359,15 @@ class DatasetTester:
         else:
             logger.info(f"Testing all {len(dataset)} samples")
 
-        logger.info(f"Using k={config.k} chunks, model={config.model_name}")
+        current_model = model_name or config.model_names[0]
+        logger.info(f"Using k={config.k} chunks, model={current_model}")
         logger.info("-" * 60)
 
         # Test each statement
         for i, sample in enumerate(dataset, 1):
             logger.info(f"Testing {i}/{len(dataset)}: {sample['id']}")
 
-            result = self.test_single_statement(sample)
+            result = self.test_single_statement(sample, current_model)
             self.results.append(result)
 
             if result["error"]:
@@ -384,10 +385,11 @@ class DatasetTester:
         metrics = self.calculate_metrics()
 
         # Always create plots and save results
+        model_dir = f"test_results/{current_model.replace(':', '_')}"
         if config.plot_results:
-            self.plot_results()
+            self.plot_results(current_model, model_dir)
         if config.save_results:
-            self.save_results()
+            self.save_results(model_dir)
 
         return metrics
 
@@ -564,7 +566,7 @@ class DatasetTester:
         if errors:
             logger.info(f"   - Errors: {errors_file.name}")
 
-    def plot_results(self):
+    def plot_results(self, model_name: str = None, output_dir: str = "test_results"):
         """
         Create visualization plots of the results.
         """
@@ -668,7 +670,8 @@ class DatasetTester:
         plt.tight_layout()
 
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        save_path = f"test_results/performance_plot_{timestamp}.png"
+        model_suffix = f"_{model_name.replace(':', '_')}" if model_name else ""
+        save_path = f"{output_dir}/performance_plot{model_suffix}_{timestamp}.png"
         os.makedirs(os.path.dirname(save_path), exist_ok=True)
         plt.savefig(save_path, dpi=300, bbox_inches="tight")
         logger.info(f"Plot saved to {save_path}")
@@ -677,22 +680,30 @@ class DatasetTester:
 
 def main():
     """Main function using config parameters."""
-    # Initialize tester with config parameters
-    tester = DatasetTester()
-
-    # Run test
     logger.info("Starting Medical Fact Checker Evaluation")
-    logger.info(f"   Model: {config.model_name}")
+    logger.info(f"   Models to test: {config.model_names}")
     logger.info(f"   Chunks per query: {config.k}")
-    logger.info("-" * 60)
+    logger.info("=" * 80)
 
-    metrics = tester.run_test()
+    for i, model_name in enumerate(config.model_names, 1):
+        logger.info(f"\n[{i}/{len(config.model_names)}] Testing model: {model_name}")
+        logger.info("-" * 60)
+        
+        # Initialize fresh tester for each model
+        tester = DatasetTester()
+        
+        # Run test for this model
+        metrics = tester.run_test(model_name)
 
-    # Print report
-    if metrics:
-        tester.print_report(metrics)
+        # Print report
+        if metrics:
+            logger.info(f"\nResults for {model_name}:")
+            tester.print_report(metrics)
+        
+        logger.info(f"Completed testing {model_name}")
+        logger.info("=" * 80)
 
-    # Results and plots are automatically saved due to config settings
+    logger.info(f"\nCompleted testing all {len(config.model_names)} models!")
 
 
 if __name__ == "__main__":
