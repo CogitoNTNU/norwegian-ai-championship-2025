@@ -6,8 +6,8 @@ reset_db: false
 
 k: 5
 model_names:
-  - "cogito:32b"
   #- "magistral:24b"
+  - "cogito:32b"
 plot_results: true
 save_results: true
 export_file: "fact_check_results.json"
@@ -18,5 +18,5 @@ wait_for_validation: false
 validation_timeout: 300
 
 # Statement range for testing (None to test all)
-from_statement: 180
-to_statement: 185
+from_statement: null
+to_statement: null

@@ -95,34 +95,33 @@ class DatasetTester:
         start_time = time.time()
 
         try:
+            logger.debug(f"Ground truth sample: {sample}")
             # Get debug context (what LLM actually sees)
             debug_context = self.get_debug_context(sample["statement"])
 
             # Get prediction from fact checker
             result = check_fact(sample["statement"], model_name)
+            logger.debug(f"Result from check_fact {result}")
 
             # Map verdict to boolean (TRUE -> True, FALSE -> False, UNVERIFIABLE -> None)
             verdict = result.get("verdict", "TRUE")  # Default to TRUE if missing
             if verdict == "TRUE":
-                predicted = True
+                verdict_predicted = True
             elif verdict == "FALSE":
-                predicted = False
+                verdict_predicted = False
             else:
-                predicted = True
+                verdict_predicted = True
+            logger.debug(f"Verdict predicted: {verdict_predicted}")
 
             # Compare with ground truth
-            prediction_type = "UNVERIFIABLE"  # Default for None/unverifiable predictions
-            if predicted is None:
-                is_correct = None  # Can't evaluate unverifiable
+            is_correct = verdict_predicted == sample["ground_truth"]
+            if is_correct:
+                prediction_type = "CORRECT"
             else:
-                is_correct = predicted == sample["ground_truth"]
-                if is_correct:
-                    prediction_type = "CORRECT"
+                if sample["ground_truth"]:
+                    prediction_type = "FALSE_NEGATIVE"  # Said FALSE but was TRUE
                 else:
-                    if sample["ground_truth"]:
-                        prediction_type = "FALSE_NEGATIVE"  # Said FALSE but was TRUE
-                    else:
-                        prediction_type = "FALSE_POSITIVE"  # Said TRUE but was FALSE
+                    prediction_type = "FALSE_POSITIVE"  # Said TRUE but was FALSE
 
             # Check topic match
             predicted_topic = result.get("topic", "unknown")
@@ -141,7 +140,7 @@ class DatasetTester:
                 else sample["statement"],
                 "ground_truth": sample["ground_truth"],
                 "ground_truth_topic": sample["ground_truth_topic"],
-                "predicted": predicted,
+                "predicted": verdict_predicted,
                 "predicted_verdict": verdict,
                 "original_verdict": result.get("original_verdict", verdict),
                 "predicted_topic": predicted_topic,
@@ -158,7 +157,7 @@ class DatasetTester:
             if is_correct is not None and not is_correct:
                 # Add full statement to result for debugging
                 debug_result = test_result.copy()
-                debug_result["predicted"] = predicted
+                debug_result["predicted"] = verdict_predicted
                 debug_result["topic_match"] = topic_match
                 debug_result["raw_result"] = result  # Pass the raw result for debug
                 self.save_wrong_prediction_debug(sample, debug_result, debug_context)
@@ -315,7 +314,6 @@ class DatasetTester:
             },
             # Model configuration
             "model_config": {
-                "model_name": config.model_name,
                 "k_chunks": config.k,
                 "chunk_size": config.chunk_size,
                 "chunk_overlap": config.chunk_overlap,
@@ -379,26 +377,25 @@ class DatasetTester:
 
             if result["error"]:
                 logger.error(f"ERROR: {result['error']}")
-            else:
-                correct_str = "✓ CORRECT" if result["is_correct"] else "✗ WRONG"
-                topic_str = (
-                    "✓ TOPIC MATCH" if result["topic_match"] else "✗ TOPIC MISMATCH"
-                )
+            correct_str = "✓ CORRECT" if result["is_correct"] else "✗ WRONG"
+            topic_str = (
+                "✓ TOPIC MATCH" if result["topic_match"] else "✗ TOPIC MISMATCH"
+            )
+            
+            # Calculate running combined accuracy
+            valid_results = [r for r in self.results if r["is_correct"] is not None]
+            if valid_results:
+                correctness_acc = sum(1 for r in valid_results if r["is_correct"]) / len(valid_results)
+                topic_acc = sum(1 for r in self.results if r["topic_match"]) / len(self.results)
+                combined_acc = (correctness_acc + topic_acc) / 2
                 
-                # Calculate running combined accuracy
-                valid_results = [r for r in self.results if r["is_correct"] is not None]
-                if valid_results:
-                    correctness_acc = sum(1 for r in valid_results if r["is_correct"]) / len(valid_results)
-                    topic_acc = sum(1 for r in self.results if r["topic_match"]) / len(self.results)
-                    combined_acc = (correctness_acc + topic_acc) / 2
-                    
-                    logger.info(
-                        f"{correct_str} ({result['predicted_verdict']}), {topic_str} | Combined Accuracy: {combined_acc:.3f}"
-                    )
-                else:
-                    logger.info(
-                        f"{correct_str} ({result['predicted_verdict']}), {topic_str}"
-                    )
+                logger.info(
+                    f"{correct_str} ({result['predicted_verdict']}), {topic_str} | Combined Accuracy: {combined_acc:.3f}"
+                )
+            else:
+                logger.info(
+                    f"{correct_str} ({result['predicted_verdict']}), {topic_str}"
+                )
 
         # Calculate metrics
         metrics = self.calculate_metrics()
@@ -483,7 +480,7 @@ class DatasetTester:
             "incorrect_predictions": incorrect,
             "errors": errors,
             "accuracy": {
-                "accuracy": accuracy,
+                "verdict_accuracy": accuracy,
                 "topic_accuracy": topic_accuracy,
                 "combined_accuracy": combined_accuracy,
             },
@@ -528,7 +525,7 @@ class DatasetTester:
         )
 
         logger.info(f"\nCLASSIFICATION METRICS")
-        logger.info(f"   Accuracy: {metrics['accuracy']['accuracy']:.3f}")
+        logger.info(f"   Accuracy: {metrics['accuracy']['verdict_accuracy']:.3f}")
         logger.info(f"   Precision: {metrics['precision']:.3f}")
         logger.info(f"   Recall: {metrics['recall']:.3f}")
         logger.info(f"   F1 Score: {metrics['f1_score']:.3f}")
@@ -633,7 +630,7 @@ class DatasetTester:
 
         # 3. Performance Metrics Bar Chart
         metrics_data = {
-            "Accuracy": metrics["accuracy"]["accuracy"],
+            "Accuracy": metrics["accuracy"]["verdict_accuracy"],
             "Precision": metrics["precision"],
             "Recall": metrics["recall"],
             "F1 Score": metrics["f1_score"],

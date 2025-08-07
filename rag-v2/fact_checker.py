@@ -95,7 +95,7 @@ def check_fact(statement: str, model_name: str = None) -> Dict:
     context = format_context_with_topics(results)
 
     # Initialize Ollama LLM
-    model_to_use = model_name or config.model_names[0]
+    model_to_use = model_name
     llm = OllamaLLM(
         model=model_to_use,
         temperature=0,
