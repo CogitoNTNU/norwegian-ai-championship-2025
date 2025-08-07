@@ -230,7 +230,7 @@ def run_template_worker(
     Runs one template over all questions inside a separate process.
     Returns (template_name, results_list)
     """
-    llm_client = LocalLLMClient(model_name="cogito:8b")
+    llm_client = LocalLLMClient(model_name="cogito:32b")
     llm_client.ensure_model_available()
     template = template_cls(llm_client=llm_client)
 
@@ -304,6 +304,7 @@ def run_ragas_worker(template_name: str, results: list[dict], ragas_metrics):
 
 
 def main():
+    
     print("Loading testset...")
     script_dir = os.path.dirname(__file__)
     project_root = os.path.abspath(os.path.join(script_dir, "..", ".."))
@@ -568,6 +569,8 @@ def main():
 
     summary_data = aggregate_results()
     create_comparison_charts(summary_data)
+
+    print()
 
     print("\nEvaluation completed successfully!")
 
