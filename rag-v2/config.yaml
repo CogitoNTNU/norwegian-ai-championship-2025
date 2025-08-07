@@ -1,3 +1,16 @@
+# ChromaDB settings
 chroma_path: "chroma"
 chunk_size: 800
 chunk_overlap: 80
+reset_db: false
+
+k: 5
+model_name: "cogito:32b"
+plot_results: true
+save_results: true
+export_file: "fact_check_results.json"
+statements_dir: "data/train/statements"
+answers_dir: "data/train/answers"
+topics_file: "data/topics.json"
+wait_for_validation: false
+validation_timeout: 300

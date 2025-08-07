@@ -8,35 +8,22 @@ from collections import defaultdict
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from loguru import logger
 
-# Import the fact checker
 from fact_checker import check_fact
+from get_config import config
 
 
 class DatasetTester:
     """Test the fact checker against labeled dataset."""
     
-    def __init__(self, 
-                 statements_dir: str = "data/train/statements",
-                 answers_dir: str = "data/train/answers",
-                 topics_file: str = "data/topics.json",
-                 k: int = 5,
-                 model_name: str = "cogito:32b"):
+    def __init__(self):
         """
-        Initialize the dataset tester.
-        
-        Args:
-            statements_dir: Directory containing statement txt files
-            answers_dir: Directory containing answer json files
-            topics_file: JSON file with topic mappings
-            k: Number of chunks to retrieve
-            model_name: Ollama model to use for fact checking (default: cogito:8b)
+        Initialize the dataset tester using config.
         """
-        self.statements_dir = Path(statements_dir)
-        self.answers_dir = Path(answers_dir)
-        self.topics_file = Path(topics_file)
-        self.k = k
-        self.model_name = model_name
+        self.statements_dir = Path(config.statements_dir)
+        self.answers_dir = Path(config.answers_dir)
+        self.topics_file = Path(config.topics_file)
         
         # Load topics mapping
         with open(self.topics_file, 'r') as f:
@@ -47,12 +34,9 @@ class DatasetTester:
         self.results = []
         self.errors = []
         
-    def load_dataset(self, max_samples: Optional[int] = None) -> List[Dict]:
+    def load_dataset(self) -> List[Dict]:
         """
         Load the dataset of statements and their ground truth labels.
-        
-        Args:
-            max_samples: Maximum number of samples to load (None for all)
             
         Returns:
             List of dictionaries with statement, truth value, and topic
@@ -61,9 +45,6 @@ class DatasetTester:
         
         # Get all statement files
         statement_files = sorted(self.statements_dir.glob("statement_*.txt"))
-        
-        if max_samples:
-            statement_files = statement_files[:max_samples]
         
         for stmt_file in statement_files:
             # Extract the ID from filename
@@ -76,7 +57,7 @@ class DatasetTester:
             # Load corresponding answer
             answer_file = self.answers_dir / f"{file_id}.json"
             if not answer_file.exists():
-                print(f"Warning: No answer file for {file_id}")
+                logger.warning(f"No answer file for {file_id}")
                 continue
                 
             with open(answer_file, 'r') as f:
@@ -110,7 +91,7 @@ class DatasetTester:
         
         try:
             # Get prediction from fact checker
-            result = check_fact(sample["statement"], k=self.k, model_name=self.model_name)
+            result = check_fact(sample["statement"])
             
             # Map verdict to boolean (TRUE -> True, FALSE -> False, UNVERIFIABLE -> None)
             if result["verdict"] == "TRUE":
@@ -138,7 +119,7 @@ class DatasetTester:
             topic_match = self.check_topic_match(predicted_topic, sample["ground_truth_topic"])
             
             elapsed_time = time.time() - start_time
-            print(f"Used {elapsed_time}")
+            logger.info(f"Processing time: {elapsed_time:.2f}s")
             
             return {
                 "id": sample["id"],
@@ -147,12 +128,11 @@ class DatasetTester:
                 "ground_truth_topic": sample["ground_truth_topic"],
                 "predicted": predicted,
                 "predicted_verdict": result["verdict"],
+                "original_verdict": result.get("original_verdict", result["verdict"]),
                 "predicted_topic": predicted_topic,
-                "confidence": result.get("confidence", "UNKNOWN"),
                 "is_correct": is_correct,
                 "prediction_type": prediction_type,
                 "topic_match": topic_match,
-                "evidence": result.get("evidence", "")[:100],
                 "chunks_retrieved": result.get("chunks_retrieved", 0),
                 "avg_relevance": result.get("avg_relevance_score", 0),
                 "time_seconds": elapsed_time,
@@ -169,11 +149,9 @@ class DatasetTester:
                 "predicted": None,
                 "predicted_verdict": "ERROR",
                 "predicted_topic": None,
-                "confidence": None,
                 "is_correct": None,
                 "prediction_type": "ERROR",
                 "topic_match": False,
-                "evidence": None,
                 "chunks_retrieved": 0,
                 "avg_relevance": 0,
                 "time_seconds": elapsed_time,
@@ -205,49 +183,47 @@ class DatasetTester:
         
         return False
     
-    def run_test(self, max_samples: Optional[int] = None, verbose: bool = True) -> Dict:
+    def run_test(self) -> Dict:
         """
         Run the test on the entire dataset.
-        
-        Args:
-            max_samples: Maximum number of samples to test
-            verbose: Whether to print progress
             
         Returns:
             Dictionary with test results and metrics
         """
         # Load dataset
-        if verbose:
-            print(f"Loading dataset from {self.statements_dir}")
-        dataset = self.load_dataset(max_samples)
+        logger.info(f"Loading dataset from {self.statements_dir}")
+        dataset = self.load_dataset()
         
         if not dataset:
-            print("No data found!")
+            logger.error("No data found!")
             return {}
         
-        if verbose:
-            print(f"Loaded {len(dataset)} samples")
-            print(f"Using k={self.k} chunks, model={self.model_name}")
-            print("-" * 60)
+        logger.info(f"Loaded {len(dataset)} samples")
+        logger.info(f"Using k={config.k} chunks, model={config.model_name}")
+        logger.info("-" * 60)
         
         # Test each statement
         for i, sample in enumerate(dataset, 1):
-            if verbose:
-                print(f"Testing {i}/{len(dataset)}: {sample['id']}", end="... ")
+            logger.info(f"Testing {i}/{len(dataset)}: {sample['id']}")
             
             result = self.test_single_statement(sample)
             self.results.append(result)
             
-            if verbose:
-                if result["error"]:
-                    print(f"ERROR: {result['error']}")
-                else:
-                    correct_str = "✓ CORRECT" if result["is_correct"] else "✗ WRONG"
-                    topic_str = "✓ TOPIC MATCH" if result["topic_match"] else "✗ TOPIC MISMATCH"
-                    print(f"{correct_str} ({result['predicted_verdict']}), {topic_str}")
+            if result["error"]:
+                logger.error(f"ERROR: {result['error']}")
+            else:
+                correct_str = "✓ CORRECT" if result["is_correct"] else "✗ WRONG"
+                topic_str = "✓ TOPIC MATCH" if result["topic_match"] else "✗ TOPIC MISMATCH"
+                logger.info(f"{correct_str} ({result['predicted_verdict']}), {topic_str}")
         
         # Calculate metrics
         metrics = self.calculate_metrics()
+        
+        # Always create plots and save results
+        if config.plot_results:
+            self.plot_results()
+        if config.save_results:
+            self.save_results()
         
         return metrics
     
@@ -291,25 +267,10 @@ class DatasetTester:
         )
         combined_accuracy = combined_correct / len(valid_results) if valid_results else 0
         
-        # Confidence distribution
-        confidence_dist = defaultdict(int)
-        for r in self.results:
-            if r["confidence"]:
-                confidence_dist[r["confidence"]] += 1
         
         # Average processing time
         avg_time = np.mean([r["time_seconds"] for r in self.results])
         
-        # Performance by confidence level
-        perf_by_confidence = {}
-        for conf in ["HIGH", "MEDIUM", "LOW"]:
-            conf_results = [r for r in valid_results if r["confidence"] == conf]
-            if conf_results:
-                conf_correct = sum(1 for r in conf_results if r["is_correct"])
-                perf_by_confidence[conf] = {
-                    "accuracy": conf_correct / len(conf_results),
-                    "count": len(conf_results)
-                }
         
         metrics = {
             "total_samples": total,
@@ -330,8 +291,6 @@ class DatasetTester:
                 "false_positives": false_positives,
                 "false_negatives": false_negatives
             },
-            "confidence_distribution": dict(confidence_dist),
-            "performance_by_confidence": perf_by_confidence,
             "avg_processing_time": avg_time,
             "avg_chunks_retrieved": np.mean([r["chunks_retrieved"] for r in self.results]),
             "avg_relevance_score": np.mean([r["avg_relevance"] for r in self.results if r["avg_relevance"] > 0]),
@@ -341,44 +300,38 @@ class DatasetTester:
     
     def print_report(self, metrics: Dict):
         """
-        Print a formatted report of test results.
+        Print a formatted report of test results using loguru.
         """
-        print("\n" + "="*70)
-        print("FACT CHECKER PERFORMANCE REPORT")
-        print("="*70)
+        logger.info("\n" + "="*70)
+        logger.info("FACT CHECKER PERFORMANCE REPORT")
+        logger.info("="*70)
         
-        print(f"\n📊 OVERALL PERFORMANCE")
-        print(f"   Total Samples: {metrics['total_samples']}")
-        print(f"   Correct: {metrics['correct_predictions']} ({100*metrics['correct_predictions']/metrics['total_samples']:.1f}%)")
-        print(f"   Incorrect: {metrics['incorrect_predictions']} ({100*metrics['incorrect_predictions']/metrics['total_samples']:.1f}%)")
-        print(f"   Errors: {metrics['errors']} ({100*metrics['errors']/metrics['total_samples']:.1f}%)")
+        logger.info(f"\nOVERALL PERFORMANCE")
+        logger.info(f"   Total Samples: {metrics['total_samples']}")
+        logger.info(f"   Correct: {metrics['correct_predictions']} ({100*metrics['correct_predictions']/metrics['total_samples']:.1f}%)")
+        logger.info(f"   Incorrect: {metrics['incorrect_predictions']} ({100*metrics['incorrect_predictions']/metrics['total_samples']:.1f}%)")
+        logger.info(f"   Errors: {metrics['errors']} ({100*metrics['errors']/metrics['total_samples']:.1f}%)")
         
-        print(f"\n📈 CLASSIFICATION METRICS")
-        print(f"   Accuracy: {metrics['accuracy']:.3f}")
-        print(f"   Precision: {metrics['precision']:.3f}")
-        print(f"   Recall: {metrics['recall']:.3f}")
-        print(f"   F1 Score: {metrics['f1_score']:.3f}")
-        print(f"   Topic Accuracy: {metrics['topic_accuracy']:.3f}")
+        logger.info(f"\nCLASSIFICATION METRICS")
+        logger.info(f"   Accuracy: {metrics['accuracy']['accuracy']:.3f}")
+        logger.info(f"   Precision: {metrics['precision']:.3f}")
+        logger.info(f"   Recall: {metrics['recall']:.3f}")
+        logger.info(f"   F1 Score: {metrics['f1_score']:.3f}")
+        logger.info(f"   Topic Accuracy: {metrics['accuracy']['topic_accuracy']:.3f}")
         
-        print(f"\n🎯 CONFUSION MATRIX")
+        logger.info(f"\nCONFUSION MATRIX")
         cm = metrics['confusion_matrix']
-        print(f"   True Positives: {cm['true_positives']}")
-        print(f"   True Negatives: {cm['true_negatives']}")
-        print(f"   False Positives: {cm['false_positives']}")
-        print(f"   False Negatives: {cm['false_negatives']}")
+        logger.info(f"   True Positives: {cm['true_positives']}")
+        logger.info(f"   True Negatives: {cm['true_negatives']}")
+        logger.info(f"   False Positives: {cm['false_positives']}")
+        logger.info(f"   False Negatives: {cm['false_negatives']}")
         
-        print(f"\n💪 PERFORMANCE BY CONFIDENCE")
-        for conf, perf in metrics['performance_by_confidence'].items():
-            print(f"   {conf}: {perf['accuracy']:.3f} accuracy ({perf['count']} samples)")
         
-        print(f"\n⚡ PROCESSING STATS")
-        print(f"   Avg Time per Query: {metrics['avg_processing_time']:.2f}s")
-        print(f"   Avg Chunks Retrieved: {metrics['avg_chunks_retrieved']:.1f}")
-        print(f"   Avg Relevance Score: {metrics['avg_relevance_score']:.3f}")
+        logger.info(f"\nPROCESSING STATS")
+        logger.info(f"   Avg Time per Query: {metrics['avg_processing_time']:.2f}s")
+        logger.info(f"   Avg Chunks Retrieved: {metrics['avg_chunks_retrieved']:.1f}")
+        logger.info(f"   Avg Relevance Score: {metrics['avg_relevance_score']:.3f}")
         
-        print(f"\n🔍 CONFIDENCE DISTRIBUTION")
-        for conf, count in metrics['confidence_distribution'].items():
-            print(f"   {conf}: {count} samples")
     
     def save_results(self, output_dir: str = "test_results"):
         """
@@ -412,20 +365,20 @@ class DatasetTester:
         csv_file = output_path / f"results_{timestamp}.csv"
         df.to_csv(csv_file, index=False)
         
-        print(f"\n📁 Results saved to {output_path}")
-        print(f"   - Detailed results: {results_file.name}")
-        print(f"   - Metrics: {metrics_file.name}")
-        print(f"   - CSV: {csv_file.name}")
+        logger.info(f"\nResults saved to {output_path}")
+        logger.info(f"   - Detailed results: {results_file.name}")
+        logger.info(f"   - Metrics: {metrics_file.name}")
+        logger.info(f"   - CSV: {csv_file.name}")
         if errors:
-            print(f"   - Errors: {errors_file.name}")
+            logger.info(f"   - Errors: {errors_file.name}")
     
-    def plot_results(self, save_path: Optional[str] = None):
+    def plot_results(self):
         """
         Create visualization plots of the results.
         """
         metrics = self.calculate_metrics()
         
-        fig, axes = plt.subplots(2, 2, figsize=(12, 10))
+        fig, axes = plt.subplots(2, 3, figsize=(18, 10))
         
         # 1. Confusion Matrix
         cm = metrics['confusion_matrix']
@@ -438,26 +391,38 @@ class DatasetTester:
                    ax=axes[0, 0])
         axes[0, 0].set_title('Confusion Matrix')
         
-        # 2. Performance Metrics Bar Chart
+        # 2. Original Verdict Distribution (before UNSURE->TRUE mapping)
+        original_verdict_counts = {}
+        for r in self.results:
+            original = r.get('original_verdict', r.get('predicted_verdict', 'UNKNOWN'))
+            original_verdict_counts[original] = original_verdict_counts.get(original, 0) + 1
+        
+        if original_verdict_counts:
+            axes[0, 1].pie(original_verdict_counts.values(), labels=original_verdict_counts.keys(), autopct='%1.1f%%')
+            axes[0, 1].set_title('Original Verdict Distribution\n(Before UNSURE→TRUE Mapping)')
+        
+        # 3. Performance Metrics Bar Chart
         metrics_data = {
-            'Accuracy': metrics['accuracy'],
+            'Accuracy': metrics['accuracy']['accuracy'],
             'Precision': metrics['precision'],
             'Recall': metrics['recall'],
             'F1 Score': metrics['f1_score'],
-            'Topic Acc': metrics['topic_accuracy']
+            'Topic Acc': metrics['accuracy']['topic_accuracy']
         }
-        axes[0, 1].bar(metrics_data.keys(), metrics_data.values(), color='skyblue')
-        axes[0, 1].set_ylim([0, 1])
-        axes[0, 1].set_title('Performance Metrics')
-        axes[0, 1].set_ylabel('Score')
+        axes[0, 2].bar(metrics_data.keys(), metrics_data.values(), color='skyblue')
+        axes[0, 2].set_ylim([0, 1])
+        axes[0, 2].set_title('Performance Metrics')
+        axes[0, 2].set_ylabel('Score')
         
-        # 3. Confidence Distribution
-        if metrics['confidence_distribution']:
-            conf_data = metrics['confidence_distribution']
-            axes[1, 0].pie(conf_data.values(), labels=conf_data.keys(), autopct='%1.1f%%')
-            axes[1, 0].set_title('Confidence Distribution')
+        # 4. Relevance Score Distribution
+        relevance_scores = [r.get('avg_relevance', 0) for r in self.results if r.get('avg_relevance', 0) > 0]
+        if relevance_scores:
+            axes[1, 0].hist(relevance_scores, bins=15, color='lightgreen', alpha=0.7)
+            axes[1, 0].set_title('Relevance Score Distribution')
+            axes[1, 0].set_xlabel('Relevance Score')
+            axes[1, 0].set_ylabel('Frequency')
         
-        # 4. Result Types Distribution
+        # 5. Result Types Distribution
         result_types = defaultdict(int)
         for r in self.results:
             result_types[r['prediction_type']] += 1
@@ -467,61 +432,45 @@ class DatasetTester:
         axes[1, 1].set_ylabel('Count')
         axes[1, 1].tick_params(axis='x', rotation=45)
         
+        # 6. UNSURE Mapping Impact
+        unsure_count = sum(1 for r in self.results if r.get('original_verdict') == 'UNSURE')
+        mapping_data = {
+            'UNSURE→TRUE': unsure_count,
+            'Direct TRUE': sum(1 for r in self.results if r.get('original_verdict') == 'TRUE'),
+            'Direct FALSE': sum(1 for r in self.results if r.get('original_verdict') == 'FALSE')
+        }
+        axes[1, 2].bar(mapping_data.keys(), mapping_data.values(), color=['orange', 'green', 'red'])
+        axes[1, 2].set_title('UNSURE Mapping Impact')
+        axes[1, 2].set_ylabel('Count')
+        axes[1, 2].tick_params(axis='x', rotation=45)
+        
         plt.tight_layout()
         
-        if save_path:
-            plt.savefig(save_path, dpi=300, bbox_inches='tight')
-            print(f"📊 Plot saved to {save_path}")
-        else:
-            plt.show()
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        save_path = f"test_results/performance_plot_{timestamp}.png"
+        plt.savefig(save_path, dpi=300, bbox_inches='tight')
+        logger.info(f"Plot saved to {save_path}")
+        plt.show()
 
 
 def main():
-    """Main function to run the dataset test."""
-    import argparse
-    
-    parser = argparse.ArgumentParser(description="Test fact checker on labeled dataset")
-    parser.add_argument("--max-samples", type=int, help="Maximum number of samples to test")
-    parser.add_argument("--k", type=int, default=5, help="Number of chunks to retrieve")
-    parser.add_argument("--model", default="cogito:32b", help="Ollama model to use (default: cogito:8b)")
-    parser.add_argument("--save", action="store_true", help="Save results to files")
-    parser.add_argument("--plot", action="store_true", help="Generate visualization plots")
-    parser.add_argument("--quiet", action="store_true", help="Minimal output")
-    
-    args = parser.parse_args()
-    
-    # Initialize tester
-    tester = DatasetTester(
-        k=args.k,
-        model_name=args.model
-    )
+    """Main function using config parameters."""
+    # Initialize tester with config parameters
+    tester = DatasetTester()
     
     # Run test
-    print(f"🚀 Starting Medical Fact Checker Evaluation")
-    print(f"   Model: {args.model}")
-    print(f"   Chunks per query: {args.k}")
-    if args.max_samples:
-        print(f"   Max samples: {args.max_samples}")
-    print("-" * 60)
+    logger.info(f"Starting Medical Fact Checker Evaluation")
+    logger.info(f"   Model: {config.model_name}")
+    logger.info(f"   Chunks per query: {config.k}")
+    logger.info("-" * 60)
     
-    metrics = tester.run_test(
-        max_samples=args.max_samples,
-        verbose=not args.quiet
-    )
+    metrics = tester.run_test()
     
     # Print report
     if metrics:
         tester.print_report(metrics)
     
-    # Save results if requested
-    if args.save:
-        tester.save_results()
-    
-    # Generate plots if requested
-    if args.plot:
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        plot_path = f"test_results/performance_plot_{timestamp}.png"
-        tester.plot_results(plot_path)
+    # Results and plots are automatically saved due to config settings
 
 
 if __name__ == "__main__":
