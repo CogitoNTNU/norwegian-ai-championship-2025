@@ -110,6 +110,7 @@ class DatasetTester:
                 predicted = None
 
             # Compare with ground truth
+            prediction_type = "UNVERIFIABLE"  # Default for None/unverifiable predictions
             if predicted is None:
                 is_correct = None  # Can't evaluate unverifiable
             else:
