@@ -709,7 +709,10 @@ def main():
         tester = DatasetTester()
 
         # Run test for this model
+        start_time = time.time()
         metrics = tester.run_test(model_name)
+        total_time = time.time() - start_time
+        logger.info(f"Total time used on model {model_name} is {total_time}")
 
         # Print report
         if metrics:
