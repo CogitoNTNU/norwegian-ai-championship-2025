@@ -1,0 +1,1 @@
+For diagnosing obstructive sleep apnea, the American Academy of Sleep Medicine suggests using the term respiratory event index (REI) to differentiate indices from home sleep studies without recorded sleep, as they use total recording time rather than total sleep time in their calculations, leading to an underestimation of at least 20% for the apnea-hypopnea index.

@@ -1,0 +1,1 @@
+Modern pulse oximeters utilize light at four separate wavelengths, enabling them to precisely differentiate between oxygenated hemoglobin, carboxyhemoglobin, and methemoglobin.

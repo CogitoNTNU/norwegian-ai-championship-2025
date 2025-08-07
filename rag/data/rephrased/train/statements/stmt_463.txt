@@ -1,0 +1,1 @@
+A score of 1 on the CHA2DS2-VASc indicates that full anticoagulation therapy is recommended, while a score of 0 suggests aspirin for stroke prevention.

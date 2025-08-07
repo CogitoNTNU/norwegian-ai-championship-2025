@@ -1,0 +1,1 @@
+Quantitative capnometry assesses end-tidal PCO2 (PETCO2), where in healthy individuals, PaCO2 usually lags behind PETCO2 by 2-3 mmHg; however, in cases of compromised gas exchange, this disparity surpasses 3 mmHg.

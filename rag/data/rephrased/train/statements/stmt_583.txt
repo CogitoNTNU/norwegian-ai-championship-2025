@@ -1,0 +1,1 @@
+Digital subtraction angiography employs an image capture rate of 5 to 7 frames per second, which is optimal for observing vascular stenosis and flow patterns.

@@ -1,0 +1,1 @@
+In order to improve the visibility of vascular constrictions and blood flow dynamics, digital subtraction angiography uses a frame acquisition speed of 5 to 7 images per second.

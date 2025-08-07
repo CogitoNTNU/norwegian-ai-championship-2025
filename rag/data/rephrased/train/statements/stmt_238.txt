@@ -1,0 +1,1 @@
+Age-adjusted D-dimer cut-offs for patients above 50 years of age are calculated using the formula: age in years × 10 ng/mL; for instance, a 75-year-old patient would have a threshold of 750 ng/mL instead of the usual 500 ng/mL.

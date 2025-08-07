@@ -1,0 +1,1 @@
+Pulse oximetry detects respiratory issues sooner than capnography in sedated patients during apnea since oxygen saturation shifts happen within 1-2 minutes, whereas CO2 waveforms stay consistent for 4-5 minutes.

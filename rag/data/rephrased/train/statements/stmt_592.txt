@@ -1,0 +1,1 @@
+A PPI-TCL difference below 115 ms during ventricular overdrive pacing in the context of supraventricular tachycardia points to an increased likelihood of atrioventricular reciprocating tachycardia (AVRT) compared to atrioventricular nodal reentrant tachycardia (AVNRT).
