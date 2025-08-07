@@ -102,9 +102,10 @@ class DatasetTester:
             result = check_fact(sample["statement"], model_name)
 
             # Map verdict to boolean (TRUE -> True, FALSE -> False, UNVERIFIABLE -> None)
-            if result["verdict"] == "TRUE":
+            verdict = result.get("verdict", "TRUE")  # Default to TRUE if missing
+            if verdict == "TRUE":
                 predicted = True
-            elif result["verdict"] == "FALSE":
+            elif verdict == "FALSE":
                 predicted = False
             else:
                 predicted = True
@@ -141,8 +142,8 @@ class DatasetTester:
                 "ground_truth": sample["ground_truth"],
                 "ground_truth_topic": sample["ground_truth_topic"],
                 "predicted": predicted,
-                "predicted_verdict": result["verdict"],
-                "original_verdict": result.get("original_verdict", result["verdict"]),
+                "predicted_verdict": verdict,
+                "original_verdict": result.get("original_verdict", verdict),
                 "predicted_topic": predicted_topic,
                 "is_correct": is_correct,
                 "prediction_type": prediction_type,
@@ -159,6 +160,7 @@ class DatasetTester:
                 debug_result = test_result.copy()
                 debug_result["predicted"] = predicted
                 debug_result["topic_match"] = topic_match
+                debug_result["raw_result"] = result  # Pass the raw result for debug
                 self.save_wrong_prediction_debug(sample, debug_result, debug_context)
 
             return test_result
@@ -292,9 +294,9 @@ class DatasetTester:
             },
             # Model predictions
             "predictions": {
-                "verdict": result["verdict"],
-                "original_verdict": result.get("original_verdict", result["verdict"]),
-                "predicted_topic": result.get("topic", "unknown"),
+                "verdict": result.get("raw_result", {}).get("verdict", result.get("predicted_verdict", "TRUE")),
+                "original_verdict": result.get("raw_result", {}).get("original_verdict", result.get("predicted_verdict", "TRUE")),
+                "predicted_topic": result.get("predicted_topic", "unknown"),
                 "predicted_boolean": result.get("predicted", None),
             },
             # Error analysis
