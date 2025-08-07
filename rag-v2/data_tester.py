@@ -110,8 +110,8 @@ class DatasetTester:
         start_time = time.time()
         
         try:
-            # Get prediction from fact checker
-            result = check_fact(sample["statement"], k=self.k, model_name=self.model_name)
+            # Get prediction from fact checker (with detailed information)
+            result = self._check_fact_with_chunks(sample["statement"], k=self.k, model_name=self.model_name)
             
             # Map verdict to boolean (TRUE -> True, FALSE -> False, UNVERIFIABLE -> None)
             if result["verdict"].upper() == "TRUE":
@@ -147,6 +147,7 @@ class DatasetTester:
             return {
                 "id": sample["id"],
                 "statement": sample["statement"][:100] + "..." if len(sample["statement"]) > 100 else sample["statement"],
+                "full_statement": sample["statement"],  # Keep full statement for error analysis
                 "ground_truth": sample["ground_truth"],
                 "ground_truth_topic": sample["ground_truth_topic"],
                 "predicted": predicted,
@@ -159,6 +160,8 @@ class DatasetTester:
                 "evidence": result.get("evidence", "")[:100],
                 "chunks_retrieved": result.get("chunks_retrieved", 0),
                 "avg_relevance": result.get("avg_relevance_score", 0),
+                "retrieved_chunks": result.get("retrieved_chunks", []),
+                "raw_llm_response": result.get("raw_llm_response", ""),
                 "time_seconds": elapsed_time,
                 "error": None
             }
@@ -168,6 +171,7 @@ class DatasetTester:
             return {
                 "id": sample["id"],
                 "statement": sample["statement"][:100],
+                "full_statement": sample["statement"],
                 "ground_truth": sample["ground_truth"],
                 "ground_truth_topic": sample["ground_truth_topic"],
                 "predicted": None,
@@ -180,6 +184,8 @@ class DatasetTester:
                 "evidence": None,
                 "chunks_retrieved": 0,
                 "avg_relevance": 0,
+                "retrieved_chunks": [],
+                "raw_llm_response": "",
                 "time_seconds": elapsed_time,
                 "error": str(e)
             }
@@ -208,6 +214,143 @@ class DatasetTester:
             return True
         
         return False
+    
+    def _check_fact_with_chunks(self, statement: str, k: int = 5, model_name: str = "cogito:32b") -> Dict:
+        """
+        Modified version of check_fact that also returns retrieved chunks for analysis.
+        """
+        from langchain_chroma import Chroma
+        from langchain_ollama import OllamaLLM
+        from langchain_core.prompts import PromptTemplate
+        from embeddings import get_embeddings_func
+        from get_config import config
+        import json
+        import re
+        
+        FACT_CHECK_PROMPT = """You are a medical fact-checking assistant. Your ONLY job is to verify if a statement is TRUE or FALSE based SOLELY on the provided context.
+
+CRITICAL RULES:
+1. You can ONLY use information from the provided context chunks
+2. NEVER use external knowledge or make assumptions
+3. Focus on factual accuracy - numbers, dates, percentages must match exactly
+4. Consider a statement TRUE only if ALL parts are supported by the context
+5. Consider a statement FALSE if ANY part contradicts the context
+6. Identify the medical topic from the context metadata
+7. If you are not given any relevant information, give TRUE as an answer
+8. Always give a topic as an answer no matter what
+9. Always choose the topic where the fact resides, not neccesarily the topic that is intuitively correct.
+
+Context chunks with their topics:
+{context}
+
+Statement to verify: {statement}
+
+Respond in this EXACT JSON format only:
+{{
+    "verdict": "TRUE/FALSE",
+    "topic": "identified medical topic from context",
+}}
+
+Remember: Use ONLY the provided context. Do not add any information not present in the context."""
+
+        # Initialize database
+        db = Chroma(
+            persist_directory=config["chroma_path"], 
+            embedding_function=get_embeddings_func()
+        )
+        
+        # Retrieve relevant chunks
+        results = db.similarity_search_with_score(statement, k=k)
+        
+        if not results:
+            return {
+                "verdict": "UNVERIFIABLE",
+                "topic": "unknown",
+                "chunks_retrieved": 0,
+                "retrieved_chunks": []
+            }
+        
+        # Format context with topics and save chunk details
+        formatted_chunks = []
+        chunk_details = []
+        
+        for i, (doc, score) in enumerate(results, 1):
+            topic = doc.metadata.get("topic", "unknown")
+            
+            formatted_chunk = f"""
+Topic: {topic}:
+{doc.page_content}
+"""
+            formatted_chunks.append(formatted_chunk)
+            
+            # Store detailed chunk information
+            chunk_details.append({
+                "rank": i,
+                "content": doc.page_content,
+                "topic": topic,
+                "relevance_score": 1 - score,  # Convert distance to similarity
+                "metadata": doc.metadata
+            })
+        
+        context = "\n".join(formatted_chunks)
+        
+        # Initialize Ollama LLM
+        llm = OllamaLLM(
+            model=model_name,
+            temperature=0,
+            base_url="http://localhost:11434"
+        )
+        
+        # Create prompt
+        prompt = PromptTemplate.from_template(FACT_CHECK_PROMPT)
+        
+        # Create chain
+        chain = prompt | llm
+        
+        # Get response
+        try:
+            response = chain.invoke({
+                "context": context,
+                "statement": statement
+            })
+            
+            response_text = response if isinstance(response, str) else str(response)
+            
+            # Try to find JSON in the response
+            json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+            if json_match:
+                json_str = json_match.group()
+                result = json.loads(json_str)
+            else:
+                result = json.loads(response_text)
+            
+            result["chunks_retrieved"] = len(results)
+            result["avg_relevance_score"] = sum(1-score for _, score in results) / len(results)
+            result["retrieved_chunks"] = chunk_details
+            result["raw_llm_response"] = response_text
+            return result
+            
+        except json.JSONDecodeError as e:
+            return {
+                "verdict": "ERROR",
+                "topic": "unknown",
+                "evidence": "Failed to parse response",
+                "confidence": "LOW",
+                "chunks_retrieved": len(results),
+                "retrieved_chunks": chunk_details,
+                "raw_llm_response": response_text if 'response_text' in locals() else str(e),
+                "error": str(e)
+            }
+        except Exception as e:
+            return {
+                "verdict": "ERROR",
+                "topic": "unknown",
+                "evidence": f"Error during processing: {str(e)}",
+                "confidence": "LOW",
+                "chunks_retrieved": len(results),
+                "retrieved_chunks": chunk_details,
+                "error": str(e)
+            }
     
     def run_test(self, max_samples: Optional[int] = None, verbose: bool = True) -> Dict:
         """
@@ -252,6 +395,9 @@ class DatasetTester:
         
         # Calculate metrics
         metrics = self.calculate_metrics()
+        
+        # Automatically save incorrect predictions after test completion
+        self.save_incorrect_predictions()
         
         return metrics
     
@@ -421,6 +567,76 @@ class DatasetTester:
         print(f"   - CSV: {csv_file.name}")
         if errors:
             print(f"   - Errors: {errors_file.name}")
+    
+    def save_incorrect_predictions(self, output_dir: str = "test_results"):
+        """
+        Save detailed information about incorrect predictions to a separate file.
+        Includes statement, ground truth, LLM response, and retrieved chunks.
+        """
+        output_path = Path(output_dir)
+        output_path.mkdir(exist_ok=True)
+        
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        
+        # Filter for incorrect predictions (both verdict and topic errors)
+        incorrect_predictions = []
+        for result in self.results:
+            # Include if either verdict is wrong OR topic is wrong (and not an error)
+            if result["error"] is None and (not result["is_correct"] or not result["topic_match"]):
+                incorrect_prediction = {
+                    "id": result["id"],
+                    "statement": result["full_statement"],
+                    "ground_truth_answer": result["ground_truth"],
+                    "ground_truth_topic": result["ground_truth_topic"],
+                    "predicted_answer": result["predicted"],
+                    "predicted_verdict": result["predicted_verdict"],
+                    "predicted_topic": result["predicted_topic"],
+                    "verdict_correct": result["is_correct"],
+                    "topic_correct": result["topic_match"],
+                    "prediction_type": result["prediction_type"],
+                    "confidence": result["confidence"],
+                    "llm_raw_response": result["raw_llm_response"],
+                    "retrieved_chunks": result["retrieved_chunks"],
+                    "chunks_retrieved_count": result["chunks_retrieved"],
+                    "avg_relevance_score": result["avg_relevance"],
+                    "processing_time_seconds": result["time_seconds"]
+                }
+                incorrect_predictions.append(incorrect_prediction)
+        
+        if incorrect_predictions:
+            # Save as JSON
+            incorrect_file = output_path / f"incorrect_predictions_{timestamp}.json"
+            with open(incorrect_file, 'w') as f:
+                json.dump(incorrect_predictions, f, indent=2)
+            
+            # Also create a more readable summary
+            summary_file = output_path / f"incorrect_predictions_summary_{timestamp}.txt"
+            with open(summary_file, 'w') as f:
+                f.write("INCORRECT PREDICTIONS ANALYSIS\n")
+                f.write("=" * 50 + "\n\n")
+                
+                for i, pred in enumerate(incorrect_predictions, 1):
+                    f.write(f"{i}. ID: {pred['id']}\n")
+                    f.write(f"   Statement: {pred['statement']}\n")
+                    f.write(f"   Ground Truth: {pred['ground_truth_answer']} ({pred['ground_truth_topic']})\n")
+                    f.write(f"   Predicted: {pred['predicted_answer']} ({pred['predicted_topic']})\n")
+                    f.write(f"   Verdict Correct: {pred['verdict_correct']}, Topic Correct: {pred['topic_correct']}\n")
+                    f.write(f"   LLM Response: {pred['llm_raw_response'][:200]}...\n")
+                    f.write(f"   Retrieved Chunks ({pred['chunks_retrieved_count']}):\n")
+                    
+                    for j, chunk in enumerate(pred['retrieved_chunks'], 1):
+                        f.write(f"      {j}. Topic: {chunk['topic']}, Relevance: {chunk['relevance_score']:.3f}\n")
+                        f.write(f"         Content: {chunk['content'][:150]}...\n")
+                    
+                    f.write("\n" + "-" * 50 + "\n\n")
+            
+            print(f"\n📝 Incorrect predictions saved:")
+            print(f"   - Detailed JSON: {incorrect_file.name}")
+            print(f"   - Summary: {summary_file.name}")
+            print(f"   - Total incorrect predictions: {len(incorrect_predictions)}")
+            
+        else:
+            print("\n✅ No incorrect predictions found!")
     
     def plot_results(self, save_path: Optional[str] = None):
         """
