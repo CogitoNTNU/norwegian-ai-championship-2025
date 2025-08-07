@@ -107,7 +107,7 @@ class DatasetTester:
             elif result["verdict"] == "FALSE":
                 predicted = False
             else:
-                predicted = None
+                predicted = True
 
             # Compare with ground truth
             prediction_type = "UNVERIFIABLE"  # Default for None/unverifiable predictions
