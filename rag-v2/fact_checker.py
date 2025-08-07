@@ -19,7 +19,7 @@ CRITICAL RULES:
 4. Consider a statement TRUE only if ALL parts are supported by the context
 5. Consider a statement FALSE if ANY part contradicts the context
 6. Identify the medical topic from the context metadata
-7. If you are not given any relevant information, give TRUE as an answer
+7. If you are UNSURE about the verdict with the given information, give TRUE as the verdict
 8. Always give a topic as an answer no matter what
 9. Always choose the topic where the fact resides, not neccesarily the topic that is intuitively correct.
 
