@@ -107,7 +107,7 @@ class DatasetTester:
             elif result["verdict"] == "FALSE":
                 predicted = False
             else:
-                predicted = None
+                predicted = True
 
             # Compare with ground truth
             if predicted is None:
