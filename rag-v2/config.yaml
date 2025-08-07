@@ -18,5 +18,5 @@ wait_for_validation: false
 validation_timeout: 300
 
 # Statement range for testing (None to test all)
-from_statement: null
-to_statement: null
+from_statement: 180
+to_statement: 185
