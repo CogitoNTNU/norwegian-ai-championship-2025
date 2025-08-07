@@ -10,8 +10,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from loguru import logger
 
-from fact_checker import check_fact
+from fact_checker import check_fact, format_context_with_topics
 from get_config import config
+from langchain_chroma import Chroma
+from embeddings import get_embeddings_func
 
 
 class DatasetTester:
@@ -92,6 +94,9 @@ class DatasetTester:
         start_time = time.time()
 
         try:
+            # Get debug context (what LLM actually sees)
+            debug_context = self.get_debug_context(sample["statement"])
+
             # Get prediction from fact checker
             result = check_fact(sample["statement"])
 
@@ -125,7 +130,8 @@ class DatasetTester:
             elapsed_time = time.time() - start_time
             logger.info(f"Processing time: {elapsed_time:.2f}s")
 
-            return {
+            # Create result dictionary first
+            test_result = {
                 "id": sample["id"],
                 "statement": sample["statement"][:100] + "..."
                 if len(sample["statement"]) > 100
@@ -144,6 +150,16 @@ class DatasetTester:
                 "time_seconds": elapsed_time,
                 "error": None,
             }
+
+            # Save debug info for wrong predictions
+            if is_correct is not None and not is_correct:
+                # Add full statement to result for debugging
+                debug_result = test_result.copy()
+                debug_result["predicted"] = predicted
+                debug_result["topic_match"] = topic_match
+                self.save_wrong_prediction_debug(sample, debug_result, debug_context)
+
+            return test_result
 
         except Exception as e:
             elapsed_time = time.time() - start_time
@@ -191,6 +207,127 @@ class DatasetTester:
 
         return False
 
+    def get_debug_context(self, statement: str) -> Dict:
+        """
+        Get the same context that the LLM sees for debugging purposes.
+
+        Args:
+            statement: The statement to check
+
+        Returns:
+            Dictionary with context chunks and formatted context
+        """
+        # Initialize database (same as in check_fact)
+        db = Chroma(
+            persist_directory=config.chroma_path,
+            embedding_function=get_embeddings_func(),
+        )
+
+        # Retrieve relevant chunks (same as in check_fact)
+        results = db.similarity_search_with_score(statement, k=config.k)
+
+        if not results:
+            return {
+                "chunks_retrieved": 0,
+                "raw_chunks": [],
+                "formatted_context": "No relevant chunks found",
+                "chunk_scores": [],
+            }
+
+        # Format context the same way as sent to LLM
+        formatted_context = format_context_with_topics(results)
+
+        # Extract raw chunk information
+        raw_chunks = []
+        chunk_scores = []
+
+        for i, (doc, score) in enumerate(results):
+            chunk_info = {
+                "chunk_index": i,
+                "content": doc.page_content,
+                "metadata": doc.metadata,
+                "similarity_score": float(1 - score),  # Convert distance to similarity
+                "topic": doc.metadata.get("topic", "unknown"),
+            }
+            raw_chunks.append(chunk_info)
+            chunk_scores.append(float(1 - score))
+
+        return {
+            "chunks_retrieved": len(results),
+            "raw_chunks": raw_chunks,
+            "formatted_context": formatted_context,
+            "chunk_scores": chunk_scores,
+            "avg_relevance_score": sum(chunk_scores) / len(chunk_scores)
+            if chunk_scores
+            else 0,
+        }
+
+    def save_wrong_prediction_debug(
+        self, sample: Dict, result: Dict, debug_context: Dict
+    ):
+        """
+        Save debug information for wrong predictions.
+
+        Args:
+            sample: Ground truth sample information
+            result: Model prediction result
+            debug_context: Context retrieved from ChromaDB
+        """
+        # Create debug directory if it doesn't exist
+        debug_dir = Path("data/wrong_pred")
+        debug_dir.mkdir(parents=True, exist_ok=True)
+
+        # Create comprehensive debug information
+        debug_info = {
+            "sample_id": sample["id"],
+            "timestamp": datetime.now().isoformat(),
+            # Statement and ground truth
+            "statement": sample["statement"],
+            "ground_truth": {
+                "is_true": sample["ground_truth"],
+                "topic_id": sample["ground_truth_topic_id"],
+                "topic_name": sample["ground_truth_topic"],
+            },
+            # Model predictions
+            "predictions": {
+                "verdict": result["verdict"],
+                "original_verdict": result.get("original_verdict", result["verdict"]),
+                "predicted_topic": result.get("topic", "unknown"),
+                "predicted_boolean": result.get("predicted", None),
+            },
+            # Error analysis
+            "error_analysis": {
+                "prediction_type": result.get("prediction_type", "UNKNOWN"),
+                "is_correct": result.get("is_correct", None),
+                "topic_match": result.get("topic_match", False),
+                "processing_time_seconds": result.get("time_seconds", 0),
+            },
+            # ChromaDB context (what the LLM actually saw)
+            "llm_context": {
+                "chunks_retrieved": debug_context["chunks_retrieved"],
+                "avg_relevance_score": debug_context["avg_relevance_score"],
+                "formatted_context_sent_to_llm": debug_context["formatted_context"],
+                "individual_chunks": debug_context["raw_chunks"],
+            },
+            # Model configuration
+            "model_config": {
+                "model_name": config.model_name,
+                "k_chunks": config.k,
+                "chunk_size": config.chunk_size,
+                "chunk_overlap": config.chunk_overlap,
+            },
+        }
+
+        # Save to file named by sample ID and timestamp
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"{sample['id']}_{timestamp}_debug.json"
+        filepath = debug_dir / filename
+
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(debug_info, f, indent=2, ensure_ascii=False)
+
+        logger.info(f"Wrong prediction debug info saved: {filepath}")
+
     def run_test(self) -> Dict:
         """
         Run the test on the entire dataset.
@@ -206,7 +343,21 @@ class DatasetTester:
             logger.error("No data found!")
             return {}
 
-        logger.info(f"Loaded {len(dataset)} samples")
+        # Apply statement range filtering if configured
+        if config.from_statement is not None or config.to_statement is not None:
+            from_idx = (config.from_statement or 1) - 1  # Convert to 0-based index
+            to_idx = config.to_statement if config.to_statement is not None else len(dataset)
+            
+            # Ensure valid range
+            from_idx = max(0, min(from_idx, len(dataset)))
+            to_idx = max(from_idx, min(to_idx, len(dataset)))
+            
+            original_size = len(dataset)
+            dataset = dataset[from_idx:to_idx]
+            logger.info(f"Filtered dataset: statements {from_idx + 1}-{to_idx} ({len(dataset)}/{original_size} samples)")
+        else:
+            logger.info(f"Testing all {len(dataset)} samples")
+
         logger.info(f"Using k={config.k} chunks, model={config.model_name}")
         logger.info("-" * 60)
 
@@ -517,6 +668,7 @@ class DatasetTester:
 
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         save_path = f"test_results/performance_plot_{timestamp}.png"
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
         plt.savefig(save_path, dpi=300, bbox_inches="tight")
         logger.info(f"Plot saved to {save_path}")
         plt.show()

@@ -28,6 +28,10 @@ class Config:
     # Validation settings
     wait_for_validation: bool
     validation_timeout: int
+    
+    # Statement range settings
+    from_statement: Optional[int]
+    to_statement: Optional[int]
 
 
 def load_config() -> Config:

@@ -14,3 +14,7 @@ answers_dir: "data/train/answers"
 topics_file: "data/topics.json"
 wait_for_validation: false
 validation_timeout: 300
+
+# Statement range for testing (None to test all)
+from_statement: null
+to_statement: null
