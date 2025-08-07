@@ -9,6 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from loguru import logger
+import os
 
 from fact_checker import check_fact, format_context_with_topics
 from get_config import config
