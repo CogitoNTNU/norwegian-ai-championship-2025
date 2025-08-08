@@ -23,13 +23,14 @@ Uses embeddings-based retrieval with FAISS vector search and local LLMs via Olla
 # Install dependencies
 uv sync
 
-# Install Ollama and pull an LLM
+ollama serve &
+
+# Pull an LLM
 ollama pull cogito:32b
 
 # Also pull the embeddings model
 ollama pull mxbai-embed-large
 
-ollama serve &
 
 uv run populate_db.py
 ```
