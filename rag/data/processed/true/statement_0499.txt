@@ -1,1 +1,0 @@
-A CK level that increases to more than 1000 IU/L indicates rhabdomyolysis, while values over 5000 IU/L indicate severe rhabdomyolysis.

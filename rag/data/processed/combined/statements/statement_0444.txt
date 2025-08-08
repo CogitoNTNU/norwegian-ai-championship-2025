@@ -1,1 +1,0 @@
-The Glasgow Coma Scale scores traumatic brain injury severity as mild (12-15), moderate (8-11), and severe (3-7).

@@ -1,1 +1,0 @@
-Hospital-acquired pneumonia is defined as pneumonia occurring 24 hours or more after hospital admission and not present at the time of admission.

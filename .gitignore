@@ -256,6 +256,14 @@ results/
 
 videos/
 
+chroma/
 
-
+test_results/
 benchmark_results/
+bm25s/
+chroma_bm25/
+wrong_pred/
+examples/
+tests/
+setup.py
+
