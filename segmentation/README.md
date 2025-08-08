@@ -12,6 +12,12 @@
    cd segmentation
    ```
 
+1. **Create .env file:**
+
+```bash
+cp .env.example .enb
+```
+
 1. **Install dependencies:**
 
    ```bash
@@ -21,53 +27,14 @@
 1. **Test the baseline model:**
 
    ```bash
-   uv run python example.py
+   uv run api.py
    ```
 
-## Validation
+1. Test the endpoint
 
-Submit your solution for validation:
-
-```bash
-# Submit for validation
-uv run validate
-
-# Check validation status
-uv run check-status <uuid>
-
-# Submit and wait for completion
-uv run validate --wait
-```
-
-## API Testing
-
-The unified API serves all tasks with auto port cleanup and hot reload:
-
-```bash
-cd ../shared
-uv sync       # Install all API dependencies
-uv run api    # Start API with auto port cleanup
-```
-
-**Features:**
-
-- ✅ **Auto port cleanup** - Kills any existing process on port 8000
-- ✅ **Hot reload** - Automatically restarts when code changes
-- ✅ **All dependencies** - Includes FastAPI, NumPy, Loguru, and more
-
-Test the tumor segmentation endpoint at `http://localhost:9051/predict`:
-
-```bash
-curl -X POST http://localhost:9051/predict \
-     -H "Content-Type: application/json" \
-     -d '{"img": "base64-encoded-image-data"}'
-```
-
-**Expected Response:**
-
-```json
-{"img": "base64-encoded-segmentation-mask"}
-```
+   ```bash
+   uv run client_test.py
+   ```
 
 ## Validation Using Pinggy Tunnel
 
@@ -78,7 +45,7 @@ To properly validate your local Tumor Segmentation server against the Norwegian 
 From your project root (e.g., `tumor-segmentation` folder), start the Tumor Segmentation API server:
 
 ```bash
-uv run api
+uv run api.py
 ```
 
 This will start the server locally at `http://localhost:9051`.
@@ -166,22 +133,22 @@ validate_segmentation
   <tr>
     <td>  <img src="../data/raw/tumor-segmentation/controls/imgs/control_050.png" width=200> </td>
     <td>  <h3>Control 50</h3> <p>Symmetric high sugar consumption around neck and esophagus, usually caused by the patient being too cold during the scan.</p></td>
-   </tr> 
+   </tr>
   <tr>
     <td>  <img src="../data/raw/tumor-segmentation/controls/imgs/control_399.png" width=200> </td>
     <td>  <h3>Control 399</h3> <p>Uniform high sugar consumption in the bones, usually caused by recent chemotherapy or other treatment.
 </p></td>
-   </tr> 
+   </tr>
     <tr>
     <td>  <img src="../data/raw/tumor-segmentation/controls/imgs/control_381.png" width=200> </td>
     <td>  <h3>Control 381</h3> <p>Slightly increased sugar consumption in the upper body muscles, usually caused by the subject forgetting to fast before the scan.
 </p></td>
-   </tr> 
+   </tr>
     <tr>
     <td>  <img src="../data/raw/tumor-segmentation/controls/imgs/control_398.png" width=200> </td>
     <td>  <h3>Control 398</h3> <p>High sugar consumption in the colon, usually caused by constipation.
 </p></td>
-   </tr> 
+   </tr>
 </table>
 
 ## Segmentation format
@@ -221,6 +188,7 @@ Your segmentations will be scored via the [Dice-Sørensen coefficient](https://e
 $$
 dice=\\frac{2 \\cdot TP }{2 \\cdot TP +FP+FN}
 $$
+
 $$
 \\begin{aligned}
 &TP:(\\text{True Positive}): &\\text{Number of correctly predicted tumor pixels}\\
@@ -233,28 +201,3 @@ See below for an example segmentation prediction and dice score.
 <p align="center">
   <img src="../images/tumor_example1.jpeg" width=800>
 </p>
-
-## Quickstart
-
-```cmd
-git clone https://github.com/amboltio/DM-i-AI-2025
-cd DM-i-AI-2024/race-car
-```
-
-Install dependencies
-
-```cmd
-pip install -r requirements.txt
-```
-
-### Serve your endpoint
-
-Serve your endpoint locally and test that everything starts without errors
-
-```cmd
-cd tumor-segmentation
-python api.py
-```
-
-Open a browser and navigate to http://localhost:9051. You should see a message stating that the endpoint is running.
-Feel free to change the `HOST` and `PORT` settings in `api.py`.
