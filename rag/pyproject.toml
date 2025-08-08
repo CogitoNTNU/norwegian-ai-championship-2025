@@ -58,6 +58,8 @@ dependencies = [
     "ragas>=0.1.0",
     "plotly>=5.0.0",
     "chromadb>=1.0.15",
+    "langchain>=0.2.5",
+    "google-generativeai>=0.8.5",
 ]
 
 [project.scripts]
@@ -76,8 +78,6 @@ build-backend = "hatchling.build"
 [dependency-groups]
 dev = [
     "pre-commit>=4.2.0",
-    "pytest>=8.4.1",
-    "ruff>=0.12.7",
 ]
 
 [tool.hatch.build.targets.wheel]

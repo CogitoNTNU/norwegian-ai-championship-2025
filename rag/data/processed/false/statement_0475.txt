@@ -1,1 +1,0 @@
-The maximum acceptable contrast dose formula is calculated as ten times body weight in kilograms divided by serum creatinine in mg/dl.

@@ -2,10 +2,10 @@ import uvicorn
 from fastapi import FastAPI
 import datetime
 import time
-from utils import validate_prediction
-from model import predict
 from loguru import logger
 from pydantic import BaseModel
+from fact_checker import check_fact  # if not already imported
+import json
 
 HOST = "0.0.0.0"
 PORT = 8000
@@ -51,20 +51,33 @@ def root():
 def predict_endpoint(request: MedicalStatementRequestDto):
     logger.info(f"Received statement: {request.statement[:100]}...")
 
-    # Get prediction from model
-    statement_is_true, statement_topic = predict(request.statement)
+    # Call the fact checker
+    result = check_fact(request.statement, "Cogito:32b")
 
-    # Validate prediction format
-    validate_prediction(statement_is_true, statement_topic)
+    # Map verdict to binary (UNSURE is already mapped to TRUE in check_fact)
+    if result["verdict"].upper() == "TRUE":
+        statement_is_true = 1
+    elif result["verdict"].upper() == "FALSE":
+        statement_is_true = 0
+    else:
+        # Fallback for any unexpected verdicts
+        logger.warning(f"Unexpected verdict: {result}")
+        statement_is_true = 1
 
-    # Return the prediction
-    response = MedicalStatementResponseDto(
-        statement_is_true=statement_is_true, statement_topic=statement_topic
-    )
+    # Get topic ID from topic name
+    topic_name = result.get("topic", "")
+    with open("data/topics.json", "r") as f:
+        topic_map = json.load(f)
+    statement_topic = topic_map.get(topic_name, 40)  # or -1 if unknown
+
     logger.info(
         f"Returning prediction: true={statement_is_true}, topic={statement_topic}"
     )
-    return response
+
+    return MedicalStatementResponseDto(
+        statement_is_true=statement_is_true,
+        statement_topic=statement_topic,
+    )
 
 
 def start_server():
