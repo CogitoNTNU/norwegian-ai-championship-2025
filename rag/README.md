@@ -1,6 +1,6 @@
 # Emergency Healthcare RAG
 
-to run:
+To run rocm:
 
 ```bash
 HSA_OVERRIDE_GFX_VERSION=11.0.0 PYTORCH_ROCM_ARCH="gfx1100" ollama serve
@@ -23,11 +23,14 @@ Uses embeddings-based retrieval with FAISS vector search and local LLMs via Olla
 # Install dependencies
 uv sync
 
-# Install Ollama and pull an LLM
+ollama serve &
+
+# Pull an LLM
 ollama pull cogito:32b
 
 # Also pull the embeddings model
 ollama pull mxbai-embed-large
+
 
 uv run populate_db.py
 ```
