@@ -1,6 +1,6 @@
 # Emergency Healthcare RAG
 
-to run:
+To run rocm:
 
 ```bash
 HSA_OVERRIDE_GFX_VERSION=11.0.0 PYTORCH_ROCM_ARCH="gfx1100" ollama serve
@@ -28,6 +28,8 @@ ollama pull cogito:32b
 
 # Also pull the embeddings model
 ollama pull mxbai-embed-large
+
+ollama serve &
 
 uv run populate_db.py
 ```
