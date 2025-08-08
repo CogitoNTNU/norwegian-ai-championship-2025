@@ -36,7 +36,7 @@ Train a model to interpret the sensor input and respond with commands for your c
 
 Pygame has been used to setup visualisation of the game locally. Initial controls using arrowkeys have been added. Change this to your own logic.
 
-To communicate with the server for validation and evaluation, use the functions found in dtos.py. You can test if these work using the *test connection* button on [cases.dmiai.dk](https://cases.dmiai.dk).
+To communicate with the server for validation and evaluation, use the functions found in dtos.py. You can test if these work using the _test connection_ button on [cases.dmiai.dk](https://cases.dmiai.dk).
 
 When the competition server needs actions, it will request them from your server. To reduce network delays, send a batch of actions (not just one) in each response.
 
@@ -85,10 +85,6 @@ The evaluation opens up on Thursday the 7th at 12:00 CET and will have a preset 
 
 1. **Navigate to the race car directory:**
 
-   ```bash
-   cd src/race-car
-   ```
-
 1. **Install dependencies:**
 
    ```bash
@@ -98,158 +94,11 @@ The evaluation opens up on Thursday the 7th at 12:00 CET and will have a preset 
 1. **Run the simulation locally:**
 
    ```bash
-   uv run python example.py
+   uv run main.py
    ```
 
-   By default the action input will use arrowkeys.
-
-## Validation
-
-Submit your solution for validation:
+1. Start the API endpoint:
 
 ```bash
-# Submit for validation
-uv run validate
-
-# Check validation status
-uv run check-status <uuid>
-
-# Submit and wait for completion
-uv run validate --wait
+uv run api.py
 ```
-
-## API Testing
-
-The unified API serves all tasks with auto port cleanup and hot reload:
-
-```bash
-cd ../shared
-uv sync       # Install all API dependencies
-uv run api    # Start API with auto port cleanup
-```
-
-**Features:**
-
-- ✅ **Auto port cleanup** - Kills any existing process on port 8000
-- ✅ **Hot reload** - Automatically restarts when code changes
-- ✅ **All dependencies** - Includes FastAPI, NumPy, Loguru, and more
-  Test the race car endpoint at `http://localhost:9052/predict`:
-
-```bash
-curl -X POST http://localhost:9052/predict \
-     -H "Content-Type: application/json" \
-     -d '{
-       "did_crash": false,
-       "elapsed_time_ms": 1000,
-       "distance": 100,
-       "velocity": {"x": 10, "y": 0},
-       "coordinates": {"x": 50, "y": 25},
-       "sensors": {"front": 100, "left": 50, "right": 60}
-     }'
-```
-
-**Expected Response:**
-
-```json
-{"actions": ["ACCELERATE"]}
-```
-
-### Alternative: pip setup
-
-Install dependencies
-
-```cmd
-pip install -r requirements.txt
-```
-
-## Validation Using Pinggy Tunnel
-
-To properly validate your local Race Car server against the Norwegian AI Championship competition server, follow these steps:
-
-### 1. Run the Server Locally
-
-From your project root (e.g., `race-car` folder), start the Race Car API server:
-
-```bash
-uv run api
-```
-
-This will start the server locally at `http://localhost:9052`.
-
-### 1.5. Monitor Server Logs
-
-To follow the server logs in real-time:
-
-```bash
-tail -f logs/api.log
-```
-
-### 2. Open a New Terminal
-
-In a separate terminal window, navigate to the project directory where you want to run validation commands.
-
-### 3. Create a Pinggy Tunnel
-
-Use SSH to expose your local port 9052 to the internet via Pinggy:
-
-```bash
-ssh -p 443 -R0:localhost:9052 free.pinggy.io
-```
-
-Replace `9052` with the port your service is listening on if different.
-
-- The tunnel will allocate a public HTTPS URL forwarding to your local service.
-- Keep this terminal open as long as the tunnel should remain active.
-
-### 4. Use the Pinggy URL For Validation
-
-Go to the Norwegian AI Championship website: [https://cases.ainm.no/](https://cases.ainm.no/)
-
-- Navigate to the task you are working on (e.g., Race Car).
-- Paste your Pinggy HTTPS URL (e.g., `https://rnxtd-....a.free.pinggy.link/predict`) as the endpoint URL.
-- Enter your competition token.
-- Submit the evaluation request.
-
-### 5. Monitor Validation Results
-
-- The remote competition server will send test queries to your exposed endpoint.
-- You can monitor logs locally and check the scoreboard.
-
-**Benefits of this method:**
-
-- Your server runs locally with all optimizations.
-- The competition server accesses your system reliably via HTTPS.
-- You avoid issues with local-only or cached API instances.
-- Validation runs smoothly and reflects your optimized model performance.
-
-## Available Actions
-
-You can send the following action responses:
-
-- NOTHING
-- ACCELERATE
-- DECELERATE
-- STEER_RIGHT
-- STEER_LEFT
-
-If you do not add an action amount, it will default to None, and one action will be added to the queue.
-
-### Run the simulation locally
-
-**With uv:**
-
-```cmd
-cd race-car
-uv run python example.py
-```
-
-**With pip:**
-
-```cmd
-cd race-car
-python example.py
-```
-
-By default the action input will use arrowkeys.
-
-**We recommend you do not change the amount of lanes or the size of the game during training.**
