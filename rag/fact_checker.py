@@ -4,9 +4,6 @@ from langchain_core.prompts import PromptTemplate
 import json
 from typing import Dict, List, Tuple
 import matplotlib.pyplot as plt
-from numpy import exp
-import seaborn as sns
-import pandas as pd
 from loguru import logger
 
 from embeddings import get_embeddings_func

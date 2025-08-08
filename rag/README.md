@@ -24,7 +24,12 @@ Uses embeddings-based retrieval with FAISS vector search and local LLMs via Olla
 uv sync
 
 # Install Ollama and pull an LLM
-ollama pull cogito:8b
+ollama pull cogito:32b
+
+# Also pull the embeddings model
+ollama pull mxbai-embed-large
+
+uv run populate_db.py
 ```
 
 ## Usage
@@ -36,25 +41,6 @@ uv run api
 ```
 
 The API will be available at `http://localhost:8000`
-
-### Command Line
-
-```bash
-# Basic usage
-uv run python run_rag.py --statement "Diabetes is a chronic metabolic disorder"
-
-# With specific models
-uv run python run_rag.py \
-    --statement "Aspirin is used to prevent blood clots" \
-    --embedding pubmedbert-base-embeddings \
-    --llm cogito:8b
-
-# Test multiple statements from training data
-uv run python test_pipeline.py --n 15 --embedding pubmedbert-base-embeddings --llm cogito:8b
-
-# Test with verbose output
-uv run python test_pipeline.py --n 5 --verbose --embedding gte-base --llm llama3.2:latest
-```
 
 ### API Endpoint
 
@@ -73,31 +59,28 @@ Response:
 }
 ```
 
+## Test local LLM with the test data
+
+```bash
+uv run data_tester.py
+```
+
 ## Available Models
 
 ### Embeddings
 
-- `pubmedbert-base-embeddings` - Medical-focused (has existing index)
-- `gte-base` - General purpose (has existing index)
-- `all-MiniLM-L6-v2` - Fast and lightweight
-- `all-mpnet-base-v2` - High quality general purpose
-- `BioLORD-2023` - Biomedical specialist
+- `mxbai-embed-large`
 
 ### LLMs (via Ollama)
 
-- `cogito:8b` - Default
+- `cogito:32b` - Default, run `ollama pull cogito:32b`
 - `cogito:14b` - Run `ollama pull cogito:14b`
-- `qwen3:8b`
-- `llama3.2:latest`
+
+Remember to use the correct LLM settings in the config file!
 
 ## Configuration
 
-Set environment variables to change default models:
-
-```bash
-export EMBEDDING_MODEL=gte-base
-export LLM_MODEL=cogito:8b
-```
+Most things can be configured in the `config.yaml` file.
 
 ## Validation
 
@@ -107,21 +90,7 @@ Submit for validation against competition server:
 uv run validate
 ```
 
-## Structure
-
-```
-rag/
-├── api.py              # FastAPI server
-├── model.py            # Core prediction function  
-├── run_rag.py          # CLI interface
-├── embeddings/         # Embedding models and managers
-├── rag-pipeline/       # RAG pipeline implementation
-├── indices/            # FAISS vector indices
-└── data/              # Medical topics and training data
-```
-
 ## Performance
 
-- Response time: ~2-5 seconds per statement
-- Memory usage: < 8GB RAM (excluding LLM)
+- Response time: ~2-5 seconds per statement with AMD rx 7900XTX
 - Completely offline - no cloud APIs

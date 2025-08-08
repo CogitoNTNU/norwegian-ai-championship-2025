@@ -1,3 +1,4 @@
+from get_config import config
 import uvicorn
 from fastapi import FastAPI
 import datetime
@@ -52,7 +53,7 @@ def predict_endpoint(request: MedicalStatementRequestDto):
     logger.info(f"Received statement: {request.statement[:100]}...")
 
     # Call the fact checker
-    result = check_fact(request.statement, "Cogito:32b")
+    result = check_fact(request.statement, config.model_names[0])
 
     # Map verdict to binary (UNSURE is already mapped to TRUE in check_fact)
     if result["verdict"].upper() == "TRUE":

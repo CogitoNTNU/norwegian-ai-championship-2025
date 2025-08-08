@@ -6,9 +6,6 @@ from pathlib import Path
 import os
 import shutil
 import re
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas as pd
 from loguru import logger
 
 from embeddings import get_embeddings_func
@@ -294,7 +291,9 @@ def load_documents():
 
                         # Only add document if it has substantial content after cleaning
                         if len(cleaned_content.strip()) < 100:
-                            logger.warning(f"Skipping {file_path.name} - insufficient content after preprocessing")
+                            logger.warning(
+                                f"Skipping {file_path.name} - insufficient content after preprocessing"
+                            )
                             continue
 
                     # Filter out empty documents
@@ -416,19 +415,19 @@ def main():
     if config.reset_db:
         logger.info("Clearing Database")
         clear_database()
-    
+
     logger.info("Starting document processing with preprocessing...")
-    
+
     # List available topics
     topics = list_topics()
-    
+
     if not topics:
         logger.warning("No topics found to process")
         return
-    
+
     # Load and process documents
     documents = load_documents()
-    
+
     if documents:
         chunks = split_documents(documents)
         logger.info(f"Total chunks created: {len(chunks)}")

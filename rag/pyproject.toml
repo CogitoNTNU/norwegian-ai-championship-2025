@@ -7,7 +7,7 @@ dependencies = [
     # API dependencies
     "fastapi>=0.104.0",
     "uvicorn[standard]>=0.24.0",
-    "pydantic==2.4.2",
+    "pydantic>=2.7.4",
     "loguru>=0.7.0",
     # Core dependencies
     "requests>=2.31.0",
@@ -44,7 +44,7 @@ dependencies = [
     "Pillow>=9.5.0",
     "anyio>=4.0.0",
     "sniffio>=1.3.0",
-    "pydantic-core==2.10.1",
+    "pydantic-core>=2.18.4",
     "python-dotenv>=1.0.0",
     "typing-inspection>=0.4.0",
     "annotated-types>=0.6.0",
@@ -57,9 +57,15 @@ dependencies = [
     "datasets>=4.0.0",
     "ragas>=0.1.0",
     "plotly>=5.0.0",
-    "chromadb>=1.0.15",
+    "chromadb>=0.4.0,<0.7.0",
     "langchain>=0.2.5",
     "google-generativeai>=0.8.5",
+    "langchain-chroma>=0.1.4",
+    "matplotlib>=3.10.5",
+    "langchain-ollama>=0.1.3",
+    "unstructured>=0.18.11",
+    "markdown>=3.8.2",
+    "seaborn>=0.13.2",
 ]
 
 [project.scripts]
