@@ -4,6 +4,7 @@ from langchain_core.prompts import PromptTemplate
 import json
 from typing import Dict, List, Tuple
 import matplotlib.pyplot as plt
+from numpy import exp
 import seaborn as sns
 import pandas as pd
 from loguru import logger
@@ -11,6 +12,7 @@ from loguru import logger
 from embeddings import get_embeddings_func
 from get_config import config
 from hybrid_search import hybrid_similarity_search_with_score
+from populate_db import expand_medical_abbreviations
 
 
 # Load topic mapping for validation
@@ -83,6 +85,8 @@ def check_fact(statement: str, model_name) -> Dict:
     Returns:
         Dictionary with verdict, topic, evidence, and confidence
     """
+    statement = expand_medical_abbreviations(statement)
+
     # Use hybrid or vector search based on configuration
     if config.use_hybrid_search:
         results = hybrid_similarity_search_with_score(
