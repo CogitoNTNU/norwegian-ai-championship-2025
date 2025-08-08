@@ -3,7 +3,7 @@ import uvicorn
 import datetime
 from fastapi import FastAPI
 from dtos import TumorPredictRequestDto, TumorPredictResponseDto
-from unet_inference import predict_tumor_segmentation
+from unet_tta_inference import predict_tumor_segmentation
 
 
 HOST = "0.0.0.0"
@@ -73,7 +73,6 @@ def start_server():
         HOST,
         "--port",
         str(PORT),
-        "--reload",
     ]
 
     print("🚀 Starting Tumor Segmentation API...")
