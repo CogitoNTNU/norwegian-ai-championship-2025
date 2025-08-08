@@ -5,9 +5,7 @@ import requests
 from PIL import Image
 
 API_URL = "http://localhost:9051/predict"
-IMG_PATH = Path(
-    "/home/svernys/Documents/cogito/norwegian-ai-championship-2025/data/raw/tumor-segmentation/patients/imgs/patient_000.png"
-)
+IMG_PATH = Path("../data/raw/tumor-segmentation/patients/imgs/patient_000.png")
 OUT_PATH = Path("patient_000_mask.png")
 
 
