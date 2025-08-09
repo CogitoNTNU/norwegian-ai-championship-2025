@@ -1,22 +1,108 @@
-# Tumor Segmentation
+# 🧠 Tumor Segmentation API
 
-**Use case**: Automated tumor detection and segmentation in medical images.
+**Use case:** Automated tumor detection and segmentation in medical images (MIP-PET scans).
 
-**Description**: This API accepts medical image data and returns a segmentation mask with classification results, supporting automated and accurate tumor detection.
+**Goal:** Provide an API that returns precise segmentation masks and classification results to support faster and more reliable tumor detection.
 
-## Quick Start
+## 🚀 What Our Best Models Achieved
 
-1. **Navigate to the segmentation directory:**
+Our top-performing solution was built from **three optimized UNet models** (`efficientnet-b3` backbone with SCSE attention) trained using cross-validation on 4 folds.
+Key highlights:
+
+- **Training setup:** Google Colab with 4-fold cross-validation and extensive image augmentations.
+- **Best folds:**
+  - `segmentation/train_unet_fold0_v471.ipynb`
+  - `segmentation/train_unet_fold2_v377.ipynb`
+  - `segmentation/train_unet_fold3_v137.ipynb`
+- **Ensembling strategy:** **Bagging + Test Time Augmentation (TTA)** to combine predictions from all three folds.
+- **Result:** Consistently **high Dice scores** on validation and test sets, achieving an average Dice score of **0.73** on the test set.
+
+![Leaderboard](docs/ts-leaderboard.png)
+
+See the [leaderboard](https://cases.ainm.no/)
+
+## 📂 Dataset Structure
+
+We used Google Colab to train our models on the Tumor Segmentation dataset. The notebooks can be retrained there by uploading them as well as the data to Google Drive. And set WANDB_API_KEY in Google Colab
+To retrain using google Colab, place the `data` folder at the root of your Google Drive with the following structure:
+
+```
+data
+├── raw
+│   ├── tumor-segmentation
+│   │   ├── controls
+│   │   │   ├── imgs
+│   │   │   └── labels
+│   │   ├── patients
+│   │   │   ├── imgs
+│   │   │   └── labels
+```
+
+One can also change the `PATIENTS_DIR` and `CONTROLS_DIR` variables in the `segmentation/train_unet_fold*.ipynb` notebooks to point to the correct location of the data. Or to run local training points to the relative path of the `data` folder.
+Then one also needs to load the WANDB_API_KEY from the env
+
+```python
+from google.colab import userdata
+
+WANDB_API_KEY = userdata.get("WANDB_API_KEY")
+```
+
+Must be changed to:
+
+```python
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+WANDB_API_KEY = os.getenv("WANDB_API_KEY")
+```
+
+## 🛠 Model Inference
+
+Our inference pipeline:
+
+1. **Load ensemble models as Singleton** from Weights & Biases artifacts.
+1. **Resize & normalize** input MIP-PET image.
+1. Apply **TTA** (identity, horizontal flip, vertical flip, HV flip).
+1. Predict per model → **average** predictions across models and augmentations.
+1. **Threshold** probability map to generate binary tumor mask.
+
+## 🧩 Training Details
+
+- **Architecture:** UNet + `efficientnet-b3` encoder + SCSE attention
+- **Augmentations:** Upsize all images, flips, brightness/contrast adjustment, Gaussian blur, noise, Salt & Pepper noise
+- **Loss:** Dice Loss
+- **Optimizer:** AdamW with Cosine Annealing LR
+- **Ensemble:** Best fold from each selected training run
+- **TTA:** Horizontal, vertical, and combined flips
+
+## 📈 Why Our Models Worked Well
+
+✅ **Cross-validation & ensembling** → reduced overfitting and improved generalization
+✅ **TTA** → made predictions more robust to spatial variance
+✅ **Strong backbone (EfficientNet-B3)** → learned rich semantic features from PET images
+✅ **Attention in decoder** → improved focus on relevant tumor regions
+✅ **Aggressive augmentations** → improved resilience to scan variability
+
+## ⚡ Quick Start
+
+To quickly set up and run the Tumor Segmentation API, follow these steps:
+
+1. **Navigate to segmentation directory:**
 
    ```bash
    cd segmentation
    ```
 
-1. **Create .env file:**
+1. **Create `.env` file:**
 
-```bash
-cp .env.example .enb
-```
+   ```bash
+   cp .env.example .env
+   ```
+
+   - `.env` specifies which models to load in the API.
+   - The provided `.env.example` is set up with our **best ensemble models**.
+   - Requires a valid **WANDB API key** to download models directly.
 
 1. **Install dependencies:**
 
@@ -24,17 +110,28 @@ cp .env.example .enb
    uv sync
    ```
 
-1. **Test the baseline model:**
+1. **Run the API locally:**
 
    ```bash
    uv run api.py
    ```
 
-1. Test the endpoint
+1. **Test with a sample request:**
 
    ```bash
    uv run client_test.py
    ```
+
+   You’ll see the segmentation result saved in the `segmentation` folder.
+
+### 📥 Downloading Models without Wandb
+
+Using git lfs one can also download the models directly from the repository:
+
+```bash
+git lfs install
+git lfs pull
+```
 
 ## Validation Using Pinggy Tunnel
 
